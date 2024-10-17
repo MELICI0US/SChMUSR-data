@@ -18,19 +18,19 @@ The subfolders in each folder are:
 
 ## Possible routes of data exploration
 
-I am particularly interested in how chatting changes among the agents as they learn.
+I am particularly interested in how chatting changes among the agents as they learn. Bolded ones are higher priority
 
 Some different ideas for dissecting the chat data:
-- Plot average number of chats sent per generation
+- **Plot average number of chats sent per generation**
 - Plot average number of chats per round, per generation (This would be a 3-dimensional graph, or a graph with a slider)
-- Plot topic of chats over generations
+- **Plot topic of chats over generations**
 - Plot topic of chats per round, per generation
 - Anything else you think of that might be interesting
 
 Some things to look at that are not chat related (all by generation)
-- Collective action
-    - How much the agents are attacking together
-    - How much they are giving in groups
+- **Collective action**
+    - **How much the agents are attacking together**
+    - **How much they are giving in groups**
 - Reciprocity - if A gives to B, does B give to A?
 - Triadic closure - if A and B have a relationship and B and C have a relationship, how often do A and C have one?
 - Structual balance - if A and B are friends and B attacks C, how often does A also attack C?
@@ -61,3 +61,5 @@ Some things to look at that are not chat related (all by generation)
 - Sending you each [amount] 
 - Yes
 - No
+
+
