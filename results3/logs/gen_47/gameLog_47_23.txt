@@ -1,0 +1,1891 @@
+ChatterBot Alpha round 1
+ChatterBot Hotel round 1
+ChatterBot Kilo round 1
+ChatterBot Echo round 1
+ChatterBot Foxtrot round 1
+ChatterBot Bravo round 1
+ChatterBot Sierra round 1
+ChatterBot Papa round 1
+ChatterBot Zulu round 1
+ChatterBot Delta round 1
+randomSelections Alpha: {Alpha, Papa, Zulu, Bravo} 
+2024-10-14 20:43:50.085517 Alpha: We should group up
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:43:50.094679 Papa: Yes
+2024-10-14 20:43:50.094853 Zulu: Yes
+2024-10-14 20:43:50.095043 Bravo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Hotel: {Hotel, Bravo, Zulu, Alpha} 
+2024-10-14 20:43:50.119784 Hotel: We should group up
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:43:50.125228 Bravo: No
+2024-10-14 20:43:50.125438 Zulu: No
+2024-10-14 20:43:50.125635 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Delta: {Delta, Foxtrot, Zulu, Kilo, Bravo, Sierra, Alpha} 
+2024-10-14 20:43:50.145287 Delta: We would work well together
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:43:50.157182 Foxtrot: Yes
+2024-10-14 20:43:50.158655 Zulu: No
+2024-10-14 20:43:50.160291 Kilo: Yes
+2024-10-14 20:43:50.160476 Bravo: No
+2024-10-14 20:43:50.160785 Sierra: Yes
+2024-10-14 20:43:50.161044 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Echo: {Echo, Zulu, Hotel, Sierra, Alpha, Papa} 
+2024-10-14 20:43:50.216114 Echo: We should group up
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:43:50.222902 Zulu: No
+2024-10-14 20:43:50.223019 Hotel: No
+2024-10-14 20:43:50.223110 Sierra: No
+2024-10-14 20:43:50.223201 Alpha: No
+2024-10-14 20:43:50.223294 Papa: No
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:43:50.376140 Bravo: Alpha, sending you 4
+2024-10-14 20:43:50.377952 Delta: Alpha, Foxtrot, Bravo and Zulu, sending you 4
+2024-10-14 20:43:50.379034 Sierra: Alpha and Zulu, sending you 1
+2024-10-14 20:43:50.380740 Hotel: Alpha, sending you 6
+2024-10-14 20:43:50.381984 Foxtrot: Alpha, sending you 4
+2024-10-14 20:43:50.383168 Papa: Alpha and Zulu, sending you 3
+2024-10-14 20:43:50.384586 Bravo: Papa, sending you 7
+2024-10-14 20:43:50.385363 Delta: Kilo, sending you 2
+2024-10-14 20:43:50.387409 Sierra: Kilo, sending you 3
+2024-10-14 20:43:50.388213 Hotel: Bravo and Zulu, sending you 4
+2024-10-14 20:43:50.389894 Echo: Alpha, Sierra and Papa, sending you 2
+2024-10-14 20:43:50.390725 Alpha: Bravo, sending you 8
+2024-10-14 20:43:50.392306 Kilo: Alpha and Bravo, sending you 2
+2024-10-14 20:43:50.393214 Foxtrot: Kilo and Bravo, sending you 1
+2024-10-14 20:43:50.395005 Papa: Bravo, sending you 8
+2024-10-14 20:43:50.395661 Bravo: Zulu, sending you 6
+2024-10-14 20:43:50.397344 Sierra: Foxtrot and Bravo, sending you 2
+2024-10-14 20:43:50.398466 Alpha: Papa and Zulu, sending you 3
+2024-10-14 20:43:50.399997 Echo: Hotel, sending you 1
+2024-10-14 20:43:50.400946 Kilo: Foxtrot and Delta, sending you 3
+2024-10-14 20:43:50.402354 Foxtrot: Sierra, sending you 2
+2024-10-14 20:43:50.403047 Sierra: Delta, sending you 4
+2024-10-14 20:43:50.404441 Zulu: Alpha, sending you 7
+2024-10-14 20:43:50.404913 Echo: Zulu, sending you 3
+2024-10-14 20:43:50.405478 Kilo: Sierra, sending you 1
+2024-10-14 20:43:50.424656 Foxtrot: Delta, sending you 7
+2024-10-14 20:43:50.426688 Zulu: Bravo and Papa, sending you 3
+2024-10-14 20:43:50.427570 Kilo: Zulu, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 2
+ChatterBot Hotel round 2
+ChatterBot Kilo round 2
+ChatterBot Echo round 2
+ChatterBot Foxtrot round 2
+ChatterBot Bravo round 2
+2024-10-14 20:43:54.111367 Kilo: We would work well together
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:43:54.159699 Foxtrot: Yes
+2024-10-14 20:43:54.159906 Sierra: No
+2024-10-14 20:43:54.160065 Delta: No
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:43:54.269120 Sierra: Friends?
+2024-10-14 20:43:54.276561 Kilo: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra round 2
+ChatterBot Papa round 2
+2024-10-14 20:43:54.293400 Hotel: We should group up
+ChatterBot Echo reevaluating
+2024-10-14 20:43:54.299676 Echo: Yes
+2024-10-14 20:43:54.305193 Echo: Can we be friends?
+2024-10-14 20:43:54.310343 Hotel: Yes
+ChatterBot Echo reevaluating
+ChatterBot Zulu round 2
+ChatterBot Delta round 2
+2024-10-14 20:43:54.331924 Sierra: We would work well together
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:43:54.440293 Kilo: No
+2024-10-14 20:43:54.440727 Foxtrot: No
+2024-10-14 20:43:54.440912 Delta: No
+2024-10-14 20:43:54.441320 Echo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:43:54.529966 Foxtrot: Let's form a team
+2024-10-14 20:43:54.530790 Delta: We would work well together
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:43:54.559301 Sierra: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 20:43:54.566182 Kilo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:43:54.580735 Delta: Yes
+2024-10-14 20:43:54.581083 Echo: Yes
+ChatterBot Echo reevaluating
+2024-10-14 20:43:54.588954 Sierra: Yes
+2024-10-14 20:43:54.589909 Kilo: Yes
+2024-10-14 20:43:54.590232 Foxtrot: Yes
+2024-10-14 20:43:54.590499 Echo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:43:54.763918 Zulu: Let's form a team
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:43:54.796864 Alpha: No
+2024-10-14 20:43:54.797152 Hotel: No
+2024-10-14 20:43:54.797821 Bravo: No
+2024-10-14 20:43:54.797978 Papa: No
+2024-10-14 20:43:54.798114 Kilo: No
+2024-10-14 20:43:54.798222 Foxtrot: No
+2024-10-14 20:43:54.798342 Sierra: No
+2024-10-14 20:43:54.798447 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:43:55.056666 Bravo: We should add Hotel
+2024-10-14 20:43:55.067453 Alpha: No
+2024-10-14 20:43:55.067627 Papa: No
+2024-10-14 20:43:55.067751 Zulu: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:43:55.105198 Alpha: Bravo and Papa, sending you 4
+2024-10-14 20:43:55.123358 Alpha: Zulu, sending you 6
+2024-10-14 20:43:55.123862 Hotel: Papa and Echo we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 20:43:55.192645 Papa: Yes
+2024-10-14 20:43:55.192865 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:43:55.257124 Papa: We should add Hotel and Echo
+ChatterBot Bravo reevaluating
+2024-10-14 20:43:55.268950 Alpha: No
+2024-10-14 20:43:55.269678 Zulu: No
+2024-10-14 20:43:55.269852 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 20:43:55.311283 Delta: Kilo, sending you 4
+2024-10-14 20:43:55.311906 Echo: Kilo, Foxtrot and Sierra, sending you 3
+2024-10-14 20:43:55.312344 Sierra: Kilo, sending you 3
+2024-10-14 20:43:55.313566 Kilo: Echo, sending you 1
+2024-10-14 20:43:55.313993 Zulu: Alpha, Hotel, Kilo, Bravo, Papa and Delta, sending you 2
+2024-10-14 20:43:55.315283 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:43:55.316537 Delta: Echo, sending you 1
+2024-10-14 20:43:55.317167 Echo: Delta, sending you 1
+2024-10-14 20:43:55.318421 Sierra: Echo and Foxtrot, sending you 5
+2024-10-14 20:43:55.319059 Kilo: Foxtrot, sending you 3
+2024-10-14 20:43:55.320225 Zulu: Sierra, sending you 1
+chatterbot Hotel submitting transactions
+2024-10-14 20:43:55.321649 Foxtrot: Echo, sending you 3
+2024-10-14 20:43:55.322209 Delta: Foxtrot, sending you 8
+2024-10-14 20:43:55.328472 Kilo: Sierra, sending you 7
+2024-10-14 20:43:55.330125 Delta: Sierra, sending you 5
+2024-10-14 20:43:55.330706 Hotel: Alpha, Bravo, Papa and Zulu, sending you 2
+2024-10-14 20:43:55.332015 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:43:55.348513 Kilo: Delta, sending you 5
+2024-10-14 20:43:55.349299 Hotel: Echo, sending you 6
+2024-10-14 20:43:55.350880 Bravo: Zulu, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 3
+ChatterBot Hotel round 3
+ChatterBot Kilo round 3
+ChatterBot Echo round 3
+ChatterBot Foxtrot round 3
+ChatterBot Bravo round 3
+ChatterBot Sierra round 3
+2024-10-14 20:43:56.216654 Echo: We should add Hotel
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:43:56.230260 Sierra: No
+2024-10-14 20:43:56.230439 Kilo: No
+2024-10-14 20:43:56.230574 Foxtrot: No
+2024-10-14 20:43:56.230721 Delta: No
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa round 3
+ChatterBot Zulu round 3
+ChatterBot Delta round 3
+2024-10-14 20:43:56.401879 Echo: Hotel we want you to join our group
+2024-10-14 20:43:56.405547 Hotel: No
+ChatterBot Echo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:43:56.433963 Hotel: We should drop Alpha and Echo
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:43:56.447662 Bravo: No
+2024-10-14 20:43:56.447964 Papa: No
+2024-10-14 20:43:56.448790 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+chatterbot Papa submitting transactions
+2024-10-14 20:43:56.499496 Alpha: Bravo and Zulu, sending you 5
+2024-10-14 20:43:56.584581 Alpha: Papa, sending you 4
+2024-10-14 20:43:56.617549 Echo: Kilo and Delta, sending you 1
+2024-10-14 20:43:56.618107 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:43:56.618565 Kilo: Echo, sending you 3
+2024-10-14 20:43:56.619764 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:43:56.620805 Delta: Kilo, sending you 6
+2024-10-14 20:43:56.621169 Sierra: Kilo, sending you 4
+2024-10-14 20:43:56.621589 Echo: Foxtrot, sending you 3
+2024-10-14 20:43:56.622530 Bravo: Zulu, sending you 5
+2024-10-14 20:43:56.634619 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:43:56.635679 Foxtrot: Echo, sending you 3
+2024-10-14 20:43:56.636140 Delta: Echo, sending you 2
+2024-10-14 20:43:56.636439 Zulu: Alpha, Hotel, Bravo and Papa, sending you 3
+2024-10-14 20:43:56.637551 Sierra: Echo, Foxtrot and Delta, sending you 3
+2024-10-14 20:43:56.638035 Echo: Sierra, sending you 5
+2024-10-14 20:43:56.649750 Kilo: Delta, sending you 5
+2024-10-14 20:43:56.650862 Zulu: Echo, sending you 1
+2024-10-14 20:43:56.651336 Delta: Foxtrot, sending you 7
+2024-10-14 20:43:56.658487 Delta: Sierra, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Hotel round 4
+ChatterBot Kilo round 4
+ChatterBot Echo round 4
+ChatterBot Foxtrot round 4
+ChatterBot Bravo round 4
+ChatterBot Sierra round 4
+ChatterBot Papa round 4
+ChatterBot Zulu round 4
+ChatterBot Delta round 4
+2024-10-14 20:43:57.654102 Hotel: We should drop Alpha and Echo
+2024-10-14 20:43:57.661948 Bravo: No
+2024-10-14 20:43:57.662133 Papa: No
+2024-10-14 20:43:57.662277 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:43:57.705320 Alpha: Bravo, sending you 6
+2024-10-14 20:43:57.705852 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:43:57.708678 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:43:57.710105 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:43:57.710703 Alpha: Papa and Zulu, sending you 4
+2024-10-14 20:43:57.715119 Foxtrot: Echo, sending you 3
+2024-10-14 20:43:57.720698 Sierra: Kilo, sending you 4
+2024-10-14 20:43:57.721851 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:43:57.723902 Kilo: Echo, sending you 2
+2024-10-14 20:43:57.724653 Delta: Kilo and Foxtrot, sending you 6
+2024-10-14 20:43:57.725039 Bravo: Zulu, sending you 5
+2024-10-14 20:43:57.725979 Sierra: Echo, Foxtrot and Delta, sending you 3
+2024-10-14 20:43:57.727715 Zulu: Alpha, Hotel, Bravo and Papa, sending you 3
+2024-10-14 20:43:57.728742 Delta: Echo, sending you 2
+2024-10-14 20:43:57.729217 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:43:57.731658 Zulu: Echo, sending you 1
+2024-10-14 20:43:57.732080 Delta: Sierra, sending you 4
+2024-10-14 20:43:57.734698 Kilo: Delta, sending you 6
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Hotel round 5
+ChatterBot Kilo round 5
+ChatterBot Echo round 5
+ChatterBot Foxtrot round 5
+ChatterBot Bravo round 5
+ChatterBot Sierra round 5
+ChatterBot Papa round 5
+ChatterBot Zulu round 5
+ChatterBot Delta round 5
+2024-10-14 20:43:58.922317 Hotel: We should drop Alpha and Echo
+2024-10-14 20:43:58.929829 Bravo: No
+2024-10-14 20:43:58.930007 Papa: No
+2024-10-14 20:43:58.930161 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:43:58.957668 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:43:58.958684 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:43:58.959094 Kilo: Echo, sending you 3
+2024-10-14 20:43:58.962705 Alpha: Zulu, sending you 4
+2024-10-14 20:43:58.963214 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:43:58.963767 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:43:58.964077 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:43:58.964687 Sierra: Kilo, sending you 4
+2024-10-14 20:43:58.966702 Zulu: Alpha, Hotel, Bravo and Papa, sending you 3
+2024-10-14 20:43:58.968676 Bravo: Zulu, sending you 5
+2024-10-14 20:43:58.969713 Kilo: Delta, sending you 5
+2024-10-14 20:43:58.970298 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:43:58.970800 Sierra: Echo, Foxtrot and Delta, sending you 3
+2024-10-14 20:43:58.971282 Zulu: Echo, sending you 1
+2024-10-14 20:43:58.974672 Foxtrot: Echo, sending you 3
+2024-10-14 20:43:58.975913 Delta: Kilo and Foxtrot, sending you 6
+2024-10-14 20:43:58.980694 Delta: Echo, sending you 2
+2024-10-14 20:43:58.983669 Delta: Sierra, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Hotel round 6
+ChatterBot Kilo round 6
+ChatterBot Echo round 6
+ChatterBot Foxtrot round 6
+ChatterBot Bravo round 6
+ChatterBot Sierra round 6
+ChatterBot Papa round 6
+ChatterBot Zulu round 6
+ChatterBot Delta round 6
+2024-10-14 20:44:00.168119 Hotel: We should drop Bravo and Echo
+2024-10-14 20:44:00.179833 Alpha: No
+2024-10-14 20:44:00.180042 Papa: No
+2024-10-14 20:44:00.180336 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:00.225692 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:00.226784 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:00.227506 Sierra: Kilo, sending you 4
+2024-10-14 20:44:00.231035 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:00.231785 Bravo: Zulu, sending you 5
+2024-10-14 20:44:00.232574 Hotel: Echo, sending you 6
+2024-10-14 20:44:00.233874 Kilo: Echo, sending you 3
+2024-10-14 20:44:00.234938 Sierra: Echo, Foxtrot and Delta, sending you 3
+2024-10-14 20:44:00.236497 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:00.237569 Hotel: Zulu, sending you 8
+2024-10-14 20:44:00.238379 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:00.240472 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:00.241180 Delta: Kilo and Foxtrot, sending you 6
+2024-10-14 20:44:00.242853 Zulu: Alpha, Hotel, Bravo and Papa, sending you 3
+2024-10-14 20:44:00.244073 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:00.245708 Alpha: Zulu, sending you 4
+2024-10-14 20:44:00.246387 Kilo: Delta, sending you 5
+2024-10-14 20:44:00.247884 Delta: Echo, sending you 2
+2024-10-14 20:44:00.248724 Zulu: Echo, sending you 1
+2024-10-14 20:44:00.253689 Delta: Sierra, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Hotel round 7
+ChatterBot Kilo round 7
+ChatterBot Echo round 7
+ChatterBot Foxtrot round 7
+ChatterBot Bravo round 7
+ChatterBot Sierra round 7
+ChatterBot Papa round 7
+ChatterBot Zulu round 7
+ChatterBot Delta round 7
+2024-10-14 20:44:01.417640 Hotel: We should drop Papa and Echo
+2024-10-14 20:44:01.425426 Bravo: No
+2024-10-14 20:44:01.425598 Zulu: No
+2024-10-14 20:44:01.425738 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:01.458687 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:01.459149 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:01.462491 Bravo: Zulu, sending you 5
+2024-10-14 20:44:01.463185 Kilo: Echo, sending you 3
+2024-10-14 20:44:01.463981 Zulu: Alpha, Hotel, Bravo and Papa, sending you 3
+2024-10-14 20:44:01.465267 Alpha: Zulu, sending you 4
+2024-10-14 20:44:01.465781 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:01.466688 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:01.467690 Delta: Kilo, sending you 6
+2024-10-14 20:44:01.468675 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:01.469281 Zulu: Echo, sending you 1
+2024-10-14 20:44:01.469830 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:01.473883 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:01.474584 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:01.476450 Delta: Echo, sending you 3
+2024-10-14 20:44:01.477023 Kilo: Delta, sending you 5
+2024-10-14 20:44:01.477626 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:01.480682 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:01.486114 Delta: Sierra, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Hotel round 8
+ChatterBot Kilo round 8
+ChatterBot Echo round 8
+ChatterBot Foxtrot round 8
+ChatterBot Bravo round 8
+ChatterBot Sierra round 8
+ChatterBot Papa round 8
+ChatterBot Zulu round 8
+ChatterBot Delta round 8
+2024-10-14 20:44:02.695059 Hotel: We should drop Papa and Echo
+2024-10-14 20:44:02.703813 Bravo: No
+2024-10-14 20:44:02.703995 Zulu: No
+2024-10-14 20:44:02.704145 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:02.726662 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:02.727663 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:02.728059 Kilo: Echo, sending you 3
+2024-10-14 20:44:02.730679 Alpha: Zulu, sending you 4
+2024-10-14 20:44:02.731674 Bravo: Zulu, sending you 5
+2024-10-14 20:44:02.732183 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:02.736683 Kilo: Delta, sending you 5
+2024-10-14 20:44:02.739695 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:02.740848 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:02.741654 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:02.743660 Delta: Kilo, sending you 6
+2024-10-14 20:44:02.744691 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:02.745330 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:02.745828 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:02.746327 Zulu: Alpha, Hotel, Bravo and Papa, sending you 3
+2024-10-14 20:44:02.746766 Delta: Echo, sending you 3
+2024-10-14 20:44:02.750657 Zulu: Echo, sending you 1
+2024-10-14 20:44:02.751680 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:02.754694 Delta: Sierra, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Hotel round 9
+ChatterBot Kilo round 9
+ChatterBot Echo round 9
+ChatterBot Foxtrot round 9
+ChatterBot Bravo round 9
+ChatterBot Sierra round 9
+ChatterBot Papa round 9
+ChatterBot Zulu round 9
+ChatterBot Delta round 9
+2024-10-14 20:44:03.955599 Hotel: We should drop Echo
+2024-10-14 20:44:03.964018 Alpha: Yes
+2024-10-14 20:44:03.964170 Bravo: Yes
+2024-10-14 20:44:03.964306 Papa: Yes
+2024-10-14 20:44:03.964422 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:04.024661 Kilo: Echo, sending you 3
+2024-10-14 20:44:04.025696 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:04.027692 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:04.029210 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:04.031860 Zulu: We should drop Hotel and Echo
+2024-10-14 20:44:04.041080 Alpha: Yes
+2024-10-14 20:44:04.041273 Papa: Yes
+2024-10-14 20:44:04.041427 Bravo: Yes
+2024-10-14 20:44:04.171203 Kilo: Delta, sending you 5
+2024-10-14 20:44:04.175689 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:04.176835 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:04.178043 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:04.178744 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:04.179639 Delta: Kilo, sending you 6
+2024-10-14 20:44:04.181419 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:04.182686 Bravo: Zulu, sending you 5
+2024-10-14 20:44:04.183426 Alpha: Zulu, sending you 4
+2024-10-14 20:44:04.184646 Delta: Echo, sending you 3
+2024-10-14 20:44:04.185279 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:04.188657 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:04.190677 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:04.192296 Hotel: Zulu, sending you 14
+2024-10-14 20:44:04.193710 Delta: Sierra, sending you 4
+2024-10-14 20:44:04.195673 Zulu: Bravo, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Hotel round 10
+ChatterBot Kilo round 10
+ChatterBot Echo round 10
+ChatterBot Foxtrot round 10
+ChatterBot Bravo round 10
+ChatterBot Sierra round 10
+ChatterBot Papa round 10
+ChatterBot Zulu round 10
+ChatterBot Delta round 10
+2024-10-14 20:44:05.344170 Hotel: We should drop Papa
+2024-10-14 20:44:05.351131 Bravo: No
+2024-10-14 20:44:05.352069 Zulu: No
+2024-10-14 20:44:05.352289 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:05.380679 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:05.382795 Kilo: Echo, sending you 3
+2024-10-14 20:44:05.386690 Alpha: Zulu, sending you 4
+2024-10-14 20:44:05.387966 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:05.393685 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:05.394777 Kilo: Delta, sending you 5
+2024-10-14 20:44:05.395555 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:05.397685 Delta: Kilo, sending you 6
+2024-10-14 20:44:05.399013 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:05.399908 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:05.401497 Zulu: Bravo, sending you 5
+2024-10-14 20:44:05.402325 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:05.403477 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:05.405215 Delta: Echo, sending you 3
+2024-10-14 20:44:05.405996 Bravo: Zulu, sending you 5
+2024-10-14 20:44:05.406780 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:05.408517 Hotel: Zulu, sending you 14
+2024-10-14 20:44:05.409461 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:05.410680 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:05.414664 Delta: Sierra, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Hotel round 11
+ChatterBot Kilo round 11
+ChatterBot Echo round 11
+ChatterBot Foxtrot round 11
+ChatterBot Bravo round 11
+ChatterBot Sierra round 11
+2024-10-14 20:44:06.341057 Alpha: We should replace Zulu with Hotel
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:06.347116 Bravo: No
+2024-10-14 20:44:06.347257 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa round 11
+ChatterBot Zulu round 11
+ChatterBot Delta round 11
+2024-10-14 20:44:06.369203 Hotel: We should drop Bravo
+ChatterBot Alpha reevaluating
+2024-10-14 20:44:06.376251 Alpha: No
+2024-10-14 20:44:06.376864 Papa: No
+2024-10-14 20:44:06.376970 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:44:06.410705 Kilo: Echo, sending you 3
+2024-10-14 20:44:06.416669 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:06.418875 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:06.419664 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:06.420310 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:06.421681 Kilo: Delta, sending you 5
+2024-10-14 20:44:06.422491 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:06.423769 Zulu: Bravo, sending you 5
+2024-10-14 20:44:06.424660 Bravo: Zulu, sending you 5
+2024-10-14 20:44:06.425813 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:06.426682 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:06.428696 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:06.429413 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:06.430687 Delta: Kilo, sending you 6
+2024-10-14 20:44:06.431661 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:06.433707 Alpha: Zulu, sending you 4
+2024-10-14 20:44:06.434205 Delta: Echo, sending you 3
+2024-10-14 20:44:06.440045 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:06.445680 Delta: Sierra, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Hotel round 12
+ChatterBot Kilo round 12
+ChatterBot Echo round 12
+ChatterBot Foxtrot round 12
+ChatterBot Bravo round 12
+ChatterBot Sierra round 12
+ChatterBot Papa round 12
+ChatterBot Zulu round 12
+ChatterBot Delta round 12
+2024-10-14 20:44:07.675667 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:07.679709 Alpha: Zulu, sending you 4
+2024-10-14 20:44:07.680689 Hotel: Zulu, sending you 14
+2024-10-14 20:44:07.682664 Kilo: Echo, sending you 3
+2024-10-14 20:44:07.683842 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:07.684929 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:07.686003 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:07.687661 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:07.688961 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:07.689519 Delta: Kilo, sending you 6
+2024-10-14 20:44:07.690595 Bravo: Zulu, sending you 5
+2024-10-14 20:44:07.691008 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:07.691513 Zulu: Bravo, sending you 5
+2024-10-14 20:44:07.691878 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:07.693062 Kilo: Delta, sending you 5
+2024-10-14 20:44:07.693863 Delta: Echo, sending you 3
+2024-10-14 20:44:07.694686 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:07.696686 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:07.698542 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:07.702715 Delta: Sierra, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Hotel round 13
+ChatterBot Kilo round 13
+ChatterBot Echo round 13
+ChatterBot Foxtrot round 13
+2024-10-14 20:44:08.784037 Alpha: We should replace Zulu with Hotel
+2024-10-14 20:44:08.790167 Bravo: No
+2024-10-14 20:44:08.790347 Papa: No
+ChatterBot Bravo round 13
+ChatterBot Sierra round 13
+ChatterBot Papa round 13
+ChatterBot Zulu round 13
+ChatterBot Delta round 13
+2024-10-14 20:44:08.818565 Alpha: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:08.822515 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:08.832726 Bravo: We should add Hotel
+2024-10-14 20:44:08.832981 Papa: We should replace Zulu with Hotel
+ChatterBot Papa reevaluating
+2024-10-14 20:44:08.840537 Alpha: Yes
+2024-10-14 20:44:08.843637 Papa: Yes
+2024-10-14 20:44:08.843888 Zulu: No
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:08.846789 Alpha: Yes
+2024-10-14 20:44:08.846902 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:08.882100 Zulu: We should add Hotel and Delta
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:08.890039 Alpha: No
+2024-10-14 20:44:08.890182 Papa: No
+2024-10-14 20:44:08.890305 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:08.935680 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:08.938661 Bravo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:08.943514 Hotel: No
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:08.958607 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:08.960800 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:08.963294 Hotel: We should drop Alpha
+ChatterBot Papa reevaluating
+2024-10-14 20:44:08.971679 Bravo: No
+2024-10-14 20:44:08.971847 Papa: Yes
+2024-10-14 20:44:08.972004 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:09.001105 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:09.002915 Kilo: Echo, sending you 3
+2024-10-14 20:44:09.004771 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:09.006454 Delta: Kilo, sending you 6
+2024-10-14 20:44:09.008153 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:09.010377 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:09.012731 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:09.015188 Zulu: Bravo, sending you 5
+2024-10-14 20:44:09.016332 Delta: Echo, sending you 3
+2024-10-14 20:44:09.021855 Kilo: Delta, sending you 5
+2024-10-14 20:44:09.023630 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:09.031143 Delta: Sierra, sending you 4
+2024-10-14 20:44:09.042438 Hotel: Zulu, sending you 14
+2024-10-14 20:44:09.044011 Alpha: Hotel, sending you 1
+2024-10-14 20:44:09.048853 Alpha: Bravo, sending you 6
+2024-10-14 20:44:09.049740 Bravo: Alpha, Papa and Zulu, sending you 5
+2024-10-14 20:44:09.083211 Alpha: Papa, sending you 5
+2024-10-14 20:44:09.084994 Bravo: Hotel, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Hotel round 14
+ChatterBot Kilo round 14
+ChatterBot Echo round 14
+ChatterBot Foxtrot round 14
+ChatterBot Bravo round 14
+ChatterBot Sierra round 14
+ChatterBot Papa round 14
+ChatterBot Zulu round 14
+ChatterBot Delta round 14
+2024-10-14 20:44:10.314997 Papa: We should add Hotel
+2024-10-14 20:44:10.325721 Alpha: Yes
+2024-10-14 20:44:10.325919 Zulu: No
+2024-10-14 20:44:10.326084 Bravo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:10.358591 Hotel: We should drop Papa
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:10.370483 Bravo: No
+2024-10-14 20:44:10.370649 Zulu: No
+2024-10-14 20:44:10.370767 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:10.395775 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:10.400409 Alpha: Yes
+2024-10-14 20:44:10.400601 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:10.412855 Zulu: We should add Hotel and Sierra
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:10.420319 Alpha: No
+2024-10-14 20:44:10.420460 Papa: No
+2024-10-14 20:44:10.420564 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:10.448683 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:10.450310 Bravo: Alpha, Papa and Zulu, sending you 5
+2024-10-14 20:44:10.450838 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:10.452375 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:10.453261 Kilo: Echo, sending you 3
+2024-10-14 20:44:10.454592 Delta: Kilo, sending you 6
+2024-10-14 20:44:10.456195 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:10.457861 Bravo: Hotel, sending you 2
+2024-10-14 20:44:10.459267 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:10.460713 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:10.462535 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:10.464587 Delta: Echo, sending you 3
+2024-10-14 20:44:10.467657 Kilo: Delta, sending you 5
+2024-10-14 20:44:10.471682 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:10.477020 Delta: Sierra, sending you 4
+2024-10-14 20:44:10.479059 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:10.483708 Zulu: Bravo, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Hotel round 15
+ChatterBot Kilo round 15
+ChatterBot Echo round 15
+ChatterBot Foxtrot round 15
+ChatterBot Bravo round 15
+ChatterBot Sierra round 15
+ChatterBot Papa round 15
+ChatterBot Zulu round 15
+ChatterBot Delta round 15
+2024-10-14 20:44:11.446442 Alpha: We should replace Papa with Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:11.455219 Hotel: No
+2024-10-14 20:44:11.455408 Bravo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:11.483005 Hotel: We should drop Alpha
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:11.493088 Bravo: No
+2024-10-14 20:44:11.493265 Papa: Yes
+2024-10-14 20:44:11.493410 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:11.524915 Papa: We should add Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:11.534446 Alpha: Yes
+2024-10-14 20:44:11.534637 Zulu: No
+2024-10-14 20:44:11.534800 Bravo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:11.568812 Papa: We should replace Zulu with Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 20:44:11.575385 Alpha: Yes
+2024-10-14 20:44:11.575580 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:11.592265 Delta: Kilo, sending you 6
+2024-10-14 20:44:11.594102 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:11.594952 Zulu: Alpha and Papa, sending you 4
+2024-10-14 20:44:11.596894 Delta: Echo, sending you 3
+2024-10-14 20:44:11.597805 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:11.599167 Zulu: Bravo, sending you 5
+2024-10-14 20:44:11.601681 Kilo: Echo, sending you 3
+2024-10-14 20:44:11.603509 Hotel: Alpha and Zulu, sending you 3
+2024-10-14 20:44:11.605691 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:11.607389 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:11.610399 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:11.613147 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:11.615999 Papa: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:11.621851 Hotel: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:11.638173 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:11.640964 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:11.643075 Bravo: Alpha, Papa and Zulu, sending you 5
+2024-10-14 20:44:11.644240 Delta: Sierra, sending you 4
+2024-10-14 20:44:11.646580 Kilo: Delta, sending you 5
+2024-10-14 20:44:11.648080 Bravo: Hotel, sending you 2
+2024-10-14 20:44:11.663698 Alpha: Hotel, sending you 2
+2024-10-14 20:44:11.669694 Alpha: Bravo, sending you 6
+2024-10-14 20:44:11.672705 Alpha: Papa, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Hotel round 16
+ChatterBot Kilo round 16
+ChatterBot Echo round 16
+ChatterBot Foxtrot round 16
+ChatterBot Bravo round 16
+ChatterBot Sierra round 16
+ChatterBot Papa round 16
+ChatterBot Zulu round 16
+ChatterBot Delta round 16
+2024-10-14 20:44:12.853106 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:12.863014 Alpha: Yes
+2024-10-14 20:44:12.863234 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:44:12.901181 Zulu: We should add Hotel and Kilo
+ChatterBot Papa reevaluating
+2024-10-14 20:44:12.916763 Alpha: No
+2024-10-14 20:44:12.916968 Papa: No
+2024-10-14 20:44:12.917138 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:12.982297 Papa: We should add Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:12.997350 Alpha: Yes
+2024-10-14 20:44:12.998117 Zulu: No
+2024-10-14 20:44:12.998278 Bravo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:13.038710 Bravo: Alpha, Papa and Zulu, sending you 5
+2024-10-14 20:44:13.040920 Delta: Kilo, sending you 6
+2024-10-14 20:44:13.043928 Kilo: Echo, sending you 3
+2024-10-14 20:44:13.046702 Zulu: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:13.052765 Hotel: No
+ChatterBot Alpha reevaluating
+2024-10-14 20:44:13.070291 Bravo: Hotel, sending you 2
+2024-10-14 20:44:13.071580 Delta: Echo, sending you 3
+2024-10-14 20:44:13.075897 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:13.077804 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:13.081161 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:13.082471 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:13.090533 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:13.093846 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:13.095092 Kilo: Delta, sending you 5
+2024-10-14 20:44:13.102824 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:13.104040 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:13.106850 Delta: Sierra, sending you 4
+2024-10-14 20:44:13.115455 Hotel: Alpha and Bravo, sending you 5
+2024-10-14 20:44:13.116360 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:13.117132 Alpha: Hotel, sending you 2
+2024-10-14 20:44:13.119698 Hotel: Zulu, sending you 4
+2024-10-14 20:44:13.121695 Zulu: Bravo, sending you 4
+2024-10-14 20:44:13.123698 Alpha: Bravo, sending you 6
+2024-10-14 20:44:13.131680 Alpha: Papa, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Hotel round 17
+ChatterBot Kilo round 17
+ChatterBot Echo round 17
+ChatterBot Foxtrot round 17
+ChatterBot Bravo round 17
+ChatterBot Sierra round 17
+ChatterBot Papa round 17
+ChatterBot Zulu round 17
+ChatterBot Delta round 17
+2024-10-14 20:44:14.410950 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:14.421506 Alpha: Yes
+2024-10-14 20:44:14.421764 Bravo: No
+2024-10-14 20:44:14.440802 Papa: Hotel we want you to join our group
+2024-10-14 20:44:14.444857 Hotel: No
+2024-10-14 20:44:14.455682 Hotel: Alpha and Bravo, sending you 5
+2024-10-14 20:44:14.457207 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:14.459122 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:14.461046 Kilo: Echo, sending you 3
+2024-10-14 20:44:14.462257 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:14.464073 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:14.465624 Hotel: Zulu, sending you 4
+2024-10-14 20:44:14.466768 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:14.468313 Alpha: Hotel, sending you 3
+2024-10-14 20:44:14.469553 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:14.471451 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:14.472804 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:14.475241 Bravo: Hotel, sending you 3
+2024-10-14 20:44:14.477641 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:14.479679 Alpha: Bravo, sending you 6
+2024-10-14 20:44:14.482035 Kilo: Delta, sending you 5
+2024-10-14 20:44:14.485659 Bravo: Zulu, sending you 4
+2024-10-14 20:44:14.488140 Delta: Kilo, sending you 6
+2024-10-14 20:44:14.491513 Zulu: Bravo, sending you 4
+2024-10-14 20:44:14.493280 Alpha: Papa, sending you 5
+2024-10-14 20:44:14.495853 Delta: Echo, sending you 3
+2024-10-14 20:44:14.502177 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:14.511011 Delta: Sierra, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Hotel round 18
+ChatterBot Kilo round 18
+ChatterBot Echo round 18
+ChatterBot Foxtrot round 18
+ChatterBot Bravo round 18
+ChatterBot Sierra round 18
+ChatterBot Papa round 18
+ChatterBot Zulu round 18
+ChatterBot Delta round 18
+2024-10-14 20:44:15.574044 Hotel: We should add Papa
+2024-10-14 20:44:15.587785 Bravo: Yes
+2024-10-14 20:44:15.588290 Zulu: Yes
+2024-10-14 20:44:15.588684 Alpha: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:15.641324 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:15.646606 Alpha: Yes
+2024-10-14 20:44:15.646908 Bravo: No
+2024-10-14 20:44:15.660559 Hotel: Papa we want you to join our group
+2024-10-14 20:44:15.664735 Papa: No
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:15.675589 Papa: Hotel we want you to join our group
+2024-10-14 20:44:15.678500 Hotel: Yes
+2024-10-14 20:44:15.693719 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:15.696345 Alpha: Hotel, sending you 4
+2024-10-14 20:44:15.697380 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:15.699021 Kilo: Echo, sending you 3
+2024-10-14 20:44:15.701368 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:15.704386 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:15.711647 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:15.717625 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:15.725433 Bravo: Hotel, sending you 3
+2024-10-14 20:44:15.727626 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:15.730126 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:15.732781 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:15.735846 Hotel: Alpha and Zulu, sending you 3
+2024-10-14 20:44:15.738031 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:15.739519 Bravo: Zulu, sending you 4
+2024-10-14 20:44:15.741174 Delta: Kilo, sending you 6
+2024-10-14 20:44:15.743326 Kilo: Delta, sending you 5
+2024-10-14 20:44:15.744573 Zulu: Bravo, sending you 4
+2024-10-14 20:44:15.746484 Hotel: Bravo and Papa, sending you 4
+2024-10-14 20:44:15.747463 Delta: Echo, sending you 3
+2024-10-14 20:44:15.752865 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:15.758676 Delta: Sierra, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Hotel round 19
+ChatterBot Kilo round 19
+ChatterBot Echo round 19
+ChatterBot Foxtrot round 19
+ChatterBot Bravo round 19
+ChatterBot Sierra round 19
+ChatterBot Papa round 19
+ChatterBot Zulu round 19
+ChatterBot Delta round 19
+2024-10-14 20:44:16.975093 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:16.985111 Alpha: Yes
+2024-10-14 20:44:16.985328 Bravo: No
+2024-10-14 20:44:17.008979 Papa: Hotel we want you to join our group
+2024-10-14 20:44:17.013909 Hotel: Yes
+2024-10-14 20:44:17.028881 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:17.031217 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:17.034421 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:17.037270 Kilo: Echo, sending you 3
+2024-10-14 20:44:17.041510 Hotel: Alpha, Bravo and Papa, sending you 4
+2024-10-14 20:44:17.043655 Alpha: Hotel, sending you 4
+2024-10-14 20:44:17.046357 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:17.049158 Delta: Kilo, sending you 6
+2024-10-14 20:44:17.052645 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:17.055253 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:17.057422 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:17.060951 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:17.063251 Hotel: Zulu, sending you 2
+2024-10-14 20:44:17.066201 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:17.068239 Bravo: Hotel, sending you 3
+2024-10-14 20:44:17.070995 Delta: Echo, sending you 3
+2024-10-14 20:44:17.074548 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:17.077365 Kilo: Delta, sending you 5
+2024-10-14 20:44:17.080863 Bravo: Zulu, sending you 4
+2024-10-14 20:44:17.083544 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:17.086369 Zulu: Bravo, sending you 4
+2024-10-14 20:44:17.094373 Delta: Sierra, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Hotel round 20
+ChatterBot Kilo round 20
+ChatterBot Echo round 20
+ChatterBot Foxtrot round 20
+ChatterBot Bravo round 20
+ChatterBot Sierra round 20
+ChatterBot Papa round 20
+ChatterBot Zulu round 20
+ChatterBot Delta round 20
+2024-10-14 20:44:18.321599 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:18.331600 Alpha: Yes
+2024-10-14 20:44:18.332427 Bravo: No
+2024-10-14 20:44:18.380245 Zulu: We should add Foxtrot
+2024-10-14 20:44:18.401854 Hotel: No
+2024-10-14 20:44:18.402067 Alpha: No
+2024-10-14 20:44:18.402235 Bravo: No
+2024-10-14 20:44:18.402385 Papa: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:18.475979 Papa: Hotel we want you to join our group
+2024-10-14 20:44:18.482305 Hotel: Yes
+2024-10-14 20:44:18.495479 Zulu: We should add Echo
+2024-10-14 20:44:18.515193 Hotel: No
+2024-10-14 20:44:18.515449 Alpha: No
+2024-10-14 20:44:18.515641 Bravo: No
+2024-10-14 20:44:18.515812 Papa: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:44:18.614642 Kilo: Echo, sending you 3
+2024-10-14 20:44:18.618765 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:18.621222 Delta: Kilo, sending you 6
+2024-10-14 20:44:18.624115 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:18.626469 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:18.628869 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:18.631130 Alpha: Hotel, sending you 4
+2024-10-14 20:44:18.632826 Foxtrot: Kilo, Sierra and Delta, sending you 4
+chatterbot Sierra submitting transactions
+2024-10-14 20:44:18.635411 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:18.637601 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:18.639760 Delta: Echo, sending you 3
+2024-10-14 20:44:18.642155 Bravo: Hotel, sending you 3
+2024-10-14 20:44:18.644190 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:18.646408 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:18.649155 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:18.650532 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:18.653419 Kilo: Delta, sending you 5
+2024-10-14 20:44:18.655712 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:18.658415 Bravo: Zulu, sending you 4
+2024-10-14 20:44:18.660453 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:18.662822 Delta: Sierra, sending you 4
+2024-10-14 20:44:18.683037 Zulu: Bravo, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Hotel round 21
+ChatterBot Kilo round 21
+ChatterBot Echo round 21
+ChatterBot Foxtrot round 21
+ChatterBot Bravo round 21
+ChatterBot Sierra round 21
+ChatterBot Papa round 21
+ChatterBot Zulu round 21
+ChatterBot Delta round 21
+2024-10-14 20:44:19.595435 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:19.601301 Alpha: Yes
+2024-10-14 20:44:19.601491 Bravo: No
+2024-10-14 20:44:19.623160 Papa: Hotel we want you to join our group
+2024-10-14 20:44:19.629137 Hotel: Yes
+2024-10-14 20:44:19.695421 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:19.699388 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:19.703347 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:19.706907 Alpha: Hotel, sending you 4
+2024-10-14 20:44:19.709314 Kilo: Echo, sending you 3
+2024-10-14 20:44:19.712349 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:19.715484 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:19.718330 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:19.721277 Bravo: Hotel, sending you 3
+2024-10-14 20:44:19.724496 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:19.727631 Zulu: Bravo, sending you 4
+2024-10-14 20:44:19.730669 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:19.733554 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:19.737569 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:19.740390 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:19.743074 Delta: Kilo, sending you 6
+2024-10-14 20:44:19.746205 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:19.750117 Bravo: Zulu, sending you 4
+2024-10-14 20:44:19.754332 Kilo: Delta, sending you 5
+2024-10-14 20:44:19.757197 Delta: Echo, sending you 3
+2024-10-14 20:44:19.765850 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:19.785677 Delta: Sierra, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Hotel round 22
+ChatterBot Kilo round 22
+ChatterBot Echo round 22
+ChatterBot Foxtrot round 22
+ChatterBot Bravo round 22
+ChatterBot Sierra round 22
+ChatterBot Papa round 22
+ChatterBot Zulu round 22
+ChatterBot Delta round 22
+2024-10-14 20:44:20.880138 Echo: We should add Zulu
+2024-10-14 20:44:20.899086 Sierra: No
+2024-10-14 20:44:20.899319 Kilo: No
+2024-10-14 20:44:20.899515 Foxtrot: No
+2024-10-14 20:44:20.899743 Delta: No
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:44:20.998346 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:21.007548 Alpha: Yes
+2024-10-14 20:44:21.007785 Bravo: No
+2024-10-14 20:44:21.029804 Sierra: We should drop Kilo
+ChatterBot Echo reevaluating
+2024-10-14 20:44:21.042744 Echo: No
+2024-10-14 20:44:21.043010 Foxtrot: No
+2024-10-14 20:44:21.043196 Delta: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:44:21.084922 Papa: Hotel we want you to join our group
+2024-10-14 20:44:21.090267 Hotel: Yes
+2024-10-14 20:44:21.104671 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:21.106375 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:21.108923 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:21.111269 Kilo: Echo, sending you 3
+2024-10-14 20:44:21.113567 Alpha: Hotel, sending you 4
+2024-10-14 20:44:21.114551 Delta: Kilo, sending you 6
+2024-10-14 20:44:21.116138 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:21.117045 Zulu: Bravo, sending you 4
+2024-10-14 20:44:21.117925 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:21.119270 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:21.119797 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:21.121433 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:21.121940 Delta: Echo, sending you 3
+2024-10-14 20:44:21.123451 Bravo: Hotel, sending you 3
+2024-10-14 20:44:21.124718 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:21.126918 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:21.129421 Kilo: Delta, sending you 5
+2024-10-14 20:44:21.132046 Bravo: Zulu, sending you 4
+2024-10-14 20:44:21.134170 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:21.136863 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:21.139519 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:21.142609 Delta: Sierra, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Hotel round 23
+ChatterBot Kilo round 23
+ChatterBot Echo round 23
+ChatterBot Foxtrot round 23
+ChatterBot Bravo round 23
+ChatterBot Sierra round 23
+ChatterBot Papa round 23
+ChatterBot Zulu round 23
+ChatterBot Delta round 23
+2024-10-14 20:44:22.438676 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:22.445692 Alpha: Yes
+2024-10-14 20:44:22.445841 Bravo: No
+2024-10-14 20:44:22.460867 Papa: Hotel we want you to join our group
+2024-10-14 20:44:22.466057 Hotel: Yes
+2024-10-14 20:44:22.483799 Alpha: Hotel, sending you 4
+2024-10-14 20:44:22.486686 Delta: Kilo, sending you 6
+2024-10-14 20:44:22.490433 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:22.494143 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:22.497621 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:22.500786 Kilo: Echo, sending you 3
+2024-10-14 20:44:22.506260 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:22.508468 Delta: Echo, sending you 3
+2024-10-14 20:44:22.513399 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:22.519703 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:22.523700 Zulu: Bravo, sending you 4
+2024-10-14 20:44:22.525261 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:22.530760 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:22.533313 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:22.537883 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:22.545949 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:22.550345 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:22.552474 Bravo: Hotel, sending you 3
+2024-10-14 20:44:22.560493 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:22.564588 Kilo: Delta, sending you 5
+2024-10-14 20:44:22.572967 Delta: Sierra, sending you 4
+2024-10-14 20:44:22.576105 Bravo: Zulu, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Hotel round 24
+ChatterBot Kilo round 24
+ChatterBot Echo round 24
+ChatterBot Foxtrot round 24
+ChatterBot Bravo round 24
+ChatterBot Sierra round 24
+ChatterBot Papa round 24
+ChatterBot Zulu round 24
+ChatterBot Delta round 24
+2024-10-14 20:44:24.012783 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:24.023177 Alpha: Yes
+2024-10-14 20:44:24.023555 Bravo: No
+2024-10-14 20:44:24.055817 Papa: Hotel we want you to join our group
+2024-10-14 20:44:24.061356 Hotel: Yes
+2024-10-14 20:44:24.114412 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:24.117844 Alpha: Hotel, sending you 4
+2024-10-14 20:44:24.120713 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:24.123413 Kilo: Echo, sending you 3
+2024-10-14 20:44:24.126194 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:24.129878 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:24.132197 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:24.134124 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:24.137063 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:24.139070 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:24.143485 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:24.150159 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:24.161100 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:24.171698 Bravo: Hotel, sending you 3
+2024-10-14 20:44:24.175312 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:24.178888 Delta: Kilo, sending you 6
+2024-10-14 20:44:24.182382 Kilo: Delta, sending you 5
+2024-10-14 20:44:24.187508 Bravo: Zulu, sending you 4
+2024-10-14 20:44:24.190475 Zulu: Bravo, sending you 4
+2024-10-14 20:44:24.194571 Delta: Echo, sending you 3
+2024-10-14 20:44:24.319585 Delta: Foxtrot, sending you 5
+chatterbot Hotel submitting transactions
+2024-10-14 20:44:24.392891 Delta: Sierra, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Hotel round 25
+ChatterBot Kilo round 25
+ChatterBot Echo round 25
+ChatterBot Foxtrot round 25
+ChatterBot Bravo round 25
+ChatterBot Sierra round 25
+ChatterBot Papa round 25
+ChatterBot Zulu round 25
+ChatterBot Delta round 25
+2024-10-14 20:44:25.318103 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:25.324337 Alpha: Yes
+2024-10-14 20:44:25.324572 Bravo: No
+2024-10-14 20:44:25.369143 Papa: Hotel we want you to join our group
+2024-10-14 20:44:25.374028 Hotel: Yes
+2024-10-14 20:44:25.393498 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:25.400693 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:25.404466 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:25.407923 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:25.411569 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:25.415337 Delta: Kilo, sending you 6
+2024-10-14 20:44:25.418960 Alpha: Hotel, sending you 4
+2024-10-14 20:44:25.422232 Kilo: Echo, sending you 3
+2024-10-14 20:44:25.426229 Bravo: Hotel, sending you 3
+2024-10-14 20:44:25.429627 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:25.433602 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:25.438045 Zulu: Bravo, sending you 4
+2024-10-14 20:44:25.443116 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:25.447973 Delta: Echo, sending you 3
+2024-10-14 20:44:25.454101 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:25.462999 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:25.476129 Bravo: Zulu, sending you 4
+2024-10-14 20:44:25.482506 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:25.488998 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:25.494980 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:25.502131 Kilo: Delta, sending you 5
+2024-10-14 20:44:25.513959 Delta: Sierra, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Hotel round 26
+ChatterBot Kilo round 26
+ChatterBot Echo round 26
+ChatterBot Foxtrot round 26
+ChatterBot Bravo round 26
+ChatterBot Sierra round 26
+ChatterBot Papa round 26
+ChatterBot Zulu round 26
+ChatterBot Delta round 26
+2024-10-14 20:44:27.357461 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:27.363796 Alpha: Yes
+2024-10-14 20:44:27.363982 Bravo: No
+2024-10-14 20:44:27.387825 Papa: Hotel we want you to join our group
+2024-10-14 20:44:27.393710 Hotel: Yes
+2024-10-14 20:44:27.433472 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:27.436570 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:27.440198 Alpha: Hotel, sending you 4
+2024-10-14 20:44:27.442982 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:27.447035 Kilo: Echo, sending you 3
+2024-10-14 20:44:27.451286 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:27.454693 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:27.458604 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:27.462079 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:27.465664 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:27.468766 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:27.472368 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:27.476513 Bravo: Hotel, sending you 3
+2024-10-14 20:44:27.480711 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:27.484099 Delta: Kilo, sending you 6
+2024-10-14 20:44:27.488466 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:27.492727 Kilo: Delta, sending you 5
+2024-10-14 20:44:27.496991 Bravo: Zulu, sending you 4
+2024-10-14 20:44:27.500353 Zulu: Bravo, sending you 4
+2024-10-14 20:44:27.504246 Delta: Echo, sending you 3
+2024-10-14 20:44:27.523591 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:27.541331 Delta: Sierra, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Hotel round 27
+ChatterBot Kilo round 27
+ChatterBot Echo round 27
+ChatterBot Foxtrot round 27
+ChatterBot Bravo round 27
+ChatterBot Sierra round 27
+ChatterBot Papa round 27
+ChatterBot Zulu round 27
+ChatterBot Delta round 27
+2024-10-14 20:44:28.642362 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:28.651187 Alpha: Yes
+2024-10-14 20:44:28.651377 Bravo: No
+2024-10-14 20:44:28.691815 Papa: Hotel we want you to join our group
+2024-10-14 20:44:28.698571 Hotel: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:29.243046 Alpha: Hotel, sending you 4
+2024-10-14 20:44:29.246170 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:29.253495 Sierra: Kilo, Echo and Delta, sending you 3
+2024-10-14 20:44:29.268083 Kilo: Echo, sending you 3
+2024-10-14 20:44:29.275858 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:29.279167 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:29.284073 Sierra: Foxtrot, sending you 4
+2024-10-14 20:44:29.287661 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:29.292234 Delta: Kilo, sending you 6
+2024-10-14 20:44:29.297753 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:29.302395 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:29.309445 Kilo: Foxtrot and Sierra, sending you 4
+chatterbot Echo submitting transactions
+2024-10-14 20:44:29.315837 Zulu: Bravo, sending you 4
+2024-10-14 20:44:29.321821 Delta: Echo, sending you 3
+2024-10-14 20:44:29.327791 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:29.333193 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:29.338964 Kilo: Delta, sending you 5
+2024-10-14 20:44:29.344398 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:29.349289 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:29.355358 Bravo: Hotel, sending you 3
+2024-10-14 20:44:29.360978 Delta: Sierra, sending you 4
+2024-10-14 20:44:29.366207 Bravo: Zulu, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Hotel round 28
+ChatterBot Kilo round 28
+ChatterBot Echo round 28
+ChatterBot Foxtrot round 28
+ChatterBot Bravo round 28
+ChatterBot Sierra round 28
+ChatterBot Papa round 28
+ChatterBot Zulu round 28
+ChatterBot Delta round 28
+2024-10-14 20:44:30.392785 Papa: We should replace Zulu with Hotel
+2024-10-14 20:44:30.438484 Alpha: Yes
+2024-10-14 20:44:30.438754 Bravo: No
+2024-10-14 20:44:30.478929 Papa: Hotel we want you to join our group
+2024-10-14 20:44:30.484892 Hotel: Yes
+2024-10-14 20:44:30.507871 Kilo: Echo, sending you 3
+2024-10-14 20:44:30.511743 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:30.517236 Hotel: Alpha and Papa, sending you 4
+2024-10-14 20:44:30.521236 Sierra: Kilo and Delta, sending you 4
+2024-10-14 20:44:30.523115 Echo: Kilo and Delta, sending you 2
+2024-10-14 20:44:30.525963 Bravo: Alpha and Papa, sending you 5
+2024-10-14 20:44:30.529111 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:30.533762 Alpha: Hotel, sending you 4
+2024-10-14 20:44:30.537249 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:30.541945 Zulu: Bravo, sending you 4
+2024-10-14 20:44:30.546904 Hotel: Bravo and Zulu, sending you 3
+2024-10-14 20:44:30.551180 Sierra: Foxtrot, sending you 5
+2024-10-14 20:44:30.554252 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 20:44:30.559372 Bravo: Hotel, sending you 4
+2024-10-14 20:44:30.564410 Foxtrot: Echo, sending you 3
+chatterbot Kilo submitting transactions
+2024-10-14 20:44:30.570197 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:30.573937 Delta: Kilo, sending you 6
+2024-10-14 20:44:30.580163 Kilo: Delta, sending you 5
+2024-10-14 20:44:30.586098 Bravo: Zulu, sending you 3
+2024-10-14 20:44:30.591344 Delta: Echo, sending you 3
+chatterbot Sierra submitting transactions
+2024-10-14 20:44:30.630357 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:30.679847 Delta: Sierra, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Hotel round 29
+ChatterBot Kilo round 29
+ChatterBot Echo round 29
+ChatterBot Foxtrot round 29
+ChatterBot Bravo round 29
+ChatterBot Sierra round 29
+ChatterBot Papa round 29
+ChatterBot Zulu round 29
+ChatterBot Delta round 29
+2024-10-14 20:44:31.444942 Papa: We should replace Zulu with Hotel
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:31.455807 Alpha: Yes
+2024-10-14 20:44:31.456025 Bravo: No
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:31.504529 Papa: Hotel we want you to join our group
+2024-10-14 20:44:31.510502 Hotel: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 20:44:31.526934 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:31.529987 Bravo: We should drop Zulu
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:31.609037 Alpha: Yes
+2024-10-14 20:44:31.609310 Hotel: Yes
+2024-10-14 20:44:31.609668 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 20:44:31.743718 Echo: Kilo and Foxtrot, sending you 3
+2024-10-14 20:44:31.748534 Sierra: Kilo and Delta, sending you 4
+2024-10-14 20:44:31.750760 Zulu: Bravo, sending you 4
+2024-10-14 20:44:31.754380 Kilo: Echo, sending you 3
+2024-10-14 20:44:31.758572 Echo: Sierra and Delta, sending you 2
+2024-10-14 20:44:31.760660 Sierra: Foxtrot, sending you 5
+2024-10-14 20:44:31.762851 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:31.765002 Alpha: Hotel, sending you 4
+2024-10-14 20:44:31.768931 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:31.771462 Delta: Kilo, sending you 6
+2024-10-14 20:44:31.775007 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:31.779154 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:31.781354 Kilo: Delta, sending you 5
+2024-10-14 20:44:31.785278 Delta: Echo, sending you 3
+2024-10-14 20:44:31.789696 Hotel: Alpha and Papa, sending you 5
+2024-10-14 20:44:31.793173 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:31.796504 Delta: Foxtrot, sending you 5
+2024-10-14 20:44:31.800727 Hotel: Bravo, sending you 4
+2024-10-14 20:44:31.803927 Bravo: Hotel, sending you 5
+2024-10-14 20:44:31.806241 Delta: Sierra, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Hotel round 30
+ChatterBot Kilo round 30
+ChatterBot Echo round 30
+ChatterBot Foxtrot round 30
+ChatterBot Bravo round 30
+ChatterBot Sierra round 30
+ChatterBot Papa round 30
+ChatterBot Zulu round 30
+ChatterBot Delta round 30
+2024-10-14 20:44:32.868717 Hotel: Alpha and Papa, sending you 5
+2024-10-14 20:44:32.871692 Kilo: Echo, sending you 3
+2024-10-14 20:44:32.875701 Sierra: Kilo and Delta, sending you 4
+2024-10-14 20:44:32.876847 Foxtrot: Kilo, Sierra and Delta, sending you 4
+2024-10-14 20:44:32.879568 Hotel: Bravo, sending you 4
+2024-10-14 20:44:32.881984 Kilo: Foxtrot and Sierra, sending you 4
+2024-10-14 20:44:32.887014 Sierra: Foxtrot, sending you 5
+2024-10-14 20:44:32.888319 Alpha: Hotel, sending you 4
+2024-10-14 20:44:32.892234 Foxtrot: Echo, sending you 3
+2024-10-14 20:44:32.895506 Zulu: Alpha, Hotel and Papa, sending you 3
+2024-10-14 20:44:32.898767 Bravo: Alpha and Papa, sending you 6
+2024-10-14 20:44:32.900651 Echo: Kilo and Foxtrot, sending you 3
+2024-10-14 20:44:32.904830 Kilo: Delta, sending you 5
+2024-10-14 20:44:32.908623 Delta: Kilo, Foxtrot and Sierra, sending you 5
+2024-10-14 20:44:32.911936 Alpha: Bravo and Papa, sending you 5
+2024-10-14 20:44:32.915278 Zulu: Bravo, sending you 4
+2024-10-14 20:44:32.918445 Bravo: Hotel, sending you 5
+2024-10-14 20:44:32.921026 Echo: Sierra and Delta, sending you 2
+2024-10-14 20:44:32.925506 Delta: Echo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions

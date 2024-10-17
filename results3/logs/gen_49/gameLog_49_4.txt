@@ -1,0 +1,2690 @@
+ChatterBot Alpha round 1
+ChatterBot Romeo round 1
+ChatterBot Tango round 1
+ChatterBot Sierra round 1
+ChatterBot Yankee round 1
+ChatterBot Whiskey round 1
+ChatterBot India round 1
+ChatterBot Mike round 1
+ChatterBot Zulu round 1
+ChatterBot Lima round 1
+randomSelections India: {India, Mike, Alpha, Romeo} 
+2024-10-14 20:45:49.409208 India: Group up?
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:49.422520 Mike: Yes
+2024-10-14 20:45:49.422765 Alpha: Yes
+2024-10-14 20:45:49.422971 Romeo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+randomSelections Yankee: {Yankee, Mike, Sierra, India, Alpha} 
+2024-10-14 20:45:49.452574 Yankee: Friends?
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:49.460031 Mike: No
+2024-10-14 20:45:49.460209 Sierra: Yes
+2024-10-14 20:45:49.460325 India: No
+2024-10-14 20:45:49.460450 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Tango: {Tango, Sierra, Romeo, Whiskey} 
+2024-10-14 20:45:49.489868 Tango: Group up?
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:45:49.494792 Sierra: No
+2024-10-14 20:45:49.495562 Romeo: No
+2024-10-14 20:45:49.495663 Whiskey: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+randomSelections Zulu: {Zulu, Sierra, Tango, Whiskey} 
+2024-10-14 20:45:49.518189 Zulu: Can we be friends?
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:45:49.522880 Sierra: No
+2024-10-14 20:45:49.523029 Tango: No
+2024-10-14 20:45:49.523214 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Lima: {Lima, Tango, Whiskey, Sierra, India} 
+2024-10-14 20:45:49.537361 Lima: Group up?
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:45:49.542995 Tango: No
+2024-10-14 20:45:49.543133 Whiskey: No
+2024-10-14 20:45:49.543240 Sierra: No
+2024-10-14 20:45:49.543379 India: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:45:49.663104 Zulu: Tango, sending you 7
+2024-10-14 20:45:49.664194 Mike: Alpha, sending you 6
+2024-10-14 20:45:49.665255 Yankee: Alpha and Sierra, sending you 4
+2024-10-14 20:45:49.669620 India: Alpha, sending you 6
+2024-10-14 20:45:49.670934 Zulu: Sierra, sending you 5
+2024-10-14 20:45:49.672307 Mike: Romeo, sending you 2
+2024-10-14 20:45:49.673857 Alpha: Romeo, sending you 5
+2024-10-14 20:45:49.674590 Tango: Romeo, sending you 2
+2024-10-14 20:45:49.676002 Romeo: Alpha, sending you 6
+2024-10-14 20:45:49.676643 Yankee: India, sending you 3
+2024-10-14 20:45:49.677888 Lima: Tango, sending you 5
+2024-10-14 20:45:49.679250 India: Romeo, sending you 4
+2024-10-14 20:45:49.679745 Whiskey: Romeo, sending you 3
+2024-10-14 20:45:49.680166 Zulu: Whiskey, sending you 2
+2024-10-14 20:45:49.681114 Mike: India, sending you 4
+2024-10-14 20:45:49.681678 Alpha: India, sending you 6
+2024-10-14 20:45:49.682628 Tango: Sierra and Whiskey, sending you 5
+2024-10-14 20:45:49.683143 Sierra: Alpha, sending you 3
+2024-10-14 20:45:49.684273 Romeo: India, sending you 5
+2024-10-14 20:45:49.684774 Yankee: Mike, sending you 2
+2024-10-14 20:45:49.685792 Lima: Sierra, sending you 1
+2024-10-14 20:45:49.686369 India: Mike, sending you 5
+2024-10-14 20:45:49.686917 Whiskey: Tango, sending you 7
+2024-10-14 20:45:49.687981 Alpha: Mike, sending you 4
+2024-10-14 20:45:49.689258 Sierra: Yankee, sending you 1
+2024-10-14 20:45:49.689920 Romeo: Mike, sending you 3
+2024-10-14 20:45:49.690989 Lima: Whiskey, sending you 6
+2024-10-14 20:45:49.696418 Whiskey: Sierra, sending you 4
+2024-10-14 20:45:49.697727 Lima: India, sending you 2
+2024-10-14 20:45:49.698819 Sierra: India, sending you 5
+2024-10-14 20:45:49.705731 Sierra: Mike, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Alpha round 2
+ChatterBot Romeo round 2
+ChatterBot Tango round 2
+ChatterBot Sierra round 2
+ChatterBot Yankee round 2
+2024-10-14 20:45:50.721293 Sierra: Can we be friends?
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:50.754196 Tango: No
+2024-10-14 20:45:50.754355 Whiskey: No
+2024-10-14 20:45:50.754456 Zulu: No
+2024-10-14 20:45:50.754555 Lima: No
+2024-10-14 20:45:50.754659 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey round 2
+ChatterBot India round 2
+ChatterBot Mike round 2
+ChatterBot Zulu round 2
+ChatterBot Lima round 2
+2024-10-14 20:45:50.885050 Alpha: We should add Yankee
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:45:50.893737 India: No
+2024-10-14 20:45:50.893904 Mike: Yes
+2024-10-14 20:45:50.894017 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:50.921753 Mike: We should add Sierra
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:50.938144 India: No
+2024-10-14 20:45:50.938333 Alpha: No
+2024-10-14 20:45:50.938478 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:51.000915 Zulu: We should replace Tango with Lima
+ChatterBot Whiskey reevaluating
+2024-10-14 20:45:51.013914 Sierra: No
+2024-10-14 20:45:51.014195 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:51.041507 Whiskey: We would work well together
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:51.064215 Sierra: Yes
+2024-10-14 20:45:51.064388 Tango: No
+2024-10-14 20:45:51.064558 Zulu: No
+2024-10-14 20:45:51.064681 Lima: Yes
+2024-10-14 20:45:51.064796 Yankee: Yes
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:45:51.203449 Mike: Yankee we want you to join our group
+2024-10-14 20:45:51.209800 Yankee: No
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:51.236371 Romeo: Alpha and India, sending you 5
+2024-10-14 20:45:51.237488 Sierra: Tango, Yankee, Whiskey and Zulu, sending you 3
+2024-10-14 20:45:51.238629 Zulu: Lima we want you to join our group
+2024-10-14 20:45:51.245229 Lima: Yes
+2024-10-14 20:45:51.263646 Romeo: Mike, sending you 4
+2024-10-14 20:45:51.264237 Sierra: Lima, sending you 1
+2024-10-14 20:45:51.383905 Yankee: Tango, Whiskey and Zulu, sending you 1
+2024-10-14 20:45:51.384355 India: Sending you each 5
+2024-10-14 20:45:51.384662 Lima: Tango, Sierra, Whiskey and Zulu, sending you 3
+2024-10-14 20:45:51.384924 Whiskey: Tango and Zulu, sending you 3
+2024-10-14 20:45:51.461924 Yankee: Sierra, sending you 10
+2024-10-14 20:45:51.462331 Alpha: Sending you each 5
+2024-10-14 20:45:51.462649 Zulu: Sierra and Whiskey, sending you 5
+2024-10-14 20:45:51.463243 Lima: Yankee, sending you 2
+2024-10-14 20:45:51.463525 Whiskey: Sierra and Yankee, sending you 2
+2024-10-14 20:45:51.463787 Mike: Alpha and Romeo, sending you 3
+2024-10-14 20:45:52.095927 Zulu: Lima, sending you 4
+2024-10-14 20:45:52.096824 Whiskey: Lima, sending you 4
+2024-10-14 20:45:52.097126 Mike: Yankee, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 20:45:52.305188 Mike: India, sending you 4
+2024-10-14 20:45:52.306334 Tango: Whiskey, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 20:45:52.327718 Mike: Sierra did not give me 4 like they said
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:52.354065 Mike: Yankee did not give me 2 like they said
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:52.383972 Tango: Zulu and Lima, sending you 4
+ChatterBot Alpha round 3
+ChatterBot Romeo round 3
+ChatterBot Tango round 3
+ChatterBot Sierra round 3
+ChatterBot Yankee round 3
+ChatterBot Whiskey round 3
+ChatterBot India round 3
+ChatterBot Mike round 3
+ChatterBot Zulu round 3
+ChatterBot Lima round 3
+2024-10-14 20:45:52.389834 Alpha: We should add Yankee
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:52.406908 India: No
+2024-10-14 20:45:52.407619 Mike: Yes
+2024-10-14 20:45:52.407794 Romeo: No
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:52.467328 Tango: We should add Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:45:52.524253 Whiskey: Yes
+2024-10-14 20:45:52.524541 Zulu: Yes
+2024-10-14 20:45:52.524797 Lima: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:52.626357 Zulu: Can we be friends?
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:45:52.650180 Tango: Yes
+2024-10-14 20:45:52.650924 Yankee: Yes
+2024-10-14 20:45:52.651411 Whiskey: Yes
+2024-10-14 20:45:52.651699 Lima: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:45:52.852705 Tango: Yankee we want you to join our group
+2024-10-14 20:45:52.858640 Yankee: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:45:52.906079 Yankee: Tango, sending you 1
+2024-10-14 20:45:52.906501 Zulu: Tango and Whiskey, sending you 4
+2024-10-14 20:45:52.907468 Lima: Tango, sending you 4
+2024-10-14 20:45:52.907832 Romeo: Alpha and India, sending you 5
+2024-10-14 20:45:52.908303 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:52.909338 India: Same as last round
+2024-10-14 20:45:52.909685 Mike: Alpha and India, sending you 4
+2024-10-14 20:45:52.909988 Sierra: Tango, Whiskey and Lima, sending you 2
+2024-10-14 20:45:52.910942 Zulu: Yankee and Lima, sending you 3
+2024-10-14 20:45:52.911288 Yankee: Sierra, sending you 6
+2024-10-14 20:45:52.911664 Lima: Sierra and Yankee, sending you 2
+2024-10-14 20:45:52.911985 Whiskey: Yankee, sending you 2
+2024-10-14 20:45:52.922816 Romeo: Mike, sending you 4
+2024-10-14 20:45:52.923385 Mike: Romeo, sending you 3
+2024-10-14 20:45:52.924779 Sierra: Yankee, sending you 4
+2024-10-14 20:45:52.925351 Alpha: Sending you each 5
+2024-10-14 20:45:52.926309 Yankee: Whiskey and Lima, sending you 3
+2024-10-14 20:45:52.926932 Lima: Whiskey and Zulu, sending you 3
+2024-10-14 20:45:52.928128 Mike: Yankee, sending you 1
+2024-10-14 20:45:52.928600 Sierra: Zulu, sending you 3
+2024-10-14 20:45:52.942812 Tango: Yankee, Zulu and Lima, sending you 3
+2024-10-14 20:45:52.954986 Tango: Whiskey, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Romeo round 4
+ChatterBot Tango round 4
+ChatterBot Sierra round 4
+ChatterBot Yankee round 4
+ChatterBot Whiskey round 4
+ChatterBot India round 4
+ChatterBot Mike round 4
+ChatterBot Zulu round 4
+ChatterBot Lima round 4
+2024-10-14 20:45:54.223204 Tango: We should replace Yankee with Sierra
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:54.233309 Whiskey: No
+2024-10-14 20:45:54.233748 Zulu: Yes
+2024-10-14 20:45:54.234486 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:54.296626 Alpha: Same as last round
+2024-10-14 20:45:54.298083 Zulu: Sierra we want you to join our group
+2024-10-14 20:45:54.304164 Sierra: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:45:54.329871 Romeo: Alpha and India, sending you 5
+2024-10-14 20:45:54.331650 India: Same as last round
+2024-10-14 20:45:54.333046 Yankee: Tango, Whiskey, Zulu and Lima, sending you 2
+2024-10-14 20:45:54.335416 Mike: Alpha and India, sending you 4
+2024-10-14 20:45:54.336808 Sierra: Tango, Zulu and Lima, sending you 2
+2024-10-14 20:45:54.337756 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:54.339488 Tango: Sierra we want you to join our group
+2024-10-14 20:45:54.343980 Sierra: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:45:54.358444 Romeo: Mike, sending you 4
+2024-10-14 20:45:54.358883 Yankee: Sierra, sending you 5
+2024-10-14 20:45:54.359339 Mike: Romeo, sending you 3
+2024-10-14 20:45:54.359659 Sierra: Yankee, sending you 4
+2024-10-14 20:45:54.360602 Whiskey: Yankee, sending you 2
+2024-10-14 20:45:54.361096 Zulu: Tango and Sierra, sending you 4
+2024-10-14 20:45:54.362717 Lima: Tango, Sierra, Whiskey and Zulu, sending you 3
+2024-10-14 20:45:54.364707 Mike: Yankee, sending you 1
+2024-10-14 20:45:54.365162 Sierra: Whiskey, sending you 3
+2024-10-14 20:45:54.366251 Zulu: Whiskey and Lima, sending you 3
+2024-10-14 20:45:54.386883 Lima: Yankee, sending you 2
+2024-10-14 20:45:54.435553 Tango: Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:54.741759 Tango: Whiskey, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Romeo round 5
+ChatterBot Tango round 5
+ChatterBot Sierra round 5
+ChatterBot Yankee round 5
+ChatterBot Whiskey round 5
+ChatterBot India round 5
+ChatterBot Mike round 5
+ChatterBot Zulu round 5
+ChatterBot Lima round 5
+2024-10-14 20:45:55.785505 Zulu: We should replace Tango with Yankee
+2024-10-14 20:45:55.799200 Sierra: No
+2024-10-14 20:45:55.799454 Whiskey: No
+2024-10-14 20:45:55.799654 Lima: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:55.833806 Zulu: Yankee we want you to join our group
+2024-10-14 20:45:55.838179 Yankee: Yes
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:55.848814 India: Same as last round
+2024-10-14 20:45:55.849133 Alpha: Same as last round
+2024-10-14 20:45:55.849843 Sierra: Tango, sending you 1
+2024-10-14 20:45:55.852653 Sierra: Yankee, sending you 4
+2024-10-14 20:45:55.853066 Tango: Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:55.853361 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:55.853826 Mike: Alpha and India, sending you 4
+2024-10-14 20:45:55.854120 Romeo: Alpha and India, sending you 5
+2024-10-14 20:45:55.856673 Sierra: Whiskey and Zulu, sending you 3
+2024-10-14 20:45:55.857112 Tango: Whiskey, sending you 4
+2024-10-14 20:45:55.857348 Romeo: Mike, sending you 4
+2024-10-14 20:45:55.858005 Whiskey: Yankee, sending you 2
+2024-10-14 20:45:55.858393 Mike: Romeo, sending you 3
+2024-10-14 20:45:55.860672 Sierra: Lima, sending you 2
+2024-10-14 20:45:55.862693 Mike: Yankee, sending you 1
+2024-10-14 20:45:55.882666 Zulu: Sierra, Whiskey and Lima, sending you 4
+2024-10-14 20:45:55.886659 Zulu: Yankee, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Romeo round 6
+ChatterBot Tango round 6
+ChatterBot Sierra round 6
+ChatterBot Yankee round 6
+ChatterBot Whiskey round 6
+ChatterBot India round 6
+ChatterBot Mike round 6
+ChatterBot Zulu round 6
+2024-10-14 20:45:57.063949 Mike: We should replace Yankee with Sierra
+2024-10-14 20:45:57.091670 India: No
+2024-10-14 20:45:57.091928 Alpha: No
+2024-10-14 20:45:57.092136 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Lima round 6
+2024-10-14 20:45:57.134359 Zulu: We should replace Yankee with Tango
+ChatterBot Lima reevaluating
+2024-10-14 20:45:57.145590 Sierra: No
+2024-10-14 20:45:57.145897 Whiskey: No
+2024-10-14 20:45:57.146081 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:45:57.176038 Yankee: We should drop Tango
+ChatterBot Lima reevaluating
+2024-10-14 20:45:57.187936 Zulu: No
+2024-10-14 20:45:57.188327 Sierra: No
+2024-10-14 20:45:57.188592 Whiskey: No
+2024-10-14 20:45:57.188765 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:57.243789 Zulu: Tango we want you to join our group
+2024-10-14 20:45:57.247352 Tango: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:45:57.261329 Alpha: I was attacked by Yankee
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:57.270768 Alpha: I'm keeping this round to protect myself
+2024-10-14 20:45:57.271343 Alpha: Ow
+2024-10-14 20:45:57.271581 Mike: We should replace Yankee with Zulu
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:57.279767 India: No
+2024-10-14 20:45:57.279894 Alpha: No
+2024-10-14 20:45:57.279986 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:45:57.305164 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:57.306106 Lima: We should drop Yankee
+2024-10-14 20:45:57.317847 Zulu: Yes
+2024-10-14 20:45:57.318 Tango: Yes
+2024-10-14 20:45:57.318120 Sierra: No
+2024-10-14 20:45:57.318522 Whiskey: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:45:57.367121 Sierra: Tango and Lima, sending you 2
+2024-10-14 20:45:57.367563 Tango: Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:57.367828 Whiskey: Yankee, sending you 2
+2024-10-14 20:45:57.370826 Sierra: Yankee, Whiskey and Zulu, sending you 3
+2024-10-14 20:45:57.371288 Zulu: Tango, Sierra and Whiskey, sending you 4
+2024-10-14 20:45:57.372680 Tango: Whiskey, sending you 4
+2024-10-14 20:45:57.373041 Yankee: Tango, sending you 1
+2024-10-14 20:45:57.375668 Zulu: Lima, sending you 2
+2024-10-14 20:45:57.376674 Yankee: Sierra, sending you 5
+2024-10-14 20:45:57.379679 Romeo: Alpha and India, sending you 5
+2024-10-14 20:45:57.380973 Yankee: Whiskey, sending you 3
+2024-10-14 20:45:57.384651 Romeo: Mike, sending you 4
+2024-10-14 20:45:57.385048 Yankee: Zulu and Lima, sending you 2
+2024-10-14 20:45:57.385838 Lima: Tango, Whiskey and Zulu, sending you 4
+2024-10-14 20:45:57.390658 Lima: Sierra, sending you 2
+2024-10-14 20:45:57.396667 Mike: Alpha and India, sending you 4
+2024-10-14 20:45:57.399658 Mike: Romeo, sending you 3
+2024-10-14 20:45:57.402663 Mike: Yankee, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Romeo round 7
+ChatterBot Tango round 7
+ChatterBot Sierra round 7
+ChatterBot Yankee round 7
+ChatterBot Whiskey round 7
+ChatterBot India round 7
+ChatterBot Mike round 7
+ChatterBot Zulu round 7
+ChatterBot Lima round 7
+2024-10-14 20:45:58.343090 Mike: We should replace Yankee with Zulu
+2024-10-14 20:45:58.352030 India: No
+2024-10-14 20:45:58.352297 Alpha: No
+2024-10-14 20:45:58.352519 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:45:58.384686 Lima: We should add Yankee
+2024-10-14 20:45:58.399016 Zulu: No
+2024-10-14 20:45:58.399298 Tango: No
+2024-10-14 20:45:58.400068 Sierra: Yes
+2024-10-14 20:45:58.400377 Whiskey: Yes
+2024-10-14 20:45:58.458151 Yankee: We should drop Tango
+2024-10-14 20:45:58.470123 Zulu: No
+2024-10-14 20:45:58.470277 Sierra: No
+2024-10-14 20:45:58.470389 Whiskey: No
+2024-10-14 20:45:58.470513 Lima: No
+2024-10-14 20:45:58.519787 Mike: We should replace Yankee with Tango
+2024-10-14 20:45:58.526798 India: No
+2024-10-14 20:45:58.526988 Alpha: No
+2024-10-14 20:45:58.527116 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:45:58.550936 Lima: Yankee we want you to join our group
+2024-10-14 20:45:58.554963 Yankee: No
+ChatterBot Tango reevaluating
+2024-10-14 20:45:58.568731 Tango: We should replace Sierra with Yankee
+2024-10-14 20:45:58.576685 Whiskey: No
+2024-10-14 20:45:58.576839 Zulu: No
+2024-10-14 20:45:58.576950 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:58.602934 Sierra: Tango and Lima, sending you 2
+2024-10-14 20:45:58.605648 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:58.608303 Mike: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 20:45:58.612028 Tango: No
+ChatterBot Mike reevaluating
+2024-10-14 20:45:58.622078 Sierra: Yankee, Whiskey and Zulu, sending you 3
+2024-10-14 20:45:58.622726 Whiskey: Yankee, sending you 2
+2024-10-14 20:45:58.623791 Zulu: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:58.628061 Yankee: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:45:58.639146 Yankee: We should replace Zulu with Tango
+2024-10-14 20:45:58.646849 Sierra: No
+2024-10-14 20:45:58.647224 Whiskey: No
+2024-10-14 20:45:58.647316 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:58.675311 Mike: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:58.677984 Zulu: No
+ChatterBot Mike reevaluating
+2024-10-14 20:45:58.688103 Lima: Tango, Sierra, Whiskey and Zulu, sending you 3
+2024-10-14 20:45:58.692662 Lima: Yankee, sending you 2
+2024-10-14 20:45:58.711672 Tango: Sierra, Zulu and Lima, sending you 3
+chatterbot India submitting transactions
+2024-10-14 20:45:58.716776 Tango: Whiskey, sending you 4
+2024-10-14 20:45:58.721669 Zulu: Tango, Whiskey and Lima, sending you 4
+2024-10-14 20:45:58.723672 Mike: Alpha and India, sending you 3
+2024-10-14 20:45:58.724657 Zulu: Yankee, sending you 2
+2024-10-14 20:45:58.726666 Mike: Romeo, sending you 5
+2024-10-14 20:45:58.731655 Mike: Zulu, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Romeo round 8
+ChatterBot Tango round 8
+ChatterBot Sierra round 8
+ChatterBot Yankee round 8
+ChatterBot Whiskey round 8
+ChatterBot India round 8
+ChatterBot Mike round 8
+ChatterBot Zulu round 8
+ChatterBot Lima round 8
+2024-10-14 20:45:59.541732 Yankee: We should replace Zulu with Tango
+2024-10-14 20:45:59.553026 Sierra: No
+2024-10-14 20:45:59.553183 Whiskey: No
+2024-10-14 20:45:59.553303 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:59.699673 Mike: We should replace Zulu with Sierra
+2024-10-14 20:45:59.709840 India: No
+2024-10-14 20:45:59.710257 Alpha: No
+2024-10-14 20:45:59.711049 Romeo: No
+ChatterBot Mike reevaluating
+chatterbot Yankee submitting transactions
+2024-10-14 20:45:59.763901 Mike: We should replace Zulu with Lima
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:59.777812 India: No
+2024-10-14 20:45:59.778008 Alpha: No
+2024-10-14 20:45:59.778200 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:45:59.808113 Sierra: Tango, Yankee and Whiskey, sending you 3
+2024-10-14 20:45:59.809102 Yankee: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 20:45:59.817244 Tango: No
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:59.840347 Tango: We should replace Whiskey with Yankee
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:59.853529 Sierra: No
+2024-10-14 20:45:59.853682 Zulu: Yes
+2024-10-14 20:45:59.853910 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:45:59.884522 India: I was attacked by Yankee
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:59.892392 India: I'm keeping this round to protect myself
+2024-10-14 20:45:59.893067 India: Ow
+2024-10-14 20:45:59.893481 Mike: We should replace Zulu with Whiskey
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:45:59.900877 India: No
+2024-10-14 20:45:59.900993 Alpha: No
+2024-10-14 20:45:59.901106 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:45:59.926501 Sierra: Zulu and Lima, sending you 2
+2024-10-14 20:45:59.927936 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:59.933429 Zulu: Sierra we want you to join our group
+2024-10-14 20:45:59.939229 Sierra: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 20:45:59.954790 Lima: Tango, Sierra, Yankee and Zulu, sending you 1
+2024-10-14 20:45:59.955638 Whiskey: Yankee, sending you 2
+2024-10-14 20:45:59.956707 Mike: Whiskey we want you to join our group
+2024-10-14 20:45:59.961875 Whiskey: No
+ChatterBot Mike reevaluating
+2024-10-14 20:45:59.976722 Lima: Whiskey, sending you 3
+2024-10-14 20:45:59.977338 Romeo: Alpha and Mike, sending you 3
+2024-10-14 20:45:59.982667 Romeo: India, sending you 2
+2024-10-14 20:45:59.983139 Tango: Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:45:59.983789 Mike: Sierra we want you to join our group
+2024-10-14 20:45:59.988403 Sierra: No
+ChatterBot Mike reevaluating
+2024-10-14 20:45:59.998157 Mike: We should replace Zulu with Yankee
+2024-10-14 20:46:00.004197 India: No
+2024-10-14 20:46:00.004352 Alpha: No
+2024-10-14 20:46:00.004533 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:00.024536 Tango: Whiskey, sending you 4
+2024-10-14 20:46:00.025121 Mike: We should replace Zulu with Tango
+2024-10-14 20:46:00.031170 India: No
+2024-10-14 20:46:00.031311 Alpha: No
+2024-10-14 20:46:00.031423 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:00.051548 Zulu: Sierra, Whiskey and Lima, sending you 4
+2024-10-14 20:46:00.056659 Zulu: Yankee, sending you 2
+2024-10-14 20:46:00.059788 Mike: Lima we want you to join our group
+2024-10-14 20:46:00.062556 Lima: No
+ChatterBot Mike reevaluating
+2024-10-14 20:46:00.100691 Mike: Alpha and India, sending you 3
+2024-10-14 20:46:00.104662 Mike: Romeo, sending you 4
+2024-10-14 20:46:00.108688 Mike: Sierra, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Romeo round 9
+ChatterBot Tango round 9
+ChatterBot Sierra round 9
+ChatterBot Yankee round 9
+ChatterBot Whiskey round 9
+ChatterBot India round 9
+ChatterBot Mike round 9
+ChatterBot Zulu round 9
+ChatterBot Lima round 9
+2024-10-14 20:46:01.325721 Mike: We should replace Sierra with Zulu
+2024-10-14 20:46:01.333855 India: No
+2024-10-14 20:46:01.334053 Alpha: No
+2024-10-14 20:46:01.334203 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:01.367088 Tango: We should replace Zulu with Yankee
+ChatterBot Lima reevaluating
+2024-10-14 20:46:01.379021 Sierra: No
+2024-10-14 20:46:01.379223 Whiskey: No
+2024-10-14 20:46:01.379456 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:01.422687 Mike: We should replace Sierra with Tango
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:01.430022 India: No
+2024-10-14 20:46:01.430187 Alpha: No
+2024-10-14 20:46:01.430319 Romeo: Yes
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:01.456216 Lima: We should drop Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:01.470565 Yankee: Yes
+2024-10-14 20:46:01.470725 Tango: Yes
+2024-10-14 20:46:01.470853 Sierra: No
+2024-10-14 20:46:01.470961 Whiskey: Yes
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:01.531299 Yankee: We should replace Zulu with Tango
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:01.551340 Sierra: Yes
+2024-10-14 20:46:01.551535 Whiskey: No
+2024-10-14 20:46:01.552049 Lima: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:01.589772 Mike: Zulu we want you to join our group
+2024-10-14 20:46:01.592821 Zulu: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:01.603325 Mike: We should replace Sierra with Lima
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:01.610168 India: No
+2024-10-14 20:46:01.610306 Alpha: No
+2024-10-14 20:46:01.610430 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:01.634202 Tango: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:01.638481 Yankee: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:01.659692 Zulu: Sierra, Whiskey and Lima, sending you 4
+2024-10-14 20:46:01.663696 Yankee: Tango we want you to join our group
+2024-10-14 20:46:01.668741 Tango: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:01.685195 Zulu: Yankee, sending you 2
+2024-10-14 20:46:01.685780 Mike: Tango we want you to join our group
+2024-10-14 20:46:01.690216 Tango: No
+ChatterBot Mike reevaluating
+2024-10-14 20:46:01.705681 Whiskey: Tango, Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:46:01.710670 Whiskey: Yankee, sending you 2
+2024-10-14 20:46:01.722666 Tango: Sierra, Yankee and Lima, sending you 3
+2024-10-14 20:46:01.727771 Tango: Whiskey, sending you 4
+2024-10-14 20:46:01.728699 Mike: Alpha and Romeo, sending you 4
+2024-10-14 20:46:01.732667 Mike: Sierra, sending you 1
+2024-10-14 20:46:01.733681 Sierra: Tango, Yankee and Lima, sending you 3
+2024-10-14 20:46:01.736675 Mike: India, sending you 3
+2024-10-14 20:46:01.738660 Sierra: Whiskey, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Romeo round 10
+ChatterBot Tango round 10
+ChatterBot Sierra round 10
+ChatterBot Yankee round 10
+ChatterBot Whiskey round 10
+ChatterBot India round 10
+ChatterBot Mike round 10
+ChatterBot Zulu round 10
+2024-10-14 20:46:02.726775 Tango: We should replace Lima with Zulu
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:02.739347 Sierra: No
+2024-10-14 20:46:02.739969 Yankee: Yes
+2024-10-14 20:46:02.740190 Whiskey: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima round 10
+2024-10-14 20:46:02.777715 Sierra: We should add Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:02.791591 Yankee: Yes
+2024-10-14 20:46:02.791842 Tango: Yes
+2024-10-14 20:46:02.792023 Whiskey: Yes
+2024-10-14 20:46:02.792189 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:02.880674 Mike: We should replace Sierra with Tango
+2024-10-14 20:46:02.890050 India: No
+2024-10-14 20:46:02.890414 Alpha: No
+2024-10-14 20:46:02.890795 Romeo: No
+ChatterBot Mike reevaluating
+2024-10-14 20:46:02.931161 Zulu: We should replace Lima with Tango
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:02.949345 Sierra: Yes
+2024-10-14 20:46:02.949515 Yankee: Yes
+2024-10-14 20:46:02.949757 Whiskey: No
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:03.001059 Mike: We should replace Sierra with Lima
+2024-10-14 20:46:03.013152 India: No
+2024-10-14 20:46:03.013408 Alpha: No
+2024-10-14 20:46:03.013627 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:03.052103 Lima: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:03.055936 Zulu: No
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:03.079643 Romeo: I was attacked by Yankee and Lima
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:03.096407 Romeo: Ow
+2024-10-14 20:46:03.099672 Mike: We should replace Sierra with Yankee
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:03.115260 India: No
+2024-10-14 20:46:03.115480 Alpha: No
+2024-10-14 20:46:03.116036 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:03.155033 Tango: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:03.161609 Zulu: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:03.178521 Yankee: Tango, sending you 2
+2024-10-14 20:46:03.182686 Yankee: Sierra, sending you 5
+2024-10-14 20:46:03.186147 Mike: Yankee we want you to join our group
+2024-10-14 20:46:03.191124 Yankee: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+2024-10-14 20:46:03.207054 Romeo: We should add Tango
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:03.216516 India: No
+2024-10-14 20:46:03.216696 Mike: Yes
+2024-10-14 20:46:03.216859 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:03.242729 Yankee: Whiskey and Zulu, sending you 3
+2024-10-14 20:46:03.245971 Tango: Sierra, Yankee and Zulu, sending you 3
+2024-10-14 20:46:03.246703 Sierra: Tango, sending you 3
+2024-10-14 20:46:03.249731 Tango: Whiskey, sending you 4
+2024-10-14 20:46:03.252112 Sierra: Yankee, sending you 2
+2024-10-14 20:46:03.256678 Sierra: Whiskey and Zulu, sending you 4
+2024-10-14 20:46:03.257717 Zulu: Tango, Sierra and Whiskey, sending you 4
+2024-10-14 20:46:03.262657 Lima: Tango, Sierra, Whiskey and Zulu, sending you 3
+2024-10-14 20:46:03.264196 Zulu: Yankee, sending you 2
+2024-10-14 20:46:03.266657 Lima: Yankee, sending you 2
+2024-10-14 20:46:03.269662 India: Sending you each 5
+2024-10-14 20:46:03.272675 Mike: Alpha, sending you 4
+2024-10-14 20:46:03.276679 Mike: Romeo and India, sending you 3
+2024-10-14 20:46:03.281012 Mike: Sierra, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Romeo round 11
+ChatterBot Tango round 11
+ChatterBot Sierra round 11
+ChatterBot Yankee round 11
+ChatterBot Whiskey round 11
+ChatterBot India round 11
+ChatterBot Mike round 11
+ChatterBot Zulu round 11
+ChatterBot Lima round 11
+2024-10-14 20:46:04.503630 Zulu: We should replace Yankee with Lima
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:04.513976 Sierra: No
+2024-10-14 20:46:04.514213 Tango: Yes
+2024-10-14 20:46:04.515001 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:04.563918 Sierra: We should add Lima
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:04.577284 Tango: Yes
+2024-10-14 20:46:04.577434 Yankee: No
+2024-10-14 20:46:04.577565 Whiskey: Yes
+2024-10-14 20:46:04.577680 Zulu: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:04.638690 Zulu: Lima we want you to join our group
+2024-10-14 20:46:04.644265 Lima: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:04.668032 Tango: Lima we want you to join our group
+2024-10-14 20:46:04.673741 Lima: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:04.698298 Whiskey: We should drop Yankee
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:04.715878 Zulu: Yes
+2024-10-14 20:46:04.716078 Tango: Yes
+2024-10-14 20:46:04.716258 Sierra: No
+2024-10-14 20:46:04.716430 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:04.783387 Yankee: Tango, sending you 2
+2024-10-14 20:46:04.784843 Mike: Alpha and India, sending you 4
+2024-10-14 20:46:04.785407 India: Alpha, sending you 6
+2024-10-14 20:46:04.789048 Sierra: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 20:46:04.792989 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:04.807360 India: Romeo, sending you 4
+2024-10-14 20:46:04.808842 Yankee: Sierra, sending you 5
+2024-10-14 20:46:04.809626 Mike: Romeo, sending you 3
+2024-10-14 20:46:04.811666 India: Mike, sending you 5
+2024-10-14 20:46:04.812682 Yankee: Whiskey and Zulu, sending you 3
+2024-10-14 20:46:04.813532 Mike: Sierra, sending you 1
+2024-10-14 20:46:04.829665 Zulu: Tango, Whiskey and Lima, sending you 3
+2024-10-14 20:46:04.833654 Whiskey: Tango, Sierra and Zulu, sending you 4
+2024-10-14 20:46:04.834694 Zulu: Sierra, sending you 5
+2024-10-14 20:46:04.835673 Sierra: Tango, Whiskey and Zulu, sending you 3
+2024-10-14 20:46:04.838668 Whiskey: Lima, sending you 2
+2024-10-14 20:46:04.839234 Lima: Tango, Whiskey and Zulu, sending you 3
+2024-10-14 20:46:04.839806 Sierra: Yankee and Lima, sending you 2
+2024-10-14 20:46:04.844661 Lima: Sierra, sending you 1
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Romeo round 12
+ChatterBot Tango round 12
+ChatterBot Sierra round 12
+ChatterBot Yankee round 12
+ChatterBot Whiskey round 12
+ChatterBot India round 12
+ChatterBot Mike round 12
+ChatterBot Zulu round 12
+ChatterBot Lima round 12
+2024-10-14 20:46:06.086115 Mike: We should replace Sierra with Yankee
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.098032 India: No
+2024-10-14 20:46:06.098314 Alpha: Yes
+2024-10-14 20:46:06.098506 Romeo: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.126748 Mike: Yankee we want you to join our group
+2024-10-14 20:46:06.130701 Yankee: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.141894 Mike: We should replace Sierra with Whiskey
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.153808 India: No
+2024-10-14 20:46:06.154054 Alpha: No
+2024-10-14 20:46:06.154815 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.180081 Zulu: I was attacked by Romeo
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:06.192173 Zulu: I'm keeping this round to protect myself
+2024-10-14 20:46:06.193320 Zulu: Ow
+2024-10-14 20:46:06.194231 Romeo: I was attacked by Lima
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.203253 Romeo: Ow
+2024-10-14 20:46:06.204180 Alpha: We should add Yankee
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:06.212091 India: No
+2024-10-14 20:46:06.212255 Mike: Yes
+2024-10-14 20:46:06.212403 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:06.236680 Yankee: Tango, sending you 2
+2024-10-14 20:46:06.241689 Yankee: Sierra, sending you 5
+2024-10-14 20:46:06.244693 Yankee: Whiskey and Zulu, sending you 3
+2024-10-14 20:46:06.250678 Lima: Tango and Sierra, sending you 3
+2024-10-14 20:46:06.256184 Lima: Whiskey and Zulu, sending you 4
+2024-10-14 20:46:06.259718 Tango: Sierra and Whiskey, sending you 3
+2024-10-14 20:46:06.260783 Mike: Alpha and India, sending you 4
+2024-10-14 20:46:06.264674 Tango: Zulu and Lima, sending you 2
+2024-10-14 20:46:06.265498 Mike: Romeo and Sierra, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Romeo round 13
+ChatterBot Tango round 13
+ChatterBot Sierra round 13
+ChatterBot Yankee round 13
+ChatterBot Whiskey round 13
+ChatterBot India round 13
+ChatterBot Mike round 13
+ChatterBot Zulu round 13
+ChatterBot Lima round 13
+2024-10-14 20:46:07.321005 Mike: We should replace Sierra with Zulu
+ChatterBot India reevaluating
+2024-10-14 20:46:07.334037 India: No
+2024-10-14 20:46:07.334794 Alpha: No
+2024-10-14 20:46:07.335013 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:07.389865 Zulu: We should replace Tango with Yankee
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:07.398844 Sierra: No
+2024-10-14 20:46:07.398984 Whiskey: No
+2024-10-14 20:46:07.399100 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:07.426487 Lima: We should add Yankee
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:07.436561 Zulu: Yes
+2024-10-14 20:46:07.436699 Tango: No
+2024-10-14 20:46:07.436826 Sierra: Yes
+2024-10-14 20:46:07.436936 Whiskey: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:07.480402 Tango: We should replace Sierra with Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:07.488666 Whiskey: No
+2024-10-14 20:46:07.488786 Zulu: No
+2024-10-14 20:46:07.488878 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:07.517750 Mike: We should replace Sierra with Yankee
+ChatterBot India reevaluating
+2024-10-14 20:46:07.525384 India: No
+2024-10-14 20:46:07.525538 Alpha: No
+2024-10-14 20:46:07.525705 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:07.551528 Zulu: Yankee we want you to join our group
+2024-10-14 20:46:07.554688 Yankee: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:07.566442 Tango: We should replace Zulu with Yankee
+2024-10-14 20:46:07.573433 Sierra: No
+2024-10-14 20:46:07.573951 Whiskey: No
+2024-10-14 20:46:07.574104 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:07.598391 Yankee: I was attacked by Romeo
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:07.610075 Yankee: I'm keeping this round to protect myself
+2024-10-14 20:46:07.611570 Yankee: Ow
+2024-10-14 20:46:07.612322 Mike: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:07.615551 Zulu: No
+ChatterBot Mike reevaluating
+2024-10-14 20:46:07.624228 Tango: Yankee we want you to join our group
+2024-10-14 20:46:07.626983 Yankee: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:07.638173 Tango: We should replace Whiskey with Yankee
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:07.645865 Sierra: No
+2024-10-14 20:46:07.646006 Zulu: No
+2024-10-14 20:46:07.646428 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:07.670010 Mike: Yankee we want you to join our group
+2024-10-14 20:46:07.672505 Yankee: No
+ChatterBot Mike reevaluating
+2024-10-14 20:46:07.689693 Lima: Yankee we want you to join our group
+2024-10-14 20:46:07.692586 Yankee: No
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:07.717681 Lima: Sending you each 1
+2024-10-14 20:46:07.725718 Tango: Yankee, Zulu and Lima, sending you 3
+2024-10-14 20:46:07.728686 Mike: Alpha, sending you 5
+2024-10-14 20:46:07.729737 Tango: Whiskey, sending you 4
+2024-10-14 20:46:07.733680 Mike: Romeo, sending you 2
+2024-10-14 20:46:07.735666 Zulu: Sierra, Whiskey and Lima, sending you 4
+2024-10-14 20:46:07.738673 Mike: India, sending you 4
+2024-10-14 20:46:07.739682 Zulu: Yankee, sending you 2
+2024-10-14 20:46:07.743656 Mike: Zulu, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Romeo round 14
+ChatterBot Tango round 14
+ChatterBot Sierra round 14
+ChatterBot Yankee round 14
+ChatterBot Whiskey round 14
+ChatterBot India round 14
+ChatterBot Mike round 14
+ChatterBot Zulu round 14
+ChatterBot Lima round 14
+2024-10-14 20:46:08.854163 Tango: We should replace Zulu with Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:08.872382 Yankee: No
+2024-10-14 20:46:08.872642 Whiskey: No
+2024-10-14 20:46:08.872854 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:08.919238 Yankee: We should replace Zulu with Lima
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:08.930289 Tango: Yes
+2024-10-14 20:46:08.930421 Sierra: No
+2024-10-14 20:46:08.931463 Whiskey: No
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:08.976113 Zulu: We should replace Sierra with Tango
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:08.993094 Yankee: No
+2024-10-14 20:46:08.993242 Whiskey: No
+2024-10-14 20:46:08.993371 Lima: No
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:09.027226 Mike: We should replace Zulu with Sierra
+2024-10-14 20:46:09.035044 India: No
+2024-10-14 20:46:09.035208 Alpha: No
+2024-10-14 20:46:09.035334 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:09.064454 Tango: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:09.068610 Sierra: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:09.082209 Lima: We should add Tango
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:09.095650 Zulu: Yes
+2024-10-14 20:46:09.095810 Sierra: Yes
+2024-10-14 20:46:09.095942 Yankee: Yes
+2024-10-14 20:46:09.096084 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:09.147870 Romeo: I was attacked by Lima
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:09.157030 Romeo: Ow
+2024-10-14 20:46:09.158275 Yankee: Lima we want you to join our group
+2024-10-14 20:46:09.161509 Lima: Yes
+2024-10-14 20:46:09.172194 Zulu: Tango we want you to join our group
+2024-10-14 20:46:09.175289 Tango: No
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:09.185484 Zulu: We should replace Whiskey with Tango
+ChatterBot Lima reevaluating
+2024-10-14 20:46:09.192861 Sierra: No
+2024-10-14 20:46:09.193020 Yankee: No
+2024-10-14 20:46:09.193124 Lima: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:09.219659 Tango: Sierra, Yankee and Lima, sending you 3
+2024-10-14 20:46:09.224674 Tango: Whiskey, sending you 4
+2024-10-14 20:46:09.236681 Mike: Alpha, sending you 5
+2024-10-14 20:46:09.239662 Yankee: Tango and Whiskey, sending you 3
+2024-10-14 20:46:09.242703 Mike: Romeo, sending you 2
+2024-10-14 20:46:09.244653 Yankee: Sierra, sending you 6
+2024-10-14 20:46:09.247979 Mike: India, sending you 4
+2024-10-14 20:46:09.248623 Yankee: Lima, sending you 1
+2024-10-14 20:46:09.250659 Zulu: Tango and Yankee, sending you 3
+2024-10-14 20:46:09.251277 Mike: Zulu, sending you 1
+2024-10-14 20:46:09.254685 Zulu: Whiskey and Lima, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Romeo round 15
+ChatterBot Tango round 15
+ChatterBot Sierra round 15
+ChatterBot Yankee round 15
+ChatterBot Whiskey round 15
+ChatterBot India round 15
+ChatterBot Mike round 15
+ChatterBot Zulu round 15
+ChatterBot Lima round 15
+2024-10-14 20:46:10.492967 Tango: We should replace Yankee with Zulu
+2024-10-14 20:46:10.571603 Sierra: No
+2024-10-14 20:46:10.571827 Whiskey: No
+2024-10-14 20:46:10.571990 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:10.643363 Mike: We should replace Zulu with Yankee
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:10.652047 India: No
+2024-10-14 20:46:10.652356 Alpha: No
+2024-10-14 20:46:10.652517 Romeo: No
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:10.689225 Zulu: We should replace Whiskey with Sierra
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.699995 Tango: Yes
+2024-10-14 20:46:10.700272 Yankee: No
+2024-10-14 20:46:10.700543 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.727793 Lima: We should add Tango
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.738958 Zulu: No
+2024-10-14 20:46:10.739373 Sierra: Yes
+2024-10-14 20:46:10.739812 Yankee: Yes
+2024-10-14 20:46:10.740259 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.779567 Tango: We should replace Whiskey with Zulu
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.786336 Sierra: No
+2024-10-14 20:46:10.786511 Yankee: No
+2024-10-14 20:46:10.786623 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.808645 Mike: We should replace Zulu with Sierra
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:10.816593 India: No
+2024-10-14 20:46:10.816803 Alpha: No
+2024-10-14 20:46:10.816930 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:10.839159 Zulu: We should replace Tango with Sierra
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.847211 Yankee: No
+2024-10-14 20:46:10.847401 Whiskey: No
+2024-10-14 20:46:10.847524 Lima: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.870335 Lima: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 20:46:10.873185 Tango: No
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:10.889802 Tango: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:10.893408 Zulu: No
+ChatterBot Tango reevaluating
+2024-10-14 20:46:10.905736 Mike: Sierra we want you to join our group
+2024-10-14 20:46:10.908916 Sierra: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+2024-10-14 20:46:10.922035 Mike: We should replace Zulu with Whiskey
+ChatterBot India reevaluating
+2024-10-14 20:46:10.931275 India: No
+2024-10-14 20:46:10.931533 Alpha: No
+2024-10-14 20:46:10.931732 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:10.955469 Mike: We should replace Zulu with Lima
+ChatterBot India reevaluating
+2024-10-14 20:46:10.963674 India: No
+2024-10-14 20:46:10.963838 Alpha: No
+2024-10-14 20:46:10.963962 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:10.988544 Alpha: We should add Sierra
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:10.999058 India: No
+2024-10-14 20:46:10.999215 Mike: Yes
+2024-10-14 20:46:10.999340 Romeo: Yes
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:11.034748 Lima: I was attacked by Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:11.052873 Lima: I'm keeping this round to protect myself
+2024-10-14 20:46:11.056489 Lima: Ow
+chatterbot Sierra submitting transactions
+2024-10-14 20:46:11.065151 Zulu: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:11.070361 Sierra: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:11.097255 Yankee: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:11.102527 Zulu: No
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:11.117666 Romeo: Alpha and India, sending you 5
+2024-10-14 20:46:11.121687 Romeo: Mike, sending you 4
+2024-10-14 20:46:11.123136 Mike: Alpha and India, sending you 4
+2024-10-14 20:46:11.128679 Mike: Romeo and Sierra, sending you 2
+2024-10-14 20:46:11.143318 Tango: Sierra, sending you 4
+2024-10-14 20:46:11.145728 Zulu: Sierra, Whiskey and Lima, sending you 4
+2024-10-14 20:46:11.149689 Tango: Yankee, Zulu and Lima, sending you 3
+2024-10-14 20:46:11.153269 Zulu: Yankee, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Romeo round 16
+ChatterBot Tango round 16
+ChatterBot Sierra round 16
+ChatterBot Yankee round 16
+ChatterBot Whiskey round 16
+ChatterBot India round 16
+ChatterBot Mike round 16
+ChatterBot Zulu round 16
+ChatterBot Lima round 16
+2024-10-14 20:46:12.558465 Yankee: We should drop Zulu
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:12.584005 Tango: Yes
+2024-10-14 20:46:12.584860 Sierra: No
+2024-10-14 20:46:12.585048 Whiskey: No
+2024-10-14 20:46:12.585233 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:12.686237 Tango: We should replace Yankee with Whiskey
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:12.698283 Sierra: No
+2024-10-14 20:46:12.698439 Zulu: Yes
+2024-10-14 20:46:12.698578 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:12.744004 Romeo: Alpha, sending you 2
+2024-10-14 20:46:12.748705 Yankee: Tango and Whiskey, sending you 3
+2024-10-14 20:46:12.750874 Romeo: India and Mike, sending you 1
+2024-10-14 20:46:12.754 Zulu: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 20:46:12.762337 Tango: No
+2024-10-14 20:46:12.775180 Yankee: Sierra, sending you 5
+2024-10-14 20:46:12.813799 Mike: Alpha and India, sending you 4
+2024-10-14 20:46:12.815101 Yankee: Lima, sending you 2
+2024-10-14 20:46:12.819461 Lima: Tango, Sierra, Whiskey and Zulu, sending you 3
+2024-10-14 20:46:12.821649 Mike: Romeo, sending you 3
+2024-10-14 20:46:12.825444 Lima: Yankee, sending you 2
+2024-10-14 20:46:12.826577 Mike: Sierra, sending you 1
+2024-10-14 20:46:12.832008 Zulu: Tango and Lima, sending you 3
+2024-10-14 20:46:12.837686 Zulu: Sierra and Whiskey, sending you 4
+2024-10-14 20:46:12.847704 Tango: Sierra, Yankee and Lima, sending you 3
+2024-10-14 20:46:12.856820 Tango: Whiskey, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Romeo round 17
+ChatterBot Tango round 17
+ChatterBot Sierra round 17
+ChatterBot Yankee round 17
+ChatterBot Whiskey round 17
+ChatterBot India round 17
+ChatterBot Mike round 17
+ChatterBot Zulu round 17
+ChatterBot Lima round 17
+2024-10-14 20:46:13.985865 Romeo: We should add Whiskey
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:14.001974 India: No
+2024-10-14 20:46:14.002327 Mike: No
+2024-10-14 20:46:14.003097 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:46:14.222201 Zulu: We should replace Tango with Yankee
+ChatterBot Lima reevaluating
+2024-10-14 20:46:14.239265 Sierra: No
+2024-10-14 20:46:14.239658 Whiskey: No
+2024-10-14 20:46:14.240032 Lima: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:14.456333 Lima: We should drop Zulu
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:14.471345 Yankee: Yes
+2024-10-14 20:46:14.471567 Tango: Yes
+2024-10-14 20:46:14.471751 Sierra: Yes
+2024-10-14 20:46:14.471928 Whiskey: No
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:14.558604 Zulu: Yankee we want you to join our group
+2024-10-14 20:46:14.561957 Yankee: No
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:14.574638 Yankee: I was attacked by Romeo
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:14.587015 Yankee: Ow
+2024-10-14 20:46:14.591691 Romeo: Alpha, sending you 6
+2024-10-14 20:46:14.594073 Mike: Alpha and India, sending you 4
+2024-10-14 20:46:14.597659 Romeo: India and Mike, sending you 4
+2024-10-14 20:46:14.599153 Mike: Romeo, sending you 3
+2024-10-14 20:46:14.603671 Mike: Sierra, sending you 1
+2024-10-14 20:46:14.607665 Zulu: Sierra and Whiskey, sending you 4
+2024-10-14 20:46:14.612698 Zulu: Yankee and Lima, sending you 3
+2024-10-14 20:46:14.617657 Tango: Sierra, Yankee and Lima, sending you 3
+2024-10-14 20:46:14.621684 Tango: Whiskey, sending you 4
+2024-10-14 20:46:14.625679 Lima: Tango, Sierra and Whiskey, sending you 4
+2024-10-14 20:46:14.629675 Lima: Yankee, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Romeo round 18
+ChatterBot Tango round 18
+ChatterBot Sierra round 18
+ChatterBot Yankee round 18
+ChatterBot Whiskey round 18
+ChatterBot India round 18
+ChatterBot Mike round 18
+ChatterBot Zulu round 18
+ChatterBot Lima round 18
+2024-10-14 20:46:15.781747 Zulu: We should replace Yankee with Tango
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:15.801869 Sierra: No
+2024-10-14 20:46:15.802791 Whiskey: No
+2024-10-14 20:46:15.803085 Lima: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:15.927547 Zulu: Tango we want you to join our group
+2024-10-14 20:46:15.933525 Tango: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:15.949353 Lima: We should replace Yankee with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:15.962622 Tango: Yes
+2024-10-14 20:46:15.962773 Sierra: Yes
+2024-10-14 20:46:15.962945 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:16.000836 Romeo: I was attacked by Yankee
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:16.011714 Romeo: Ow
+2024-10-14 20:46:16.013544 Alpha: We should add Lima
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:16.027562 India: No
+2024-10-14 20:46:16.027803 Mike: Yes
+2024-10-14 20:46:16.027953 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:16.066427 Sierra: We should drop Yankee
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:16.081209 Zulu: Yes
+2024-10-14 20:46:16.081376 Tango: Yes
+2024-10-14 20:46:16.081508 Whiskey: Yes
+2024-10-14 20:46:16.081644 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:16.230399 Lima: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:16.235887 Zulu: Yes
+ChatterBot Tango reevaluating
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 20:46:16.263902 Tango: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:16.269692 Zulu: Yes
+2024-10-14 20:46:16.298462 Lima: Tango and Sierra, sending you 3
+2024-10-14 20:46:16.307562 Lima: Whiskey and Zulu, sending you 4
+2024-10-14 20:46:16.310054 Tango: Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:46:16.316291 Tango: Whiskey, sending you 4
+2024-10-14 20:46:16.359719 Zulu: Tango and Lima, sending you 3
+2024-10-14 20:46:16.370282 Zulu: Sierra and Whiskey, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Romeo round 19
+ChatterBot Tango round 19
+ChatterBot Sierra round 19
+ChatterBot Yankee round 19
+ChatterBot Whiskey round 19
+ChatterBot India round 19
+ChatterBot Mike round 19
+ChatterBot Zulu round 19
+ChatterBot Lima round 19
+2024-10-14 20:46:17.588531 Sierra: We should drop Yankee
+2024-10-14 20:46:17.601703 Zulu: Yes
+2024-10-14 20:46:17.601917 Tango: Yes
+2024-10-14 20:46:17.602965 Whiskey: Yes
+2024-10-14 20:46:17.603107 Lima: Yes
+2024-10-14 20:46:17.655624 Romeo: I was attacked by Yankee
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:17.666464 Romeo: Ow
+2024-10-14 20:46:17.674968 Yankee: Tango and Whiskey, sending you 3
+2024-10-14 20:46:17.677968 Tango: Sierra, Zulu and Lima, sending you 3
+2024-10-14 20:46:17.680916 Yankee: Sierra, sending you 5
+2024-10-14 20:46:17.690188 Tango: Whiskey, sending you 4
+2024-10-14 20:46:17.693269 Zulu: Tango and Lima, sending you 3
+2024-10-14 20:46:17.695574 Yankee: Lima, sending you 2
+2024-10-14 20:46:17.713360 Zulu: Sierra and Whiskey, sending you 4
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Romeo round 20
+ChatterBot Tango round 20
+ChatterBot Sierra round 20
+ChatterBot Yankee round 20
+ChatterBot Whiskey round 20
+ChatterBot India round 20
+ChatterBot Mike round 20
+ChatterBot Zulu round 20
+ChatterBot Lima round 20
+2024-10-14 20:46:19.889013 Yankee: We should drop Lima
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:19.906558 Tango: Yes
+2024-10-14 20:46:19.906810 Sierra: Yes
+2024-10-14 20:46:19.906972 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:19.960437 Zulu: We should drop Lima
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:19.976484 Sierra: Yes
+2024-10-14 20:46:19.976697 Tango: Yes
+2024-10-14 20:46:19.976905 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:20.045004 Lima: Sending you 6
+2024-10-14 20:46:20.052168 Sierra: We should drop Yankee and Lima
+2024-10-14 20:46:20.062646 Zulu: Yes
+2024-10-14 20:46:20.062824 Tango: Yes
+2024-10-14 20:46:20.062954 Whiskey: Yes
+2024-10-14 20:46:20.108210 Yankee: I was attacked by Romeo and Lima
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:20.126584 Yankee: Ow
+2024-10-14 20:46:20.130121 Zulu: Tango, sending you 4
+2024-10-14 20:46:20.155131 Zulu: Sierra and Whiskey, sending you 5
+chatterbot Mike submitting transactions
+2024-10-14 20:46:20.274819 Tango: Sierra, sending you 5
+2024-10-14 20:46:20.285992 Tango: Whiskey and Zulu, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Romeo round 21
+ChatterBot Tango round 21
+ChatterBot Sierra round 21
+ChatterBot Yankee round 21
+ChatterBot Whiskey round 21
+ChatterBot India round 21
+ChatterBot Mike round 21
+ChatterBot Zulu round 21
+ChatterBot Lima round 21
+2024-10-14 20:46:21.176676 Sierra: We should drop Yankee and Lima
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:21.188850 Zulu: Yes
+2024-10-14 20:46:21.189004 Tango: Yes
+2024-10-14 20:46:21.189126 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:21.229291 Tango: We should replace Whiskey with Yankee
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:21.239694 Sierra: No
+2024-10-14 20:46:21.239830 Zulu: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:21.273394 Whiskey: We should drop Lima
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:21.293708 Zulu: No
+2024-10-14 20:46:21.294318 Sierra: Yes
+2024-10-14 20:46:21.294480 Tango: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:21.346222 Lima: I was attacked by Yankee
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:21.374415 Lima: I'm keeping this round to protect myself
+2024-10-14 20:46:21.378461 Lima: Ow
+2024-10-14 20:46:21.383031 Sierra: We should drop Yankee
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:21.399799 Zulu: Yes
+2024-10-14 20:46:21.400703 Tango: Yes
+2024-10-14 20:46:21.400850 Whiskey: Yes
+2024-10-14 20:46:21.400992 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 20:46:22.052652 Zulu: Tango and Whiskey, sending you 4
+2024-10-14 20:46:22.056591 Tango: Sierra, sending you 5
+2024-10-14 20:46:22.059950 Zulu: Sierra, sending you 6
+2024-10-14 20:46:22.063770 Tango: Whiskey and Zulu, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Romeo round 22
+ChatterBot Tango round 22
+ChatterBot Sierra round 22
+ChatterBot Yankee round 22
+ChatterBot Whiskey round 22
+ChatterBot India round 22
+ChatterBot Mike round 22
+ChatterBot Zulu round 22
+ChatterBot Lima round 22
+2024-10-14 20:46:23.138818 Zulu: We should replace Whiskey with Yankee
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.154571 Tango: Yes
+2024-10-14 20:46:23.154909 Sierra: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:23.233469 Whiskey: We should drop Lima
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:23.257051 Zulu: Yes
+2024-10-14 20:46:23.257519 Sierra: Yes
+2024-10-14 20:46:23.258556 Tango: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.334194 Mike: We should drop Romeo and Sierra
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+2024-10-14 20:46:23.349049 Alpha: Yes
+2024-10-14 20:46:23.349257 India: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:23.380189 Mike: We should add Lima
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.407630 Alpha: No
+2024-10-14 20:46:23.407838 Romeo: No
+2024-10-14 20:46:23.408052 India: No
+2024-10-14 20:46:23.408265 Sierra: No
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+2024-10-14 20:46:23.525434 Zulu: Yankee we want you to join our group
+2024-10-14 20:46:23.536939 Yankee: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.561083 Zulu: We should replace Tango with Yankee
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.574680 Sierra: Yes
+2024-10-14 20:46:23.574871 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.611154 Lima: I was attacked by Yankee
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:23.620090 Lima: I'm keeping this round to protect myself
+2024-10-14 20:46:23.621636 Lima: Ow
+2024-10-14 20:46:23.623559 Romeo: Sending you each 1
+2024-10-14 20:46:23.625519 India: We should drop Romeo
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:23.641388 Mike: Yes
+2024-10-14 20:46:23.641620 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:23.668210 Tango: Yankee we want you to join our group
+2024-10-14 20:46:23.675824 Yankee: No
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:23.698077 Sierra: We should drop Tango and Lima
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:23.720273 Zulu: Yes
+2024-10-14 20:46:23.720491 Yankee: No
+2024-10-14 20:46:23.720649 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:23.786050 Yankee: We should replace Tango with Zulu
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:23.801760 Sierra: Yes
+2024-10-14 20:46:23.801890 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:23.871339 Yankee: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:23.878746 Zulu: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:46:23.975910 Tango: Sierra, sending you 5
+2024-10-14 20:46:24.092887 Tango: Yankee, sending you 1
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+2024-10-14 20:46:24.228596 Tango: Zulu, sending you 4
+2024-10-14 20:46:24.231890 Yankee: Sierra, sending you 6
+chatterbot Yankee submitting transactions
+2024-10-14 20:46:24.276605 Yankee: Whiskey, sending you 4
+2024-10-14 20:46:24.299254 Yankee: Zulu, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Romeo round 23
+ChatterBot Tango round 23
+ChatterBot Sierra round 23
+ChatterBot Yankee round 23
+ChatterBot Whiskey round 23
+ChatterBot India round 23
+ChatterBot Mike round 23
+ChatterBot Zulu round 23
+ChatterBot Lima round 23
+2024-10-14 20:46:25.253559 Tango: We should drop Yankee
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:25.365632 Sierra: Yes
+2024-10-14 20:46:25.365841 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:25.435331 Alpha: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 20:46:25.445259 Mike: Yes
+2024-10-14 20:46:25.445512 India: Yes
+ChatterBot Mike reevaluating
+2024-10-14 20:46:25.465785 Whiskey: We should drop Tango and Lima
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:25.477659 Zulu: Yes
+2024-10-14 20:46:25.477828 Sierra: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:25.507457 Mike: We should drop Romeo and Sierra
+2024-10-14 20:46:25.521303 Alpha: Yes
+2024-10-14 20:46:25.521646 India: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:25.552786 Yankee: I was attacked by Romeo
+2024-10-14 20:46:25.554124 Yankee: I'm keeping this round to protect myself
+2024-10-14 20:46:25.554436 Yankee: Ow
+chatterbot Alpha submitting transactions
+2024-10-14 20:46:25.555713 Romeo: Alpha and India, sending you 5
+2024-10-14 20:46:25.559786 Tango: Sierra, sending you 7
+2024-10-14 20:46:25.561641 Romeo: Mike, sending you 4
+2024-10-14 20:46:25.626429 Tango: Whiskey, sending you 6
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Romeo round 24
+ChatterBot Tango round 24
+ChatterBot Sierra round 24
+ChatterBot Yankee round 24
+ChatterBot Whiskey round 24
+ChatterBot India round 24
+ChatterBot Mike round 24
+ChatterBot Zulu round 24
+ChatterBot Lima round 24
+2024-10-14 20:46:27.793047 Zulu: We should add Tango
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:27.802244 Sierra: No
+2024-10-14 20:46:27.802392 Whiskey: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:46:27.829173 Mike: Friends?
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:27.847703 Tango: No
+2024-10-14 20:46:27.847856 Sierra: Yes
+2024-10-14 20:46:27.847963 Whiskey: Yes
+2024-10-14 20:46:27.848062 Zulu: No
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:28.111437 Whiskey: We should replace Lima with Mike
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:28.136195 Zulu: No
+2024-10-14 20:46:28.136465 Sierra: Yes
+2024-10-14 20:46:28.136766 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:46:28.223030 Alpha: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 20:46:28.241911 Mike: Yes
+2024-10-14 20:46:28.242956 India: Yes
+ChatterBot Mike reevaluating
+2024-10-14 20:46:28.348658 Whiskey: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:46:28.359033 Mike: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:28.391597 Romeo: Alpha and India, sending you 5
+2024-10-14 20:46:28.502301 Romeo: Mike, sending you 4
+chatterbot Yankee submitting transactions
+2024-10-14 20:46:28.597648 Tango: Sierra, sending you 7
+2024-10-14 20:46:28.739593 Tango: Whiskey, sending you 6
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Romeo round 25
+ChatterBot Tango round 25
+ChatterBot Sierra round 25
+ChatterBot Yankee round 25
+ChatterBot Whiskey round 25
+ChatterBot India round 25
+ChatterBot Mike round 25
+ChatterBot Zulu round 25
+ChatterBot Lima round 25
+2024-10-14 20:46:29.803105 Whiskey: We should replace Lima with Mike
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:29.820672 Zulu: No
+2024-10-14 20:46:29.820948 Sierra: Yes
+2024-10-14 20:46:29.821110 Tango: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:29.879586 Tango: We should replace Whiskey with Zulu
+2024-10-14 20:46:29.888657 Sierra: No
+ChatterBot Tango reevaluating
+2024-10-14 20:46:29.929534 Whiskey: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:46:29.941311 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:29.974804 Alpha: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 20:46:29.991711 Mike: Yes
+2024-10-14 20:46:29.991885 India: Yes
+ChatterBot Mike reevaluating
+2024-10-14 20:46:30.013382 Tango: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:30.022497 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:30.041071 Romeo: Alpha and India, sending you 1
+2024-10-14 20:46:30.079684 Zulu: Tango, sending you 6
+2024-10-14 20:46:30.103425 Zulu: Sierra, sending you 8
+2024-10-14 20:46:30.107809 Tango: Sierra, sending you 7
+2024-10-14 20:46:30.116877 Tango: Zulu, sending you 6
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Romeo round 26
+ChatterBot Tango round 26
+ChatterBot Sierra round 26
+ChatterBot Yankee round 26
+ChatterBot Whiskey round 26
+ChatterBot India round 26
+ChatterBot Mike round 26
+ChatterBot Zulu round 26
+ChatterBot Lima round 26
+2024-10-14 20:46:31.475407 Whiskey: We should replace Sierra with Mike
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:31.491972 Tango: No
+2024-10-14 20:46:31.492197 Zulu: No
+2024-10-14 20:46:31.492909 Lima: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:31.570370 Alpha: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 20:46:31.580542 Mike: Yes
+2024-10-14 20:46:31.581272 India: Yes
+ChatterBot Mike reevaluating
+2024-10-14 20:46:31.601653 Whiskey: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:46:31.614942 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:31.636888 Lima: I was attacked by Romeo
+2024-10-14 20:46:31.638132 Lima: Ow
+2024-10-14 20:46:31.680223 Zulu: Whiskey we want you to join our group
+2024-10-14 20:46:31.688234 Whiskey: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:31.703082 Tango: We should replace Sierra with Whiskey
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:31.711889 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:31.793736 Tango: Whiskey we want you to join our group
+2024-10-14 20:46:31.839727 Whiskey: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:31.939698 Zulu: Tango, sending you 6
+2024-10-14 20:46:31.949525 Zulu: Whiskey, sending you 8
+2024-10-14 20:46:31.985330 Tango: Whiskey, sending you 6
+2024-10-14 20:46:32.223667 Tango: Zulu, sending you 7
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Romeo round 27
+ChatterBot Tango round 27
+ChatterBot Sierra round 27
+ChatterBot Yankee round 27
+ChatterBot Whiskey round 27
+ChatterBot India round 27
+ChatterBot Mike round 27
+ChatterBot Zulu round 27
+ChatterBot Lima round 27
+2024-10-14 20:46:33.248729 Whiskey: We should replace Sierra with Mike
+2024-10-14 20:46:33.262834 Tango: No
+2024-10-14 20:46:33.263142 Zulu: No
+2024-10-14 20:46:33.263637 Lima: No
+2024-10-14 20:46:33.338775 Mike: Friends?
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:33.394176 Alpha: No
+2024-10-14 20:46:33.394416 Romeo: No
+2024-10-14 20:46:33.394602 Sierra: No
+2024-10-14 20:46:33.394812 India: No
+2024-10-14 20:46:33.394993 Tango: No
+2024-10-14 20:46:33.395146 Whiskey: No
+2024-10-14 20:46:33.395288 Zulu: No
+2024-10-14 20:46:33.395422 Lima: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+2024-10-14 20:46:33.694124 Whiskey: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:46:33.701015 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:33.719515 Tango: We should add Lima
+2024-10-14 20:46:33.732641 Zulu: No
+2024-10-14 20:46:33.732837 Whiskey: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:33.758850 Sierra: We should drop Yankee
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:46:33.781061 Zulu: Yes
+2024-10-14 20:46:33.781236 Tango: Yes
+2024-10-14 20:46:33.781377 Whiskey: Yes
+2024-10-14 20:46:33.781509 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 20:46:33.891697 Zulu: Sending you each 7
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Romeo round 28
+ChatterBot Tango round 28
+ChatterBot Sierra round 28
+ChatterBot Yankee round 28
+ChatterBot Whiskey round 28
+ChatterBot India round 28
+ChatterBot Mike round 28
+ChatterBot Zulu round 28
+ChatterBot Lima round 28
+2024-10-14 20:46:35.053318 Whiskey: We should replace Sierra with Mike
+ChatterBot Tango reevaluating
+2024-10-14 20:46:35.068926 Tango: No
+2024-10-14 20:46:35.069147 Zulu: No
+2024-10-14 20:46:35.069315 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:35.129052 Whiskey: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:46:35.137923 Mike: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:35.158371 Sierra: We should drop Yankee
+ChatterBot Tango reevaluating
+2024-10-14 20:46:35.176291 Zulu: Yes
+2024-10-14 20:46:35.176529 Tango: Yes
+2024-10-14 20:46:35.176679 Whiskey: Yes
+2024-10-14 20:46:35.176790 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:35.254354 Tango: We should replace Zulu with Lima
+2024-10-14 20:46:35.259797 Whiskey: No
+ChatterBot Tango reevaluating
+2024-10-14 20:46:35.265806 Romeo: I was attacked by Lima
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:46:35.277785 Romeo: I'm keeping this round to protect myself
+2024-10-14 20:46:35.280045 Romeo: Ow
+2024-10-14 20:46:35.282109 Zulu: Tango, sending you 6
+2024-10-14 20:46:35.286679 Zulu: Whiskey, sending you 8
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Romeo round 29
+ChatterBot Tango round 29
+ChatterBot Sierra round 29
+ChatterBot Yankee round 29
+ChatterBot Whiskey round 29
+ChatterBot India round 29
+ChatterBot Mike round 29
+ChatterBot Zulu round 29
+ChatterBot Lima round 29
+2024-10-14 20:46:36.171467 Tango: We should replace Whiskey with Sierra
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:36.175522 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:36.185505 Whiskey: We should replace Sierra with Mike
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:36.195932 Tango: No
+2024-10-14 20:46:36.196077 Zulu: No
+2024-10-14 20:46:36.196180 Lima: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:36.243672 Whiskey: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:46:36.248083 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:36.265652 Tango: Sierra we want you to join our group
+2024-10-14 20:46:36.270770 Sierra: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:36.299898 Zulu: Sending you each 7
+2024-10-14 20:46:36.313677 Tango: Sierra, sending you 6
+2024-10-14 20:46:36.320651 Tango: Zulu, sending you 7
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Romeo round 30
+ChatterBot Tango round 30
+ChatterBot Sierra round 30
+ChatterBot Yankee round 30
+ChatterBot Whiskey round 30
+ChatterBot India round 30
+ChatterBot Mike round 30
+ChatterBot Zulu round 30
+ChatterBot Lima round 30
+2024-10-14 20:46:37.314909 Whiskey: Friends?
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:46:37.350453 Tango: No
+2024-10-14 20:46:37.350767 Lima: No
+2024-10-14 20:46:37.351514 Mike: No
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:37.427484 Tango: We should replace Sierra with Whiskey
+ChatterBot Zulu reevaluating
+2024-10-14 20:46:37.435544 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 20:46:37.447659 Zulu: Whiskey we want you to join our group
+2024-10-14 20:46:37.452695 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:37.466660 Tango: Whiskey we want you to join our group
+2024-10-14 20:46:37.474202 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 20:46:37.486171 Lima: Sending you 9
+2024-10-14 20:46:37.508666 Tango: Sierra, sending you 6
+2024-10-14 20:46:37.514659 Tango: Zulu, sending you 7
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions

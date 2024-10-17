@@ -1,0 +1,2415 @@
+ChatterBot Foxtrot round 1
+ChatterBot Charlie round 1
+ChatterBot Zulu round 1
+ChatterBot Uniform round 1
+ChatterBot Bravo round 1
+ChatterBot Juliett round 1
+ChatterBot Lima round 1
+ChatterBot Papa round 1
+ChatterBot Whiskey round 1
+ChatterBot Delta round 1
+randomSelections Bravo: {Bravo, Uniform, Juliett, Papa} 
+2024-10-14 20:57:17.744564 Bravo: Friends?
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:17.753095 Uniform: Yes
+2024-10-14 20:57:17.753421 Juliett: Yes
+2024-10-14 20:57:17.753575 Papa: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+randomSelections Charlie: {Charlie, Uniform, Bravo, Papa, Zulu, Juliett} 
+2024-10-14 20:57:17.773927 Charlie: Group up?
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:17.782322 Uniform: No
+2024-10-14 20:57:17.782477 Bravo: No
+2024-10-14 20:57:17.782607 Papa: No
+2024-10-14 20:57:17.782762 Zulu: Yes
+2024-10-14 20:57:17.783478 Juliett: No
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Lima: {Lima, Bravo, Delta, Foxtrot, Papa} 
+2024-10-14 20:57:17.821698 Lima: Group up?
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:17.826836 Bravo: No
+2024-10-14 20:57:17.826957 Delta: Yes
+2024-10-14 20:57:17.827045 Foxtrot: Yes
+2024-10-14 20:57:17.827122 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Whiskey: {Whiskey, Uniform, Delta, Juliett, Papa} 
+2024-10-14 20:57:17.857576 Whiskey: We would work well together
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:17.864377 Uniform: No
+2024-10-14 20:57:17.864525 Delta: No
+2024-10-14 20:57:17.864653 Juliett: No
+2024-10-14 20:57:17.864893 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:17.890677 Zulu: Charlie, sending you 5
+2024-10-14 20:57:17.894672 Zulu: Uniform, sending you 7
+2024-10-14 20:57:17.895665 Juliett: Uniform, sending you 7
+2024-10-14 20:57:17.897668 Bravo: Sending you each 4
+2024-10-14 20:57:17.897959 Lima: Foxtrot, sending you 6
+2024-10-14 20:57:17.899659 Zulu: Bravo and Papa, sending you 1
+2024-10-14 20:57:17.899930 Juliett: Bravo, sending you 4
+2024-10-14 20:57:17.900686 Whiskey: Uniform, Juliett and Delta, sending you 4
+2024-10-14 20:57:17.901671 Lima: Bravo and Papa, sending you 3
+2024-10-14 20:57:17.902675 Charlie: Zulu, sending you 3
+2024-10-14 20:57:17.903015 Juliett: Papa, sending you 9
+2024-10-14 20:57:17.903690 Foxtrot: Bravo and Papa, sending you 3
+2024-10-14 20:57:17.904084 Whiskey: Papa, sending you 6
+2024-10-14 20:57:17.904667 Zulu: Juliett, sending you 4
+2024-10-14 20:57:17.905684 Charlie: Uniform, sending you 2
+2024-10-14 20:57:17.906680 Lima: Delta, sending you 2
+2024-10-14 20:57:17.906946 Foxtrot: Lima, sending you 4
+2024-10-14 20:57:17.907667 Papa: Uniform, sending you 2
+2024-10-14 20:57:17.907968 Delta: Foxtrot, sending you 4
+2024-10-14 20:57:17.909660 Uniform: Bravo and Papa, sending you 1
+2024-10-14 20:57:17.909980 Charlie: Bravo, sending you 5
+2024-10-14 20:57:17.910649 Foxtrot: Delta, sending you 5
+2024-10-14 20:57:17.911665 Papa: Bravo, sending you 3
+2024-10-14 20:57:17.912661 Delta: Bravo, sending you 2
+2024-10-14 20:57:17.913681 Uniform: Juliett, sending you 2
+2024-10-14 20:57:17.914018 Charlie: Juliett, sending you 4
+2024-10-14 20:57:17.914661 Papa: Juliett, sending you 4
+2024-10-14 20:57:17.915668 Delta: Lima and Papa, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 2
+ChatterBot Charlie round 2
+ChatterBot Zulu round 2
+ChatterBot Uniform round 2
+2024-10-14 20:57:19.577427 Foxtrot: We would work well together
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:19.613640 Lima: No
+2024-10-14 20:57:19.613871 Delta: No
+2024-10-14 20:57:19.613988 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo round 2
+ChatterBot Juliett round 2
+ChatterBot Lima round 2
+ChatterBot Papa round 2
+ChatterBot Whiskey round 2
+ChatterBot Delta round 2
+2024-10-14 20:57:19.701785 Uniform: Friends?
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:19.728539 Charlie: No
+2024-10-14 20:57:19.728779 Zulu: No
+2024-10-14 20:57:19.728965 Bravo: No
+2024-10-14 20:57:19.729071 Juliett: Yes
+2024-10-14 20:57:19.729676 Papa: Yes
+2024-10-14 20:57:19.729809 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:19.928730 Whiskey: We should replace Delta with Bravo
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:19.949896 Uniform: Yes
+2024-10-14 20:57:19.950094 Juliett: Yes
+2024-10-14 20:57:19.950281 Papa: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:20.012200 Whiskey: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 20:57:20.017258 Bravo: No
+2024-10-14 20:57:20.128032 Foxtrot: Lima, Whiskey and Delta, sending you 5
+2024-10-14 20:57:20.128738 Uniform: Zulu, Bravo, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:20.186473 Lima: Foxtrot, sending you 6
+2024-10-14 20:57:20.187406 Zulu: Charlie, sending you 6
+2024-10-14 20:57:20.188115 Delta: Foxtrot and Whiskey, sending you 3
+2024-10-14 20:57:20.220079 Lima: Whiskey, sending you 3
+2024-10-14 20:57:20.220789 Zulu: Uniform, Bravo, Juliett and Papa, sending you 3
+chatterbot Zulu submitting transactions
+2024-10-14 20:57:20.222100 Whiskey: Uniform, Bravo and Juliett, sending you 5
+2024-10-14 20:57:20.223318 Papa: Charlie, Zulu, Uniform, Bravo and Lima, sending you 1
+2024-10-14 20:57:20.223906 Juliett: Charlie and Zulu, sending you 4
+2024-10-14 20:57:20.225006 Delta: Lima, sending you 2
+2024-10-14 20:57:20.226440 Lima: Delta, sending you 4
+2024-10-14 20:57:20.258475 Papa: Juliett and Whiskey, sending you 2
+2024-10-14 20:57:20.259239 Whiskey: Papa, sending you 3
+2024-10-14 20:57:20.260189 Juliett: Uniform, Bravo, Papa and Whiskey, sending you 3
+2024-10-14 20:57:20.260753 Bravo: Charlie, sending you 7
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+2024-10-14 20:57:20.284996 Bravo: Zulu, sending you 5
+chatterbot Papa submitting transactions
+2024-10-14 20:57:20.448815 Charlie: Sending you 9
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Foxtrot round 3
+ChatterBot Charlie round 3
+ChatterBot Zulu round 3
+ChatterBot Uniform round 3
+ChatterBot Bravo round 3
+ChatterBot Juliett round 3
+ChatterBot Lima round 3
+ChatterBot Papa round 3
+ChatterBot Whiskey round 3
+ChatterBot Delta round 3
+2024-10-14 20:57:21.260099 Bravo: Let's form a team
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:21.276590 Charlie: Yes
+2024-10-14 20:57:21.277306 Zulu: Yes
+2024-10-14 20:57:21.277458 Juliett: Yes
+2024-10-14 20:57:21.277643 Papa: Yes
+2024-10-14 20:57:21.277851 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:21.377976 Whiskey: We should add Charlie and Zulu
+ChatterBot Papa reevaluating
+2024-10-14 20:57:21.399113 Uniform: Yes
+2024-10-14 20:57:21.399390 Bravo: Yes
+2024-10-14 20:57:21.399563 Juliett: Yes
+2024-10-14 20:57:21.400239 Papa: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:21.512475 Lima: We should drop Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:21.518863 Foxtrot: Yes
+2024-10-14 20:57:21.519018 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:21.543604 Zulu: Whiskey we want you to join our group
+2024-10-14 20:57:21.575268 Whiskey: Yes
+2024-10-14 20:57:21.665252 Bravo: Charlie, Zulu, Papa and Whiskey, sending you 2
+2024-10-14 20:57:21.677773 Papa: Charlie, Zulu, Uniform, Bravo and Lima, sending you 1
+2024-10-14 20:57:21.679041 Whiskey: Charlie, Zulu and Bravo, sending you 2
+2024-10-14 20:57:21.679489 Uniform: Zulu, Bravo, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:21.680008 Bravo: Juliett, sending you 4
+2024-10-14 20:57:21.681009 Juliett: Charlie, Zulu, Uniform and Bravo, sending you 3
+2024-10-14 20:57:21.681468 Charlie: Zulu and Bravo, sending you 4
+2024-10-14 20:57:21.682242 Foxtrot: Lima, Whiskey and Delta, sending you 5
+2024-10-14 20:57:21.682668 Whiskey: Juliett, sending you 7
+2024-10-14 20:57:21.699735 Papa: Juliett and Whiskey, sending you 2
+2024-10-14 20:57:21.700416 Juliett: Papa and Whiskey, sending you 4
+2024-10-14 20:57:21.701361 Whiskey: Papa, sending you 5
+2024-10-14 20:57:21.701816 Charlie: Juliett, Papa and Whiskey, sending you 3
+2024-10-14 20:57:21.721329 Zulu: Charlie, Bravo and Juliett, sending you 4
+2024-10-14 20:57:21.722399 Lima: Sending you each 6
+2024-10-14 20:57:21.722740 Delta: Sending you each 4
+2024-10-14 20:57:21.732181 Zulu: Papa and Whiskey, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Foxtrot round 4
+ChatterBot Charlie round 4
+ChatterBot Zulu round 4
+ChatterBot Uniform round 4
+ChatterBot Bravo round 4
+ChatterBot Juliett round 4
+ChatterBot Lima round 4
+ChatterBot Papa round 4
+ChatterBot Whiskey round 4
+ChatterBot Delta round 4
+2024-10-14 20:57:22.751129 Lima: We should add Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:22.761267 Foxtrot: No
+2024-10-14 20:57:22.761623 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:22.812458 Foxtrot: We should drop Whiskey
+ChatterBot Lima reevaluating
+2024-10-14 20:57:22.822706 Lima: Yes
+2024-10-14 20:57:22.823127 Delta: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:22.844819 Papa: We should drop Lima
+2024-10-14 20:57:22.874414 Uniform: Yes
+2024-10-14 20:57:22.874756 Charlie: Yes
+2024-10-14 20:57:22.875468 Zulu: Yes
+2024-10-14 20:57:22.875665 Bravo: Yes
+2024-10-14 20:57:22.875898 Juliett: Yes
+2024-10-14 20:57:22.876067 Whiskey: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:22.999286 Papa: We should replace Lima with Foxtrot
+2024-10-14 20:57:23.014363 Uniform: No
+2024-10-14 20:57:23.014532 Charlie: No
+2024-10-14 20:57:23.014688 Zulu: No
+2024-10-14 20:57:23.014851 Bravo: No
+2024-10-14 20:57:23.014983 Juliett: No
+2024-10-14 20:57:23.015141 Whiskey: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:23.100221 Juliett: We should drop Uniform
+ChatterBot Papa reevaluating
+2024-10-14 20:57:23.110995 Bravo: Yes
+2024-10-14 20:57:23.111147 Charlie: Yes
+2024-10-14 20:57:23.111248 Zulu: Yes
+2024-10-14 20:57:23.112085 Papa: No
+2024-10-14 20:57:23.112204 Whiskey: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:23.165857 Zulu: Charlie, Bravo and Juliett, sending you 4
+2024-10-14 20:57:23.166445 Delta: Same as last round
+2024-10-14 20:57:23.166804 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:23.167417 Charlie: Zulu and Bravo, sending you 4
+2024-10-14 20:57:23.167945 Bravo: Charlie and Juliett, sending you 3
+2024-10-14 20:57:23.168445 Whiskey: Charlie, Zulu and Bravo, sending you 3
+2024-10-14 20:57:23.170690 Zulu: Papa and Whiskey, sending you 3
+2024-10-14 20:57:23.171686 Bravo: Zulu, Papa and Whiskey, sending you 2
+2024-10-14 20:57:23.172120 Whiskey: Juliett, sending you 5
+2024-10-14 20:57:23.172688 Charlie: Juliett, Papa and Whiskey, sending you 3
+2024-10-14 20:57:23.173674 Juliett: Sending you each 4
+2024-10-14 20:57:23.175670 Whiskey: Papa, sending you 4
+2024-10-14 20:57:23.179772 Lima: Same as last round
+2024-10-14 20:57:23.190666 Papa: Charlie, Zulu, Uniform and Bravo, sending you 1
+2024-10-14 20:57:23.193668 Foxtrot: Sending you each 7
+2024-10-14 20:57:23.194030 Papa: Juliett, sending you 3
+2024-10-14 20:57:23.198668 Papa: Whiskey, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 5
+ChatterBot Charlie round 5
+ChatterBot Zulu round 5
+ChatterBot Uniform round 5
+ChatterBot Bravo round 5
+ChatterBot Juliett round 5
+ChatterBot Lima round 5
+ChatterBot Papa round 5
+ChatterBot Whiskey round 5
+ChatterBot Delta round 5
+2024-10-14 20:57:24.359157 Zulu: We should drop Papa
+2024-10-14 20:57:24.368968 Charlie: No
+2024-10-14 20:57:24.369563 Bravo: Yes
+2024-10-14 20:57:24.369699 Juliett: No
+2024-10-14 20:57:24.369810 Whiskey: No
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:24.429684 Whiskey: Charlie, Zulu and Bravo, sending you 3
+2024-10-14 20:57:24.430420 Zulu: Charlie and Juliett, sending you 5
+2024-10-14 20:57:24.431673 Foxtrot: Same as last round
+2024-10-14 20:57:24.433693 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:24.434718 Whiskey: Juliett, sending you 5
+2024-10-14 20:57:24.435735 Zulu: Bravo and Whiskey, sending you 4
+2024-10-14 20:57:24.436063 Charlie: Zulu, sending you 5
+2024-10-14 20:57:24.438045 Juliett: Same as last round
+2024-10-14 20:57:24.438747 Lima: Foxtrot, sending you 6
+2024-10-14 20:57:24.439163 Bravo: Sending you each 3
+2024-10-14 20:57:24.439518 Whiskey: Papa, sending you 4
+2024-10-14 20:57:24.440387 Papa: Charlie, Zulu, Uniform and Bravo, sending you 1
+2024-10-14 20:57:24.440855 Charlie: Bravo, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:24.442069 Lima: Delta, sending you 7
+2024-10-14 20:57:24.442706 Delta: Same as last round
+2024-10-14 20:57:24.445684 Papa: Juliett, sending you 3
+2024-10-14 20:57:24.451677 Papa: Whiskey, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Foxtrot round 6
+2024-10-14 20:57:25.607933 Foxtrot: We should add Uniform
+2024-10-14 20:57:25.613364 Lima: No
+2024-10-14 20:57:25.613523 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie round 6
+ChatterBot Zulu round 6
+ChatterBot Uniform round 6
+ChatterBot Bravo round 6
+ChatterBot Juliett round 6
+ChatterBot Lima round 6
+ChatterBot Papa round 6
+ChatterBot Whiskey round 6
+ChatterBot Delta round 6
+2024-10-14 20:57:25.646184 Charlie: We should add Papa
+2024-10-14 20:57:25.655773 Zulu: No
+2024-10-14 20:57:25.655923 Bravo: No
+2024-10-14 20:57:25.656032 Juliett: Yes
+2024-10-14 20:57:25.656143 Whiskey: Yes
+2024-10-14 20:57:25.724136 Charlie: Papa we want you to join our group
+2024-10-14 20:57:25.727880 Papa: Yes
+2024-10-14 20:57:25.747186 Delta: Same as last round
+2024-10-14 20:57:25.747697 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:25.748757 Bravo: Same as last round
+2024-10-14 20:57:25.749754 Juliett: Same as last round
+2024-10-14 20:57:25.750281 Foxtrot: Same as last round
+2024-10-14 20:57:25.753896 Lima: Foxtrot, sending you 6
+2024-10-14 20:57:25.756134 Whiskey: Charlie, sending you 4
+2024-10-14 20:57:25.757737 Lima: Delta, sending you 7
+2024-10-14 20:57:25.761675 Whiskey: Zulu, Bravo and Papa, sending you 3
+2024-10-14 20:57:25.764675 Papa: Charlie, Zulu, Uniform and Bravo, sending you 1
+2024-10-14 20:57:25.765806 Whiskey: Juliett, sending you 5
+2024-10-14 20:57:25.766549 Charlie: Zulu, Bravo and Juliett, sending you 4
+2024-10-14 20:57:25.768699 Zulu: Charlie and Juliett, sending you 4
+2024-10-14 20:57:25.770705 Papa: Juliett, sending you 3
+2024-10-14 20:57:25.772687 Charlie: Papa, sending you 2
+2024-10-14 20:57:25.773184 Zulu: Bravo and Whiskey, sending you 3
+2024-10-14 20:57:25.773735 Papa: Whiskey, sending you 2
+2024-10-14 20:57:25.777667 Charlie: Whiskey, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Foxtrot round 7
+ChatterBot Charlie round 7
+ChatterBot Zulu round 7
+ChatterBot Uniform round 7
+ChatterBot Bravo round 7
+ChatterBot Juliett round 7
+ChatterBot Lima round 7
+ChatterBot Papa round 7
+ChatterBot Whiskey round 7
+ChatterBot Delta round 7
+2024-10-14 20:57:26.800692 Juliett: Same as last round
+2024-10-14 20:57:26.807686 Bravo: Same as last round
+2024-10-14 20:57:26.812672 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:26.814989 Charlie: Zulu, Bravo and Juliett, sending you 4
+2024-10-14 20:57:26.815470 Lima: Foxtrot, sending you 5
+2024-10-14 20:57:26.815732 Foxtrot: Same as last round
+2024-10-14 20:57:26.816677 Zulu: Charlie and Juliett, sending you 4
+2024-10-14 20:57:26.817688 Whiskey: Charlie, sending you 4
+2024-10-14 20:57:26.818367 Delta: Same as last round
+2024-10-14 20:57:26.818701 Delta: I was attacked by Zulu
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:26.825389 Delta: Ow
+2024-10-14 20:57:26.825902 Charlie: Papa, sending you 2
+2024-10-14 20:57:26.826362 Zulu: Bravo and Whiskey, sending you 3
+2024-10-14 20:57:26.826716 Papa: Charlie, Zulu, Bravo, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:26.827183 Whiskey: Zulu, Bravo and Papa, sending you 3
+2024-10-14 20:57:26.828674 Charlie: Whiskey, sending you 3
+2024-10-14 20:57:26.831673 Whiskey: Juliett, sending you 5
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 8
+ChatterBot Charlie round 8
+ChatterBot Zulu round 8
+ChatterBot Uniform round 8
+ChatterBot Bravo round 8
+ChatterBot Juliett round 8
+ChatterBot Lima round 8
+ChatterBot Papa round 8
+ChatterBot Whiskey round 8
+2024-10-14 20:57:28.067027 Foxtrot: We should add Charlie
+ChatterBot Lima reevaluating
+2024-10-14 20:57:28.074806 Lima: Yes
+2024-10-14 20:57:28.074989 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta round 8
+2024-10-14 20:57:28.110727 Papa: We should replace Uniform with Delta
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:28.133092 Bravo: No
+2024-10-14 20:57:28.133344 Charlie: No
+2024-10-14 20:57:28.133522 Zulu: No
+2024-10-14 20:57:28.133696 Juliett: No
+2024-10-14 20:57:28.133864 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:28.212479 Zulu: We should replace Bravo with Papa
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:28.221164 Charlie: No
+2024-10-14 20:57:28.221336 Juliett: No
+2024-10-14 20:57:28.221459 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:28.251912 Foxtrot: We should add Bravo
+ChatterBot Lima reevaluating
+2024-10-14 20:57:28.257468 Lima: No
+2024-10-14 20:57:28.257609 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:28.271858 Papa: Delta we want you to join our group
+2024-10-14 20:57:28.274865 Delta: No
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:28.295274 Juliett: Same as last round
+2024-10-14 20:57:28.296062 Bravo: Same as last round
+2024-10-14 20:57:28.296664 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:28.297297 Foxtrot: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:28.300935 Charlie: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:28.311679 Lima: Foxtrot, sending you 5
+2024-10-14 20:57:28.312676 Delta: Same as last round
+2024-10-14 20:57:28.313014 Delta: I was attacked by Zulu
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:28.318453 Delta: Ow
+2024-10-14 20:57:28.319033 Papa: Charlie, Zulu, Bravo, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:28.319590 Whiskey: Charlie, Zulu, Bravo and Juliett, sending you 4
+2024-10-14 20:57:28.322703 Whiskey: Papa, sending you 2
+2024-10-14 20:57:28.323678 Zulu: Charlie and Juliett, sending you 4
+2024-10-14 20:57:28.328687 Zulu: Bravo and Whiskey, sending you 3
+2024-10-14 20:57:28.330686 Charlie: Zulu, Bravo and Juliett, sending you 4
+2024-10-14 20:57:28.335660 Charlie: Papa, sending you 2
+2024-10-14 20:57:28.340805 Charlie: Whiskey, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 9
+ChatterBot Charlie round 9
+ChatterBot Zulu round 9
+ChatterBot Uniform round 9
+ChatterBot Bravo round 9
+ChatterBot Juliett round 9
+ChatterBot Lima round 9
+ChatterBot Papa round 9
+ChatterBot Whiskey round 9
+ChatterBot Delta round 9
+2024-10-14 20:57:29.558516 Foxtrot: We should replace Charlie with Zulu
+2024-10-14 20:57:29.565372 Lima: No
+2024-10-14 20:57:29.565553 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:29.599611 Lima: We should add Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:29.606429 Foxtrot: Yes
+2024-10-14 20:57:29.606559 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:29.633695 Bravo: Same as last round
+2024-10-14 20:57:29.634772 Foxtrot: Zulu we want you to join our group
+2024-10-14 20:57:29.638190 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:29.650670 Zulu: Charlie and Juliett, sending you 4
+2024-10-14 20:57:29.651154 Charlie: Zulu and Juliett, sending you 4
+2024-10-14 20:57:29.651688 Papa: Charlie, Zulu, Bravo and Delta, sending you 1
+2024-10-14 20:57:29.652237 Delta: Sending you each 2
+2024-10-14 20:57:29.652472 Delta: I was attacked by Zulu
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:29.660341 Delta: Ow
+2024-10-14 20:57:29.660857 Juliett: Same as last round
+2024-10-14 20:57:29.661475 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:29.662162 Charlie: Bravo, Papa and Whiskey, sending you 3
+2024-10-14 20:57:29.663155 Zulu: Bravo and Whiskey, sending you 3
+2024-10-14 20:57:29.663724 Papa: Juliett, sending you 3
+2024-10-14 20:57:29.665672 Whiskey: Charlie, Zulu, Bravo and Juliett, sending you 4
+2024-10-14 20:57:29.668671 Papa: Whiskey, sending you 2
+2024-10-14 20:57:29.669810 Whiskey: Papa, sending you 2
+2024-10-14 20:57:29.675677 Lima: Foxtrot, sending you 6
+2024-10-14 20:57:29.678666 Lima: Delta, sending you 7
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Foxtrot round 10
+ChatterBot Charlie round 10
+ChatterBot Zulu round 10
+ChatterBot Uniform round 10
+ChatterBot Bravo round 10
+ChatterBot Juliett round 10
+ChatterBot Lima round 10
+ChatterBot Papa round 10
+ChatterBot Whiskey round 10
+ChatterBot Delta round 10
+2024-10-14 20:57:30.665117 Lima: We should add Uniform
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:30.678923 Foxtrot: Yes
+2024-10-14 20:57:30.679175 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:30.697535 Foxtrot: We should replace Zulu with Uniform
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:30.706769 Lima: Yes
+2024-10-14 20:57:30.707666 Delta: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:30.744744 Papa: We should replace Delta with Uniform
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:30.760104 Bravo: No
+2024-10-14 20:57:30.760287 Charlie: No
+2024-10-14 20:57:30.760482 Zulu: No
+2024-10-14 20:57:30.760699 Juliett: No
+2024-10-14 20:57:30.760948 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:30.862687 Charlie: We should drop Bravo
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:30.874876 Zulu: Yes
+2024-10-14 20:57:30.875015 Juliett: No
+2024-10-14 20:57:30.875132 Papa: No
+2024-10-14 20:57:30.875240 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:30.925204 Delta: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:30.928482 Uniform: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:30.940698 Bravo: Same as last round
+2024-10-14 20:57:30.942677 Foxtrot: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:30.950776 Uniform: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:30.975070 Papa: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:30.983587 Uniform: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:31.009501 Charlie: We should add Uniform
+2024-10-14 20:57:31.010264 Whiskey: We should add Uniform
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:31.031889 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:31.041464 Zulu: No
+2024-10-14 20:57:31.045763 Juliett: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:31.050636 Papa: Yes
+2024-10-14 20:57:31.055655 Whiskey: Yes
+2024-10-14 20:57:31.056036 Bravo: No
+2024-10-14 20:57:31.056186 Charlie: Yes
+2024-10-14 20:57:31.056330 Zulu: No
+2024-10-14 20:57:31.056478 Juliett: Yes
+2024-10-14 20:57:31.056641 Papa: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:31.226234 Delta: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:31.235966 Delta: I'm keeping this round to protect myself
+2024-10-14 20:57:31.236546 Delta: Ow
+2024-10-14 20:57:31.241674 Zulu: Charlie and Juliett, sending you 5
+2024-10-14 20:57:31.243698 Juliett: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:31.249051 Uniform: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:31.271773 Lima: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:31.275736 Uniform: No
+ChatterBot Lima reevaluating
+2024-10-14 20:57:31.286390 Charlie: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:31.290187 Uniform: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:31.308911 Zulu: Papa and Whiskey, sending you 4
+2024-10-14 20:57:31.312668 Whiskey: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:31.316936 Uniform: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:31.335709 Papa: Charlie, Zulu, Uniform, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:31.339659 Foxtrot: Uniform, Lima and Delta, sending you 5
+2024-10-14 20:57:31.340046 Charlie: Zulu, sending you 4
+2024-10-14 20:57:31.342669 Charlie: Uniform and Papa, sending you 2
+2024-10-14 20:57:31.347658 Charlie: Bravo, Juliett and Whiskey, sending you 3
+2024-10-14 20:57:31.349820 Whiskey: Charlie, Zulu, Bravo and Papa, sending you 3
+2024-10-14 20:57:31.355739 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:31.359700 Lima: Foxtrot, sending you 5
+2024-10-14 20:57:31.361693 Whiskey: Juliett, sending you 4
+2024-10-14 20:57:31.363753 Lima: Uniform, sending you 3
+2024-10-14 20:57:31.366679 Lima: Delta, sending you 6
+2024-10-14 20:57:31.368710 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:31.370499 Juliett: Charlie, Zulu, Uniform, Bravo and Papa, sending you 3
+2024-10-14 20:57:31.374934 Juliett: Whiskey, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Foxtrot round 11
+ChatterBot Charlie round 11
+ChatterBot Zulu round 11
+ChatterBot Uniform round 11
+ChatterBot Bravo round 11
+ChatterBot Juliett round 11
+ChatterBot Lima round 11
+ChatterBot Papa round 11
+ChatterBot Whiskey round 11
+ChatterBot Delta round 11
+2024-10-14 20:57:32.584853 Delta: We should drop Uniform
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:32.594184 Lima: Yes
+2024-10-14 20:57:32.594433 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:32.616688 Zulu: Charlie and Juliett, sending you 4
+2024-10-14 20:57:32.619308 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:32.622213 Charlie: Zulu, sending you 4
+2024-10-14 20:57:32.625771 Papa: Charlie, Zulu, Uniform, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:32.630009 Whiskey: Charlie, Zulu, Bravo and Papa, sending you 3
+2024-10-14 20:57:32.633036 Juliett: Charlie, Uniform, Bravo and Papa, sending you 3
+2024-10-14 20:57:32.634883 Bravo: Same as last round
+2024-10-14 20:57:32.637018 Zulu: Papa and Whiskey, sending you 3
+2024-10-14 20:57:32.639027 Charlie: Uniform and Papa, sending you 2
+2024-10-14 20:57:32.641360 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:32.644257 Juliett: Zulu and Whiskey, sending you 4
+2024-10-14 20:57:32.645526 Charlie: Bravo, Juliett and Whiskey, sending you 3
+2024-10-14 20:57:32.647120 Delta: Foxtrot, sending you 3
+2024-10-14 20:57:32.648021 Whiskey: Juliett, sending you 4
+2024-10-14 20:57:32.652666 Delta: Lima, sending you 4
+2024-10-14 20:57:32.653667 Foxtrot: Sending you each 2
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 12
+ChatterBot Charlie round 12
+ChatterBot Zulu round 12
+ChatterBot Uniform round 12
+ChatterBot Bravo round 12
+ChatterBot Juliett round 12
+ChatterBot Lima round 12
+ChatterBot Papa round 12
+ChatterBot Whiskey round 12
+ChatterBot Delta round 12
+2024-10-14 20:57:33.822706 Foxtrot: We should add Juliett
+ChatterBot Lima reevaluating
+2024-10-14 20:57:33.830448 Lima: Yes
+2024-10-14 20:57:33.830657 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:33.891681 Zulu: I was attacked by Foxtrot
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:33.904748 Zulu: I'm keeping this round to protect myself
+2024-10-14 20:57:33.905654 Zulu: Ow
+2024-10-14 20:57:33.906001 Lima: I was attacked by Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:33.913786 Lima: I'm keeping this round to protect myself
+2024-10-14 20:57:33.914297 Lima: Ow
+2024-10-14 20:57:33.916824 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:33.917589 Bravo: Sending you each 2
+2024-10-14 20:57:33.928947 Juliett: Charlie, Zulu, Bravo and Whiskey, sending you 3
+2024-10-14 20:57:33.933660 Juliett: Uniform and Papa, sending you 2
+2024-10-14 20:57:33.936659 Papa: Charlie, Zulu, Uniform, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:33.938648 Whiskey: Charlie, Zulu, Bravo and Papa, sending you 3
+2024-10-14 20:57:33.942679 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:33.943731 Delta: Sending you each 1
+2024-10-14 20:57:33.946708 Whiskey: Juliett, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Foxtrot round 13
+ChatterBot Charlie round 13
+ChatterBot Zulu round 13
+ChatterBot Uniform round 13
+ChatterBot Bravo round 13
+ChatterBot Juliett round 13
+ChatterBot Lima round 13
+ChatterBot Papa round 13
+ChatterBot Whiskey round 13
+ChatterBot Delta round 13
+2024-10-14 20:57:35.080791 Foxtrot: We should add Charlie
+2024-10-14 20:57:35.087929 Lima: No
+2024-10-14 20:57:35.088091 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:35.125943 Charlie: We should drop Uniform
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:35.139964 Bravo: Yes
+2024-10-14 20:57:35.140143 Zulu: Yes
+2024-10-14 20:57:35.140267 Juliett: Yes
+2024-10-14 20:57:35.140376 Papa: No
+2024-10-14 20:57:35.140477 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:35.226675 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:35.227508 Delta: Sending you each 4
+2024-10-14 20:57:35.229659 Papa: Charlie, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:35.233939 Bravo: Charlie and Whiskey, sending you 3
+2024-10-14 20:57:35.235208 Papa: Zulu, Uniform and Bravo, sending you 1
+2024-10-14 20:57:35.237927 Bravo: Zulu, sending you 2
+2024-10-14 20:57:35.242672 Bravo: Juliett, sending you 4
+2024-10-14 20:57:35.246290 Juliett: Sending you each 4
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 14
+ChatterBot Charlie round 14
+ChatterBot Zulu round 14
+ChatterBot Uniform round 14
+ChatterBot Bravo round 14
+ChatterBot Juliett round 14
+ChatterBot Lima round 14
+ChatterBot Papa round 14
+ChatterBot Whiskey round 14
+ChatterBot Delta round 14
+2024-10-14 20:57:36.439944 Foxtrot: We should add Zulu
+2024-10-14 20:57:36.450842 Lima: No
+2024-10-14 20:57:36.451079 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:36.477437 Juliett: We should add Uniform
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:36.493220 Bravo: No
+2024-10-14 20:57:36.493372 Charlie: Yes
+2024-10-14 20:57:36.493490 Zulu: No
+2024-10-14 20:57:36.493619 Papa: Yes
+2024-10-14 20:57:36.493807 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:36.577139 Zulu: We should replace Papa with Bravo
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:36.587607 Charlie: No
+2024-10-14 20:57:36.587750 Juliett: No
+2024-10-14 20:57:36.587845 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:36.623935 Foxtrot: We should add Juliett
+2024-10-14 20:57:36.630106 Lima: No
+2024-10-14 20:57:36.630294 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:36.645662 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:36.647681 Delta: Same as last round
+2024-10-14 20:57:36.652064 Foxtrot: We should drop Lima
+ChatterBot Delta reevaluating
+2024-10-14 20:57:36.656016 Delta: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:36.662702 Zulu: Charlie and Juliett, sending you 5
+2024-10-14 20:57:36.663841 Bravo: Charlie and Whiskey, sending you 3
+2024-10-14 20:57:36.665647 Papa: Charlie, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:36.666841 Delta: We should drop Foxtrot
+ChatterBot Lima reevaluating
+2024-10-14 20:57:36.670994 Lima: No
+ChatterBot Delta reevaluating
+2024-10-14 20:57:36.674637 Zulu: Papa and Whiskey, sending you 4
+2024-10-14 20:57:36.675127 Bravo: Zulu, sending you 2
+2024-10-14 20:57:36.675584 Papa: Zulu, Uniform and Bravo, sending you 1
+2024-10-14 20:57:36.677662 Juliett: Same as last round
+2024-10-14 20:57:36.678310 Bravo: Juliett, sending you 4
+2024-10-14 20:57:36.682888 Lima: We should drop Delta
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:36.686685 Foxtrot: No
+ChatterBot Lima reevaluating
+2024-10-14 20:57:36.689545 Foxtrot: We should add Papa
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:36.695532 Lima: No
+2024-10-14 20:57:36.695635 Delta: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:36.715745 Lima: Papa we want you to join our group
+2024-10-14 20:57:36.718329 Papa: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:36.756677 Foxtrot: Sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Foxtrot round 15
+ChatterBot Charlie round 15
+ChatterBot Zulu round 15
+ChatterBot Uniform round 15
+ChatterBot Bravo round 15
+ChatterBot Juliett round 15
+ChatterBot Lima round 15
+ChatterBot Papa round 15
+ChatterBot Whiskey round 15
+ChatterBot Delta round 15
+2024-10-14 20:57:38.017462 Whiskey: We should add Uniform
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:38.043730 Bravo: No
+2024-10-14 20:57:38.043931 Charlie: No
+2024-10-14 20:57:38.044105 Zulu: No
+2024-10-14 20:57:38.044269 Juliett: Yes
+2024-10-14 20:57:38.044868 Papa: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:38.125770 Zulu: We should replace Papa with Bravo
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:38.135622 Charlie: Yes
+2024-10-14 20:57:38.135778 Juliett: No
+2024-10-14 20:57:38.136235 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:38.184535 Foxtrot: We should add Lima
+2024-10-14 20:57:38.187378 Delta: Yes
+2024-10-14 20:57:38.206917 Whiskey: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:38.214034 Uniform: No
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:38.251176 Foxtrot: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 20:57:38.257630 Lima: Yes
+2024-10-14 20:57:38.268411 Juliett: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:38.275538 Uniform: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:57:38.308377 Delta: Same as last round
+2024-10-14 20:57:38.309594 Lima: We should drop Papa
+2024-10-14 20:57:38.318928 Foxtrot: Yes
+2024-10-14 20:57:38.319122 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:38.331145 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:38.334681 Papa: Uniform, sending you 1
+2024-10-14 20:57:38.335857 Whiskey: Charlie, Zulu, Bravo and Papa, sending you 3
+2024-10-14 20:57:38.336534 Foxtrot: Sending you each 2
+2024-10-14 20:57:38.339689 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:38.340814 Juliett: Charlie, Zulu, Bravo, Papa and Whiskey, sending you 2
+2024-10-14 20:57:38.341905 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:38.343652 Whiskey: Juliett, sending you 4
+2024-10-14 20:57:38.344869 Zulu: Sending you 7
+2024-10-14 20:57:38.345648 Juliett: Uniform, sending you 1
+2024-10-14 20:57:38.350664 Bravo: Charlie and Whiskey, sending you 3
+2024-10-14 20:57:38.354666 Bravo: Zulu, sending you 2
+2024-10-14 20:57:38.359662 Bravo: Juliett, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 16
+ChatterBot Charlie round 16
+ChatterBot Zulu round 16
+ChatterBot Uniform round 16
+ChatterBot Bravo round 16
+ChatterBot Juliett round 16
+ChatterBot Lima round 16
+ChatterBot Papa round 16
+ChatterBot Whiskey round 16
+ChatterBot Delta round 16
+2024-10-14 20:57:39.595077 Charlie: We should drop Papa and Uniform
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:39.605278 Zulu: Yes
+2024-10-14 20:57:39.605439 Bravo: Yes
+2024-10-14 20:57:39.605547 Juliett: No
+2024-10-14 20:57:39.605656 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:39.654269 Juliett: We should drop Uniform
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:39.681896 Bravo: Yes
+2024-10-14 20:57:39.682126 Charlie: No
+2024-10-14 20:57:39.682275 Zulu: Yes
+2024-10-14 20:57:39.682408 Papa: No
+2024-10-14 20:57:39.682534 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:39.753164 Whiskey: I was attacked by Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:39.771430 Whiskey: I'm keeping this round to protect myself
+2024-10-14 20:57:39.774640 Whiskey: Ow
+2024-10-14 20:57:39.777659 Foxtrot: Same as last round
+2024-10-14 20:57:39.778588 Foxtrot: I was attacked by Juliett
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:39.786040 Foxtrot: Ow
+2024-10-14 20:57:39.798678 Juliett: Charlie, Zulu, Uniform, Bravo, Papa and Whiskey, sending you 2
+2024-10-14 20:57:39.802688 Bravo: Sending you each 4
+2024-10-14 20:57:39.803298 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:39.809674 Zulu: Charlie, sending you 4
+2024-10-14 20:57:39.810267 Uniform: Charlie, Zulu, Papa and Whiskey, sending you 1
+2024-10-14 20:57:39.814674 Zulu: Juliett, Papa and Whiskey, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Foxtrot round 17
+ChatterBot Charlie round 17
+ChatterBot Zulu round 17
+ChatterBot Uniform round 17
+ChatterBot Bravo round 17
+ChatterBot Juliett round 17
+ChatterBot Lima round 17
+ChatterBot Papa round 17
+ChatterBot Whiskey round 17
+ChatterBot Delta round 17
+2024-10-14 20:57:40.938765 Foxtrot: We should add Charlie
+ChatterBot Lima reevaluating
+2024-10-14 20:57:40.946220 Lima: No
+2024-10-14 20:57:40.946400 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:40.986478 Juliett: We should drop Uniform
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:41.001235 Bravo: Yes
+2024-10-14 20:57:41.001413 Charlie: Yes
+2024-10-14 20:57:41.001594 Zulu: No
+2024-10-14 20:57:41.001744 Papa: No
+2024-10-14 20:57:41.001908 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:41.082657 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:41.086931 Papa: Uniform, sending you 1
+2024-10-14 20:57:41.098036 Uniform: Charlie, Zulu, Juliett and Whiskey, sending you 1
+2024-10-14 20:57:41.099729 Juliett: Charlie, sending you 5
+2024-10-14 20:57:41.101794 Bravo: Sending you each 3
+2024-10-14 20:57:41.102530 Bravo: I was attacked by Foxtrot
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:41.126814 Bravo: Ow
+2024-10-14 20:57:41.129066 Zulu: Charlie and Juliett, sending you 5
+2024-10-14 20:57:41.130 Juliett: Zulu, Uniform, Bravo, Papa and Whiskey, sending you 3
+2024-10-14 20:57:41.132673 Zulu: Papa and Whiskey, sending you 4
+2024-10-14 20:57:41.133201 Whiskey: Charlie, Zulu, Bravo and Juliett, sending you 3
+2024-10-14 20:57:41.138663 Whiskey: Uniform, sending you 1
+2024-10-14 20:57:41.142996 Whiskey: Papa, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 18
+ChatterBot Charlie round 18
+ChatterBot Zulu round 18
+ChatterBot Uniform round 18
+ChatterBot Bravo round 18
+ChatterBot Juliett round 18
+ChatterBot Lima round 18
+ChatterBot Papa round 18
+ChatterBot Whiskey round 18
+ChatterBot Delta round 18
+2024-10-14 20:57:42.501794 Delta: We should add Bravo
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:42.511591 Lima: Yes
+2024-10-14 20:57:42.511806 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:42.535665 Delta: Bravo we want you to join our group
+2024-10-14 20:57:42.540605 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:42.556913 Zulu: Charlie and Juliett, sending you 5
+2024-10-14 20:57:42.560045 Bravo: Sending you each 4
+2024-10-14 20:57:42.563231 Uniform: Zulu, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:42.568748 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:42.572697 Juliett: Charlie and Zulu, sending you 4
+2024-10-14 20:57:42.577234 Foxtrot: Bravo we want you to join our group
+2024-10-14 20:57:42.585407 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:57:42.605094 Zulu: Papa and Whiskey, sending you 4
+2024-10-14 20:57:42.607356 Papa: Uniform, sending you 1
+2024-10-14 20:57:42.609610 Whiskey: Charlie, Zulu, Bravo, Juliett and Papa, sending you 3
+2024-10-14 20:57:42.611700 Juliett: Uniform, Bravo, Papa and Whiskey, sending you 3
+2024-10-14 20:57:42.614096 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:42.615831 Lima: Bravo we want you to join our group
+2024-10-14 20:57:42.619220 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:57:42.634853 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:42.637173 Delta: Bravo and Lima, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Foxtrot round 19
+ChatterBot Charlie round 19
+ChatterBot Zulu round 19
+ChatterBot Uniform round 19
+ChatterBot Bravo round 19
+ChatterBot Juliett round 19
+ChatterBot Lima round 19
+ChatterBot Papa round 19
+ChatterBot Whiskey round 19
+ChatterBot Delta round 19
+2024-10-14 20:57:43.886994 Zulu: We should add Uniform
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:43.915178 Charlie: No
+2024-10-14 20:57:43.915431 Juliett: Yes
+2024-10-14 20:57:43.916163 Papa: Yes
+2024-10-14 20:57:43.916411 Whiskey: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:43.987178 Papa: We should add Delta
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:44.020655 Uniform: No
+2024-10-14 20:57:44.021825 Charlie: No
+2024-10-14 20:57:44.022971 Zulu: No
+2024-10-14 20:57:44.023412 Bravo: Yes
+2024-10-14 20:57:44.023708 Juliett: No
+2024-10-14 20:57:44.024040 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:44.204339 Lima: We should add Bravo
+2024-10-14 20:57:44.211582 Foxtrot: Yes
+2024-10-14 20:57:44.211766 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:44.242413 Zulu: Uniform we want you to join our group
+2024-10-14 20:57:44.247299 Uniform: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:44.262785 Papa: We should add Lima
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:44.282449 Uniform: No
+2024-10-14 20:57:44.282632 Charlie: No
+2024-10-14 20:57:44.282751 Zulu: No
+2024-10-14 20:57:44.282853 Bravo: Yes
+2024-10-14 20:57:44.282961 Juliett: No
+2024-10-14 20:57:44.283076 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:44.409925 Lima: Bravo we want you to join our group
+2024-10-14 20:57:44.415936 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:57:44.428709 Bravo: Foxtrot, sending you 3
+2024-10-14 20:57:44.431683 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:44.432835 Whiskey: Charlie, Bravo, Juliett and Papa, sending you 3
+2024-10-14 20:57:44.434300 Bravo: Lima, sending you 5
+2024-10-14 20:57:44.435289 Juliett: Charlie and Zulu, sending you 4
+2024-10-14 20:57:44.436596 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:44.438365 Zulu: Charlie, Juliett, Papa and Whiskey, sending you 3
+2024-10-14 20:57:44.438900 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:44.440041 Delta: Bravo and Lima, sending you 3
+2024-10-14 20:57:44.441067 Whiskey: Zulu, sending you 4
+2024-10-14 20:57:44.442467 Bravo: Delta, sending you 4
+2024-10-14 20:57:44.443845 Juliett: Uniform, Bravo, Papa and Whiskey, sending you 3
+2024-10-14 20:57:44.446218 Zulu: Uniform, sending you 2
+2024-10-14 20:57:44.447602 Papa: Uniform, sending you 1
+2024-10-14 20:57:44.450046 Whiskey: Uniform, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Foxtrot round 20
+ChatterBot Charlie round 20
+ChatterBot Zulu round 20
+ChatterBot Uniform round 20
+ChatterBot Bravo round 20
+ChatterBot Juliett round 20
+ChatterBot Lima round 20
+ChatterBot Papa round 20
+ChatterBot Whiskey round 20
+ChatterBot Delta round 20
+2024-10-14 20:57:45.608650 Foxtrot: We should add Charlie
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:45.626025 Bravo: No
+2024-10-14 20:57:45.626325 Lima: No
+2024-10-14 20:57:45.626703 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:45.767958 Zulu: We should drop Uniform and Papa
+2024-10-14 20:57:45.790792 Charlie: No
+2024-10-14 20:57:45.791552 Juliett: No
+2024-10-14 20:57:45.791791 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:45.851250 Uniform: We should drop Bravo
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:45.871912 Zulu: Yes
+2024-10-14 20:57:45.872104 Charlie: Yes
+2024-10-14 20:57:45.872222 Juliett: Yes
+2024-10-14 20:57:45.872977 Papa: Yes
+2024-10-14 20:57:45.873145 Whiskey: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:45.977972 Lima: Bravo we want you to join our group
+2024-10-14 20:57:45.984056 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:45.996258 Bravo: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:46.012290 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:57:46.016449 Bravo: Ow
+2024-10-14 20:57:46.018466 Foxtrot: We should add Uniform
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:46.040684 Bravo: No
+2024-10-14 20:57:46.040891 Lima: No
+2024-10-14 20:57:46.041081 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:46.108688 Zulu: We should drop Charlie and Uniform
+2024-10-14 20:57:46.128835 Juliett: No
+2024-10-14 20:57:46.129049 Papa: No
+2024-10-14 20:57:46.129214 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 20:57:46.183714 Whiskey: Charlie, Zulu, Juliett and Papa, sending you 4
+2024-10-14 20:57:46.186897 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:46.214531 Juliett: Charlie, Papa and Whiskey, sending you 4
+2024-10-14 20:57:46.217631 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:46.221199 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:46.224673 Papa: Uniform, sending you 1
+2024-10-14 20:57:46.227603 Juliett: Zulu, sending you 5
+2024-10-14 20:57:46.230684 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:46.262201 Juliett: Uniform, sending you 3
+2024-10-14 20:57:46.266249 Delta: Bravo and Lima, sending you 3
+2024-10-14 20:57:46.279703 Foxtrot: Sending you each 5
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Foxtrot round 21
+ChatterBot Charlie round 21
+ChatterBot Zulu round 21
+ChatterBot Uniform round 21
+ChatterBot Bravo round 21
+ChatterBot Juliett round 21
+ChatterBot Lima round 21
+ChatterBot Papa round 21
+ChatterBot Whiskey round 21
+ChatterBot Delta round 21
+2024-10-14 20:57:47.342599 Papa: We should add Foxtrot
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:47.361919 Zulu: No
+2024-10-14 20:57:47.362127 Charlie: No
+2024-10-14 20:57:47.362301 Uniform: No
+2024-10-14 20:57:47.362459 Juliett: No
+2024-10-14 20:57:47.362624 Whiskey: No
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:47.548094 Lima: We should add Bravo
+2024-10-14 20:57:47.558788 Foxtrot: Yes
+2024-10-14 20:57:47.559009 Delta: Yes
+2024-10-14 20:57:47.579916 Charlie: We should drop Bravo
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:47.608959 Zulu: Yes
+2024-10-14 20:57:47.609145 Uniform: Yes
+2024-10-14 20:57:47.609296 Juliett: Yes
+2024-10-14 20:57:47.609464 Papa: Yes
+2024-10-14 20:57:47.609650 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:47.913251 Lima: Bravo we want you to join our group
+2024-10-14 20:57:47.918067 Bravo: Yes
+2024-10-14 20:57:47.932871 Zulu: We should drop Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:47.959158 Charlie: No
+2024-10-14 20:57:47.959678 Uniform: No
+2024-10-14 20:57:47.960033 Juliett: No
+2024-10-14 20:57:47.960484 Papa: No
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:48.076100 Whiskey: We should drop Zulu
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:48.105886 Charlie: No
+2024-10-14 20:57:48.106199 Uniform: No
+2024-10-14 20:57:48.107142 Juliett: No
+2024-10-14 20:57:48.107479 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:48.189334 Juliett: Charlie, sending you 5
+2024-10-14 20:57:48.197450 Zulu: We should drop Papa
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:48.212475 Charlie: No
+2024-10-14 20:57:48.212657 Uniform: No
+2024-10-14 20:57:48.212783 Juliett: No
+2024-10-14 20:57:48.212919 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:48.279482 Foxtrot: Bravo and Lima, sending you 4
+2024-10-14 20:57:48.282049 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:48.283668 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:48.285464 Uniform: I was attacked by Zulu
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:48.305105 Uniform: Ow
+2024-10-14 20:57:48.307077 Bravo: Foxtrot, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-14 20:57:48.309680 Foxtrot: Delta, sending you 5
+2024-10-14 20:57:48.312243 Delta: Bravo and Lima, sending you 3
+2024-10-14 20:57:48.314932 Bravo: Lima, sending you 5
+2024-10-14 20:57:48.326609 Bravo: Delta, sending you 4
+2024-10-14 20:57:48.331751 Whiskey: Charlie, Zulu, Juliett and Papa, sending you 4
+2024-10-14 20:57:48.337666 Whiskey: Uniform, sending you 2
+2024-10-14 20:57:48.340209 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:48.343601 Zulu: Charlie, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:48.346685 Papa: Uniform, sending you 1
+2024-10-14 20:57:48.352634 Zulu: Uniform, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Foxtrot round 22
+ChatterBot Charlie round 22
+ChatterBot Zulu round 22
+ChatterBot Uniform round 22
+ChatterBot Bravo round 22
+ChatterBot Juliett round 22
+ChatterBot Lima round 22
+ChatterBot Papa round 22
+ChatterBot Whiskey round 22
+ChatterBot Delta round 22
+2024-10-14 20:57:49.514507 Lima: We should add Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:49.529724 Foxtrot: Yes
+2024-10-14 20:57:49.530157 Delta: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:49.572144 Charlie: We should drop Bravo
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:49.606740 Zulu: Yes
+2024-10-14 20:57:49.606989 Uniform: Yes
+2024-10-14 20:57:49.607176 Juliett: Yes
+2024-10-14 20:57:49.607350 Papa: Yes
+2024-10-14 20:57:49.607554 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:49.773774 Lima: Bravo we want you to join our group
+2024-10-14 20:57:49.780438 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:49.796743 Bravo: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:49.812389 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:57:49.814239 Bravo: Ow
+2024-10-14 20:57:49.816064 Whiskey: We should drop Zulu
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:49.830691 Charlie: No
+2024-10-14 20:57:49.830865 Uniform: No
+2024-10-14 20:57:49.830974 Juliett: No
+2024-10-14 20:57:49.831094 Papa: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:49.942008 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:49.949673 Foxtrot: Sending you each 5
+2024-10-14 20:57:49.951740 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:49.953446 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:49.957133 Delta: Bravo and Lima, sending you 3
+2024-10-14 20:57:49.969955 Whiskey: Charlie, Zulu, Juliett and Papa, sending you 4
+2024-10-14 20:57:49.972286 Papa: Uniform, sending you 1
+2024-10-14 20:57:49.977514 Whiskey: Uniform, sending you 2
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Foxtrot round 23
+ChatterBot Charlie round 23
+ChatterBot Zulu round 23
+ChatterBot Uniform round 23
+ChatterBot Bravo round 23
+ChatterBot Juliett round 23
+ChatterBot Lima round 23
+ChatterBot Papa round 23
+ChatterBot Whiskey round 23
+ChatterBot Delta round 23
+2024-10-14 20:57:50.753042 Papa: We should add Lima
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:50.766495 Zulu: No
+2024-10-14 20:57:50.767179 Charlie: No
+2024-10-14 20:57:50.767349 Uniform: No
+2024-10-14 20:57:50.767490 Juliett: No
+2024-10-14 20:57:50.767638 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:50.864850 Lima: We should add Bravo
+2024-10-14 20:57:50.870146 Foxtrot: Yes
+2024-10-14 20:57:50.870310 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:50.898205 Papa: We should add Delta
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:50.921439 Zulu: No
+2024-10-14 20:57:50.921665 Charlie: No
+2024-10-14 20:57:50.921827 Uniform: No
+2024-10-14 20:57:50.921981 Juliett: No
+2024-10-14 20:57:50.922136 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:51.044669 Lima: Bravo we want you to join our group
+2024-10-14 20:57:51.048971 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:51.061379 Foxtrot: We should add Uniform
+ChatterBot Lima reevaluating
+2024-10-14 20:57:51.076332 Bravo: No
+2024-10-14 20:57:51.076528 Lima: No
+2024-10-14 20:57:51.077152 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:51.129609 Charlie: We should drop Bravo
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:51.157453 Zulu: Yes
+2024-10-14 20:57:51.157692 Uniform: Yes
+2024-10-14 20:57:51.157865 Juliett: Yes
+2024-10-14 20:57:51.158032 Papa: Yes
+2024-10-14 20:57:51.158203 Whiskey: Yes
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:51.299540 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:51.301728 Uniform: I was attacked by Zulu
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:51.330827 Uniform: Ow
+2024-10-14 20:57:51.333821 Bravo: Sending you each 4
+2024-10-14 20:57:51.335359 Delta: Foxtrot and Lima, sending you 3
+2024-10-14 20:57:51.340852 Delta: Bravo, sending you 2
+2024-10-14 20:57:51.351226 Foxtrot: Bravo, sending you 4
+2024-10-14 20:57:51.353074 Zulu: Charlie, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:51.357714 Foxtrot: Lima and Delta, sending you 5
+2024-10-14 20:57:51.360735 Zulu: Papa, sending you 2
+2024-10-14 20:57:51.364643 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:51.374449 Papa: Uniform, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Foxtrot round 24
+ChatterBot Charlie round 24
+ChatterBot Zulu round 24
+ChatterBot Uniform round 24
+ChatterBot Bravo round 24
+ChatterBot Juliett round 24
+ChatterBot Lima round 24
+ChatterBot Papa round 24
+ChatterBot Whiskey round 24
+ChatterBot Delta round 24
+2024-10-14 20:57:52.627811 Lima: We should add Bravo
+2024-10-14 20:57:52.635416 Foxtrot: Yes
+2024-10-14 20:57:52.635688 Delta: Yes
+2024-10-14 20:57:52.666864 Charlie: We should drop Bravo
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:52.688517 Zulu: Yes
+2024-10-14 20:57:52.688765 Uniform: Yes
+2024-10-14 20:57:52.688957 Juliett: Yes
+2024-10-14 20:57:52.689136 Papa: Yes
+2024-10-14 20:57:52.689306 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:52.800093 Lima: Bravo we want you to join our group
+2024-10-14 20:57:52.804926 Bravo: Yes
+2024-10-14 20:57:52.816950 Bravo: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:52.829824 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:57:52.831560 Bravo: Ow
+2024-10-14 20:57:52.832450 Zulu: Charlie, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:52.833993 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:52.836683 Zulu: Papa, sending you 2
+2024-10-14 20:57:52.839679 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:57:52.843659 Papa: Uniform, sending you 1
+2024-10-14 20:57:52.848683 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:52.854711 Delta: Bravo and Lima, sending you 3
+2024-10-14 20:57:52.858430 Foxtrot: Bravo and Delta, sending you 1
+2024-10-14 20:57:52.863678 Foxtrot: Lima, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Foxtrot round 25
+ChatterBot Charlie round 25
+ChatterBot Zulu round 25
+ChatterBot Uniform round 25
+ChatterBot Bravo round 25
+ChatterBot Juliett round 25
+ChatterBot Lima round 25
+ChatterBot Papa round 25
+ChatterBot Whiskey round 25
+ChatterBot Delta round 25
+2024-10-14 20:57:54.677141 Lima: We should add Bravo
+2024-10-14 20:57:54.687128 Foxtrot: Yes
+2024-10-14 20:57:54.687998 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:54.739005 Charlie: We should drop Bravo
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:54.767543 Zulu: Yes
+2024-10-14 20:57:54.768042 Uniform: Yes
+2024-10-14 20:57:54.768381 Juliett: Yes
+2024-10-14 20:57:54.768670 Papa: Yes
+2024-10-14 20:57:54.768874 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:54.914702 Lima: Bravo we want you to join our group
+2024-10-14 20:57:54.923492 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:57:54.941890 Bravo: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:54.958867 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:57:54.962862 Bravo: Ow
+2024-10-14 20:57:54.979019 Zulu: Charlie, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:54.984979 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:54.992424 Papa: Sending you each 1
+2024-10-14 20:57:54.999571 Zulu: Papa, sending you 2
+2024-10-14 20:57:55.009730 Delta: Foxtrot, sending you 2
+2024-10-14 20:57:55.015391 Foxtrot: Bravo and Delta, sending you 1
+2024-10-14 20:57:55.021306 Delta: Bravo and Lima, sending you 3
+2024-10-14 20:57:55.027570 Foxtrot: Lima, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Foxtrot round 26
+ChatterBot Charlie round 26
+ChatterBot Zulu round 26
+ChatterBot Uniform round 26
+ChatterBot Bravo round 26
+ChatterBot Juliett round 26
+ChatterBot Lima round 26
+ChatterBot Papa round 26
+ChatterBot Whiskey round 26
+ChatterBot Delta round 26
+2024-10-14 20:57:56.192713 Lima: We should add Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:56.203846 Foxtrot: Yes
+2024-10-14 20:57:56.204056 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:57:56.270682 Charlie: We should drop Bravo
+2024-10-14 20:57:56.301765 Zulu: Yes
+2024-10-14 20:57:56.302007 Uniform: Yes
+2024-10-14 20:57:56.302183 Juliett: Yes
+2024-10-14 20:57:56.302369 Papa: Yes
+2024-10-14 20:57:56.302539 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:56.471227 Zulu: We should replace Papa with Uniform
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:56.487188 Charlie: No
+2024-10-14 20:57:56.487389 Juliett: No
+2024-10-14 20:57:56.487544 Whiskey: No
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 20:57:56.553139 Lima: Bravo we want you to join our group
+2024-10-14 20:57:56.560305 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:57:56.581841 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:57:56.589347 Bravo: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:56.611015 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:57:56.614870 Bravo: Ow
+2024-10-14 20:57:56.617371 Papa: Same as last round
+2024-10-14 20:57:56.624425 Zulu: Uniform we want you to join our group
+2024-10-14 20:57:56.634547 Uniform: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 20:57:56.676069 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 20:57:56.678086 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 20:57:56.703875 Zulu: Charlie, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:56.781254 Zulu: Uniform, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Foxtrot round 27
+ChatterBot Charlie round 27
+ChatterBot Zulu round 27
+ChatterBot Uniform round 27
+ChatterBot Bravo round 27
+ChatterBot Juliett round 27
+ChatterBot Lima round 27
+ChatterBot Papa round 27
+ChatterBot Whiskey round 27
+ChatterBot Delta round 27
+2024-10-14 20:57:57.685045 Lima: We should add Bravo
+ChatterBot Delta reevaluating
+2024-10-14 20:57:57.691885 Foxtrot: Yes
+2024-10-14 20:57:57.692047 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:57.728644 Charlie: We should drop Bravo
+2024-10-14 20:57:57.742273 Zulu: Yes
+2024-10-14 20:57:57.742449 Uniform: Yes
+2024-10-14 20:57:57.742571 Juliett: Yes
+2024-10-14 20:57:57.742731 Papa: Yes
+2024-10-14 20:57:57.742883 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:57.813869 Lima: Bravo we want you to join our group
+2024-10-14 20:57:57.817441 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 20:57:57.825545 Foxtrot: I was attacked by Juliett
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:57.836787 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 20:57:57.840094 Foxtrot: Ow
+2024-10-14 20:57:57.841444 Charlie: We should drop Bravo and Papa
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:57.853546 Zulu: Yes
+2024-10-14 20:57:57.853676 Uniform: No
+2024-10-14 20:57:57.853781 Juliett: No
+2024-10-14 20:57:57.853882 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:57.910409 Zulu: Charlie, Juliett and Whiskey, sending you 4
+2024-10-14 20:57:57.913631 Whiskey: We should drop Papa
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:57.939892 Zulu: Yes
+2024-10-14 20:57:57.940144 Charlie: Yes
+2024-10-14 20:57:57.940322 Uniform: Yes
+2024-10-14 20:57:57.940485 Juliett: No
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:58.027979 Zulu: Uniform, sending you 2
+chatterbot Juliett submitting transactions
+2024-10-14 20:57:58.038712 Papa: Same as last round
+2024-10-14 20:57:58.049753 Uniform: Sorry, I'm actually sending you 0
+2024-10-14 20:57:58.052702 Uniform: Sending you each 1
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Foxtrot round 28
+ChatterBot Charlie round 28
+ChatterBot Zulu round 28
+ChatterBot Uniform round 28
+ChatterBot Bravo round 28
+ChatterBot Juliett round 28
+ChatterBot Lima round 28
+ChatterBot Papa round 28
+ChatterBot Whiskey round 28
+ChatterBot Delta round 28
+2024-10-14 20:57:59.063854 Lima: We should add Bravo
+ChatterBot Delta reevaluating
+2024-10-14 20:57:59.069865 Foxtrot: Yes
+2024-10-14 20:57:59.070045 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:57:59.085295 Uniform: We should add Papa
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:57:59.095081 Zulu: No
+2024-10-14 20:57:59.095230 Charlie: Yes
+2024-10-14 20:57:59.095346 Juliett: Yes
+2024-10-14 20:57:59.095465 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:59.145660 Uniform: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 20:57:59.149516 Papa: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:59.162225 Papa: We should add Delta
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 20:57:59.177533 Zulu: No
+2024-10-14 20:57:59.177815 Charlie: No
+2024-10-14 20:57:59.178045 Uniform: No
+2024-10-14 20:57:59.178230 Juliett: No
+2024-10-14 20:57:59.178446 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:59.236641 Charlie: We should drop Bravo
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:59.248518 Zulu: Yes
+2024-10-14 20:57:59.248658 Uniform: Yes
+2024-10-14 20:57:59.248788 Juliett: Yes
+2024-10-14 20:57:59.248883 Papa: Yes
+2024-10-14 20:57:59.248975 Whiskey: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:57:59.307951 Foxtrot: I was attacked by Juliett and Papa
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:59.315637 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 20:57:59.316462 Foxtrot: Ow
+2024-10-14 20:57:59.325675 Lima: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 20:57:59.332447 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:57:59.353706 Papa: Same as last round
+2024-10-14 20:57:59.355140 Zulu: Charlie and Whiskey, sending you 4
+2024-10-14 20:57:59.358666 Zulu: Juliett and Papa, sending you 3
+2024-10-14 20:57:59.372663 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Foxtrot round 29
+ChatterBot Charlie round 29
+ChatterBot Zulu round 29
+ChatterBot Uniform round 29
+ChatterBot Bravo round 29
+ChatterBot Juliett round 29
+ChatterBot Lima round 29
+ChatterBot Papa round 29
+ChatterBot Whiskey round 29
+ChatterBot Delta round 29
+2024-10-14 20:58:00.633445 Lima: We should add Bravo
+ChatterBot Delta reevaluating
+2024-10-14 20:58:00.641475 Foxtrot: Yes
+2024-10-14 20:58:00.641713 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:58:00.669379 Charlie: We should drop Bravo
+ChatterBot Juliett reevaluating
+2024-10-14 20:58:00.685407 Zulu: Yes
+2024-10-14 20:58:00.685618 Uniform: Yes
+2024-10-14 20:58:00.685800 Juliett: Yes
+2024-10-14 20:58:00.685961 Papa: Yes
+2024-10-14 20:58:00.686114 Whiskey: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:58:00.748871 Bravo: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:58:00.755843 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:58:00.756640 Bravo: Ow
+2024-10-14 20:58:00.762693 Lima: Bravo we want you to join our group
+2024-10-14 20:58:00.766428 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:58:00.776271 Zulu: Charlie and Whiskey, sending you 4
+2024-10-14 20:58:00.779703 Papa: Same as last round
+2024-10-14 20:58:00.781150 Zulu: Juliett and Papa, sending you 3
+2024-10-14 20:58:00.781988 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 30
+ChatterBot Charlie round 30
+ChatterBot Zulu round 30
+ChatterBot Uniform round 30
+ChatterBot Bravo round 30
+ChatterBot Juliett round 30
+ChatterBot Lima round 30
+ChatterBot Papa round 30
+ChatterBot Whiskey round 30
+ChatterBot Delta round 30
+2024-10-14 20:58:01.888921 Lima: We should add Bravo
+ChatterBot Delta reevaluating
+2024-10-14 20:58:01.894631 Foxtrot: Yes
+2024-10-14 20:58:01.894809 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 20:58:01.916824 Charlie: We should drop Bravo
+ChatterBot Papa reevaluating
+2024-10-14 20:58:01.927562 Zulu: Yes
+2024-10-14 20:58:01.927749 Uniform: Yes
+2024-10-14 20:58:01.927866 Juliett: Yes
+2024-10-14 20:58:01.927982 Papa: Yes
+2024-10-14 20:58:01.928092 Whiskey: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 20:58:01.981396 Foxtrot: I was attacked by Juliett and Papa
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:58:01.988909 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 20:58:01.989745 Foxtrot: Ow
+2024-10-14 20:58:01.997689 Lima: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 20:58:02.001380 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 20:58:02.013720 Uniform: Charlie, Juliett, Papa and Whiskey, sending you 1
+2024-10-14 20:58:02.015315 Papa: Charlie, Zulu, Juliett and Whiskey, sending you 2
+2024-10-14 20:58:02.016877 Zulu: Charlie and Whiskey, sending you 4
+2024-10-14 20:58:02.019691 Papa: Uniform, sending you 1
+2024-10-14 20:58:02.020832 Zulu: Juliett and Papa, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions

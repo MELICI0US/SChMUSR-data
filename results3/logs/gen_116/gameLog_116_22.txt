@@ -1,0 +1,2232 @@
+ChatterBot Tango round 1
+ChatterBot Hotel round 1
+ChatterBot November round 1
+ChatterBot Sierra round 1
+ChatterBot Bravo round 1
+ChatterBot Quebec round 1
+ChatterBot X-ray round 1
+ChatterBot Uniform round 1
+ChatterBot Lima round 1
+ChatterBot Whiskey round 1
+randomSelections Sierra: {Sierra, Hotel, X-ray} 
+2024-10-14 21:49:49.125114 Sierra: Can we be friends?
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:49.131111 Hotel: Yes
+2024-10-14 21:49:49.131274 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+randomSelections November: {November, Lima, Sierra, Bravo, Whiskey, X-ray} 
+2024-10-14 21:49:49.141174 November: Friends?
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:49.153141 Lima: Yes
+2024-10-14 21:49:49.153476 Sierra: No
+2024-10-14 21:49:49.154606 Bravo: Yes
+2024-10-14 21:49:49.154965 Whiskey: Yes
+2024-10-14 21:49:49.155142 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Quebec: {Quebec, November, Tango, Bravo, X-ray, Lima, Uniform} 
+2024-10-14 21:49:49.201573 Quebec: Can we be friends?
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:49.215646 November: No
+2024-10-14 21:49:49.215920 Tango: Yes
+2024-10-14 21:49:49.216109 Bravo: No
+2024-10-14 21:49:49.216299 X-ray: No
+2024-10-14 21:49:49.216548 Lima: No
+2024-10-14 21:49:49.217593 Uniform: Yes
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:49.320259 Uniform: Tango, sending you 2
+2024-10-14 21:49:49.324438 Lima: November, Bravo and X-ray, sending you 2
+2024-10-14 21:49:49.324827 Bravo: November, sending you 4
+2024-10-14 21:49:49.325709 Uniform: November, sending you 4
+2024-10-14 21:49:49.326109 X-ray: Hotel, sending you 12
+2024-10-14 21:49:49.326691 November: Sierra, sending you 1
+2024-10-14 21:49:49.327756 Sierra: Sending you each 5
+2024-10-14 21:49:49.329283 Whiskey: November, sending you 2
+2024-10-14 21:49:49.329669 Lima: Sierra, sending you 6
+2024-10-14 21:49:49.329963 X-ray: Sierra, sending you 4
+2024-10-14 21:49:49.330221 Hotel: Sierra, sending you 8
+2024-10-14 21:49:49.331091 Bravo: Sierra, sending you 3
+2024-10-14 21:49:49.331575 Quebec: Tango, sending you 5
+2024-10-14 21:49:49.331945 Uniform: Bravo, sending you 3
+2024-10-14 21:49:49.332818 Tango: November and Quebec, sending you 3
+2024-10-14 21:49:49.333107 November: Bravo, sending you 2
+2024-10-14 21:49:49.333382 Whiskey: Sierra and Lima, sending you 3
+2024-10-14 21:49:49.334346 Hotel: X-ray, sending you 7
+2024-10-14 21:49:49.334683 Bravo: X-ray, sending you 5
+2024-10-14 21:49:49.334994 Lima: Whiskey, sending you 3
+2024-10-14 21:49:49.335314 Quebec: November, Bravo and X-ray, sending you 2
+2024-10-14 21:49:49.340264 November: X-ray and Whiskey, sending you 4
+2024-10-14 21:49:49.340813 Uniform: Quebec and X-ray, sending you 1
+2024-10-14 21:49:49.342004 Tango: Bravo, sending you 5
+2024-10-14 21:49:49.342483 Whiskey: Bravo, sending you 4
+2024-10-14 21:49:49.343460 Bravo: Lima, sending you 2
+2024-10-14 21:49:49.343927 Quebec: Uniform and Lima, sending you 3
+2024-10-14 21:49:49.345099 November: Lima, sending you 3
+2024-10-14 21:49:49.345559 Uniform: Lima, sending you 5
+2024-10-14 21:49:49.346735 Whiskey: X-ray, sending you 5
+2024-10-14 21:49:49.348027 Tango: X-ray, sending you 4
+2024-10-14 21:49:49.349685 Bravo: Whiskey, sending you 1
+2024-10-14 21:49:49.351714 Tango: Uniform, sending you 2
+2024-10-14 21:49:49.356712 Tango: Lima, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 2
+ChatterBot Hotel round 2
+ChatterBot November round 2
+2024-10-14 21:49:50.284104 November: Can we be friends?
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 21:49:50.382885 Tango: No
+2024-10-14 21:49:50.383149 Quebec: No
+2024-10-14 21:49:50.383337 Uniform: No
+2024-10-14 21:49:50.383518 Bravo: No
+2024-10-14 21:49:50.384122 Lima: No
+2024-10-14 21:49:50.384307 Whiskey: No
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra round 2
+ChatterBot Bravo round 2
+ChatterBot Quebec round 2
+ChatterBot X-ray round 2
+ChatterBot Uniform round 2
+2024-10-14 21:49:50.765794 Hotel: We should add Whiskey
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:50.773205 Sierra: Yes
+2024-10-14 21:49:50.773797 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 21:49:50.787541 X-ray: We would work well together
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 21:49:50.825344 Sierra: Yes
+2024-10-14 21:49:50.825499 Hotel: No
+2024-10-14 21:49:50.825611 November: No
+2024-10-14 21:49:50.826095 Bravo: No
+2024-10-14 21:49:50.826182 Lima: No
+2024-10-14 21:49:50.826266 Whiskey: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima round 2
+ChatterBot Whiskey round 2
+2024-10-14 21:49:51.060132 Quebec: We should replace X-ray with Whiskey
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:51.082043 Tango: Yes
+2024-10-14 21:49:51.082238 Uniform: Yes
+2024-10-14 21:49:51.082353 November: Yes
+2024-10-14 21:49:51.082455 Bravo: Yes
+2024-10-14 21:49:51.082554 Lima: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:51.194815 Hotel: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 21:49:51.200081 Whiskey: No
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:51.221398 Quebec: Whiskey we want you to join our group
+2024-10-14 21:49:51.225923 Whiskey: No
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:51.254214 November: Tango, sending you 3
+2024-10-14 21:49:51.774866 November: Bravo and Uniform, sending you 4
+2024-10-14 21:49:51.775839 Bravo: Tango, Uniform and Whiskey, sending you 3
+2024-10-14 21:49:51.776303 Uniform: Whiskey we want you to join our group
+2024-10-14 21:49:51.780977 Whiskey: No
+ChatterBot Tango reevaluating
+2024-10-14 21:49:51.805584 Whiskey: We should drop Sierra and X-ray
+2024-10-14 21:49:51.817396 November: Yes
+2024-10-14 21:49:51.817965 Bravo: Yes
+2024-10-14 21:49:51.818744 Lima: Yes
+chatterbot November submitting transactions
+2024-10-14 21:49:51.861757 November: Quebec and Lima, sending you 2
+2024-10-14 21:49:51.862986 Bravo: November, Quebec and Lima, sending you 2
+2024-10-14 21:49:51.863370 X-ray: Hotel, November, Sierra, Bravo and Whiskey, sending you 3
+2024-10-14 21:49:51.863808 Hotel: Sierra, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 21:49:51.986475 Quebec: Tango, sending you 6
+2024-10-14 21:49:51.987427 Lima: Tango, sending you 1
+2024-10-14 21:49:51.987812 Sierra: Hotel, sending you 5
+2024-10-14 21:49:51.988632 November: Whiskey, sending you 1
+2024-10-14 21:49:51.989050 X-ray: Lima, sending you 1
+2024-10-14 21:49:51.989436 Tango: Whiskey we want you to join our group
+2024-10-14 21:49:51.994540 Whiskey: No
+ChatterBot Tango reevaluating
+chatterbot Lima submitting transactions
+2024-10-14 21:49:52.021043 Hotel: X-ray, sending you 11
+2024-10-14 21:49:52.022005 Quebec: November, Bravo, Lima and Whiskey, sending you 2
+2024-10-14 21:49:52.022449 Lima: November, Quebec, Uniform and Whiskey, sending you 3
+2024-10-14 21:49:52.022809 Sierra: November, sending you 1
+2024-10-14 21:49:52.159083 Sierra: Bravo and Whiskey, sending you 2
+2024-10-14 21:49:52.159610 Uniform: Tango and Quebec, sending you 5
+2024-10-14 21:49:52.160474 Whiskey: November, sending you 2
+2024-10-14 21:49:52.160710 Quebec: Uniform, sending you 3
+2024-10-14 21:49:52.161050 Lima: Bravo, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 21:49:52.216132 Sierra: X-ray, sending you 3
+2024-10-14 21:49:52.216505 Whiskey: Lima, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 21:49:52.238044 Sierra: Lima, sending you 4
+2024-10-14 21:49:52.238560 Tango: Sending you each 5
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 3
+ChatterBot Hotel round 3
+ChatterBot November round 3
+ChatterBot Sierra round 3
+ChatterBot Bravo round 3
+ChatterBot Quebec round 3
+ChatterBot X-ray round 3
+ChatterBot Uniform round 3
+ChatterBot Lima round 3
+ChatterBot Whiskey round 3
+2024-10-14 21:49:53.129365 X-ray: Let's form a team
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:53.152806 Hotel: No
+2024-10-14 21:49:53.153 Sierra: No
+2024-10-14 21:49:53.153172 Tango: No
+2024-10-14 21:49:53.153306 Quebec: No
+2024-10-14 21:49:53.153887 Uniform: No
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:49:53.398134 Hotel: We should replace Whiskey with Bravo
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:53.406644 Sierra: No
+2024-10-14 21:49:53.406834 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Tango submitting transactions
+2024-10-14 21:49:53.464109 Tango: November and Bravo, sending you 3
+2024-10-14 21:49:53.465389 November: Tango, Quebec, Uniform and Whiskey, sending you 2
+2024-10-14 21:49:53.466065 Bravo: Tango, November and Lima, sending you 3
+2024-10-14 21:49:53.467370 Hotel: Bravo we want you to join our group
+2024-10-14 21:49:53.472442 Bravo: No
+2024-10-14 21:49:53.484149 Tango: Quebec and Uniform, sending you 5
+2024-10-14 21:49:53.484719 Bravo: Quebec, Uniform and Whiskey, sending you 2
+2024-10-14 21:49:53.485824 November: Bravo, sending you 5
+2024-10-14 21:49:53.486314 Lima: Tango, sending you 1
+2024-10-14 21:49:53.507461 Whiskey: Sending you each 1
+2024-10-14 21:49:53.508832 Sierra: Hotel and X-ray, sending you 5
+2024-10-14 21:49:53.510065 Quebec: Tango, sending you 4
+2024-10-14 21:49:53.510825 Uniform: Tango, sending you 5
+2024-10-14 21:49:53.511945 November: Lima, sending you 3
+2024-10-14 21:49:53.512690 Lima: November, Bravo, Quebec and Uniform, sending you 3
+2024-10-14 21:49:53.513946 Sierra: Lima, sending you 3
+2024-10-14 21:49:53.536568 Quebec: November, Bravo, Uniform and Lima, sending you 3
+2024-10-14 21:49:53.537723 Uniform: November and Bravo, sending you 3
+2024-10-14 21:49:53.539291 Hotel: Sierra, sending you 6
+2024-10-14 21:49:53.539792 Lima: Whiskey, sending you 2
+2024-10-14 21:49:53.559639 Quebec: Whiskey, sending you 1
+2024-10-14 21:49:53.562525 Uniform: Quebec, sending you 4
+chatterbot November submitting transactions
+2024-10-14 21:49:53.564920 Hotel: X-ray, sending you 9
+2024-10-14 21:49:53.578692 Uniform: Lima, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Tango round 4
+ChatterBot Hotel round 4
+ChatterBot November round 4
+ChatterBot Sierra round 4
+ChatterBot Bravo round 4
+ChatterBot Quebec round 4
+ChatterBot X-ray round 4
+2024-10-14 21:49:54.646501 Hotel: We should replace Bravo with November
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:54.655749 Sierra: No
+2024-10-14 21:49:54.655908 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:54.674862 Sierra: We should replace Lima with November
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:54.688604 Hotel: Yes
+2024-10-14 21:49:54.688789 X-ray: Yes
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform round 4
+ChatterBot Lima round 4
+ChatterBot Whiskey round 4
+2024-10-14 21:49:54.744755 Hotel: We should replace Bravo with Uniform
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:54.758582 Sierra: No
+2024-10-14 21:49:54.758834 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:54.794514 Lima: We should add Sierra
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 21:49:54.829719 November: No
+2024-10-14 21:49:54.829980 Tango: No
+2024-10-14 21:49:54.830145 Quebec: No
+2024-10-14 21:49:54.830764 Uniform: No
+2024-10-14 21:49:54.830939 Bravo: No
+2024-10-14 21:49:54.831111 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:55.111050 Whiskey: We should add Tango and Quebec
+ChatterBot Lima reevaluating
+2024-10-14 21:49:55.130562 November: Yes
+2024-10-14 21:49:55.130916 Bravo: Yes
+2024-10-14 21:49:55.131178 Lima: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 21:49:55.201577 Sierra: November we want you to join our group
+2024-10-14 21:49:55.208728 November: No
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:55.230198 Tango: November and Bravo, sending you 3
+2024-10-14 21:49:55.236067 Whiskey: Tango and Quebec we want you to join our group
+2024-10-14 21:49:55.252081 Tango: No
+2024-10-14 21:49:55.252320 Quebec: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:55.291094 Quebec: Tango, sending you 4
+2024-10-14 21:49:55.292292 Bravo: Tango, November and Lima, sending you 3
+2024-10-14 21:49:55.292917 November: Tango and Whiskey, sending you 2
+2024-10-14 21:49:55.293913 Tango: Quebec and Uniform, sending you 5
+2024-10-14 21:49:55.294314 Hotel: November we want you to join our group
+2024-10-14 21:49:55.298366 November: No
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:55.310441 Bravo: Quebec, Uniform and Whiskey, sending you 2
+2024-10-14 21:49:55.311514 Uniform: Tango, sending you 5
+2024-10-14 21:49:55.311959 Quebec: November, Bravo, Uniform and Lima, sending you 3
+2024-10-14 21:49:55.312959 Tango: Lima, sending you 1
+2024-10-14 21:49:55.313491 November: Bravo, Quebec, Uniform and Lima, sending you 3
+2024-10-14 21:49:55.334300 Uniform: November, Quebec and Lima, sending you 3
+2024-10-14 21:49:55.335633 Quebec: Whiskey, sending you 1
+2024-10-14 21:49:55.345953 Lima: Tango, sending you 1
+2024-10-14 21:49:55.347146 Uniform: Bravo, sending you 2
+2024-10-14 21:49:55.347944 Whiskey: November, Bravo and Lima, sending you 1
+2024-10-14 21:49:55.364136 Lima: November, Bravo, Quebec and Uniform, sending you 3
+2024-10-14 21:49:55.365721 Hotel: Sierra, sending you 8
+2024-10-14 21:49:55.366060 Sierra: Hotel and X-ray, sending you 5
+chatterbot Tango submitting transactions
+2024-10-14 21:49:55.380578 Lima: Whiskey, sending you 2
+2024-10-14 21:49:55.381237 Hotel: X-ray, sending you 7
+2024-10-14 21:49:55.381712 Sierra: November, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Tango round 5
+ChatterBot Hotel round 5
+ChatterBot November round 5
+ChatterBot Sierra round 5
+ChatterBot Bravo round 5
+ChatterBot Quebec round 5
+ChatterBot X-ray round 5
+ChatterBot Uniform round 5
+ChatterBot Lima round 5
+ChatterBot Whiskey round 5
+2024-10-14 21:49:56.312101 Hotel: We should replace Bravo with November
+2024-10-14 21:49:56.323837 Sierra: Yes
+2024-10-14 21:49:56.324244 X-ray: Yes
+2024-10-14 21:49:56.368516 Hotel: November we want you to join our group
+2024-10-14 21:49:56.372916 November: No
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.382681 Sierra: We should drop November
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:56.388826 Hotel: Yes
+2024-10-14 21:49:56.389053 X-ray: Yes
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.408304 X-ray: We should replace November with Bravo
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.418069 Sierra: No
+2024-10-14 21:49:56.418362 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:56.439286 Hotel: We should replace Bravo with Tango
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:56.449468 Sierra: No
+2024-10-14 21:49:56.449830 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.472260 X-ray: We should replace November with Tango
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.482381 Sierra: No
+2024-10-14 21:49:56.483539 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:56.507457 Sierra: We should replace November with Lima
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:56.519110 Hotel: No
+2024-10-14 21:49:56.519313 X-ray: Yes
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.544532 November: Tango, Bravo, Quebec, Uniform and Lima, sending you 3
+2024-10-14 21:49:56.545720 Tango: November and Bravo, sending you 3
+2024-10-14 21:49:56.548683 X-ray: Lima we want you to join our group
+2024-10-14 21:49:56.555971 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.569189 Hotel: We should replace Bravo with Lima
+ChatterBot Sierra reevaluating
+2024-10-14 21:49:56.579954 Sierra: Yes
+2024-10-14 21:49:56.580836 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.611179 November: Whiskey, sending you 1
+2024-10-14 21:49:56.612145 Tango: Quebec and Uniform, sending you 5
+2024-10-14 21:49:56.613228 Quebec: Tango, sending you 4
+2024-10-14 21:49:56.614073 Uniform: Tango, sending you 5
+2024-10-14 21:49:56.615460 Lima: Tango, sending you 1
+2024-10-14 21:49:56.616667 Bravo: Tango, November and Lima, sending you 3
+2024-10-14 21:49:56.617419 Whiskey: November, Bravo and Lima, sending you 1
+2024-10-14 21:49:56.618829 Tango: Lima, sending you 1
+2024-10-14 21:49:56.619308 Quebec: November, Bravo, Uniform and Lima, sending you 3
+2024-10-14 21:49:56.621082 Hotel: Lima we want you to join our group
+2024-10-14 21:49:56.626829 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:56.645261 Uniform: November, Quebec and Lima, sending you 3
+2024-10-14 21:49:56.646276 Lima: November, Bravo, Quebec and Uniform, sending you 3
+2024-10-14 21:49:56.647809 Bravo: Quebec, Uniform and Whiskey, sending you 2
+2024-10-14 21:49:56.649237 Quebec: Whiskey, sending you 1
+2024-10-14 21:49:56.650730 Uniform: Bravo, sending you 2
+2024-10-14 21:49:56.653470 Lima: Whiskey, sending you 2
+2024-10-14 21:49:56.655340 X-ray: Hotel, sending you 6
+2024-10-14 21:49:56.655937 Sierra: We should drop X-ray and November
+2024-10-14 21:49:56.659542 Hotel: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 21:49:56.663762 X-ray: Sierra and Lima, sending you 5
+2024-10-14 21:49:56.669676 Sierra: Lima we want you to join our group
+2024-10-14 21:49:56.674355 Lima: No
+ChatterBot Sierra reevaluating
+2024-10-14 21:49:56.690130 Hotel: Sierra, sending you 9
+2024-10-14 21:49:56.693671 Hotel: X-ray, sending you 6
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 6
+ChatterBot Hotel round 6
+ChatterBot November round 6
+ChatterBot Sierra round 6
+2024-10-14 21:49:57.783938 Sierra: We would work well together
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:57.806956 Tango: No
+2024-10-14 21:49:57.807161 Hotel: No
+2024-10-14 21:49:57.807296 November: No
+2024-10-14 21:49:57.807452 Bravo: No
+2024-10-14 21:49:57.807581 X-ray: No
+2024-10-14 21:49:57.807720 Uniform: No
+2024-10-14 21:49:57.807843 Lima: No
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo round 6
+ChatterBot Quebec round 6
+ChatterBot X-ray round 6
+ChatterBot Uniform round 6
+ChatterBot Lima round 6
+ChatterBot Whiskey round 6
+2024-10-14 21:49:57.962752 Hotel: We should drop Bravo
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:57.969007 Sierra: No
+2024-10-14 21:49:57.969696 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:49:57.989911 Uniform: We should drop Whiskey
+ChatterBot Lima reevaluating
+2024-10-14 21:49:58.004934 Quebec: Yes
+2024-10-14 21:49:58.005100 Tango: Yes
+2024-10-14 21:49:58.005210 November: Yes
+2024-10-14 21:49:58.005314 Bravo: Yes
+2024-10-14 21:49:58.005417 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:58.108999 Tango: November and Bravo, sending you 3
+2024-10-14 21:49:58.113701 Tango: Quebec and Uniform, sending you 5
+2024-10-14 21:49:58.114811 Bravo: Tango, November, Quebec and Lima, sending you 2
+2024-10-14 21:49:58.115688 November: Tango, Quebec, Uniform and Lima, sending you 3
+2024-10-14 21:49:58.117668 Uniform: I was attacked by Whiskey
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:58.136780 Uniform: I'm keeping this round to protect myself
+2024-10-14 21:49:58.138448 Uniform: Ow
+2024-10-14 21:49:58.138839 X-ray: Tango and Sierra, sending you 4
+2024-10-14 21:49:58.139573 Hotel: Sierra, sending you 6
+2024-10-14 21:49:58.142858 Hotel: X-ray, sending you 9
+2024-10-14 21:49:58.143683 X-ray: Hotel, sending you 5
+2024-10-14 21:49:58.148847 X-ray: Uniform, sending you 3
+2024-10-14 21:49:58.167073 Lima: Tango, sending you 2
+2024-10-14 21:49:58.167655 Bravo: Sending you each 3
+2024-10-14 21:49:58.170671 Lima: November, sending you 4
+2024-10-14 21:49:58.173686 Lima: Bravo, Quebec and Uniform, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Tango round 7
+ChatterBot Hotel round 7
+ChatterBot November round 7
+ChatterBot Sierra round 7
+ChatterBot Bravo round 7
+ChatterBot Quebec round 7
+ChatterBot X-ray round 7
+ChatterBot Uniform round 7
+ChatterBot Lima round 7
+ChatterBot Whiskey round 7
+2024-10-14 21:49:59.298075 X-ray: Let's form a team
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:59.337760 Hotel: No
+2024-10-14 21:49:59.337948 Sierra: No
+2024-10-14 21:49:59.338061 Uniform: No
+2024-10-14 21:49:59.338191 Tango: No
+2024-10-14 21:49:59.338294 November: No
+2024-10-14 21:49:59.338391 Bravo: No
+2024-10-14 21:49:59.338506 Quebec: No
+2024-10-14 21:49:59.338617 Lima: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:49:59.543019 Lima: We should add X-ray
+ChatterBot Quebec reevaluating
+ChatterBot November reevaluating
+2024-10-14 21:49:59.556078 Quebec: Yes
+2024-10-14 21:49:59.556211 Tango: Yes
+2024-10-14 21:49:59.556307 Uniform: Yes
+2024-10-14 21:49:59.556401 November: Yes
+2024-10-14 21:49:59.556503 Bravo: Yes
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:49:59.628067 Uniform: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:59.632764 X-ray: No
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:59.654798 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:59.658860 X-ray: No
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:59.680685 Hotel: Sierra, sending you 5
+2024-10-14 21:49:59.681744 X-ray: Lima we want you to join our group
+2024-10-14 21:49:59.684945 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:59.697923 November: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:49:59.701983 X-ray: Yes
+ChatterBot Uniform reevaluating
+2024-10-14 21:49:59.717979 Tango: November, sending you 3
+2024-10-14 21:49:59.718441 Bravo: Tango, November, Quebec and Lima, sending you 2
+2024-10-14 21:49:59.718836 Whiskey: November, sending you 4
+2024-10-14 21:49:59.720693 Tango: Bravo and Uniform, sending you 4
+2024-10-14 21:49:59.722687 Lima: Tango, X-ray and Uniform, sending you 2
+2024-10-14 21:49:59.723693 Whiskey: Bravo, sending you 5
+2024-10-14 21:49:59.724292 Tango: Quebec, sending you 5
+2024-10-14 21:49:59.725666 Lima: November, Bravo and Quebec, sending you 3
+2024-10-14 21:49:59.728677 Whiskey: Quebec, sending you 2
+2024-10-14 21:49:59.729667 Tango: Lima, sending you 2
+2024-10-14 21:49:59.732678 Whiskey: Lima, sending you 6
+2024-10-14 21:49:59.736660 November: Tango and Quebec, sending you 3
+2024-10-14 21:49:59.737680 X-ray: Tango, November, Sierra, Bravo, Quebec and Lima, sending you 2
+2024-10-14 21:49:59.739702 November: Bravo and Lima, sending you 4
+2024-10-14 21:49:59.741221 X-ray: Hotel, sending you 3
+2024-10-14 21:49:59.743665 November: Uniform, sending you 2
+2024-10-14 21:49:59.744735 X-ray: Uniform, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Tango round 8
+ChatterBot Hotel round 8
+ChatterBot November round 8
+ChatterBot Sierra round 8
+ChatterBot Bravo round 8
+ChatterBot Quebec round 8
+ChatterBot X-ray round 8
+ChatterBot Uniform round 8
+ChatterBot Lima round 8
+ChatterBot Whiskey round 8
+2024-10-14 21:50:00.801916 Whiskey: We should drop Tango and Bravo
+2024-10-14 21:50:00.816660 November: No
+2024-10-14 21:50:00.816993 Quebec: No
+2024-10-14 21:50:00.817252 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 21:50:00.854754 Uniform: We should drop X-ray
+2024-10-14 21:50:00.872774 Quebec: Yes
+2024-10-14 21:50:00.873060 Tango: Yes
+2024-10-14 21:50:00.873354 November: Yes
+2024-10-14 21:50:00.873644 Bravo: Yes
+2024-10-14 21:50:00.874591 Lima: Yes
+ChatterBot Lima reevaluating
+2024-10-14 21:50:00.959659 Hotel: Sierra, sending you 2
+2024-10-14 21:50:00.960682 November: Tango, Bravo and Quebec, sending you 3
+2024-10-14 21:50:00.961835 Bravo: Tango, November, Quebec and Lima, sending you 2
+2024-10-14 21:50:00.962427 Tango: November and Bravo, sending you 4
+2024-10-14 21:50:00.963194 X-ray: Hotel, sending you 6
+2024-10-14 21:50:00.963945 Hotel: X-ray, sending you 4
+2024-10-14 21:50:00.964674 November: X-ray, sending you 1
+2024-10-14 21:50:00.966664 Tango: Quebec, sending you 5
+2024-10-14 21:50:00.967216 X-ray: Sierra and Lima, sending you 5
+2024-10-14 21:50:00.968703 November: Uniform, sending you 2
+2024-10-14 21:50:00.970684 Tango: Uniform, sending you 3
+2024-10-14 21:50:00.972757 November: Lima, sending you 4
+2024-10-14 21:50:00.975690 Tango: Lima, sending you 1
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 9
+ChatterBot Hotel round 9
+ChatterBot November round 9
+ChatterBot Sierra round 9
+ChatterBot Bravo round 9
+ChatterBot Quebec round 9
+ChatterBot X-ray round 9
+ChatterBot Uniform round 9
+ChatterBot Lima round 9
+ChatterBot Whiskey round 9
+2024-10-14 21:50:02.121386 Sierra: We should add Uniform and Lima
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:02.130320 Hotel: No
+2024-10-14 21:50:02.130544 X-ray: Yes
+2024-10-14 21:50:02.130678 Bravo: Yes
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:02.165704 Hotel: We should add Lima
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:02.171352 Sierra: Yes
+2024-10-14 21:50:02.171494 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:02.192320 Lima: We should add X-ray
+ChatterBot November reevaluating
+2024-10-14 21:50:02.209513 Quebec: Yes
+2024-10-14 21:50:02.209738 Tango: Yes
+2024-10-14 21:50:02.209903 Uniform: Yes
+2024-10-14 21:50:02.210066 November: Yes
+2024-10-14 21:50:02.210212 Bravo: Yes
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:02.391161 Sierra: Uniform and Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 21:50:02.401166 Uniform: No
+2024-10-14 21:50:02.401535 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:02.443673 Hotel: We should add Uniform
+ChatterBot Sierra reevaluating
+2024-10-14 21:50:02.450859 Sierra: Yes
+2024-10-14 21:50:02.451157 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:02.466055 Lima: X-ray we want you to join our group
+2024-10-14 21:50:02.471655 X-ray: No
+2024-10-14 21:50:02.490635 X-ray: Hotel, sending you 4
+2024-10-14 21:50:02.491899 Bravo: Tango, Quebec, Uniform and Lima, sending you 1
+2024-10-14 21:50:02.492768 Tango: November and Bravo, sending you 4
+2024-10-14 21:50:02.493816 Hotel: Lima we want you to join our group
+2024-10-14 21:50:02.496967 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:02.507524 Whiskey: I was attacked by Hotel and Bravo
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:02.534771 Whiskey: I'm keeping this round to protect myself
+2024-10-14 21:50:02.536973 Whiskey: Ow
+2024-10-14 21:50:02.538047 X-ray: Sierra, Bravo, Uniform and Lima, sending you 3
+2024-10-14 21:50:02.539605 Bravo: November, sending you 2
+2024-10-14 21:50:02.541531 Tango: Quebec, sending you 5
+2024-10-14 21:50:02.547668 Tango: Uniform, sending you 3
+2024-10-14 21:50:02.552709 Tango: Lima, sending you 1
+2024-10-14 21:50:02.564116 November: Tango, Bravo and Quebec, sending you 3
+2024-10-14 21:50:02.569695 November: X-ray and Uniform, sending you 1
+2024-10-14 21:50:02.572991 Hotel: Sierra, sending you 4
+2024-10-14 21:50:02.577676 November: Lima, sending you 5
+2024-10-14 21:50:02.579690 Hotel: X-ray, sending you 11
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 10
+ChatterBot Hotel round 10
+ChatterBot November round 10
+ChatterBot Sierra round 10
+ChatterBot Bravo round 10
+ChatterBot Quebec round 10
+ChatterBot X-ray round 10
+ChatterBot Uniform round 10
+2024-10-14 21:50:03.648476 Tango: We should add X-ray
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:03.664621 Quebec: Yes
+2024-10-14 21:50:03.664801 Uniform: Yes
+2024-10-14 21:50:03.664949 November: Yes
+2024-10-14 21:50:03.665078 Bravo: Yes
+2024-10-14 21:50:03.665202 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima round 10
+ChatterBot Whiskey round 10
+2024-10-14 21:50:03.803263 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:03.828240 X-ray: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 21:50:03.906815 Lima: We should add X-ray
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 21:50:03.932399 Quebec: Yes
+2024-10-14 21:50:03.932859 Tango: Yes
+2024-10-14 21:50:03.933175 Uniform: Yes
+2024-10-14 21:50:03.934220 November: Yes
+2024-10-14 21:50:03.934470 Bravo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 21:50:04.076667 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:04.084987 X-ray: Yes
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:04.116269 Hotel: Sierra, sending you 4
+2024-10-14 21:50:04.116917 November: Tango and Lima, sending you 4
+2024-10-14 21:50:04.119678 Uniform: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:04.124953 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:04.146365 Hotel: X-ray, sending you 11
+2024-10-14 21:50:04.147006 November: Bravo and Quebec, sending you 3
+2024-10-14 21:50:04.148207 Whiskey: I was attacked by Bravo
+2024-10-14 21:50:04.149018 Whiskey: I'm keeping this round to protect myself
+2024-10-14 21:50:04.149224 Whiskey: Ow
+2024-10-14 21:50:04.151906 Bravo: We should drop Uniform
+2024-10-14 21:50:04.164546 Tango: No
+2024-10-14 21:50:04.164747 November: No
+2024-10-14 21:50:04.164892 Quebec: No
+2024-10-14 21:50:04.165008 Lima: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 21:50:04.211834 November: X-ray and Uniform, sending you 1
+2024-10-14 21:50:04.213299 X-ray: We should drop Bravo and Uniform
+ChatterBot Sierra reevaluating
+2024-10-14 21:50:04.222195 Sierra: No
+2024-10-14 21:50:04.222344 Hotel: Yes
+2024-10-14 21:50:04.222454 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:04.259042 Tango: November, sending you 4
+2024-10-14 21:50:04.264386 Tango: Bravo, sending you 3
+2024-10-14 21:50:04.270672 Tango: Quebec, sending you 5
+2024-10-14 21:50:04.272234 Bravo: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:04.275689 Tango: X-ray, sending you 1
+2024-10-14 21:50:04.277027 Bravo: November, sending you 4
+2024-10-14 21:50:04.277784 X-ray: Tango, November, Sierra, Bravo, Quebec and Lima, sending you 2
+2024-10-14 21:50:04.281686 Tango: Uniform and Lima, sending you 2
+2024-10-14 21:50:04.282643 Bravo: Uniform, sending you 2
+2024-10-14 21:50:04.284071 X-ray: Hotel, sending you 3
+2024-10-14 21:50:04.290713 X-ray: Uniform, sending you 1
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 11
+ChatterBot Hotel round 11
+ChatterBot November round 11
+ChatterBot Sierra round 11
+ChatterBot Bravo round 11
+ChatterBot Quebec round 11
+ChatterBot X-ray round 11
+ChatterBot Uniform round 11
+ChatterBot Lima round 11
+ChatterBot Whiskey round 11
+2024-10-14 21:50:05.527784 Lima: We should add X-ray
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:05.545555 Quebec: Yes
+2024-10-14 21:50:05.545817 Tango: Yes
+2024-10-14 21:50:05.546014 Uniform: Yes
+2024-10-14 21:50:05.546191 November: Yes
+2024-10-14 21:50:05.546357 Bravo: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:05.630353 Bravo: We should drop Uniform
+2024-10-14 21:50:05.641039 Tango: No
+2024-10-14 21:50:05.641191 November: No
+2024-10-14 21:50:05.641297 Quebec: No
+2024-10-14 21:50:05.641389 Lima: No
+2024-10-14 21:50:05.691211 Hotel: We should drop Lima
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:05.699683 Sierra: No
+2024-10-14 21:50:05.699914 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:05.719347 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:05.724592 X-ray: Yes
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:05.749672 November: Tango, Bravo and Lima, sending you 4
+2024-10-14 21:50:05.750930 Tango: November, sending you 4
+2024-10-14 21:50:05.753782 Uniform: X-ray we want you to join our group
+2024-10-14 21:50:05.760722 X-ray: Yes
+2024-10-14 21:50:05.793196 November: Quebec, sending you 3
+2024-10-14 21:50:05.794713 Tango: Bravo, sending you 3
+2024-10-14 21:50:05.796090 Bravo: Tango, November and Lima, sending you 4
+2024-10-14 21:50:05.798671 Tango: Quebec, sending you 5
+2024-10-14 21:50:05.800156 November: Uniform, sending you 1
+2024-10-14 21:50:05.802147 Bravo: Quebec, sending you 3
+2024-10-14 21:50:05.802920 X-ray: Tango, November, Sierra, Bravo, Quebec and Lima, sending you 2
+2024-10-14 21:50:05.804684 Tango: X-ray, sending you 1
+2024-10-14 21:50:05.806684 X-ray: Hotel, sending you 3
+2024-10-14 21:50:05.808113 Uniform: Tango and Quebec, sending you 3
+2024-10-14 21:50:05.809902 Hotel: Sierra, sending you 3
+2024-10-14 21:50:05.810508 Tango: Uniform and Lima, sending you 2
+2024-10-14 21:50:05.812693 X-ray: Uniform, sending you 1
+2024-10-14 21:50:05.814593 Hotel: X-ray, sending you 12
+2024-10-14 21:50:05.816217 Uniform: November and Lima, sending you 2
+chatterbot November submitting transactions
+2024-10-14 21:50:05.822676 Uniform: Bravo and X-ray, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Tango round 12
+ChatterBot Hotel round 12
+ChatterBot November round 12
+ChatterBot Sierra round 12
+ChatterBot Bravo round 12
+ChatterBot Quebec round 12
+ChatterBot X-ray round 12
+ChatterBot Uniform round 12
+ChatterBot Lima round 12
+ChatterBot Whiskey round 12
+2024-10-14 21:50:06.690138 Sierra: We should replace X-ray with Hotel
+2024-10-14 21:50:06.702851 Hotel: We should add Lima
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:06.716872 Sierra: No
+2024-10-14 21:50:06.717137 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:06.752610 Lima: We should add X-ray
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 21:50:06.764911 Quebec: Yes
+2024-10-14 21:50:06.765050 Tango: Yes
+2024-10-14 21:50:06.765156 Uniform: Yes
+2024-10-14 21:50:06.765260 November: Yes
+2024-10-14 21:50:06.765361 Bravo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:06.843124 Bravo: We should add Uniform
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:06.860130 Tango: Yes
+2024-10-14 21:50:06.860305 November: Yes
+2024-10-14 21:50:06.860442 Quebec: Yes
+2024-10-14 21:50:06.860571 Lima: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:06.930495 Sierra: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:06.932926 Hotel: Yes
+2024-10-14 21:50:06.936864 X-ray: We should drop Sierra and Uniform
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 21:50:06.951994 Tango: No
+2024-10-14 21:50:06.952104 November: No
+2024-10-14 21:50:06.952199 Quebec: No
+2024-10-14 21:50:06.952283 Lima: No
+2024-10-14 21:50:06.952386 Hotel: Yes
+2024-10-14 21:50:06.952485 Bravo: No
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:07.169024 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:07.176230 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 21:50:07.198666 Tango: November, sending you 4
+2024-10-14 21:50:07.202175 November: Tango and Bravo, sending you 4
+2024-10-14 21:50:07.203899 Uniform: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:07.205003 Bravo: Uniform we want you to join our group
+2024-10-14 21:50:07.209868 Uniform: Yes
+2024-10-14 21:50:07.229073 Tango: Bravo and Uniform, sending you 3
+2024-10-14 21:50:07.230705 November: Quebec and Lima, sending you 3
+2024-10-14 21:50:07.231631 Uniform: November, sending you 2
+2024-10-14 21:50:07.234661 Tango: Quebec, sending you 5
+2024-10-14 21:50:07.235661 November: Uniform, sending you 2
+2024-10-14 21:50:07.237053 Hotel: Sierra, sending you 3
+2024-10-14 21:50:07.238576 Uniform: Bravo and X-ray, sending you 1
+2024-10-14 21:50:07.239670 Tango: X-ray, sending you 1
+2024-10-14 21:50:07.241128 X-ray: Tango, November, Bravo and Quebec, sending you 2
+2024-10-14 21:50:07.242668 Hotel: X-ray, sending you 12
+2024-10-14 21:50:07.245237 Tango: Lima, sending you 2
+2024-10-14 21:50:07.254201 X-ray: Hotel, sending you 5
+2024-10-14 21:50:07.264295 Bravo: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:07.266710 X-ray: Lima, sending you 3
+2024-10-14 21:50:07.271354 Bravo: November, sending you 4
+2024-10-14 21:50:07.275689 Bravo: Uniform, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 13
+ChatterBot Hotel round 13
+ChatterBot November round 13
+ChatterBot Sierra round 13
+ChatterBot Bravo round 13
+ChatterBot Quebec round 13
+ChatterBot X-ray round 13
+ChatterBot Uniform round 13
+ChatterBot Lima round 13
+ChatterBot Whiskey round 13
+2024-10-14 21:50:08.416207 Lima: We should add X-ray
+2024-10-14 21:50:08.430135 Quebec: Yes
+2024-10-14 21:50:08.430305 Tango: Yes
+2024-10-14 21:50:08.430426 Uniform: Yes
+2024-10-14 21:50:08.430538 November: Yes
+2024-10-14 21:50:08.430660 Bravo: Yes
+2024-10-14 21:50:08.520551 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:08.565871 X-ray: No
+2024-10-14 21:50:08.665898 X-ray: We should replace November with Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:08.695783 Tango: No
+2024-10-14 21:50:08.696079 Quebec: No
+2024-10-14 21:50:08.697124 Lima: No
+2024-10-14 21:50:08.697385 Hotel: No
+2024-10-14 21:50:08.697737 Bravo: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:08.895166 Uniform: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:08.903732 November: Tango and Bravo, sending you 4
+2024-10-14 21:50:08.913126 Tango: November, sending you 4
+2024-10-14 21:50:08.923049 Bravo: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:08.929793 Sierra: Sending you 1
+2024-10-14 21:50:08.932938 Uniform: November and Bravo, sending you 2
+2024-10-14 21:50:08.938913 November: Quebec and Lima, sending you 3
+2024-10-14 21:50:08.946449 Tango: Bravo and Uniform, sending you 3
+2024-10-14 21:50:08.953542 Bravo: November, sending you 4
+2024-10-14 21:50:08.960650 Uniform: X-ray, sending you 1
+2024-10-14 21:50:08.967723 November: Uniform, sending you 2
+chatterbot Quebec submitting transactions
+2024-10-14 21:50:08.974515 Tango: Quebec, sending you 5
+2024-10-14 21:50:08.980026 Bravo: Uniform, sending you 2
+2024-10-14 21:50:08.983441 Hotel: Sierra, sending you 2
+2024-10-14 21:50:08.988003 X-ray: Tango, November, Bravo and Quebec, sending you 2
+2024-10-14 21:50:08.990856 Tango: X-ray, sending you 1
+2024-10-14 21:50:08.994058 Hotel: X-ray, sending you 13
+2024-10-14 21:50:08.997100 X-ray: Hotel, sending you 5
+2024-10-14 21:50:08.998861 Tango: Lima, sending you 2
+2024-10-14 21:50:09.003701 X-ray: Lima, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 14
+ChatterBot Hotel round 14
+ChatterBot November round 14
+ChatterBot Sierra round 14
+ChatterBot Bravo round 14
+ChatterBot Quebec round 14
+ChatterBot X-ray round 14
+ChatterBot Uniform round 14
+ChatterBot Lima round 14
+ChatterBot Whiskey round 14
+2024-10-14 21:50:09.949863 Lima: We should add X-ray
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:09.966197 Quebec: Yes
+2024-10-14 21:50:09.966394 Tango: Yes
+2024-10-14 21:50:09.966550 Uniform: Yes
+2024-10-14 21:50:09.966701 November: Yes
+2024-10-14 21:50:09.966839 Bravo: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:10.169504 X-ray: We should replace Quebec with Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:10.188266 Tango: No
+2024-10-14 21:50:10.188582 Hotel: No
+2024-10-14 21:50:10.188806 November: No
+2024-10-14 21:50:10.188994 Bravo: No
+2024-10-14 21:50:10.189221 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:10.287724 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:10.305976 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:10.335681 Tango: November, sending you 4
+2024-10-14 21:50:10.338580 X-ray: Uniform we want you to join our group
+2024-10-14 21:50:10.344189 Uniform: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:10.369430 X-ray: We should replace November with Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:10.387771 Tango: No
+2024-10-14 21:50:10.387978 Quebec: No
+2024-10-14 21:50:10.388123 Lima: No
+2024-10-14 21:50:10.388254 Hotel: No
+2024-10-14 21:50:10.388385 Bravo: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:10.532469 Sierra: Sending you 2
+2024-10-14 21:50:10.533383 November: Tango and Bravo, sending you 4
+2024-10-14 21:50:10.534329 Tango: Bravo and Uniform, sending you 3
+chatterbot November submitting transactions
+2024-10-14 21:50:10.538086 November: Quebec and Lima, sending you 3
+2024-10-14 21:50:10.540672 Tango: Quebec, sending you 5
+2024-10-14 21:50:10.543540 Bravo: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:10.545284 Uniform: Tango and Quebec, sending you 4
+2024-10-14 21:50:10.548086 November: Uniform, sending you 2
+2024-10-14 21:50:10.551462 Tango: X-ray, sending you 1
+2024-10-14 21:50:10.554449 Bravo: November, sending you 4
+2024-10-14 21:50:10.556964 Uniform: November and Lima, sending you 3
+2024-10-14 21:50:10.560154 Tango: Lima, sending you 2
+2024-10-14 21:50:10.562457 Bravo: Uniform, sending you 2
+2024-10-14 21:50:10.564363 Uniform: Bravo, sending you 2
+2024-10-14 21:50:10.566770 Hotel: Sierra, sending you 3
+2024-10-14 21:50:10.572392 Uniform: X-ray, sending you 1
+2024-10-14 21:50:10.576556 X-ray: Tango, Uniform and Lima, sending you 3
+2024-10-14 21:50:10.578810 Hotel: X-ray, sending you 12
+2024-10-14 21:50:10.590226 X-ray: Hotel, sending you 4
+2024-10-14 21:50:10.599836 X-ray: Bravo, sending you 2
+2024-10-14 21:50:10.606199 X-ray: Quebec, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 15
+ChatterBot Hotel round 15
+ChatterBot November round 15
+ChatterBot Sierra round 15
+ChatterBot Bravo round 15
+ChatterBot Quebec round 15
+ChatterBot X-ray round 15
+ChatterBot Uniform round 15
+ChatterBot Lima round 15
+ChatterBot Whiskey round 15
+2024-10-14 21:50:11.757045 Lima: We should add X-ray
+2024-10-14 21:50:11.781552 Quebec: Yes
+2024-10-14 21:50:11.781768 Tango: Yes
+2024-10-14 21:50:11.781924 Uniform: Yes
+2024-10-14 21:50:11.782073 November: Yes
+2024-10-14 21:50:11.782211 Bravo: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:11.942240 Lima: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:11.952757 X-ray: No
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:11.980928 X-ray: We should replace Bravo with November
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:12.000330 Tango: No
+2024-10-14 21:50:12.001022 Hotel: No
+2024-10-14 21:50:12.001139 Quebec: No
+2024-10-14 21:50:12.001257 Uniform: No
+2024-10-14 21:50:12.001376 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:12.161531 Sierra: Same as last round
+2024-10-14 21:50:12.162333 Quebec: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:12.171761 X-ray: No
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:12.196408 X-ray: We should replace Quebec with November
+2024-10-14 21:50:12.215267 Tango: No
+2024-10-14 21:50:12.215458 Hotel: No
+2024-10-14 21:50:12.215566 Bravo: No
+2024-10-14 21:50:12.215711 Uniform: No
+2024-10-14 21:50:12.215872 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+chatterbot Tango submitting transactions
+2024-10-14 21:50:12.328702 Bravo: Tango, Quebec and Lima, sending you 3
+2024-10-14 21:50:12.333490 November: Tango and Bravo, sending you 4
+2024-10-14 21:50:12.339089 Uniform: We should drop X-ray
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:12.369705 Quebec: Yes
+2024-10-14 21:50:12.369928 Tango: Yes
+2024-10-14 21:50:12.370106 November: Yes
+2024-10-14 21:50:12.370262 Bravo: Yes
+2024-10-14 21:50:12.370430 Lima: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+2024-10-14 21:50:12.628059 Lima: We should add Sierra
+2024-10-14 21:50:12.629661 November: We should replace X-ray with Sierra
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+2024-10-14 21:50:12.650616 Quebec: No
+ChatterBot Quebec reevaluating
+2024-10-14 21:50:12.655154 Tango: No
+ChatterBot Tango reevaluating
+2024-10-14 21:50:12.659151 Uniform: No
+ChatterBot Uniform reevaluating
+2024-10-14 21:50:12.664074 November: Yes
+2024-10-14 21:50:12.664458 Bravo: No
+ChatterBot Lima reevaluating
+2024-10-14 21:50:12.670847 Quebec: No
+2024-10-14 21:50:12.671675 Tango: No
+2024-10-14 21:50:12.671818 Uniform: No
+2024-10-14 21:50:12.672030 Bravo: No
+2024-10-14 21:50:12.672180 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+2024-10-14 21:50:12.933001 Bravo: November, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 21:50:12.939683 Bravo: Uniform, sending you 2
+2024-10-14 21:50:12.943313 Hotel: Sierra, sending you 4
+2024-10-14 21:50:12.948698 Hotel: X-ray, sending you 11
+2024-10-14 21:50:12.952694 X-ray: Tango, Hotel, Uniform and Lima, sending you 3
+2024-10-14 21:50:12.957781 X-ray: Bravo and Quebec, sending you 2
+2024-10-14 21:50:12.969684 Uniform: Tango, sending you 5
+2024-10-14 21:50:12.976669 Uniform: November and Lima, sending you 3
+2024-10-14 21:50:12.982664 Uniform: Bravo, sending you 2
+2024-10-14 21:50:12.988664 Uniform: Quebec, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Tango round 16
+ChatterBot Hotel round 16
+ChatterBot November round 16
+ChatterBot Sierra round 16
+ChatterBot Bravo round 16
+ChatterBot Quebec round 16
+ChatterBot X-ray round 16
+ChatterBot Uniform round 16
+ChatterBot Lima round 16
+ChatterBot Whiskey round 16
+2024-10-14 21:50:14.256875 X-ray: We should replace Tango with November
+2024-10-14 21:50:14.280458 Hotel: No
+2024-10-14 21:50:14.289061 Bravo: No
+2024-10-14 21:50:14.296111 Quebec: No
+2024-10-14 21:50:14.296494 Uniform: No
+2024-10-14 21:50:14.296898 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:14.475044 November: We should drop X-ray
+2024-10-14 21:50:14.499153 Quebec: Yes
+2024-10-14 21:50:14.499356 Tango: Yes
+2024-10-14 21:50:14.499531 Uniform: Yes
+2024-10-14 21:50:14.499700 Bravo: Yes
+2024-10-14 21:50:14.500997 Lima: Yes
+2024-10-14 21:50:14.654389 X-ray: We should replace Bravo with November
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:14.683598 Tango: No
+2024-10-14 21:50:14.683800 Hotel: No
+2024-10-14 21:50:14.683970 Quebec: No
+2024-10-14 21:50:14.684123 Uniform: No
+2024-10-14 21:50:14.684263 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 21:50:14.844680 Sierra: Same as last round
+2024-10-14 21:50:14.845583 X-ray: November we want you to join our group
+2024-10-14 21:50:14.858977 November: No
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:14.896136 X-ray: We should replace Quebec with November
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:14.924236 Tango: No
+2024-10-14 21:50:14.924408 Hotel: No
+2024-10-14 21:50:14.924527 Bravo: No
+2024-10-14 21:50:14.924655 Uniform: No
+2024-10-14 21:50:14.925428 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:15.068672 Uniform: Tango and Quebec, sending you 4
+2024-10-14 21:50:15.070990 Bravo: Sending you each 3
+2024-10-14 21:50:15.075694 Uniform: November, Bravo and Lima, sending you 3
+2024-10-14 21:50:15.086654 Hotel: Sierra, sending you 5
+2024-10-14 21:50:15.090684 Hotel: X-ray, sending you 10
+2024-10-14 21:50:15.091900 X-ray: Tango, Uniform and Lima, sending you 3
+2024-10-14 21:50:15.096689 X-ray: Hotel, sending you 4
+2024-10-14 21:50:15.102685 X-ray: Bravo, sending you 2
+2024-10-14 21:50:15.106676 X-ray: Quebec, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 17
+ChatterBot Hotel round 17
+ChatterBot November round 17
+ChatterBot Sierra round 17
+ChatterBot Bravo round 17
+ChatterBot Quebec round 17
+ChatterBot X-ray round 17
+ChatterBot Uniform round 17
+ChatterBot Lima round 17
+ChatterBot Whiskey round 17
+2024-10-14 21:50:16.164345 Hotel: We should drop Whiskey
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:16.180520 Sierra: Yes
+2024-10-14 21:50:16.180842 X-ray: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:16.214607 November: We should drop X-ray
+2024-10-14 21:50:16.241675 Quebec: Yes
+2024-10-14 21:50:16.241959 Tango: Yes
+2024-10-14 21:50:16.243888 Uniform: Yes
+2024-10-14 21:50:16.244071 Bravo: Yes
+2024-10-14 21:50:16.244238 Lima: Yes
+chatterbot Lima submitting transactions
+2024-10-14 21:50:16.579066 Bravo: Same as last round
+2024-10-14 21:50:16.595837 Uniform: Tango and Quebec, sending you 4
+2024-10-14 21:50:16.600909 X-ray: Tango, Bravo, Quebec and Uniform, sending you 2
+2024-10-14 21:50:16.605217 Hotel: Sierra, sending you 5
+2024-10-14 21:50:16.610155 Uniform: November, Bravo and Lima, sending you 3
+2024-10-14 21:50:16.615958 X-ray: Hotel, sending you 5
+2024-10-14 21:50:16.619022 Hotel: X-ray, sending you 10
+2024-10-14 21:50:16.622757 X-ray: Lima, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 18
+ChatterBot Hotel round 18
+ChatterBot November round 18
+ChatterBot Sierra round 18
+ChatterBot Bravo round 18
+ChatterBot Quebec round 18
+ChatterBot X-ray round 18
+ChatterBot Uniform round 18
+ChatterBot Lima round 18
+ChatterBot Whiskey round 18
+2024-10-14 21:50:17.533231 November: We should drop X-ray
+2024-10-14 21:50:17.556845 Quebec: Yes
+2024-10-14 21:50:17.557069 Tango: Yes
+2024-10-14 21:50:17.557209 Uniform: Yes
+2024-10-14 21:50:17.557336 Bravo: Yes
+2024-10-14 21:50:17.557454 Lima: Yes
+2024-10-14 21:50:17.862503 Bravo: Same as last round
+2024-10-14 21:50:17.866998 Whiskey: I was attacked by Sierra
+2024-10-14 21:50:17.867475 Whiskey: I'm keeping this round to protect myself
+2024-10-14 21:50:17.868001 Whiskey: Ow
+2024-10-14 21:50:17.882349 Sierra: Sending you 2
+2024-10-14 21:50:17.883745 Uniform: Tango, sending you 5
+2024-10-14 21:50:17.887457 Hotel: Sierra, sending you 4
+2024-10-14 21:50:17.891421 X-ray: Sending you 12
+chatterbot Whiskey submitting transactions
+2024-10-14 21:50:17.893070 Uniform: November, sending you 2
+2024-10-14 21:50:17.896768 Hotel: X-ray, sending you 11
+2024-10-14 21:50:17.904733 Uniform: Bravo and Lima, sending you 3
+2024-10-14 21:50:17.912655 Uniform: Quebec, sending you 4
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 19
+ChatterBot Hotel round 19
+ChatterBot November round 19
+ChatterBot Sierra round 19
+ChatterBot Bravo round 19
+ChatterBot Quebec round 19
+ChatterBot X-ray round 19
+ChatterBot Uniform round 19
+ChatterBot Lima round 19
+ChatterBot Whiskey round 19
+2024-10-14 21:50:18.907260 Sierra: We should add X-ray and Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:18.915110 Hotel: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 21:50:18.929914 November: We should drop X-ray
+2024-10-14 21:50:18.949094 Quebec: Yes
+2024-10-14 21:50:18.950318 Tango: Yes
+2024-10-14 21:50:18.950574 Uniform: Yes
+2024-10-14 21:50:18.950896 Bravo: Yes
+2024-10-14 21:50:18.951242 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:19.062201 Lima: We should add Sierra
+2024-10-14 21:50:19.081462 Quebec: No
+2024-10-14 21:50:19.081850 Tango: No
+2024-10-14 21:50:19.082038 Uniform: No
+2024-10-14 21:50:19.082263 November: No
+2024-10-14 21:50:19.082938 Bravo: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 21:50:19.209667 Sierra: We should add Bravo and X-ray
+ChatterBot Hotel reevaluating
+2024-10-14 21:50:19.214852 Hotel: No
+ChatterBot Sierra reevaluating
+2024-10-14 21:50:19.250265 Bravo: Same as last round
+2024-10-14 21:50:19.254194 X-ray: Tango, November, Sierra, Bravo, Uniform and Lima, sending you 2
+2024-10-14 21:50:19.256500 Sierra: X-ray and Uniform we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:19.268413 X-ray: No
+2024-10-14 21:50:19.268570 Uniform: No
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 21:50:19.319157 Uniform: Tango and Quebec, sending you 4
+2024-10-14 21:50:19.338496 Uniform: November, Bravo and Lima, sending you 3
+2024-10-14 21:50:19.362156 Hotel: Sierra, sending you 4
+2024-10-14 21:50:19.392460 Hotel: X-ray, sending you 11
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 20
+ChatterBot Hotel round 20
+ChatterBot November round 20
+ChatterBot Sierra round 20
+ChatterBot Bravo round 20
+ChatterBot Quebec round 20
+ChatterBot X-ray round 20
+ChatterBot Uniform round 20
+ChatterBot Lima round 20
+ChatterBot Whiskey round 20
+2024-10-14 21:50:20.755237 November: We should drop X-ray
+2024-10-14 21:50:20.785892 Quebec: Yes
+2024-10-14 21:50:20.786196 Tango: Yes
+2024-10-14 21:50:20.786436 Uniform: Yes
+2024-10-14 21:50:20.786685 Bravo: Yes
+2024-10-14 21:50:20.786909 Lima: Yes
+2024-10-14 21:50:20.964008 Bravo: Same as last round
+2024-10-14 21:50:20.969889 Hotel: Sending you 15
+2024-10-14 21:50:20.971797 Sierra: X-ray did not give me 2 like they said
+2024-10-14 21:50:20.977989 Bravo: X-ray did not give me 2 like they said
+2024-10-14 21:50:20.999067 Uniform: Tango, sending you 5
+2024-10-14 21:50:21.012252 Uniform: November, sending you 2
+2024-10-14 21:50:21.031964 Uniform: Bravo and Lima, sending you 3
+2024-10-14 21:50:21.040356 Uniform: Quebec, sending you 4
+2024-10-14 21:50:21.050671 Uniform: X-ray did not give me 2 like they said
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 21
+ChatterBot Hotel round 21
+ChatterBot November round 21
+ChatterBot Sierra round 21
+ChatterBot Bravo round 21
+ChatterBot Quebec round 21
+ChatterBot X-ray round 21
+ChatterBot Uniform round 21
+ChatterBot Lima round 21
+ChatterBot Whiskey round 21
+2024-10-14 21:50:22.522851 Hotel: We should add Sierra
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:22.530210 X-ray: Yes
+2024-10-14 21:50:22.560300 Hotel: Sierra we want you to join our group
+2024-10-14 21:50:22.565922 Sierra: No
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:22.576848 November: We should drop X-ray
+2024-10-14 21:50:22.601648 Quebec: Yes
+2024-10-14 21:50:22.601945 Tango: Yes
+2024-10-14 21:50:22.602209 Uniform: Yes
+2024-10-14 21:50:22.602430 Bravo: Yes
+2024-10-14 21:50:22.602727 Lima: Yes
+2024-10-14 21:50:22.756897 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:22.764293 Sierra: No
+2024-10-14 21:50:22.781229 Bravo: Same as last round
+2024-10-14 21:50:22.806063 Uniform: Tango, sending you 5
+2024-10-14 21:50:22.811361 Hotel: Sierra, sending you 2
+2024-10-14 21:50:22.832330 Uniform: November, Bravo, Quebec and Lima, sending you 3
+2024-10-14 21:50:22.836322 Hotel: X-ray, sending you 13
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 22
+ChatterBot Hotel round 22
+ChatterBot November round 22
+ChatterBot Sierra round 22
+ChatterBot Bravo round 22
+ChatterBot Quebec round 22
+ChatterBot X-ray round 22
+ChatterBot Uniform round 22
+ChatterBot Lima round 22
+ChatterBot Whiskey round 22
+2024-10-14 21:50:23.713023 X-ray: We should add Sierra
+2024-10-14 21:50:23.718047 Hotel: Yes
+2024-10-14 21:50:23.736056 November: We should drop X-ray
+2024-10-14 21:50:23.750005 Quebec: Yes
+2024-10-14 21:50:23.750261 Tango: Yes
+2024-10-14 21:50:23.750424 Uniform: Yes
+2024-10-14 21:50:23.750568 Bravo: Yes
+2024-10-14 21:50:23.750731 Lima: Yes
+2024-10-14 21:50:23.885319 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:23.892020 Sierra: No
+2024-10-14 21:50:25.098171 Bravo: Same as last round
+2024-10-14 21:50:25.105912 Hotel: Sierra, sending you 2
+2024-10-14 21:50:25.122912 Hotel: X-ray, sending you 13
+2024-10-14 21:50:25.125105 Uniform: Tango, sending you 5
+2024-10-14 21:50:25.134684 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 23
+ChatterBot Hotel round 23
+ChatterBot November round 23
+ChatterBot Sierra round 23
+ChatterBot Bravo round 23
+ChatterBot Quebec round 23
+ChatterBot X-ray round 23
+ChatterBot Uniform round 23
+ChatterBot Lima round 23
+ChatterBot Whiskey round 23
+2024-10-14 21:50:26.292800 X-ray: We should add Sierra
+2024-10-14 21:50:26.299204 Hotel: No
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:26.324338 November: We should drop X-ray
+2024-10-14 21:50:26.343535 Quebec: Yes
+2024-10-14 21:50:26.344358 Tango: Yes
+2024-10-14 21:50:26.344519 Uniform: Yes
+2024-10-14 21:50:26.344678 Bravo: Yes
+2024-10-14 21:50:26.344831 Lima: Yes
+2024-10-14 21:50:26.521759 Hotel: I was attacked by Tango
+2024-10-14 21:50:26.524396 Hotel: I'm keeping this round to protect myself
+2024-10-14 21:50:26.525210 Hotel: Ow
+2024-10-14 21:50:26.528622 Bravo: Tango, November, Quebec and Lima, sending you 3
+2024-10-14 21:50:26.536743 Sierra: Sending you 3
+2024-10-14 21:50:26.617308 Bravo: Uniform, sending you 1
+2024-10-14 21:50:26.620822 Uniform: Tango, sending you 5
+2024-10-14 21:50:26.657522 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 24
+ChatterBot Hotel round 24
+ChatterBot November round 24
+ChatterBot Sierra round 24
+ChatterBot Bravo round 24
+ChatterBot Quebec round 24
+ChatterBot X-ray round 24
+ChatterBot Uniform round 24
+ChatterBot Lima round 24
+ChatterBot Whiskey round 24
+2024-10-14 21:50:27.688366 X-ray: We should group up
+ChatterBot Whiskey reevaluating
+2024-10-14 21:50:27.711910 Sierra: No
+2024-10-14 21:50:27.712712 Whiskey: No
+2024-10-14 21:50:27.712897 Uniform: No
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 21:50:27.843353 November: We should drop X-ray
+2024-10-14 21:50:27.874472 Quebec: Yes
+2024-10-14 21:50:27.874728 Tango: Yes
+2024-10-14 21:50:27.874936 Uniform: Yes
+2024-10-14 21:50:27.875126 Bravo: Yes
+2024-10-14 21:50:27.875330 Lima: Yes
+2024-10-14 21:50:28.059608 Whiskey: We should drop Hotel
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:28.068717 X-ray: Yes
+2024-10-14 21:50:28.076386 Hotel: I was attacked by Bravo
+2024-10-14 21:50:28.077831 Hotel: I'm keeping this round to protect myself
+2024-10-14 21:50:28.078744 Hotel: Ow
+2024-10-14 21:50:28.084924 Sierra: Sending you 2
+2024-10-14 21:50:28.108596 Uniform: Tango, sending you 5
+2024-10-14 21:50:28.127734 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+ChatterBot Tango round 25
+ChatterBot Hotel round 25
+ChatterBot November round 25
+ChatterBot Sierra round 25
+ChatterBot Bravo round 25
+ChatterBot Quebec round 25
+ChatterBot X-ray round 25
+ChatterBot Uniform round 25
+ChatterBot Lima round 25
+ChatterBot Whiskey round 25
+2024-10-14 21:50:29.343098 X-ray: We should replace Hotel with Sierra
+2024-10-14 21:50:29.367552 November: We should drop X-ray
+2024-10-14 21:50:29.387397 Quebec: Yes
+2024-10-14 21:50:29.387584 Tango: Yes
+2024-10-14 21:50:29.387729 Uniform: Yes
+2024-10-14 21:50:29.387878 Bravo: Yes
+2024-10-14 21:50:29.388014 Lima: Yes
+2024-10-14 21:50:29.512902 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:29.517924 Sierra: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:29.529805 Bravo: Sending you each 3
+2024-10-14 21:50:29.545200 Sierra: I was attacked by Bravo
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:29.550691 Sierra: I'm keeping this round to protect myself
+2024-10-14 21:50:29.552511 Sierra: Ow
+2024-10-14 21:50:29.583399 Uniform: Tango, sending you 5
+2024-10-14 21:50:29.603436 Uniform: November and Lima, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 21:50:29.638852 Uniform: Bravo, sending you 2
+2024-10-14 21:50:29.660341 Uniform: Quebec, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 26
+ChatterBot Hotel round 26
+ChatterBot November round 26
+ChatterBot Sierra round 26
+ChatterBot Bravo round 26
+ChatterBot Quebec round 26
+ChatterBot X-ray round 26
+ChatterBot Uniform round 26
+ChatterBot Lima round 26
+ChatterBot Whiskey round 26
+2024-10-14 21:50:31.116073 X-ray: We should replace Hotel with Sierra
+2024-10-14 21:50:31.182460 November: We should drop X-ray
+2024-10-14 21:50:31.335624 Quebec: Yes
+2024-10-14 21:50:31.336087 Tango: Yes
+2024-10-14 21:50:31.336817 Uniform: Yes
+2024-10-14 21:50:31.337095 Bravo: Yes
+2024-10-14 21:50:31.337481 Lima: Yes
+2024-10-14 21:50:31.487192 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:31.507453 Sierra: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:31.518687 Uniform: Tango, sending you 5
+2024-10-14 21:50:31.526685 Uniform: November, Bravo, Quebec and Lima, sending you 3
+2024-10-14 21:50:31.535544 Bravo: Same as last round
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 27
+ChatterBot Hotel round 27
+ChatterBot November round 27
+ChatterBot Sierra round 27
+ChatterBot Bravo round 27
+ChatterBot Quebec round 27
+ChatterBot X-ray round 27
+ChatterBot Uniform round 27
+ChatterBot Lima round 27
+ChatterBot Whiskey round 27
+2024-10-14 21:50:33.003772 X-ray: We should replace Hotel with Sierra
+2024-10-14 21:50:33.030595 November: We should drop X-ray
+2024-10-14 21:50:33.056392 Quebec: Yes
+2024-10-14 21:50:33.056714 Tango: Yes
+2024-10-14 21:50:33.056936 Uniform: Yes
+2024-10-14 21:50:33.057596 Bravo: Yes
+2024-10-14 21:50:33.057826 Lima: Yes
+2024-10-14 21:50:33.163271 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:33.168149 Sierra: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:33.180698 Uniform: Tango, sending you 5
+2024-10-14 21:50:33.188389 Bravo: Same as last round
+2024-10-14 21:50:33.193059 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 28
+ChatterBot Hotel round 28
+ChatterBot November round 28
+ChatterBot Sierra round 28
+ChatterBot Bravo round 28
+ChatterBot Quebec round 28
+ChatterBot X-ray round 28
+ChatterBot Uniform round 28
+ChatterBot Lima round 28
+ChatterBot Whiskey round 28
+2024-10-14 21:50:34.340851 X-ray: We should replace Hotel with Sierra
+2024-10-14 21:50:34.371667 November: We should drop X-ray
+2024-10-14 21:50:34.393518 Quebec: Yes
+2024-10-14 21:50:34.393842 Tango: Yes
+2024-10-14 21:50:34.394364 Uniform: Yes
+2024-10-14 21:50:34.394524 Bravo: Yes
+2024-10-14 21:50:34.394673 Lima: Yes
+2024-10-14 21:50:34.479527 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:34.483602 Sierra: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:34.491680 Bravo: Same as last round
+2024-10-14 21:50:34.506092 Uniform: Tango, sending you 5
+2024-10-14 21:50:34.515680 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Tango round 29
+ChatterBot Hotel round 29
+ChatterBot November round 29
+ChatterBot Sierra round 29
+ChatterBot Bravo round 29
+ChatterBot Quebec round 29
+ChatterBot X-ray round 29
+ChatterBot Uniform round 29
+ChatterBot Lima round 29
+ChatterBot Whiskey round 29
+2024-10-14 21:50:35.692678 X-ray: We should replace Hotel with Sierra
+2024-10-14 21:50:35.697628 November: We should drop X-ray
+2024-10-14 21:50:35.717728 Quebec: Yes
+2024-10-14 21:50:35.718022 Tango: Yes
+2024-10-14 21:50:35.718240 Uniform: Yes
+2024-10-14 21:50:35.718433 Bravo: Yes
+2024-10-14 21:50:35.718628 Lima: Yes
+2024-10-14 21:50:35.780384 X-ray: Sierra we want you to join our group
+2024-10-14 21:50:35.783288 Sierra: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 21:50:35.790727 Bravo: Same as last round
+2024-10-14 21:50:35.799695 Uniform: Tango, sending you 5
+2024-10-14 21:50:35.805671 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+ChatterBot Tango round 30
+ChatterBot Hotel round 30
+ChatterBot November round 30
+ChatterBot Sierra round 30
+ChatterBot Bravo round 30
+ChatterBot Quebec round 30
+ChatterBot X-ray round 30
+ChatterBot Uniform round 30
+ChatterBot Lima round 30
+ChatterBot Whiskey round 30
+2024-10-14 21:50:37.017352 November: We should drop X-ray
+2024-10-14 21:50:37.040919 Quebec: Yes
+2024-10-14 21:50:37.042135 Tango: Yes
+2024-10-14 21:50:37.042397 Uniform: Yes
+2024-10-14 21:50:37.042545 Bravo: Yes
+2024-10-14 21:50:37.042699 Lima: Yes
+2024-10-14 21:50:37.112680 Uniform: Tango, sending you 5
+2024-10-14 21:50:37.115906 Bravo: Same as last round
+2024-10-14 21:50:37.118696 Uniform: November, Bravo, Quebec and Lima, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions

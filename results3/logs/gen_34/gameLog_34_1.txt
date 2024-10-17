@@ -1,0 +1,4206 @@
+ChatterBot Yankee round 1
+ChatterBot Oscar round 1
+ChatterBot Foxtrot round 1
+ChatterBot Sierra round 1
+ChatterBot Bravo round 1
+ChatterBot Romeo round 1
+ChatterBot Whiskey round 1
+ChatterBot Alpha round 1
+ChatterBot Mike round 1
+ChatterBot Echo round 1
+randomSelections Yankee: {Yankee, Romeo} 
+2024-10-14 20:31:02.313813 Yankee: Friends?
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:02.330978 Romeo: Yes
+randomSelections Foxtrot: {Foxtrot, Mike, Echo, Sierra, Yankee} 
+2024-10-14 20:31:02.337188 Foxtrot: Let's form a team
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:02.355549 Mike: Yes
+2024-10-14 20:31:02.355813 Echo: Yes
+2024-10-14 20:31:02.356026 Sierra: Yes
+2024-10-14 20:31:02.356254 Yankee: No
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Whiskey: {Whiskey, Echo, Bravo, Sierra, Oscar, Yankee, Foxtrot} 
+2024-10-14 20:31:02.411919 Whiskey: We would work well together
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:02.429170 Echo: No
+2024-10-14 20:31:02.429419 Bravo: Yes
+2024-10-14 20:31:02.429629 Sierra: No
+2024-10-14 20:31:02.430525 Oscar: Yes
+2024-10-14 20:31:02.430720 Yankee: No
+2024-10-14 20:31:02.430966 Foxtrot: No
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+randomSelections Alpha: {Alpha, Romeo, Mike, Oscar, Sierra, Foxtrot, Bravo} 
+2024-10-14 20:31:02.517105 Alpha: We should group up
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:02.525866 Romeo: No
+2024-10-14 20:31:02.526001 Mike: No
+2024-10-14 20:31:02.526146 Oscar: No
+2024-10-14 20:31:02.526279 Sierra: No
+2024-10-14 20:31:02.526808 Foxtrot: No
+2024-10-14 20:31:02.526918 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:02.707128 Yankee: Sending you 12
+2024-10-14 20:31:02.711350 Alpha: Oscar and Sierra, sending you 2
+2024-10-14 20:31:02.714032 Romeo: Sending you 15
+2024-10-14 20:31:02.719760 Foxtrot: Yankee and Echo, sending you 4
+2024-10-14 20:31:02.721621 Bravo: Oscar, sending you 4
+2024-10-14 20:31:02.723069 Alpha: Foxtrot, sending you 1
+2024-10-14 20:31:02.725566 Oscar: Foxtrot, Bravo and Whiskey, sending you 3
+2024-10-14 20:31:02.727825 Sierra: Yankee, sending you 3
+2024-10-14 20:31:02.729309 Whiskey: Yankee and Foxtrot, sending you 2
+2024-10-14 20:31:02.730558 Echo: Yankee and Mike, sending you 2
+2024-10-14 20:31:02.732007 Foxtrot: Sierra, sending you 2
+2024-10-14 20:31:02.732727 Bravo: Foxtrot, sending you 3
+2024-10-14 20:31:02.734200 Alpha: Bravo, sending you 3
+2024-10-14 20:31:02.735466 Oscar: Sierra, sending you 4
+2024-10-14 20:31:02.737504 Mike: Yankee, sending you 4
+2024-10-14 20:31:02.739392 Whiskey: Oscar, Bravo and Echo, sending you 1
+2024-10-14 20:31:02.740539 Sierra: Foxtrot and Echo, sending you 2
+chatterbot Foxtrot submitting transactions
+2024-10-14 20:31:02.742715 Echo: Foxtrot, sending you 3
+2024-10-14 20:31:02.744155 Foxtrot: Mike, sending you 1
+2024-10-14 20:31:02.745163 Bravo: Sierra, sending you 1
+2024-10-14 20:31:02.747092 Alpha: Romeo and Mike, sending you 4
+2024-10-14 20:31:02.748355 Oscar: Echo, sending you 2
+2024-10-14 20:31:02.750475 Mike: Foxtrot, sending you 3
+2024-10-14 20:31:02.751340 Echo: Sierra, sending you 6
+2024-10-14 20:31:02.753520 Bravo: Whiskey, sending you 7
+2024-10-14 20:31:02.754755 Mike: Sierra, sending you 1
+2024-10-14 20:31:02.757117 Bravo: Echo, sending you 2
+2024-10-14 20:31:02.761810 Mike: Echo, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Yankee round 2
+ChatterBot Oscar round 2
+ChatterBot Foxtrot round 2
+ChatterBot Sierra round 2
+ChatterBot Bravo round 2
+2024-10-14 20:31:03.947022 Oscar: We would work well together
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:03.985530 Bravo: Yes
+2024-10-14 20:31:03.985778 Whiskey: No
+2024-10-14 20:31:03.985936 Alpha: No
+2024-10-14 20:31:03.986657 Sierra: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:04.128529 Whiskey: We would work well together
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:04.135052 Oscar: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo round 2
+ChatterBot Whiskey round 2
+2024-10-14 20:31:04.152547 Yankee: We should group up
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:04.188299 Romeo: No
+2024-10-14 20:31:04.188885 Foxtrot: No
+2024-10-14 20:31:04.189014 Sierra: No
+2024-10-14 20:31:04.189120 Mike: No
+2024-10-14 20:31:04.189283 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha round 2
+ChatterBot Mike round 2
+ChatterBot Echo round 2
+2024-10-14 20:31:04.470707 Foxtrot: We should replace Yankee with Alpha
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:04.484198 Sierra: Yes
+2024-10-14 20:31:04.484990 Mike: Yes
+2024-10-14 20:31:04.485250 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:04.539924 Romeo: Alpha we want you to join our group
+2024-10-14 20:31:04.544796 Alpha: No
+2024-10-14 20:31:04.552707 Yankee: Foxtrot, Sierra, Mike and Echo, sending you 2
+2024-10-14 20:31:04.553714 Oscar: Sierra, sending you 2
+2024-10-14 20:31:04.555064 Foxtrot: Alpha we want you to join our group
+2024-10-14 20:31:04.559732 Alpha: No
+2024-10-14 20:31:04.576328 Yankee: Romeo, sending you 4
+2024-10-14 20:31:04.577745 Oscar: Bravo, sending you 6
+2024-10-14 20:31:04.911228 Sierra: Oscar and Echo, sending you 2
+2024-10-14 20:31:04.911796 Bravo: Oscar and Alpha, sending you 5
+2024-10-14 20:31:04.912524 Whiskey: Oscar, sending you 4
+2024-10-14 20:31:04.912786 Alpha: Oscar, Bravo and Whiskey, sending you 5
+2024-10-14 20:31:04.913012 Oscar: Whiskey, sending you 3
+2024-10-14 20:31:04.913308 Mike: Foxtrot, sending you 2
+2024-10-14 20:31:05.285527 Sierra: Foxtrot, Alpha and Mike, sending you 1
+2024-10-14 20:31:05.286433 Bravo: Sierra, sending you 3
+2024-10-14 20:31:05.286845 Alpha: Sierra, sending you 3
+2024-10-14 20:31:05.287574 Romeo: Yankee, sending you 9
+2024-10-14 20:31:05.287899 Whiskey: Bravo, sending you 9
+2024-10-14 20:31:05.288148 Oscar: Alpha, sending you 4
+2024-10-14 20:31:05.288399 Mike: Sierra, sending you 1
+2024-10-14 20:31:05.289036 Echo: Oscar, Sierra, Bravo and Mike, sending you 2
+2024-10-14 20:31:05.289354 Foxtrot: Sierra, Alpha, Mike and Echo, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 20:31:05.291077 Bravo: Whiskey, sending you 4
+2024-10-14 20:31:05.592243 Romeo: Alpha, sending you 6
+2024-10-14 20:31:05.592788 Echo: Foxtrot, sending you 3
+2024-10-14 20:31:05.594056 Whiskey: Alpha, sending you 1
+2024-10-14 20:31:05.594485 Mike: Alpha, sending you 7
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+2024-10-14 20:31:05.713804 Echo: Whiskey and Alpha, sending you 1
+2024-10-14 20:31:05.714246 Mike: Echo, sending you 4
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 3
+ChatterBot Oscar round 3
+ChatterBot Foxtrot round 3
+ChatterBot Sierra round 3
+ChatterBot Bravo round 3
+ChatterBot Romeo round 3
+ChatterBot Whiskey round 3
+ChatterBot Alpha round 3
+ChatterBot Mike round 3
+ChatterBot Echo round 3
+2024-10-14 20:31:05.917977 Foxtrot: We should drop Alpha
+ChatterBot Mike reevaluating
+2024-10-14 20:31:05.929847 Sierra: No
+2024-10-14 20:31:05.930036 Mike: Yes
+2024-10-14 20:31:05.930180 Echo: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:05.981812 Sierra: Oscar, Foxtrot, Bravo, Alpha and Mike, sending you 1
+2024-10-14 20:31:05.982861 Oscar: Sierra, sending you 2
+2024-10-14 20:31:05.983280 Echo: Yankee, sending you 2
+2024-10-14 20:31:05.984213 Yankee: Foxtrot, Sierra and Mike, sending you 2
+2024-10-14 20:31:05.984634 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:05.988524 Sierra: Echo, sending you 2
+2024-10-14 20:31:05.989407 Oscar: Bravo, sending you 5
+2024-10-14 20:31:05.989774 Yankee: Romeo, sending you 5
+2024-10-14 20:31:05.990139 Echo: Foxtrot, sending you 4
+2024-10-14 20:31:05.991149 Whiskey: Oscar, sending you 4
+2024-10-14 20:31:05.991638 Foxtrot: Sending you each 4
+2024-10-14 20:31:05.992001 Romeo: Yankee, sending you 8
+2024-10-14 20:31:05.992793 Bravo: Sierra, sending you 3
+2024-10-14 20:31:05.993156 Alpha: Oscar and Bravo, sending you 4
+2024-10-14 20:31:05.996285 Oscar: Whiskey and Alpha, sending you 4
+2024-10-14 20:31:05.996729 Yankee: Echo, sending you 1
+2024-10-14 20:31:05.997666 Echo: Sierra and Mike, sending you 3
+2024-10-14 20:31:05.998059 Whiskey: Sierra, sending you 1
+2024-10-14 20:31:05.998449 Romeo: Foxtrot, Sierra and Mike, sending you 2
+2024-10-14 20:31:05.999217 Alpha: Sierra and Whiskey, sending you 2
+2024-10-14 20:31:05.999645 Bravo: Alpha, sending you 4
+2024-10-14 20:31:06.001652 Echo: Romeo, sending you 1
+2024-10-14 20:31:06.002456 Whiskey: Bravo, sending you 6
+2024-10-14 20:31:07.282517 Romeo: Echo, sending you 1
+2024-10-14 20:31:07.283970 Whiskey: Alpha, sending you 3
+2024-10-14 20:31:07.289208 Mike: Foxtrot, sending you 5
+2024-10-14 20:31:07.294457 Mike: Sierra, sending you 2
+2024-10-14 20:31:07.335439 Mike: Alpha, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-14 20:31:07.344576 Mike: Echo, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Yankee round 4
+ChatterBot Oscar round 4
+ChatterBot Foxtrot round 4
+ChatterBot Sierra round 4
+ChatterBot Bravo round 4
+ChatterBot Romeo round 4
+ChatterBot Whiskey round 4
+ChatterBot Alpha round 4
+ChatterBot Mike round 4
+ChatterBot Echo round 4
+2024-10-14 20:31:08.339904 Yankee: Foxtrot, Mike and Echo, sending you 2
+2024-10-14 20:31:08.340679 Foxtrot: Same as last round
+2024-10-14 20:31:08.342689 Yankee: Sierra, sending you 1
+2024-10-14 20:31:08.344673 Oscar: Sierra, sending you 2
+2024-10-14 20:31:08.346793 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:08.347380 Whiskey: Oscar, sending you 4
+2024-10-14 20:31:08.347746 Sierra: Oscar, Foxtrot, Bravo, Alpha and Mike, sending you 1
+2024-10-14 20:31:08.348229 Yankee: Romeo, sending you 5
+2024-10-14 20:31:08.349005 Oscar: Bravo, sending you 5
+2024-10-14 20:31:08.350841 Alpha: Oscar and Bravo, sending you 4
+2024-10-14 20:31:08.351688 Bravo: Sierra, sending you 3
+2024-10-14 20:31:08.352746 Sierra: Echo, sending you 2
+2024-10-14 20:31:08.353237 Oscar: Whiskey and Alpha, sending you 4
+2024-10-14 20:31:08.353689 Whiskey: Sierra, sending you 1
+2024-10-14 20:31:08.354179 Romeo: Yankee, sending you 7
+2024-10-14 20:31:08.355222 Mike: Yankee, sending you 3
+2024-10-14 20:31:08.355844 Alpha: Sierra, sending you 2
+2024-10-14 20:31:08.356964 Bravo: Alpha, sending you 4
+2024-10-14 20:31:08.357396 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:08.357875 Whiskey: Bravo, sending you 6
+2024-10-14 20:31:08.358328 Romeo: Foxtrot, Sierra, Mike and Echo, sending you 2
+2024-10-14 20:31:08.359729 Mike: Foxtrot and Echo, sending you 4
+2024-10-14 20:31:08.361702 Alpha: Whiskey, sending you 3
+2024-10-14 20:31:08.362619 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:08.363319 Whiskey: Alpha, sending you 3
+2024-10-14 20:31:08.365691 Mike: Sierra, sending you 2
+2024-10-14 20:31:08.371706 Mike: Romeo, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 5
+ChatterBot Oscar round 5
+ChatterBot Foxtrot round 5
+ChatterBot Sierra round 5
+ChatterBot Bravo round 5
+ChatterBot Romeo round 5
+ChatterBot Whiskey round 5
+ChatterBot Alpha round 5
+ChatterBot Mike round 5
+ChatterBot Echo round 5
+2024-10-14 20:31:09.532703 Yankee: We should drop Sierra
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:09.547897 Romeo: Yes
+2024-10-14 20:31:09.548054 Foxtrot: Yes
+2024-10-14 20:31:09.548163 Mike: No
+2024-10-14 20:31:09.548279 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:09.600060 Sierra: Oscar, Bravo, Alpha, Mike and Echo, sending you 1
+2024-10-14 20:31:09.600555 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:09.604683 Sierra: Foxtrot, sending you 2
+2024-10-14 20:31:09.605668 Bravo: Sierra, sending you 3
+2024-10-14 20:31:09.606693 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:09.607709 Yankee: Foxtrot, Mike and Echo, sending you 2
+2024-10-14 20:31:09.609061 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:09.609662 Bravo: Alpha, sending you 4
+2024-10-14 20:31:09.610714 Romeo: Yankee, sending you 7
+2024-10-14 20:31:09.611696 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:09.612169 Yankee: Romeo, sending you 6
+2024-10-14 20:31:09.613682 Alpha: Sierra, sending you 2
+2024-10-14 20:31:09.614670 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:09.615695 Foxtrot: Same as last round
+2024-10-14 20:31:09.616045 Romeo: Foxtrot and Mike, sending you 2
+2024-10-14 20:31:09.617223 Oscar: Sierra, sending you 2
+2024-10-14 20:31:09.618692 Mike: Yankee and Echo, sending you 3
+2024-10-14 20:31:09.619103 Whiskey: Bravo, sending you 6
+2024-10-14 20:31:09.619689 Romeo: Sierra, sending you 1
+2024-10-14 20:31:09.621669 Mike: Foxtrot, sending you 4
+2024-10-14 20:31:09.622676 Oscar: Bravo, sending you 5
+2024-10-14 20:31:09.623159 Romeo: Echo, sending you 3
+2024-10-14 20:31:09.626671 Mike: Sierra and Romeo, sending you 2
+2024-10-14 20:31:09.627055 Oscar: Whiskey and Alpha, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Yankee round 6
+ChatterBot Oscar round 6
+ChatterBot Foxtrot round 6
+ChatterBot Sierra round 6
+ChatterBot Bravo round 6
+ChatterBot Romeo round 6
+ChatterBot Whiskey round 6
+ChatterBot Alpha round 6
+ChatterBot Mike round 6
+ChatterBot Echo round 6
+2024-10-14 20:31:10.846716 Yankee: Foxtrot, sending you 1
+2024-10-14 20:31:10.848290 Foxtrot: Sending you each 3
+2024-10-14 20:31:10.849003 Oscar: Sierra, sending you 2
+2024-10-14 20:31:10.850673 Yankee: Romeo, sending you 5
+2024-10-14 20:31:10.853660 Oscar: Bravo, sending you 5
+2024-10-14 20:31:10.854955 Yankee: Mike and Echo, sending you 3
+2024-10-14 20:31:10.857680 Oscar: Whiskey and Alpha, sending you 4
+2024-10-14 20:31:10.859693 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:10.861666 Romeo: Yankee, sending you 6
+2024-10-14 20:31:10.862720 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:10.864654 Bravo: Sierra, sending you 3
+2024-10-14 20:31:10.865451 Romeo: Foxtrot, Sierra and Mike, sending you 2
+2024-10-14 20:31:10.867114 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:10.868349 Mike: Yankee, sending you 3
+2024-10-14 20:31:10.869069 Sierra: Oscar, Bravo, Alpha, Mike and Echo, sending you 1
+2024-10-14 20:31:10.869882 Bravo: Alpha, sending you 4
+2024-10-14 20:31:10.871079 Whiskey: Bravo, sending you 6
+2024-10-14 20:31:10.871824 Romeo: Echo, sending you 3
+2024-10-14 20:31:10.873179 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:10.873844 Alpha: Sierra, sending you 2
+2024-10-14 20:31:10.874924 Mike: Foxtrot, sending you 5
+2024-10-14 20:31:10.875724 Sierra: Foxtrot, sending you 2
+2024-10-14 20:31:10.877689 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:10.878687 Mike: Romeo, sending you 2
+2024-10-14 20:31:10.882687 Mike: Echo, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Yankee round 7
+ChatterBot Oscar round 7
+ChatterBot Foxtrot round 7
+ChatterBot Sierra round 7
+ChatterBot Bravo round 7
+ChatterBot Romeo round 7
+ChatterBot Whiskey round 7
+ChatterBot Alpha round 7
+ChatterBot Mike round 7
+ChatterBot Echo round 7
+2024-10-14 20:31:12.060693 Romeo: Yankee, sending you 6
+2024-10-14 20:31:12.061992 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:12.063700 Foxtrot: Same as last round
+2024-10-14 20:31:12.065692 Romeo: Foxtrot, Mike and Echo, sending you 3
+2024-10-14 20:31:12.067674 Bravo: Sierra, sending you 3
+2024-10-14 20:31:12.068245 Sierra: Oscar and Alpha, sending you 2
+2024-10-14 20:31:12.068746 Oscar: Sierra, sending you 2
+2024-10-14 20:31:12.069694 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:12.070681 Bravo: Alpha, sending you 4
+2024-10-14 20:31:12.072676 Sierra: Bravo, sending you 3
+2024-10-14 20:31:12.073386 Mike: Yankee and Echo, sending you 3
+2024-10-14 20:31:12.074152 Oscar: Bravo, sending you 5
+2024-10-14 20:31:12.075106 Yankee: Foxtrot, sending you 1
+2024-10-14 20:31:12.075516 Alpha: Sierra, sending you 1
+2024-10-14 20:31:12.076090 Echo: Yankee, Sierra and Romeo, sending you 2
+2024-10-14 20:31:12.077725 Mike: Foxtrot, sending you 4
+2024-10-14 20:31:12.078276 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:12.078799 Oscar: Whiskey and Alpha, sending you 4
+2024-10-14 20:31:12.079532 Yankee: Romeo, sending you 5
+2024-10-14 20:31:12.081661 Echo: Foxtrot, sending you 4
+2024-10-14 20:31:12.082684 Mike: Sierra and Romeo, sending you 2
+2024-10-14 20:31:12.083952 Yankee: Mike and Echo, sending you 3
+2024-10-14 20:31:12.084482 Whiskey: Bravo, sending you 6
+2024-10-14 20:31:12.086264 Echo: Mike, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Yankee round 8
+ChatterBot Oscar round 8
+ChatterBot Foxtrot round 8
+ChatterBot Sierra round 8
+ChatterBot Bravo round 8
+ChatterBot Romeo round 8
+ChatterBot Whiskey round 8
+ChatterBot Alpha round 8
+ChatterBot Mike round 8
+2024-10-14 20:31:13.331980 Alpha: We should add Foxtrot
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:13.346437 Oscar: No
+2024-10-14 20:31:13.346702 Bravo: No
+2024-10-14 20:31:13.346916 Whiskey: No
+2024-10-14 20:31:13.347120 Sierra: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:13.408344 Whiskey: We should add Echo
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:13.423724 Oscar: No
+2024-10-14 20:31:13.423933 Bravo: No
+2024-10-14 20:31:13.424085 Alpha: Yes
+2024-10-14 20:31:13.424235 Sierra: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo round 8
+2024-10-14 20:31:13.501457 Romeo: We should add Sierra
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:13.530723 Yankee: No
+2024-10-14 20:31:13.530927 Foxtrot: No
+2024-10-14 20:31:13.531117 Mike: Yes
+2024-10-14 20:31:13.531328 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:13.592533 Alpha: We should add Mike
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:13.603991 Oscar: No
+2024-10-14 20:31:13.604147 Bravo: No
+2024-10-14 20:31:13.604265 Whiskey: No
+2024-10-14 20:31:13.604379 Sierra: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:13.649857 Alpha: We should add Romeo
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:13.661169 Oscar: No
+2024-10-14 20:31:13.661313 Bravo: No
+2024-10-14 20:31:13.661883 Whiskey: No
+2024-10-14 20:31:13.661994 Sierra: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:13.715824 Romeo: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:13.719800 Sierra: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:13.738168 Alpha: We should add Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:13.749153 Oscar: No
+2024-10-14 20:31:13.749801 Bravo: No
+2024-10-14 20:31:13.749945 Whiskey: Yes
+2024-10-14 20:31:13.750069 Sierra: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:13.791653 Oscar: Sierra, sending you 3
+2024-10-14 20:31:13.796726 Oscar: Bravo, Whiskey and Alpha, sending you 4
+2024-10-14 20:31:13.803688 Echo: Yankee, Foxtrot and Mike, sending you 3
+2024-10-14 20:31:13.804697 Bravo: Oscar, Sierra and Alpha, sending you 4
+2024-10-14 20:31:13.806657 Echo: Sierra and Romeo, sending you 2
+2024-10-14 20:31:13.808684 Romeo: Yankee, sending you 6
+2024-10-14 20:31:13.810266 Bravo: Whiskey, sending you 5
+2024-10-14 20:31:13.810846 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:13.811675 Sierra: Foxtrot, sending you 2
+2024-10-14 20:31:13.814562 Yankee: Foxtrot, Mike and Echo, sending you 2
+2024-10-14 20:31:13.815353 Romeo: Foxtrot, Mike and Echo, sending you 3
+2024-10-14 20:31:13.816011 Mike: Yankee and Echo, sending you 3
+2024-10-14 20:31:13.816649 Whiskey: Bravo, sending you 6
+2024-10-14 20:31:13.817411 Sierra: Romeo and Mike, sending you 1
+2024-10-14 20:31:13.819015 Yankee: Sierra, sending you 1
+2024-10-14 20:31:13.820673 Mike: Foxtrot, sending you 4
+2024-10-14 20:31:13.822673 Yankee: Romeo, sending you 5
+2024-10-14 20:31:13.823691 Sierra: Echo, sending you 3
+2024-10-14 20:31:13.826665 Mike: Sierra and Romeo, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Yankee round 9
+ChatterBot Oscar round 9
+ChatterBot Foxtrot round 9
+ChatterBot Sierra round 9
+2024-10-14 20:31:14.902945 Oscar: We should add Echo
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:14.918056 Bravo: Yes
+2024-10-14 20:31:14.918250 Whiskey: No
+2024-10-14 20:31:14.918413 Alpha: Yes
+2024-10-14 20:31:14.918562 Sierra: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo round 9
+ChatterBot Romeo round 9
+ChatterBot Whiskey round 9
+ChatterBot Alpha round 9
+ChatterBot Mike round 9
+ChatterBot Echo round 9
+2024-10-14 20:31:14.984638 Whiskey: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 20:31:14.988390 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:15.003389 Bravo: We should add Echo
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:15.015644 Oscar: Yes
+2024-10-14 20:31:15.015830 Whiskey: Yes
+2024-10-14 20:31:15.015966 Alpha: No
+2024-10-14 20:31:15.016117 Sierra: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:15.081690 Foxtrot: Yankee, Sierra and Romeo, sending you 2
+2024-10-14 20:31:15.083666 Alpha: Echo we want you to join our group
+2024-10-14 20:31:15.088522 Echo: No
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:15.105649 Foxtrot: Mike and Echo, sending you 3
+2024-10-14 20:31:15.108663 Yankee: Foxtrot, Mike and Echo, sending you 2
+2024-10-14 20:31:15.110034 Romeo: Yankee, sending you 5
+2024-10-14 20:31:15.110828 Mike: Yankee and Foxtrot, sending you 3
+2024-10-14 20:31:15.111362 Sierra: Yankee, Foxtrot, Romeo and Mike, sending you 1
+2024-10-14 20:31:15.112665 Oscar: Echo we want you to join our group
+2024-10-14 20:31:15.116112 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:15.131822 Yankee: Sierra, sending you 1
+2024-10-14 20:31:15.132805 Romeo: Foxtrot and Sierra, sending you 2
+2024-10-14 20:31:15.133410 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:15.133795 Mike: Sierra and Romeo, sending you 2
+2024-10-14 20:31:15.135653 Romeo: Mike and Echo, sending you 3
+2024-10-14 20:31:15.137159 Yankee: Romeo, sending you 5
+2024-10-14 20:31:15.137817 Echo: Yankee, Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:15.138382 Mike: Echo, sending you 4
+2024-10-14 20:31:15.138854 Alpha: Oscar and Whiskey, sending you 4
+2024-10-14 20:31:15.139257 Whiskey: Bravo, sending you 5
+2024-10-14 20:31:15.140668 Echo: Romeo, sending you 1
+2024-10-14 20:31:15.143660 Alpha: Sierra, sending you 2
+2024-10-14 20:31:15.146729 Sierra: Sorry, I'm actually sending you 0
+2024-10-14 20:31:15.147015 Sierra: Sorry, I'm actually sending you 0
+2024-10-14 20:31:15.147269 Sierra: Sorry, I'm actually sending you 0
+2024-10-14 20:31:15.147503 Sierra: Sorry, I'm actually sending you 0
+2024-10-14 20:31:15.147790 Alpha: Bravo, sending you 3
+2024-10-14 20:31:15.151678 Sierra: Oscar, Bravo and Echo, sending you 2
+2024-10-14 20:31:15.155665 Sierra: Alpha, sending you 1
+2024-10-14 20:31:15.168654 Oscar: Sierra and Echo, sending you 2
+2024-10-14 20:31:15.172676 Oscar: Bravo and Alpha, sending you 4
+2024-10-14 20:31:15.178691 Oscar: Whiskey, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 10
+ChatterBot Oscar round 10
+ChatterBot Foxtrot round 10
+ChatterBot Sierra round 10
+ChatterBot Bravo round 10
+ChatterBot Romeo round 10
+ChatterBot Whiskey round 10
+ChatterBot Alpha round 10
+ChatterBot Mike round 10
+ChatterBot Echo round 10
+2024-10-14 20:31:16.142025 Yankee: We should drop Sierra
+2024-10-14 20:31:16.153686 Romeo: No
+2024-10-14 20:31:16.153877 Foxtrot: No
+2024-10-14 20:31:16.154025 Mike: No
+2024-10-14 20:31:16.154646 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:16.204542 Bravo: We should add Echo
+2024-10-14 20:31:16.214818 Oscar: Yes
+2024-10-14 20:31:16.215071 Whiskey: Yes
+2024-10-14 20:31:16.215230 Alpha: Yes
+2024-10-14 20:31:16.215364 Sierra: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:16.268929 Foxtrot: Yankee, Sierra and Romeo, sending you 2
+2024-10-14 20:31:16.273667 Foxtrot: Mike and Echo, sending you 3
+2024-10-14 20:31:16.274480 Foxtrot: I was attacked by Whiskey
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:16.291440 Foxtrot: Ow
+2024-10-14 20:31:16.292703 Bravo: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 20:31:16.296484 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:16.315678 Oscar: Sierra and Bravo, sending you 3
+2024-10-14 20:31:16.316290 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:16.316787 Whiskey: Oscar and Alpha, sending you 5
+2024-10-14 20:31:16.319680 Oscar: Whiskey and Alpha, sending you 4
+2024-10-14 20:31:16.320680 Alpha: Sierra, sending you 2
+2024-10-14 20:31:16.321312 Whiskey: Bravo, sending you 4
+2024-10-14 20:31:16.323687 Oscar: Echo, sending you 1
+2024-10-14 20:31:16.324674 Romeo: Yankee, sending you 5
+2024-10-14 20:31:16.325748 Mike: Yankee, Romeo and Echo, sending you 3
+2024-10-14 20:31:16.328691 Mike: Foxtrot, sending you 4
+2024-10-14 20:31:16.329948 Romeo: Foxtrot, Mike and Echo, sending you 3
+2024-10-14 20:31:16.330881 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:16.333045 Sierra: Yankee, Romeo and Mike, sending you 1
+2024-10-14 20:31:16.333921 Mike: Sierra, sending you 1
+2024-10-14 20:31:16.334781 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:16.335680 Romeo: Sierra, sending you 1
+2024-10-14 20:31:16.338686 Sierra: Foxtrot and Echo, sending you 2
+2024-10-14 20:31:16.341663 Bravo: Oscar, Sierra and Alpha, sending you 2
+2024-10-14 20:31:16.344686 Bravo: Whiskey, sending you 3
+2024-10-14 20:31:16.347667 Bravo: Echo, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Yankee round 11
+ChatterBot Oscar round 11
+ChatterBot Foxtrot round 11
+ChatterBot Sierra round 11
+ChatterBot Bravo round 11
+ChatterBot Romeo round 11
+ChatterBot Whiskey round 11
+ChatterBot Alpha round 11
+ChatterBot Mike round 11
+ChatterBot Echo round 11
+2024-10-14 20:31:17.460457 Sierra: We should add Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:17.488635 Yankee: No
+2024-10-14 20:31:17.489086 Romeo: Yes
+2024-10-14 20:31:17.489618 Foxtrot: No
+2024-10-14 20:31:17.490147 Mike: No
+2024-10-14 20:31:17.490499 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:17.604229 Romeo: We should add Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:17.620517 Yankee: No
+2024-10-14 20:31:17.620669 Foxtrot: No
+2024-10-14 20:31:17.620866 Sierra: No
+2024-10-14 20:31:17.621106 Mike: No
+2024-10-14 20:31:17.621230 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:17.740243 Oscar: We should drop Echo
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:17.760124 Bravo: Yes
+2024-10-14 20:31:17.760327 Whiskey: No
+2024-10-14 20:31:17.760494 Alpha: No
+2024-10-14 20:31:17.760689 Sierra: No
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:17.832860 Foxtrot: We should drop Romeo
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:17.845086 Mike: No
+2024-10-14 20:31:17.845288 Echo: No
+2024-10-14 20:31:17.845449 Sierra: Yes
+2024-10-14 20:31:17.845631 Yankee: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:17.887114 Romeo: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:17.890520 Whiskey: No
+chatterbot Oscar submitting transactions
+2024-10-14 20:31:17.904712 Foxtrot: We should drop Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:17.914219 Yankee: Yes
+2024-10-14 20:31:17.914373 Romeo: No
+2024-10-14 20:31:17.914488 Mike: No
+2024-10-14 20:31:17.914594 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:17.954345 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:17.955002 Oscar: Sierra, sending you 3
+2024-10-14 20:31:17.955603 Mike: Yankee, Romeo and Echo, sending you 3
+2024-10-14 20:31:17.958682 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:17.959667 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:17.960896 Oscar: Bravo, Whiskey and Alpha, sending you 4
+2024-10-14 20:31:17.961530 Mike: Foxtrot, sending you 4
+2024-10-14 20:31:17.962121 Bravo: Oscar, Sierra and Alpha, sending you 4
+2024-10-14 20:31:17.962764 Sierra: Yankee, Romeo and Mike, sending you 1
+2024-10-14 20:31:17.963360 Alpha: Sierra, sending you 2
+2024-10-14 20:31:17.964588 Yankee: We should drop Foxtrot
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:17.977630 Sierra: Yes
+2024-10-14 20:31:17.977806 Romeo: No
+2024-10-14 20:31:17.977966 Mike: No
+2024-10-14 20:31:17.978089 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:18.027733 Mike: Sierra, sending you 1
+2024-10-14 20:31:18.028499 Bravo: Whiskey, sending you 5
+2024-10-14 20:31:18.032808 Whiskey: Oscar and Alpha, sending you 5
+2024-10-14 20:31:18.038694 Whiskey: Bravo, sending you 4
+2024-10-14 20:31:18.051672 Romeo: Yankee, sending you 5
+2024-10-14 20:31:18.056672 Romeo: Foxtrot, Sierra, Whiskey, Mike and Echo, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Yankee round 12
+ChatterBot Oscar round 12
+ChatterBot Foxtrot round 12
+ChatterBot Sierra round 12
+ChatterBot Bravo round 12
+ChatterBot Romeo round 12
+ChatterBot Whiskey round 12
+ChatterBot Alpha round 12
+ChatterBot Mike round 12
+ChatterBot Echo round 12
+2024-10-14 20:31:19.235703 Yankee: We should drop Sierra
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:19.250933 Romeo: No
+2024-10-14 20:31:19.251237 Foxtrot: No
+2024-10-14 20:31:19.252056 Mike: No
+2024-10-14 20:31:19.252255 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:19.327869 Foxtrot: We should replace Yankee with Sierra
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:19.341692 Romeo: No
+2024-10-14 20:31:19.341903 Mike: No
+2024-10-14 20:31:19.342700 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:19.390695 Bravo: Oscar, Sierra and Alpha, sending you 4
+2024-10-14 20:31:19.391997 Oscar: Sierra, sending you 3
+2024-10-14 20:31:19.394912 Foxtrot: Sierra we want you to join our group
+2024-10-14 20:31:19.402123 Sierra: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:19.419987 Bravo: Whiskey, sending you 5
+2024-10-14 20:31:19.422035 Oscar: Bravo, Whiskey and Alpha, sending you 4
+2024-10-14 20:31:19.427122 Whiskey: Oscar, sending you 4
+2024-10-14 20:31:19.428557 Sierra: Yankee, Foxtrot, Romeo and Mike, sending you 1
+2024-10-14 20:31:19.430444 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:19.431307 Echo: Yankee, Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:19.433099 Mike: Yankee, Foxtrot and Romeo, sending you 3
+2024-10-14 20:31:19.434010 Whiskey: Bravo and Alpha, sending you 5
+2024-10-14 20:31:19.435013 Sierra: Echo, sending you 3
+2024-10-14 20:31:19.437095 Alpha: Sierra, sending you 1
+2024-10-14 20:31:19.437722 Echo: Romeo, sending you 1
+2024-10-14 20:31:19.439563 Mike: Sierra, sending you 1
+2024-10-14 20:31:19.440832 Foxtrot: Sending you each 3
+2024-10-14 20:31:19.445672 Mike: Echo, sending you 4
+2024-10-14 20:31:19.446874 Romeo: Yankee, sending you 4
+2024-10-14 20:31:19.450693 Romeo: Foxtrot and Sierra, sending you 2
+2024-10-14 20:31:19.453702 Romeo: Whiskey, sending you 1
+2024-10-14 20:31:19.456668 Romeo: Mike and Echo, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 13
+ChatterBot Oscar round 13
+ChatterBot Foxtrot round 13
+ChatterBot Sierra round 13
+ChatterBot Bravo round 13
+ChatterBot Romeo round 13
+ChatterBot Whiskey round 13
+ChatterBot Alpha round 13
+ChatterBot Mike round 13
+ChatterBot Echo round 13
+2024-10-14 20:31:20.506297 Whiskey: We should replace Sierra with Romeo
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:20.518483 Oscar: No
+2024-10-14 20:31:20.518632 Bravo: No
+2024-10-14 20:31:20.518748 Alpha: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:20.547681 Yankee: We should drop Sierra
+2024-10-14 20:31:20.556855 Romeo: No
+2024-10-14 20:31:20.557057 Foxtrot: No
+2024-10-14 20:31:20.557212 Mike: No
+2024-10-14 20:31:20.557368 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:20.612839 Whiskey: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:20.617781 Romeo: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:20.635245 Romeo: We should replace Whiskey with Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:20.649894 Yankee: No
+2024-10-14 20:31:20.650070 Foxtrot: No
+2024-10-14 20:31:20.650212 Sierra: No
+2024-10-14 20:31:20.650373 Mike: No
+2024-10-14 20:31:20.650488 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:20.729708 Sierra: Yankee, Romeo and Mike, sending you 1
+2024-10-14 20:31:20.731972 Yankee: We should drop Foxtrot
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:20.817438 Sierra: No
+2024-10-14 20:31:20.817703 Romeo: No
+2024-10-14 20:31:20.819666 Mike: No
+2024-10-14 20:31:20.819848 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:20.951242 Foxtrot: Same as last round
+2024-10-14 20:31:20.954682 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:20.957795 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:20.959265 Alpha: Oscar, Bravo and Whiskey, sending you 4
+2024-10-14 20:31:20.961426 Romeo: Alpha we want you to join our group
+2024-10-14 20:31:20.970077 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:21.006979 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:21.010685 Whiskey: Bravo, sending you 5
+2024-10-14 20:31:21.012800 Alpha: Sierra, sending you 1
+2024-10-14 20:31:21.015145 Mike: We should drop Yankee
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:21.035043 Foxtrot: Yes
+2024-10-14 20:31:21.035441 Sierra: Yes
+2024-10-14 20:31:21.035874 Romeo: No
+2024-10-14 20:31:21.036114 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:21.100312 Whiskey: Romeo, sending you 1
+2024-10-14 20:31:21.101217 Bravo: Oscar and Alpha, sending you 4
+2024-10-14 20:31:21.102852 Oscar: Sierra, sending you 2
+2024-10-14 20:31:21.107880 Bravo: Sierra, sending you 3
+2024-10-14 20:31:21.108644 Oscar: Bravo and Alpha, sending you 4
+2024-10-14 20:31:21.111670 Oscar: Whiskey, sending you 5
+2024-10-14 20:31:21.113782 Bravo: Whiskey, sending you 6
+2024-10-14 20:31:21.123684 Mike: Foxtrot, sending you 4
+2024-10-14 20:31:21.127711 Mike: Sierra, sending you 2
+2024-10-14 20:31:21.132705 Mike: Romeo, sending you 3
+2024-10-14 20:31:21.137258 Romeo: Yankee, sending you 4
+2024-10-14 20:31:21.138689 Mike: Echo, sending you 5
+2024-10-14 20:31:21.140684 Romeo: Foxtrot and Mike, sending you 3
+2024-10-14 20:31:21.144686 Romeo: Sierra and Echo, sending you 2
+2024-10-14 20:31:21.149674 Romeo: Whiskey, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Yankee round 14
+ChatterBot Oscar round 14
+ChatterBot Foxtrot round 14
+ChatterBot Sierra round 14
+ChatterBot Bravo round 14
+ChatterBot Romeo round 14
+ChatterBot Whiskey round 14
+ChatterBot Alpha round 14
+ChatterBot Mike round 14
+ChatterBot Echo round 14
+2024-10-14 20:31:22.515148 Bravo: We should replace Sierra with Romeo
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:22.528722 Whiskey: Yes
+2024-10-14 20:31:22.529048 Oscar: Yes
+2024-10-14 20:31:22.529407 Alpha: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:22.589946 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:22.595900 Romeo: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:22.617883 Romeo: We should replace Whiskey with Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:22.644050 Yankee: No
+2024-10-14 20:31:22.644924 Foxtrot: No
+2024-10-14 20:31:22.645284 Sierra: No
+2024-10-14 20:31:22.645779 Mike: No
+2024-10-14 20:31:22.646073 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:22.756755 Oscar: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:22.760382 Romeo: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:22.771190 Alpha: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:22.774582 Romeo: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:22.785026 Alpha: We should group up
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:22.800976 Romeo: No
+2024-10-14 20:31:22.801112 Yankee: No
+2024-10-14 20:31:22.801214 Foxtrot: No
+2024-10-14 20:31:22.801306 Sierra: Yes
+2024-10-14 20:31:22.801398 Mike: No
+2024-10-14 20:31:22.801884 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:22.904622 Sierra: We should add Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:22.927517 Yankee: No
+2024-10-14 20:31:22.927676 Romeo: Yes
+2024-10-14 20:31:22.927814 Foxtrot: No
+2024-10-14 20:31:22.927930 Mike: Yes
+2024-10-14 20:31:22.928051 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.004936 Whiskey: Oscar and Alpha, sending you 4
+2024-10-14 20:31:23.007410 Foxtrot: Same as last round
+2024-10-14 20:31:23.008757 Yankee: We should drop Foxtrot
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:23.020005 Sierra: No
+2024-10-14 20:31:23.020166 Romeo: No
+2024-10-14 20:31:23.020280 Mike: No
+2024-10-14 20:31:23.020390 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.063370 Whiskey: Bravo, sending you 5
+2024-10-14 20:31:23.064149 Sierra: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:23.067966 Alpha: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.085447 Foxtrot: We should add Yankee and Alpha
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.096676 Sierra: Yes
+2024-10-14 20:31:23.096808 Romeo: Yes
+2024-10-14 20:31:23.096907 Mike: No
+2024-10-14 20:31:23.097014 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.140594 Whiskey: Romeo, sending you 1
+2024-10-14 20:31:23.144678 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:23.146945 Mike: Yankee and Alpha we want you to join our group
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:23.154723 Yankee: Yes
+2024-10-14 20:31:23.154981 Alpha: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.188527 Foxtrot: We should replace Echo with Yankee
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.196493 Sierra: No
+2024-10-14 20:31:23.196632 Romeo: No
+2024-10-14 20:31:23.196767 Mike: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:23.218743 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:23.219694 Romeo: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:23.222890 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.240676 Oscar: Bravo, sending you 4
+2024-10-14 20:31:23.241683 Sierra: Foxtrot and Echo, sending you 2
+2024-10-14 20:31:23.242560 Bravo: Oscar, Whiskey and Alpha, sending you 5
+2024-10-14 20:31:23.244674 Yankee: Alpha we want you to join our group
+2024-10-14 20:31:23.247977 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:23.265748 Foxtrot: We should replace Mike with Yankee
+2024-10-14 20:31:23.275291 Sierra: No
+2024-10-14 20:31:23.275452 Romeo: No
+2024-10-14 20:31:23.275579 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:23.299834 Mike: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:23.303203 Yankee: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:23.315551 Oscar: Romeo, sending you 1
+2024-10-14 20:31:23.316594 Sierra: Romeo, Alpha and Mike, sending you 1
+2024-10-14 20:31:23.317335 Bravo: Romeo, sending you 2
+2024-10-14 20:31:23.319792 Foxtrot: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:23.323032 Yankee: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:23.333951 Oscar: Whiskey and Alpha, sending you 5
+2024-10-14 20:31:23.334643 Romeo: Yankee, sending you 4
+2024-10-14 20:31:23.335385 Alpha: Foxtrot, sending you 1
+2024-10-14 20:31:23.337675 Romeo: Foxtrot and Mike, sending you 3
+2024-10-14 20:31:23.338693 Alpha: Sierra, sending you 9
+2024-10-14 20:31:23.341674 Romeo: Sierra and Echo, sending you 2
+2024-10-14 20:31:23.343710 Alpha: Romeo, sending you 2
+2024-10-14 20:31:23.346673 Romeo: Alpha, sending you 1
+2024-10-14 20:31:23.348683 Alpha: Mike, sending you 3
+2024-10-14 20:31:23.360681 Mike: Yankee, Foxtrot and Echo, sending you 3
+2024-10-14 20:31:23.366683 Mike: Sierra and Romeo, sending you 2
+2024-10-14 20:31:23.368784 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 20:31:23.371673 Mike: Alpha, sending you 1
+2024-10-14 20:31:23.372698 Foxtrot: Sending you each 3
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Yankee round 15
+ChatterBot Oscar round 15
+ChatterBot Foxtrot round 15
+ChatterBot Sierra round 15
+ChatterBot Bravo round 15
+ChatterBot Romeo round 15
+ChatterBot Whiskey round 15
+ChatterBot Alpha round 15
+ChatterBot Mike round 15
+ChatterBot Echo round 15
+2024-10-14 20:31:24.342809 Yankee: We should add Alpha
+2024-10-14 20:31:24.372189 Romeo: Yes
+2024-10-14 20:31:24.373153 Foxtrot: No
+2024-10-14 20:31:24.373420 Sierra: Yes
+2024-10-14 20:31:24.373729 Mike: Yes
+2024-10-14 20:31:24.374052 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:24.491251 Foxtrot: We should add Echo and Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:24.510119 Yankee: Yes
+2024-10-14 20:31:24.510439 Sierra: Yes
+2024-10-14 20:31:24.511384 Romeo: Yes
+2024-10-14 20:31:24.511568 Mike: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:24.599969 Bravo: We should replace Romeo with Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:24.610556 Whiskey: No
+2024-10-14 20:31:24.610711 Oscar: No
+2024-10-14 20:31:24.610839 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.656463 Foxtrot: We should replace Mike with Echo
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:24.668819 Yankee: No
+2024-10-14 20:31:24.669045 Sierra: No
+2024-10-14 20:31:24.669162 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:24.701329 Mike: We should drop Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:24.715343 Yankee: No
+2024-10-14 20:31:24.715509 Romeo: No
+2024-10-14 20:31:24.715647 Foxtrot: Yes
+2024-10-14 20:31:24.715785 Sierra: No
+2024-10-14 20:31:24.715906 Echo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:24.789937 Foxtrot: Echo we want you to join our group
+2024-10-14 20:31:24.793742 Echo: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:24.804387 Sierra: Foxtrot, Romeo and Mike, sending you 1
+2024-10-14 20:31:24.806211 Bravo: We should drop Romeo
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:24.814174 Whiskey: No
+2024-10-14 20:31:24.814343 Oscar: No
+2024-10-14 20:31:24.814475 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.840112 Romeo: Yankee, Foxtrot and Mike, sending you 3
+2024-10-14 20:31:24.840973 Sierra: Alpha and Echo, sending you 2
+2024-10-14 20:31:24.842067 Whiskey: Oscar and Bravo, sending you 5
+2024-10-14 20:31:24.842453 Echo: Yankee, Foxtrot and Romeo, sending you 2
+2024-10-14 20:31:24.843765 Oscar: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:24.848043 Yankee: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.863049 Oscar: We should replace Romeo with Echo
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.873301 Whiskey: Yes
+2024-10-14 20:31:24.873481 Bravo: Yes
+2024-10-14 20:31:24.873624 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.903995 Alpha: Yankee, sending you 2
+2024-10-14 20:31:24.905209 Romeo: Sierra, Alpha and Echo, sending you 2
+2024-10-14 20:31:24.905989 Oscar: We should replace Romeo with Sierra
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.915114 Whiskey: No
+2024-10-14 20:31:24.915237 Bravo: No
+2024-10-14 20:31:24.915339 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.942178 Echo: Sierra, sending you 4
+2024-10-14 20:31:24.943950 Alpha: Sierra, sending you 9
+2024-10-14 20:31:24.946675 Echo: Mike, sending you 3
+2024-10-14 20:31:24.947918 Foxtrot: Sending you each 3
+2024-10-14 20:31:24.948860 Alpha: Romeo, sending you 3
+2024-10-14 20:31:24.951883 Bravo: Echo we want you to join our group
+2024-10-14 20:31:24.957657 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:24.977018 Whiskey: We should replace Echo with Romeo
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:24.992748 Oscar: No
+2024-10-14 20:31:24.992948 Bravo: No
+2024-10-14 20:31:24.993092 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:25.041296 Alpha: Mike, sending you 4
+chatterbot Romeo submitting transactions
+2024-10-14 20:31:25.045688 Mike: Yankee, Foxtrot, Romeo and Echo, sending you 3
+2024-10-14 20:31:25.050862 Bravo: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:25.055608 Yankee: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:25.072984 Mike: Sierra, sending you 2
+chatterbot Sierra submitting transactions
+2024-10-14 20:31:25.092100 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:25.096766 Bravo: Sierra, sending you 3
+2024-10-14 20:31:25.104826 Bravo: Alpha, sending you 4
+2024-10-14 20:31:25.107160 Oscar: Bravo and Alpha, sending you 4
+2024-10-14 20:31:25.112701 Oscar: Romeo, sending you 2
+2024-10-14 20:31:25.118108 Oscar: Whiskey, sending you 5
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Yankee round 16
+ChatterBot Oscar round 16
+ChatterBot Foxtrot round 16
+ChatterBot Sierra round 16
+ChatterBot Bravo round 16
+ChatterBot Romeo round 16
+ChatterBot Whiskey round 16
+ChatterBot Alpha round 16
+ChatterBot Mike round 16
+ChatterBot Echo round 16
+2024-10-14 20:31:26.357781 Yankee: We should add Alpha
+2024-10-14 20:31:26.383215 Romeo: Yes
+2024-10-14 20:31:26.383467 Foxtrot: No
+2024-10-14 20:31:26.383662 Sierra: Yes
+2024-10-14 20:31:26.383873 Mike: No
+2024-10-14 20:31:26.384062 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:26.480057 Oscar: We should replace Romeo with Sierra
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:26.489778 Whiskey: No
+2024-10-14 20:31:26.489954 Bravo: Yes
+2024-10-14 20:31:26.490088 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:26.544785 Whiskey: We should replace Echo with Romeo
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:26.553481 Oscar: Yes
+2024-10-14 20:31:26.553649 Bravo: No
+2024-10-14 20:31:26.553801 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:26.584491 Oscar: We should replace Romeo with Yankee
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:26.592621 Whiskey: Yes
+2024-10-14 20:31:26.592812 Bravo: No
+2024-10-14 20:31:26.592920 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:26.623381 Bravo: We should replace Sierra with Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:26.633807 Whiskey: Yes
+2024-10-14 20:31:26.633994 Oscar: No
+2024-10-14 20:31:26.634225 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:26.665181 Alpha: Yankee, sending you 1
+2024-10-14 20:31:26.668830 Echo: Yankee and Romeo, sending you 2
+2024-10-14 20:31:26.672395 Sierra: Foxtrot, Romeo and Mike, sending you 1
+2024-10-14 20:31:26.675557 Mike: Yankee, Foxtrot, Romeo and Echo, sending you 3
+2024-10-14 20:31:26.678383 Foxtrot: Same as last round
+2024-10-14 20:31:26.678881 Bravo: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:26.682872 Yankee: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:26.696112 Romeo: Yankee, Foxtrot and Mike, sending you 3
+2024-10-14 20:31:26.697857 Alpha: Sierra, sending you 9
+2024-10-14 20:31:26.699388 Echo: Foxtrot, Sierra and Mike, sending you 3
+2024-10-14 20:31:26.701284 Sierra: Alpha and Echo, sending you 2
+2024-10-14 20:31:26.702420 Mike: Sierra, sending you 2
+2024-10-14 20:31:26.704005 Whiskey: Romeo we want you to join our group
+2024-10-14 20:31:26.706966 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:26.718179 Romeo: Sierra, Alpha and Echo, sending you 2
+2024-10-14 20:31:26.720655 Alpha: Romeo, sending you 5
+2024-10-14 20:31:26.727690 Alpha: Mike, sending you 2
+2024-10-14 20:31:26.731022 Oscar: Sierra we want you to join our group
+2024-10-14 20:31:26.736061 Sierra: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:26.759700 Oscar: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:26.764042 Yankee: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:26.780688 Bravo: Yankee, sending you 3
+2024-10-14 20:31:26.783297 Yankee: We should drop Sierra
+ChatterBot Mike reevaluating
+2024-10-14 20:31:26.793453 Romeo: No
+2024-10-14 20:31:26.793602 Foxtrot: No
+2024-10-14 20:31:26.793748 Mike: No
+2024-10-14 20:31:26.793874 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:26.830388 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:26.834659 Mike: Alpha we want you to join our group
+2024-10-14 20:31:26.837625 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:26.857593 Bravo: Alpha, sending you 4
+chatterbot Foxtrot submitting transactions
+2024-10-14 20:31:26.860708 Whiskey: Oscar and Bravo, sending you 5
+2024-10-14 20:31:26.865674 Whiskey: Romeo, sending you 1
+2024-10-14 20:31:26.870681 Whiskey: Alpha, sending you 3
+2024-10-14 20:31:26.871443 Oscar: Sierra, sending you 2
+2024-10-14 20:31:26.876881 Oscar: Bravo and Alpha, sending you 4
+2024-10-14 20:31:26.881682 Oscar: Whiskey, sending you 5
+2024-10-14 20:31:26.887688 Mike: Yankee and Sierra, sending you 2
+2024-10-14 20:31:26.895705 Mike: Alpha, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 17
+ChatterBot Oscar round 17
+ChatterBot Foxtrot round 17
+ChatterBot Sierra round 17
+ChatterBot Bravo round 17
+ChatterBot Romeo round 17
+ChatterBot Whiskey round 17
+ChatterBot Alpha round 17
+ChatterBot Mike round 17
+ChatterBot Echo round 17
+2024-10-14 20:31:27.918760 Yankee: We should add Alpha
+2024-10-14 20:31:27.944498 Romeo: Yes
+2024-10-14 20:31:27.944739 Foxtrot: No
+2024-10-14 20:31:27.944906 Sierra: Yes
+2024-10-14 20:31:27.945060 Mike: Yes
+2024-10-14 20:31:27.945292 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:28.211939 Oscar: We should replace Sierra with Romeo
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:28.223773 Whiskey: Yes
+2024-10-14 20:31:28.224069 Bravo: Yes
+2024-10-14 20:31:28.224246 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:28.272960 Whiskey: We should replace Romeo with Echo
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:28.283808 Oscar: No
+2024-10-14 20:31:28.284036 Bravo: Yes
+2024-10-14 20:31:28.284984 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:28.393096 Yankee: Alpha we want you to join our group
+2024-10-14 20:31:28.401173 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:28.429555 Foxtrot: We should add Mike and Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:28.446095 Yankee: Yes
+2024-10-14 20:31:28.446297 Sierra: Yes
+2024-10-14 20:31:28.446503 Romeo: Yes
+2024-10-14 20:31:28.446646 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:28.507327 Mike: We should drop Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:28.529304 Yankee: No
+2024-10-14 20:31:28.529530 Romeo: No
+2024-10-14 20:31:28.529682 Foxtrot: Yes
+2024-10-14 20:31:28.529818 Sierra: No
+2024-10-14 20:31:28.529950 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:28.645323 Foxtrot: We should replace Sierra with Mike
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:28.658527 Yankee: Yes
+2024-10-14 20:31:28.658680 Romeo: No
+2024-10-14 20:31:28.658809 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:28.697106 Sierra: Yankee, Foxtrot, Romeo, Mike and Echo, sending you 1
+2024-10-14 20:31:28.699874 Oscar: Sierra, sending you 2
+2024-10-14 20:31:28.701871 Romeo: Yankee, Foxtrot and Mike, sending you 3
+2024-10-14 20:31:28.705554 Alpha: Yankee, sending you 1
+2024-10-14 20:31:28.709756 Sierra: Alpha, sending you 2
+2024-10-14 20:31:28.711413 Oscar: Bravo and Whiskey, sending you 5
+2024-10-14 20:31:28.713529 Romeo: Sierra, Alpha and Echo, sending you 2
+2024-10-14 20:31:28.716446 Alpha: Sierra, sending you 10
+2024-10-14 20:31:28.717704 Bravo: Yankee, sending you 3
+2024-10-14 20:31:28.719349 Whiskey: Oscar and Bravo, sending you 5
+2024-10-14 20:31:28.720854 Oscar: Alpha, sending you 3
+2024-10-14 20:31:28.723213 Alpha: Romeo, sending you 5
+2024-10-14 20:31:28.726385 Bravo: Oscar and Whiskey, sending you 5
+2024-10-14 20:31:28.728600 Whiskey: Romeo, sending you 1
+2024-10-14 20:31:28.730835 Alpha: Mike, sending you 2
+2024-10-14 20:31:28.735843 Bravo: Alpha, sending you 4
+2024-10-14 20:31:28.737111 Whiskey: Alpha, sending you 3
+chatterbot Romeo submitting transactions
+2024-10-14 20:31:28.752137 Mike: Yankee and Romeo, sending you 3
+2024-10-14 20:31:28.764444 Mike: Foxtrot and Sierra, sending you 2
+2024-10-14 20:31:28.778282 Mike: Echo, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Yankee round 18
+ChatterBot Oscar round 18
+ChatterBot Foxtrot round 18
+ChatterBot Sierra round 18
+ChatterBot Bravo round 18
+ChatterBot Romeo round 18
+ChatterBot Whiskey round 18
+ChatterBot Alpha round 18
+ChatterBot Mike round 18
+ChatterBot Echo round 18
+2024-10-14 20:31:29.689940 Oscar: We should replace Sierra with Echo
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:29.699100 Whiskey: No
+2024-10-14 20:31:29.699297 Bravo: Yes
+2024-10-14 20:31:29.699425 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:29.725809 Whiskey: We should replace Romeo with Echo
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:29.734262 Oscar: No
+2024-10-14 20:31:29.734431 Bravo: Yes
+2024-10-14 20:31:29.734552 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:29.767215 Mike: We should add Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:29.780912 Yankee: Yes
+2024-10-14 20:31:29.781115 Romeo: Yes
+2024-10-14 20:31:29.781261 Foxtrot: No
+2024-10-14 20:31:29.781387 Sierra: Yes
+2024-10-14 20:31:29.781520 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:29.888987 Foxtrot: We should add Mike and Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:29.903631 Yankee: Yes
+2024-10-14 20:31:29.903789 Sierra: Yes
+2024-10-14 20:31:29.903898 Romeo: Yes
+2024-10-14 20:31:29.903999 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:30.034199 Oscar: We should replace Sierra with Mike
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:30.053470 Whiskey: No
+2024-10-14 20:31:30.053758 Bravo: No
+2024-10-14 20:31:30.053946 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:30.099883 Mike: Alpha we want you to join our group
+2024-10-14 20:31:30.107678 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:30.139045 Bravo: Echo we want you to join our group
+2024-10-14 20:31:30.144479 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:30.159286 Whiskey: We should replace Romeo with Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:30.169926 Oscar: No
+2024-10-14 20:31:30.170103 Bravo: No
+2024-10-14 20:31:30.170227 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:30.204907 Foxtrot: Mike and Alpha we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:31:30.213894 Mike: Yes
+2024-10-14 20:31:30.214099 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:30.250374 Foxtrot: We should replace Sierra with Mike
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:30.258775 Yankee: No
+2024-10-14 20:31:30.258944 Romeo: No
+2024-10-14 20:31:30.259077 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:30.290692 Sierra: Yankee, Foxtrot, Romeo, Mike and Echo, sending you 1
+2024-10-14 20:31:30.292979 Romeo: Yankee, sending you 4
+2024-10-14 20:31:30.295014 Alpha: Sierra, sending you 10
+2024-10-14 20:31:30.296205 Foxtrot: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 20:31:30.302121 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:30.321421 Oscar: Echo we want you to join our group
+2024-10-14 20:31:30.327 Echo: No
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:30.347620 Sierra: Alpha, sending you 2
+2024-10-14 20:31:30.351179 Romeo: Foxtrot, Sierra, Alpha and Echo, sending you 2
+2024-10-14 20:31:30.353111 Alpha: Romeo, sending you 5
+chatterbot Romeo submitting transactions
+2024-10-14 20:31:30.354932 Yankee: Alpha we want you to join our group
+2024-10-14 20:31:30.359139 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 20:31:30.389241 Romeo: Mike, sending you 3
+2024-10-14 20:31:30.393345 Whiskey: Oscar, sending you 6
+2024-10-14 20:31:30.394662 Alpha: Mike, sending you 1
+2024-10-14 20:31:30.397720 Whiskey: Bravo, sending you 3
+2024-10-14 20:31:30.401722 Whiskey: Romeo, sending you 1
+2024-10-14 20:31:30.408177 Whiskey: Alpha, sending you 2
+2024-10-14 20:31:30.409252 Oscar: Sierra, sending you 2
+2024-10-14 20:31:30.415689 Oscar: Bravo and Alpha, sending you 3
+2024-10-14 20:31:30.417578 Foxtrot: Sending you each 3
+2024-10-14 20:31:30.420672 Oscar: Whiskey, sending you 5
+2024-10-14 20:31:30.424047 Mike: Yankee, Foxtrot, Sierra and Alpha, sending you 2
+2024-10-14 20:31:30.428691 Mike: Romeo and Echo, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Yankee round 19
+ChatterBot Oscar round 19
+ChatterBot Foxtrot round 19
+ChatterBot Sierra round 19
+ChatterBot Bravo round 19
+ChatterBot Romeo round 19
+ChatterBot Whiskey round 19
+ChatterBot Alpha round 19
+ChatterBot Mike round 19
+ChatterBot Echo round 19
+2024-10-14 20:31:31.587965 Yankee: We should replace Sierra with Alpha
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:31.602367 Romeo: Yes
+2024-10-14 20:31:31.602560 Foxtrot: Yes
+2024-10-14 20:31:31.602734 Mike: Yes
+2024-10-14 20:31:31.602900 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:31.668301 Oscar: We should add Yankee
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:31.683856 Bravo: No
+2024-10-14 20:31:31.684020 Whiskey: No
+2024-10-14 20:31:31.684191 Alpha: Yes
+2024-10-14 20:31:31.684730 Sierra: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:31.763331 Echo: We should add Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:31.776275 Yankee: Yes
+2024-10-14 20:31:31.776468 Romeo: Yes
+2024-10-14 20:31:31.776577 Foxtrot: Yes
+2024-10-14 20:31:31.776736 Mike: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:31.996668 Romeo: We should drop Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:32.029604 Yankee: Yes
+2024-10-14 20:31:32.029966 Foxtrot: Yes
+2024-10-14 20:31:32.030426 Mike: Yes
+2024-10-14 20:31:32.031402 Echo: Yes
+2024-10-14 20:31:32.031873 Alpha: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.206853 Oscar: We should add Echo
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:32.239576 Bravo: Yes
+2024-10-14 20:31:32.240773 Whiskey: Yes
+2024-10-14 20:31:32.240986 Alpha: Yes
+2024-10-14 20:31:32.241183 Sierra: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:32.357784 Yankee: Alpha we want you to join our group
+2024-10-14 20:31:32.367996 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.405122 Foxtrot: Alpha we want you to join our group
+2024-10-14 20:31:32.413986 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.446331 Oscar: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.456774 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:32.489945 Sierra: We should drop Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.519074 Yankee: No
+2024-10-14 20:31:32.519389 Romeo: No
+2024-10-14 20:31:32.519647 Foxtrot: No
+2024-10-14 20:31:32.519845 Mike: No
+2024-10-14 20:31:32.520157 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:32.686010 Bravo: Sierra we want you to join our group
+2024-10-14 20:31:32.695976 Sierra: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.725903 Romeo: Yankee, Foxtrot, Alpha, Mike and Echo, sending you 3
+2024-10-14 20:31:32.730822 Whiskey: Oscar, sending you 7
+chatterbot Romeo submitting transactions
+2024-10-14 20:31:32.740952 Echo: Alpha we want you to join our group
+2024-10-14 20:31:32.747814 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:32.767020 Whiskey: Bravo, sending you 3
+2024-10-14 20:31:32.772415 Alpha: Yankee, sending you 2
+2024-10-14 20:31:32.777284 Foxtrot: Yankee, Alpha and Mike, sending you 2
+2024-10-14 20:31:32.779478 Mike: Yankee, Foxtrot and Romeo, sending you 3
+2024-10-14 20:31:32.782397 Whiskey: Alpha, sending you 2
+2024-10-14 20:31:32.785646 Alpha: Romeo, sending you 7
+2024-10-14 20:31:32.790268 Foxtrot: Romeo and Echo, sending you 3
+2024-10-14 20:31:32.794517 Mike: Alpha, sending you 1
+2024-10-14 20:31:32.799529 Sierra: Yankee, Romeo and Mike, sending you 1
+2024-10-14 20:31:32.804513 Whiskey: Echo, sending you 1
+2024-10-14 20:31:32.808133 Alpha: Mike, sending you 5
+2024-10-14 20:31:32.813084 Mike: Echo, sending you 4
+2024-10-14 20:31:32.816297 Sierra: Foxtrot and Echo, sending you 2
+2024-10-14 20:31:32.822307 Bravo: Oscar, sending you 4
+2024-10-14 20:31:32.825252 Oscar: Sierra, sending you 2
+2024-10-14 20:31:32.828738 Bravo: Sierra and Echo, sending you 2
+2024-10-14 20:31:32.833981 Oscar: Bravo and Alpha, sending you 3
+2024-10-14 20:31:32.840651 Bravo: Whiskey, sending you 5
+2024-10-14 20:31:32.844927 Oscar: Whiskey, sending you 6
+2024-10-14 20:31:32.849223 Bravo: Alpha, sending you 3
+chatterbot Sierra submitting transactions
+2024-10-14 20:31:32.854600 Oscar: Echo, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Yankee round 20
+ChatterBot Oscar round 20
+ChatterBot Foxtrot round 20
+ChatterBot Sierra round 20
+ChatterBot Bravo round 20
+ChatterBot Romeo round 20
+ChatterBot Whiskey round 20
+ChatterBot Alpha round 20
+ChatterBot Mike round 20
+ChatterBot Echo round 20
+2024-10-14 20:31:33.905777 Yankee: We should replace Sierra with Alpha
+ChatterBot Echo reevaluating
+2024-10-14 20:31:33.926415 Romeo: Yes
+2024-10-14 20:31:33.926630 Foxtrot: Yes
+2024-10-14 20:31:33.926809 Mike: Yes
+2024-10-14 20:31:33.926971 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:34.041278 Yankee: Alpha we want you to join our group
+2024-10-14 20:31:34.052503 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:34.084693 Echo: We should add Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:34.106687 Yankee: Yes
+2024-10-14 20:31:34.106971 Romeo: Yes
+2024-10-14 20:31:34.107197 Foxtrot: Yes
+2024-10-14 20:31:34.107379 Mike: Yes
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:34.331392 Foxtrot: Yankee, Alpha and Mike, sending you 2
+2024-10-14 20:31:34.334306 Alpha: Yankee, Foxtrot and Mike, sending you 3
+2024-10-14 20:31:34.337517 Sierra: Foxtrot, Romeo and Echo, sending you 2
+2024-10-14 20:31:34.341735 Oscar: Sierra and Alpha, sending you 2
+2024-10-14 20:31:34.343003 Bravo: Oscar, sending you 4
+2024-10-14 20:31:34.345959 Foxtrot: Romeo and Echo, sending you 3
+2024-10-14 20:31:34.352008 Alpha: Romeo, sending you 7
+2024-10-14 20:31:34.356220 Sierra: Mike, sending you 1
+2024-10-14 20:31:34.361207 Romeo: Yankee, Foxtrot, Alpha, Mike and Echo, sending you 3
+2024-10-14 20:31:34.362945 Mike: Yankee and Alpha, sending you 2
+2024-10-14 20:31:34.364231 Whiskey: Oscar, sending you 7
+2024-10-14 20:31:34.366225 Oscar: Bravo, sending you 3
+2024-10-14 20:31:34.369800 Bravo: Sierra and Alpha, sending you 3
+2024-10-14 20:31:34.373596 Mike: Foxtrot and Romeo, sending you 3
+2024-10-14 20:31:34.378643 Whiskey: Bravo, sending you 3
+2024-10-14 20:31:34.382716 Oscar: Whiskey, sending you 7
+2024-10-14 20:31:34.387503 Bravo: Whiskey, sending you 5
+2024-10-14 20:31:34.391961 Mike: Echo, sending you 4
+2024-10-14 20:31:34.396452 Whiskey: Alpha, sending you 2
+2024-10-14 20:31:34.400832 Oscar: Echo, sending you 1
+2024-10-14 20:31:34.404008 Bravo: Echo, sending you 2
+2024-10-14 20:31:34.407622 Whiskey: Echo, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Yankee round 21
+ChatterBot Oscar round 21
+ChatterBot Foxtrot round 21
+ChatterBot Sierra round 21
+ChatterBot Bravo round 21
+ChatterBot Romeo round 21
+ChatterBot Whiskey round 21
+ChatterBot Alpha round 21
+ChatterBot Mike round 21
+ChatterBot Echo round 21
+2024-10-14 20:31:35.575354 Yankee: We should replace Sierra with Alpha
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:35.596596 Romeo: Yes
+2024-10-14 20:31:35.596915 Foxtrot: Yes
+2024-10-14 20:31:35.597172 Mike: Yes
+2024-10-14 20:31:35.597408 Echo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:35.686427 Romeo: We should add Whiskey
+2024-10-14 20:31:35.686837 Echo: We should add Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:35.721058 Yankee: No
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:35.727293 Foxtrot: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:35.732269 Mike: No
+ChatterBot Mike reevaluating
+2024-10-14 20:31:35.737792 Echo: No
+2024-10-14 20:31:35.738533 Alpha: No
+2024-10-14 20:31:35.739464 Romeo: Yes
+2024-10-14 20:31:35.739702 Yankee: Yes
+2024-10-14 20:31:35.739866 Foxtrot: Yes
+2024-10-14 20:31:35.740014 Mike: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:35.949517 Sierra: We should add Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:35.976751 Yankee: Yes
+2024-10-14 20:31:35.977011 Romeo: Yes
+2024-10-14 20:31:35.977204 Foxtrot: Yes
+2024-10-14 20:31:35.977377 Mike: Yes
+2024-10-14 20:31:35.978733 Echo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:36.151132 Romeo: We should add Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.183811 Yankee: No
+2024-10-14 20:31:36.184027 Foxtrot: No
+2024-10-14 20:31:36.184199 Mike: No
+2024-10-14 20:31:36.184397 Echo: No
+2024-10-14 20:31:36.184556 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:36.364238 Romeo: We should add Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.396302 Yankee: No
+2024-10-14 20:31:36.396482 Foxtrot: No
+2024-10-14 20:31:36.396632 Mike: No
+2024-10-14 20:31:36.396775 Echo: No
+2024-10-14 20:31:36.396920 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:36.501557 Sierra: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.510047 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:36.538541 Whiskey: We should drop Sierra and Echo
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.636913 Oscar: Yes
+2024-10-14 20:31:36.637168 Bravo: Yes
+2024-10-14 20:31:36.637365 Alpha: No
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:36.781521 Foxtrot: We should drop Echo
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.799629 Yankee: No
+2024-10-14 20:31:36.800013 Romeo: No
+2024-10-14 20:31:36.800252 Alpha: Yes
+2024-10-14 20:31:36.800732 Mike: No
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.879593 Echo: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.897290 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:36.928868 Mike: We should drop Foxtrot
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:36.945096 Yankee: No
+2024-10-14 20:31:36.945428 Romeo: No
+2024-10-14 20:31:36.945588 Alpha: Yes
+2024-10-14 20:31:36.945907 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:37.020103 Whiskey: Oscar, sending you 8
+2024-10-14 20:31:37.021464 Sierra: Foxtrot, Romeo, Mike and Echo, sending you 1
+2024-10-14 20:31:37.030974 Oscar: Bravo and Alpha, sending you 3
+2024-10-14 20:31:37.034111 Romeo: Sierra we want you to join our group
+2024-10-14 20:31:37.044932 Sierra: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:37.078776 Whiskey: Bravo, sending you 3
+2024-10-14 20:31:37.082521 Sierra: Alpha, sending you 3
+2024-10-14 20:31:37.090879 Oscar: Whiskey, sending you 8
+2024-10-14 20:31:37.094130 Mike: Yankee and Alpha, sending you 3
+2024-10-14 20:31:37.098842 Bravo: Oscar, sending you 8
+2024-10-14 20:31:37.102551 Whiskey: Alpha, sending you 2
+chatterbot Mike submitting transactions
+2024-10-14 20:31:37.105914 Mike: Romeo and Echo, sending you 4
+2024-10-14 20:31:37.109821 Bravo: Whiskey, sending you 9
+2024-10-14 20:31:37.126383 Romeo: Yankee, Foxtrot and Alpha, sending you 3
+2024-10-14 20:31:37.164566 Alpha: Yankee and Mike, sending you 3
+2024-10-14 20:31:37.169552 Romeo: Sierra, Mike and Echo, sending you 2
+2024-10-14 20:31:37.175755 Alpha: Foxtrot, sending you 4
+2024-10-14 20:31:37.185440 Alpha: Romeo, sending you 7
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Yankee round 22
+ChatterBot Oscar round 22
+ChatterBot Foxtrot round 22
+ChatterBot Sierra round 22
+ChatterBot Bravo round 22
+ChatterBot Romeo round 22
+ChatterBot Whiskey round 22
+ChatterBot Alpha round 22
+ChatterBot Mike round 22
+ChatterBot Echo round 22
+2024-10-14 20:31:38.266883 Yankee: We should replace Sierra with Alpha
+2024-10-14 20:31:38.286177 Romeo: No
+2024-10-14 20:31:38.286424 Foxtrot: Yes
+2024-10-14 20:31:38.286594 Mike: Yes
+2024-10-14 20:31:38.286802 Echo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:38.360411 Echo: We should add Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:38.376741 Yankee: Yes
+2024-10-14 20:31:38.376916 Romeo: Yes
+2024-10-14 20:31:38.377076 Foxtrot: Yes
+2024-10-14 20:31:38.377276 Mike: Yes
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:38.490942 Echo: We should replace Foxtrot with Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:38.514743 Yankee: Yes
+2024-10-14 20:31:38.514928 Romeo: No
+2024-10-14 20:31:38.515077 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:38.563297 Foxtrot: We should drop Echo
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:38.585184 Yankee: No
+2024-10-14 20:31:38.585337 Romeo: No
+2024-10-14 20:31:38.585469 Alpha: No
+2024-10-14 20:31:38.586311 Mike: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:38.680400 Oscar: Bravo and Alpha, sending you 3
+2024-10-14 20:31:38.683301 Romeo: Yankee, Foxtrot, Alpha and Mike, sending you 3
+2024-10-14 20:31:38.690217 Bravo: Oscar, sending you 8
+2024-10-14 20:31:38.691839 Sierra: Yankee, Foxtrot, Romeo, Mike and Echo, sending you 1
+2024-10-14 20:31:38.701688 Foxtrot: We should drop Mike
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:38.728542 Yankee: No
+2024-10-14 20:31:38.729276 Romeo: No
+2024-10-14 20:31:38.729451 Alpha: No
+2024-10-14 20:31:38.729637 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:38.841570 Oscar: Whiskey, sending you 8
+2024-10-14 20:31:38.845141 Romeo: Sierra, sending you 1
+2024-10-14 20:31:38.853233 Bravo: Whiskey, sending you 9
+2024-10-14 20:31:38.855610 Whiskey: Oscar, sending you 8
+2024-10-14 20:31:38.859350 Sierra: Alpha, sending you 2
+2024-10-14 20:31:38.867879 Echo: Alpha we want you to join our group
+2024-10-14 20:31:38.878861 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:38.903503 Alpha: We should drop Foxtrot
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:38.927472 Mike: Yes
+2024-10-14 20:31:38.927690 Yankee: Yes
+2024-10-14 20:31:38.927853 Romeo: No
+2024-10-14 20:31:38.928026 Echo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:39.186963 Foxtrot: We should drop Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:39.214446 Yankee: No
+2024-10-14 20:31:39.214818 Alpha: No
+2024-10-14 20:31:39.215037 Mike: No
+2024-10-14 20:31:39.215290 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:39.333283 Romeo: Echo, sending you 2
+2024-10-14 20:31:39.350914 Whiskey: Bravo, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-14 20:31:39.356141 Mike: Yankee and Alpha, sending you 3
+2024-10-14 20:31:39.363013 Whiskey: Alpha, sending you 2
+2024-10-14 20:31:39.389974 Mike: Romeo and Echo, sending you 4
+2024-10-14 20:31:39.411857 Foxtrot: Sending you each 3
+2024-10-14 20:31:39.429516 Alpha: Yankee, sending you 4
+2024-10-14 20:31:39.447702 Alpha: Romeo, sending you 7
+2024-10-14 20:31:39.468364 Alpha: Mike, sending you 5
+2024-10-14 20:31:39.480274 Alpha: Echo, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Yankee round 23
+ChatterBot Oscar round 23
+ChatterBot Foxtrot round 23
+ChatterBot Sierra round 23
+ChatterBot Bravo round 23
+ChatterBot Romeo round 23
+ChatterBot Whiskey round 23
+ChatterBot Alpha round 23
+ChatterBot Mike round 23
+ChatterBot Echo round 23
+2024-10-14 20:31:40.778234 Echo: We should replace Foxtrot with Alpha
+2024-10-14 20:31:40.792729 Yankee: Yes
+2024-10-14 20:31:40.792971 Romeo: No
+2024-10-14 20:31:40.793213 Mike: Yes
+2024-10-14 20:31:40.846720 Foxtrot: We should replace Mike with Echo
+2024-10-14 20:31:40.875898 Yankee: No
+2024-10-14 20:31:40.878255 Romeo: No
+2024-10-14 20:31:40.878625 Alpha: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:40.933033 Echo: Alpha we want you to join our group
+2024-10-14 20:31:40.943252 Alpha: Yes
+2024-10-14 20:31:40.965286 Foxtrot: We should replace Romeo with Echo
+2024-10-14 20:31:40.981874 Yankee: No
+2024-10-14 20:31:40.982048 Alpha: No
+2024-10-14 20:31:40.982197 Mike: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:41.042070 Mike: Yankee and Alpha, sending you 3
+2024-10-14 20:31:41.047467 Whiskey: Oscar, sending you 8
+2024-10-14 20:31:41.050434 Romeo: Yankee, Foxtrot, Alpha and Mike, sending you 3
+2024-10-14 20:31:41.056986 Oscar: Bravo and Alpha, sending you 3
+2024-10-14 20:31:41.059365 Bravo: Oscar, sending you 8
+2024-10-14 20:31:41.061498 Sierra: Foxtrot, Mike and Echo, sending you 1
+2024-10-14 20:31:41.068517 Foxtrot: Echo we want you to join our group
+2024-10-14 20:31:41.075417 Echo: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:41.092608 Foxtrot: We should replace Yankee with Echo
+2024-10-14 20:31:41.111191 Romeo: No
+2024-10-14 20:31:41.111363 Alpha: No
+2024-10-14 20:31:41.111511 Mike: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 20:31:41.154937 Mike: Romeo and Echo, sending you 4
+2024-10-14 20:31:41.160359 Whiskey: Bravo, sending you 3
+2024-10-14 20:31:41.163459 Romeo: Sierra, sending you 1
+2024-10-14 20:31:41.173912 Oscar: Whiskey, sending you 8
+2024-10-14 20:31:41.177610 Bravo: Whiskey, sending you 9
+2024-10-14 20:31:41.179673 Sierra: Romeo and Alpha, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 20:31:41.189397 Alpha: Yankee, sending you 4
+2024-10-14 20:31:41.195089 Whiskey: Alpha, sending you 2
+2024-10-14 20:31:41.198345 Romeo: Echo, sending you 2
+2024-10-14 20:31:41.213446 Alpha: Romeo, sending you 7
+2024-10-14 20:31:41.243072 Alpha: Mike, sending you 5
+2024-10-14 20:31:41.258907 Alpha: Echo, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Yankee round 24
+ChatterBot Oscar round 24
+ChatterBot Foxtrot round 24
+ChatterBot Sierra round 24
+ChatterBot Bravo round 24
+ChatterBot Romeo round 24
+ChatterBot Whiskey round 24
+ChatterBot Alpha round 24
+ChatterBot Mike round 24
+ChatterBot Echo round 24
+2024-10-14 20:31:42.503488 Mike: We should add Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:42.533720 Yankee: Yes
+2024-10-14 20:31:42.533925 Romeo: No
+2024-10-14 20:31:42.534750 Alpha: No
+2024-10-14 20:31:42.535006 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:42.666724 Whiskey: We should add Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:42.681915 Oscar: No
+2024-10-14 20:31:42.682073 Bravo: No
+2024-10-14 20:31:42.682191 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:42.734654 Bravo: We should group up
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:42.756228 Bravo: We should add Alpha
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:42.806643 Yankee: No
+2024-10-14 20:31:42.806946 Oscar: Yes
+2024-10-14 20:31:42.807136 Whiskey: No
+2024-10-14 20:31:42.807668 Romeo: No
+2024-10-14 20:31:42.807862 Alpha: No
+2024-10-14 20:31:42.808001 Mike: No
+2024-10-14 20:31:42.808146 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:42.867481 Oscar: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:42.877677 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:43.438882 Sierra: We should replace Foxtrot with Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:43.482947 Yankee: Yes
+2024-10-14 20:31:43.483147 Romeo: No
+2024-10-14 20:31:43.483308 Alpha: No
+2024-10-14 20:31:43.483443 Mike: Yes
+2024-10-14 20:31:43.483584 Echo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:43.709954 Mike: We should add Bravo and Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:43.749690 Yankee: Yes
+2024-10-14 20:31:43.750042 Romeo: No
+2024-10-14 20:31:43.750290 Alpha: No
+2024-10-14 20:31:43.751054 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:43.895589 Romeo: We should replace Yankee with Oscar
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:43.937341 Foxtrot: No
+2024-10-14 20:31:43.937575 Sierra: No
+2024-10-14 20:31:43.937737 Alpha: No
+2024-10-14 20:31:43.937877 Mike: No
+2024-10-14 20:31:43.938128 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:44.094832 Alpha: We should replace Yankee with Sierra
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:44.187005 Romeo: Yes
+2024-10-14 20:31:44.187200 Mike: No
+2024-10-14 20:31:44.188705 Echo: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:44.287075 Sierra: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:44.307832 Bravo: No
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:44.364246 Romeo: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:44.378705 Oscar: No
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:44.414274 Alpha: Sierra we want you to join our group
+2024-10-14 20:31:44.422229 Sierra: Yes
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:44.444266 Oscar: We should drop Alpha
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:44.453103 Bravo: Yes
+2024-10-14 20:31:44.453299 Whiskey: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:44.476153 Mike: Bravo and Oscar we want you to join our group
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:44.494593 Bravo: No
+2024-10-14 20:31:44.494872 Oscar: No
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:44.555898 Sierra: Yankee, Mike and Echo, sending you 1
+2024-10-14 20:31:44.563708 Sierra: Romeo and Alpha, sending you 2
+2024-10-14 20:31:44.569057 Alpha: Sierra, sending you 4
+2024-10-14 20:31:44.576995 Alpha: Romeo, sending you 7
+2024-10-14 20:31:44.582686 Alpha: Mike, sending you 5
+2024-10-14 20:31:44.586112 Oscar: Yankee, Mike and Echo, sending you 1
+2024-10-14 20:31:44.592116 Mike: Yankee, Romeo and Alpha, sending you 2
+2024-10-14 20:31:44.596237 Alpha: Echo, sending you 2
+2024-10-14 20:31:44.598710 Bravo: Oscar, sending you 8
+2024-10-14 20:31:44.600463 Oscar: Bravo, sending you 3
+2024-10-14 20:31:44.605292 Mike: Bravo, sending you 1
+2024-10-14 20:31:44.610158 Romeo: Oscar, Foxtrot and Sierra, sending you 2
+2024-10-14 20:31:44.614590 Bravo: Whiskey, sending you 9
+2024-10-14 20:31:44.616498 Oscar: Whiskey, sending you 7
+2024-10-14 20:31:44.621003 Mike: Echo, sending you 3
+2024-10-14 20:31:44.626586 Romeo: Alpha, Mike and Echo, sending you 3
+2024-10-14 20:31:44.633219 Oscar: Alpha, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Yankee round 25
+ChatterBot Oscar round 25
+ChatterBot Foxtrot round 25
+ChatterBot Sierra round 25
+ChatterBot Bravo round 25
+ChatterBot Romeo round 25
+ChatterBot Whiskey round 25
+ChatterBot Alpha round 25
+ChatterBot Mike round 25
+ChatterBot Echo round 25
+2024-10-14 20:31:46.006435 Echo: We should replace Foxtrot with Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:46.021152 Yankee: Yes
+2024-10-14 20:31:46.021340 Romeo: Yes
+2024-10-14 20:31:46.021461 Mike: Yes
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:46.056603 Romeo: Friends?
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:46.084342 Bravo: No
+2024-10-14 20:31:46.084508 Oscar: Yes
+2024-10-14 20:31:46.084631 Whiskey: Yes
+2024-10-14 20:31:46.084752 Yankee: No
+2024-10-14 20:31:46.084864 Alpha: No
+2024-10-14 20:31:46.084975 Mike: No
+2024-10-14 20:31:46.085077 Echo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:46.285131 Mike: We should drop Bravo and Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:46.299676 Yankee: No
+2024-10-14 20:31:46.299828 Romeo: No
+2024-10-14 20:31:46.299943 Alpha: No
+2024-10-14 20:31:46.300048 Echo: Yes
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:46.353970 Foxtrot: I was attacked by Mike
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:46.356985 Foxtrot: Ow
+2024-10-14 20:31:46.358805 Mike: We should drop Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:46.381791 Yankee: No
+2024-10-14 20:31:46.381961 Bravo: No
+2024-10-14 20:31:46.382109 Romeo: No
+2024-10-14 20:31:46.382250 Alpha: No
+2024-10-14 20:31:46.382388 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:46.471661 Oscar: Yankee, Alpha, Mike and Echo, sending you 1
+2024-10-14 20:31:46.472609 Romeo: I was attacked by Foxtrot
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:46.493318 Romeo: I'm keeping this round to protect myself
+2024-10-14 20:31:46.495645 Romeo: Ow
+chatterbot Foxtrot submitting transactions
+2024-10-14 20:31:46.505683 Echo: Alpha we want you to join our group
+2024-10-14 20:31:46.511016 Alpha: Yes
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:46.528673 Sierra: Romeo, sending you 2
+2024-10-14 20:31:46.529937 Bravo: Oscar, sending you 8
+2024-10-14 20:31:46.530448 Alpha: Yankee and Echo, sending you 2
+2024-10-14 20:31:46.532694 Sierra: Alpha, sending you 3
+2024-10-14 20:31:46.534366 Bravo: Whiskey, sending you 9
+2024-10-14 20:31:46.535704 Alpha: Oscar and Whiskey, sending you 1
+2024-10-14 20:31:46.537001 Sierra: Mike and Echo, sending you 1
+2024-10-14 20:31:46.541660 Alpha: Romeo, sending you 5
+2024-10-14 20:31:46.545679 Alpha: Mike, sending you 3
+2024-10-14 20:31:46.559668 Mike: Yankee, sending you 2
+2024-10-14 20:31:46.565683 Mike: Bravo, sending you 1
+2024-10-14 20:31:46.570679 Mike: Romeo and Echo, sending you 4
+2024-10-14 20:31:46.575676 Mike: Alpha, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Yankee round 26
+ChatterBot Oscar round 26
+ChatterBot Foxtrot round 26
+ChatterBot Sierra round 26
+ChatterBot Bravo round 26
+ChatterBot Romeo round 26
+ChatterBot Whiskey round 26
+ChatterBot Alpha round 26
+ChatterBot Mike round 26
+ChatterBot Echo round 26
+2024-10-14 20:31:47.888968 Sierra: We should drop Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:47.918861 Yankee: No
+2024-10-14 20:31:47.919376 Romeo: No
+2024-10-14 20:31:47.919792 Alpha: No
+2024-10-14 20:31:47.920161 Mike: No
+2024-10-14 20:31:47.920483 Echo: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:48.029703 Bravo: Yankee, Romeo, Alpha, Mike and Echo, sending you 2
+2024-10-14 20:31:48.034897 Foxtrot: I was attacked by Alpha
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:48.038410 Foxtrot: Ow
+2024-10-14 20:31:48.039328 Bravo: Oscar, sending you 3
+2024-10-14 20:31:48.040925 Mike: Oscar and Whiskey we want you to join our group
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:48.054238 Oscar: Yes
+2024-10-14 20:31:48.054445 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:48.117517 Bravo: Whiskey, sending you 4
+2024-10-14 20:31:48.125117 Alpha: We should drop Whiskey
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:48.151179 Mike: No
+2024-10-14 20:31:48.151402 Yankee: No
+2024-10-14 20:31:48.151524 Bravo: No
+2024-10-14 20:31:48.151641 Romeo: No
+2024-10-14 20:31:48.151760 Echo: No
+2024-10-14 20:31:48.151865 Oscar: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+chatterbot Bravo submitting transactions
+2024-10-14 20:31:48.284681 Sierra: Romeo, sending you 2
+2024-10-14 20:31:48.289681 Alpha: Yankee and Echo, sending you 3
+2024-10-14 20:31:48.291662 Sierra: Alpha, sending you 3
+2024-10-14 20:31:48.294678 Alpha: Oscar, sending you 2
+2024-10-14 20:31:48.296113 Sierra: Mike and Echo, sending you 1
+2024-10-14 20:31:48.299681 Alpha: Romeo, sending you 4
+2024-10-14 20:31:48.303657 Alpha: Whiskey, sending you 1
+2024-10-14 20:31:48.307676 Alpha: Mike, sending you 5
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 27
+ChatterBot Oscar round 27
+ChatterBot Foxtrot round 27
+ChatterBot Sierra round 27
+ChatterBot Bravo round 27
+ChatterBot Romeo round 27
+ChatterBot Whiskey round 27
+ChatterBot Alpha round 27
+ChatterBot Mike round 27
+ChatterBot Echo round 27
+2024-10-14 20:31:49.440811 Whiskey: We should add Alpha and Echo
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:49.468722 Yankee: Yes
+2024-10-14 20:31:49.468984 Bravo: No
+2024-10-14 20:31:49.469191 Oscar: Yes
+2024-10-14 20:31:49.469390 Romeo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:49.545750 Romeo: We should add Sierra
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:49.567884 Bravo: No
+2024-10-14 20:31:49.568052 Oscar: No
+2024-10-14 20:31:49.568154 Whiskey: No
+2024-10-14 20:31:49.568253 Yankee: No
+2024-10-14 20:31:49.568352 Alpha: No
+2024-10-14 20:31:49.568482 Mike: No
+2024-10-14 20:31:49.568592 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:49.758054 Alpha: We should drop Echo
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 20:31:49.777402 Oscar: No
+2024-10-14 20:31:49.777589 Whiskey: No
+2024-10-14 20:31:49.777719 Yankee: No
+2024-10-14 20:31:49.777831 Bravo: No
+2024-10-14 20:31:49.777931 Romeo: No
+2024-10-14 20:31:49.778030 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Yankee submitting transactions
+2024-10-14 20:31:49.898948 Whiskey: Alpha and Echo we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:49.913750 Alpha: Yes
+2024-10-14 20:31:49.914039 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:49.976214 Sierra: Romeo, sending you 2
+2024-10-14 20:31:49.977731 Mike: We should drop Oscar and Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:49.993483 Yankee: No
+2024-10-14 20:31:49.993672 Bravo: No
+2024-10-14 20:31:49.993789 Romeo: No
+2024-10-14 20:31:49.993894 Alpha: No
+2024-10-14 20:31:49.993982 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:50.080989 Romeo: I was attacked by Foxtrot
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:50.105721 Romeo: I'm keeping this round to protect myself
+2024-10-14 20:31:50.108196 Romeo: Ow
+2024-10-14 20:31:50.108823 Sierra: Alpha, sending you 3
+2024-10-14 20:31:50.114683 Sierra: Mike and Echo, sending you 1
+2024-10-14 20:31:50.116878 Alpha: We should drop Mike
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:50.142618 Whiskey: Yes
+2024-10-14 20:31:50.142791 Oscar: No
+2024-10-14 20:31:50.142924 Yankee: No
+2024-10-14 20:31:50.143052 Bravo: No
+2024-10-14 20:31:50.143174 Romeo: No
+2024-10-14 20:31:50.143296 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Sierra submitting transactions
+2024-10-14 20:31:50.277673 Mike: Yankee and Romeo, sending you 2
+2024-10-14 20:31:50.280004 Bravo: Yankee, Romeo, Alpha, Mike and Echo, sending you 2
+2024-10-14 20:31:50.281788 Mike: Oscar, Bravo and Whiskey, sending you 1
+2024-10-14 20:31:50.286666 Bravo: Oscar, sending you 3
+2024-10-14 20:31:50.287937 Mike: Alpha, sending you 3
+2024-10-14 20:31:50.291691 Alpha: Yankee, Romeo and Echo, sending you 2
+2024-10-14 20:31:50.294065 Bravo: Whiskey, sending you 4
+2024-10-14 20:31:50.297376 Mike: Echo, sending you 4
+2024-10-14 20:31:50.300660 Alpha: Oscar and Whiskey, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Yankee round 28
+ChatterBot Oscar round 28
+ChatterBot Foxtrot round 28
+ChatterBot Sierra round 28
+ChatterBot Bravo round 28
+ChatterBot Romeo round 28
+ChatterBot Whiskey round 28
+ChatterBot Alpha round 28
+ChatterBot Mike round 28
+ChatterBot Echo round 28
+2024-10-14 20:31:51.436626 Whiskey: We should add Alpha and Echo
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:51.460976 Yankee: Yes
+2024-10-14 20:31:51.461207 Bravo: Yes
+2024-10-14 20:31:51.461367 Oscar: Yes
+2024-10-14 20:31:51.461534 Romeo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:51.541955 Echo: We should replace Foxtrot with Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:51.556047 Yankee: Yes
+2024-10-14 20:31:51.556184 Romeo: Yes
+2024-10-14 20:31:51.556289 Mike: Yes
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:51.617639 Mike: We should drop Romeo and Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:51.636403 Oscar: No
+2024-10-14 20:31:51.636574 Whiskey: No
+2024-10-14 20:31:51.636683 Yankee: No
+2024-10-14 20:31:51.636793 Alpha: No
+2024-10-14 20:31:51.636892 Echo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 20:31:51.766252 Alpha: We should drop Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:51.785097 Oscar: No
+2024-10-14 20:31:51.785220 Whiskey: No
+2024-10-14 20:31:51.785319 Yankee: Yes
+2024-10-14 20:31:51.785412 Romeo: Yes
+2024-10-14 20:31:51.785539 Echo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:51.883123 Foxtrot: I was attacked by Alpha
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:51.887070 Foxtrot: Ow
+2024-10-14 20:31:51.887939 Sierra: We should add Oscar and Whiskey
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:51.907695 Yankee: No
+2024-10-14 20:31:51.907858 Romeo: Yes
+2024-10-14 20:31:51.907965 Alpha: Yes
+2024-10-14 20:31:51.908061 Mike: Yes
+2024-10-14 20:31:51.908195 Echo: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:52.010702 Bravo: I was attacked by Foxtrot
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:52.039036 Bravo: I'm keeping this round to protect myself
+2024-10-14 20:31:52.041535 Bravo: Ow
+2024-10-14 20:31:52.049063 Sierra: Oscar and Whiskey we want you to join our group
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:52.061474 Oscar: No
+2024-10-14 20:31:52.061709 Whiskey: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+chatterbot Mike submitting transactions
+2024-10-14 20:31:52.153693 Sierra: Romeo, sending you 2
+2024-10-14 20:31:52.155777 Romeo: Yankee, Alpha, Mike and Echo, sending you 3
+2024-10-14 20:31:52.157504 Alpha: Yankee and Echo, sending you 4
+2024-10-14 20:31:52.158745 Mike: Yankee, sending you 3
+2024-10-14 20:31:52.160442 Sierra: Alpha, sending you 3
+2024-10-14 20:31:52.161697 Romeo: Oscar, sending you 2
+2024-10-14 20:31:52.163096 Alpha: Oscar and Whiskey, sending you 2
+2024-10-14 20:31:52.164057 Sierra: Mike and Echo, sending you 1
+2024-10-14 20:31:52.165444 Mike: Oscar and Whiskey, sending you 1
+2024-10-14 20:31:52.166611 Romeo: Whiskey, sending you 1
+2024-10-14 20:31:52.168682 Alpha: Romeo, sending you 5
+2024-10-14 20:31:52.169623 Mike: Alpha, sending you 4
+2024-10-14 20:31:52.172684 Mike: Echo, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Yankee round 29
+ChatterBot Oscar round 29
+ChatterBot Foxtrot round 29
+ChatterBot Sierra round 29
+ChatterBot Bravo round 29
+ChatterBot Romeo round 29
+ChatterBot Whiskey round 29
+ChatterBot Alpha round 29
+ChatterBot Mike round 29
+ChatterBot Echo round 29
+2024-10-14 20:31:53.255232 Sierra: We should add Bravo
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:53.297371 Oscar: No
+2024-10-14 20:31:53.297558 Whiskey: Yes
+2024-10-14 20:31:53.297684 Yankee: No
+2024-10-14 20:31:53.297798 Romeo: No
+2024-10-14 20:31:53.297906 Alpha: No
+2024-10-14 20:31:53.298008 Mike: No
+2024-10-14 20:31:53.298112 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:53.583379 Sierra: Bravo we want you to join our group
+2024-10-14 20:31:53.589926 Bravo: No
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:53.622681 Sierra: Let's form a team
+2024-10-14 20:31:53.626144 Bravo: No
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:53.629986 Mike: We should replace Yankee with Romeo
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:53.645813 Oscar: No
+2024-10-14 20:31:53.646 Whiskey: Yes
+2024-10-14 20:31:53.646117 Alpha: Yes
+2024-10-14 20:31:53.646227 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:53.714014 Whiskey: We should add Alpha and Echo
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:53.729429 Yankee: Yes
+2024-10-14 20:31:53.729630 Bravo: Yes
+2024-10-14 20:31:53.729746 Oscar: Yes
+2024-10-14 20:31:53.729844 Romeo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:53.796555 Alpha: We should replace Yankee with Mike
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:53.813782 Oscar: No
+2024-10-14 20:31:53.813959 Whiskey: No
+2024-10-14 20:31:53.814076 Romeo: No
+2024-10-14 20:31:53.814174 Echo: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:53.886341 Oscar: We should add Sierra
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:53.915599 Bravo: No
+2024-10-14 20:31:53.916038 Whiskey: No
+2024-10-14 20:31:53.916156 Yankee: No
+2024-10-14 20:31:53.916262 Romeo: No
+2024-10-14 20:31:53.916367 Alpha: No
+2024-10-14 20:31:53.916466 Mike: No
+2024-10-14 20:31:53.916573 Echo: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 20:31:54.135856 Alpha: Mike we want you to join our group
+2024-10-14 20:31:54.142806 Mike: No
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:54.168017 Sierra: Oscar, sending you 7
+2024-10-14 20:31:54.169741 Romeo: Yankee, Mike and Echo, sending you 2
+2024-10-14 20:31:54.175693 Romeo: Oscar and Whiskey, sending you 1
+2024-10-14 20:31:54.180782 Romeo: Alpha, sending you 4
+2024-10-14 20:31:54.188697 Alpha: Oscar, sending you 2
+2024-10-14 20:31:54.194683 Alpha: Romeo, sending you 5
+2024-10-14 20:31:54.199685 Alpha: Whiskey, sending you 1
+2024-10-14 20:31:54.203721 Alpha: Mike and Echo, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Yankee round 30
+ChatterBot Oscar round 30
+ChatterBot Foxtrot round 30
+ChatterBot Sierra round 30
+ChatterBot Bravo round 30
+ChatterBot Romeo round 30
+ChatterBot Whiskey round 30
+ChatterBot Alpha round 30
+ChatterBot Mike round 30
+ChatterBot Echo round 30
+2024-10-14 20:31:55.060279 Mike: We should replace Yankee with Romeo
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:55.076085 Oscar: No
+2024-10-14 20:31:55.076242 Whiskey: Yes
+2024-10-14 20:31:55.076349 Alpha: No
+2024-10-14 20:31:55.076458 Echo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:55.139608 Alpha: We should add Bravo
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:55.159194 Oscar: Yes
+2024-10-14 20:31:55.159352 Whiskey: Yes
+2024-10-14 20:31:55.159453 Romeo: No
+2024-10-14 20:31:55.159582 Mike: No
+2024-10-14 20:31:55.159688 Echo: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:55.297884 Alpha: Bravo we want you to join our group
+2024-10-14 20:31:55.304452 Bravo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 20:31:55.334916 Foxtrot: I was attacked by Romeo and Echo
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:55.338765 Foxtrot: Ow
+chatterbot Whiskey submitting transactions
+2024-10-14 20:31:55.340081 Mike: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:55.345451 Romeo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:55.364812 Alpha: I was attacked by Foxtrot
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:55.389926 Alpha: I'm keeping this round to protect myself
+2024-10-14 20:31:55.391961 Alpha: Ow
+2024-10-14 20:31:55.392371 Whiskey: We should add Alpha and Echo
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:55.409791 Yankee: Yes
+2024-10-14 20:31:55.410004 Bravo: Yes
+2024-10-14 20:31:55.410138 Oscar: Yes
+2024-10-14 20:31:55.410252 Romeo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:55.480776 Whiskey: We should add Alpha and Mike
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:55.497985 Yankee: Yes
+2024-10-14 20:31:55.498164 Bravo: Yes
+2024-10-14 20:31:55.498334 Oscar: Yes
+2024-10-14 20:31:55.498440 Romeo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:55.579677 Whiskey: Alpha and Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 20:31:55.588879 Alpha: No
+2024-10-14 20:31:55.589240 Echo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 20:31:55.645609 Alpha: We should replace Mike with Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:55.670860 Oscar: No
+2024-10-14 20:31:55.671052 Whiskey: No
+2024-10-14 20:31:55.671173 Bravo: No
+2024-10-14 20:31:55.671293 Romeo: No
+2024-10-14 20:31:55.671399 Echo: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 20:31:55.782704 Mike: Oscar and Whiskey, sending you 1
+2024-10-14 20:31:55.784717 Oscar: We should drop Bravo
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 20:31:55.816182 Echo: Yes
+2024-10-14 20:31:55.816384 Yankee: Yes
+2024-10-14 20:31:55.816547 Romeo: Yes
+2024-10-14 20:31:55.816712 Alpha: No
+2024-10-14 20:31:55.816868 Mike: Yes
+2024-10-14 20:31:55.816998 Whiskey: No
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 20:31:55.969488 Bravo: Yankee, Romeo, Alpha, Mike and Echo, sending you 2
+chatterbot Yankee submitting transactions
+2024-10-14 20:31:55.972701 Oscar: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-14 20:31:55.978923 Sierra: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 20:31:56.026163 Bravo: Oscar, sending you 3
+2024-10-14 20:31:56.032692 Bravo: Whiskey, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
