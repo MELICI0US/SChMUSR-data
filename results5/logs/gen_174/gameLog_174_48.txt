@@ -1,0 +1,3218 @@
+ChatterBot Papa round 1
+ChatterBot Bravo round 1
+ChatterBot Whiskey round 1
+ChatterBot Tango round 1
+ChatterBot Echo round 1
+ChatterBot Sierra round 1
+ChatterBot Charlie round 1
+ChatterBot Oscar round 1
+ChatterBot Foxtrot round 1
+ChatterBot Golf round 1
+randomSelections Papa: {Papa, Golf, Whiskey, Echo, Sierra, Tango} 
+2024-10-15 05:23:24.586838 Papa: Can we be friends?
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:23:24.598983 Golf: Yes
+2024-10-15 05:23:24.599184 Whiskey: Yes
+2024-10-15 05:23:24.599321 Echo: Yes
+2024-10-15 05:23:24.599437 Sierra: Yes
+2024-10-15 05:23:24.599583 Tango: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Charlie: {Charlie, Bravo, Papa} 
+2024-10-15 05:23:24.655929 Charlie: We should group up
+ChatterBot Bravo reevaluating
+2024-10-15 05:23:24.660534 Bravo: Yes
+2024-10-15 05:23:24.660686 Papa: No
+ChatterBot Bravo reevaluating
+randomSelections Foxtrot: {Foxtrot, Bravo, Papa, Sierra, Golf, Whiskey} 
+2024-10-15 05:23:24.672494 Foxtrot: Let's form a team
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:24.679003 Bravo: No
+2024-10-15 05:23:24.679251 Papa: No
+2024-10-15 05:23:24.679421 Sierra: No
+2024-10-15 05:23:24.679842 Golf: No
+2024-10-15 05:23:24.680038 Whiskey: No
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+randomSelections Oscar: {Oscar, Tango, Papa, Echo, Bravo, Whiskey} 
+2024-10-15 05:23:24.707662 Oscar: Friends?
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:24.713262 Tango: No
+2024-10-15 05:23:24.713740 Papa: No
+2024-10-15 05:23:24.714188 Echo: No
+2024-10-15 05:23:24.714432 Bravo: No
+2024-10-15 05:23:24.714655 Whiskey: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:23:24.751651 Oscar: Papa and Bravo, sending you 2
+2024-10-15 05:23:24.752208 Papa: Whiskey and Tango, sending you 4
+2024-10-15 05:23:24.755677 Papa: Echo, sending you 6
+2024-10-15 05:23:24.756664 Oscar: Whiskey, sending you 3
+2024-10-15 05:23:24.757560 Sierra: Papa and Echo, sending you 4
+2024-10-15 05:23:24.757983 Charlie: Papa and Bravo, sending you 4
+2024-10-15 05:23:24.758435 Echo: Papa and Tango, sending you 5
+2024-10-15 05:23:24.758796 Papa: Sierra, sending you 2
+2024-10-15 05:23:24.759668 Whiskey: Papa, Tango and Echo, sending you 4
+2024-10-15 05:23:24.759944 Foxtrot: Papa and Bravo, sending you 4
+2024-10-15 05:23:24.760179 Bravo: Papa and Charlie, sending you 5
+2024-10-15 05:23:24.761658 Oscar: Tango and Echo, sending you 5
+2024-10-15 05:23:24.762664 Sierra: Whiskey, sending you 1
+2024-10-15 05:23:24.762965 Papa: Golf, sending you 1
+2024-10-15 05:23:24.763677 Echo: Whiskey and Golf, sending you 2
+2024-10-15 05:23:24.763968 Golf: Papa and Tango, sending you 4
+2024-10-15 05:23:24.764647 Whiskey: Golf, sending you 3
+2024-10-15 05:23:24.764984 Foxtrot: Whiskey, Sierra and Golf, sending you 3
+2024-10-15 05:23:24.766695 Sierra: Tango, sending you 2
+2024-10-15 05:23:24.767003 Golf: Whiskey, sending you 3
+2024-10-15 05:23:24.767667 Echo: Sierra, sending you 3
+2024-10-15 05:23:24.770648 Tango: Papa, sending you 3
+2024-10-15 05:23:24.770975 Sierra: Golf, sending you 6
+2024-10-15 05:23:24.771670 Golf: Echo and Sierra, sending you 2
+2024-10-15 05:23:24.774655 Tango: Whiskey, sending you 1
+2024-10-15 05:23:24.777658 Tango: Echo and Sierra, sending you 4
+2024-10-15 05:23:24.780660 Tango: Golf, sending you 5
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Papa round 2
+ChatterBot Bravo round 2
+ChatterBot Whiskey round 2
+ChatterBot Tango round 2
+ChatterBot Echo round 2
+ChatterBot Sierra round 2
+2024-10-15 05:23:26.213857 Whiskey: We should add Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:23:26.331822 Papa: Yes
+2024-10-15 05:23:26.338018 Golf: No
+2024-10-15 05:23:26.338279 Echo: No
+2024-10-15 05:23:26.338463 Sierra: Yes
+2024-10-15 05:23:26.338637 Tango: Yes
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:26.617348 Echo: We should add Oscar
+2024-10-15 05:23:26.617910 Tango: We should add Oscar
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:23:26.647117 Papa: Yes
+ChatterBot Papa reevaluating
+2024-10-15 05:23:26.650621 Golf: No
+ChatterBot Golf reevaluating
+2024-10-15 05:23:26.664010 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:23:26.671971 Sierra: No
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:26.676108 Tango: Yes
+2024-10-15 05:23:26.676371 Papa: Yes
+2024-10-15 05:23:26.676522 Golf: No
+2024-10-15 05:23:26.676679 Whiskey: Yes
+2024-10-15 05:23:26.677345 Echo: Yes
+2024-10-15 05:23:26.677492 Sierra: Yes
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie round 2
+2024-10-15 05:23:26.953511 Bravo: We should replace Papa with Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:26.957550 Charlie: No
+2024-10-15 05:23:26.960898 Charlie: We should replace Papa with Oscar
+ChatterBot Bravo reevaluating
+2024-10-15 05:23:26.964884 Bravo: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Oscar round 2
+ChatterBot Foxtrot round 2
+ChatterBot Golf round 2
+2024-10-15 05:23:26.987399 Tango: We should add Oscar and Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:27.004591 Papa: Yes
+2024-10-15 05:23:27.004811 Golf: No
+2024-10-15 05:23:27.004944 Whiskey: No
+2024-10-15 05:23:27.005608 Echo: No
+2024-10-15 05:23:27.005748 Sierra: No
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:23:27.103059 Oscar: Group up?
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:27.127463 Papa: No
+2024-10-15 05:23:27.128083 Whiskey: No
+2024-10-15 05:23:27.128189 Tango: No
+2024-10-15 05:23:27.128287 Echo: No
+2024-10-15 05:23:27.128379 Sierra: Yes
+2024-10-15 05:23:27.128475 Foxtrot: No
+2024-10-15 05:23:27.128603 Golf: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:27.316458 Echo: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:27.320586 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:27.347896 Tango: Oscar and Foxtrot we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:27.355274 Oscar: Yes
+2024-10-15 05:23:27.355438 Foxtrot: No
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:27.401418 Golf: Oscar and Foxtrot we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:27.408644 Oscar: Yes
+2024-10-15 05:23:27.408795 Foxtrot: No
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:27.538241 Charlie: Sending you each 4
+2024-10-15 05:23:27.538536 Papa: Oscar and Foxtrot we want you to join our group
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:27.547347 Oscar: Yes
+2024-10-15 05:23:27.547522 Foxtrot: No
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:27.599297 Bravo: Charlie, sending you 5
+2024-10-15 05:23:27.599607 Echo: Papa, sending you 4
+2024-10-15 05:23:27.599975 Whiskey: Papa, sending you 5
+chatterbot Echo submitting transactions
+2024-10-15 05:23:27.674571 Tango: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:27.679516 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:27.702225 Bravo: Oscar, sending you 4
+2024-10-15 05:23:27.702631 Echo: Whiskey, Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:27.703570 Whiskey: Tango and Sierra, sending you 2
+2024-10-15 05:23:27.703910 Golf: Whiskey and Foxtrot, sending you 3
+2024-10-15 05:23:27.721719 Sierra: Foxtrot we want you to join our group
+2024-10-15 05:23:27.725505 Foxtrot: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:23:27.746825 Echo: Golf, sending you 1
+2024-10-15 05:23:27.748005 Whiskey: Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:27.748601 Golf: Tango and Sierra, sending you 4
+2024-10-15 05:23:27.760877 Oscar: Papa, Whiskey and Tango, sending you 3
+2024-10-15 05:23:27.761368 Golf: Echo, sending you 2
+2024-10-15 05:23:27.761844 Foxtrot: Papa, Whiskey, Tango, Echo and Sierra, sending you 3
+2024-10-15 05:23:27.769413 Oscar: Echo, Sierra, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:27.769965 Foxtrot: Golf, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 05:23:30.424593 Papa: Whiskey, Echo, Sierra, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:30.425749 Tango: Papa, Whiskey, Echo, Oscar and Golf, sending you 3
+2024-10-15 05:23:30.426417 Sierra: Papa, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:30.429715 Papa: Tango and Oscar, sending you 2
+2024-10-15 05:23:30.430376 Tango: Sierra, sending you 2
+2024-10-15 05:23:30.431721 Sierra: Whiskey, sending you 1
+2024-10-15 05:23:30.445805 Sierra: Tango, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Papa round 3
+ChatterBot Bravo round 3
+ChatterBot Whiskey round 3
+ChatterBot Tango round 3
+ChatterBot Echo round 3
+ChatterBot Sierra round 3
+ChatterBot Charlie round 3
+ChatterBot Oscar round 3
+ChatterBot Foxtrot round 3
+ChatterBot Golf round 3
+2024-10-15 05:23:31.284681 Sierra: We should add Oscar
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:31.303065 Papa: Yes
+2024-10-15 05:23:31.303228 Whiskey: Yes
+2024-10-15 05:23:31.303344 Tango: Yes
+2024-10-15 05:23:31.303953 Echo: Yes
+2024-10-15 05:23:31.304061 Foxtrot: Yes
+2024-10-15 05:23:31.304195 Golf: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:31.446653 Bravo: We should drop Oscar
+2024-10-15 05:23:31.449817 Charlie: Yes
+2024-10-15 05:23:31.452943 Sierra: Oscar we want you to join our group
+2024-10-15 05:23:31.456846 Oscar: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:31.479856 Whiskey: We should replace Sierra with Echo
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:31.495387 Papa: No
+2024-10-15 05:23:31.495662 Tango: No
+2024-10-15 05:23:31.495837 Oscar: No
+2024-10-15 05:23:31.496499 Foxtrot: No
+2024-10-15 05:23:31.496688 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:31.580246 Foxtrot: Oscar we want you to join our group
+2024-10-15 05:23:31.583643 Oscar: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:31.678638 Tango: Papa and Echo, sending you 3
+2024-10-15 05:23:31.680060 Whiskey: Echo we want you to join our group
+2024-10-15 05:23:31.686587 Echo: No
+2024-10-15 05:23:31.713035 Echo: Papa, sending you 4
+2024-10-15 05:23:31.713484 Sierra: Papa, Tango and Echo, sending you 3
+2024-10-15 05:23:31.714568 Charlie: Same as last round
+2024-10-15 05:23:31.714948 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:31.716339 Bravo: Same as last round
+2024-10-15 05:23:31.716687 Papa: Whiskey and Echo, sending you 4
+2024-10-15 05:23:31.717271 Oscar: Papa, sending you 3
+2024-10-15 05:23:31.718554 Tango: Whiskey, Sierra and Oscar, sending you 2
+2024-10-15 05:23:31.719966 Echo: Whiskey and Golf, sending you 2
+2024-10-15 05:23:31.720569 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:31.721677 Papa: Tango and Sierra, sending you 3
+2024-10-15 05:23:31.722352 Golf: Whiskey, sending you 3
+2024-10-15 05:23:31.723430 Foxtrot: Papa, Whiskey, Sierra and Golf, sending you 3
+2024-10-15 05:23:31.724624 Oscar: Whiskey, sending you 4
+2024-10-15 05:23:31.725168 Tango: Foxtrot, sending you 1
+2024-10-15 05:23:31.725762 Echo: Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:31.726695 Sierra: Foxtrot, sending you 2
+2024-10-15 05:23:31.727358 Papa: Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:31.728459 Golf: Tango and Sierra, sending you 4
+2024-10-15 05:23:31.729598 Foxtrot: Tango and Oscar, sending you 2
+2024-10-15 05:23:31.730308 Tango: Golf, sending you 4
+2024-10-15 05:23:31.731441 Oscar: Tango and Echo, sending you 5
+2024-10-15 05:23:31.732135 Sierra: Golf, sending you 4
+2024-10-15 05:23:31.733233 Papa: Golf, sending you 1
+2024-10-15 05:23:31.734601 Foxtrot: Echo, sending you 1
+2024-10-15 05:23:31.735255 Whiskey: Papa, sending you 4
+2024-10-15 05:23:31.740321 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Papa round 4
+ChatterBot Bravo round 4
+ChatterBot Whiskey round 4
+ChatterBot Tango round 4
+ChatterBot Echo round 4
+ChatterBot Sierra round 4
+ChatterBot Charlie round 4
+ChatterBot Oscar round 4
+ChatterBot Foxtrot round 4
+ChatterBot Golf round 4
+2024-10-15 05:23:32.685493 Whiskey: Papa, sending you 4
+2024-10-15 05:23:32.686592 Bravo: Same as last round
+2024-10-15 05:23:32.686911 Echo: Papa, sending you 4
+2024-10-15 05:23:32.715077 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:32.716300 Papa: Whiskey and Echo, sending you 4
+2024-10-15 05:23:32.717490 Foxtrot: Papa, Whiskey, Sierra and Golf, sending you 3
+2024-10-15 05:23:32.718217 Echo: Whiskey and Golf, sending you 2
+2024-10-15 05:23:32.719260 Sierra: Papa, Tango, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:32.719988 Charlie: Same as last round
+2024-10-15 05:23:32.720314 Tango: Papa, Echo, Oscar and Golf, sending you 3
+2024-10-15 05:23:32.722013 Oscar: Papa and Tango, sending you 3
+2024-10-15 05:23:32.723432 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:32.724387 Papa: Tango and Sierra, sending you 3
+2024-10-15 05:23:32.725832 Echo: Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:32.726944 Foxtrot: Tango and Oscar, sending you 2
+2024-10-15 05:23:32.727811 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:32.729139 Tango: Whiskey and Sierra, sending you 2
+2024-10-15 05:23:32.729910 Oscar: Whiskey, sending you 4
+2024-10-15 05:23:32.731208 Golf: Whiskey, sending you 3
+2024-10-15 05:23:32.731938 Papa: Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:32.733273 Foxtrot: Echo, sending you 1
+2024-10-15 05:23:32.734765 Tango: Foxtrot, sending you 1
+2024-10-15 05:23:32.735426 Oscar: Echo, sending you 5
+2024-10-15 05:23:32.736745 Golf: Tango and Sierra, sending you 4
+2024-10-15 05:23:32.738025 Papa: Golf, sending you 1
+2024-10-15 05:23:32.748036 Oscar: Sierra and Foxtrot, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Papa round 5
+ChatterBot Bravo round 5
+ChatterBot Whiskey round 5
+ChatterBot Tango round 5
+ChatterBot Echo round 5
+ChatterBot Sierra round 5
+ChatterBot Charlie round 5
+ChatterBot Oscar round 5
+ChatterBot Foxtrot round 5
+ChatterBot Golf round 5
+2024-10-15 05:23:33.655233 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:33.657178 Bravo: Same as last round
+2024-10-15 05:23:33.657673 Foxtrot: Papa, Whiskey, Sierra and Golf, sending you 3
+2024-10-15 05:23:33.659830 Sierra: Papa, Tango, Echo and Foxtrot, sending you 3
+2024-10-15 05:23:33.661359 Oscar: Papa, sending you 3
+2024-10-15 05:23:33.662808 Whiskey: Papa, sending you 4
+2024-10-15 05:23:33.663526 Tango: Papa and Echo, sending you 3
+2024-10-15 05:23:33.665408 Echo: Papa, sending you 4
+2024-10-15 05:23:33.667305 Charlie: Bravo, sending you 4
+2024-10-15 05:23:33.668163 Papa: Echo, sending you 4
+2024-10-15 05:23:33.670145 Sierra: Oscar, sending you 1
+2024-10-15 05:23:33.671967 Foxtrot: Tango and Oscar, sending you 2
+2024-10-15 05:23:33.674159 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:33.675584 Oscar: Whiskey, Tango and Echo, sending you 4
+2024-10-15 05:23:33.677906 Tango: Whiskey, Sierra and Oscar, sending you 2
+2024-10-15 05:23:33.679630 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:33.680744 Echo: Whiskey and Golf, sending you 2
+2024-10-15 05:23:33.682152 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:33.683361 Sierra: Golf, sending you 4
+2024-10-15 05:23:33.685192 Foxtrot: Echo, sending you 1
+2024-10-15 05:23:33.686399 Oscar: Foxtrot, sending you 2
+2024-10-15 05:23:33.688400 Tango: Foxtrot, sending you 1
+2024-10-15 05:23:33.689999 Golf: Whiskey and Sierra, sending you 3
+2024-10-15 05:23:33.692276 Echo: Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:33.693040 Tango: Golf, sending you 4
+2024-10-15 05:23:33.696799 Golf: Tango, sending you 4
+2024-10-15 05:23:33.708597 Golf: Oscar, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Papa round 6
+ChatterBot Bravo round 6
+ChatterBot Whiskey round 6
+ChatterBot Tango round 6
+ChatterBot Echo round 6
+ChatterBot Sierra round 6
+ChatterBot Charlie round 6
+ChatterBot Oscar round 6
+ChatterBot Foxtrot round 6
+ChatterBot Golf round 6
+2024-10-15 05:23:35.822543 Whiskey: Papa, sending you 4
+2024-10-15 05:23:35.823472 Foxtrot: Papa, Whiskey and Sierra, sending you 3
+2024-10-15 05:23:35.828298 Tango: Papa and Echo, sending you 3
+2024-10-15 05:23:35.830398 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:35.831704 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:35.833375 Foxtrot: Tango, Echo, Oscar and Golf, sending you 2
+2024-10-15 05:23:35.835029 Oscar: Papa and Tango, sending you 3
+2024-10-15 05:23:35.836781 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:35.838344 Echo: Papa, sending you 4
+2024-10-15 05:23:35.839035 Bravo: Sending you 6
+2024-10-15 05:23:35.839965 Tango: Whiskey, Sierra and Oscar, sending you 2
+2024-10-15 05:23:35.841723 Charlie: Same as last round
+2024-10-15 05:23:35.842144 Golf: Whiskey and Sierra, sending you 3
+2024-10-15 05:23:35.844456 Sierra: Papa, Tango, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:35.847312 Papa: Echo, sending you 4
+2024-10-15 05:23:35.849739 Oscar: Whiskey and Echo, sending you 4
+2024-10-15 05:23:35.852590 Echo: Whiskey and Golf, sending you 2
+2024-10-15 05:23:35.854293 Tango: Foxtrot, sending you 1
+2024-10-15 05:23:35.856314 Golf: Tango, sending you 4
+2024-10-15 05:23:35.858062 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:35.859749 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:35.861736 Oscar: Sierra, sending you 1
+2024-10-15 05:23:35.863706 Echo: Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:35.864318 Tango: Golf, sending you 4
+2024-10-15 05:23:35.866087 Golf: Oscar, sending you 1
+2024-10-15 05:23:35.868706 Oscar: Foxtrot, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Papa round 7
+ChatterBot Bravo round 7
+ChatterBot Whiskey round 7
+ChatterBot Tango round 7
+ChatterBot Echo round 7
+ChatterBot Sierra round 7
+ChatterBot Charlie round 7
+ChatterBot Oscar round 7
+ChatterBot Foxtrot round 7
+ChatterBot Golf round 7
+2024-10-15 05:23:37.323482 Bravo: Same as last round
+2024-10-15 05:23:37.324432 Sierra: Papa, Tango, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:37.326481 Tango: Papa, Echo and Golf, sending you 3
+2024-10-15 05:23:37.328353 Foxtrot: Papa, Whiskey and Sierra, sending you 3
+2024-10-15 05:23:37.330199 Whiskey: Papa, sending you 4
+2024-10-15 05:23:37.331517 Echo: Papa, sending you 4
+2024-10-15 05:23:37.332968 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:37.334867 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:37.337270 Tango: Whiskey, Sierra, Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:37.339276 Foxtrot: Tango, Echo, Oscar and Golf, sending you 2
+2024-10-15 05:23:37.341218 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:37.342591 Echo: Whiskey and Golf, sending you 2
+2024-10-15 05:23:37.344203 Papa: Echo, sending you 4
+2024-10-15 05:23:37.346190 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:37.348081 Charlie: Same as last round
+2024-10-15 05:23:37.348988 Oscar: Papa, Whiskey and Tango, sending you 3
+2024-10-15 05:23:37.350845 Echo: Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:37.352526 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:37.354518 Golf: Whiskey and Sierra, sending you 3
+2024-10-15 05:23:37.356367 Oscar: Echo, sending you 4
+2024-10-15 05:23:37.360733 Golf: Tango, sending you 4
+2024-10-15 05:23:37.369595 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:23:37.371509 Golf: Oscar, sending you 1
+2024-10-15 05:23:37.377977 Oscar: Foxtrot, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Papa round 8
+ChatterBot Bravo round 8
+ChatterBot Whiskey round 8
+ChatterBot Tango round 8
+ChatterBot Echo round 8
+ChatterBot Sierra round 8
+ChatterBot Charlie round 8
+ChatterBot Oscar round 8
+ChatterBot Foxtrot round 8
+ChatterBot Golf round 8
+2024-10-15 05:23:38.614046 Charlie: We should add Golf
+2024-10-15 05:23:38.617712 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:38.632556 Whiskey: We should replace Echo with Sierra
+2024-10-15 05:23:38.648048 Papa: No
+2024-10-15 05:23:38.648390 Tango: No
+2024-10-15 05:23:38.648596 Oscar: No
+2024-10-15 05:23:38.649547 Foxtrot: No
+2024-10-15 05:23:38.649871 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:38.798758 Echo: Papa, sending you 4
+2024-10-15 05:23:38.802093 Bravo: Same as last round
+2024-10-15 05:23:38.802494 Oscar: Papa, Whiskey and Tango, sending you 3
+2024-10-15 05:23:38.806606 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:38.808835 Tango: Papa, Echo and Golf, sending you 3
+2024-10-15 05:23:38.812509 Echo: Whiskey, Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:38.814032 Oscar: Echo, sending you 4
+2024-10-15 05:23:38.816367 Charlie: Bravo, sending you 4
+2024-10-15 05:23:38.817305 Whiskey: Papa, sending you 4
+2024-10-15 05:23:38.819133 Foxtrot: Papa, Whiskey, Tango, Sierra and Golf, sending you 3
+2024-10-15 05:23:38.821888 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:38.823781 Sierra: Papa, Tango, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:38.825585 Papa: Echo, sending you 4
+2024-10-15 05:23:38.827222 Tango: Whiskey, Sierra, Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:38.830020 Echo: Golf, sending you 1
+2024-10-15 05:23:38.831375 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:23:38.835032 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:38.837458 Foxtrot: Oscar, sending you 2
+2024-10-15 05:23:38.841385 Golf: Whiskey and Sierra, sending you 3
+2024-10-15 05:23:38.844568 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:38.847061 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:38.849549 Oscar: Foxtrot, sending you 2
+2024-10-15 05:23:38.851232 Golf: Tango, sending you 4
+2024-10-15 05:23:38.874523 Golf: Oscar, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 9
+ChatterBot Bravo round 9
+ChatterBot Whiskey round 9
+ChatterBot Tango round 9
+ChatterBot Echo round 9
+ChatterBot Sierra round 9
+ChatterBot Charlie round 9
+ChatterBot Oscar round 9
+ChatterBot Foxtrot round 9
+ChatterBot Golf round 9
+2024-10-15 05:23:41.024249 Charlie: We should replace Foxtrot with Sierra
+2024-10-15 05:23:41.028876 Bravo: No
+2024-10-15 05:23:41.045232 Charlie: Sierra we want you to join our group
+2024-10-15 05:23:41.051671 Sierra: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:41.067578 Whiskey: Papa, sending you 4
+2024-10-15 05:23:41.069335 Oscar: Papa, Whiskey and Tango, sending you 3
+2024-10-15 05:23:41.071029 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:41.073211 Tango: Papa, Echo and Golf, sending you 3
+2024-10-15 05:23:41.075358 Sierra: Papa, Tango, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:41.079037 Echo: Papa, sending you 4
+2024-10-15 05:23:41.079694 Bravo: Same as last round
+2024-10-15 05:23:41.080653 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:41.081231 Oscar: Echo, sending you 4
+2024-10-15 05:23:41.083901 Papa: Echo, sending you 4
+2024-10-15 05:23:41.086085 Tango: Whiskey, Sierra, Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:41.088346 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:41.090327 Echo: Whiskey, Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:41.092417 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:41.095709 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:23:41.098218 Foxtrot: Papa, Whiskey, Tango, Sierra and Golf, sending you 3
+2024-10-15 05:23:41.100482 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:41.102451 Echo: Golf, sending you 1
+2024-10-15 05:23:41.103626 Golf: Whiskey and Sierra, sending you 3
+2024-10-15 05:23:41.106212 Oscar: Foxtrot, sending you 2
+2024-10-15 05:23:41.108694 Foxtrot: Oscar, sending you 2
+2024-10-15 05:23:41.111237 Charlie: Same as last round
+2024-10-15 05:23:41.111603 Golf: Tango, sending you 4
+2024-10-15 05:23:41.115674 Golf: Oscar, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Papa round 10
+ChatterBot Bravo round 10
+ChatterBot Whiskey round 10
+ChatterBot Tango round 10
+ChatterBot Echo round 10
+ChatterBot Sierra round 10
+ChatterBot Charlie round 10
+ChatterBot Oscar round 10
+ChatterBot Foxtrot round 10
+ChatterBot Golf round 10
+2024-10-15 05:23:42.890599 Charlie: We should add Golf
+2024-10-15 05:23:42.896463 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:42.952153 Charlie: We should add Sierra
+2024-10-15 05:23:42.956859 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:42.966469 Foxtrot: We should drop Golf
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:42.999250 Papa: No
+2024-10-15 05:23:42.999507 Whiskey: Yes
+2024-10-15 05:23:42.999770 Tango: No
+2024-10-15 05:23:42.999975 Echo: No
+2024-10-15 05:23:43.000171 Sierra: No
+2024-10-15 05:23:43.001133 Oscar: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:43.382776 Oscar: Papa, Whiskey and Tango, sending you 3
+2024-10-15 05:23:43.389279 Tango: Papa, Echo and Golf, sending you 3
+2024-10-15 05:23:43.396155 Sierra: Papa, Tango, Echo, Foxtrot and Golf, sending you 3
+2024-10-15 05:23:43.401741 Echo: Papa, sending you 4
+2024-10-15 05:23:43.406511 Whiskey: We should replace Foxtrot with Sierra
+2024-10-15 05:23:43.435420 Papa: No
+2024-10-15 05:23:43.435658 Tango: No
+2024-10-15 05:23:43.436072 Echo: Yes
+2024-10-15 05:23:43.436251 Oscar: No
+2024-10-15 05:23:43.437591 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:43.553836 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:43.557414 Golf: Papa, Echo and Foxtrot, sending you 2
+chatterbot Charlie submitting transactions
+2024-10-15 05:23:43.562014 Oscar: Echo, sending you 4
+2024-10-15 05:23:43.566128 Tango: Whiskey, Sierra, Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:43.570377 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:43.572277 Echo: Whiskey, Tango, Sierra and Oscar, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-15 05:23:43.573387 Papa: Echo, sending you 4
+2024-10-15 05:23:43.576458 Golf: Whiskey and Sierra, sending you 3
+chatterbot Papa submitting transactions
+2024-10-15 05:23:43.580875 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:23:43.581991 Echo: Golf, sending you 1
+2024-10-15 05:23:43.584115 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:43.585915 Golf: Tango, sending you 4
+2024-10-15 05:23:43.588200 Oscar: Foxtrot, sending you 2
+2024-10-15 05:23:43.591549 Charlie: Same as last round
+2024-10-15 05:23:43.592243 Golf: Oscar, sending you 1
+2024-10-15 05:23:43.610947 Whiskey: Papa, sending you 4
+2024-10-15 05:23:43.616684 Whiskey: Tango, Echo, Oscar, Foxtrot and Golf, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 11
+ChatterBot Bravo round 11
+ChatterBot Whiskey round 11
+ChatterBot Tango round 11
+ChatterBot Echo round 11
+ChatterBot Sierra round 11
+ChatterBot Charlie round 11
+ChatterBot Oscar round 11
+ChatterBot Foxtrot round 11
+ChatterBot Golf round 11
+2024-10-15 05:23:44.559297 Charlie: We should add Tango
+2024-10-15 05:23:44.562964 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:44.567893 Sierra: We should drop Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:44.585712 Papa: No
+2024-10-15 05:23:44.585916 Tango: No
+2024-10-15 05:23:44.586087 Echo: No
+2024-10-15 05:23:44.586244 Oscar: No
+2024-10-15 05:23:44.586394 Foxtrot: No
+2024-10-15 05:23:44.586539 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:44.700727 Charlie: We should add Echo
+2024-10-15 05:23:44.703700 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:44.707917 Sierra: We should drop Oscar
+2024-10-15 05:23:44.724207 Papa: No
+2024-10-15 05:23:44.724442 Whiskey: No
+2024-10-15 05:23:44.724618 Tango: No
+2024-10-15 05:23:44.724780 Echo: No
+2024-10-15 05:23:44.725445 Foxtrot: No
+2024-10-15 05:23:44.725587 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:44.834342 Oscar: I was attacked by Bravo
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:45.017327 Oscar: I'm keeping this round to protect myself
+2024-10-15 05:23:45.034728 Oscar: Ow
+2024-10-15 05:23:45.037026 Charlie: We should add Whiskey
+2024-10-15 05:23:45.042280 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:45.048056 Foxtrot: We should drop Echo
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:45.073047 Whiskey: No
+2024-10-15 05:23:45.073356 Papa: No
+2024-10-15 05:23:45.073592 Tango: No
+2024-10-15 05:23:45.073823 Sierra: No
+2024-10-15 05:23:45.074749 Oscar: No
+2024-10-15 05:23:45.074971 Golf: No
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Oscar submitting transactions
+2024-10-15 05:23:45.313371 Foxtrot: We should drop Sierra
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:23:45.335609 Papa: No
+2024-10-15 05:23:45.335881 Whiskey: Yes
+2024-10-15 05:23:45.336128 Tango: No
+2024-10-15 05:23:45.337036 Echo: No
+2024-10-15 05:23:45.337288 Oscar: No
+2024-10-15 05:23:45.337425 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:23:45.476502 Charlie: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-15 05:23:45.481087 Echo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:45.488867 Sierra: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:45.508665 Echo: Yes
+2024-10-15 05:23:45.508813 Papa: Yes
+2024-10-15 05:23:45.508917 Whiskey: Yes
+2024-10-15 05:23:45.509020 Tango: No
+2024-10-15 05:23:45.509130 Oscar: No
+2024-10-15 05:23:45.509230 Golf: Yes
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:45.653629 Charlie: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-15 05:23:45.658826 Tango: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:45.666058 Charlie: We should add Sierra
+2024-10-15 05:23:45.669551 Bravo: No
+ChatterBot Charlie reevaluating
+chatterbot Echo submitting transactions
+2024-10-15 05:23:45.674591 Whiskey: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:45.682291 Sierra: Yes
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:45.704487 Charlie: We should add Golf
+2024-10-15 05:23:45.707765 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:45.835816 Echo: Papa, sending you 4
+2024-10-15 05:23:45.837528 Foxtrot: Papa, Tango, Oscar and Golf, sending you 3
+2024-10-15 05:23:45.862303 Echo: Whiskey, Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:45.865506 Foxtrot: Whiskey, sending you 5
+2024-10-15 05:23:45.868920 Golf: Papa, Whiskey and Sierra, sending you 3
+2024-10-15 05:23:45.870715 Papa: Whiskey and Echo, sending you 4
+2024-10-15 05:23:45.873192 Whiskey: Papa, sending you 5
+2024-10-15 05:23:45.875734 Echo: Golf, sending you 1
+2024-10-15 05:23:45.879264 Golf: Tango, sending you 5
+2024-10-15 05:23:45.882109 Papa: Tango, Sierra and Oscar, sending you 3
+2024-10-15 05:23:45.885963 Tango: Papa, Whiskey, Echo, Sierra and Golf, sending you 3
+2024-10-15 05:23:45.889827 Sierra: Papa, Echo and Golf, sending you 4
+2024-10-15 05:23:45.892983 Whiskey: Tango, Echo, Oscar and Golf, sending you 3
+2024-10-15 05:23:45.896888 Golf: Echo, sending you 2
+2024-10-15 05:23:45.898631 Papa: Golf, sending you 2
+2024-10-15 05:23:45.900844 Tango: Oscar, sending you 2
+2024-10-15 05:23:45.902704 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:45.904474 Whiskey: Sierra, sending you 2
+2024-10-15 05:23:45.907395 Golf: Oscar, sending you 1
+2024-10-15 05:23:45.908269 Charlie: Bravo, sending you 4
+2024-10-15 05:23:45.925520 Sierra: Tango, sending you 3
+2024-10-15 05:23:45.929048 Charlie: Echo, sending you 8
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Papa round 12
+ChatterBot Bravo round 12
+ChatterBot Whiskey round 12
+ChatterBot Tango round 12
+ChatterBot Echo round 12
+ChatterBot Sierra round 12
+ChatterBot Charlie round 12
+ChatterBot Oscar round 12
+ChatterBot Foxtrot round 12
+ChatterBot Golf round 12
+2024-10-15 05:23:47.985015 Sierra: We should replace Whiskey with Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:48.045951 Papa: No
+2024-10-15 05:23:48.046210 Tango: No
+2024-10-15 05:23:48.046433 Echo: No
+2024-10-15 05:23:48.052001 Oscar: No
+2024-10-15 05:23:48.052226 Golf: No
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:48.374281 Papa: We should add Foxtrot
+2024-10-15 05:23:48.375511 Golf: We should add Foxtrot
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:48.417875 Echo: No
+ChatterBot Papa reevaluating
+2024-10-15 05:23:48.428951 Whiskey: No
+2024-10-15 05:23:48.434227 Tango: Yes
+ChatterBot Tango reevaluating
+2024-10-15 05:23:48.441048 Sierra: Yes
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:48.447273 Oscar: Yes
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:48.454854 Golf: Yes
+2024-10-15 05:23:48.456952 Echo: No
+2024-10-15 05:23:48.457240 Papa: Yes
+2024-10-15 05:23:48.457603 Whiskey: No
+2024-10-15 05:23:48.457842 Tango: Yes
+2024-10-15 05:23:48.458650 Sierra: Yes
+2024-10-15 05:23:48.458977 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:48.962787 Charlie: We should replace Echo with Whiskey
+2024-10-15 05:23:48.967856 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:49.005426 Whiskey: We should replace Echo with Foxtrot
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:49.032970 Papa: No
+2024-10-15 05:23:49.033188 Tango: No
+2024-10-15 05:23:49.033359 Sierra: No
+2024-10-15 05:23:49.033549 Oscar: No
+2024-10-15 05:23:49.033770 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:49.159193 Papa: Foxtrot we want you to join our group
+2024-10-15 05:23:49.163286 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:49.195246 Charlie: We should replace Echo with Papa
+2024-10-15 05:23:49.197884 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:49.202081 Golf: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:49.207216 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:49.227523 Foxtrot: We should replace Echo with Sierra
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:49.241474 Whiskey: Yes
+2024-10-15 05:23:49.241681 Papa: No
+2024-10-15 05:23:49.241841 Tango: No
+2024-10-15 05:23:49.241952 Oscar: No
+2024-10-15 05:23:49.242043 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:49.313603 Tango: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:49.322779 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:49.359597 Oscar: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:49.367005 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+2024-10-15 05:23:49.406664 Echo: Papa, sending you 4
+2024-10-15 05:23:49.408286 Sierra: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:49.412834 Foxtrot: No
+2024-10-15 05:23:49.434463 Charlie: Papa we want you to join our group
+2024-10-15 05:23:49.437472 Papa: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:49.446210 Whiskey: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:49.451456 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:49.474069 Echo: Whiskey, Tango and Sierra, sending you 3
+chatterbot Papa submitting transactions
+2024-10-15 05:23:49.476102 Golf: Papa, Echo and Foxtrot, sending you 2
+2024-10-15 05:23:49.478120 Charlie: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:49.482714 Whiskey: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:49.495364 Papa: Whiskey, Tango and Sierra, sending you 3
+2024-10-15 05:23:49.499446 Tango: Papa, Echo and Golf, sending you 3
+2024-10-15 05:23:49.501747 Oscar: Papa, Whiskey, Tango and Echo, sending you 2
+2024-10-15 05:23:49.503743 Echo: Oscar and Golf, sending you 2
+2024-10-15 05:23:49.505755 Golf: Whiskey and Sierra, sending you 3
+2024-10-15 05:23:49.508090 Papa: Echo, sending you 4
+2024-10-15 05:23:49.510070 Tango: Whiskey, Sierra, Oscar and Foxtrot, sending you 2
+2024-10-15 05:23:49.511162 Oscar: Sierra, Foxtrot and Golf, sending you 1
+2024-10-15 05:23:49.514244 Golf: Tango, sending you 4
+2024-10-15 05:23:49.515834 Papa: Oscar, Foxtrot and Golf, sending you 2
+2024-10-15 05:23:49.522558 Golf: Oscar, sending you 1
+2024-10-15 05:23:49.543641 Sierra: Papa, Tango and Golf, sending you 4
+2024-10-15 05:23:49.545865 Charlie: Bravo, sending you 5
+2024-10-15 05:23:49.546369 Whiskey: Papa, sending you 4
+2024-10-15 05:23:49.555689 Charlie: Whiskey, sending you 8
+2024-10-15 05:23:49.556297 Sierra: Whiskey and Oscar, sending you 1
+2024-10-15 05:23:49.557727 Whiskey: Tango, Oscar and Golf, sending you 3
+2024-10-15 05:23:49.572954 Sierra: Foxtrot, sending you 3
+2024-10-15 05:23:49.575672 Whiskey: Sierra and Foxtrot, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 13
+ChatterBot Bravo round 13
+ChatterBot Whiskey round 13
+ChatterBot Tango round 13
+ChatterBot Echo round 13
+ChatterBot Sierra round 13
+ChatterBot Charlie round 13
+ChatterBot Oscar round 13
+ChatterBot Foxtrot round 13
+ChatterBot Golf round 13
+2024-10-15 05:23:51.760059 Charlie: We should replace Whiskey with Tango
+2024-10-15 05:23:51.763933 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:51.780424 Whiskey: We should replace Foxtrot with Echo
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:51.799973 Papa: No
+2024-10-15 05:23:51.800317 Tango: No
+2024-10-15 05:23:51.800521 Sierra: Yes
+2024-10-15 05:23:51.801397 Oscar: No
+2024-10-15 05:23:51.801797 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:51.907849 Foxtrot: We should replace Echo with Sierra
+2024-10-15 05:23:51.926896 Whiskey: No
+2024-10-15 05:23:51.927187 Papa: No
+2024-10-15 05:23:51.927377 Tango: No
+2024-10-15 05:23:51.927585 Oscar: No
+2024-10-15 05:23:51.928474 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:52.033316 Charlie: We should replace Whiskey with Sierra
+2024-10-15 05:23:52.037350 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:52.043776 Whiskey: Echo we want you to join our group
+2024-10-15 05:23:52.052230 Echo: Yes
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:52.076635 Bravo: I was attacked by Oscar
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:52.081335 Bravo: Ow
+2024-10-15 05:23:52.083349 Sierra: Echo we want you to join our group
+2024-10-15 05:23:52.090352 Echo: Yes
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:52.115988 Tango: Papa and Echo, sending you 3
+2024-10-15 05:23:52.121307 Charlie: We should replace Whiskey with Papa
+2024-10-15 05:23:52.124650 Bravo: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:52.129546 Papa: Whiskey and Echo, sending you 4
+2024-10-15 05:23:52.135084 Foxtrot: Sierra we want you to join our group
+2024-10-15 05:23:52.141647 Sierra: No
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:52.162856 Oscar: I was attacked by Bravo
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:52.193143 Oscar: I'm keeping this round to protect myself
+2024-10-15 05:23:52.197187 Oscar: Ow
+2024-10-15 05:23:52.197841 Sierra: We should replace Whiskey with Echo
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:52.222116 Papa: No
+2024-10-15 05:23:52.222293 Tango: No
+2024-10-15 05:23:52.222441 Foxtrot: No
+2024-10-15 05:23:52.222572 Golf: No
+2024-10-15 05:23:52.222756 Oscar: No
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:52.401075 Charlie: We should replace Whiskey with Echo
+2024-10-15 05:23:52.406719 Bravo: No
+ChatterBot Charlie reevaluating
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 05:23:52.601368 Sierra: Papa and Echo, sending you 4
+2024-10-15 05:23:52.605939 Charlie: Bravo, sending you 6
+2024-10-15 05:23:52.607548 Foxtrot: Whiskey, sending you 1
+2024-10-15 05:23:52.611854 Sierra: Tango and Golf, sending you 3
+2024-10-15 05:23:52.616483 Charlie: Whiskey, sending you 8
+2024-10-15 05:23:52.648148 Sierra: Oscar, sending you 1
+2024-10-15 05:23:52.698658 Sierra: Foxtrot, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Papa round 14
+ChatterBot Bravo round 14
+ChatterBot Whiskey round 14
+ChatterBot Tango round 14
+ChatterBot Echo round 14
+ChatterBot Sierra round 14
+ChatterBot Charlie round 14
+ChatterBot Oscar round 14
+ChatterBot Foxtrot round 14
+ChatterBot Golf round 14
+2024-10-15 05:23:53.885905 Sierra: We should replace Foxtrot with Whiskey
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:53.910202 Papa: Yes
+2024-10-15 05:23:53.910363 Tango: Yes
+2024-10-15 05:23:53.910483 Echo: Yes
+2024-10-15 05:23:53.910607 Oscar: Yes
+2024-10-15 05:23:53.910730 Golf: No
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:54.053975 Foxtrot: We should add Sierra
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:54.078041 Papa: Yes
+2024-10-15 05:23:54.078200 Whiskey: Yes
+2024-10-15 05:23:54.078353 Tango: Yes
+2024-10-15 05:23:54.078458 Echo: Yes
+2024-10-15 05:23:54.078551 Oscar: Yes
+2024-10-15 05:23:54.078653 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:23:54.221427 Foxtrot: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:54.227424 Sierra: No
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:23:54.264349 Tango: We should drop Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:54.299291 Echo: Yes
+2024-10-15 05:23:54.299552 Papa: Yes
+2024-10-15 05:23:54.299748 Whiskey: Yes
+2024-10-15 05:23:54.299928 Sierra: Yes
+2024-10-15 05:23:54.300656 Oscar: Yes
+2024-10-15 05:23:54.300832 Golf: No
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:54.527639 Charlie: Bravo and Echo, sending you 6
+2024-10-15 05:23:54.534035 Charlie: Sierra, sending you 5
+2024-10-15 05:23:54.536115 Golf: We should drop Oscar and Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:54.614197 Papa: No
+2024-10-15 05:23:54.614598 Whiskey: No
+2024-10-15 05:23:54.616056 Echo: No
+2024-10-15 05:23:54.616266 Sierra: Yes
+2024-10-15 05:23:54.616431 Tango: No
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 05:23:55.096531 Foxtrot: Papa, Whiskey, Tango, Sierra and Golf, sending you 3
+2024-10-15 05:23:55.102648 Sierra: Whiskey we want you to join our group
+2024-10-15 05:23:55.108342 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+2024-10-15 05:23:55.139920 Foxtrot: Oscar, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Papa round 15
+ChatterBot Bravo round 15
+ChatterBot Whiskey round 15
+ChatterBot Tango round 15
+ChatterBot Echo round 15
+ChatterBot Sierra round 15
+ChatterBot Charlie round 15
+ChatterBot Oscar round 15
+ChatterBot Foxtrot round 15
+ChatterBot Golf round 15
+2024-10-15 05:23:56.260522 Whiskey: We should replace Oscar with Foxtrot
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:23:56.407138 Papa: No
+2024-10-15 05:23:56.408027 Golf: No
+2024-10-15 05:23:56.408395 Echo: No
+2024-10-15 05:23:56.408785 Sierra: Yes
+2024-10-15 05:23:56.409641 Tango: No
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:56.599530 Papa: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:23:56.634957 Echo: Yes
+2024-10-15 05:23:56.635227 Whiskey: No
+2024-10-15 05:23:56.635428 Tango: Yes
+2024-10-15 05:23:56.636177 Sierra: Yes
+2024-10-15 05:23:56.636435 Oscar: Yes
+2024-10-15 05:23:56.636702 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:23:56.868947 Foxtrot: We should drop Oscar
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:23:56.908733 Sierra: No
+2024-10-15 05:23:56.908973 Papa: No
+2024-10-15 05:23:56.909880 Whiskey: No
+2024-10-15 05:23:56.910050 Tango: No
+2024-10-15 05:23:56.910230 Echo: No
+2024-10-15 05:23:56.910422 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:57.158136 Bravo: I was attacked by Whiskey and Tango
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:57.165487 Bravo: I'm keeping this round to protect myself
+2024-10-15 05:23:57.166867 Bravo: Ow
+2024-10-15 05:23:57.168883 Oscar: Papa, Whiskey and Echo, sending you 4
+2024-10-15 05:23:57.181441 Oscar: Tango, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-15 05:23:57.194833 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:23:57.200530 Sierra: Papa and Echo, sending you 4
+2024-10-15 05:23:57.309432 Sierra: Whiskey, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+2024-10-15 05:23:57.326851 Sierra: Tango and Golf, sending you 3
+2024-10-15 05:23:57.329800 Charlie: Echo, sending you 8
+2024-10-15 05:23:57.338554 Sierra: Oscar, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Papa round 16
+ChatterBot Bravo round 16
+ChatterBot Whiskey round 16
+ChatterBot Tango round 16
+ChatterBot Echo round 16
+ChatterBot Sierra round 16
+ChatterBot Charlie round 16
+ChatterBot Oscar round 16
+ChatterBot Foxtrot round 16
+ChatterBot Golf round 16
+2024-10-15 05:23:58.481602 Foxtrot: We should replace Golf with Oscar
+2024-10-15 05:23:58.505603 Papa: No
+2024-10-15 05:23:58.506756 Whiskey: No
+2024-10-15 05:23:58.507555 Tango: No
+2024-10-15 05:23:58.508975 Echo: No
+2024-10-15 05:23:58.511290 Sierra: No
+2024-10-15 05:23:58.612638 Charlie: We should replace Echo with Papa
+2024-10-15 05:23:58.620181 Bravo: No
+2024-10-15 05:23:58.620365 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:58.637069 Tango: We should drop Foxtrot
+2024-10-15 05:23:58.656822 Echo: Yes
+2024-10-15 05:23:58.656976 Papa: Yes
+2024-10-15 05:23:58.657082 Whiskey: Yes
+2024-10-15 05:23:58.657184 Sierra: Yes
+2024-10-15 05:23:58.657295 Oscar: Yes
+2024-10-15 05:23:58.657460 Golf: No
+2024-10-15 05:23:58.792013 Foxtrot: Oscar we want you to join our group
+2024-10-15 05:23:58.801976 Oscar: No
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:23:58.826502 Charlie: We should replace Echo with Golf
+2024-10-15 05:23:58.833805 Bravo: No
+2024-10-15 05:23:58.834033 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:23:58.857619 Sierra: Papa, sending you 5
+2024-10-15 05:23:58.860311 Oscar: Papa and Tango, sending you 3
+2024-10-15 05:23:58.868090 Sierra: Whiskey, sending you 2
+2024-10-15 05:23:58.871283 Oscar: Whiskey, sending you 5
+2024-10-15 05:23:58.877539 Sierra: Tango, Echo and Golf, sending you 3
+2024-10-15 05:23:58.935687 Oscar: Echo, sending you 4
+2024-10-15 05:23:58.940892 Sierra: Oscar, sending you 1
+2024-10-15 05:23:58.945917 Charlie: Bravo, sending you 8
+2024-10-15 05:23:58.947711 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:23:58.953991 Charlie: Echo, sending you 7
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Papa round 17
+ChatterBot Bravo round 17
+ChatterBot Whiskey round 17
+ChatterBot Tango round 17
+ChatterBot Echo round 17
+ChatterBot Sierra round 17
+ChatterBot Charlie round 17
+ChatterBot Oscar round 17
+ChatterBot Foxtrot round 17
+ChatterBot Golf round 17
+2024-10-15 05:23:59.968434 Charlie: We should replace Echo with Golf
+2024-10-15 05:23:59.976665 Bravo: No
+2024-10-15 05:23:59.976924 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:00.025228 Foxtrot: We should replace Golf with Oscar
+2024-10-15 05:24:00.047264 Papa: No
+2024-10-15 05:24:00.047733 Whiskey: Yes
+2024-10-15 05:24:00.048036 Tango: No
+2024-10-15 05:24:00.048263 Echo: No
+2024-10-15 05:24:00.049078 Sierra: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.174567 Echo: We should drop Oscar
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.194486 Papa: No
+2024-10-15 05:24:00.194690 Golf: No
+2024-10-15 05:24:00.194860 Whiskey: Yes
+2024-10-15 05:24:00.195026 Sierra: No
+2024-10-15 05:24:00.195148 Tango: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.321735 Papa: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:00.361054 Echo: Yes
+2024-10-15 05:24:00.361273 Whiskey: Yes
+2024-10-15 05:24:00.361448 Tango: Yes
+2024-10-15 05:24:00.361611 Sierra: Yes
+2024-10-15 05:24:00.361825 Oscar: Yes
+2024-10-15 05:24:00.362021 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.590161 Foxtrot: Oscar we want you to join our group
+2024-10-15 05:24:00.598820 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.645969 Charlie: Bravo, sending you 9
+2024-10-15 05:24:00.648130 Oscar: Papa and Tango, sending you 3
+2024-10-15 05:24:00.652765 Sierra: Papa, sending you 5
+2024-10-15 05:24:00.658222 Whiskey: We should drop Tango
+2024-10-15 05:24:00.689538 Papa: No
+2024-10-15 05:24:00.689790 Echo: No
+2024-10-15 05:24:00.689945 Sierra: No
+2024-10-15 05:24:00.690089 Oscar: No
+2024-10-15 05:24:00.690216 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.807602 Oscar: Whiskey, sending you 5
+2024-10-15 05:24:00.813404 Sierra: Whiskey, sending you 2
+2024-10-15 05:24:00.820007 Whiskey: We should drop Sierra
+2024-10-15 05:24:00.842260 Papa: No
+2024-10-15 05:24:00.842438 Tango: No
+2024-10-15 05:24:00.842558 Echo: No
+2024-10-15 05:24:00.842674 Oscar: No
+2024-10-15 05:24:00.842787 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:00.954635 Oscar: Echo, sending you 4
+2024-10-15 05:24:00.960834 Sierra: Tango, Echo and Golf, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-15 05:24:00.968043 Whiskey: We should drop Echo
+2024-10-15 05:24:00.988092 Papa: No
+2024-10-15 05:24:00.988322 Tango: No
+2024-10-15 05:24:00.988478 Sierra: No
+2024-10-15 05:24:00.988660 Oscar: No
+2024-10-15 05:24:00.988852 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:01.326845 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:24:01.332867 Sierra: Oscar, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 18
+ChatterBot Bravo round 18
+ChatterBot Whiskey round 18
+ChatterBot Tango round 18
+ChatterBot Echo round 18
+ChatterBot Sierra round 18
+ChatterBot Charlie round 18
+ChatterBot Oscar round 18
+ChatterBot Foxtrot round 18
+ChatterBot Golf round 18
+2024-10-15 05:24:02.200635 Charlie: We should replace Echo with Golf
+2024-10-15 05:24:02.210154 Bravo: No
+2024-10-15 05:24:02.210376 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:02.257089 Foxtrot: We should add Golf
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:02.300966 Papa: Yes
+2024-10-15 05:24:02.301266 Whiskey: Yes
+2024-10-15 05:24:02.301443 Tango: Yes
+2024-10-15 05:24:02.301577 Echo: Yes
+2024-10-15 05:24:02.301713 Sierra: Yes
+2024-10-15 05:24:02.301826 Oscar: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:02.551770 Papa: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:02.580217 Echo: Yes
+2024-10-15 05:24:02.580403 Whiskey: Yes
+2024-10-15 05:24:02.580522 Tango: Yes
+2024-10-15 05:24:02.580670 Sierra: Yes
+2024-10-15 05:24:02.580782 Oscar: Yes
+2024-10-15 05:24:02.580886 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:02.754055 Echo: We should drop Oscar
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:02.776327 Papa: No
+2024-10-15 05:24:02.776575 Golf: No
+2024-10-15 05:24:02.776728 Whiskey: No
+2024-10-15 05:24:02.776845 Sierra: Yes
+2024-10-15 05:24:02.777002 Tango: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:02.901098 Foxtrot: Golf we want you to join our group
+2024-10-15 05:24:02.947906 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:03.262405 Oscar: Papa and Whiskey, sending you 4
+2024-10-15 05:24:03.272938 Whiskey: We should drop Sierra
+2024-10-15 05:24:03.312232 Papa: No
+2024-10-15 05:24:03.312873 Tango: No
+2024-10-15 05:24:03.314207 Echo: No
+2024-10-15 05:24:03.314585 Oscar: No
+2024-10-15 05:24:03.314874 Golf: No
+2024-10-15 05:24:03.500806 Oscar: Tango and Echo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+2024-10-15 05:24:03.510800 Charlie: Bravo, sending you 10
+2024-10-15 05:24:03.514577 Sierra: Papa and Echo, sending you 4
+2024-10-15 05:24:03.522496 Oscar: Sierra, sending you 1
+2024-10-15 05:24:03.536198 Sierra: Whiskey, sending you 2
+2024-10-15 05:24:03.548851 Oscar: Golf, sending you 2
+2024-10-15 05:24:03.560707 Sierra: Tango and Golf, sending you 3
+chatterbot Charlie submitting transactions
+2024-10-15 05:24:03.638507 Sierra: Oscar, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Papa round 19
+ChatterBot Bravo round 19
+ChatterBot Whiskey round 19
+ChatterBot Tango round 19
+ChatterBot Echo round 19
+ChatterBot Sierra round 19
+ChatterBot Charlie round 19
+ChatterBot Oscar round 19
+ChatterBot Foxtrot round 19
+ChatterBot Golf round 19
+2024-10-15 05:24:04.517042 Charlie: We should replace Echo with Golf
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:04.525219 Bravo: No
+2024-10-15 05:24:04.525388 Sierra: No
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:04.577500 Tango: We should drop Foxtrot
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:04.624705 Echo: Yes
+2024-10-15 05:24:04.625495 Papa: Yes
+2024-10-15 05:24:04.625794 Whiskey: Yes
+2024-10-15 05:24:04.626010 Sierra: Yes
+2024-10-15 05:24:04.626194 Oscar: Yes
+2024-10-15 05:24:04.626392 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:05.113707 Echo: We should drop Oscar
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:05.145575 Papa: No
+2024-10-15 05:24:05.145962 Golf: No
+2024-10-15 05:24:05.146298 Whiskey: No
+2024-10-15 05:24:05.147450 Sierra: Yes
+2024-10-15 05:24:05.147987 Tango: No
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:05.332028 Charlie: We should replace Echo with Tango
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:05.342160 Bravo: No
+2024-10-15 05:24:05.342894 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:05.366734 Golf: We should drop Sierra and Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:05.393790 Whiskey: Yes
+2024-10-15 05:24:05.394054 Papa: No
+2024-10-15 05:24:05.394258 Tango: No
+2024-10-15 05:24:05.394388 Echo: Yes
+2024-10-15 05:24:05.394608 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:05.522585 Charlie: We should replace Echo with Oscar
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:05.531543 Bravo: No
+2024-10-15 05:24:05.531713 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:05.552257 Oscar: Papa and Tango, sending you 3
+chatterbot Papa submitting transactions
+2024-10-15 05:24:05.563921 Echo: We should drop Sierra
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:05.592445 Whiskey: Yes
+2024-10-15 05:24:05.592632 Papa: No
+2024-10-15 05:24:05.592773 Tango: No
+2024-10-15 05:24:05.593870 Oscar: No
+2024-10-15 05:24:05.593979 Golf: No
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:05.745314 Oscar: Whiskey, sending you 5
+chatterbot Echo submitting transactions
+2024-10-15 05:24:05.754564 Charlie: Tango we want you to join our group
+2024-10-15 05:24:05.766180 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Tango submitting transactions
+2024-10-15 05:24:05.789844 Oscar: Echo, sending you 2
+2024-10-15 05:24:05.796943 Sierra: We should drop Whiskey
+2024-10-15 05:24:05.833032 Papa: No
+2024-10-15 05:24:05.833336 Tango: No
+2024-10-15 05:24:05.833505 Echo: No
+2024-10-15 05:24:05.833685 Oscar: No
+2024-10-15 05:24:05.833871 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:06.015819 Charlie: Golf we want you to join our group
+2024-10-15 05:24:06.024550 Golf: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:06.044788 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:24:06.057540 Charlie: Oscar we want you to join our group
+2024-10-15 05:24:06.063595 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:06.076660 Charlie: We should replace Echo with Whiskey
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:06.083831 Bravo: No
+2024-10-15 05:24:06.084692 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:06.106853 Charlie: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:06.114403 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:06.162686 Sierra: Papa, Echo and Golf, sending you 4
+2024-10-15 05:24:06.167647 Charlie: Bravo, sending you 10
+2024-10-15 05:24:06.170658 Sierra: Whiskey, sending you 2
+2024-10-15 05:24:06.173941 Charlie: Oscar, sending you 8
+2024-10-15 05:24:06.178800 Sierra: Tango, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Papa round 20
+ChatterBot Bravo round 20
+ChatterBot Whiskey round 20
+ChatterBot Tango round 20
+ChatterBot Echo round 20
+ChatterBot Sierra round 20
+ChatterBot Charlie round 20
+ChatterBot Oscar round 20
+ChatterBot Foxtrot round 20
+ChatterBot Golf round 20
+2024-10-15 05:24:07.254118 Sierra: We should add Oscar
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:07.274718 Papa: Yes
+2024-10-15 05:24:07.274910 Golf: Yes
+2024-10-15 05:24:07.275048 Whiskey: Yes
+2024-10-15 05:24:07.275176 Echo: Yes
+2024-10-15 05:24:07.275305 Tango: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:07.411952 Charlie: We should replace Oscar with Echo
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:07.421522 Bravo: No
+2024-10-15 05:24:07.421799 Sierra: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:07.479809 Tango: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:07.508991 Echo: Yes
+2024-10-15 05:24:07.509221 Papa: Yes
+2024-10-15 05:24:07.509387 Whiskey: Yes
+2024-10-15 05:24:07.510834 Sierra: Yes
+2024-10-15 05:24:07.511019 Oscar: Yes
+2024-10-15 05:24:07.511183 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:07.689909 Charlie: We should replace Oscar with Foxtrot
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:07.698549 Bravo: Yes
+2024-10-15 05:24:07.699380 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:24:07.719135 Golf: We should drop Sierra and Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:07.743623 Whiskey: Yes
+2024-10-15 05:24:07.744452 Papa: No
+2024-10-15 05:24:07.744599 Tango: No
+2024-10-15 05:24:07.744749 Echo: Yes
+2024-10-15 05:24:07.744891 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:07.857691 Charlie: We should replace Oscar with Golf
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:07.867920 Bravo: No
+2024-10-15 05:24:07.868063 Sierra: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Tango submitting transactions
+2024-10-15 05:24:07.891038 Whiskey: We should drop Sierra
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:07.911945 Papa: No
+2024-10-15 05:24:07.912112 Tango: No
+2024-10-15 05:24:07.912711 Echo: Yes
+2024-10-15 05:24:07.912826 Oscar: No
+2024-10-15 05:24:07.912944 Golf: No
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:08.044726 Oscar: Papa, Tango and Echo, sending you 3
+2024-10-15 05:24:08.050913 Charlie: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 05:24:08.058143 Golf: No
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:08.079803 Whiskey: We should drop Papa
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:08.106143 Tango: No
+2024-10-15 05:24:08.106417 Echo: No
+2024-10-15 05:24:08.106649 Sierra: No
+2024-10-15 05:24:08.107512 Oscar: No
+2024-10-15 05:24:08.107682 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:08.406676 Oscar: Whiskey, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+2024-10-15 05:24:08.419833 Whiskey: We should drop Echo
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:08.499067 Papa: No
+2024-10-15 05:24:08.500427 Tango: No
+2024-10-15 05:24:08.500714 Sierra: No
+2024-10-15 05:24:08.500881 Oscar: No
+2024-10-15 05:24:08.501043 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:08.628436 Oscar: Sierra and Golf, sending you 1
+chatterbot Oscar submitting transactions
+2024-10-15 05:24:08.687089 Sierra: Oscar we want you to join our group
+2024-10-15 05:24:08.702584 Oscar: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:08.751198 Sierra: We should replace Whiskey with Oscar
+ChatterBot Echo reevaluating
+2024-10-15 05:24:08.786404 Papa: No
+2024-10-15 05:24:08.786898 Tango: No
+2024-10-15 05:24:08.787244 Echo: No
+2024-10-15 05:24:08.788462 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+chatterbot Echo submitting transactions
+2024-10-15 05:24:08.985622 Charlie: Bravo, sending you 11
+2024-10-15 05:24:09.096925 Sierra: Papa, Tango, Echo and Golf, sending you 4
+2024-10-15 05:24:09.118008 Sierra: Oscar, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Papa round 21
+ChatterBot Bravo round 21
+ChatterBot Whiskey round 21
+ChatterBot Tango round 21
+ChatterBot Echo round 21
+ChatterBot Sierra round 21
+ChatterBot Charlie round 21
+ChatterBot Oscar round 21
+ChatterBot Foxtrot round 21
+ChatterBot Golf round 21
+chatterbot Echo submitting transactions
+2024-10-15 05:24:09.842366 Charlie: We should drop Sierra
+2024-10-15 05:24:09.848961 Bravo: Yes
+2024-10-15 05:24:09.849114 Golf: No
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:09.861738 Papa: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:09.882734 Echo: Yes
+2024-10-15 05:24:09.882927 Whiskey: Yes
+2024-10-15 05:24:09.883755 Tango: Yes
+2024-10-15 05:24:09.883897 Sierra: Yes
+2024-10-15 05:24:09.884016 Oscar: Yes
+2024-10-15 05:24:09.884145 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:10.057497 Bravo: I was attacked by Echo, Oscar and Golf
+ChatterBot Charlie reevaluating
+2024-10-15 05:24:10.063678 Bravo: I'm keeping this round to protect myself
+2024-10-15 05:24:10.064911 Bravo: Ow
+2024-10-15 05:24:10.072346 Oscar: Papa and Echo, sending you 3
+2024-10-15 05:24:10.081019 Whiskey: We should drop Sierra
+ChatterBot Echo reevaluating
+2024-10-15 05:24:10.107939 Papa: No
+2024-10-15 05:24:10.108127 Tango: No
+2024-10-15 05:24:10.109356 Echo: Yes
+2024-10-15 05:24:10.109486 Oscar: No
+2024-10-15 05:24:10.109595 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:10.473330 Oscar: Whiskey, sending you 5
+chatterbot Bravo submitting transactions
+2024-10-15 05:24:10.483879 Sierra: Papa, Tango, Echo and Golf, sending you 4
+2024-10-15 05:24:10.490363 Oscar: Tango, sending you 4
+2024-10-15 05:24:10.499266 Charlie: Bravo, sending you 6
+2024-10-15 05:24:10.502167 Sierra: Oscar, sending you 1
+2024-10-15 05:24:10.509935 Oscar: Golf, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 22
+ChatterBot Bravo round 22
+ChatterBot Whiskey round 22
+ChatterBot Tango round 22
+ChatterBot Echo round 22
+ChatterBot Sierra round 22
+ChatterBot Charlie round 22
+ChatterBot Oscar round 22
+ChatterBot Foxtrot round 22
+ChatterBot Golf round 22
+2024-10-15 05:24:11.951381 Papa: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:11.990850 Echo: Yes
+2024-10-15 05:24:11.991159 Whiskey: Yes
+2024-10-15 05:24:11.991356 Tango: Yes
+2024-10-15 05:24:11.991530 Sierra: Yes
+2024-10-15 05:24:11.991731 Oscar: Yes
+2024-10-15 05:24:11.991911 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:12.564580 Whiskey: We should drop Sierra
+ChatterBot Echo reevaluating
+2024-10-15 05:24:12.591783 Papa: No
+2024-10-15 05:24:12.592163 Tango: No
+2024-10-15 05:24:12.593197 Echo: Yes
+2024-10-15 05:24:12.593447 Oscar: No
+2024-10-15 05:24:12.593646 Golf: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:12.729048 Charlie: Bravo, sending you 5
+2024-10-15 05:24:12.732908 Oscar: Papa and Echo, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-15 05:24:12.746113 Charlie: Oscar, sending you 8
+2024-10-15 05:24:12.750248 Oscar: Whiskey and Tango, sending you 4
+2024-10-15 05:24:12.760276 Sierra: Papa, Tango, Echo and Golf, sending you 4
+2024-10-15 05:24:12.768098 Oscar: Sierra, sending you 1
+2024-10-15 05:24:12.777658 Sierra: Oscar, sending you 1
+2024-10-15 05:24:12.811293 Oscar: Golf, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Papa round 23
+ChatterBot Bravo round 23
+ChatterBot Whiskey round 23
+ChatterBot Tango round 23
+ChatterBot Echo round 23
+ChatterBot Sierra round 23
+ChatterBot Charlie round 23
+ChatterBot Oscar round 23
+ChatterBot Foxtrot round 23
+ChatterBot Golf round 23
+2024-10-15 05:24:13.909431 Sierra: We should replace Oscar with Whiskey
+2024-10-15 05:24:13.931079 Papa: No
+2024-10-15 05:24:13.931276 Tango: No
+2024-10-15 05:24:13.931443 Echo: No
+2024-10-15 05:24:13.931606 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:14.044904 Golf: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:14.095263 Echo: Yes
+2024-10-15 05:24:14.095621 Papa: Yes
+2024-10-15 05:24:14.095834 Whiskey: Yes
+2024-10-15 05:24:14.096056 Tango: Yes
+2024-10-15 05:24:14.096262 Sierra: Yes
+2024-10-15 05:24:14.096437 Oscar: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:14.506476 Whiskey: We should drop Sierra
+2024-10-15 05:24:14.540880 Papa: No
+2024-10-15 05:24:14.541197 Tango: No
+2024-10-15 05:24:14.541449 Echo: No
+2024-10-15 05:24:14.541632 Oscar: No
+2024-10-15 05:24:14.542514 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:24:14.703229 Oscar: Papa and Tango, sending you 3
+2024-10-15 05:24:14.722143 Oscar: Whiskey and Echo, sending you 4
+2024-10-15 05:24:14.735327 Sierra: Whiskey, sending you 1
+2024-10-15 05:24:14.742440 Oscar: Sierra, sending you 1
+2024-10-15 05:24:14.751672 Sierra: Tango and Golf, sending you 5
+2024-10-15 05:24:14.759555 Oscar: Golf, sending you 2
+2024-10-15 05:24:14.768797 Sierra: Echo, sending you 4
+2024-10-15 05:24:14.781209 Sierra: Oscar, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Papa round 24
+ChatterBot Bravo round 24
+ChatterBot Whiskey round 24
+ChatterBot Tango round 24
+ChatterBot Echo round 24
+ChatterBot Sierra round 24
+ChatterBot Charlie round 24
+ChatterBot Oscar round 24
+ChatterBot Foxtrot round 24
+ChatterBot Golf round 24
+2024-10-15 05:24:15.885868 Sierra: We should replace Whiskey with Papa
+2024-10-15 05:24:15.899541 Tango: No
+2024-10-15 05:24:15.899740 Echo: No
+2024-10-15 05:24:15.899862 Oscar: No
+2024-10-15 05:24:15.899965 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:15.961555 Echo: We should drop Sierra
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:15.976586 Whiskey: Yes
+2024-10-15 05:24:15.976787 Papa: No
+2024-10-15 05:24:15.976908 Tango: No
+2024-10-15 05:24:15.977003 Oscar: No
+2024-10-15 05:24:15.977093 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:16.041299 Papa: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:16.057852 Echo: Yes
+2024-10-15 05:24:16.058031 Whiskey: Yes
+2024-10-15 05:24:16.058148 Tango: Yes
+2024-10-15 05:24:16.058259 Sierra: Yes
+2024-10-15 05:24:16.058360 Oscar: Yes
+2024-10-15 05:24:16.058481 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:16.175697 Foxtrot: Papa and Golf, sending you 1
+2024-10-15 05:24:16.180674 Sierra: Papa we want you to join our group
+2024-10-15 05:24:16.185300 Papa: Yes
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:16.207923 Oscar: Papa, Tango and Echo, sending you 3
+chatterbot Echo submitting transactions
+2024-10-15 05:24:16.217678 Oscar: Whiskey, sending you 5
+2024-10-15 05:24:16.230213 Oscar: Sierra, sending you 1
+2024-10-15 05:24:16.238681 Oscar: Golf, sending you 2
+2024-10-15 05:24:16.241809 Sierra: Papa, Tango and Golf, sending you 4
+2024-10-15 05:24:16.249675 Sierra: Echo, sending you 3
+2024-10-15 05:24:16.259013 Sierra: Oscar, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Papa round 25
+ChatterBot Bravo round 25
+ChatterBot Whiskey round 25
+ChatterBot Tango round 25
+ChatterBot Echo round 25
+ChatterBot Sierra round 25
+ChatterBot Charlie round 25
+ChatterBot Oscar round 25
+ChatterBot Foxtrot round 25
+ChatterBot Golf round 25
+2024-10-15 05:24:17.481849 Papa: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:17.512135 Echo: Yes
+2024-10-15 05:24:17.512960 Whiskey: Yes
+2024-10-15 05:24:17.513233 Tango: Yes
+2024-10-15 05:24:17.513480 Sierra: Yes
+2024-10-15 05:24:17.513771 Oscar: Yes
+2024-10-15 05:24:17.514078 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:17.658005 Echo: We should drop Sierra
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:17.672457 Whiskey: Yes
+2024-10-15 05:24:17.672652 Papa: No
+2024-10-15 05:24:17.673345 Tango: No
+2024-10-15 05:24:17.673447 Oscar: No
+2024-10-15 05:24:17.673542 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:17.748669 Foxtrot: Golf, sending you 1
+2024-10-15 05:24:17.759693 Sierra: Papa and Tango, sending you 4
+2024-10-15 05:24:17.765668 Sierra: Echo and Oscar, sending you 2
+2024-10-15 05:24:17.770677 Oscar: Papa and Tango, sending you 3
+2024-10-15 05:24:17.772731 Sierra: Golf, sending you 5
+2024-10-15 05:24:17.775659 Oscar: Whiskey and Echo, sending you 4
+2024-10-15 05:24:17.780688 Oscar: Sierra, sending you 1
+2024-10-15 05:24:17.786747 Oscar: Golf, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Papa round 26
+ChatterBot Bravo round 26
+ChatterBot Whiskey round 26
+ChatterBot Tango round 26
+ChatterBot Echo round 26
+ChatterBot Sierra round 26
+ChatterBot Charlie round 26
+ChatterBot Oscar round 26
+ChatterBot Foxtrot round 26
+ChatterBot Golf round 26
+2024-10-15 05:24:18.891064 Sierra: We should replace Oscar with Whiskey
+2024-10-15 05:24:18.907498 Papa: No
+2024-10-15 05:24:18.907789 Tango: No
+2024-10-15 05:24:18.908018 Echo: No
+2024-10-15 05:24:18.908241 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:18.976878 Whiskey: We should drop Echo
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:18.998163 Papa: No
+2024-10-15 05:24:18.998437 Tango: No
+2024-10-15 05:24:18.999463 Sierra: No
+2024-10-15 05:24:18.999659 Oscar: No
+2024-10-15 05:24:18.999923 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:19.109177 Echo: We should drop Sierra
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:19.126012 Whiskey: Yes
+2024-10-15 05:24:19.126231 Papa: No
+2024-10-15 05:24:19.126403 Tango: No
+2024-10-15 05:24:19.126596 Oscar: No
+2024-10-15 05:24:19.126813 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:19.206655 Papa: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:19.225416 Echo: Yes
+2024-10-15 05:24:19.225599 Whiskey: Yes
+2024-10-15 05:24:19.225738 Tango: Yes
+2024-10-15 05:24:19.225852 Sierra: Yes
+2024-10-15 05:24:19.225961 Oscar: Yes
+2024-10-15 05:24:19.226071 Golf: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:19.372668 Bravo: I was attacked by Foxtrot
+2024-10-15 05:24:19.372920 Bravo: I'm keeping this round to protect myself
+2024-10-15 05:24:19.373138 Bravo: Ow
+2024-10-15 05:24:19.373471 Sierra: Whiskey we want you to join our group
+2024-10-15 05:24:19.377587 Whiskey: No
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:19.394927 Sierra: We should add Whiskey
+2024-10-15 05:24:19.410886 Papa: Yes
+2024-10-15 05:24:19.411122 Tango: Yes
+2024-10-15 05:24:19.411289 Echo: Yes
+2024-10-15 05:24:19.411440 Oscar: Yes
+2024-10-15 05:24:19.411586 Golf: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-15 05:24:19.483686 Foxtrot: Papa, sending you 2
+2024-10-15 05:24:19.486645 Oscar: Papa, Tango and Echo, sending you 3
+2024-10-15 05:24:19.489271 Foxtrot: Whiskey, Tango, Sierra and Oscar, sending you 1
+2024-10-15 05:24:19.492666 Oscar: Whiskey, sending you 5
+2024-10-15 05:24:19.494938 Foxtrot: Golf, sending you 3
+2024-10-15 05:24:19.497653 Oscar: Sierra and Golf, sending you 1
+2024-10-15 05:24:19.517651 Sierra: Papa and Tango, sending you 4
+2024-10-15 05:24:19.521819 Sierra: Whiskey, sending you 1
+2024-10-15 05:24:19.526653 Sierra: Echo, sending you 2
+2024-10-15 05:24:19.530653 Sierra: Golf, sending you 6
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 27
+ChatterBot Bravo round 27
+ChatterBot Whiskey round 27
+ChatterBot Tango round 27
+ChatterBot Echo round 27
+ChatterBot Sierra round 27
+ChatterBot Charlie round 27
+ChatterBot Oscar round 27
+ChatterBot Foxtrot round 27
+ChatterBot Golf round 27
+2024-10-15 05:24:20.340481 Echo: We should drop Sierra
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:20.368059 Whiskey: No
+2024-10-15 05:24:20.368314 Papa: No
+2024-10-15 05:24:20.368504 Tango: No
+2024-10-15 05:24:20.368686 Oscar: No
+2024-10-15 05:24:20.369549 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:24:20.459004 Golf: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:20.487153 Echo: Yes
+2024-10-15 05:24:20.487364 Papa: Yes
+2024-10-15 05:24:20.487501 Whiskey: Yes
+2024-10-15 05:24:20.487630 Tango: Yes
+2024-10-15 05:24:20.487750 Sierra: No
+2024-10-15 05:24:20.487901 Oscar: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:20.599511 Foxtrot: We should drop Echo
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:20.614819 Whiskey: No
+2024-10-15 05:24:20.614991 Papa: No
+2024-10-15 05:24:20.615089 Tango: No
+2024-10-15 05:24:20.615180 Sierra: Yes
+2024-10-15 05:24:20.615267 Oscar: No
+2024-10-15 05:24:20.615367 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:24:20.713766 Bravo: I was attacked by Foxtrot
+2024-10-15 05:24:20.714162 Bravo: I'm keeping this round to protect myself
+2024-10-15 05:24:20.714336 Bravo: Ow
+2024-10-15 05:24:20.717838 Foxtrot: We should drop Sierra
+2024-10-15 05:24:20.739393 Papa: No
+2024-10-15 05:24:20.739680 Whiskey: Yes
+2024-10-15 05:24:20.739896 Tango: No
+2024-10-15 05:24:20.740085 Echo: Yes
+2024-10-15 05:24:20.740263 Oscar: No
+2024-10-15 05:24:20.740877 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:24:20.859504 Oscar: Papa and Tango, sending you 3
+chatterbot Papa submitting transactions
+2024-10-15 05:24:20.864672 Oscar: Whiskey and Echo, sending you 4
+2024-10-15 05:24:20.871670 Oscar: Sierra, sending you 1
+2024-10-15 05:24:20.877663 Oscar: Golf, sending you 2
+2024-10-15 05:24:20.882662 Sierra: Papa and Tango, sending you 4
+2024-10-15 05:24:20.887678 Sierra: Echo and Oscar, sending you 2
+2024-10-15 05:24:20.893657 Sierra: Golf, sending you 5
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 28
+ChatterBot Bravo round 28
+ChatterBot Whiskey round 28
+ChatterBot Tango round 28
+ChatterBot Echo round 28
+ChatterBot Sierra round 28
+ChatterBot Charlie round 28
+ChatterBot Oscar round 28
+ChatterBot Foxtrot round 28
+ChatterBot Golf round 28
+2024-10-15 05:24:21.984213 Sierra: We should replace Oscar with Whiskey
+2024-10-15 05:24:22.000810 Papa: No
+2024-10-15 05:24:22.001036 Tango: No
+2024-10-15 05:24:22.001180 Echo: No
+2024-10-15 05:24:22.001297 Foxtrot: No
+2024-10-15 05:24:22.001416 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:22.081388 Tango: We should drop Foxtrot
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:22.098328 Echo: Yes
+2024-10-15 05:24:22.098529 Papa: Yes
+2024-10-15 05:24:22.098666 Whiskey: Yes
+2024-10-15 05:24:22.098818 Sierra: No
+2024-10-15 05:24:22.098933 Oscar: Yes
+2024-10-15 05:24:22.099063 Golf: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:22.211161 Sierra: We should replace Papa with Whiskey
+ChatterBot Oscar reevaluating
+2024-10-15 05:24:22.228639 Tango: No
+2024-10-15 05:24:22.228818 Echo: No
+2024-10-15 05:24:22.228927 Oscar: No
+2024-10-15 05:24:22.229023 Foxtrot: No
+2024-10-15 05:24:22.229128 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:24:22.316588 Whiskey: We should drop Sierra
+ChatterBot Oscar reevaluating
+2024-10-15 05:24:22.329720 Papa: No
+2024-10-15 05:24:22.329881 Tango: No
+2024-10-15 05:24:22.329983 Echo: Yes
+2024-10-15 05:24:22.330076 Oscar: Yes
+2024-10-15 05:24:22.330169 Golf: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:24:22.392991 Sierra: We should replace Tango with Whiskey
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:24:22.406401 Papa: No
+2024-10-15 05:24:22.406538 Echo: No
+2024-10-15 05:24:22.406632 Oscar: No
+2024-10-15 05:24:22.406748 Foxtrot: No
+2024-10-15 05:24:22.406840 Golf: No
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:24:22.469826 Papa: We should drop Sierra and Foxtrot
+2024-10-15 05:24:22.480707 Whiskey: Yes
+2024-10-15 05:24:22.480882 Tango: No
+2024-10-15 05:24:22.480996 Echo: Yes
+2024-10-15 05:24:22.481099 Oscar: Yes
+2024-10-15 05:24:22.481203 Golf: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 05:24:22.566676 Sierra: Papa and Tango, sending you 4
+2024-10-15 05:24:22.572680 Sierra: Echo and Foxtrot, sending you 1
+2024-10-15 05:24:22.574214 Oscar: Papa, sending you 3
+2024-10-15 05:24:22.577662 Sierra: Oscar, sending you 2
+2024-10-15 05:24:22.579690 Oscar: Whiskey, Tango and Echo, sending you 4
+2024-10-15 05:24:22.582684 Sierra: Golf, sending you 5
+2024-10-15 05:24:22.585667 Oscar: Golf, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Papa round 29
+ChatterBot Bravo round 29
+ChatterBot Whiskey round 29
+ChatterBot Tango round 29
+ChatterBot Echo round 29
+ChatterBot Sierra round 29
+ChatterBot Charlie round 29
+ChatterBot Oscar round 29
+ChatterBot Foxtrot round 29
+ChatterBot Golf round 29
+2024-10-15 05:24:23.499856 Sierra: We should replace Echo with Whiskey
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:24:23.516597 Papa: No
+2024-10-15 05:24:23.516802 Tango: No
+2024-10-15 05:24:23.516932 Oscar: No
+2024-10-15 05:24:23.517062 Foxtrot: No
+2024-10-15 05:24:23.517190 Golf: No
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 05:24:23.641140 Foxtrot: We should replace Oscar with Sierra
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:23.655923 Papa: No
+2024-10-15 05:24:23.656062 Whiskey: No
+2024-10-15 05:24:23.656189 Tango: No
+2024-10-15 05:24:23.656281 Echo: No
+2024-10-15 05:24:23.656376 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:24:23.732805 Echo: We should drop Sierra
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:23.746375 Whiskey: Yes
+2024-10-15 05:24:23.746525 Papa: Yes
+2024-10-15 05:24:23.746667 Tango: No
+2024-10-15 05:24:23.746781 Oscar: Yes
+2024-10-15 05:24:23.746891 Golf: No
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 05:24:23.812030 Tango: We should drop Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 05:24:23.827036 Echo: Yes
+2024-10-15 05:24:23.827212 Papa: Yes
+2024-10-15 05:24:23.827335 Whiskey: Yes
+2024-10-15 05:24:23.827460 Sierra: No
+2024-10-15 05:24:23.827584 Oscar: Yes
+2024-10-15 05:24:23.827704 Golf: Yes
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 05:24:23.926681 Oscar: Papa, Whiskey, Tango and Echo, sending you 4
+2024-10-15 05:24:23.928829 Papa: We should drop Sierra and Foxtrot
+2024-10-15 05:24:23.944944 Whiskey: Yes
+2024-10-15 05:24:23.945242 Tango: No
+2024-10-15 05:24:23.945420 Echo: Yes
+2024-10-15 05:24:23.945603 Oscar: Yes
+2024-10-15 05:24:23.945799 Golf: No
+2024-10-15 05:24:24.041885 Oscar: Golf, sending you 1
+2024-10-15 05:24:24.045687 Foxtrot: Papa, Whiskey, Tango and Oscar, sending you 3
+2024-10-15 05:24:24.047745 Sierra: Papa, sending you 4
+chatterbot Charlie submitting transactions
+2024-10-15 05:24:24.051661 Foxtrot: Golf, sending you 5
+2024-10-15 05:24:24.052866 Sierra: Tango and Golf, sending you 5
+2024-10-15 05:24:24.057684 Sierra: Echo, sending you 1
+2024-10-15 05:24:24.061728 Sierra: Oscar, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 30
+ChatterBot Bravo round 30
+ChatterBot Whiskey round 30
+ChatterBot Tango round 30
+ChatterBot Echo round 30
+ChatterBot Sierra round 30
+ChatterBot Charlie round 30
+ChatterBot Oscar round 30
+ChatterBot Foxtrot round 30
+ChatterBot Golf round 30
+2024-10-15 05:24:25.183402 Foxtrot: We should replace Oscar with Sierra
+ChatterBot Tango reevaluating
+2024-10-15 05:24:25.200338 Papa: No
+2024-10-15 05:24:25.200531 Whiskey: No
+2024-10-15 05:24:25.200645 Tango: No
+2024-10-15 05:24:25.200754 Echo: No
+2024-10-15 05:24:25.200851 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:24:25.275999 Papa: We should drop Sierra and Foxtrot
+ChatterBot Tango reevaluating
+2024-10-15 05:24:25.290043 Whiskey: Yes
+2024-10-15 05:24:25.290206 Tango: Yes
+2024-10-15 05:24:25.290318 Echo: Yes
+2024-10-15 05:24:25.290420 Oscar: Yes
+2024-10-15 05:24:25.290547 Golf: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:24:25.366442 Echo: We should drop Sierra
+ChatterBot Tango reevaluating
+2024-10-15 05:24:25.379941 Whiskey: Yes
+2024-10-15 05:24:25.380089 Papa: Yes
+2024-10-15 05:24:25.380199 Tango: Yes
+2024-10-15 05:24:25.380299 Oscar: Yes
+2024-10-15 05:24:25.380398 Golf: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 05:24:25.462658 Sierra: Papa, sending you 3
+2024-10-15 05:24:25.467695 Oscar: Papa, Whiskey, Tango and Echo, sending you 4
+2024-10-15 05:24:25.469329 Foxtrot: Papa, Whiskey, Tango and Oscar, sending you 3
+2024-10-15 05:24:25.470901 Sierra: Tango, sending you 6
+2024-10-15 05:24:25.472688 Oscar: Golf, sending you 1
+2024-10-15 05:24:25.474331 Foxtrot: Golf, sending you 5
+2024-10-15 05:24:25.476694 Sierra: Echo, Oscar and Foxtrot, sending you 1
+2024-10-15 05:24:25.482652 Sierra: Golf, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions

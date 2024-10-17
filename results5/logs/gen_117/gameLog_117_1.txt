@@ -1,0 +1,3631 @@
+ChatterBot Hotel round 1
+ChatterBot Whiskey round 1
+ChatterBot Quebec round 1
+ChatterBot Lima round 1
+ChatterBot Kilo round 1
+ChatterBot Bravo round 1
+ChatterBot Delta round 1
+ChatterBot Mike round 1
+ChatterBot India round 1
+ChatterBot Papa round 1
+randomSelections Whiskey: {Whiskey, Bravo} 
+2024-10-15 04:21:06.852996 Whiskey: Can we be friends?
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:06.888108 Bravo: Yes
+randomSelections Hotel: {Hotel, India, Lima, Quebec, Whiskey, Kilo} 
+2024-10-15 04:21:06.934173 Hotel: We would work well together
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:07.024932 India: Yes
+2024-10-15 04:21:07.025202 Lima: Yes
+2024-10-15 04:21:07.025447 Quebec: Yes
+2024-10-15 04:21:07.025576 Whiskey: No
+2024-10-15 04:21:07.025925 Kilo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+randomSelections Delta: {Delta, Hotel, Kilo, Whiskey, India, Lima} 
+2024-10-15 04:21:07.073368 Delta: Friends?
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:21:07.080067 Hotel: No
+2024-10-15 04:21:07.080967 Kilo: No
+2024-10-15 04:21:07.081165 Whiskey: No
+2024-10-15 04:21:07.081342 India: No
+2024-10-15 04:21:07.081472 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+randomSelections Mike: {Mike, India, Papa, Delta, Whiskey, Kilo} 
+2024-10-15 04:21:07.122559 Mike: Friends?
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:07.130422 India: No
+2024-10-15 04:21:07.131209 Papa: Yes
+2024-10-15 04:21:07.131349 Delta: No
+2024-10-15 04:21:07.131514 Whiskey: No
+2024-10-15 04:21:07.131729 Kilo: No
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:07.190864 Hotel: Whiskey, sending you 1
+2024-10-15 04:21:07.191473 Bravo: Sending you 9
+2024-10-15 04:21:07.192826 Whiskey: Sending you 12
+2024-10-15 04:21:07.193283 Lima: Hotel, sending you 4
+2024-10-15 04:21:07.193798 Quebec: Hotel, Whiskey and Kilo, sending you 5
+2024-10-15 04:21:07.199983 India: Hotel and Kilo, sending you 3
+2024-10-15 04:21:07.201432 Mike: Whiskey, sending you 2
+2024-10-15 04:21:07.202161 Hotel: Quebec, sending you 6
+2024-10-15 04:21:07.203417 Lima: Whiskey, sending you 6
+2024-10-15 04:21:07.204222 Kilo: Hotel, sending you 1
+2024-10-15 04:21:07.205889 Quebec: Lima and India, sending you 2
+2024-10-15 04:21:07.207057 Mike: Kilo and Delta, sending you 6
+2024-10-15 04:21:07.208270 India: Whiskey, Quebec and Lima, sending you 1
+2024-10-15 04:21:07.209175 Delta: Hotel and Whiskey, sending you 4
+2024-10-15 04:21:07.210709 Hotel: Lima and India, sending you 4
+2024-10-15 04:21:07.211444 Lima: Quebec and India, sending you 1
+2024-10-15 04:21:07.213089 Kilo: Whiskey and Lima, sending you 2
+2024-10-15 04:21:07.214135 Papa: Whiskey and India, sending you 4
+2024-10-15 04:21:07.215527 Mike: Papa, sending you 3
+2024-10-15 04:21:07.216291 Hotel: Kilo, sending you 2
+2024-10-15 04:21:07.217989 Delta: Lima, sending you 2
+2024-10-15 04:21:07.219005 Lima: Kilo, sending you 2
+2024-10-15 04:21:07.220492 Kilo: Quebec, sending you 3
+2024-10-15 04:21:07.221744 Papa: Kilo, sending you 5
+2024-10-15 04:21:07.223364 Delta: Kilo, sending you 8
+2024-10-15 04:21:07.226556 Kilo: India, sending you 6
+2024-10-15 04:21:07.228545 Delta: India, sending you 1
+2024-10-15 04:21:07.230869 Papa: Delta, sending you 6
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 2
+ChatterBot Whiskey round 2
+ChatterBot Quebec round 2
+ChatterBot Lima round 2
+2024-10-15 04:21:08.217938 Hotel: Group up?
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:08.268703 Quebec: No
+2024-10-15 04:21:08.268914 Lima: No
+2024-10-15 04:21:08.269057 Kilo: No
+2024-10-15 04:21:08.269192 Delta: No
+2024-10-15 04:21:08.269326 Mike: No
+2024-10-15 04:21:08.269454 India: No
+2024-10-15 04:21:08.269580 Papa: No
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo round 2
+ChatterBot Bravo round 2
+ChatterBot Delta round 2
+ChatterBot Mike round 2
+ChatterBot India round 2
+ChatterBot Papa round 2
+2024-10-15 04:21:08.761975 Whiskey: Friends?
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:08.801646 Hotel: No
+2024-10-15 04:21:08.801841 Quebec: No
+2024-10-15 04:21:08.801943 Lima: No
+2024-10-15 04:21:08.802455 Kilo: No
+2024-10-15 04:21:08.802553 Delta: Yes
+2024-10-15 04:21:08.802668 Mike: No
+2024-10-15 04:21:08.802765 India: Yes
+2024-10-15 04:21:08.802854 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:21:09.133419 Bravo: We should add Kilo
+2024-10-15 04:21:09.137001 Whiskey: Yes
+2024-10-15 04:21:09.152440 Bravo: Kilo we want you to join our group
+2024-10-15 04:21:09.167158 Kilo: No
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:09.173935 Hotel: Quebec, sending you 6
+2024-10-15 04:21:09.343108 Hotel: Lima and Delta, sending you 4
+2024-10-15 04:21:09.344194 Whiskey: Hotel, sending you 1
+2024-10-15 04:21:09.344601 Kilo: Sending you 12
+2024-10-15 04:21:09.344798 Lima: Hotel, sending you 5
+2024-10-15 04:21:09.345585 Delta: Hotel, Quebec, Lima, Kilo and India, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-15 04:21:09.348905 Whiskey: Quebec, sending you 4
+2024-10-15 04:21:09.349218 Hotel: Kilo, sending you 1
+2024-10-15 04:21:09.350025 Lima: Quebec, Kilo, Delta and India, sending you 2
+2024-10-15 04:21:09.350287 Delta: Whiskey, sending you 1
+2024-10-15 04:21:10.614897 Mike: Hotel, Quebec, Lima, Kilo, Delta and India, sending you 3
+2024-10-15 04:21:10.615391 Whiskey: Lima, sending you 5
+2024-10-15 04:21:10.615791 India: Hotel and Papa, sending you 2
+2024-10-15 04:21:10.616682 Delta: Mike and Papa, sending you 4
+2024-10-15 04:21:10.617005 Papa: Hotel, Quebec, Lima, Kilo and Delta, sending you 1
+2024-10-15 04:21:10.617311 Bravo: Whiskey, sending you 12
+2024-10-15 04:21:10.617984 Hotel: India, sending you 3
+2024-10-15 04:21:10.618278 Lima: Papa, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-15 04:21:11.027781 Mike: Papa, sending you 2
+2024-10-15 04:21:11.028810 India: Quebec and Lima, sending you 1
+2024-10-15 04:21:11.029105 Whiskey: Kilo and Mike, sending you 2
+2024-10-15 04:21:11.029477 Bravo: Kilo, sending you 4
+2024-10-15 04:21:11.030183 Papa: Mike, sending you 14
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+2024-10-15 04:21:11.147737 Whiskey: Delta and Papa, sending you 3
+2024-10-15 04:21:11.148645 Quebec: Hotel, sending you 8
+2024-10-15 04:21:11.149016 India: Kilo, sending you 3
+2024-10-15 04:21:11.362365 Quebec: Lima and India, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+2024-10-15 04:21:11.402503 Quebec: Kilo, sending you 4
+2024-10-15 04:21:11.481952 Quebec: Delta, Mike and Papa, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Hotel round 3
+ChatterBot Whiskey round 3
+ChatterBot Quebec round 3
+ChatterBot Lima round 3
+ChatterBot Kilo round 3
+ChatterBot Bravo round 3
+ChatterBot Delta round 3
+ChatterBot Mike round 3
+ChatterBot India round 3
+ChatterBot Papa round 3
+2024-10-15 04:21:11.646698 Kilo: We should replace Delta with Papa
+2024-10-15 04:21:11.654548 Bravo: We would work well together
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:21:11.717543 Hotel: Yes
+2024-10-15 04:21:11.717741 Quebec: Yes
+2024-10-15 04:21:11.718124 Lima: No
+2024-10-15 04:21:11.718263 India: No
+2024-10-15 04:21:11.718521 Whiskey: No
+2024-10-15 04:21:11.719548 Kilo: No
+2024-10-15 04:21:11.719693 Delta: Yes
+2024-10-15 04:21:11.719912 Mike: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:12.294482 Mike: We should add Whiskey and Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:12.345486 Delta: We should add Bravo
+2024-10-15 04:21:12.345696 Hotel: Yes
+2024-10-15 04:21:12.346430 Quebec: Yes
+2024-10-15 04:21:12.346539 Lima: No
+2024-10-15 04:21:12.346653 Kilo: No
+2024-10-15 04:21:12.346754 Delta: Yes
+2024-10-15 04:21:12.346831 India: No
+2024-10-15 04:21:12.346930 Papa: No
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:12.403654 Whiskey: Yes
+2024-10-15 04:21:12.403840 Hotel: Yes
+2024-10-15 04:21:12.404487 Quebec: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:12.411009 Lima: Yes
+ChatterBot Lima reevaluating
+2024-10-15 04:21:12.417508 Kilo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:12.440955 Mike: Yes
+ChatterBot Mike reevaluating
+2024-10-15 04:21:12.448179 India: No
+ChatterBot India reevaluating
+2024-10-15 04:21:12.455278 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:21:13.544332 Whiskey: We should replace Papa with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:21:13.592951 Hotel: No
+2024-10-15 04:21:13.593106 Quebec: No
+2024-10-15 04:21:13.593227 Lima: No
+2024-10-15 04:21:13.593360 India: No
+2024-10-15 04:21:13.593490 Kilo: No
+2024-10-15 04:21:13.593633 Delta: No
+2024-10-15 04:21:13.593776 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:14.123784 India: We should add Bravo and Mike
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:14.198546 Lima: Yes
+2024-10-15 04:21:14.199282 Hotel: Yes
+2024-10-15 04:21:14.200317 Quebec: Yes
+2024-10-15 04:21:14.200699 Kilo: No
+2024-10-15 04:21:14.201048 Delta: Yes
+2024-10-15 04:21:14.202071 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:14.474151 Papa: We should replace Kilo with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:14.512983 Hotel: No
+2024-10-15 04:21:14.513149 Quebec: No
+2024-10-15 04:21:14.513283 Lima: No
+2024-10-15 04:21:14.513449 India: No
+2024-10-15 04:21:14.513568 Whiskey: No
+2024-10-15 04:21:14.514167 Delta: No
+2024-10-15 04:21:14.514287 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:14.803264 Kilo: We should replace Delta with Quebec
+2024-10-15 04:21:14.804668 Quebec: Whiskey and Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:14.816940 Whiskey: No
+2024-10-15 04:21:14.817123 Bravo: No
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:14.946438 Kilo: We should replace Delta with Hotel
+2024-10-15 04:21:14.947013 India: Bravo and Mike we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:14.959721 Bravo: No
+2024-10-15 04:21:14.959889 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:15.077076 Mike: Whiskey and Bravo we want you to join our group
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:15.120897 Whiskey: No
+2024-10-15 04:21:15.121183 Bravo: No
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:15.466671 Delta: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:15.480927 Bravo: No
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:15.611920 Papa: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:15.629096 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:15.720186 Kilo: We should replace Delta with Mike
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 04:21:15.722277 Hotel: Whiskey and Bravo we want you to join our group
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:15.735070 Whiskey: No
+2024-10-15 04:21:15.735292 Bravo: No
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:15.858495 Kilo: Mike we want you to join our group
+2024-10-15 04:21:15.864023 Mike: Yes
+chatterbot India submitting transactions
+2024-10-15 04:21:15.877967 Whiskey: Bravo we want you to join our group
+2024-10-15 04:21:15.884168 Bravo: Yes
+ChatterBot Lima reevaluating
+2024-10-15 04:21:15.926945 India: Hotel and Kilo, sending you 2
+2024-10-15 04:21:15.928549 Mike: Whiskey, sending you 3
+2024-10-15 04:21:15.928990 Quebec: Hotel, sending you 6
+2024-10-15 04:21:15.930104 Papa: Whiskey, Delta and Mike, sending you 4
+2024-10-15 04:21:16.129990 Delta: Hotel, Whiskey, Quebec, Lima, Bravo, Mike, India and Papa, sending you 2
+2024-10-15 04:21:16.131065 India: Quebec, Lima, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:16.132334 Mike: Quebec, sending you 1
+2024-10-15 04:21:16.132979 Quebec: Whiskey, sending you 3
+2024-10-15 04:21:16.134282 Bravo: Hotel, Quebec, Lima, Delta, Mike, India and Papa, sending you 1
+2024-10-15 04:21:16.134825 Papa: Quebec and Lima, sending you 2
+2024-10-15 04:21:16.136116 Hotel: Whiskey, Kilo and Mike, sending you 1
+2024-10-15 04:21:16.137600 Lima: We should drop Papa
+2024-10-15 04:21:16.173138 Hotel: No
+2024-10-15 04:21:16.173286 Quebec: No
+2024-10-15 04:21:16.173397 India: No
+2024-10-15 04:21:16.173489 Kilo: Yes
+2024-10-15 04:21:16.173600 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:21:16.340636 Delta: Kilo, sending you 3
+2024-10-15 04:21:16.342413 Mike: Delta, sending you 4
+2024-10-15 04:21:16.343771 Quebec: Lima, Kilo, Delta, Mike and India, sending you 2
+2024-10-15 04:21:16.344497 Bravo: Whiskey, sending you 9
+2024-10-15 04:21:16.345923 Papa: India, sending you 3
+2024-10-15 04:21:16.347365 Hotel: Quebec, sending you 6
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-15 04:21:16.348842 Kilo: Sending you 10
+2024-10-15 04:21:16.349154 Whiskey: Quebec, Lima, Delta and Papa, sending you 2
+2024-10-15 04:21:16.349804 Lima: Whiskey and Mike we want you to join our group
+2024-10-15 04:21:16.367940 Whiskey: No
+2024-10-15 04:21:16.368151 Mike: Yes
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:21:16.538336 Mike: Papa, sending you 12
+2024-10-15 04:21:16.539365 Hotel: Lima, sending you 5
+2024-10-15 04:21:16.545480 Hotel: Delta and India, sending you 3
+2024-10-15 04:21:16.582702 Lima: Hotel, sending you 4
+2024-10-15 04:21:16.590282 Lima: Quebec and Delta, sending you 3
+2024-10-15 04:21:16.595695 Lima: Kilo and India, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 4
+ChatterBot Whiskey round 4
+ChatterBot Quebec round 4
+ChatterBot Lima round 4
+ChatterBot Kilo round 4
+ChatterBot Bravo round 4
+ChatterBot Delta round 4
+ChatterBot Mike round 4
+ChatterBot India round 4
+ChatterBot Papa round 4
+2024-10-15 04:21:17.079004 Whiskey: We should add Papa
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:17.137471 Bravo: Yes
+2024-10-15 04:21:17.138215 Hotel: Yes
+2024-10-15 04:21:17.138344 Quebec: Yes
+2024-10-15 04:21:17.138464 Lima: No
+2024-10-15 04:21:17.138581 India: Yes
+2024-10-15 04:21:17.138708 Kilo: No
+2024-10-15 04:21:17.138819 Delta: Yes
+2024-10-15 04:21:17.138943 Mike: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:17.760753 Papa: We should add Kilo
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:17.807364 Hotel: Yes
+2024-10-15 04:21:17.807558 Quebec: Yes
+2024-10-15 04:21:17.807686 Lima: No
+2024-10-15 04:21:17.807803 India: Yes
+2024-10-15 04:21:17.808621 Whiskey: Yes
+2024-10-15 04:21:17.808763 Bravo: Yes
+2024-10-15 04:21:17.808901 Delta: Yes
+2024-10-15 04:21:17.809018 Mike: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:18.506769 Papa: Kilo we want you to join our group
+2024-10-15 04:21:18.530594 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:18.615054 India: We should drop Bravo and Kilo
+ChatterBot Hotel reevaluating
+2024-10-15 04:21:18.667968 Hotel: No
+2024-10-15 04:21:18.668203 Quebec: No
+2024-10-15 04:21:18.668364 Lima: No
+2024-10-15 04:21:18.668556 Delta: No
+2024-10-15 04:21:18.668690 Mike: No
+2024-10-15 04:21:18.668798 Papa: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 04:21:18.990631 Mike: Whiskey, sending you 2
+2024-10-15 04:21:18.992633 Whiskey: Papa we want you to join our group
+2024-10-15 04:21:19.001892 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:19.087882 Kilo: We should replace Mike with Papa
+2024-10-15 04:21:19.088254 Bravo: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:19.112772 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+2024-10-15 04:21:19.283525 Mike: Quebec and India, sending you 1
+chatterbot Mike submitting transactions
+2024-10-15 04:21:19.289706 Hotel: We should drop Whiskey and Bravo
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:21:19.380736 Quebec: No
+2024-10-15 04:21:19.381019 Lima: Yes
+2024-10-15 04:21:19.381221 Kilo: Yes
+2024-10-15 04:21:19.381443 Delta: No
+2024-10-15 04:21:19.381667 Mike: No
+2024-10-15 04:21:19.382583 India: Yes
+2024-10-15 04:21:19.382777 Papa: No
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:21:19.783743 Mike: Kilo, sending you 7
+2024-10-15 04:21:19.785523 Delta: Hotel, Whiskey, Quebec, Lima, Bravo, Mike, India and Papa, sending you 2
+2024-10-15 04:21:19.786936 Quebec: Hotel, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-15 04:21:19.790039 Mike: Delta, sending you 3
+2024-10-15 04:21:19.792742 Delta: Kilo, sending you 3
+2024-10-15 04:21:19.794757 Bravo: Hotel, Quebec, Lima, Mike, India and Papa, sending you 1
+2024-10-15 04:21:19.796418 Quebec: Whiskey, sending you 3
+2024-10-15 04:21:19.797926 Mike: Papa, sending you 6
+2024-10-15 04:21:19.800510 Bravo: Whiskey, sending you 8
+2024-10-15 04:21:19.801914 Kilo: Sorry, I'm actually sending you 0
+2024-10-15 04:21:19.802225 Quebec: Lima, Delta, Mike and India, sending you 2
+2024-10-15 04:21:19.838793 Bravo: Delta, sending you 2
+2024-10-15 04:21:19.840795 Kilo: Sending you 10
+2024-10-15 04:21:19.841159 Quebec: Kilo, Bravo and Papa, sending you 1
+2024-10-15 04:21:19.886322 Hotel: Whiskey and Mike, sending you 1
+2024-10-15 04:21:19.894346 India: Hotel, sending you 3
+2024-10-15 04:21:19.894904 Hotel: Quebec, sending you 7
+2024-10-15 04:21:19.948205 India: Quebec, Lima, Delta and Mike, sending you 1
+2024-10-15 04:21:19.949478 Hotel: Lima, sending you 5
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 04:21:19.979527 India: Papa, sending you 2
+2024-10-15 04:21:19.981338 Hotel: Delta and India, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+ChatterBot Hotel round 5
+ChatterBot Whiskey round 5
+ChatterBot Quebec round 5
+ChatterBot Lima round 5
+chatterbot Papa submitting transactions
+ChatterBot Kilo round 5
+ChatterBot Bravo round 5
+ChatterBot Delta round 5
+ChatterBot Mike round 5
+ChatterBot India round 5
+ChatterBot Papa round 5
+chatterbot Lima submitting transactions
+2024-10-15 04:21:20.931006 Whiskey: We should add Papa
+2024-10-15 04:21:21.007144 Bravo: Yes
+2024-10-15 04:21:21.007568 Hotel: Yes
+2024-10-15 04:21:21.007929 Quebec: Yes
+2024-10-15 04:21:21.008216 Lima: Yes
+2024-10-15 04:21:21.009127 India: Yes
+2024-10-15 04:21:21.009369 Kilo: Yes
+2024-10-15 04:21:21.009599 Delta: Yes
+2024-10-15 04:21:21.009844 Mike: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:21.424772 India: We should add Kilo
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:21.460850 Hotel: Yes
+2024-10-15 04:21:21.461045 Quebec: Yes
+2024-10-15 04:21:21.461210 Lima: No
+2024-10-15 04:21:21.461388 Delta: Yes
+2024-10-15 04:21:21.462125 Mike: Yes
+2024-10-15 04:21:21.462305 Papa: Yes
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:21:21.823144 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:21.831395 Papa: Yes
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:21.875212 Kilo: We should replace Papa with Mike
+2024-10-15 04:21:21.883391 Lima: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:21.897807 Kilo: No
+2024-10-15 04:21:21.924032 Quebec: Hotel, sending you 6
+2024-10-15 04:21:21.924996 Bravo: Hotel, Quebec, Lima, Mike, India and Papa, sending you 1
+2024-10-15 04:21:21.925728 Hotel: Whiskey, Bravo and Mike, sending you 1
+2024-10-15 04:21:21.926400 Mike: Hotel, Lima and India, sending you 1
+2024-10-15 04:21:21.927362 Delta: Hotel, Whiskey, Quebec, Lima, Kilo, Bravo, India and Papa, sending you 2
+2024-10-15 04:21:21.928833 Quebec: Whiskey, Lima, Delta, Mike and India, sending you 2
+2024-10-15 04:21:21.929933 Hotel: Quebec, sending you 6
+2024-10-15 04:21:21.931556 Bravo: Whiskey, sending you 8
+2024-10-15 04:21:21.933048 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:21.934551 Delta: Mike, sending you 3
+2024-10-15 04:21:21.935951 Quebec: Kilo, Bravo and Papa, sending you 1
+2024-10-15 04:21:21.937040 India: Hotel, sending you 3
+2024-10-15 04:21:21.938347 Hotel: Lima, sending you 5
+2024-10-15 04:21:21.939338 Bravo: Delta, sending you 2
+2024-10-15 04:21:21.940322 Mike: Kilo, sending you 4
+2024-10-15 04:21:21.941740 Kilo: Sending you 12
+2024-10-15 04:21:21.942118 India: Quebec, sending you 2
+2024-10-15 04:21:21.943335 Hotel: Delta and India, sending you 3
+2024-10-15 04:21:21.944688 Mike: Delta, sending you 3
+2024-10-15 04:21:21.947819 India: Lima, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:21.949692 Mike: Papa, sending you 6
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Hotel round 6
+ChatterBot Whiskey round 6
+ChatterBot Quebec round 6
+ChatterBot Lima round 6
+ChatterBot Kilo round 6
+ChatterBot Bravo round 6
+ChatterBot Delta round 6
+ChatterBot Mike round 6
+ChatterBot India round 6
+chatterbot Lima submitting transactions
+ChatterBot Papa round 6
+2024-10-15 04:21:23.094811 Lima: We should add Whiskey and Bravo
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:23.128156 India: Yes
+2024-10-15 04:21:23.128307 Hotel: Yes
+2024-10-15 04:21:23.128446 Quebec: Yes
+2024-10-15 04:21:23.128591 Delta: Yes
+2024-10-15 04:21:23.129619 Mike: Yes
+2024-10-15 04:21:23.129831 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:21:23.406381 Kilo: We should replace Papa with Mike
+2024-10-15 04:21:23.430889 Whiskey: We should replace Kilo with Papa
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:21:23.492003 Hotel: No
+2024-10-15 04:21:23.492794 Quebec: No
+2024-10-15 04:21:23.492944 Lima: Yes
+2024-10-15 04:21:23.493093 India: Yes
+2024-10-15 04:21:23.493227 Bravo: Yes
+2024-10-15 04:21:23.493378 Delta: No
+2024-10-15 04:21:23.493519 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:23.874853 Kilo: Mike we want you to join our group
+2024-10-15 04:21:23.881145 Mike: Yes
+2024-10-15 04:21:23.900272 India: Whiskey and Bravo we want you to join our group
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:23.915219 Whiskey: Yes
+2024-10-15 04:21:23.915407 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:23.979720 Papa: We should drop Hotel
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:21:24.174033 Quebec: No
+2024-10-15 04:21:24.174441 Lima: No
+2024-10-15 04:21:24.175607 India: No
+2024-10-15 04:21:24.176032 Whiskey: No
+2024-10-15 04:21:24.176310 Bravo: No
+2024-10-15 04:21:24.176538 Kilo: Yes
+2024-10-15 04:21:24.176796 Delta: No
+2024-10-15 04:21:24.176981 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+2024-10-15 04:21:24.804905 Quebec: Hotel, sending you 5
+2024-10-15 04:21:24.808892 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:21:24.812892 Bravo: We should drop Kilo
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:24.863655 Papa: No
+2024-10-15 04:21:24.863888 Hotel: No
+2024-10-15 04:21:24.864069 Quebec: No
+2024-10-15 04:21:24.864250 Lima: Yes
+2024-10-15 04:21:24.864946 India: Yes
+2024-10-15 04:21:24.865179 Whiskey: Yes
+2024-10-15 04:21:24.865364 Delta: No
+2024-10-15 04:21:24.865558 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:25.216447 Mike: Hotel, Lima and India, sending you 1
+2024-10-15 04:21:25.219466 Delta: Hotel, Whiskey, Quebec, Lima, Kilo, Bravo, India and Papa, sending you 2
+2024-10-15 04:21:25.223117 Quebec: Whiskey, sending you 3
+2024-10-15 04:21:25.225827 Hotel: Quebec, sending you 6
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+2024-10-15 04:21:25.227796 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:25.229611 Kilo: Sending you 13
+2024-10-15 04:21:25.230526 Delta: Mike, sending you 3
+2024-10-15 04:21:25.232701 Quebec: Lima, Delta, Mike and India, sending you 2
+2024-10-15 04:21:25.234566 Hotel: Lima, sending you 5
+2024-10-15 04:21:25.236301 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:25.243364 Papa: No
+ChatterBot Whiskey reevaluating
+2024-10-15 04:21:25.281843 Mike: Kilo and Delta, sending you 3
+2024-10-15 04:21:25.284602 Quebec: Kilo, Bravo and Papa, sending you 1
+2024-10-15 04:21:25.286550 Hotel: Delta and India, sending you 3
+2024-10-15 04:21:25.289280 India: Hotel, sending you 3
+2024-10-15 04:21:25.290105 Mike: Papa, sending you 7
+2024-10-15 04:21:25.292517 Bravo: Hotel, Quebec, Lima, Mike, India and Papa, sending you 1
+2024-10-15 04:21:25.293907 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:25.295684 Bravo: Whiskey, sending you 7
+2024-10-15 04:21:25.301115 Bravo: Delta, sending you 3
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 7
+ChatterBot Whiskey round 7
+ChatterBot Quebec round 7
+ChatterBot Lima round 7
+ChatterBot Kilo round 7
+ChatterBot Bravo round 7
+ChatterBot Delta round 7
+ChatterBot Mike round 7
+ChatterBot India round 7
+ChatterBot Papa round 7
+2024-10-15 04:21:26.581753 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:26.612923 Hotel: No
+2024-10-15 04:21:26.613242 Quebec: No
+2024-10-15 04:21:26.613408 Lima: No
+2024-10-15 04:21:26.613641 India: Yes
+2024-10-15 04:21:26.613850 Bravo: Yes
+2024-10-15 04:21:26.614008 Delta: Yes
+2024-10-15 04:21:26.614186 Mike: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:27.051218 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:27.060125 Papa: No
+ChatterBot Delta reevaluating
+2024-10-15 04:21:27.124042 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:21:27.126197 Mike: Hotel, Lima and India, sending you 1
+2024-10-15 04:21:27.128074 Quebec: Hotel, sending you 5
+2024-10-15 04:21:27.130046 Kilo: Sending you 14
+2024-10-15 04:21:27.131430 Delta: We should drop Kilo
+ChatterBot Papa reevaluating
+2024-10-15 04:21:27.167642 Papa: No
+2024-10-15 04:21:27.167991 Hotel: No
+2024-10-15 04:21:27.168236 Quebec: No
+2024-10-15 04:21:27.168917 Lima: Yes
+2024-10-15 04:21:27.169106 India: Yes
+2024-10-15 04:21:27.169357 Whiskey: Yes
+2024-10-15 04:21:27.169649 Bravo: Yes
+2024-10-15 04:21:27.169785 Mike: No
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:27.670123 India: Hotel, sending you 3
+2024-10-15 04:21:27.672958 Hotel: Quebec, sending you 6
+2024-10-15 04:21:27.675228 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:21:27.677991 Quebec: Whiskey, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-15 04:21:27.681441 Bravo: Hotel, Quebec, Lima, Mike, India and Papa, sending you 1
+2024-10-15 04:21:27.683481 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:27.687912 Papa: We should drop Lima
+ChatterBot Delta reevaluating
+2024-10-15 04:21:27.765033 Hotel: No
+2024-10-15 04:21:27.765370 Quebec: No
+2024-10-15 04:21:27.765589 India: No
+2024-10-15 04:21:27.765804 Whiskey: No
+2024-10-15 04:21:27.766842 Bravo: No
+2024-10-15 04:21:27.767 Kilo: Yes
+2024-10-15 04:21:27.767161 Delta: No
+2024-10-15 04:21:27.767316 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:28.559578 Hotel: Lima, sending you 5
+2024-10-15 04:21:28.563092 Mike: Kilo, sending you 6
+2024-10-15 04:21:28.566223 Quebec: Lima, Delta, Mike and India, sending you 2
+2024-10-15 04:21:28.568580 Bravo: Whiskey, sending you 7
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 04:21:28.572308 Hotel: Delta, sending you 2
+2024-10-15 04:21:28.575016 Mike: Papa, sending you 5
+2024-10-15 04:21:28.578563 Quebec: Kilo, Bravo and Papa, sending you 1
+2024-10-15 04:21:28.581923 Bravo: Delta, sending you 3
+2024-10-15 04:21:28.584815 Hotel: India, sending you 3
+2024-10-15 04:21:28.780488 Delta: Hotel, Whiskey, Quebec, Lima, Kilo, Bravo, India and Papa, sending you 2
+2024-10-15 04:21:28.876741 Delta: Mike, sending you 3
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 8
+ChatterBot Whiskey round 8
+ChatterBot Quebec round 8
+ChatterBot Lima round 8
+ChatterBot Kilo round 8
+ChatterBot Bravo round 8
+ChatterBot Delta round 8
+ChatterBot Mike round 8
+ChatterBot India round 8
+ChatterBot Papa round 8
+2024-10-15 04:21:29.096731 Kilo: We should replace Mike with Papa
+2024-10-15 04:21:29.124752 Whiskey: We should replace Kilo with Papa
+ChatterBot Delta reevaluating
+2024-10-15 04:21:29.157885 Hotel: No
+2024-10-15 04:21:29.158567 Quebec: No
+2024-10-15 04:21:29.158724 Lima: No
+2024-10-15 04:21:29.158859 India: Yes
+2024-10-15 04:21:29.158982 Bravo: Yes
+2024-10-15 04:21:29.159111 Delta: Yes
+2024-10-15 04:21:29.159226 Mike: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:29.402944 Kilo: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:29.412363 Papa: Yes
+2024-10-15 04:21:29.436742 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:29.448329 Papa: No
+ChatterBot Delta reevaluating
+chatterbot Papa submitting transactions
+2024-10-15 04:21:29.530405 India: Hotel, sending you 3
+2024-10-15 04:21:29.534328 Quebec: Hotel, sending you 5
+2024-10-15 04:21:29.536825 Hotel: Whiskey, Bravo and Mike, sending you 1
+2024-10-15 04:21:29.539689 Papa: We should drop Lima
+2024-10-15 04:21:29.612943 Hotel: No
+2024-10-15 04:21:29.613171 Quebec: No
+2024-10-15 04:21:29.614142 India: No
+2024-10-15 04:21:29.614291 Whiskey: No
+2024-10-15 04:21:29.614456 Bravo: No
+2024-10-15 04:21:29.614606 Kilo: Yes
+2024-10-15 04:21:29.614766 Delta: No
+2024-10-15 04:21:29.614936 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:30.378915 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:30.382538 Quebec: Whiskey, sending you 3
+2024-10-15 04:21:30.388839 Hotel: Quebec, sending you 6
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+2024-10-15 04:21:30.392581 Mike: Hotel, Bravo and India, sending you 1
+2024-10-15 04:21:30.396035 Bravo: Hotel, Mike, India and Papa, sending you 1
+2024-10-15 04:21:30.398385 Kilo: Sending you 14
+2024-10-15 04:21:30.399281 Delta: We should drop Kilo
+ChatterBot Papa reevaluating
+2024-10-15 04:21:30.455484 Papa: No
+2024-10-15 04:21:30.456431 Hotel: No
+2024-10-15 04:21:30.456628 Quebec: No
+2024-10-15 04:21:30.456855 Lima: Yes
+2024-10-15 04:21:30.457039 India: Yes
+2024-10-15 04:21:30.457217 Whiskey: Yes
+2024-10-15 04:21:30.457406 Bravo: Yes
+2024-10-15 04:21:30.457608 Mike: No
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:21:30.760899 Quebec: Lima, Delta, Mike and India, sending you 2
+2024-10-15 04:21:30.763568 Hotel: Lima, sending you 5
+2024-10-15 04:21:30.765509 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:21:30.767037 Bravo: Whiskey, sending you 6
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+2024-10-15 04:21:30.768934 Quebec: Kilo, Bravo and Papa, sending you 1
+2024-10-15 04:21:30.771239 Hotel: Delta, sending you 2
+2024-10-15 04:21:30.772821 Mike: Kilo, sending you 7
+2024-10-15 04:21:30.775882 Bravo: Quebec, Lima and Delta, sending you 2
+2024-10-15 04:21:30.777775 Hotel: India, sending you 4
+2024-10-15 04:21:30.799190 Mike: Papa, sending you 4
+2024-10-15 04:21:30.826059 Delta: Hotel, sending you 3
+2024-10-15 04:21:30.835263 Delta: Whiskey, Quebec, Lima, Bravo, India and Papa, sending you 2
+2024-10-15 04:21:30.842703 Delta: Mike, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 9
+ChatterBot Whiskey round 9
+ChatterBot Quebec round 9
+ChatterBot Lima round 9
+ChatterBot Kilo round 9
+ChatterBot Bravo round 9
+ChatterBot Delta round 9
+ChatterBot Mike round 9
+ChatterBot India round 9
+ChatterBot Papa round 9
+2024-10-15 04:21:31.698805 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:31.750872 Hotel: No
+2024-10-15 04:21:31.751422 Quebec: No
+2024-10-15 04:21:31.751843 Lima: No
+2024-10-15 04:21:31.752208 India: Yes
+2024-10-15 04:21:31.753416 Bravo: Yes
+2024-10-15 04:21:31.753729 Delta: Yes
+2024-10-15 04:21:31.754060 Mike: No
+2024-10-15 04:21:32.175512 Papa: We should drop Lima
+2024-10-15 04:21:32.231872 Hotel: No
+2024-10-15 04:21:32.232118 Quebec: No
+2024-10-15 04:21:32.232762 India: No
+2024-10-15 04:21:32.232893 Whiskey: No
+2024-10-15 04:21:32.233015 Bravo: No
+2024-10-15 04:21:32.233139 Kilo: Yes
+2024-10-15 04:21:32.233278 Delta: No
+2024-10-15 04:21:32.233420 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:32.616783 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:32.630963 Papa: No
+2024-10-15 04:21:32.702094 Kilo: Same as last round
+2024-10-15 04:21:32.703523 India: Hotel, sending you 3
+2024-10-15 04:21:32.707059 Bravo: Hotel, Mike, India and Papa, sending you 1
+2024-10-15 04:21:32.710634 Quebec: Hotel, sending you 5
+2024-10-15 04:21:32.713460 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:21:32.718218 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:32.722059 Bravo: Whiskey, sending you 6
+2024-10-15 04:21:32.725469 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:32.729598 Hotel: Quebec, sending you 6
+2024-10-15 04:21:32.734088 Mike: Hotel and India, sending you 1
+2024-10-15 04:21:32.737137 Delta: Hotel, sending you 3
+2024-10-15 04:21:32.740433 Bravo: Quebec, Lima and Delta, sending you 2
+2024-10-15 04:21:32.742203 Quebec: Bravo and Papa, sending you 1
+2024-10-15 04:21:32.744205 Hotel: Lima, sending you 5
+2024-10-15 04:21:32.746383 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:32.749055 Delta: Whiskey, Quebec, Lima, Bravo, India and Papa, sending you 2
+2024-10-15 04:21:32.751008 Quebec: Delta, Mike and India, sending you 2
+2024-10-15 04:21:32.753056 Hotel: Delta, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:32.755778 Mike: Kilo, sending you 6
+2024-10-15 04:21:32.757930 Delta: Mike, sending you 4
+2024-10-15 04:21:32.759805 Hotel: India, sending you 3
+2024-10-15 04:21:32.768384 Mike: Delta, sending you 3
+2024-10-15 04:21:32.774984 Mike: Papa, sending you 5
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 10
+ChatterBot Whiskey round 10
+ChatterBot Quebec round 10
+ChatterBot Lima round 10
+ChatterBot Kilo round 10
+ChatterBot Bravo round 10
+ChatterBot Delta round 10
+ChatterBot Mike round 10
+ChatterBot India round 10
+ChatterBot Papa round 10
+2024-10-15 04:21:33.913663 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:33.950422 Hotel: No
+2024-10-15 04:21:33.951693 Quebec: No
+2024-10-15 04:21:33.951889 Lima: No
+2024-10-15 04:21:33.952106 India: Yes
+2024-10-15 04:21:33.952358 Bravo: Yes
+2024-10-15 04:21:33.952564 Delta: Yes
+2024-10-15 04:21:33.952809 Mike: No
+2024-10-15 04:21:34.273158 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:34.284029 Papa: No
+2024-10-15 04:21:34.326524 Hotel: Whiskey, Bravo and Mike, sending you 1
+2024-10-15 04:21:34.332939 Papa: We should drop Lima
+2024-10-15 04:21:34.589333 Hotel: No
+2024-10-15 04:21:34.589935 Quebec: No
+2024-10-15 04:21:34.591057 India: No
+2024-10-15 04:21:34.591724 Whiskey: No
+2024-10-15 04:21:34.592635 Bravo: No
+2024-10-15 04:21:34.592936 Kilo: Yes
+2024-10-15 04:21:34.593282 Delta: No
+2024-10-15 04:21:34.593636 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:35.222589 Hotel: Quebec, sending you 6
+2024-10-15 04:21:35.229051 India: Hotel, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-15 04:21:35.234902 Kilo: Same as last round
+2024-10-15 04:21:35.236465 Mike: Hotel, Bravo and India, sending you 1
+2024-10-15 04:21:35.242581 Quebec: Hotel, sending you 5
+2024-10-15 04:21:35.249419 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:21:35.255528 Bravo: Hotel, Mike and Papa, sending you 1
+2024-10-15 04:21:35.261392 Hotel: Lima, sending you 5
+2024-10-15 04:21:35.268566 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+chatterbot India submitting transactions
+2024-10-15 04:21:35.275013 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:35.281108 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:35.285841 Delta: Mike, sending you 4
+2024-10-15 04:21:35.289076 Bravo: Whiskey, sending you 5
+2024-10-15 04:21:35.292912 Hotel: Delta, sending you 2
+2024-10-15 04:21:35.295791 Mike: Kilo, sending you 4
+2024-10-15 04:21:35.299266 Quebec: Bravo and Papa, sending you 1
+2024-10-15 04:21:35.304525 Delta: Papa, sending you 3
+2024-10-15 04:21:35.308473 Bravo: Quebec, Lima, Delta and India, sending you 2
+2024-10-15 04:21:35.312389 Hotel: India, sending you 4
+2024-10-15 04:21:35.317331 Mike: Delta, sending you 3
+2024-10-15 04:21:35.322005 Quebec: Delta, Mike and India, sending you 2
+2024-10-15 04:21:35.327156 Mike: Papa, sending you 6
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 11
+ChatterBot Whiskey round 11
+ChatterBot Quebec round 11
+ChatterBot Lima round 11
+ChatterBot Kilo round 11
+ChatterBot Bravo round 11
+ChatterBot Delta round 11
+ChatterBot Mike round 11
+ChatterBot India round 11
+ChatterBot Papa round 11
+2024-10-15 04:21:36.368979 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:36.405733 Hotel: No
+2024-10-15 04:21:36.406072 Quebec: No
+2024-10-15 04:21:36.406966 Lima: No
+2024-10-15 04:21:36.407248 India: Yes
+2024-10-15 04:21:36.407498 Bravo: Yes
+2024-10-15 04:21:36.407692 Delta: Yes
+2024-10-15 04:21:36.408012 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:36.757194 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:36.768439 Papa: No
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:36.823830 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:21:36.830861 Papa: We should drop Lima
+2024-10-15 04:21:36.904244 Hotel: No
+2024-10-15 04:21:36.904505 Quebec: No
+2024-10-15 04:21:36.904728 India: No
+2024-10-15 04:21:36.904924 Whiskey: No
+2024-10-15 04:21:36.905142 Bravo: No
+2024-10-15 04:21:36.905365 Kilo: Yes
+2024-10-15 04:21:36.906121 Delta: No
+2024-10-15 04:21:36.906324 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 04:21:37.413735 Hotel: Quebec, sending you 6
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:37.419078 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:21:37.423547 India: Hotel, sending you 3
+2024-10-15 04:21:37.426647 Mike: Hotel, Bravo and India, sending you 1
+2024-10-15 04:21:37.429231 Bravo: Hotel, Mike and Papa, sending you 1
+2024-10-15 04:21:37.431964 Hotel: Lima, sending you 5
+2024-10-15 04:21:37.434407 Delta: Mike, sending you 4
+2024-10-15 04:21:37.435988 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+chatterbot Mike submitting transactions
+2024-10-15 04:21:37.438270 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:37.439677 Bravo: Whiskey, sending you 5
+2024-10-15 04:21:37.441816 Hotel: Delta, sending you 2
+2024-10-15 04:21:37.443923 Delta: Papa, sending you 3
+2024-10-15 04:21:37.445866 Mike: Kilo and Delta, sending you 3
+2024-10-15 04:21:37.448402 Bravo: Quebec, Lima, Delta and India, sending you 2
+2024-10-15 04:21:37.450747 Hotel: India, sending you 4
+2024-10-15 04:21:37.452793 Kilo: Same as last round
+2024-10-15 04:21:37.453132 Mike: Papa, sending you 7
+2024-10-15 04:21:37.455715 Quebec: Hotel, sending you 5
+2024-10-15 04:21:37.463240 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:37.473726 Quebec: Bravo, Delta, Mike and India, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 12
+ChatterBot Whiskey round 12
+ChatterBot Quebec round 12
+ChatterBot Lima round 12
+ChatterBot Kilo round 12
+ChatterBot Bravo round 12
+ChatterBot Delta round 12
+ChatterBot Mike round 12
+ChatterBot India round 12
+ChatterBot Papa round 12
+2024-10-15 04:21:40.949379 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:41.044003 Hotel: No
+2024-10-15 04:21:41.044211 Quebec: Yes
+2024-10-15 04:21:41.044370 Lima: No
+2024-10-15 04:21:41.044566 India: Yes
+2024-10-15 04:21:41.049749 Bravo: Yes
+2024-10-15 04:21:41.049949 Delta: Yes
+2024-10-15 04:21:41.050112 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:41.492841 Kilo: We should replace Papa with Mike
+2024-10-15 04:21:41.494600 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:41.511180 Papa: No
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:41.579663 Kilo: Mike we want you to join our group
+2024-10-15 04:21:41.585356 Mike: Yes
+2024-10-15 04:21:41.604433 Papa: We should drop Lima
+2024-10-15 04:21:41.660327 Hotel: No
+2024-10-15 04:21:41.661171 Quebec: No
+2024-10-15 04:21:41.661362 India: No
+2024-10-15 04:21:41.661574 Whiskey: No
+2024-10-15 04:21:41.661735 Bravo: No
+2024-10-15 04:21:41.661886 Kilo: Yes
+2024-10-15 04:21:41.662034 Delta: No
+2024-10-15 04:21:41.662187 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Mike submitting transactions
+2024-10-15 04:21:42.115033 Mike: Hotel, Bravo and India, sending you 1
+2024-10-15 04:21:42.123801 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:42.131546 Bravo: Hotel, sending you 1
+2024-10-15 04:21:42.139510 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:21:42.147968 India: Hotel, sending you 3
+2024-10-15 04:21:42.154985 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:42.162963 Delta: Mike, sending you 4
+2024-10-15 04:21:42.172488 Papa: We should drop Quebec
+2024-10-15 04:21:42.227244 Hotel: No
+2024-10-15 04:21:42.227427 Lima: No
+2024-10-15 04:21:42.227600 India: No
+2024-10-15 04:21:42.227768 Whiskey: No
+2024-10-15 04:21:42.227934 Bravo: No
+2024-10-15 04:21:42.228099 Kilo: Yes
+2024-10-15 04:21:42.228272 Delta: No
+2024-10-15 04:21:42.228432 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:42.857136 Bravo: Whiskey, sending you 5
+2024-10-15 04:21:42.865293 Hotel: Quebec, sending you 6
+2024-10-15 04:21:42.873739 Quebec: We should drop Kilo
+ChatterBot Papa reevaluating
+2024-10-15 04:21:42.922062 Papa: No
+2024-10-15 04:21:42.922381 Hotel: No
+2024-10-15 04:21:42.922753 Lima: Yes
+2024-10-15 04:21:42.923672 India: Yes
+2024-10-15 04:21:42.924106 Whiskey: Yes
+2024-10-15 04:21:42.924416 Bravo: Yes
+2024-10-15 04:21:42.925245 Delta: Yes
+2024-10-15 04:21:42.925520 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:43.324266 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:43.332002 Kilo: Sending you 14
+2024-10-15 04:21:43.333433 Mike: Kilo and Delta, sending you 3
+2024-10-15 04:21:43.339821 Delta: Papa, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 04:21:43.347690 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:21:43.353428 Hotel: Lima, sending you 5
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 04:21:43.359134 Mike: Papa, sending you 7
+2024-10-15 04:21:43.366974 Papa: We should drop India
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:43.412312 Lima: No
+2024-10-15 04:21:43.412482 Hotel: No
+2024-10-15 04:21:43.412596 Quebec: No
+2024-10-15 04:21:43.412727 Whiskey: No
+2024-10-15 04:21:43.412859 Bravo: No
+2024-10-15 04:21:43.412977 Kilo: Yes
+2024-10-15 04:21:43.413086 Delta: No
+2024-10-15 04:21:43.414525 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 04:21:43.779514 Hotel: Delta, sending you 2
+2024-10-15 04:21:43.836008 Hotel: India, sending you 4
+2024-10-15 04:21:43.878829 Quebec: Hotel, sending you 5
+2024-10-15 04:21:43.901804 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:43.918732 Quebec: Bravo, Delta, Mike and India, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 13
+ChatterBot Whiskey round 13
+ChatterBot Quebec round 13
+ChatterBot Lima round 13
+ChatterBot Kilo round 13
+ChatterBot Bravo round 13
+ChatterBot Delta round 13
+ChatterBot Mike round 13
+ChatterBot India round 13
+ChatterBot Papa round 13
+2024-10-15 04:21:44.811147 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:44.869180 Hotel: No
+2024-10-15 04:21:44.869883 Quebec: Yes
+2024-10-15 04:21:44.870762 Lima: No
+2024-10-15 04:21:44.871075 India: Yes
+2024-10-15 04:21:44.871403 Bravo: Yes
+2024-10-15 04:21:44.871745 Delta: Yes
+2024-10-15 04:21:44.873107 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:45.251597 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:45.264180 Papa: Yes
+ChatterBot Quebec reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:45.743188 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:21:45.751509 Kilo: Same as last round
+2024-10-15 04:21:45.753491 Mike: Hotel, Bravo and India, sending you 1
+2024-10-15 04:21:45.763095 India: Hotel, sending you 3
+2024-10-15 04:21:45.771032 Bravo: Hotel and Mike, sending you 1
+2024-10-15 04:21:45.779159 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+chatterbot Delta submitting transactions
+2024-10-15 04:21:45.788113 Hotel: Quebec, sending you 6
+2024-10-15 04:21:45.798072 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:45.808356 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:45.817691 Bravo: Whiskey, sending you 4
+2024-10-15 04:21:45.827267 Quebec: Hotel, sending you 5
+2024-10-15 04:21:45.836874 Delta: Mike, sending you 4
+2024-10-15 04:21:45.845989 Hotel: Lima and India, sending you 4
+2024-10-15 04:21:45.856156 Mike: Kilo and Papa, sending you 5
+chatterbot Mike submitting transactions
+2024-10-15 04:21:45.866589 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:21:45.875382 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:45.884368 Delta: Papa, sending you 3
+2024-10-15 04:21:45.893765 Hotel: Delta, sending you 2
+2024-10-15 04:21:45.902739 Mike: Delta, sending you 3
+2024-10-15 04:21:45.911758 Quebec: Bravo, Delta, Mike and Papa, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+ChatterBot Hotel round 14
+ChatterBot Whiskey round 14
+ChatterBot Quebec round 14
+ChatterBot Lima round 14
+ChatterBot Kilo round 14
+ChatterBot Bravo round 14
+ChatterBot Delta round 14
+ChatterBot Mike round 14
+ChatterBot India round 14
+ChatterBot Papa round 14
+2024-10-15 04:21:46.847953 Quebec: We should add Kilo
+ChatterBot Papa reevaluating
+2024-10-15 04:21:46.884996 Papa: Yes
+2024-10-15 04:21:46.885208 Hotel: Yes
+2024-10-15 04:21:46.885338 Lima: No
+2024-10-15 04:21:46.885457 India: No
+2024-10-15 04:21:46.885569 Whiskey: No
+2024-10-15 04:21:46.885690 Bravo: No
+2024-10-15 04:21:46.885803 Delta: No
+2024-10-15 04:21:46.885914 Mike: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:47.220753 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:47.257777 Hotel: No
+2024-10-15 04:21:47.257954 Quebec: No
+2024-10-15 04:21:47.258065 Lima: No
+2024-10-15 04:21:47.258166 India: Yes
+2024-10-15 04:21:47.258267 Bravo: Yes
+2024-10-15 04:21:47.258415 Delta: Yes
+2024-10-15 04:21:47.258592 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:47.537504 Whiskey: Papa we want you to join our group
+2024-10-15 04:21:47.549349 Papa: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:47.603753 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:21:47.612132 Mike: Hotel and India, sending you 1
+2024-10-15 04:21:47.622814 Quebec: Kilo we want you to join our group
+2024-10-15 04:21:47.644974 Kilo: No
+chatterbot Hotel submitting transactions
+2024-10-15 04:21:47.689580 Hotel: Quebec, sending you 6
+2024-10-15 04:21:47.699754 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:47.710777 India: Hotel, sending you 3
+2024-10-15 04:21:47.719017 Bravo: Hotel and Mike, sending you 1
+2024-10-15 04:21:47.726664 Kilo: Same as last round
+2024-10-15 04:21:47.728200 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:21:47.737331 Hotel: Lima and India, sending you 4
+2024-10-15 04:21:47.747670 Mike: Kilo, sending you 6
+2024-10-15 04:21:47.758396 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:47.769513 Bravo: Whiskey, sending you 4
+2024-10-15 04:21:47.778307 Delta: Mike, sending you 4
+2024-10-15 04:21:47.788019 Hotel: Delta, sending you 2
+2024-10-15 04:21:47.798361 Mike: Delta, sending you 3
+2024-10-15 04:21:47.807293 Quebec: Hotel, sending you 5
+2024-10-15 04:21:47.816509 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:21:47.829820 Delta: Papa, sending you 3
+2024-10-15 04:21:47.836006 Mike: Papa, sending you 5
+2024-10-15 04:21:47.846399 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:47.861709 Quebec: Bravo, Delta and Mike, sending you 2
+2024-10-15 04:21:47.876694 Quebec: India and Papa, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+ChatterBot Hotel round 15
+ChatterBot Whiskey round 15
+ChatterBot Quebec round 15
+ChatterBot Lima round 15
+ChatterBot Kilo round 15
+ChatterBot Bravo round 15
+ChatterBot Delta round 15
+ChatterBot Mike round 15
+ChatterBot India round 15
+ChatterBot Papa round 15
+2024-10-15 04:21:51.279979 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:21:51.331672 Hotel: No
+2024-10-15 04:21:51.331957 Quebec: No
+2024-10-15 04:21:51.332147 Lima: No
+2024-10-15 04:21:51.332925 India: Yes
+2024-10-15 04:21:51.333091 Bravo: Yes
+2024-10-15 04:21:51.333257 Delta: Yes
+2024-10-15 04:21:51.333424 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:51.944336 Whiskey: Papa we want you to join our group
+2024-10-15 04:21:51.962104 Papa: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:52.332096 Bravo: Hotel and Mike, sending you 1
+2024-10-15 04:21:52.338241 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:52.348524 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:21:52.360105 Kilo: Same as last round
+2024-10-15 04:21:52.362498 Quebec: We should drop Kilo
+2024-10-15 04:21:52.423250 Papa: No
+2024-10-15 04:21:52.423566 Hotel: No
+2024-10-15 04:21:52.423776 Lima: Yes
+2024-10-15 04:21:52.423996 India: Yes
+2024-10-15 04:21:52.424211 Whiskey: Yes
+2024-10-15 04:21:52.424523 Bravo: Yes
+2024-10-15 04:21:52.425296 Delta: Yes
+2024-10-15 04:21:52.425551 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Kilo submitting transactions
+2024-10-15 04:21:52.796968 Bravo: Whiskey, sending you 4
+2024-10-15 04:21:52.807171 Mike: Kilo, sending you 7
+2024-10-15 04:21:52.818514 Hotel: Quebec, sending you 6
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:52.829626 India: Hotel, sending you 3
+2024-10-15 04:21:52.838819 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:21:52.845535 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:21:52.853346 Mike: Delta, sending you 3
+2024-10-15 04:21:52.863383 Hotel: Lima and India, sending you 4
+2024-10-15 04:21:52.873108 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:52.882517 Delta: Mike, sending you 4
+2024-10-15 04:21:52.892012 Mike: India, sending you 1
+chatterbot Papa submitting transactions
+2024-10-15 04:21:52.903527 Hotel: Delta, sending you 2
+2024-10-15 04:21:52.916492 Delta: Papa, sending you 3
+2024-10-15 04:21:52.926986 Mike: Papa, sending you 5
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+2024-10-15 04:21:52.936564 Quebec: Hotel, sending you 4
+2024-10-15 04:21:53.018591 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:53.057838 Quebec: Kilo, India and Papa, sending you 1
+2024-10-15 04:21:53.145926 Quebec: Bravo, Delta and Mike, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 16
+ChatterBot Whiskey round 16
+ChatterBot Quebec round 16
+ChatterBot Lima round 16
+ChatterBot Kilo round 16
+ChatterBot Bravo round 16
+ChatterBot Delta round 16
+ChatterBot Mike round 16
+ChatterBot India round 16
+ChatterBot Papa round 16
+2024-10-15 04:21:53.982056 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:54.041697 Hotel: No
+2024-10-15 04:21:54.042865 Quebec: No
+2024-10-15 04:21:54.043037 Lima: No
+2024-10-15 04:21:54.043293 India: Yes
+2024-10-15 04:21:54.043567 Bravo: Yes
+2024-10-15 04:21:54.043861 Delta: Yes
+2024-10-15 04:21:54.044141 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:54.411458 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:54.431042 Papa: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:54.692842 Quebec: We should drop Kilo
+ChatterBot Papa reevaluating
+2024-10-15 04:21:54.733025 Papa: No
+2024-10-15 04:21:54.733210 Hotel: No
+2024-10-15 04:21:54.733336 Lima: Yes
+2024-10-15 04:21:54.733511 India: Yes
+2024-10-15 04:21:54.733642 Whiskey: Yes
+2024-10-15 04:21:54.733776 Bravo: Yes
+2024-10-15 04:21:54.733951 Delta: Yes
+2024-10-15 04:21:54.734073 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:55.122532 Bravo: Hotel and Mike, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 04:21:55.188938 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:21:55.200236 India: Hotel, sending you 3
+2024-10-15 04:21:55.211466 Bravo: Whiskey, sending you 4
+2024-10-15 04:21:55.222469 Mike: Hotel and India, sending you 1
+2024-10-15 04:21:55.234948 Kilo: Same as last round
+2024-10-15 04:21:55.237121 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-15 04:21:55.248348 Delta: Mike, sending you 4
+2024-10-15 04:21:55.260338 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:55.271610 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:21:55.282090 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:21:55.293899 Hotel: Quebec and Lima, sending you 5
+2024-10-15 04:21:55.305320 Delta: Papa, sending you 3
+chatterbot Hotel submitting transactions
+2024-10-15 04:21:55.317485 Mike: Kilo, sending you 7
+2024-10-15 04:21:55.329956 Hotel: Delta, sending you 2
+2024-10-15 04:21:55.340891 Quebec: Hotel, sending you 5
+2024-10-15 04:21:55.352593 Mike: Delta, sending you 3
+2024-10-15 04:21:55.365204 Hotel: India, sending you 4
+2024-10-15 04:21:55.377179 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:21:55.389594 Mike: Papa, sending you 4
+2024-10-15 04:21:55.401808 Quebec: Bravo, Delta, Mike and India, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 17
+ChatterBot Whiskey round 17
+ChatterBot Quebec round 17
+ChatterBot Lima round 17
+ChatterBot Kilo round 17
+ChatterBot Bravo round 17
+ChatterBot Delta round 17
+ChatterBot Mike round 17
+ChatterBot India round 17
+ChatterBot Papa round 17
+2024-10-15 04:21:56.534312 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:56.571699 Hotel: No
+2024-10-15 04:21:56.571877 Quebec: No
+2024-10-15 04:21:56.571999 Lima: No
+2024-10-15 04:21:56.572122 India: Yes
+2024-10-15 04:21:56.572232 Bravo: Yes
+2024-10-15 04:21:56.572341 Delta: Yes
+2024-10-15 04:21:56.572450 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:56.873283 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:21:56.889441 Papa: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:57.138635 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:21:57.332235 Delta: Mike, sending you 4
+2024-10-15 04:21:57.343550 India: Hotel, sending you 3
+2024-10-15 04:21:57.354606 Kilo: Same as last round
+2024-10-15 04:21:57.356460 Mike: Hotel and India, sending you 1
+2024-10-15 04:21:57.367986 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:21:57.379518 Bravo: Hotel and Mike, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 04:21:57.390982 Delta: Papa, sending you 3
+2024-10-15 04:21:57.398317 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:21:57.410068 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:21:57.420859 Hotel: Quebec and Lima, sending you 5
+2024-10-15 04:21:57.433559 Bravo: Whiskey, sending you 4
+2024-10-15 04:21:57.445138 Quebec: Hotel, sending you 4
+2024-10-15 04:21:57.457587 Mike: Kilo, sending you 8
+2024-10-15 04:21:57.470374 Hotel: Delta, sending you 2
+2024-10-15 04:21:57.483018 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:21:57.495302 Quebec: Whiskey and Lima, sending you 3
+chatterbot Lima submitting transactions
+2024-10-15 04:21:57.508764 Mike: Papa, sending you 4
+2024-10-15 04:21:57.522486 Hotel: India, sending you 4
+2024-10-15 04:21:57.535332 Quebec: Bravo, Delta, Mike and India, sending you 2
+2024-10-15 04:21:57.706677 Quebec: Papa, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 18
+ChatterBot Whiskey round 18
+ChatterBot Quebec round 18
+ChatterBot Lima round 18
+ChatterBot Kilo round 18
+ChatterBot Bravo round 18
+ChatterBot Delta round 18
+ChatterBot Mike round 18
+ChatterBot India round 18
+ChatterBot Papa round 18
+2024-10-15 04:21:59.040243 Quebec: We should add Kilo
+ChatterBot Papa reevaluating
+2024-10-15 04:21:59.082496 Papa: Yes
+2024-10-15 04:21:59.082696 Hotel: Yes
+2024-10-15 04:21:59.082828 Lima: No
+2024-10-15 04:21:59.082962 India: No
+2024-10-15 04:21:59.083086 Whiskey: No
+2024-10-15 04:21:59.083212 Bravo: No
+2024-10-15 04:21:59.083336 Delta: No
+2024-10-15 04:21:59.083493 Mike: Yes
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:59.923464 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+2024-10-15 04:21:59.985478 Hotel: No
+2024-10-15 04:21:59.986312 Quebec: No
+2024-10-15 04:21:59.986542 Lima: No
+2024-10-15 04:21:59.986787 India: Yes
+2024-10-15 04:21:59.987061 Bravo: Yes
+2024-10-15 04:21:59.987289 Delta: Yes
+2024-10-15 04:21:59.987522 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:00.442781 Papa: We should drop Kilo
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:00.499642 Hotel: No
+2024-10-15 04:22:00.499915 Quebec: Yes
+2024-10-15 04:22:00.500130 Lima: Yes
+2024-10-15 04:22:00.500330 India: Yes
+2024-10-15 04:22:00.500520 Whiskey: Yes
+2024-10-15 04:22:00.500702 Bravo: Yes
+2024-10-15 04:22:00.502253 Delta: Yes
+2024-10-15 04:22:00.502457 Mike: No
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:01.037070 Whiskey: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:22:01.056802 Papa: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:01.221513 Bravo: Hotel and Mike, sending you 1
+chatterbot Lima submitting transactions
+2024-10-15 04:22:01.325640 Bravo: Whiskey, sending you 4
+2024-10-15 04:22:01.339690 Kilo: Same as last round
+2024-10-15 04:22:01.342642 Mike: Hotel and India, sending you 1
+2024-10-15 04:22:01.359254 India: Hotel, sending you 3
+2024-10-15 04:22:01.374032 Delta: Hotel, Whiskey, Lima, Bravo, India and Papa, sending you 2
+2024-10-15 04:22:01.388002 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:22:01.404078 Bravo: Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:01.418949 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:22:01.433767 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:01.448390 Delta: Quebec, sending you 3
+2024-10-15 04:22:01.462667 Quebec: Hotel, sending you 4
+2024-10-15 04:22:01.477699 Hotel: Quebec and Lima, sending you 5
+chatterbot Bravo submitting transactions
+2024-10-15 04:22:01.494209 Mike: Kilo, sending you 8
+2024-10-15 04:22:01.510773 Delta: Mike, sending you 4
+2024-10-15 04:22:01.525131 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:22:01.538318 Hotel: Delta, sending you 2
+2024-10-15 04:22:01.552100 Mike: Papa, sending you 4
+chatterbot Delta submitting transactions
+2024-10-15 04:22:01.567297 Quebec: Bravo, Delta, Mike and India, sending you 2
+2024-10-15 04:22:01.580337 Hotel: India, sending you 4
+2024-10-15 04:22:01.594593 Quebec: Papa, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 19
+ChatterBot Whiskey round 19
+ChatterBot Quebec round 19
+ChatterBot Lima round 19
+ChatterBot Kilo round 19
+ChatterBot Bravo round 19
+ChatterBot Delta round 19
+ChatterBot Mike round 19
+ChatterBot India round 19
+ChatterBot Papa round 19
+2024-10-15 04:22:02.864419 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:22:02.903647 Hotel: No
+2024-10-15 04:22:02.903850 Quebec: Yes
+2024-10-15 04:22:02.903996 Lima: No
+2024-10-15 04:22:02.904133 India: Yes
+2024-10-15 04:22:02.904255 Bravo: Yes
+2024-10-15 04:22:02.904381 Delta: Yes
+2024-10-15 04:22:02.904536 Mike: No
+2024-10-15 04:22:03.267991 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:03.283015 Papa: Yes
+2024-10-15 04:22:03.338309 Papa: We should drop Kilo
+2024-10-15 04:22:03.402877 Hotel: No
+2024-10-15 04:22:03.403152 Quebec: Yes
+2024-10-15 04:22:03.403903 Lima: Yes
+2024-10-15 04:22:03.404111 India: Yes
+2024-10-15 04:22:03.404351 Whiskey: Yes
+2024-10-15 04:22:03.404604 Bravo: Yes
+2024-10-15 04:22:03.404862 Delta: Yes
+2024-10-15 04:22:03.405085 Mike: No
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-15 04:22:04.125593 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:04.138650 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:04.151573 Quebec: Hotel, sending you 4
+2024-10-15 04:22:04.165483 India: Hotel, sending you 3
+2024-10-15 04:22:04.179608 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:22:04.194685 Kilo: Same as last round
+2024-10-15 04:22:04.197708 Delta: Mike, sending you 4
+2024-10-15 04:22:04.212167 Bravo: Whiskey, sending you 4
+chatterbot Kilo submitting transactions
+2024-10-15 04:22:04.228377 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:22:04.241805 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:04.255419 Hotel: Quebec and Lima, sending you 5
+2024-10-15 04:22:04.269855 Mike: Hotel and India, sending you 1
+2024-10-15 04:22:04.285755 Delta: Papa, sending you 3
+2024-10-15 04:22:04.299834 Quebec: Bravo, Delta, Mike and India, sending you 2
+2024-10-15 04:22:04.316441 Hotel: Delta, sending you 2
+2024-10-15 04:22:04.331547 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:22:04.347026 Quebec: Papa, sending you 1
+2024-10-15 04:22:04.379954 Hotel: India, sending you 4
+2024-10-15 04:22:04.398788 Mike: Kilo, sending you 8
+chatterbot Lima submitting transactions
+2024-10-15 04:22:04.480252 Mike: Papa, sending you 4
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 20
+ChatterBot Whiskey round 20
+ChatterBot Quebec round 20
+ChatterBot Lima round 20
+ChatterBot Kilo round 20
+ChatterBot Bravo round 20
+ChatterBot Delta round 20
+ChatterBot Mike round 20
+ChatterBot India round 20
+ChatterBot Papa round 20
+2024-10-15 04:22:05.284863 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:22:05.317785 Hotel: No
+2024-10-15 04:22:05.317970 Quebec: Yes
+2024-10-15 04:22:05.318108 Lima: No
+2024-10-15 04:22:05.318225 India: Yes
+2024-10-15 04:22:05.318800 Bravo: Yes
+2024-10-15 04:22:05.318917 Delta: Yes
+2024-10-15 04:22:05.319029 Mike: No
+2024-10-15 04:22:05.605749 Kilo: We should replace Mike with Papa
+2024-10-15 04:22:05.619132 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:05.635750 Papa: Yes
+2024-10-15 04:22:05.694346 Kilo: Papa we want you to join our group
+2024-10-15 04:22:05.700891 Papa: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:05.714502 Papa: We should drop Kilo
+2024-10-15 04:22:05.758770 Hotel: No
+2024-10-15 04:22:05.759088 Quebec: Yes
+2024-10-15 04:22:05.759329 Lima: Yes
+2024-10-15 04:22:05.759530 India: Yes
+2024-10-15 04:22:05.759726 Whiskey: Yes
+2024-10-15 04:22:05.760454 Bravo: Yes
+2024-10-15 04:22:05.760641 Delta: Yes
+2024-10-15 04:22:05.760827 Mike: No
+chatterbot Whiskey submitting transactions
+2024-10-15 04:22:06.527137 Quebec: Hotel, sending you 4
+2024-10-15 04:22:06.542774 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:06.561104 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:22:06.578030 India: Hotel, sending you 3
+2024-10-15 04:22:06.593829 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-15 04:22:06.609780 Quebec: Whiskey, Lima and Mike, sending you 3
+chatterbot Kilo submitting transactions
+2024-10-15 04:22:06.626426 Bravo: Whiskey, sending you 4
+2024-10-15 04:22:06.643245 Hotel: Quebec and Lima, sending you 5
+2024-10-15 04:22:06.661214 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:06.676203 Delta: Mike, sending you 4
+2024-10-15 04:22:06.692836 Kilo: Same as last round
+2024-10-15 04:22:06.696511 Mike: Hotel and India, sending you 1
+2024-10-15 04:22:06.714137 Quebec: Bravo, Delta and India, sending you 2
+chatterbot Quebec submitting transactions
+2024-10-15 04:22:06.731758 Hotel: Delta, sending you 2
+2024-10-15 04:22:06.750168 Delta: Papa, sending you 3
+2024-10-15 04:22:06.767749 Mike: Whiskey, Quebec and Delta, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 04:22:06.786985 Hotel: India, sending you 4
+2024-10-15 04:22:06.807390 Mike: Kilo, sending you 8
+2024-10-15 04:22:06.891501 Mike: Papa, sending you 4
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 21
+ChatterBot Whiskey round 21
+ChatterBot Quebec round 21
+ChatterBot Lima round 21
+ChatterBot Kilo round 21
+ChatterBot Bravo round 21
+ChatterBot Delta round 21
+ChatterBot Mike round 21
+ChatterBot India round 21
+ChatterBot Papa round 21
+2024-10-15 04:22:07.860268 Whiskey: We should replace Kilo with Papa
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:22:07.961432 Hotel: No
+2024-10-15 04:22:07.962610 Quebec: Yes
+2024-10-15 04:22:07.962886 Lima: No
+2024-10-15 04:22:07.963121 India: Yes
+2024-10-15 04:22:07.963314 Bravo: Yes
+2024-10-15 04:22:07.963542 Delta: Yes
+2024-10-15 04:22:07.963917 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:08.285478 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:08.304705 Papa: Yes
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:22:08.350337 Lima: We should add Whiskey and Bravo
+ChatterBot Mike reevaluating
+2024-10-15 04:22:08.378437 India: Yes
+2024-10-15 04:22:08.378654 Hotel: Yes
+2024-10-15 04:22:08.379291 Quebec: Yes
+2024-10-15 04:22:08.379411 Delta: Yes
+2024-10-15 04:22:08.379521 Mike: Yes
+2024-10-15 04:22:08.379630 Papa: Yes
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:22:08.602784 Papa: We should drop Kilo
+ChatterBot Lima reevaluating
+2024-10-15 04:22:08.649310 Hotel: No
+2024-10-15 04:22:08.650125 Quebec: Yes
+2024-10-15 04:22:08.650315 Lima: Yes
+2024-10-15 04:22:08.650476 India: Yes
+2024-10-15 04:22:08.650624 Whiskey: Yes
+2024-10-15 04:22:08.650831 Bravo: Yes
+2024-10-15 04:22:08.651066 Delta: Yes
+2024-10-15 04:22:08.651263 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 04:22:09.089182 Quebec: Hotel, sending you 4
+2024-10-15 04:22:09.107467 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:09.125150 Hotel: Whiskey, Bravo, Mike and Papa, sending you 1
+2024-10-15 04:22:09.145113 Kilo: Same as last round
+2024-10-15 04:22:09.148974 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+chatterbot Mike submitting transactions
+2024-10-15 04:22:09.166815 Lima: Whiskey and Bravo we want you to join our group
+2024-10-15 04:22:09.195208 Whiskey: Yes
+2024-10-15 04:22:09.195490 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:09.317944 Quebec: Whiskey, Lima and Mike, sending you 3
+2024-10-15 04:22:09.333034 Bravo: Whiskey, sending you 4
+2024-10-15 04:22:09.346320 Hotel: Quebec and Lima, sending you 5
+2024-10-15 04:22:09.359099 Mike: Hotel and India, sending you 1
+2024-10-15 04:22:09.371493 Delta: Mike, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-15 04:22:09.383725 India: Hotel, sending you 3
+2024-10-15 04:22:09.395151 Quebec: Bravo, Delta and India, sending you 2
+2024-10-15 04:22:09.407166 Hotel: Delta, sending you 2
+2024-10-15 04:22:09.418630 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:22:09.429848 Delta: Papa, sending you 3
+2024-10-15 04:22:09.438787 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:09.443727 Hotel: India, sending you 4
+2024-10-15 04:22:09.448858 Mike: Kilo, sending you 8
+2024-10-15 04:22:09.459679 Mike: Papa, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+ChatterBot Hotel round 22
+ChatterBot Whiskey round 22
+ChatterBot Quebec round 22
+ChatterBot Lima round 22
+ChatterBot Kilo round 22
+ChatterBot Bravo round 22
+ChatterBot Delta round 22
+ChatterBot Mike round 22
+ChatterBot India round 22
+ChatterBot Papa round 22
+2024-10-15 04:22:11.190892 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:22:11.237707 Hotel: No
+2024-10-15 04:22:11.237959 Quebec: No
+2024-10-15 04:22:11.238147 Lima: No
+2024-10-15 04:22:11.238322 India: Yes
+2024-10-15 04:22:11.238501 Bravo: Yes
+2024-10-15 04:22:11.238701 Delta: Yes
+2024-10-15 04:22:11.238880 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:22:11.456076 Kilo: We should replace Mike with Papa
+2024-10-15 04:22:11.465360 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:11.470674 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:22:11.495073 Papa: We should drop Kilo
+ChatterBot Bravo reevaluating
+2024-10-15 04:22:11.514804 Hotel: No
+2024-10-15 04:22:11.514977 Quebec: No
+2024-10-15 04:22:11.515116 Lima: Yes
+2024-10-15 04:22:11.515854 India: Yes
+2024-10-15 04:22:11.515992 Whiskey: Yes
+2024-10-15 04:22:11.516104 Bravo: Yes
+2024-10-15 04:22:11.516228 Delta: Yes
+2024-10-15 04:22:11.516352 Mike: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:22:11.682420 Kilo: Papa we want you to join our group
+2024-10-15 04:22:11.684863 Papa: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:11.694159 Quebec: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:11.705180 Kilo: No
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:22:11.732679 India: We should drop Mike
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:22:11.754510 Lima: Yes
+2024-10-15 04:22:11.754670 Hotel: No
+2024-10-15 04:22:11.754769 Whiskey: Yes
+2024-10-15 04:22:11.754884 Quebec: No
+2024-10-15 04:22:11.754972 Bravo: Yes
+2024-10-15 04:22:11.755054 Delta: No
+2024-10-15 04:22:11.755139 Papa: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:22:11.983791 Mike: Hotel and India, sending you 1
+2024-10-15 04:22:11.995191 Hotel: Whiskey, Mike and Papa, sending you 1
+chatterbot Papa submitting transactions
+2024-10-15 04:22:12.008337 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:22:12.020916 Hotel: Quebec, sending you 5
+2024-10-15 04:22:12.033954 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:12.047299 Mike: Kilo, sending you 8
+2024-10-15 04:22:12.053337 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:12.066315 Delta: Mike, sending you 4
+2024-10-15 04:22:12.079757 India: Hotel, sending you 3
+chatterbot Hotel submitting transactions
+2024-10-15 04:22:12.088878 Kilo: Same as last round
+2024-10-15 04:22:12.089729 Mike: Papa, sending you 4
+2024-10-15 04:22:12.102548 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:12.115209 Delta: Papa, sending you 3
+2024-10-15 04:22:12.128378 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:12.133736 India: Quebec, sending you 2
+2024-10-15 04:22:12.143235 Bravo: Whiskey, sending you 4
+2024-10-15 04:22:12.154550 India: Lima, Bravo, Delta and Papa, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 23
+ChatterBot Whiskey round 23
+ChatterBot Quebec round 23
+ChatterBot Lima round 23
+ChatterBot Kilo round 23
+ChatterBot Bravo round 23
+ChatterBot Delta round 23
+ChatterBot Mike round 23
+ChatterBot India round 23
+ChatterBot Papa round 23
+chatterbot Whiskey submitting transactions
+2024-10-15 04:22:13.264325 Quebec: We should add Kilo
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:22:13.319527 Papa: No
+2024-10-15 04:22:13.320207 Hotel: Yes
+2024-10-15 04:22:13.320418 Lima: No
+2024-10-15 04:22:13.320628 India: No
+2024-10-15 04:22:13.320830 Whiskey: No
+2024-10-15 04:22:13.321016 Bravo: No
+2024-10-15 04:22:13.321224 Delta: No
+2024-10-15 04:22:13.321434 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 04:22:13.617601 Kilo: We should replace Mike with Papa
+2024-10-15 04:22:13.652297 Kilo: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 04:22:13.657371 Papa: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:13.672091 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:13.678073 Papa: We should drop Kilo
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:22:13.722502 Hotel: No
+2024-10-15 04:22:13.722751 Quebec: No
+2024-10-15 04:22:13.722907 Lima: Yes
+2024-10-15 04:22:13.723045 India: Yes
+2024-10-15 04:22:13.723185 Whiskey: Yes
+2024-10-15 04:22:13.723320 Bravo: Yes
+2024-10-15 04:22:13.723453 Delta: Yes
+2024-10-15 04:22:13.723586 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 04:22:14.214683 India: Hotel, sending you 3
+2024-10-15 04:22:14.220693 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:14.228207 Mike: Hotel and India, sending you 1
+2024-10-15 04:22:14.234917 India: Quebec, sending you 2
+2024-10-15 04:22:14.241571 Delta: Mike, sending you 4
+2024-10-15 04:22:14.252408 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:14.262041 Kilo: Same as last round
+2024-10-15 04:22:14.263904 Mike: Whiskey, Quebec and Delta, sending you 2
+2024-10-15 04:22:14.271552 India: Lima, Bravo, Delta and Papa, sending you 1
+2024-10-15 04:22:14.276358 Delta: Papa, sending you 3
+2024-10-15 04:22:14.287637 Hotel: Quebec, sending you 5
+2024-10-15 04:22:14.298574 Quebec: Hotel, sending you 4
+2024-10-15 04:22:14.304598 Mike: Kilo, sending you 8
+2024-10-15 04:22:14.315797 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:14.328691 Quebec: Whiskey, Lima and Mike, sending you 3
+2024-10-15 04:22:14.340669 Mike: Papa, sending you 4
+2024-10-15 04:22:14.357133 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:14.376038 Quebec: Bravo, Delta and India, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+ChatterBot Hotel round 24
+ChatterBot Whiskey round 24
+ChatterBot Quebec round 24
+ChatterBot Lima round 24
+ChatterBot Kilo round 24
+ChatterBot Bravo round 24
+ChatterBot Delta round 24
+ChatterBot Mike round 24
+ChatterBot India round 24
+ChatterBot Papa round 24
+2024-10-15 04:22:15.271770 Bravo: We should add Mike
+ChatterBot Whiskey reevaluating
+2024-10-15 04:22:15.295406 Lima: No
+2024-10-15 04:22:15.295592 Hotel: Yes
+2024-10-15 04:22:15.295727 Whiskey: Yes
+2024-10-15 04:22:15.295837 Quebec: Yes
+2024-10-15 04:22:15.295945 Delta: Yes
+2024-10-15 04:22:15.296053 India: No
+2024-10-15 04:22:15.296167 Papa: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:15.473353 Bravo: Mike we want you to join our group
+2024-10-15 04:22:15.479055 Mike: Yes
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 04:22:15.500838 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:15.516966 Hotel: No
+2024-10-15 04:22:15.517192 Quebec: Yes
+2024-10-15 04:22:15.517323 Lima: Yes
+2024-10-15 04:22:15.517446 India: Yes
+2024-10-15 04:22:15.517570 Bravo: Yes
+2024-10-15 04:22:15.517705 Delta: Yes
+2024-10-15 04:22:15.517830 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:15.629970 Papa: We should drop Kilo
+2024-10-15 04:22:15.645978 Hotel: No
+2024-10-15 04:22:15.646171 Quebec: Yes
+2024-10-15 04:22:15.646309 Lima: Yes
+2024-10-15 04:22:15.646442 India: Yes
+2024-10-15 04:22:15.646571 Whiskey: Yes
+2024-10-15 04:22:15.646710 Bravo: Yes
+2024-10-15 04:22:15.646846 Delta: Yes
+2024-10-15 04:22:15.646974 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:15.787810 Quebec: Kilo we want you to join our group
+2024-10-15 04:22:15.804027 Kilo: No
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:15.831942 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:15.834920 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:15.837560 India: Mike we want you to join our group
+2024-10-15 04:22:15.841524 Mike: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:15.860081 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:15.864924 Papa: Yes
+ChatterBot Quebec reevaluating
+chatterbot Papa submitting transactions
+2024-10-15 04:22:15.883546 Hotel: Quebec, sending you 5
+2024-10-15 04:22:15.886412 Delta: Mike, sending you 4
+2024-10-15 04:22:15.888956 Kilo: Same as last round
+2024-10-15 04:22:15.889939 Mike: Hotel, Whiskey and India, sending you 1
+2024-10-15 04:22:15.892275 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:15.895147 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:15.897428 Delta: Papa, sending you 3
+2024-10-15 04:22:15.899745 Mike: Quebec, sending you 2
+2024-10-15 04:22:15.902769 Bravo: Whiskey, sending you 4
+2024-10-15 04:22:15.905205 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:15.907520 Mike: Kilo, sending you 8
+2024-10-15 04:22:15.910691 Quebec: Hotel, sending you 4
+2024-10-15 04:22:15.914339 India: Hotel, sending you 3
+2024-10-15 04:22:15.916984 Mike: Delta, sending you 3
+2024-10-15 04:22:15.919568 Quebec: Whiskey, Lima and Mike, sending you 3
+2024-10-15 04:22:15.922619 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:15.926122 Mike: Papa, sending you 4
+2024-10-15 04:22:15.928807 Quebec: Bravo, Delta and India, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Hotel round 25
+ChatterBot Whiskey round 25
+ChatterBot Quebec round 25
+ChatterBot Lima round 25
+ChatterBot Kilo round 25
+ChatterBot Bravo round 25
+ChatterBot Delta round 25
+ChatterBot Mike round 25
+ChatterBot India round 25
+ChatterBot Papa round 25
+2024-10-15 04:22:16.947073 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:22:16.979441 Hotel: No
+2024-10-15 04:22:16.979730 Quebec: Yes
+2024-10-15 04:22:16.979918 Lima: Yes
+2024-10-15 04:22:16.980856 India: Yes
+2024-10-15 04:22:16.981049 Bravo: Yes
+2024-10-15 04:22:16.981229 Delta: Yes
+2024-10-15 04:22:16.981428 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:17.176767 Kilo: We should replace Mike with Delta
+2024-10-15 04:22:17.190736 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:17.203296 Papa: Yes
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:17.234477 Papa: We should drop Kilo
+2024-10-15 04:22:17.260681 Hotel: No
+2024-10-15 04:22:17.260956 Quebec: Yes
+2024-10-15 04:22:17.261168 Lima: Yes
+2024-10-15 04:22:17.261363 India: Yes
+2024-10-15 04:22:17.261554 Whiskey: Yes
+2024-10-15 04:22:17.261739 Bravo: Yes
+2024-10-15 04:22:17.261941 Delta: Yes
+2024-10-15 04:22:17.262140 Mike: No
+2024-10-15 04:22:17.524065 Kilo: Delta we want you to join our group
+2024-10-15 04:22:17.528433 Delta: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:17.550697 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:17.560693 Hotel: Quebec, sending you 5
+2024-10-15 04:22:17.565687 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:17.569681 Quebec: Hotel, sending you 4
+2024-10-15 04:22:17.573124 Mike: Hotel, Whiskey and India, sending you 1
+2024-10-15 04:22:17.576454 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:17.580184 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:17.583320 Bravo: Whiskey, sending you 3
+2024-10-15 04:22:17.587379 Quebec: Whiskey, Lima and Mike, sending you 3
+2024-10-15 04:22:17.592582 Mike: Quebec, sending you 2
+2024-10-15 04:22:17.596653 India: Hotel, sending you 3
+2024-10-15 04:22:17.599961 Delta: Mike, sending you 4
+2024-10-15 04:22:17.603363 Kilo: Same as last round
+2024-10-15 04:22:17.603848 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:17.606809 Bravo: Mike, sending you 1
+2024-10-15 04:22:17.609970 Quebec: Bravo, Delta and India, sending you 2
+2024-10-15 04:22:17.613098 Mike: Kilo, sending you 8
+2024-10-15 04:22:17.615621 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:17.619224 Delta: Papa, sending you 3
+2024-10-15 04:22:17.622336 Mike: Delta, sending you 3
+chatterbot India submitting transactions
+2024-10-15 04:22:17.629674 Mike: Papa, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Hotel round 26
+ChatterBot Whiskey round 26
+ChatterBot Quebec round 26
+ChatterBot Lima round 26
+ChatterBot Kilo round 26
+ChatterBot Bravo round 26
+ChatterBot Delta round 26
+ChatterBot Mike round 26
+ChatterBot India round 26
+ChatterBot Papa round 26
+2024-10-15 04:22:18.411730 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:22:18.435505 Hotel: No
+2024-10-15 04:22:18.435729 Quebec: No
+2024-10-15 04:22:18.435883 Lima: Yes
+2024-10-15 04:22:18.436014 India: Yes
+2024-10-15 04:22:18.436151 Bravo: Yes
+2024-10-15 04:22:18.436271 Delta: Yes
+2024-10-15 04:22:18.436403 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:18.622155 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:18.630492 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 04:22:18.658574 Papa: We should drop Kilo
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:18.681740 Hotel: No
+2024-10-15 04:22:18.681942 Quebec: Yes
+2024-10-15 04:22:18.682091 Lima: Yes
+2024-10-15 04:22:18.682252 India: Yes
+2024-10-15 04:22:18.682395 Whiskey: Yes
+2024-10-15 04:22:18.682550 Bravo: Yes
+2024-10-15 04:22:18.682692 Delta: Yes
+2024-10-15 04:22:18.682842 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:18.877776 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:18.881490 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:18.885921 India: Hotel, sending you 3
+2024-10-15 04:22:18.893207 Kilo: Same as last round
+2024-10-15 04:22:18.895025 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:18.900348 Quebec: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:18.917616 Kilo: No
+ChatterBot Lima reevaluating
+2024-10-15 04:22:18.946669 Kilo: We should replace Mike with Papa
+2024-10-15 04:22:18.947219 Delta: Mike, sending you 4
+2024-10-15 04:22:18.955362 Hotel: Quebec, sending you 5
+chatterbot Whiskey submitting transactions
+2024-10-15 04:22:18.963237 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:18.970844 Bravo: Whiskey, sending you 3
+2024-10-15 04:22:18.979550 Kilo: Papa we want you to join our group
+2024-10-15 04:22:18.983015 Papa: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:18.994062 Mike: Hotel, sending you 1
+2024-10-15 04:22:18.998305 Delta: Papa, sending you 3
+2024-10-15 04:22:19.001801 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:19.004905 Bravo: Mike, sending you 1
+chatterbot Bravo submitting transactions
+2024-10-15 04:22:19.008261 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:22:19.011903 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:19.015295 Quebec: Hotel, sending you 4
+2024-10-15 04:22:19.019274 Mike: Kilo, sending you 8
+2024-10-15 04:22:19.022265 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:22:19.026734 Mike: Delta, sending you 3
+2024-10-15 04:22:19.031499 Quebec: Bravo, Delta, Mike and India, sending you 2
+2024-10-15 04:22:19.036436 Mike: Papa, sending you 4
+2024-10-15 04:22:19.040701 Quebec: Papa, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 27
+ChatterBot Whiskey round 27
+ChatterBot Quebec round 27
+ChatterBot Lima round 27
+ChatterBot Kilo round 27
+ChatterBot Bravo round 27
+ChatterBot Delta round 27
+ChatterBot Mike round 27
+ChatterBot India round 27
+ChatterBot Papa round 27
+2024-10-15 04:22:20.053623 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:20.075087 Hotel: No
+2024-10-15 04:22:20.075359 Quebec: Yes
+2024-10-15 04:22:20.075525 Lima: Yes
+2024-10-15 04:22:20.076032 India: Yes
+2024-10-15 04:22:20.076205 Bravo: Yes
+2024-10-15 04:22:20.076368 Delta: Yes
+2024-10-15 04:22:20.076531 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:20.228314 Papa: We should drop Kilo
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:20.253166 Hotel: No
+2024-10-15 04:22:20.253398 Quebec: Yes
+2024-10-15 04:22:20.253586 Lima: Yes
+2024-10-15 04:22:20.253767 India: Yes
+2024-10-15 04:22:20.253954 Whiskey: Yes
+2024-10-15 04:22:20.254130 Bravo: Yes
+2024-10-15 04:22:20.254301 Delta: Yes
+2024-10-15 04:22:20.254471 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:20.469807 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:20.477658 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:20.504676 Kilo: Same as last round
+2024-10-15 04:22:20.505852 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:20.510643 India: Hotel, sending you 3
+2024-10-15 04:22:20.515292 Delta: Mike, sending you 4
+2024-10-15 04:22:20.520040 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:22:20.525899 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:20.532089 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:20.537745 Delta: Papa, sending you 3
+2024-10-15 04:22:20.543328 Mike: Kilo, sending you 8
+chatterbot Delta submitting transactions
+2024-10-15 04:22:20.547833 Bravo: Whiskey, sending you 3
+2024-10-15 04:22:20.553261 Hotel: Quebec, sending you 5
+2024-10-15 04:22:20.558366 Quebec: Hotel, sending you 4
+2024-10-15 04:22:20.565053 Mike: Delta, sending you 3
+2024-10-15 04:22:20.570030 Bravo: Mike, sending you 1
+2024-10-15 04:22:20.573558 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:20.576317 Quebec: Whiskey and Lima, sending you 3
+2024-10-15 04:22:20.580105 Mike: India, sending you 1
+2024-10-15 04:22:20.583041 Hotel: Bravo, Delta and Mike, sending you 2
+2024-10-15 04:22:20.586059 Quebec: Bravo, Delta, Mike and India, sending you 2
+2024-10-15 04:22:20.590627 Mike: Papa, sending you 4
+2024-10-15 04:22:20.595129 Hotel: Papa, sending you 1
+2024-10-15 04:22:20.598941 Quebec: Papa, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 28
+ChatterBot Whiskey round 28
+ChatterBot Quebec round 28
+ChatterBot Lima round 28
+ChatterBot Kilo round 28
+ChatterBot Bravo round 28
+ChatterBot Delta round 28
+ChatterBot Mike round 28
+ChatterBot India round 28
+ChatterBot Papa round 28
+2024-10-15 04:22:21.311061 Whiskey: We should replace Kilo with Papa
+2024-10-15 04:22:21.334591 Hotel: No
+2024-10-15 04:22:21.334850 Quebec: No
+2024-10-15 04:22:21.335026 Lima: Yes
+2024-10-15 04:22:21.335205 India: Yes
+2024-10-15 04:22:21.335372 Bravo: Yes
+2024-10-15 04:22:21.335536 Delta: Yes
+2024-10-15 04:22:21.335711 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:21.474233 Kilo: We should replace Mike with Papa
+2024-10-15 04:22:21.477712 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:21.482756 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:21.502600 Papa: We should drop Kilo
+2024-10-15 04:22:21.526009 Hotel: No
+2024-10-15 04:22:21.526259 Quebec: No
+2024-10-15 04:22:21.526410 Lima: Yes
+2024-10-15 04:22:21.526553 India: Yes
+2024-10-15 04:22:21.526703 Whiskey: Yes
+2024-10-15 04:22:21.526828 Bravo: Yes
+2024-10-15 04:22:21.526961 Delta: Yes
+2024-10-15 04:22:21.527096 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:21.706835 Kilo: Papa we want you to join our group
+2024-10-15 04:22:21.709807 Papa: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:21.719740 Kilo: We should replace Mike with Delta
+2024-10-15 04:22:21.723672 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:21.730313 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:21.736652 Mike: Hotel, sending you 1
+2024-10-15 04:22:21.742739 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:21.748945 Kilo: Delta we want you to join our group
+2024-10-15 04:22:21.751677 Delta: No
+ChatterBot Kilo reevaluating
+2024-10-15 04:22:21.761775 Bravo: Whiskey, sending you 3
+2024-10-15 04:22:21.767691 Delta: Mike, sending you 4
+2024-10-15 04:22:21.773740 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:22:21.779079 Hotel: Quebec, sending you 5
+2024-10-15 04:22:21.781530 Quebec: Hotel, sending you 4
+2024-10-15 04:22:21.784701 India: Hotel, sending you 3
+2024-10-15 04:22:21.787381 Bravo: Mike, sending you 1
+2024-10-15 04:22:21.791017 Delta: Papa, sending you 3
+2024-10-15 04:22:21.794097 Mike: Kilo, sending you 8
+2024-10-15 04:22:21.797388 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:21.800072 Quebec: Whiskey and Mike, sending you 3
+2024-10-15 04:22:21.802790 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:21.806214 Mike: Delta, sending you 3
+2024-10-15 04:22:21.808925 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:21.812182 Quebec: Lima, Bravo, Delta and India, sending you 2
+2024-10-15 04:22:21.814790 Kilo: Same as last round
+2024-10-15 04:22:21.815306 Mike: Papa, sending you 4
+2024-10-15 04:22:21.819683 Quebec: Papa, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 29
+ChatterBot Whiskey round 29
+ChatterBot Quebec round 29
+ChatterBot Lima round 29
+ChatterBot Kilo round 29
+ChatterBot Bravo round 29
+ChatterBot Delta round 29
+ChatterBot Mike round 29
+ChatterBot India round 29
+ChatterBot Papa round 29
+2024-10-15 04:22:22.641667 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:22.659159 Hotel: No
+2024-10-15 04:22:22.659323 Quebec: Yes
+2024-10-15 04:22:22.659446 Lima: Yes
+2024-10-15 04:22:22.659561 India: Yes
+2024-10-15 04:22:22.659682 Bravo: Yes
+2024-10-15 04:22:22.659799 Delta: Yes
+2024-10-15 04:22:22.659912 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:22.817750 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:22.824577 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:22.847589 Papa: We should drop Kilo
+ChatterBot Lima reevaluating
+2024-10-15 04:22:22.869529 Hotel: No
+2024-10-15 04:22:22.869806 Quebec: Yes
+2024-10-15 04:22:22.869993 Lima: Yes
+2024-10-15 04:22:22.870154 India: Yes
+2024-10-15 04:22:22.870309 Whiskey: Yes
+2024-10-15 04:22:22.870445 Bravo: Yes
+2024-10-15 04:22:22.870591 Delta: Yes
+2024-10-15 04:22:22.870745 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 04:22:23.049860 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:23.054075 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:23.058088 Mike: Hotel, sending you 1
+2024-10-15 04:22:23.061360 Hotel: Quebec, sending you 5
+2024-10-15 04:22:23.064686 Delta: Mike, sending you 4
+2024-10-15 04:22:23.068768 Kilo: Same as last round
+2024-10-15 04:22:23.069362 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:23.072918 India: Hotel, sending you 3
+2024-10-15 04:22:23.076401 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:22:23.080084 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:23.083221 Delta: Papa, sending you 3
+2024-10-15 04:22:23.089950 Bravo: Whiskey, sending you 3
+2024-10-15 04:22:23.093128 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:23.096060 Mike: Kilo, sending you 8
+2024-10-15 04:22:23.098783 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:23.101573 Bravo: Mike, sending you 1
+2024-10-15 04:22:23.104837 Quebec: Hotel, sending you 4
+2024-10-15 04:22:23.107796 Mike: Delta, sending you 3
+2024-10-15 04:22:23.110755 Quebec: Whiskey, Lima and Mike, sending you 3
+2024-10-15 04:22:23.117874 Mike: Papa, sending you 4
+2024-10-15 04:22:23.123251 Quebec: Bravo, Delta and India, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+ChatterBot Hotel round 30
+ChatterBot Whiskey round 30
+ChatterBot Quebec round 30
+ChatterBot Lima round 30
+ChatterBot Kilo round 30
+ChatterBot Bravo round 30
+ChatterBot Delta round 30
+ChatterBot Mike round 30
+ChatterBot India round 30
+ChatterBot Papa round 30
+2024-10-15 04:22:24.103155 Quebec: We should add Kilo
+ChatterBot Lima reevaluating
+2024-10-15 04:22:24.131184 Papa: No
+2024-10-15 04:22:24.131458 Hotel: Yes
+2024-10-15 04:22:24.131609 Lima: No
+2024-10-15 04:22:24.131754 India: No
+2024-10-15 04:22:24.131885 Whiskey: No
+2024-10-15 04:22:24.132014 Bravo: No
+2024-10-15 04:22:24.132146 Delta: No
+2024-10-15 04:22:24.132279 Mike: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:24.338746 Whiskey: We should replace Kilo with Papa
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:24.356499 Hotel: No
+2024-10-15 04:22:24.356693 Quebec: No
+2024-10-15 04:22:24.356804 Lima: Yes
+2024-10-15 04:22:24.356906 India: Yes
+2024-10-15 04:22:24.357016 Bravo: Yes
+2024-10-15 04:22:24.357124 Delta: Yes
+2024-10-15 04:22:24.357222 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:24.498272 Whiskey: Papa we want you to join our group
+2024-10-15 04:22:24.504053 Papa: Yes
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:24.525435 Papa: We should drop Kilo
+ChatterBot Quebec reevaluating
+2024-10-15 04:22:24.545204 Hotel: No
+2024-10-15 04:22:24.545453 Quebec: No
+2024-10-15 04:22:24.545622 Lima: Yes
+2024-10-15 04:22:24.545779 India: Yes
+2024-10-15 04:22:24.545927 Whiskey: Yes
+2024-10-15 04:22:24.546074 Bravo: Yes
+2024-10-15 04:22:24.546222 Delta: Yes
+2024-10-15 04:22:24.546372 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+2024-10-15 04:22:24.714684 Delta: Hotel, Whiskey, Quebec, Lima, Bravo and India, sending you 2
+2024-10-15 04:22:24.719265 Mike: Whiskey and Quebec, sending you 2
+2024-10-15 04:22:24.722931 Kilo: Same as last round
+2024-10-15 04:22:24.723443 Bravo: Hotel, Quebec, Lima, Delta, India and Papa, sending you 2
+2024-10-15 04:22:24.727433 Hotel: Whiskey, Mike and Papa, sending you 1
+2024-10-15 04:22:24.730584 Delta: Mike, sending you 4
+2024-10-15 04:22:24.734554 Mike: Kilo, sending you 8
+2024-10-15 04:22:24.737900 Bravo: Whiskey, sending you 3
+2024-10-15 04:22:24.741757 Hotel: Quebec, sending you 5
+2024-10-15 04:22:24.745241 Delta: Papa, sending you 3
+2024-10-15 04:22:24.748632 Mike: Delta, sending you 3
+2024-10-15 04:22:24.752288 Bravo: Mike, sending you 1
+2024-10-15 04:22:24.755856 India: Hotel, sending you 3
+2024-10-15 04:22:24.759338 Hotel: Lima and India, sending you 4
+2024-10-15 04:22:24.762091 Mike: India, sending you 1
+2024-10-15 04:22:24.765081 Quebec: Hotel, sending you 4
+2024-10-15 04:22:24.768030 India: Quebec, Lima, Bravo, Delta, Mike and Papa, sending you 1
+2024-10-15 04:22:24.771342 Hotel: Bravo and Delta, sending you 2
+2024-10-15 04:22:24.773925 Mike: Papa, sending you 4
+2024-10-15 04:22:24.777074 Quebec: Whiskey and Mike, sending you 3
+2024-10-15 04:22:24.782681 Quebec: Lima, Bravo, Delta and India, sending you 2
+2024-10-15 04:22:24.790673 Quebec: Papa, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions

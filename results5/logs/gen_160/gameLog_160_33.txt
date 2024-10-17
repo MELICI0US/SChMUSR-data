@@ -1,0 +1,2863 @@
+ChatterBot Lima round 1
+ChatterBot Charlie round 1
+ChatterBot Echo round 1
+ChatterBot Mike round 1
+ChatterBot X-ray round 1
+ChatterBot Hotel round 1
+ChatterBot Oscar round 1
+ChatterBot Whiskey round 1
+ChatterBot Bravo round 1
+ChatterBot Victor round 1
+randomSelections Lima: {Lima, Hotel, X-ray, Whiskey} 
+2024-10-15 05:07:47.504402 Lima: We would work well together
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:07:47.526365 Hotel: Yes
+2024-10-15 05:07:47.526567 X-ray: Yes
+2024-10-15 05:07:47.526680 Whiskey: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+randomSelections Charlie: {Charlie, Bravo, Lima, Echo, Mike, Hotel} 
+2024-10-15 05:07:47.545250 Charlie: Group up?
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 05:07:47.554146 Bravo: Yes
+2024-10-15 05:07:47.554290 Lima: No
+2024-10-15 05:07:47.554567 Echo: Yes
+2024-10-15 05:07:47.554713 Mike: Yes
+2024-10-15 05:07:47.554835 Hotel: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+randomSelections Oscar: {Oscar, Lima, Hotel, Victor, Whiskey, Echo} 
+2024-10-15 05:07:47.600737 Oscar: We would work well together
+ChatterBot Hotel reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:07:47.608227 Lima: No
+2024-10-15 05:07:47.608386 Hotel: No
+2024-10-15 05:07:47.608559 Victor: Yes
+2024-10-15 05:07:47.608755 Whiskey: No
+2024-10-15 05:07:47.609609 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:07:47.704100 Lima: X-ray, sending you 7
+2024-10-15 05:07:47.705136 X-ray: Lima, sending you 3
+2024-10-15 05:07:47.705830 Bravo: Lima and Charlie, sending you 4
+2024-10-15 05:07:47.707092 Echo: Lima, sending you 5
+2024-10-15 05:07:47.707667 Oscar: Lima, sending you 6
+2024-10-15 05:07:47.708743 Hotel: Lima, sending you 9
+2024-10-15 05:07:47.709184 Charlie: Lima, sending you 2
+2024-10-15 05:07:47.709763 Mike: Lima and Charlie, sending you 4
+2024-10-15 05:07:47.710907 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:07:47.711390 Lima: Hotel, sending you 6
+2024-10-15 05:07:47.712348 Bravo: Echo, sending you 1
+2024-10-15 05:07:47.712970 Echo: Charlie and Mike, sending you 2
+2024-10-15 05:07:47.713423 Hotel: X-ray, sending you 3
+2024-10-15 05:07:47.713781 Oscar: Echo and Victor, sending you 5
+2024-10-15 05:07:47.715335 Charlie: Echo, sending you 1
+2024-10-15 05:07:47.716067 Victor: Lima and Hotel, sending you 5
+2024-10-15 05:07:47.717683 Whiskey: Lima, sending you 6
+2024-10-15 05:07:47.718327 Lima: Whiskey, sending you 5
+2024-10-15 05:07:47.720351 Mike: Echo, sending you 5
+2024-10-15 05:07:47.721133 Bravo: Mike, sending you 3
+2024-10-15 05:07:47.722663 Echo: Hotel, sending you 1
+2024-10-15 05:07:47.723476 Hotel: Whiskey, sending you 5
+2024-10-15 05:07:47.725493 Oscar: Hotel and Whiskey, sending you 1
+2024-10-15 05:07:47.727686 Charlie: Mike, sending you 7
+2024-10-15 05:07:47.728437 Whiskey: X-ray and Hotel, sending you 5
+2024-10-15 05:07:47.728960 Victor: Echo and Whiskey, sending you 2
+2024-10-15 05:07:47.730726 Mike: Hotel, sending you 1
+2024-10-15 05:07:47.731393 Bravo: Hotel, sending you 5
+2024-10-15 05:07:47.732978 Echo: Bravo, sending you 4
+2024-10-15 05:07:47.733586 Charlie: Hotel and Bravo, sending you 4
+2024-10-15 05:07:47.738051 Victor: Oscar, sending you 3
+2024-10-15 05:07:47.739440 Mike: Bravo, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 2
+ChatterBot Charlie round 2
+ChatterBot Echo round 2
+ChatterBot Mike round 2
+ChatterBot X-ray round 2
+ChatterBot Hotel round 2
+ChatterBot Oscar round 2
+ChatterBot Whiskey round 2
+ChatterBot Bravo round 2
+ChatterBot Victor round 2
+2024-10-15 05:07:49.109443 Lima: We should add Victor
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:07:49.177911 Hotel: Yes
+2024-10-15 05:07:49.178198 X-ray: No
+2024-10-15 05:07:49.179996 Whiskey: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:49.304367 Whiskey: We should add Oscar and Victor
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:49.318295 Lima: No
+2024-10-15 05:07:49.318465 Hotel: Yes
+2024-10-15 05:07:49.318609 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:07:49.361467 Hotel: We should group up
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:07:49.391429 Lima: No
+2024-10-15 05:07:49.392291 X-ray: No
+2024-10-15 05:07:49.392452 Whiskey: No
+2024-10-15 05:07:49.392598 Charlie: No
+2024-10-15 05:07:49.392778 Echo: No
+2024-10-15 05:07:49.392934 Mike: No
+2024-10-15 05:07:49.393168 Bravo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:07:49.672154 Bravo: We should add X-ray and Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 05:07:49.702050 Charlie: Yes
+2024-10-15 05:07:49.702271 Lima: Yes
+2024-10-15 05:07:49.703238 Echo: No
+2024-10-15 05:07:49.703383 Mike: Yes
+2024-10-15 05:07:49.703527 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:07:49.873076 Oscar: We should replace Echo with X-ray
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 05:07:49.892008 Lima: Yes
+2024-10-15 05:07:49.892134 Hotel: No
+2024-10-15 05:07:49.892238 Whiskey: Yes
+2024-10-15 05:07:49.892816 Victor: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:50.005101 Lima: We should add Oscar
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 05:07:50.019087 Hotel: No
+2024-10-15 05:07:50.019242 X-ray: Yes
+2024-10-15 05:07:50.019354 Whiskey: Yes
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.065860 Bravo: X-ray and Whiskey we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.075524 X-ray: No
+2024-10-15 05:07:50.076268 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.132738 Whiskey: Oscar and Victor we want you to join our group
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 05:07:50.142051 Oscar: No
+2024-10-15 05:07:50.142196 Victor: Yes
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:50.189335 Mike: X-ray and Whiskey we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.198555 X-ray: No
+2024-10-15 05:07:50.198736 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.251367 Charlie: X-ray and Whiskey we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.260232 X-ray: No
+2024-10-15 05:07:50.260392 Whiskey: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.317778 Hotel: Oscar and Victor we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:50.326832 Oscar: No
+2024-10-15 05:07:50.327121 Victor: Yes
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:50.371645 Victor: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-15 05:07:50.377175 X-ray: No
+ChatterBot Lima reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:50.400153 Echo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 05:07:50.571234 X-ray: Victor we want you to join our group
+2024-10-15 05:07:50.575974 Victor: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 05:07:50.595236 Echo: Mike and Oscar, sending you 4
+2024-10-15 05:07:50.596201 Whiskey: Lima, sending you 5
+2024-10-15 05:07:50.596508 Mike: Charlie, sending you 10
+2024-10-15 05:07:50.596858 Bravo: Lima, X-ray, Hotel and Whiskey, sending you 1
+2024-10-15 05:07:50.693681 Whiskey: X-ray and Hotel, sending you 4
+2024-10-15 05:07:50.694788 Bravo: Charlie and Echo, sending you 5
+2024-10-15 05:07:50.695197 Victor: Lima, X-ray and Hotel, sending you 3
+2024-10-15 05:07:50.695543 Mike: Echo, sending you 3
+2024-10-15 05:07:50.696663 Charlie: Lima, X-ray, Hotel and Whiskey, sending you 1
+2024-10-15 05:07:50.697021 Hotel: Lima, X-ray, Whiskey and Victor, sending you 4
+chatterbot Bravo submitting transactions
+2024-10-15 05:07:50.753157 Bravo: Mike, sending you 4
+2024-10-15 05:07:50.753741 Victor: Oscar, sending you 7
+2024-10-15 05:07:50.754197 Whiskey: Oscar, sending you 1
+2024-10-15 05:07:50.755592 Oscar: Sending you 9
+2024-10-15 05:07:50.755898 Mike: Bravo, sending you 4
+2024-10-15 05:07:50.756409 Hotel: Oscar, sending you 1
+2024-10-15 05:07:50.760115 Charlie: Echo, sending you 3
+2024-10-15 05:07:50.760809 Victor: Whiskey, sending you 1
+2024-10-15 05:07:50.761170 Whiskey: Victor, sending you 2
+2024-10-15 05:07:50.989871 Lima: X-ray, sending you 5
+2024-10-15 05:07:50.991087 Charlie: Mike, sending you 6
+2024-10-15 05:07:50.991953 X-ray: Lima, sending you 6
+chatterbot Charlie submitting transactions
+2024-10-15 05:07:50.993348 Lima: Hotel, sending you 7
+2024-10-15 05:07:51.066834 Charlie: Bravo, sending you 5
+2024-10-15 05:07:51.068708 X-ray: Hotel, sending you 4
+2024-10-15 05:07:51.069384 Lima: Whiskey, sending you 6
+2024-10-15 05:07:51.087958 X-ray: Whiskey, sending you 5
+chatterbot Hotel submitting transactions
+2024-10-15 05:07:51.102443 X-ray: Victor, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 3
+ChatterBot Charlie round 3
+ChatterBot Echo round 3
+ChatterBot Mike round 3
+ChatterBot X-ray round 3
+ChatterBot Hotel round 3
+ChatterBot Oscar round 3
+ChatterBot Whiskey round 3
+ChatterBot Bravo round 3
+2024-10-15 05:07:51.704915 Lima: We should add Victor
+ChatterBot Whiskey reevaluating
+2024-10-15 05:07:51.717818 Hotel: Yes
+2024-10-15 05:07:51.717991 X-ray: Yes
+2024-10-15 05:07:51.718119 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Victor round 3
+2024-10-15 05:07:51.843458 Whiskey: We should drop Oscar
+ChatterBot Lima reevaluating
+2024-10-15 05:07:51.871328 X-ray: Yes
+2024-10-15 05:07:51.871543 Lima: Yes
+2024-10-15 05:07:51.872188 Hotel: No
+2024-10-15 05:07:51.872348 Victor: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 05:07:51.955209 Charlie: Echo, sending you 4
+2024-10-15 05:07:52.082064 Charlie: Mike, sending you 8
+2024-10-15 05:07:52.082435 X-ray: Lima, sending you 6
+2024-10-15 05:07:52.082948 Hotel: Lima, sending you 5
+2024-10-15 05:07:52.083991 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:07:52.084375 Bravo: Lima, X-ray, Hotel and Whiskey, sending you 1
+2024-10-15 05:07:52.085364 Mike: Charlie, sending you 9
+2024-10-15 05:07:52.085953 Oscar: Same as last round
+2024-10-15 05:07:52.086781 Charlie: Bravo, sending you 6
+2024-10-15 05:07:52.087146 Hotel: X-ray, Oscar, Whiskey and Victor, sending you 3
+2024-10-15 05:07:52.088346 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:07:52.088775 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:07:52.089378 Echo: Mike, sending you 4
+2024-10-15 05:07:52.090218 Whiskey: Lima, sending you 7
+2024-10-15 05:07:52.274158 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:07:52.279230 Victor: Lima, sending you 2
+2024-10-15 05:07:52.279830 Bravo: Echo, sending you 4
+2024-10-15 05:07:52.282500 X-ray: Victor, sending you 3
+2024-10-15 05:07:52.283021 Echo: Victor, sending you 1
+2024-10-15 05:07:52.283389 Whiskey: X-ray and Hotel, sending you 4
+chatterbot Bravo submitting transactions
+2024-10-15 05:07:52.286226 Victor: X-ray and Whiskey, sending you 3
+2024-10-15 05:07:52.403170 Whiskey: Victor, sending you 1
+2024-10-15 05:07:52.404479 Lima: Sending you each 6
+2024-10-15 05:07:52.405202 Victor: Hotel, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+2024-10-15 05:07:52.423778 Victor: Oscar, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Lima round 4
+ChatterBot Charlie round 4
+ChatterBot Echo round 4
+ChatterBot Mike round 4
+ChatterBot X-ray round 4
+ChatterBot Hotel round 4
+ChatterBot Oscar round 4
+ChatterBot Whiskey round 4
+ChatterBot Bravo round 4
+ChatterBot Victor round 4
+2024-10-15 05:07:52.994560 Bravo: Can we be friends?
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:53.010361 Charlie: Yes
+2024-10-15 05:07:53.010583 Echo: Yes
+2024-10-15 05:07:53.010714 Mike: No
+2024-10-15 05:07:53.010848 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:07:53.071944 Charlie: We should add Oscar
+ChatterBot Echo reevaluating
+2024-10-15 05:07:53.083448 Echo: Yes
+2024-10-15 05:07:53.083648 Mike: No
+2024-10-15 05:07:53.083825 Bravo: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:07:53.130821 Lima: Same as last round
+2024-10-15 05:07:53.132057 Charlie: Oscar we want you to join our group
+2024-10-15 05:07:53.137485 Oscar: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:07:53.161692 Victor: Lima, sending you 2
+2024-10-15 05:07:53.174372 Hotel: Lima and X-ray, sending you 4
+2024-10-15 05:07:53.175158 Whiskey: Lima, sending you 6
+2024-10-15 05:07:53.176248 Victor: X-ray and Whiskey, sending you 3
+2024-10-15 05:07:53.176837 X-ray: Lima, sending you 6
+2024-10-15 05:07:53.177243 Bravo: Charlie, Echo and Mike, sending you 5
+2024-10-15 05:07:53.178777 Oscar: Charlie, Mike and Bravo, sending you 3
+2024-10-15 05:07:53.179273 Hotel: Oscar, Whiskey and Victor, sending you 3
+2024-10-15 05:07:53.179895 Whiskey: X-ray and Hotel, sending you 4
+2024-10-15 05:07:53.181086 Victor: Hotel, sending you 4
+2024-10-15 05:07:53.181648 X-ray: Hotel, sending you 4
+2024-10-15 05:07:53.182602 Bravo: Oscar, sending you 1
+2024-10-15 05:07:53.190024 Oscar: Echo, sending you 4
+2024-10-15 05:07:53.191121 Whiskey: Victor, sending you 2
+2024-10-15 05:07:53.192170 Victor: Oscar, sending you 5
+2024-10-15 05:07:53.192763 X-ray: Whiskey, sending you 5
+2024-10-15 05:07:53.194349 Oscar: Victor, sending you 5
+2024-10-15 05:07:53.199739 Mike: Charlie, sending you 8
+2024-10-15 05:07:53.200204 X-ray: Victor, sending you 3
+2024-10-15 05:07:53.200720 Echo: Charlie, Mike and Bravo, sending you 4
+2024-10-15 05:07:53.203665 Mike: Echo, sending you 4
+2024-10-15 05:07:53.206660 Echo: Oscar, sending you 2
+2024-10-15 05:07:53.208203 Charlie: Echo, sending you 4
+2024-10-15 05:07:53.208811 Mike: Bravo, sending you 5
+2024-10-15 05:07:53.213691 Charlie: Mike, sending you 7
+2024-10-15 05:07:53.218085 Charlie: Oscar, sending you 2
+2024-10-15 05:07:53.232336 Charlie: Bravo, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 5
+ChatterBot Charlie round 5
+ChatterBot Echo round 5
+ChatterBot Mike round 5
+ChatterBot X-ray round 5
+ChatterBot Hotel round 5
+ChatterBot Oscar round 5
+ChatterBot Whiskey round 5
+ChatterBot Bravo round 5
+2024-10-15 05:07:54.458925 Echo: We should add Victor
+2024-10-15 05:07:54.478824 Bravo: No
+2024-10-15 05:07:54.479152 Charlie: No
+2024-10-15 05:07:54.479344 Mike: No
+2024-10-15 05:07:54.479542 Oscar: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor round 5
+2024-10-15 05:07:54.579893 Charlie: Echo, sending you 4
+2024-10-15 05:07:54.582695 Hotel: Lima, sending you 5
+2024-10-15 05:07:54.583859 Charlie: Mike, sending you 7
+2024-10-15 05:07:54.585672 Whiskey: Lima, sending you 6
+2024-10-15 05:07:54.588713 Hotel: X-ray, Oscar, Whiskey and Victor, sending you 3
+2024-10-15 05:07:54.589918 Charlie: Oscar, sending you 2
+2024-10-15 05:07:54.590378 Mike: Charlie, sending you 8
+2024-10-15 05:07:54.591269 Whiskey: X-ray and Hotel, sending you 4
+2024-10-15 05:07:54.591650 Oscar: Charlie, Mike and Bravo, sending you 3
+2024-10-15 05:07:54.592024 X-ray: Lima, sending you 6
+2024-10-15 05:07:54.592363 Echo: Charlie and Oscar, sending you 3
+2024-10-15 05:07:54.593665 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:07:54.594992 Charlie: Bravo, sending you 5
+2024-10-15 05:07:54.595354 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:07:54.595696 Lima: Same as last round
+2024-10-15 05:07:54.596007 Oscar: Echo, sending you 4
+2024-10-15 05:07:54.596270 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:07:54.597086 Victor: Lima, X-ray and Whiskey, sending you 3
+2024-10-15 05:07:54.597752 Whiskey: Victor, sending you 2
+2024-10-15 05:07:54.598887 Echo: Mike and Bravo, sending you 4
+2024-10-15 05:07:54.599410 Bravo: Echo, sending you 4
+2024-10-15 05:07:54.599911 X-ray: Victor, sending you 3
+2024-10-15 05:07:54.601145 Mike: Oscar, sending you 1
+2024-10-15 05:07:54.601590 Oscar: Victor, sending you 5
+2024-10-15 05:07:54.601957 Victor: Hotel and Oscar, sending you 4
+2024-10-15 05:07:54.604711 Bravo: Oscar, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 6
+ChatterBot Charlie round 6
+ChatterBot Echo round 6
+ChatterBot Mike round 6
+ChatterBot X-ray round 6
+ChatterBot Hotel round 6
+ChatterBot Oscar round 6
+ChatterBot Whiskey round 6
+ChatterBot Bravo round 6
+ChatterBot Victor round 6
+2024-10-15 05:07:55.787494 Echo: We should add Victor
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:55.811814 Bravo: Yes
+2024-10-15 05:07:55.812303 Charlie: No
+2024-10-15 05:07:55.813553 Mike: No
+2024-10-15 05:07:55.813998 Oscar: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:07:55.887987 Mike: We should add Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:55.900372 Bravo: No
+2024-10-15 05:07:55.900503 Charlie: No
+2024-10-15 05:07:55.900681 Echo: No
+2024-10-15 05:07:55.900877 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:07:55.980888 Echo: Victor we want you to join our group
+2024-10-15 05:07:55.985076 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:07:56.010691 Hotel: Lima and X-ray, sending you 4
+2024-10-15 05:07:56.011673 Charlie: Victor we want you to join our group
+2024-10-15 05:07:56.016213 Victor: No
+2024-10-15 05:07:56.041889 Mike: Victor we want you to join our group
+2024-10-15 05:07:56.048913 Victor: No
+2024-10-15 05:07:56.066283 Lima: Same as last round
+2024-10-15 05:07:56.066698 Hotel: Oscar, Whiskey and Victor, sending you 3
+2024-10-15 05:07:56.067222 Bravo: Victor we want you to join our group
+2024-10-15 05:07:56.071194 Victor: No
+2024-10-15 05:07:56.085358 Victor: X-ray, Hotel and Whiskey, sending you 4
+2024-10-15 05:07:56.087682 X-ray: Lima, sending you 6
+2024-10-15 05:07:56.088410 Whiskey: Lima, sending you 7
+2024-10-15 05:07:56.088786 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:07:56.089761 Oscar: Charlie, Mike and Bravo, sending you 3
+2024-10-15 05:07:56.090667 Victor: Oscar, sending you 5
+2024-10-15 05:07:56.092305 X-ray: Hotel and Victor, sending you 4
+2024-10-15 05:07:56.092821 Whiskey: X-ray, sending you 4
+2024-10-15 05:07:56.093205 Oscar: Echo, sending you 4
+2024-10-15 05:07:56.093673 Echo: Mike, sending you 4
+2024-10-15 05:07:56.095693 Whiskey: Hotel, sending you 3
+2024-10-15 05:07:56.097225 Charlie: Echo and Oscar, sending you 3
+2024-10-15 05:07:56.097848 Oscar: Victor, sending you 5
+2024-10-15 05:07:56.098349 X-ray: Whiskey, sending you 5
+2024-10-15 05:07:56.099657 Echo: Victor, sending you 1
+2024-10-15 05:07:56.100056 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:07:56.100682 Whiskey: Victor, sending you 2
+2024-10-15 05:07:56.101884 Charlie: Mike, sending you 6
+chatterbot Hotel submitting transactions
+2024-10-15 05:07:56.104063 Bravo: Echo, sending you 4
+2024-10-15 05:07:56.104682 Charlie: Bravo, sending you 4
+2024-10-15 05:07:56.107692 Mike: Charlie, sending you 7
+2024-10-15 05:07:56.108932 Bravo: Oscar, sending you 3
+2024-10-15 05:07:56.109399 Charlie: Victor, sending you 2
+2024-10-15 05:07:56.112684 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:07:56.113846 Bravo: Victor, sending you 1
+2024-10-15 05:07:56.118104 Mike: Oscar, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 7
+ChatterBot Charlie round 7
+ChatterBot Echo round 7
+ChatterBot Mike round 7
+ChatterBot X-ray round 7
+ChatterBot Hotel round 7
+ChatterBot Oscar round 7
+ChatterBot Whiskey round 7
+ChatterBot Bravo round 7
+ChatterBot Victor round 7
+2024-10-15 05:07:57.089667 Mike: Charlie, sending you 7
+2024-10-15 05:07:57.093683 Oscar: Charlie, Mike and Bravo, sending you 3
+2024-10-15 05:07:57.094444 Hotel: Lima and X-ray, sending you 4
+2024-10-15 05:07:57.095112 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:07:57.095723 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:07:57.097669 Charlie: Echo and Oscar, sending you 3
+2024-10-15 05:07:57.098697 Oscar: Echo, sending you 4
+2024-10-15 05:07:57.099359 Mike: Oscar, sending you 2
+2024-10-15 05:07:57.100491 Whiskey: Lima, sending you 7
+2024-10-15 05:07:57.100963 Hotel: Oscar, Whiskey and Victor, sending you 3
+2024-10-15 05:07:57.101431 Echo: Mike, sending you 4
+2024-10-15 05:07:57.101954 Charlie: Mike, sending you 6
+2024-10-15 05:07:57.102700 Lima: Same as last round
+2024-10-15 05:07:57.104041 Oscar: Victor, sending you 5
+2024-10-15 05:07:57.104478 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:07:57.104913 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:07:57.105519 Victor: X-ray, Hotel and Whiskey, sending you 4
+2024-10-15 05:07:57.106091 Whiskey: X-ray, sending you 4
+2024-10-15 05:07:57.106519 Echo: Victor, sending you 1
+2024-10-15 05:07:57.107585 Charlie: Bravo, sending you 4
+2024-10-15 05:07:57.108696 Bravo: Echo, sending you 4
+2024-10-15 05:07:57.109680 X-ray: Victor, sending you 3
+2024-10-15 05:07:57.110272 Victor: Oscar, sending you 5
+2024-10-15 05:07:57.111794 Whiskey: Hotel, sending you 3
+2024-10-15 05:07:57.112278 Bravo: Oscar, sending you 3
+2024-10-15 05:07:57.112761 Charlie: Victor, sending you 2
+2024-10-15 05:07:57.115651 Bravo: Victor, sending you 1
+2024-10-15 05:07:57.116697 Whiskey: Victor, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 8
+ChatterBot Charlie round 8
+ChatterBot Echo round 8
+ChatterBot Mike round 8
+ChatterBot X-ray round 8
+ChatterBot Hotel round 8
+ChatterBot Oscar round 8
+ChatterBot Whiskey round 8
+ChatterBot Bravo round 8
+ChatterBot Victor round 8
+2024-10-15 05:07:58.351706 Mike: Charlie, sending you 7
+2024-10-15 05:07:58.356682 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:07:58.358019 Oscar: Charlie, Mike and Bravo, sending you 3
+2024-10-15 05:07:58.358896 Charlie: Echo and Oscar, sending you 3
+2024-10-15 05:07:58.361294 Lima: Same as last round
+2024-10-15 05:07:58.362132 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:07:58.362862 Hotel: Lima and X-ray, sending you 4
+2024-10-15 05:07:58.363505 Mike: Oscar, sending you 2
+2024-10-15 05:07:58.364026 Oscar: Echo, sending you 4
+2024-10-15 05:07:58.365185 Charlie: Mike, sending you 6
+2024-10-15 05:07:58.365880 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:07:58.366482 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:07:58.366872 Bravo: Echo, sending you 4
+2024-10-15 05:07:58.367280 Hotel: Oscar, Whiskey and Victor, sending you 3
+2024-10-15 05:07:58.368689 Oscar: Victor, sending you 5
+2024-10-15 05:07:58.369401 Charlie: Bravo, sending you 4
+2024-10-15 05:07:58.370075 Victor: X-ray, Hotel and Whiskey, sending you 4
+2024-10-15 05:07:58.370685 Echo: Mike, sending you 4
+2024-10-15 05:07:58.371080 X-ray: Victor, sending you 3
+2024-10-15 05:07:58.371390 Bravo: Oscar, sending you 3
+2024-10-15 05:07:58.372343 Whiskey: Lima, sending you 6
+2024-10-15 05:07:58.373697 Victor: Oscar, sending you 5
+2024-10-15 05:07:58.375634 Echo: Victor, sending you 1
+2024-10-15 05:07:58.376085 Charlie: Victor, sending you 2
+2024-10-15 05:07:58.376665 Bravo: Victor, sending you 1
+2024-10-15 05:07:58.377887 Whiskey: X-ray, sending you 4
+2024-10-15 05:07:58.382684 Whiskey: Hotel and Victor, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 9
+ChatterBot Charlie round 9
+ChatterBot Echo round 9
+ChatterBot Mike round 9
+ChatterBot X-ray round 9
+ChatterBot Hotel round 9
+ChatterBot Oscar round 9
+ChatterBot Whiskey round 9
+ChatterBot Bravo round 9
+ChatterBot Victor round 9
+2024-10-15 05:07:59.586825 Hotel: We should drop Oscar
+2024-10-15 05:07:59.597960 X-ray: Yes
+2024-10-15 05:07:59.598129 Lima: Yes
+2024-10-15 05:07:59.598251 Whiskey: Yes
+2024-10-15 05:07:59.598365 Victor: No
+2024-10-15 05:07:59.633261 Lima: Same as last round
+2024-10-15 05:07:59.635681 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:07:59.636831 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:07:59.637695 Charlie: Echo and Oscar, sending you 3
+2024-10-15 05:07:59.638297 Mike: Charlie, sending you 6
+2024-10-15 05:07:59.640674 Echo: Mike, sending you 4
+2024-10-15 05:07:59.641753 X-ray: Victor, sending you 3
+2024-10-15 05:07:59.642400 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:07:59.642865 Charlie: Mike, sending you 6
+2024-10-15 05:07:59.644661 Echo: Victor, sending you 1
+2024-10-15 05:07:59.645681 Mike: Oscar, sending you 3
+2024-10-15 05:07:59.646857 Charlie: Bravo, sending you 4
+2024-10-15 05:07:59.650889 Whiskey: Lima, sending you 6
+2024-10-15 05:07:59.651654 Charlie: Victor, sending you 2
+2024-10-15 05:07:59.653705 Oscar: Charlie, Echo and Victor, sending you 4
+2024-10-15 05:07:59.654556 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:07:59.655903 Victor: X-ray, Hotel and Whiskey, sending you 4
+2024-10-15 05:07:59.656692 Hotel: Lima, sending you 5
+2024-10-15 05:07:59.657383 Whiskey: X-ray, sending you 4
+2024-10-15 05:07:59.658535 Oscar: Mike and Bravo, sending you 3
+2024-10-15 05:07:59.659241 Bravo: Echo, sending you 4
+2024-10-15 05:07:59.660379 Victor: Oscar, sending you 5
+2024-10-15 05:07:59.661669 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:07:59.662897 Whiskey: Hotel and Victor, sending you 3
+2024-10-15 05:07:59.663895 Bravo: Oscar, sending you 3
+2024-10-15 05:07:59.668652 Bravo: Victor, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 10
+ChatterBot Charlie round 10
+ChatterBot Echo round 10
+ChatterBot Mike round 10
+ChatterBot X-ray round 10
+ChatterBot Hotel round 10
+ChatterBot Oscar round 10
+ChatterBot Whiskey round 10
+ChatterBot Bravo round 10
+ChatterBot Victor round 10
+2024-10-15 05:08:00.838859 Victor: We should drop Oscar
+2024-10-15 05:08:00.848794 X-ray: Yes
+2024-10-15 05:08:00.848980 Lima: Yes
+2024-10-15 05:08:00.849120 Hotel: Yes
+2024-10-15 05:08:00.849245 Whiskey: Yes
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 05:08:00.888064 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:00.890661 Echo: Mike, sending you 4
+2024-10-15 05:08:00.891657 Lima: Same as last round
+2024-10-15 05:08:00.892128 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:00.892543 Charlie: Echo and Oscar, sending you 3
+2024-10-15 05:08:00.893610 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:00.894156 Hotel: Lima, sending you 5
+2024-10-15 05:08:00.894805 Mike: Charlie, sending you 6
+2024-10-15 05:08:00.895259 Oscar: Charlie, Echo and Victor, sending you 4
+2024-10-15 05:08:00.895745 Whiskey: Lima, sending you 6
+2024-10-15 05:08:00.896087 Echo: Victor, sending you 1
+2024-10-15 05:08:00.896502 X-ray: Victor, sending you 3
+2024-10-15 05:08:00.897328 Charlie: Mike, sending you 6
+2024-10-15 05:08:00.897891 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:00.898672 Bravo: Echo, sending you 4
+2024-10-15 05:08:00.899409 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:00.900547 Oscar: Mike and Bravo, sending you 3
+2024-10-15 05:08:00.901451 Whiskey: X-ray, sending you 4
+2024-10-15 05:08:00.902717 Charlie: Bravo, sending you 4
+2024-10-15 05:08:00.903559 Bravo: Oscar, sending you 3
+2024-10-15 05:08:00.905263 Mike: Oscar, sending you 3
+2024-10-15 05:08:00.906668 Whiskey: Hotel and Victor, sending you 3
+2024-10-15 05:08:00.907721 Charlie: Victor, sending you 2
+2024-10-15 05:08:00.909001 Bravo: Victor, sending you 1
+2024-10-15 05:08:00.921666 Victor: X-ray, Hotel and Whiskey, sending you 4
+2024-10-15 05:08:00.926665 Victor: Oscar, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 11
+ChatterBot Charlie round 11
+ChatterBot Echo round 11
+ChatterBot Mike round 11
+ChatterBot X-ray round 11
+ChatterBot Hotel round 11
+ChatterBot Oscar round 11
+ChatterBot Whiskey round 11
+ChatterBot Bravo round 11
+ChatterBot Victor round 11
+2024-10-15 05:08:02.071966 Charlie: We should drop Victor
+2024-10-15 05:08:02.080928 Bravo: No
+2024-10-15 05:08:02.081093 Echo: No
+2024-10-15 05:08:02.081220 Mike: No
+2024-10-15 05:08:02.081339 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:02.136676 Whiskey: Lima, sending you 6
+2024-10-15 05:08:02.138273 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:02.139493 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:02.141378 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:02.142449 Charlie: Mike, sending you 6
+2024-10-15 05:08:02.143550 Whiskey: X-ray, sending you 4
+2024-10-15 05:08:02.144708 Hotel: Lima, sending you 5
+2024-10-15 05:08:02.145584 Victor: X-ray, Hotel and Whiskey, sending you 4
+2024-10-15 05:08:02.146198 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:02.147579 Oscar: Charlie, Echo and Victor, sending you 4
+2024-10-15 05:08:02.148372 Echo: Mike, sending you 4
+2024-10-15 05:08:02.149059 X-ray: Victor, sending you 3
+2024-10-15 05:08:02.149538 Lima: Same as last round
+2024-10-15 05:08:02.150842 Mike: Charlie, sending you 6
+2024-10-15 05:08:02.151575 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:02.152091 Whiskey: Hotel and Victor, sending you 3
+2024-10-15 05:08:02.152532 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:02.153759 Victor: Oscar, sending you 5
+2024-10-15 05:08:02.154404 Echo: Victor, sending you 1
+2024-10-15 05:08:02.155121 Oscar: Mike and Bravo, sending you 3
+2024-10-15 05:08:02.155707 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:02.161655 Mike: Oscar, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 12
+ChatterBot Charlie round 12
+ChatterBot Echo round 12
+ChatterBot Mike round 12
+ChatterBot X-ray round 12
+ChatterBot Hotel round 12
+ChatterBot Oscar round 12
+ChatterBot Whiskey round 12
+ChatterBot Bravo round 12
+ChatterBot Victor round 12
+2024-10-15 05:08:03.280401 Mike: Charlie, sending you 6
+2024-10-15 05:08:03.281671 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:03.283694 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:03.286680 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:03.287370 Mike: Oscar, sending you 3
+2024-10-15 05:08:03.288066 Echo: Mike, sending you 4
+2024-10-15 05:08:03.288666 Lima: Same as last round
+2024-10-15 05:08:03.290705 X-ray: Victor, sending you 3
+2024-10-15 05:08:03.292069 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:03.293128 Echo: Victor, sending you 1
+2024-10-15 05:08:03.293959 Whiskey: Lima, sending you 6
+2024-10-15 05:08:03.294742 Victor: X-ray, Oscar and Whiskey, sending you 4
+2024-10-15 05:08:03.295508 Oscar: Charlie, Echo and Victor, sending you 4
+2024-10-15 05:08:03.296665 Charlie: Mike, sending you 6
+2024-10-15 05:08:03.298407 Whiskey: X-ray, sending you 4
+2024-10-15 05:08:03.299301 Victor: Hotel, sending you 5
+2024-10-15 05:08:03.300118 Oscar: Mike and Bravo, sending you 3
+2024-10-15 05:08:03.301102 Hotel: Lima, sending you 5
+2024-10-15 05:08:03.301834 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:03.302703 Whiskey: Hotel and Victor, sending you 3
+2024-10-15 05:08:03.306669 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:03.308301 Bravo: Echo and Oscar, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 13
+ChatterBot Charlie round 13
+ChatterBot Echo round 13
+ChatterBot Mike round 13
+ChatterBot X-ray round 13
+ChatterBot Hotel round 13
+ChatterBot Oscar round 13
+ChatterBot Whiskey round 13
+ChatterBot Bravo round 13
+ChatterBot Victor round 13
+2024-10-15 05:08:04.560897 Victor: We should drop Oscar
+2024-10-15 05:08:04.585528 X-ray: Yes
+2024-10-15 05:08:04.586525 Lima: Yes
+2024-10-15 05:08:04.586751 Hotel: Yes
+2024-10-15 05:08:04.586941 Whiskey: Yes
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 05:08:04.778091 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:04.781080 Oscar: Charlie, Echo and Victor, sending you 4
+2024-10-15 05:08:04.782489 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:04.784898 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:04.786948 Mike: Charlie, sending you 6
+2024-10-15 05:08:04.787878 Echo: Mike, sending you 4
+2024-10-15 05:08:04.789629 Oscar: Mike and Bravo, sending you 3
+2024-10-15 05:08:04.790772 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:04.792575 Hotel: Lima, sending you 5
+2024-10-15 05:08:04.793742 Lima: Same as last round
+2024-10-15 05:08:04.795114 Whiskey: Lima, sending you 6
+2024-10-15 05:08:04.795859 X-ray: Victor, sending you 3
+2024-10-15 05:08:04.797408 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:04.798509 Charlie: Mike, sending you 6
+2024-10-15 05:08:04.800261 Echo: Victor, sending you 1
+2024-10-15 05:08:04.801336 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:04.803471 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:04.805144 Whiskey: X-ray, sending you 4
+2024-10-15 05:08:04.806010 Mike: Oscar, sending you 3
+2024-10-15 05:08:04.809340 Whiskey: Hotel and Victor, sending you 3
+2024-10-15 05:08:04.815690 Victor: X-ray and Hotel, sending you 6
+2024-10-15 05:08:04.821054 Victor: Whiskey, sending you 5
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 14
+ChatterBot Charlie round 14
+ChatterBot Echo round 14
+ChatterBot Mike round 14
+ChatterBot X-ray round 14
+ChatterBot Hotel round 14
+ChatterBot Oscar round 14
+ChatterBot Whiskey round 14
+ChatterBot Bravo round 14
+ChatterBot Victor round 14
+2024-10-15 05:08:05.787689 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:05.791660 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:05.793721 Charlie: Mike, sending you 6
+2024-10-15 05:08:05.795710 Mike: Charlie, sending you 6
+2024-10-15 05:08:05.796696 X-ray: Victor, sending you 3
+2024-10-15 05:08:05.798038 Oscar: Charlie, Echo, Bravo and Victor, sending you 4
+2024-10-15 05:08:05.798891 Lima: Same as last round
+2024-10-15 05:08:05.799324 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:05.801087 Hotel: Lima, sending you 5
+2024-10-15 05:08:05.801740 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:05.802589 Whiskey: Lima, sending you 6
+2024-10-15 05:08:05.803181 Victor: X-ray, sending you 5
+2024-10-15 05:08:05.804125 Oscar: Mike, sending you 2
+2024-10-15 05:08:05.805222 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:05.806346 Echo: Mike, sending you 4
+2024-10-15 05:08:05.807036 Mike: Oscar, sending you 3
+2024-10-15 05:08:05.807763 Whiskey: X-ray, sending you 4
+2024-10-15 05:08:05.808326 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:05.809235 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:05.809970 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:05.811678 Echo: Victor, sending you 1
+2024-10-15 05:08:05.812539 Whiskey: Hotel and Victor, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 15
+ChatterBot Charlie round 15
+ChatterBot Echo round 15
+ChatterBot Mike round 15
+ChatterBot X-ray round 15
+ChatterBot Hotel round 15
+ChatterBot Oscar round 15
+ChatterBot Whiskey round 15
+ChatterBot Bravo round 15
+ChatterBot Victor round 15
+2024-10-15 05:08:07.101705 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:07.104093 Hotel: Lima, sending you 5
+2024-10-15 05:08:07.105726 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:07.107697 Lima: Same as last round
+2024-10-15 05:08:07.108939 Charlie: Mike, sending you 6
+2024-10-15 05:08:07.112681 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:07.114412 Echo: Mike, sending you 4
+2024-10-15 05:08:07.117617 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:07.119160 Mike: Charlie, sending you 6
+2024-10-15 05:08:07.121763 Victor: X-ray, sending you 5
+2024-10-15 05:08:07.124304 Whiskey: Lima, sending you 6
+2024-10-15 05:08:07.127174 Oscar: Charlie, Echo, Bravo and Victor, sending you 4
+2024-10-15 05:08:07.131327 Echo: Victor, sending you 1
+2024-10-15 05:08:07.133899 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:07.136097 X-ray: Victor, sending you 4
+2024-10-15 05:08:07.137942 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:07.140422 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:07.143296 Whiskey: X-ray, sending you 4
+2024-10-15 05:08:07.146591 Oscar: Mike, sending you 2
+2024-10-15 05:08:07.150303 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:07.153120 Mike: Oscar, sending you 3
+2024-10-15 05:08:07.155346 Whiskey: Hotel and Victor, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 16
+ChatterBot Charlie round 16
+ChatterBot Echo round 16
+ChatterBot Mike round 16
+ChatterBot X-ray round 16
+ChatterBot Hotel round 16
+ChatterBot Oscar round 16
+ChatterBot Whiskey round 16
+ChatterBot Bravo round 16
+ChatterBot Victor round 16
+2024-10-15 05:08:08.267381 Oscar: We should drop Victor
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:08.284500 Bravo: No
+2024-10-15 05:08:08.284753 Charlie: Yes
+2024-10-15 05:08:08.284978 Echo: No
+2024-10-15 05:08:08.285183 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:08.360936 Mike: We should replace Victor with Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:08.374745 Bravo: No
+2024-10-15 05:08:08.374921 Charlie: No
+2024-10-15 05:08:08.375059 Echo: No
+2024-10-15 05:08:08.375179 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:08.453484 Mike: We should replace Victor with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:08.470601 Bravo: No
+2024-10-15 05:08:08.470806 Charlie: No
+2024-10-15 05:08:08.470981 Echo: No
+2024-10-15 05:08:08.471147 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:08.549708 Lima: Same as last round
+2024-10-15 05:08:08.551769 Victor: X-ray and Hotel, sending you 6
+2024-10-15 05:08:08.554186 Oscar: Charlie, sending you 6
+2024-10-15 05:08:08.555812 Hotel: Lima, sending you 5
+2024-10-15 05:08:08.558327 Whiskey: Lima, sending you 5
+2024-10-15 05:08:08.560262 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:08.562834 X-ray: Lima, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:08.565450 Mike: Whiskey we want you to join our group
+2024-10-15 05:08:08.570969 Whiskey: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:08.588467 Victor: Whiskey, sending you 5
+2024-10-15 05:08:08.590068 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:08.591254 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:08.592682 Whiskey: X-ray and Victor, sending you 4
+2024-10-15 05:08:08.593500 Echo: Mike, sending you 4
+2024-10-15 05:08:08.595640 X-ray: Victor, sending you 4
+2024-10-15 05:08:08.597676 Whiskey: Hotel, sending you 3
+2024-10-15 05:08:08.599230 Echo: Victor, sending you 1
+2024-10-15 05:08:08.611674 Mike: Charlie, sending you 6
+2024-10-15 05:08:08.616871 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:08.619338 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:08.621298 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:08.622440 Mike: Oscar, sending you 3
+2024-10-15 05:08:08.624504 Charlie: Mike, sending you 6
+2024-10-15 05:08:08.626684 Bravo: Echo and Oscar, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 17
+ChatterBot Charlie round 17
+ChatterBot Echo round 17
+ChatterBot Mike round 17
+ChatterBot X-ray round 17
+ChatterBot Hotel round 17
+ChatterBot Oscar round 17
+ChatterBot Whiskey round 17
+ChatterBot Bravo round 17
+2024-10-15 05:08:09.800599 Mike: We should replace Victor with Hotel
+2024-10-15 05:08:09.811683 Bravo: No
+2024-10-15 05:08:09.811863 Charlie: No
+2024-10-15 05:08:09.811989 Echo: No
+2024-10-15 05:08:09.812096 Oscar: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Victor round 17
+2024-10-15 05:08:09.876066 Mike: Hotel we want you to join our group
+2024-10-15 05:08:09.879805 Hotel: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:09.891183 X-ray: Lima, Hotel and Victor, sending you 4
+2024-10-15 05:08:09.894685 Oscar: Charlie, sending you 6
+2024-10-15 05:08:09.896866 Echo: Hotel we want you to join our group
+2024-10-15 05:08:09.899590 Hotel: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:09.914449 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:09.916253 Whiskey: Lima, sending you 5
+2024-10-15 05:08:09.917063 Hotel: Lima, sending you 5
+2024-10-15 05:08:09.917727 X-ray: Whiskey, sending you 5
+2024-10-15 05:08:09.919085 Lima: Same as last round
+2024-10-15 05:08:09.919560 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:09.920169 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:09.920774 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:09.922345 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:09.923038 Whiskey: X-ray and Victor, sending you 4
+2024-10-15 05:08:09.923745 Charlie: Mike, sending you 6
+2024-10-15 05:08:09.924978 Victor: X-ray, sending you 5
+2024-10-15 05:08:09.927699 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:09.928684 Whiskey: Hotel, sending you 3
+2024-10-15 05:08:09.931682 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:09.938792 Echo: Mike, sending you 4
+2024-10-15 05:08:09.940068 Mike: Charlie, sending you 6
+2024-10-15 05:08:09.944165 Echo: Victor, sending you 1
+2024-10-15 05:08:09.945691 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:09.952665 Mike: Oscar, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 18
+ChatterBot Charlie round 18
+ChatterBot Echo round 18
+ChatterBot Mike round 18
+ChatterBot X-ray round 18
+ChatterBot Hotel round 18
+ChatterBot Oscar round 18
+ChatterBot Whiskey round 18
+ChatterBot Bravo round 18
+ChatterBot Victor round 18
+2024-10-15 05:08:11.225280 Echo: We should replace Victor with Hotel
+ChatterBot Mike reevaluating
+2024-10-15 05:08:11.321239 Bravo: No
+2024-10-15 05:08:11.321498 Charlie: No
+2024-10-15 05:08:11.321704 Mike: Yes
+2024-10-15 05:08:11.321895 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:11.433413 Charlie: We should add Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:11.447391 Bravo: No
+2024-10-15 05:08:11.448217 Echo: Yes
+2024-10-15 05:08:11.448465 Mike: Yes
+2024-10-15 05:08:11.448697 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:11.787220 Mike: Hotel we want you to join our group
+2024-10-15 05:08:11.797521 Hotel: No
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:11.852665 Lima: Same as last round
+2024-10-15 05:08:11.854863 Oscar: Charlie, sending you 6
+2024-10-15 05:08:11.857438 Hotel: Lima, sending you 5
+2024-10-15 05:08:11.860074 Victor: X-ray, sending you 5
+2024-10-15 05:08:11.863104 Echo: Charlie, Oscar and Bravo, sending you 3
+2024-10-15 05:08:11.865913 Whiskey: Lima, sending you 5
+2024-10-15 05:08:11.868297 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:11.870227 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:11.871663 Bravo: Hotel we want you to join our group
+2024-10-15 05:08:11.874749 Hotel: No
+ChatterBot Echo reevaluating
+2024-10-15 05:08:11.890084 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:11.890712 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:11.892160 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:11.894359 Whiskey: X-ray and Victor, sending you 4
+2024-10-15 05:08:11.896401 Charlie: Mike, sending you 6
+2024-10-15 05:08:11.897969 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:11.899839 Echo: Hotel we want you to join our group
+2024-10-15 05:08:11.903352 Hotel: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:11.918144 Mike: Charlie, sending you 6
+2024-10-15 05:08:11.919464 Whiskey: Hotel, sending you 3
+2024-10-15 05:08:11.925326 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:11.929776 Mike: Oscar, sending you 3
+2024-10-15 05:08:11.947420 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:11.962510 Bravo: Echo and Oscar, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 19
+ChatterBot Charlie round 19
+ChatterBot Echo round 19
+ChatterBot Mike round 19
+ChatterBot X-ray round 19
+ChatterBot Hotel round 19
+ChatterBot Oscar round 19
+ChatterBot Whiskey round 19
+ChatterBot Bravo round 19
+ChatterBot Victor round 19
+2024-10-15 05:08:12.805100 Echo: We should replace Hotel with Victor
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:12.819991 Bravo: No
+2024-10-15 05:08:12.820181 Charlie: No
+2024-10-15 05:08:12.820339 Mike: No
+2024-10-15 05:08:12.820487 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:12.894697 Mike: Victor we want you to join our group
+2024-10-15 05:08:12.900838 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:12.924589 Mike: We should replace Hotel with Whiskey
+ChatterBot Echo reevaluating
+2024-10-15 05:08:12.941806 Bravo: No
+2024-10-15 05:08:12.942004 Charlie: No
+2024-10-15 05:08:12.942209 Echo: No
+2024-10-15 05:08:12.942523 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:13.054684 Charlie: Echo, Oscar and Bravo, sending you 4
+2024-10-15 05:08:13.061995 Hotel: Lima, sending you 5
+2024-10-15 05:08:13.064150 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:13.066967 Whiskey: Lima, sending you 5
+2024-10-15 05:08:13.075579 Lima: Same as last round
+2024-10-15 05:08:13.076815 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:13.079514 Oscar: Charlie, sending you 6
+2024-10-15 05:08:13.081052 Charlie: Mike, sending you 6
+2024-10-15 05:08:13.083455 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:13.089567 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:13.091731 Whiskey: X-ray and Victor, sending you 4
+2024-10-15 05:08:13.092714 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:13.095303 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:13.100542 Echo: Victor we want you to join our group
+2024-10-15 05:08:13.120327 Victor: No
+ChatterBot Mike reevaluating
+2024-10-15 05:08:13.238757 Victor: X-ray, sending you 5
+2024-10-15 05:08:13.248681 Whiskey: Hotel, sending you 3
+2024-10-15 05:08:13.252768 Mike: Whiskey we want you to join our group
+2024-10-15 05:08:13.261960 Whiskey: No
+ChatterBot Mike reevaluating
+2024-10-15 05:08:13.283145 Victor: Hotel and Whiskey, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+2024-10-15 05:08:13.528717 Mike: Charlie, sending you 6
+2024-10-15 05:08:13.552188 Mike: Echo and Bravo, sending you 4
+chatterbot Whiskey submitting transactions
+2024-10-15 05:08:13.586051 Mike: Oscar, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 20
+ChatterBot Charlie round 20
+ChatterBot Echo round 20
+ChatterBot Mike round 20
+ChatterBot X-ray round 20
+ChatterBot Hotel round 20
+ChatterBot Oscar round 20
+ChatterBot Whiskey round 20
+ChatterBot Bravo round 20
+ChatterBot Victor round 20
+2024-10-15 05:08:14.025974 Echo: We should replace Hotel with Victor
+ChatterBot Mike reevaluating
+2024-10-15 05:08:14.044105 Bravo: No
+2024-10-15 05:08:14.044314 Charlie: No
+2024-10-15 05:08:14.045029 Mike: No
+2024-10-15 05:08:14.045238 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:14.118873 Mike: We should replace Victor with Lima
+ChatterBot Echo reevaluating
+2024-10-15 05:08:14.128430 Bravo: No
+2024-10-15 05:08:14.128608 Charlie: No
+2024-10-15 05:08:14.128786 Echo: No
+2024-10-15 05:08:14.128901 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:14.169393 Mike: We should replace Victor with Whiskey
+ChatterBot Echo reevaluating
+2024-10-15 05:08:14.178066 Bravo: No
+2024-10-15 05:08:14.178202 Charlie: No
+2024-10-15 05:08:14.178305 Echo: No
+2024-10-15 05:08:14.178413 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:14.214684 Oscar: Charlie, sending you 6
+2024-10-15 05:08:14.215686 Whiskey: Lima, sending you 5
+2024-10-15 05:08:14.218700 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:14.219704 Echo: Victor we want you to join our group
+2024-10-15 05:08:14.223269 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:14.237078 Victor: Lima, sending you 2
+2024-10-15 05:08:14.238079 Whiskey: X-ray and Victor, sending you 4
+2024-10-15 05:08:14.241678 Victor: X-ray, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:14.242799 Hotel: Lima, sending you 5
+2024-10-15 05:08:14.243673 Whiskey: Hotel, sending you 3
+2024-10-15 05:08:14.244874 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:14.246805 Lima: Same as last round
+2024-10-15 05:08:14.247465 Mike: Charlie, sending you 6
+2024-10-15 05:08:14.248594 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:14.249776 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:14.251341 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:14.252690 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:14.253892 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:14.257683 Mike: Oscar, sending you 3
+2024-10-15 05:08:14.268046 Charlie: Echo and Bravo, sending you 4
+2024-10-15 05:08:14.271661 Charlie: Mike and Oscar, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Lima round 21
+ChatterBot Charlie round 21
+ChatterBot Echo round 21
+ChatterBot Mike round 21
+ChatterBot X-ray round 21
+ChatterBot Hotel round 21
+ChatterBot Oscar round 21
+ChatterBot Whiskey round 21
+ChatterBot Bravo round 21
+ChatterBot Victor round 21
+2024-10-15 05:08:15.533059 Bravo: We should add Lima
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:15.547891 Charlie: Yes
+2024-10-15 05:08:15.548071 Echo: No
+2024-10-15 05:08:15.548227 Mike: No
+2024-10-15 05:08:15.548396 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:15.643370 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:15.646661 Lima: Same as last round
+2024-10-15 05:08:15.647914 Charlie: Echo and Bravo, sending you 4
+2024-10-15 05:08:15.650009 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:15.652918 Whiskey: Sending you each 4
+2024-10-15 05:08:15.654184 Oscar: Charlie, sending you 6
+2024-10-15 05:08:15.656076 Charlie: Mike and Oscar, sending you 5
+2024-10-15 05:08:15.657866 Hotel: Lima, sending you 5
+2024-10-15 05:08:15.659638 Mike: Charlie, sending you 6
+2024-10-15 05:08:15.662255 Victor: Lima, sending you 2
+2024-10-15 05:08:15.663988 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:15.666532 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:15.668481 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:15.671146 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:15.674523 Victor: X-ray, Hotel and Whiskey, sending you 5
+2024-10-15 05:08:15.677841 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:15.681396 Mike: Oscar, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 22
+ChatterBot Charlie round 22
+ChatterBot Echo round 22
+ChatterBot Mike round 22
+ChatterBot X-ray round 22
+ChatterBot Hotel round 22
+ChatterBot Oscar round 22
+ChatterBot Whiskey round 22
+ChatterBot Bravo round 22
+ChatterBot Victor round 22
+2024-10-15 05:08:17.539693 Echo: We should replace Hotel with X-ray
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.554242 Bravo: No
+2024-10-15 05:08:17.554488 Charlie: No
+2024-10-15 05:08:17.554709 Mike: Yes
+2024-10-15 05:08:17.554892 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.623966 Bravo: We should add X-ray
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.644404 Charlie: Yes
+2024-10-15 05:08:17.644638 Echo: Yes
+2024-10-15 05:08:17.644836 Mike: Yes
+2024-10-15 05:08:17.645037 Oscar: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.738499 Mike: We should replace Victor with X-ray
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:17.749851 Bravo: Yes
+2024-10-15 05:08:17.750018 Charlie: Yes
+2024-10-15 05:08:17.750139 Echo: No
+2024-10-15 05:08:17.750250 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.791905 Echo: We should replace Hotel with Lima
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.806174 Bravo: No
+2024-10-15 05:08:17.806374 Charlie: No
+2024-10-15 05:08:17.806540 Mike: No
+2024-10-15 05:08:17.806744 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.853672 Lima: Same as last round
+2024-10-15 05:08:17.854515 Oscar: Charlie, sending you 6
+2024-10-15 05:08:17.855648 Hotel: Lima, sending you 5
+2024-10-15 05:08:17.857536 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:17.858660 Bravo: X-ray we want you to join our group
+2024-10-15 05:08:17.862427 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.876975 Echo: We should replace Hotel with Victor
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.888425 Bravo: No
+2024-10-15 05:08:17.888622 Charlie: No
+2024-10-15 05:08:17.888806 Mike: No
+2024-10-15 05:08:17.888954 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.933519 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:17.934636 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:17.937247 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:17.938392 Echo: We should replace Hotel with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.949562 Bravo: No
+2024-10-15 05:08:17.950364 Charlie: No
+2024-10-15 05:08:17.950510 Mike: No
+2024-10-15 05:08:17.950681 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:17.989060 Victor: X-ray, sending you 5
+2024-10-15 05:08:17.990791 Whiskey: Lima, sending you 5
+2024-10-15 05:08:17.994661 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:17.995453 Whiskey: X-ray and Victor, sending you 4
+2024-10-15 05:08:17.998909 Charlie: X-ray we want you to join our group
+2024-10-15 05:08:18.003627 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:18.015798 Whiskey: Hotel, sending you 3
+2024-10-15 05:08:18.019860 Mike: Charlie, sending you 6
+2024-10-15 05:08:18.023261 Echo: Victor we want you to join our group
+2024-10-15 05:08:18.027691 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:18.042009 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:18.044671 Charlie: Echo, sending you 3
+2024-10-15 05:08:18.046697 Mike: Oscar, sending you 3
+2024-10-15 05:08:18.049661 Charlie: Mike, sending you 5
+2024-10-15 05:08:18.052670 Charlie: X-ray, sending you 2
+2024-10-15 05:08:18.057809 Charlie: Oscar and Bravo, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-15 05:08:18.069054 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:18.072675 Bravo: Echo and Oscar, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 23
+ChatterBot Charlie round 23
+ChatterBot Echo round 23
+ChatterBot Mike round 23
+ChatterBot X-ray round 23
+ChatterBot Hotel round 23
+ChatterBot Oscar round 23
+ChatterBot Whiskey round 23
+ChatterBot Bravo round 23
+ChatterBot Victor round 23
+2024-10-15 05:08:19.271032 Echo: We should replace Hotel with Victor
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:19.292240 Bravo: No
+2024-10-15 05:08:19.292451 Charlie: No
+2024-10-15 05:08:19.292640 Mike: No
+2024-10-15 05:08:19.292828 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:19.425668 Charlie: We should drop X-ray
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:19.442738 Bravo: Yes
+2024-10-15 05:08:19.443597 Echo: Yes
+2024-10-15 05:08:19.443797 Mike: Yes
+2024-10-15 05:08:19.443922 Oscar: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:19.511699 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:19.514487 Charlie: Echo and Bravo, sending you 4
+2024-10-15 05:08:19.518156 Whiskey: Sending you each 4
+2024-10-15 05:08:19.520554 Hotel: Lima, sending you 5
+2024-10-15 05:08:19.522376 Mike: Charlie, sending you 6
+2024-10-15 05:08:19.525862 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:19.527872 Charlie: Mike and Oscar, sending you 5
+2024-10-15 05:08:19.530001 Oscar: Charlie, sending you 6
+2024-10-15 05:08:19.532651 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:19.534688 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:19.536479 Victor: X-ray, sending you 5
+2024-10-15 05:08:19.538375 Lima: Same as last round
+2024-10-15 05:08:19.539079 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:19.540035 Mike: Oscar, sending you 3
+2024-10-15 05:08:19.542677 Victor: Hotel and Whiskey, sending you 6
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 24
+ChatterBot Charlie round 24
+ChatterBot Echo round 24
+ChatterBot Mike round 24
+ChatterBot X-ray round 24
+ChatterBot Hotel round 24
+ChatterBot Oscar round 24
+ChatterBot Whiskey round 24
+ChatterBot Bravo round 24
+ChatterBot Victor round 24
+2024-10-15 05:08:21.240692 Echo: We should replace Hotel with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:21.252714 Bravo: Yes
+2024-10-15 05:08:21.253459 Charlie: No
+2024-10-15 05:08:21.253638 Mike: No
+2024-10-15 05:08:21.253787 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:21.375011 Bravo: We should drop X-ray
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:21.391706 Charlie: Yes
+2024-10-15 05:08:21.391929 Echo: Yes
+2024-10-15 05:08:21.392124 Mike: Yes
+2024-10-15 05:08:21.392285 Oscar: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:21.454683 Hotel: Lima, sending you 5
+2024-10-15 05:08:21.458326 Oscar: Charlie, sending you 6
+2024-10-15 05:08:21.462193 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:21.465408 Whiskey: Same as last round
+2024-10-15 05:08:21.468676 Lima: Same as last round
+2024-10-15 05:08:21.472013 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:21.475574 Mike: Whiskey we want you to join our group
+2024-10-15 05:08:21.482598 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:21.503060 Charlie: We should add Whiskey
+2024-10-15 05:08:21.503441 Bravo: We should replace X-ray with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:21.517222 Bravo: Yes
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:21.521016 Echo: No
+ChatterBot Echo reevaluating
+2024-10-15 05:08:21.524026 Mike: Yes
+2024-10-15 05:08:21.526692 Oscar: No
+2024-10-15 05:08:21.529464 Charlie: No
+2024-10-15 05:08:21.529603 Echo: No
+2024-10-15 05:08:21.530305 Mike: Yes
+2024-10-15 05:08:21.530414 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:21.664697 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:21.667104 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:21.668742 Victor: X-ray, sending you 5
+2024-10-15 05:08:21.670715 Bravo: We should replace X-ray with Victor
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:21.684131 Charlie: No
+2024-10-15 05:08:21.684315 Echo: Yes
+2024-10-15 05:08:21.684482 Mike: Yes
+2024-10-15 05:08:21.684640 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:21.734454 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:21.737 Bravo: We should replace X-ray with Lima
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:21.748126 Charlie: No
+2024-10-15 05:08:21.748270 Echo: No
+2024-10-15 05:08:21.748390 Mike: Yes
+2024-10-15 05:08:21.748495 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+2024-10-15 05:08:21.801713 Echo: Victor we want you to join our group
+2024-10-15 05:08:21.808622 Victor: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:21.834653 Bravo: Lima we want you to join our group
+2024-10-15 05:08:21.837360 Lima: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:21.854673 Charlie: Echo and Bravo, sending you 4
+2024-10-15 05:08:21.859664 Charlie: Mike and Oscar, sending you 5
+2024-10-15 05:08:21.884978 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:21.889293 Mike: Charlie, sending you 6
+2024-10-15 05:08:21.893694 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:21.899091 Mike: Echo and Bravo, sending you 4
+2024-10-15 05:08:21.908667 Mike: Oscar, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 25
+ChatterBot Charlie round 25
+ChatterBot Echo round 25
+ChatterBot Mike round 25
+ChatterBot X-ray round 25
+ChatterBot Hotel round 25
+ChatterBot Oscar round 25
+ChatterBot Whiskey round 25
+ChatterBot Bravo round 25
+ChatterBot Victor round 25
+2024-10-15 05:08:23.200691 Echo: We should replace Hotel with Victor
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:23.215028 Bravo: No
+2024-10-15 05:08:23.215251 Charlie: No
+2024-10-15 05:08:23.215386 Mike: No
+2024-10-15 05:08:23.215505 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:23.337118 Echo: We should replace Hotel with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:23.352948 Bravo: Yes
+2024-10-15 05:08:23.353153 Charlie: Yes
+2024-10-15 05:08:23.353338 Mike: Yes
+2024-10-15 05:08:23.353490 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:23.412695 Echo: Victor we want you to join our group
+2024-10-15 05:08:23.419130 Victor: No
+ChatterBot Echo reevaluating
+2024-10-15 05:08:23.436981 Charlie: Whiskey we want you to join our group
+2024-10-15 05:08:23.443002 Whiskey: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:23.464834 Bravo: We should add Victor
+ChatterBot Echo reevaluating
+2024-10-15 05:08:23.479842 Charlie: No
+2024-10-15 05:08:23.480018 Echo: Yes
+2024-10-15 05:08:23.480222 Mike: No
+2024-10-15 05:08:23.480461 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:23.537290 Victor: X-ray, sending you 5
+2024-10-15 05:08:23.541438 Bravo: We should add Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:23.556092 Charlie: No
+2024-10-15 05:08:23.556259 Echo: Yes
+2024-10-15 05:08:23.556392 Mike: Yes
+2024-10-15 05:08:23.556524 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:23.619113 Lima: Same as last round
+2024-10-15 05:08:23.621728 Oscar: Charlie, sending you 6
+2024-10-15 05:08:23.626101 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:23.629192 Whiskey: Same as last round
+2024-10-15 05:08:23.632215 Hotel: Lima, sending you 5
+2024-10-15 05:08:23.635274 Victor: Hotel and Whiskey, sending you 6
+2024-10-15 05:08:23.638367 Echo: We should replace Hotel with Lima
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:23.654012 Bravo: No
+2024-10-15 05:08:23.654171 Charlie: No
+2024-10-15 05:08:23.654291 Mike: Yes
+2024-10-15 05:08:23.654402 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:23.953727 Mike: We should replace Lima with Victor
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:23.974414 Bravo: Yes
+2024-10-15 05:08:23.974697 Charlie: Yes
+2024-10-15 05:08:23.974987 Echo: Yes
+2024-10-15 05:08:23.975232 Oscar: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:24.052535 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:24.056084 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:24.060507 Bravo: Victor we want you to join our group
+2024-10-15 05:08:24.068213 Victor: No
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:24.085894 Charlie: Victor we want you to join our group
+2024-10-15 05:08:24.092653 Victor: No
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:24.211359 Charlie: Echo, sending you 3
+2024-10-15 05:08:24.291533 Charlie: Mike, sending you 5
+2024-10-15 05:08:24.301385 Bravo: Charlie and Mike, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 05:08:24.310916 Charlie: Oscar and Bravo, sending you 4
+2024-10-15 05:08:24.318377 Bravo: Echo and Oscar, sending you 4
+chatterbot Echo submitting transactions
+2024-10-15 05:08:24.326361 Charlie: Victor, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 26
+ChatterBot Charlie round 26
+ChatterBot Echo round 26
+ChatterBot Mike round 26
+ChatterBot X-ray round 26
+ChatterBot Hotel round 26
+ChatterBot Oscar round 26
+ChatterBot Whiskey round 26
+ChatterBot Bravo round 26
+ChatterBot Victor round 26
+2024-10-15 05:08:25.383454 Echo: We should replace Hotel with Victor
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:25.403441 Bravo: Yes
+2024-10-15 05:08:25.403710 Charlie: Yes
+2024-10-15 05:08:25.403883 Mike: No
+2024-10-15 05:08:25.405105 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:25.491862 Bravo: We should add Victor
+2024-10-15 05:08:25.511558 Charlie: Yes
+2024-10-15 05:08:25.511896 Echo: Yes
+2024-10-15 05:08:25.513401 Mike: No
+2024-10-15 05:08:25.513605 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:25.787497 Echo: Victor we want you to join our group
+2024-10-15 05:08:25.825958 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:25.927593 Bravo: We should add Lima
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:25.950945 Charlie: No
+2024-10-15 05:08:25.951201 Echo: No
+2024-10-15 05:08:25.951475 Mike: No
+2024-10-15 05:08:25.951761 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:26.052217 Mike: We should replace Lima with Victor
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:26.075791 Bravo: Yes
+2024-10-15 05:08:26.076214 Charlie: Yes
+2024-10-15 05:08:26.076583 Echo: Yes
+2024-10-15 05:08:26.076949 Oscar: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:26.227471 Mike: Victor we want you to join our group
+2024-10-15 05:08:26.236138 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:26.254895 Hotel: Lima, sending you 5
+2024-10-15 05:08:26.259978 Victor: X-ray, sending you 5
+2024-10-15 05:08:26.264831 Lima: Same as last round
+2024-10-15 05:08:26.268076 Whiskey: Same as last round
+2024-10-15 05:08:26.273460 Oscar: Victor we want you to join our group
+2024-10-15 05:08:26.282016 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:26.301961 Charlie: We should replace Victor with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:26.317232 Bravo: Yes
+2024-10-15 05:08:26.317516 Echo: No
+2024-10-15 05:08:26.318396 Mike: Yes
+2024-10-15 05:08:26.318530 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+chatterbot Lima submitting transactions
+2024-10-15 05:08:26.388276 Mike: We should replace Lima with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:26.404629 Bravo: No
+2024-10-15 05:08:26.404789 Charlie: No
+2024-10-15 05:08:26.404919 Echo: No
+2024-10-15 05:08:26.406452 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:26.464869 Bravo: We should add Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:26.480477 Charlie: No
+2024-10-15 05:08:26.480628 Echo: No
+2024-10-15 05:08:26.480761 Mike: Yes
+2024-10-15 05:08:26.480878 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:26.542836 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:26.547095 Victor: Hotel and Whiskey, sending you 6
+chatterbot Victor submitting transactions
+2024-10-15 05:08:26.551273 X-ray: Lima and Victor, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-15 05:08:26.569277 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:26.575664 Oscar: Charlie, sending you 6
+2024-10-15 05:08:26.581209 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:26.587107 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:26.591739 Charlie: Echo, sending you 3
+2024-10-15 05:08:26.596832 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:26.601690 Charlie: Mike, sending you 5
+2024-10-15 05:08:26.609313 Charlie: Oscar and Bravo, sending you 4
+2024-10-15 05:08:26.616223 Charlie: Victor, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Lima round 27
+ChatterBot Charlie round 27
+ChatterBot Echo round 27
+ChatterBot Mike round 27
+ChatterBot X-ray round 27
+ChatterBot Hotel round 27
+ChatterBot Oscar round 27
+ChatterBot Whiskey round 27
+ChatterBot Bravo round 27
+ChatterBot Victor round 27
+2024-10-15 05:08:27.969190 Echo: We should replace Hotel with Victor
+2024-10-15 05:08:27.984320 Bravo: No
+2024-10-15 05:08:27.984532 Charlie: Yes
+2024-10-15 05:08:27.984802 Mike: Yes
+2024-10-15 05:08:27.985025 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:28.063513 Mike: We should replace Lima with Victor
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:28.086739 Bravo: Yes
+2024-10-15 05:08:28.087189 Charlie: Yes
+2024-10-15 05:08:28.087701 Echo: No
+2024-10-15 05:08:28.088138 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:28.181300 Bravo: We should add Victor
+ChatterBot Echo reevaluating
+2024-10-15 05:08:28.203466 Charlie: Yes
+2024-10-15 05:08:28.203755 Echo: No
+2024-10-15 05:08:28.204687 Mike: Yes
+2024-10-15 05:08:28.205081 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.328345 Victor: We should add Echo
+2024-10-15 05:08:28.347116 X-ray: No
+2024-10-15 05:08:28.347501 Lima: No
+2024-10-15 05:08:28.347729 Hotel: No
+2024-10-15 05:08:28.348020 Whiskey: No
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 05:08:28.430894 Mike: We should replace Lima with Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 05:08:28.458997 Bravo: No
+2024-10-15 05:08:28.459326 Charlie: No
+2024-10-15 05:08:28.459539 Echo: No
+2024-10-15 05:08:28.459753 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.581362 Lima: Same as last round
+2024-10-15 05:08:28.585454 Charlie: We should drop Victor
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.603658 Bravo: Yes
+2024-10-15 05:08:28.603878 Echo: Yes
+2024-10-15 05:08:28.604036 Mike: Yes
+2024-10-15 05:08:28.604175 Oscar: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.678231 Echo: We should replace Hotel with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.694194 Bravo: No
+2024-10-15 05:08:28.694383 Charlie: Yes
+2024-10-15 05:08:28.694528 Mike: Yes
+2024-10-15 05:08:28.694671 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.779522 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:28.785354 Mike: We should replace Lima with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:28.804780 Bravo: No
+2024-10-15 05:08:28.804990 Charlie: Yes
+2024-10-15 05:08:28.805166 Echo: No
+2024-10-15 05:08:28.805333 Oscar: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+chatterbot Hotel submitting transactions
+2024-10-15 05:08:28.868221 Charlie: We should replace Victor with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.883354 Bravo: Yes
+2024-10-15 05:08:28.883539 Echo: No
+2024-10-15 05:08:28.883689 Mike: Yes
+2024-10-15 05:08:28.883829 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.958502 Bravo: We should add Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:28.978871 Charlie: Yes
+2024-10-15 05:08:28.979077 Echo: Yes
+2024-10-15 05:08:28.979288 Mike: Yes
+2024-10-15 05:08:28.979479 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:29.066197 Hotel: Lima, sending you 5
+2024-10-15 05:08:29.069577 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:29.073762 Oscar: Charlie, sending you 6
+2024-10-15 05:08:29.079730 Whiskey: Same as last round
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 05:08:29.083921 Echo: Victor we want you to join our group
+ChatterBot Victor reevaluating
+2024-10-15 05:08:29.093152 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:29.121862 Hotel: X-ray, Whiskey and Victor, sending you 4
+2024-10-15 05:08:29.126697 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:29.133116 Charlie: Whiskey we want you to join our group
+2024-10-15 05:08:29.141441 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-15 05:08:29.158971 Mike: Whiskey we want you to join our group
+2024-10-15 05:08:29.165803 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:29.191670 Bravo: Whiskey we want you to join our group
+2024-10-15 05:08:29.196848 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:29.221992 Echo: Whiskey we want you to join our group
+2024-10-15 05:08:29.225506 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:29.258679 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:29.266673 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:29.271758 Charlie: Echo and Bravo, sending you 4
+chatterbot Victor submitting transactions
+2024-10-15 05:08:29.279679 Charlie: Mike and Oscar, sending you 5
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Lima round 28
+ChatterBot Charlie round 28
+ChatterBot Echo round 28
+ChatterBot Mike round 28
+ChatterBot X-ray round 28
+ChatterBot Hotel round 28
+ChatterBot Oscar round 28
+ChatterBot Whiskey round 28
+ChatterBot Bravo round 28
+ChatterBot Victor round 28
+2024-10-15 05:08:29.789254 Charlie: We should add Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:29.806189 Bravo: Yes
+2024-10-15 05:08:29.806987 Echo: Yes
+2024-10-15 05:08:29.807260 Mike: Yes
+2024-10-15 05:08:29.807508 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:29.879135 Echo: We should replace Hotel with Victor
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 05:08:29.903654 Bravo: No
+2024-10-15 05:08:29.904233 Charlie: No
+2024-10-15 05:08:29.905407 Mike: No
+2024-10-15 05:08:29.905787 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:30.003705 Mike: We should replace Lima with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:30.022426 Bravo: Yes
+2024-10-15 05:08:30.022707 Charlie: Yes
+2024-10-15 05:08:30.022936 Echo: No
+2024-10-15 05:08:30.023144 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:30.112136 Bravo: We should add Hotel
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:30.129344 Charlie: No
+2024-10-15 05:08:30.129588 Echo: Yes
+2024-10-15 05:08:30.129759 Mike: Yes
+2024-10-15 05:08:30.129949 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:30.225216 Echo: We should replace Hotel with Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:30.243474 Bravo: No
+2024-10-15 05:08:30.243714 Charlie: Yes
+2024-10-15 05:08:30.243899 Mike: Yes
+2024-10-15 05:08:30.244051 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+chatterbot Victor submitting transactions
+2024-10-15 05:08:30.336800 Charlie: Whiskey we want you to join our group
+2024-10-15 05:08:30.346814 Whiskey: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:30.372954 Oscar: Charlie, sending you 6
+2024-10-15 05:08:30.380907 Mike: Whiskey we want you to join our group
+2024-10-15 05:08:30.389959 Whiskey: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:30.416816 Hotel: Lima, Whiskey and Victor, sending you 4
+2024-10-15 05:08:30.422846 Lima: Same as last round
+2024-10-15 05:08:30.426680 Whiskey: Same as last round
+2024-10-15 05:08:30.430697 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:30.433927 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:30.440179 Hotel: X-ray, sending you 5
+2024-10-15 05:08:30.443965 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:30.447324 Charlie: Echo, sending you 3
+2024-10-15 05:08:30.479406 Charlie: Mike, sending you 5
+2024-10-15 05:08:30.501775 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:30.507724 Charlie: Oscar and Bravo, sending you 4
+2024-10-15 05:08:30.525567 Bravo: Echo and Oscar, sending you 4
+2024-10-15 05:08:30.529952 Charlie: Whiskey, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Lima round 29
+ChatterBot Charlie round 29
+ChatterBot Echo round 29
+ChatterBot Mike round 29
+ChatterBot X-ray round 29
+ChatterBot Hotel round 29
+ChatterBot Oscar round 29
+ChatterBot Whiskey round 29
+ChatterBot Bravo round 29
+ChatterBot Victor round 29
+2024-10-15 05:08:31.629566 Mike: We should replace Lima with Whiskey
+ChatterBot Echo reevaluating
+2024-10-15 05:08:31.648607 Bravo: No
+2024-10-15 05:08:31.648825 Charlie: Yes
+2024-10-15 05:08:31.649696 Echo: No
+2024-10-15 05:08:31.649862 Oscar: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:31.745781 Mike: Whiskey we want you to join our group
+2024-10-15 05:08:31.753384 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:31.772240 Bravo: We should add Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:31.793511 Charlie: Yes
+2024-10-15 05:08:31.793806 Echo: No
+2024-10-15 05:08:31.794543 Mike: Yes
+2024-10-15 05:08:31.794774 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:31.874258 Echo: We should replace Hotel with Lima
+ChatterBot Bravo reevaluating
+2024-10-15 05:08:31.888041 Bravo: No
+2024-10-15 05:08:31.888221 Charlie: No
+2024-10-15 05:08:31.888356 Mike: No
+2024-10-15 05:08:31.888503 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:31.955233 Charlie: We should drop Whiskey
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:31.978785 Bravo: Yes
+2024-10-15 05:08:31.979084 Echo: Yes
+2024-10-15 05:08:31.979354 Mike: Yes
+2024-10-15 05:08:31.979598 Oscar: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 05:08:32.041055 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:32.043696 Whiskey: Same as last round
+2024-10-15 05:08:32.046486 Hotel: Lima, Whiskey and Victor, sending you 4
+2024-10-15 05:08:32.048469 Oscar: Charlie, sending you 6
+2024-10-15 05:08:32.052525 Lima: Same as last round
+2024-10-15 05:08:32.055178 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:32.057529 Hotel: X-ray, sending you 5
+2024-10-15 05:08:32.060362 Oscar: Echo, Mike and Bravo, sending you 4
+chatterbot Victor submitting transactions
+2024-10-15 05:08:32.075667 Bravo: Charlie and Mike, sending you 5
+2024-10-15 05:08:32.080672 Bravo: Echo and Oscar, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 30
+ChatterBot Charlie round 30
+ChatterBot Echo round 30
+ChatterBot Mike round 30
+ChatterBot X-ray round 30
+ChatterBot Hotel round 30
+ChatterBot Oscar round 30
+ChatterBot Whiskey round 30
+ChatterBot Bravo round 30
+ChatterBot Victor round 30
+2024-10-15 05:08:33.158583 Charlie: We should drop Whiskey
+2024-10-15 05:08:33.172153 Bravo: Yes
+2024-10-15 05:08:33.172440 Echo: Yes
+2024-10-15 05:08:33.172716 Mike: Yes
+2024-10-15 05:08:33.172946 Oscar: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 05:08:33.255364 Whiskey: Same as last round
+2024-10-15 05:08:33.259240 Lima: Same as last round
+2024-10-15 05:08:33.261196 Oscar: Charlie, sending you 6
+2024-10-15 05:08:33.271666 Oscar: Echo, Mike and Bravo, sending you 4
+2024-10-15 05:08:33.277205 X-ray: Lima and Victor, sending you 4
+2024-10-15 05:08:33.280970 Hotel: Lima, Whiskey and Victor, sending you 4
+2024-10-15 05:08:33.284817 Bravo: Lima, X-ray and Whiskey, sending you 4
+2024-10-15 05:08:33.289513 X-ray: Hotel and Whiskey, sending you 5
+2024-10-15 05:08:33.293420 Hotel: X-ray, sending you 5
+2024-10-15 05:08:33.297514 Bravo: Hotel and Victor, sending you 3
+2024-10-15 05:08:33.301841 Charlie: Echo and Bravo, sending you 4
+2024-10-15 05:08:33.310662 Charlie: Mike and Oscar, sending you 5
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions

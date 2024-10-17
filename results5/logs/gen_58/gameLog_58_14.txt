@@ -1,0 +1,2437 @@
+ChatterBot Alpha round 1
+ChatterBot Hotel round 1
+ChatterBot Oscar round 1
+ChatterBot Whiskey round 1
+ChatterBot Kilo round 1
+ChatterBot India round 1
+ChatterBot Quebec round 1
+ChatterBot Bravo round 1
+ChatterBot Golf round 1
+ChatterBot Juliett round 1
+randomSelections India: {India, Golf} 
+2024-10-15 03:14:33.331971 India: Let's form a team
+ChatterBot Golf reevaluating
+2024-10-15 03:14:33.336652 Golf: Yes
+randomSelections Hotel: {Hotel, Kilo, Whiskey, Golf, India, Quebec} 
+2024-10-15 03:14:33.341931 Hotel: Friends?
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:33.357168 Kilo: Yes
+2024-10-15 03:14:33.357347 Whiskey: Yes
+2024-10-15 03:14:33.357491 Golf: No
+2024-10-15 03:14:33.357669 India: No
+2024-10-15 03:14:33.357861 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+randomSelections Juliett: {Juliett, Golf, Quebec, Bravo, Hotel} 
+2024-10-15 03:14:33.527888 Juliett: Can we be friends?
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:33.579015 Golf: No
+2024-10-15 03:14:33.579417 Quebec: No
+2024-10-15 03:14:33.579727 Bravo: Yes
+2024-10-15 03:14:33.580014 Hotel: No
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Alpha: {Alpha, Golf, Juliett, Quebec, Hotel, Kilo} 
+2024-10-15 03:14:33.610682 Alpha: We would work well together
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:14:33.617703 Golf: No
+2024-10-15 03:14:33.618083 Juliett: No
+2024-10-15 03:14:33.618753 Quebec: No
+2024-10-15 03:14:33.618941 Hotel: No
+2024-10-15 03:14:33.619182 Kilo: No
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+randomSelections Oscar: {Oscar, Juliett, Kilo, Hotel, India} 
+2024-10-15 03:14:33.658002 Oscar: Friends?
+ChatterBot Kilo reevaluating
+2024-10-15 03:14:33.664437 Juliett: No
+2024-10-15 03:14:33.665309 Kilo: No
+2024-10-15 03:14:33.665500 Hotel: No
+2024-10-15 03:14:33.665793 India: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Hotel submitting transactions
+2024-10-15 03:14:33.708530 Hotel: Whiskey and Golf, sending you 2
+2024-10-15 03:14:33.709940 Golf: Sending you 3
+2024-10-15 03:14:33.710412 Oscar: Hotel and India, sending you 1
+2024-10-15 03:14:33.711024 Alpha: Hotel and Kilo, sending you 2
+2024-10-15 03:14:33.712727 Hotel: Kilo, sending you 4
+2024-10-15 03:14:33.716171 Oscar: Kilo, sending you 3
+2024-10-15 03:14:33.716745 Alpha: Quebec, sending you 1
+2024-10-15 03:14:33.717395 India: Sending you 5
+2024-10-15 03:14:33.718502 Quebec: Hotel, Whiskey, Kilo and Golf, sending you 2
+2024-10-15 03:14:33.719312 Hotel: India and Quebec, sending you 1
+2024-10-15 03:14:33.720702 Juliett: Hotel, sending you 2
+2024-10-15 03:14:33.721398 Whiskey: Hotel, sending you 1
+2024-10-15 03:14:33.723024 Oscar: Juliett, sending you 2
+2024-10-15 03:14:33.723939 Kilo: Hotel and Whiskey, sending you 1
+2024-10-15 03:14:33.726713 Quebec: India, sending you 1
+2024-10-15 03:14:33.728410 Juliett: Quebec, Bravo and Golf, sending you 1
+2024-10-15 03:14:33.729148 Bravo: Hotel, Golf and Juliett, sending you 2
+2024-10-15 03:14:33.730734 Whiskey: India, sending you 3
+2024-10-15 03:14:33.731683 Kilo: India, sending you 3
+2024-10-15 03:14:33.736223 Whiskey: Golf, sending you 2
+2024-10-15 03:14:33.738349 Bravo: Quebec, sending you 1
+2024-10-15 03:14:33.739274 Kilo: Quebec and Golf, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Alpha round 2
+ChatterBot Hotel round 2
+ChatterBot Oscar round 2
+ChatterBot Whiskey round 2
+2024-10-15 03:14:34.680119 Alpha: Let's form a team
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:34.691129 Bravo: No
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:34.698426 Bravo: We would work well together
+ChatterBot Oscar reevaluating
+2024-10-15 03:14:34.705447 Oscar: No
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:34.716311 Oscar: We would work well together
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:34.743079 Hotel: No
+2024-10-15 03:14:34.743252 Kilo: No
+2024-10-15 03:14:34.743364 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:14:34.810118 Kilo: Group up?
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:34.821452 Quebec: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo round 2
+ChatterBot India round 2
+ChatterBot Quebec round 2
+ChatterBot Bravo round 2
+ChatterBot Golf round 2
+ChatterBot Juliett round 2
+2024-10-15 03:14:34.854035 Alpha: We should drop Golf and Juliett
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:34.879464 Hotel: Yes
+2024-10-15 03:14:34.879641 Kilo: Yes
+2024-10-15 03:14:34.879814 Quebec: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:14:34.993245 India: Let's form a team
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:35.030737 Golf: No
+2024-10-15 03:14:35.031037 Hotel: No
+2024-10-15 03:14:35.031978 Kilo: No
+2024-10-15 03:14:35.032155 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:35.313510 Juliett: We would work well together
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:35.341351 Oscar: No
+2024-10-15 03:14:35.341607 Bravo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 03:14:35.399054 Whiskey: We should drop Golf and India
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:35.444198 Hotel: Yes
+2024-10-15 03:14:35.444379 Kilo: Yes
+2024-10-15 03:14:35.444526 Quebec: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:35.638226 Golf: Whiskey we want you to join our group
+2024-10-15 03:14:35.650204 Whiskey: No
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:14:35.986340 Juliett: Oscar, sending you 2
+2024-10-15 03:14:35.986817 Oscar: Bravo, sending you 4
+2024-10-15 03:14:35.987841 Whiskey: Sending you each 2
+2024-10-15 03:14:35.988200 Bravo: Oscar and Juliett, sending you 2
+2024-10-15 03:14:35.988499 Quebec: Hotel, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+2024-10-15 03:14:36.518486 Juliett: Bravo, sending you 3
+2024-10-15 03:14:36.519094 Oscar: Juliett, sending you 3
+2024-10-15 03:14:36.520210 Quebec: Whiskey, sending you 1
+2024-10-15 03:14:36.521555 Kilo: Hotel, Whiskey and Quebec, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-15 03:14:36.539407 Quebec: Kilo, sending you 5
+2024-10-15 03:14:36.540448 India: Hotel, sending you 1
+2024-10-15 03:14:36.541188 Kilo: Oscar did not give me 3 like they said
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha round 3
+ChatterBot Hotel round 3
+ChatterBot Oscar round 3
+ChatterBot Whiskey round 3
+ChatterBot Kilo round 3
+ChatterBot India round 3
+ChatterBot Quebec round 3
+2024-10-15 03:14:36.574568 India: Kilo and Golf, sending you 2
+ChatterBot Bravo round 3
+ChatterBot Golf round 3
+ChatterBot Juliett round 3
+2024-10-15 03:14:36.577104 Golf: Whiskey, sending you 2
+2024-10-15 03:14:36.588339 Hotel: Friends?
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:36.610282 Whiskey: No
+2024-10-15 03:14:36.611300 Kilo: Yes
+2024-10-15 03:14:36.611737 Quebec: Yes
+2024-10-15 03:14:36.612551 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:36.716042 India: We should replace Golf with Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:36.730977 Hotel: Yes
+2024-10-15 03:14:36.732458 Kilo: Yes
+2024-10-15 03:14:36.732658 Quebec: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:14:36.813221 Bravo: We should add Alpha
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:36.823217 Oscar: Yes
+2024-10-15 03:14:36.823390 Juliett: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 03:14:36.848628 Golf: India, sending you 3
+2024-10-15 03:14:36.864887 Golf: Group up?
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:36.890873 Hotel: No
+2024-10-15 03:14:36.891061 Kilo: No
+2024-10-15 03:14:36.891175 Whiskey: No
+2024-10-15 03:14:36.891872 India: Yes
+2024-10-15 03:14:36.891978 Quebec: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:14:37.024007 India: We should add Whiskey
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:37.044236 Golf: Yes
+2024-10-15 03:14:37.044423 Hotel: Yes
+2024-10-15 03:14:37.044576 Kilo: Yes
+2024-10-15 03:14:37.045394 Quebec: Yes
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:37.126498 Bravo: Alpha we want you to join our group
+2024-10-15 03:14:37.130988 Alpha: No
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+chatterbot India submitting transactions
+2024-10-15 03:14:37.148148 India: Whiskey we want you to join our group
+2024-10-15 03:14:37.153340 Whiskey: No
+2024-10-15 03:14:37.176903 Alpha: Whiskey, sending you 5
+2024-10-15 03:14:37.211813 Whiskey: Same as last round
+2024-10-15 03:14:37.212694 Golf: Hotel, Whiskey, Kilo, India and Quebec, sending you 1
+2024-10-15 03:14:37.213150 Quebec: Alpha, sending you 1
+2024-10-15 03:14:37.214090 Kilo: Alpha, Whiskey and Quebec, sending you 2
+2024-10-15 03:14:37.231590 Juliett: Alpha, sending you 1
+2024-10-15 03:14:37.232016 Quebec: Hotel and Kilo, sending you 3
+2024-10-15 03:14:37.232406 Kilo: Hotel, sending you 3
+2024-10-15 03:14:37.233244 India: Whiskey and Kilo, sending you 1
+2024-10-15 03:14:37.233747 Hotel: Alpha, Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:14:37.234139 Oscar: Alpha and Bravo, sending you 2
+2024-10-15 03:14:37.234926 Bravo: Alpha, Oscar and Juliett, sending you 2
+2024-10-15 03:14:37.269220 Juliett: Oscar and Bravo, sending you 2
+2024-10-15 03:14:37.270092 Quebec: Whiskey, sending you 2
+2024-10-15 03:14:37.270551 India: Golf, sending you 3
+2024-10-15 03:14:37.271739 Oscar: Juliett, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Hotel round 4
+ChatterBot Oscar round 4
+ChatterBot Whiskey round 4
+ChatterBot Kilo round 4
+ChatterBot India round 4
+ChatterBot Quebec round 4
+ChatterBot Bravo round 4
+ChatterBot Golf round 4
+2024-10-15 03:14:38.564846 Hotel: We should add India
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:38.592815 Whiskey: No
+2024-10-15 03:14:38.593030 Kilo: No
+2024-10-15 03:14:38.593691 Quebec: Yes
+2024-10-15 03:14:38.593861 Alpha: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:38.708297 Alpha: We should add Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:38.735176 Hotel: No
+2024-10-15 03:14:38.735399 Whiskey: No
+2024-10-15 03:14:38.735563 Kilo: No
+2024-10-15 03:14:38.735729 Quebec: No
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Juliett round 4
+2024-10-15 03:14:39.007425 India: We should add Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:39.043432 Hotel: Yes
+2024-10-15 03:14:39.043822 Kilo: Yes
+2024-10-15 03:14:39.044075 Whiskey: No
+2024-10-15 03:14:39.044369 Golf: Yes
+2024-10-15 03:14:39.045272 Quebec: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 03:14:39.248337 Quebec: We should add India and Golf
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:39.276515 Hotel: Yes
+2024-10-15 03:14:39.276910 Whiskey: No
+2024-10-15 03:14:39.277215 Kilo: No
+2024-10-15 03:14:39.278044 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:39.412524 India: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:39.421104 Alpha: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:39.468310 Quebec: We should add Golf
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:39.494315 Hotel: Yes
+2024-10-15 03:14:39.494546 Whiskey: No
+2024-10-15 03:14:39.494777 Kilo: No
+2024-10-15 03:14:39.494990 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:39.615325 Golf: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:39.621235 Alpha: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:39.647814 Oscar: Alpha and Bravo, sending you 2
+2024-10-15 03:14:39.648258 Whiskey: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:39.653482 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:39.673139 Bravo: Alpha, Oscar and Juliett, sending you 2
+2024-10-15 03:14:39.673529 Oscar: Juliett, sending you 3
+2024-10-15 03:14:39.673819 Kilo: Alpha, Whiskey and Quebec, sending you 2
+chatterbot India submitting transactions
+2024-10-15 03:14:39.860688 India: Whiskey and Kilo, sending you 1
+2024-10-15 03:14:39.862410 Juliett: Alpha, sending you 1
+2024-10-15 03:14:39.862862 Kilo: Hotel, sending you 3
+2024-10-15 03:14:39.864050 Quebec: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:14:39.871076 India: No
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:39.907498 Alpha: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:14:39.915559 India: No
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Kilo submitting transactions
+2024-10-15 03:14:39.946893 Juliett: Oscar and Bravo, sending you 2
+2024-10-15 03:14:39.971703 Golf: Alpha, sending you 2
+2024-10-15 03:14:39.972643 Alpha: India and Golf we want you to join our group
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 03:14:39.985632 India: No
+2024-10-15 03:14:39.986276 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Juliett submitting transactions
+2024-10-15 03:14:40.274131 Alpha: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 03:14:40.310994 Golf: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:40.519997 Hotel: India and Golf we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:14:40.529519 India: No
+2024-10-15 03:14:40.529834 Golf: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+2024-10-15 03:14:40.787261 India: Sorry, I'm actually sending you 0
+2024-10-15 03:14:40.787858 India: Sorry, I'm actually sending you 0
+chatterbot India submitting transactions
+2024-10-15 03:14:40.842292 India: Sending you 5
+2024-10-15 03:14:40.905812 Quebec: Alpha, sending you 1
+2024-10-15 03:14:40.907180 Alpha: Hotel, Whiskey, Kilo, India and Quebec, sending you 1
+2024-10-15 03:14:40.908306 Whiskey: Alpha and Quebec, sending you 1
+2024-10-15 03:14:40.908894 Hotel: Alpha, Whiskey, Kilo, India, Quebec and Golf, sending you 2
+chatterbot Golf submitting transactions
+2024-10-15 03:14:40.974670 Quebec: Hotel and Kilo, sending you 3
+2024-10-15 03:14:40.975762 Whiskey: Hotel and Kilo, sending you 2
+2024-10-15 03:14:41.017751 Quebec: Whiskey, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Hotel round 5
+ChatterBot Oscar round 5
+ChatterBot Whiskey round 5
+ChatterBot Kilo round 5
+ChatterBot India round 5
+ChatterBot Quebec round 5
+ChatterBot Bravo round 5
+ChatterBot Golf round 5
+ChatterBot Juliett round 5
+2024-10-15 03:14:41.604740 Alpha: We should drop India
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:41.623583 Hotel: No
+2024-10-15 03:14:41.624760 Whiskey: Yes
+2024-10-15 03:14:41.625045 Kilo: Yes
+2024-10-15 03:14:41.625414 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:41.734825 Quebec: We should add Golf
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:14:41.772427 Alpha: No
+2024-10-15 03:14:41.772757 Hotel: Yes
+2024-10-15 03:14:41.773691 Whiskey: No
+2024-10-15 03:14:41.773980 Kilo: No
+2024-10-15 03:14:41.774252 India: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:41.973618 Quebec: We should replace India with Golf
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:42.002739 Hotel: Yes
+2024-10-15 03:14:42.002958 Whiskey: No
+2024-10-15 03:14:42.003126 Kilo: No
+2024-10-15 03:14:42.003287 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:43.135963 Golf: Alpha, sending you 2
+2024-10-15 03:14:43.137131 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:43.137750 Whiskey: We should drop Alpha
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:43.155152 Hotel: No
+2024-10-15 03:14:43.155290 Kilo: No
+2024-10-15 03:14:43.155385 Quebec: No
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:43.198559 Oscar: Bravo, sending you 3
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 03:14:43.200123 Kilo: Quebec, sending you 3
+2024-10-15 03:14:43.200590 Golf: India, sending you 3
+2024-10-15 03:14:43.206508 India: Same as last round
+2024-10-15 03:14:43.207637 Oscar: Juliett, sending you 4
+2024-10-15 03:14:43.208053 Juliett: Alpha, sending you 1
+2024-10-15 03:14:43.209249 Hotel: We should drop India and Golf
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:43.233570 Whiskey: Yes
+2024-10-15 03:14:43.233788 Kilo: Yes
+2024-10-15 03:14:43.233973 Quebec: No
+2024-10-15 03:14:43.234721 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:43.339476 Juliett: Oscar and Bravo, sending you 2
+2024-10-15 03:14:43.348704 Quebec: Golf we want you to join our group
+2024-10-15 03:14:43.355506 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:43.417673 Alpha: Hotel, sending you 2
+2024-10-15 03:14:43.418939 Hotel: Alpha, Whiskey, Kilo, India, Quebec and Golf, sending you 2
+2024-10-15 03:14:43.421685 Quebec: Alpha and Golf, sending you 1
+2024-10-15 03:14:43.424803 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:14:43.427685 Quebec: Hotel, sending you 3
+2024-10-15 03:14:43.434179 Quebec: Whiskey and Kilo, sending you 2
+2024-10-15 03:14:43.435038 Whiskey: Sending you each 2
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Hotel round 6
+ChatterBot Oscar round 6
+ChatterBot Whiskey round 6
+ChatterBot Kilo round 6
+ChatterBot India round 6
+ChatterBot Quebec round 6
+ChatterBot Bravo round 6
+ChatterBot Golf round 6
+ChatterBot Juliett round 6
+2024-10-15 03:14:44.651531 Alpha: We should add Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:44.677868 Hotel: Yes
+2024-10-15 03:14:44.678017 Whiskey: No
+2024-10-15 03:14:44.678131 Kilo: No
+2024-10-15 03:14:44.678804 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:44.743989 Whiskey: We should add Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:44.755880 Hotel: Yes
+2024-10-15 03:14:44.756058 Kilo: Yes
+2024-10-15 03:14:44.756184 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:44.817469 Quebec: We should replace Golf with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:44.830702 Hotel: No
+2024-10-15 03:14:44.831340 Whiskey: No
+2024-10-15 03:14:44.831467 Kilo: No
+2024-10-15 03:14:44.831583 Alpha: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:44.915939 Alpha: Bravo we want you to join our group
+2024-10-15 03:14:44.923135 Bravo: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:44.957917 India: I was attacked by Bravo
+ChatterBot Golf reevaluating
+2024-10-15 03:14:44.965209 India: I'm keeping this round to protect myself
+2024-10-15 03:14:44.965905 India: Ow
+2024-10-15 03:14:44.966357 Golf: We should replace Alpha with Oscar
+2024-10-15 03:14:44.972940 India: No
+ChatterBot Golf reevaluating
+2024-10-15 03:14:44.980800 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:44.982377 Oscar: Bravo, sending you 3
+2024-10-15 03:14:44.982952 Juliett: Alpha, sending you 1
+2024-10-15 03:14:44.983992 Whiskey: Alpha we want you to join our group
+2024-10-15 03:14:44.991336 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:45.010433 Kilo: Quebec, sending you 3
+2024-10-15 03:14:45.011009 Juliett: Oscar and Bravo, sending you 2
+2024-10-15 03:14:45.011829 Oscar: Juliett, sending you 4
+2024-10-15 03:14:45.015700 Quebec: We should drop Golf
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:45.035682 Hotel: Yes
+2024-10-15 03:14:45.036556 Whiskey: Yes
+2024-10-15 03:14:45.036781 Kilo: Yes
+2024-10-15 03:14:45.036999 Alpha: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:45.241344 Hotel: We should drop India and Golf
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:45.283692 Whiskey: Yes
+2024-10-15 03:14:45.283974 Kilo: Yes
+2024-10-15 03:14:45.284988 Quebec: Yes
+2024-10-15 03:14:45.285402 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-15 03:14:45.390434 Quebec: Bravo we want you to join our group
+2024-10-15 03:14:45.397927 Bravo: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:45.470678 Alpha: Sorry, I'm actually sending you 0
+2024-10-15 03:14:45.476898 Alpha: Hotel, sending you 2
+2024-10-15 03:14:45.486561 Whiskey: Same as last round
+2024-10-15 03:14:45.497573 Hotel: Sending you each 3
+2024-10-15 03:14:45.499391 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:14:45.511852 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:14:45.547284 Quebec: Kilo, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Hotel round 7
+ChatterBot Oscar round 7
+ChatterBot Whiskey round 7
+ChatterBot Kilo round 7
+2024-10-15 03:14:46.613882 Hotel: We should add Bravo
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:46.638391 Whiskey: No
+2024-10-15 03:14:46.639211 Kilo: No
+2024-10-15 03:14:46.639851 Quebec: Yes
+2024-10-15 03:14:46.640265 Alpha: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India round 7
+ChatterBot Quebec round 7
+ChatterBot Bravo round 7
+ChatterBot Golf round 7
+ChatterBot Juliett round 7
+2024-10-15 03:14:46.778208 Golf: Group up?
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:46.801089 India: No
+2024-10-15 03:14:46.802249 Oscar: Yes
+2024-10-15 03:14:46.802466 Bravo: No
+2024-10-15 03:14:46.802739 Juliett: Yes
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 03:14:46.888598 Hotel: Bravo we want you to join our group
+2024-10-15 03:14:46.891635 Bravo: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:46.908768 Whiskey: We should add Alpha
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:46.917695 Hotel: Yes
+2024-10-15 03:14:46.918427 Kilo: Yes
+2024-10-15 03:14:46.918554 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:46.948227 Alpha: Bravo we want you to join our group
+2024-10-15 03:14:46.952088 Bravo: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:46.969832 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:46.970439 India: I was attacked by Bravo
+ChatterBot Golf reevaluating
+2024-10-15 03:14:46.974256 India: I'm keeping this round to protect myself
+2024-10-15 03:14:46.974701 India: Ow
+2024-10-15 03:14:46.975111 Kilo: Quebec, sending you 3
+2024-10-15 03:14:46.978669 Whiskey: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:46.982884 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:47.003904 Bravo: Sending you each 2
+2024-10-15 03:14:47.004337 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:14:47.005473 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:47.006062 Juliett: Oscar, sending you 2
+2024-10-15 03:14:47.007716 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:14:47.008806 Oscar: Juliett, sending you 3
+2024-10-15 03:14:47.010213 Juliett: India, Bravo and Golf, sending you 1
+2024-10-15 03:14:47.011822 Quebec: Kilo, sending you 3
+2024-10-15 03:14:47.014976 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:14:47.018955 Golf: India, sending you 2
+2024-10-15 03:14:47.022750 Hotel: Same as last round
+2024-10-15 03:14:47.032699 Alpha: Sending you each 1
+2024-10-15 03:14:47.041936 Whiskey: Alpha and Quebec, sending you 1
+2024-10-15 03:14:47.045672 Whiskey: Hotel and Kilo, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Hotel round 8
+ChatterBot Oscar round 8
+ChatterBot Whiskey round 8
+ChatterBot Kilo round 8
+ChatterBot India round 8
+ChatterBot Quebec round 8
+ChatterBot Bravo round 8
+ChatterBot Golf round 8
+ChatterBot Juliett round 8
+2024-10-15 03:14:48.229246 Bravo: We should add India and Golf
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:48.242591 Oscar: Yes
+2024-10-15 03:14:48.243160 Juliett: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:48.321047 Bravo: We should add Golf
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:48.333842 Oscar: Yes
+2024-10-15 03:14:48.334058 Juliett: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:48.359336 Whiskey: We should drop Alpha
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:48.375185 Hotel: No
+2024-10-15 03:14:48.375386 Kilo: No
+2024-10-15 03:14:48.375561 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:48.409269 Bravo: Golf we want you to join our group
+2024-10-15 03:14:48.412458 Golf: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:48.421206 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:48.424663 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:14:48.425679 Bravo: India and Golf we want you to join our group
+2024-10-15 03:14:48.435687 Golf: Yes
+2024-10-15 03:14:48.435906 India: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:14:48.477779 Oscar: Juliett, sending you 3
+2024-10-15 03:14:48.478369 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:48.479713 Alpha: Same as last round
+2024-10-15 03:14:48.480394 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:14:48.482677 Kilo: Quebec, sending you 3
+2024-10-15 03:14:48.483679 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:14:48.484133 Whiskey: Alpha and Quebec, sending you 1
+2024-10-15 03:14:48.485535 Quebec: Kilo, sending you 3
+2024-10-15 03:14:48.486146 Hotel: Same as last round
+2024-10-15 03:14:48.486726 Juliett: Oscar, sending you 2
+2024-10-15 03:14:48.487687 Golf: India, sending you 2
+2024-10-15 03:14:48.488667 Whiskey: Hotel and Kilo, sending you 2
+2024-10-15 03:14:48.489907 Juliett: India, Bravo and Golf, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Hotel round 9
+ChatterBot Oscar round 9
+ChatterBot Whiskey round 9
+ChatterBot Kilo round 9
+ChatterBot India round 9
+ChatterBot Quebec round 9
+ChatterBot Bravo round 9
+ChatterBot Golf round 9
+ChatterBot Juliett round 9
+2024-10-15 03:14:49.896980 Hotel: We should add Bravo
+2024-10-15 03:14:49.919388 Whiskey: No
+2024-10-15 03:14:49.920463 Kilo: No
+2024-10-15 03:14:49.920645 Quebec: Yes
+2024-10-15 03:14:49.920809 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:50.030145 Bravo: We should add Golf
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:50.040454 Oscar: Yes
+2024-10-15 03:14:50.040670 Juliett: Yes
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:50.066957 Bravo: Golf we want you to join our group
+2024-10-15 03:14:50.073387 Golf: Yes
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:50.087171 Hotel: Bravo we want you to join our group
+2024-10-15 03:14:50.093530 Bravo: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:50.136302 India: Sending you 5
+2024-10-15 03:14:50.137211 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:14:50.137899 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:50.139170 Alpha: Same as last round
+2024-10-15 03:14:50.139862 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:50.140890 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:14:50.141414 Whiskey: We should drop Alpha
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:50.153962 Hotel: No
+2024-10-15 03:14:50.154114 Kilo: No
+2024-10-15 03:14:50.154212 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:50.195279 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:14:50.197217 Kilo: Quebec, sending you 3
+2024-10-15 03:14:50.199035 Oscar: Juliett, sending you 3
+2024-10-15 03:14:50.199839 Golf: India, sending you 2
+2024-10-15 03:14:50.201123 Golf: I was attacked by Bravo
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:50.221929 Golf: Ow
+2024-10-15 03:14:50.225100 Quebec: Kilo, sending you 3
+2024-10-15 03:14:50.247706 Hotel: Alpha, sending you 2
+2024-10-15 03:14:50.251787 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:14:50.257283 Hotel: Bravo, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Hotel round 10
+ChatterBot Oscar round 10
+ChatterBot Whiskey round 10
+ChatterBot Kilo round 10
+ChatterBot India round 10
+ChatterBot Quebec round 10
+ChatterBot Bravo round 10
+ChatterBot Golf round 10
+ChatterBot Juliett round 10
+2024-10-15 03:14:51.486094 Whiskey: We should drop Alpha
+2024-10-15 03:14:51.501478 Hotel: No
+2024-10-15 03:14:51.501782 Kilo: No
+2024-10-15 03:14:51.503367 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:51.579097 Bravo: Oscar, Golf and Juliett, sending you 2
+2024-10-15 03:14:51.579651 Alpha: Same as last round
+2024-10-15 03:14:51.580995 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:14:51.715084 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:14:51.718049 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:51.718952 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:51.721571 Golf: Oscar and India, sending you 2
+2024-10-15 03:14:51.723290 India: Same as last round
+2024-10-15 03:14:51.723977 Quebec: Kilo, sending you 3
+2024-10-15 03:14:51.726043 Oscar: Juliett, sending you 3
+2024-10-15 03:14:51.727959 Kilo: Quebec, sending you 3
+2024-10-15 03:14:51.730081 Hotel: Alpha, sending you 2
+2024-10-15 03:14:51.732370 Golf: Juliett, sending you 1
+2024-10-15 03:14:51.759860 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:14:51.774600 Hotel: Bravo, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Hotel round 11
+ChatterBot Oscar round 11
+ChatterBot Whiskey round 11
+ChatterBot Kilo round 11
+ChatterBot India round 11
+ChatterBot Quebec round 11
+ChatterBot Bravo round 11
+ChatterBot Golf round 11
+ChatterBot Juliett round 11
+2024-10-15 03:14:52.944855 India: Same as last round
+2024-10-15 03:14:52.945412 Bravo: Oscar, Golf and Juliett, sending you 2
+2024-10-15 03:14:52.947099 Whiskey: Alpha and Quebec, sending you 1
+2024-10-15 03:14:52.948728 Golf: Oscar and Juliett, sending you 1
+2024-10-15 03:14:52.949241 Hotel: Alpha, sending you 2
+2024-10-15 03:14:52.950719 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:52.952174 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:52.952942 Alpha: Same as last round
+2024-10-15 03:14:52.954287 Golf: India, sending you 3
+2024-10-15 03:14:52.954875 Whiskey: Hotel and Kilo, sending you 2
+2024-10-15 03:14:52.956462 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:14:52.957794 Oscar: Juliett, sending you 3
+2024-10-15 03:14:52.958187 Kilo: Quebec, sending you 3
+2024-10-15 03:14:52.959666 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:14:52.986432 Hotel: Bravo, sending you 1
+2024-10-15 03:14:52.988820 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:14:53.021736 Quebec: Kilo, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Hotel round 12
+ChatterBot Oscar round 12
+ChatterBot Whiskey round 12
+ChatterBot Kilo round 12
+ChatterBot India round 12
+ChatterBot Quebec round 12
+ChatterBot Bravo round 12
+ChatterBot Golf round 12
+ChatterBot Juliett round 12
+2024-10-15 03:14:53.976189 Whiskey: We should drop Alpha
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:53.985622 Hotel: No
+2024-10-15 03:14:53.985863 Kilo: No
+2024-10-15 03:14:53.985999 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:14:54.018671 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:54.019203 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:54.019913 Alpha: Same as last round
+2024-10-15 03:14:54.023883 Hotel: We should drop Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:14:54.037243 Whiskey: Yes
+2024-10-15 03:14:54.037412 Kilo: Yes
+2024-10-15 03:14:54.037544 Quebec: Yes
+2024-10-15 03:14:54.037679 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:14:54.102969 Oscar: Juliett, sending you 3
+2024-10-15 03:14:54.104206 Kilo: Quebec, sending you 3
+2024-10-15 03:14:54.104861 Golf: Oscar and Juliett, sending you 1
+2024-10-15 03:14:54.107904 Golf: India, sending you 3
+2024-10-15 03:14:54.109252 India: Same as last round
+2024-10-15 03:14:54.127065 Alpha: Sorry, I'm actually sending you 0
+2024-10-15 03:14:54.129688 Hotel: Sending you each 3
+2024-10-15 03:14:54.134733 Alpha: Kilo, sending you 2
+2024-10-15 03:14:54.138654 Quebec: Alpha, sending you 1
+2024-10-15 03:14:54.142651 Whiskey: Sending you each 2
+2024-10-15 03:14:54.143667 Quebec: Hotel and Kilo, sending you 3
+2024-10-15 03:14:54.148680 Quebec: Whiskey, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Hotel round 13
+ChatterBot Oscar round 13
+ChatterBot Whiskey round 13
+ChatterBot Kilo round 13
+ChatterBot India round 13
+ChatterBot Quebec round 13
+ChatterBot Bravo round 13
+ChatterBot Golf round 13
+ChatterBot Juliett round 13
+2024-10-15 03:14:56.132639 India: I was attacked by Bravo
+ChatterBot Golf reevaluating
+2024-10-15 03:14:56.139836 India: I'm keeping this round to protect myself
+2024-10-15 03:14:56.141354 India: Ow
+2024-10-15 03:14:56.142164 Whiskey: Same as last round
+2024-10-15 03:14:56.177800 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:56.182432 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:56.184806 Alpha: Hotel, Whiskey and Quebec, sending you 1
+2024-10-15 03:14:56.189040 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:56.192276 Hotel: Same as last round
+2024-10-15 03:14:56.195562 Quebec: Kilo, sending you 3
+2024-10-15 03:14:56.199052 Oscar: Juliett, sending you 3
+2024-10-15 03:14:56.201328 Alpha: Kilo, sending you 2
+2024-10-15 03:14:56.205747 Kilo: Quebec, sending you 3
+2024-10-15 03:14:56.209392 Golf: Oscar and India, sending you 2
+2024-10-15 03:14:56.222743 Golf: Juliett, sending you 1
+chatterbot India submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Hotel round 14
+ChatterBot Oscar round 14
+ChatterBot Whiskey round 14
+ChatterBot Kilo round 14
+ChatterBot India round 14
+ChatterBot Quebec round 14
+ChatterBot Bravo round 14
+ChatterBot Golf round 14
+ChatterBot Juliett round 14
+2024-10-15 03:14:57.317009 Whiskey: We should add Alpha
+2024-10-15 03:14:57.330246 Hotel: Yes
+2024-10-15 03:14:57.330431 Kilo: Yes
+2024-10-15 03:14:57.330579 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:57.396982 Whiskey: Alpha we want you to join our group
+2024-10-15 03:14:57.401890 Alpha: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:57.417176 India: I was attacked by Bravo
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 03:14:57.432600 India: I'm keeping this round to protect myself
+2024-10-15 03:14:57.435220 India: Ow
+2024-10-15 03:14:57.439382 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:57.440762 Alpha: Hotel, sending you 2
+2024-10-15 03:14:57.442942 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:14:57.443762 Hotel: Same as last round
+2024-10-15 03:14:57.447295 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:57.449984 Kilo: Quebec, sending you 3
+2024-10-15 03:14:57.451202 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:14:57.456910 Bravo: Juliett, sending you 3
+2024-10-15 03:14:57.458536 Quebec: Kilo, sending you 3
+2024-10-15 03:14:57.570658 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:57.574423 Whiskey: Same as last round
+2024-10-15 03:14:57.575579 Golf: Oscar and India, sending you 2
+2024-10-15 03:14:57.657915 Oscar: Juliett, sending you 3
+2024-10-15 03:14:57.660071 Golf: Juliett, sending you 1
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Hotel round 15
+ChatterBot Oscar round 15
+ChatterBot Whiskey round 15
+ChatterBot Kilo round 15
+ChatterBot India round 15
+ChatterBot Quebec round 15
+ChatterBot Bravo round 15
+ChatterBot Golf round 15
+ChatterBot Juliett round 15
+2024-10-15 03:14:58.638183 Whiskey: We should add Alpha
+2024-10-15 03:14:58.658085 Hotel: Yes
+2024-10-15 03:14:58.658350 Kilo: Yes
+2024-10-15 03:14:58.658537 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:58.753859 India: We should drop Oscar
+2024-10-15 03:14:58.758566 Golf: No
+ChatterBot India reevaluating
+2024-10-15 03:14:58.763201 India: We should add Bravo and Juliett
+2024-10-15 03:14:58.771134 Golf: Yes
+2024-10-15 03:14:58.771261 Oscar: Yes
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:14:58.789349 Whiskey: Alpha we want you to join our group
+2024-10-15 03:14:58.797589 Alpha: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 03:14:58.822704 Alpha: Hotel, sending you 2
+2024-10-15 03:14:58.826336 Hotel: Same as last round
+2024-10-15 03:14:58.829113 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:14:58.830473 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:58.832741 India: Bravo and Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 03:14:58.841685 Bravo: No
+2024-10-15 03:14:58.841816 Juliett: Yes
+ChatterBot India reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:14:59.060415 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:14:59.063458 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:14:59.065935 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:14:59.067661 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:14:59.069103 Bravo: Juliett, sending you 3
+2024-10-15 03:14:59.069942 Quebec: Kilo, sending you 3
+2024-10-15 03:14:59.072487 Kilo: Quebec, sending you 3
+2024-10-15 03:14:59.074941 Golf: India, sending you 2
+2024-10-15 03:14:59.075972 Oscar: Juliett, sending you 3
+2024-10-15 03:14:59.077793 Whiskey: Same as last round
+chatterbot Oscar submitting transactions
+2024-10-15 03:14:59.375824 India: Golf, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Hotel round 16
+ChatterBot Oscar round 16
+ChatterBot Whiskey round 16
+ChatterBot Kilo round 16
+ChatterBot India round 16
+ChatterBot Quebec round 16
+ChatterBot Bravo round 16
+ChatterBot Golf round 16
+ChatterBot Juliett round 16
+2024-10-15 03:14:59.994933 Whiskey: We should add Alpha
+2024-10-15 03:15:00.009522 Hotel: Yes
+2024-10-15 03:15:00.009741 Kilo: Yes
+2024-10-15 03:15:00.009913 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:15:00.065676 Whiskey: Alpha we want you to join our group
+2024-10-15 03:15:00.069891 Alpha: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 03:15:00.084696 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:00.085853 India: Golf, sending you 5
+2024-10-15 03:15:00.086468 Hotel: Same as last round
+2024-10-15 03:15:00.087771 Alpha: Hotel, sending you 2
+2024-10-15 03:15:00.089290 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:15:00.089865 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:00.090812 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:00.091308 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:00.092280 Golf: India, sending you 2
+2024-10-15 03:15:00.093918 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:00.095065 Oscar: Juliett, sending you 3
+2024-10-15 03:15:00.095824 Bravo: Juliett, sending you 3
+2024-10-15 03:15:00.096293 Kilo: Quebec, sending you 3
+2024-10-15 03:15:00.097225 Quebec: Kilo, sending you 3
+2024-10-15 03:15:00.105735 Whiskey: Same as last round
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Hotel round 17
+ChatterBot Oscar round 17
+ChatterBot Whiskey round 17
+ChatterBot Kilo round 17
+ChatterBot India round 17
+ChatterBot Quebec round 17
+ChatterBot Bravo round 17
+ChatterBot Golf round 17
+ChatterBot Juliett round 17
+2024-10-15 03:15:01.378718 Whiskey: We should add Alpha
+2024-10-15 03:15:01.398630 Hotel: Yes
+2024-10-15 03:15:01.398871 Kilo: Yes
+2024-10-15 03:15:01.399040 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:15:01.510831 India: Golf, sending you 5
+2024-10-15 03:15:01.512738 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:01.516419 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:01.519005 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:01.520455 Hotel: Same as last round
+2024-10-15 03:15:01.522388 Alpha: Hotel, sending you 2
+2024-10-15 03:15:01.525329 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:15:01.527430 Quebec: Kilo, sending you 3
+2024-10-15 03:15:01.530670 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:01.532955 Kilo: Quebec, sending you 3
+2024-10-15 03:15:01.536197 Whiskey: Same as last round
+2024-10-15 03:15:01.539639 Bravo: Juliett, sending you 3
+2024-10-15 03:15:01.540823 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:01.544677 Oscar: Juliett, sending you 3
+2024-10-15 03:15:01.547489 Golf: India, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Hotel round 18
+ChatterBot Oscar round 18
+ChatterBot Whiskey round 18
+ChatterBot Kilo round 18
+ChatterBot India round 18
+ChatterBot Quebec round 18
+ChatterBot Bravo round 18
+ChatterBot Golf round 18
+ChatterBot Juliett round 18
+2024-10-15 03:15:03.008162 India: Golf, sending you 5
+2024-10-15 03:15:03.010400 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:03.013976 Hotel: Same as last round
+2024-10-15 03:15:03.015851 Oscar: Bravo and Golf, sending you 2
+2024-10-15 03:15:03.017046 Whiskey: Same as last round
+2024-10-15 03:15:03.018630 Alpha: Hotel, sending you 2
+2024-10-15 03:15:03.020938 Kilo: Quebec, sending you 3
+2024-10-15 03:15:03.035479 Oscar: Juliett, sending you 3
+2024-10-15 03:15:03.036375 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:03.038013 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:03.040119 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:03.042171 Golf: India, sending you 2
+2024-10-15 03:15:03.071783 Quebec: Kilo, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Hotel round 19
+ChatterBot Oscar round 19
+ChatterBot Whiskey round 19
+ChatterBot Kilo round 19
+ChatterBot India round 19
+ChatterBot Quebec round 19
+ChatterBot Bravo round 19
+ChatterBot Golf round 19
+ChatterBot Juliett round 19
+2024-10-15 03:15:04.237961 India: I was attacked by Bravo
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:04.256639 India: I'm keeping this round to protect myself
+2024-10-15 03:15:04.259611 India: Ow
+2024-10-15 03:15:04.294503 Whiskey: Same as last round
+2024-10-15 03:15:04.296767 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:04.299767 Hotel: Same as last round
+2024-10-15 03:15:04.302984 Alpha: Hotel, sending you 2
+2024-10-15 03:15:04.305871 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:04.309324 Quebec: Kilo, sending you 3
+2024-10-15 03:15:04.312260 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:04.314464 Kilo: Quebec, sending you 3
+2024-10-15 03:15:04.378734 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:04.380145 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:04.384735 Golf: India, sending you 2
+2024-10-15 03:15:04.386765 Bravo: Juliett, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Hotel round 20
+ChatterBot Oscar round 20
+ChatterBot Whiskey round 20
+ChatterBot Kilo round 20
+ChatterBot India round 20
+ChatterBot Quebec round 20
+ChatterBot Bravo round 20
+ChatterBot Golf round 20
+ChatterBot Juliett round 20
+2024-10-15 03:15:05.616726 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:05.620303 Whiskey: Same as last round
+2024-10-15 03:15:05.622381 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:05.632561 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:05.639819 Alpha: Hotel, sending you 2
+2024-10-15 03:15:05.647424 Golf: India, sending you 2
+2024-10-15 03:15:05.655016 Quebec: Kilo, sending you 3
+2024-10-15 03:15:05.660921 Kilo: Quebec, sending you 3
+2024-10-15 03:15:05.666083 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:05.671897 Hotel: Same as last round
+2024-10-15 03:15:05.677661 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:05.682758 Bravo: Juliett, sending you 3
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Hotel round 21
+ChatterBot Oscar round 21
+ChatterBot Whiskey round 21
+ChatterBot Kilo round 21
+ChatterBot India round 21
+ChatterBot Quebec round 21
+ChatterBot Bravo round 21
+ChatterBot Golf round 21
+ChatterBot Juliett round 21
+2024-10-15 03:15:07.050910 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:07.055553 Hotel: Same as last round
+2024-10-15 03:15:07.059692 India: Golf, sending you 5
+2024-10-15 03:15:07.061786 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:07.063762 Whiskey: Same as last round
+2024-10-15 03:15:07.065494 Alpha: Hotel, sending you 2
+2024-10-15 03:15:07.067522 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:07.068081 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:07.069825 Kilo: Quebec, sending you 3
+2024-10-15 03:15:07.071975 Golf: India, sending you 2
+2024-10-15 03:15:07.073575 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:07.082458 Bravo: Juliett, sending you 3
+2024-10-15 03:15:07.085628 Quebec: Kilo, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Hotel round 22
+ChatterBot Oscar round 22
+ChatterBot Whiskey round 22
+ChatterBot Kilo round 22
+ChatterBot India round 22
+ChatterBot Quebec round 22
+ChatterBot Bravo round 22
+ChatterBot Golf round 22
+ChatterBot Juliett round 22
+2024-10-15 03:15:08.319196 Whiskey: We should add Alpha
+2024-10-15 03:15:08.340336 Hotel: Yes
+2024-10-15 03:15:08.340688 Kilo: Yes
+2024-10-15 03:15:08.341898 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:15:08.489690 Alpha: Hotel, sending you 2
+2024-10-15 03:15:08.512629 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:08.518767 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:08.523601 Whiskey: Same as last round
+2024-10-15 03:15:08.527882 Hotel: Same as last round
+2024-10-15 03:15:08.531669 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:08.533688 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:08.538188 India: Same as last round
+2024-10-15 03:15:08.539280 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:08.542280 Quebec: Kilo, sending you 3
+2024-10-15 03:15:08.549180 Bravo: Juliett, sending you 3
+2024-10-15 03:15:08.551571 Kilo: Quebec, sending you 3
+2024-10-15 03:15:08.557234 Golf: India, sending you 2
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Hotel round 23
+ChatterBot Oscar round 23
+ChatterBot Whiskey round 23
+ChatterBot Kilo round 23
+ChatterBot India round 23
+ChatterBot Quebec round 23
+ChatterBot Bravo round 23
+ChatterBot Golf round 23
+ChatterBot Juliett round 23
+2024-10-15 03:15:09.778654 Hotel: We should add India
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:09.809285 Whiskey: No
+2024-10-15 03:15:09.809713 Kilo: No
+2024-10-15 03:15:09.810084 Quebec: Yes
+2024-10-15 03:15:09.810349 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:09.971471 Golf: We should add Hotel
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:10.009969 India: No
+2024-10-15 03:15:10.011930 Oscar: No
+2024-10-15 03:15:10.016154 Bravo: No
+2024-10-15 03:15:10.016847 Juliett: No
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:10.183459 Golf: We should add Alpha
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:10.208711 India: No
+2024-10-15 03:15:10.209638 Oscar: No
+2024-10-15 03:15:10.209860 Bravo: No
+2024-10-15 03:15:10.210017 Juliett: No
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:10.344159 Hotel: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:15:10.359026 India: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:15:10.394999 Hotel: We should add Oscar
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:10.421533 Whiskey: No
+2024-10-15 03:15:10.421764 Kilo: No
+2024-10-15 03:15:10.421946 Quebec: No
+2024-10-15 03:15:10.422141 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:15:10.550337 Quebec: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:15:10.560881 India: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:15:10.594715 Golf: Alpha we want you to join our group
+2024-10-15 03:15:10.603801 Alpha: No
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:15:10.630786 Golf: We should add Whiskey
+ChatterBot India reevaluating
+2024-10-15 03:15:10.650870 India: No
+2024-10-15 03:15:10.651725 Oscar: No
+2024-10-15 03:15:10.651883 Bravo: No
+2024-10-15 03:15:10.652007 Juliett: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:15:10.732847 Alpha: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:15:10.742337 India: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 03:15:10.765683 Alpha: We should add Juliett
+ChatterBot Hotel reevaluating
+2024-10-15 03:15:10.783171 Hotel: Yes
+2024-10-15 03:15:10.783429 Whiskey: No
+2024-10-15 03:15:10.784125 Kilo: No
+2024-10-15 03:15:10.784294 Quebec: No
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:10.865683 Whiskey: Same as last round
+2024-10-15 03:15:10.869554 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:10.872170 Golf: Whiskey we want you to join our group
+2024-10-15 03:15:10.881184 Whiskey: No
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:15:10.904806 Golf: We should add Kilo
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:11.047169 India: No
+2024-10-15 03:15:11.047493 Oscar: No
+2024-10-15 03:15:11.047702 Bravo: No
+2024-10-15 03:15:11.047869 Juliett: No
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-15 03:15:11.224242 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:11.229032 Golf: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 03:15:11.240147 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:15:11.269986 Golf: We should add Quebec
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:11.292461 India: No
+2024-10-15 03:15:11.292900 Oscar: No
+2024-10-15 03:15:11.293152 Bravo: No
+2024-10-15 03:15:11.293418 Juliett: No
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:11.384191 Kilo: Quebec, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-15 03:15:11.760103 Alpha: Hotel, Whiskey, Kilo, India and Quebec, sending you 1
+2024-10-15 03:15:11.762757 Quebec: Alpha and India, sending you 1
+2024-10-15 03:15:11.766753 Bravo: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 03:15:11.772539 Golf: Yes
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-15 03:15:11.786296 Quebec: Hotel and Whiskey, sending you 2
+chatterbot Bravo submitting transactions
+2024-10-15 03:15:11.804779 Hotel: Alpha, Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:15:11.808156 Quebec: Kilo, sending you 3
+2024-10-15 03:15:11.830791 Golf: Oscar, Whiskey, India, Bravo and Juliett, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Hotel round 24
+ChatterBot Oscar round 24
+ChatterBot Whiskey round 24
+ChatterBot Kilo round 24
+ChatterBot India round 24
+ChatterBot Quebec round 24
+ChatterBot Bravo round 24
+ChatterBot Golf round 24
+ChatterBot Juliett round 24
+2024-10-15 03:15:12.922899 Whiskey: Same as last round
+2024-10-15 03:15:12.927965 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:12.934050 Alpha: Hotel, Whiskey, Kilo, India and Quebec, sending you 1
+2024-10-15 03:15:12.939211 Quebec: Alpha and India, sending you 1
+2024-10-15 03:15:12.943316 Golf: Oscar, Whiskey, India, Bravo and Juliett, sending you 1
+2024-10-15 03:15:12.948131 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:12.950920 Hotel: Alpha, sending you 2
+2024-10-15 03:15:12.957742 Kilo: Quebec, sending you 3
+2024-10-15 03:15:12.963472 Quebec: Hotel and Whiskey, sending you 2
+2024-10-15 03:15:12.969352 Bravo: Juliett, sending you 3
+2024-10-15 03:15:12.972352 Hotel: Whiskey, Kilo and Quebec, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-15 03:15:12.978441 Quebec: Kilo, sending you 3
+2024-10-15 03:15:12.984700 Hotel: India, sending you 1
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Hotel round 25
+ChatterBot Oscar round 25
+ChatterBot Whiskey round 25
+ChatterBot Kilo round 25
+ChatterBot India round 25
+ChatterBot Quebec round 25
+ChatterBot Bravo round 25
+ChatterBot Golf round 25
+ChatterBot Juliett round 25
+2024-10-15 03:15:14.032861 Bravo: We should add India
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:14.044478 Oscar: Yes
+2024-10-15 03:15:14.044670 Juliett: Yes
+2024-10-15 03:15:14.044803 Golf: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:14.103643 Golf: We should drop Whiskey
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:14.117675 India: Yes
+2024-10-15 03:15:14.117883 Oscar: Yes
+2024-10-15 03:15:14.118048 Bravo: Yes
+2024-10-15 03:15:14.118219 Juliett: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:14.430538 Hotel: Alpha, sending you 2
+2024-10-15 03:15:14.434192 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:14.437308 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:14.442878 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:14.446676 Alpha: Hotel, sending you 2
+2024-10-15 03:15:14.450078 Whiskey: Same as last round
+2024-10-15 03:15:14.452628 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:15:14.454949 Quebec: Kilo, sending you 3
+2024-10-15 03:15:14.457093 Kilo: Quebec, sending you 3
+2024-10-15 03:15:14.459718 Golf: India, sending you 2
+2024-10-15 03:15:14.462874 Alpha: Whiskey, Kilo and Quebec, sending you 1
+2024-10-15 03:15:14.469407 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:14.472395 Hotel: India, sending you 1
+2024-10-15 03:15:14.477917 Bravo: Juliett, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Hotel round 26
+ChatterBot Oscar round 26
+ChatterBot Whiskey round 26
+ChatterBot Kilo round 26
+ChatterBot India round 26
+ChatterBot Quebec round 26
+ChatterBot Bravo round 26
+ChatterBot Golf round 26
+ChatterBot Juliett round 26
+2024-10-15 03:15:16.029595 India: We should replace Bravo with Oscar
+2024-10-15 03:15:16.064495 India: Oscar we want you to join our group
+2024-10-15 03:15:16.073191 Oscar: Yes
+2024-10-15 03:15:16.123 Alpha: Hotel, Whiskey and Quebec, sending you 1
+2024-10-15 03:15:16.127975 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:16.131396 Hotel: Alpha, sending you 2
+2024-10-15 03:15:16.137780 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:16.142282 Golf: Oscar, Bravo and Juliett, sending you 1
+2024-10-15 03:15:16.145186 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:16.149963 Whiskey: Same as last round
+2024-10-15 03:15:16.152985 Alpha: Kilo, sending you 2
+2024-10-15 03:15:16.158676 Bravo: Juliett, sending you 3
+2024-10-15 03:15:16.162279 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:15:16.167829 Kilo: Quebec, sending you 3
+2024-10-15 03:15:16.172814 Golf: India, sending you 2
+2024-10-15 03:15:16.176711 Quebec: Kilo, sending you 3
+2024-10-15 03:15:16.181927 India: Sending you 5
+2024-10-15 03:15:16.184436 Hotel: India, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Hotel round 27
+ChatterBot Oscar round 27
+ChatterBot Whiskey round 27
+ChatterBot Kilo round 27
+ChatterBot India round 27
+ChatterBot Quebec round 27
+ChatterBot Bravo round 27
+ChatterBot Golf round 27
+ChatterBot Juliett round 27
+2024-10-15 03:15:17.365584 Hotel: Alpha, sending you 2
+2024-10-15 03:15:17.368531 India: Same as last round
+2024-10-15 03:15:17.369137 Golf: Oscar, sending you 2
+2024-10-15 03:15:17.376997 Whiskey: Same as last round
+2024-10-15 03:15:17.379177 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:17.380653 Alpha: Hotel, Whiskey and Quebec, sending you 1
+2024-10-15 03:15:17.388659 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:17.391928 Bravo: Oscar and Golf, sending you 2
+2024-10-15 03:15:17.392903 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:15:17.402165 Golf: India, Bravo and Juliett, sending you 1
+2024-10-15 03:15:17.404422 Quebec: Kilo, sending you 3
+2024-10-15 03:15:17.407240 Alpha: Kilo, sending you 2
+2024-10-15 03:15:17.414214 Kilo: Quebec, sending you 3
+2024-10-15 03:15:17.417560 Bravo: Juliett, sending you 3
+2024-10-15 03:15:17.418557 Hotel: India, sending you 1
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Hotel round 28
+ChatterBot Oscar round 28
+ChatterBot Whiskey round 28
+ChatterBot Kilo round 28
+ChatterBot India round 28
+ChatterBot Quebec round 28
+ChatterBot Bravo round 28
+ChatterBot Golf round 28
+ChatterBot Juliett round 28
+2024-10-15 03:15:18.768777 Alpha: Hotel, Whiskey and Quebec, sending you 1
+2024-10-15 03:15:18.777998 Bravo: Oscar and Juliett, sending you 3
+2024-10-15 03:15:18.780952 India: Same as last round
+2024-10-15 03:15:18.782656 Quebec: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:18.787965 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:18.794035 Alpha: Kilo, sending you 2
+2024-10-15 03:15:18.797841 Golf: Oscar, sending you 2
+2024-10-15 03:15:18.801514 Hotel: Alpha, sending you 2
+2024-10-15 03:15:18.806508 Whiskey: Same as last round
+2024-10-15 03:15:18.811169 Bravo: Golf, sending you 2
+2024-10-15 03:15:18.812520 Quebec: Kilo, sending you 3
+2024-10-15 03:15:18.816674 Kilo: Quebec, sending you 3
+2024-10-15 03:15:18.820332 Golf: India, Bravo and Juliett, sending you 1
+2024-10-15 03:15:18.822344 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:15:18.842048 Hotel: India, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Hotel round 29
+ChatterBot Oscar round 29
+ChatterBot Whiskey round 29
+ChatterBot Kilo round 29
+ChatterBot India round 29
+ChatterBot Quebec round 29
+ChatterBot Bravo round 29
+ChatterBot Golf round 29
+ChatterBot Juliett round 29
+2024-10-15 03:15:20.554865 Alpha: We should replace India with Golf
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:20.572983 Hotel: No
+2024-10-15 03:15:20.573159 Whiskey: No
+2024-10-15 03:15:20.573320 Kilo: No
+2024-10-15 03:15:20.573486 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:20.686983 Alpha: We should drop India
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:20.706448 Hotel: Yes
+2024-10-15 03:15:20.706802 Whiskey: Yes
+2024-10-15 03:15:20.707018 Kilo: Yes
+2024-10-15 03:15:20.707166 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:21.155166 India: Same as last round
+2024-10-15 03:15:21.157767 Golf: Oscar, sending you 2
+2024-10-15 03:15:21.228230 Alpha: Golf we want you to join our group
+2024-10-15 03:15:21.242608 Golf: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 03:15:21.278367 Whiskey: We should add Alpha
+ChatterBot Hotel reevaluating
+2024-10-15 03:15:21.299919 Hotel: Yes
+2024-10-15 03:15:21.300240 Kilo: Yes
+2024-10-15 03:15:21.301042 Quebec: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:15:21.358284 Golf: India, Bravo and Juliett, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+2024-10-15 03:15:21.562735 Whiskey: Same as last round
+2024-10-15 03:15:21.569236 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:21.574844 Alpha: Sending you each 1
+2024-10-15 03:15:21.581149 Kilo: Quebec, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-15 03:15:21.588901 Hotel: Sending you each 3
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Hotel round 30
+ChatterBot Oscar round 30
+ChatterBot Whiskey round 30
+ChatterBot Kilo round 30
+ChatterBot India round 30
+ChatterBot Quebec round 30
+ChatterBot Bravo round 30
+ChatterBot Golf round 30
+ChatterBot Juliett round 30
+2024-10-15 03:15:22.993258 Hotel: We should add Bravo
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:23.011172 Whiskey: No
+2024-10-15 03:15:23.011699 Kilo: No
+2024-10-15 03:15:23.012759 Quebec: Yes
+2024-10-15 03:15:23.013043 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:23.113636 Bravo: We should add India
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 03:15:23.126187 Oscar: Yes
+2024-10-15 03:15:23.126572 Juliett: Yes
+2024-10-15 03:15:23.126759 Golf: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:23.170711 Golf: We should add Alpha
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 03:15:23.186771 India: No
+2024-10-15 03:15:23.186951 Oscar: No
+2024-10-15 03:15:23.187076 Bravo: No
+2024-10-15 03:15:23.187193 Juliett: No
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:23.260673 India: We should add Bravo and Juliett
+2024-10-15 03:15:23.265178 Oscar: Yes
+ChatterBot India reevaluating
+2024-10-15 03:15:23.289264 Hotel: We should add Golf
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:23.308838 Whiskey: No
+2024-10-15 03:15:23.309029 Kilo: No
+2024-10-15 03:15:23.309179 Quebec: Yes
+2024-10-15 03:15:23.309361 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:23.387729 Quebec: We should replace India with Juliett
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:23.402998 Hotel: Yes
+2024-10-15 03:15:23.403146 Whiskey: No
+2024-10-15 03:15:23.403273 Kilo: No
+2024-10-15 03:15:23.403399 Alpha: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:23.474414 Hotel: We should add Juliett
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:23.492705 Whiskey: No
+2024-10-15 03:15:23.492899 Kilo: No
+2024-10-15 03:15:23.493037 Quebec: No
+2024-10-15 03:15:23.493195 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:23.567891 Quebec: We should replace India with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:23.584714 Hotel: Yes
+2024-10-15 03:15:23.584915 Whiskey: No
+2024-10-15 03:15:23.585074 Kilo: No
+2024-10-15 03:15:23.585230 Alpha: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:23.659391 Alpha: We should replace Golf with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 03:15:23.676130 Hotel: Yes
+2024-10-15 03:15:23.676324 Whiskey: No
+2024-10-15 03:15:23.676473 Kilo: No
+2024-10-15 03:15:23.676607 Quebec: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 03:15:23.752150 Bravo: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-15 03:15:23.759137 India: No
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:23.782603 India: We should add Bravo and Golf
+2024-10-15 03:15:23.783576 Golf: We should add Hotel
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:15:23.806911 Oscar: Yes
+2024-10-15 03:15:23.811333 Bravo: No
+2024-10-15 03:15:23.811538 Juliett: No
+2024-10-15 03:15:23.811742 India: No
+2024-10-15 03:15:23.811911 Oscar: No
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-15 03:15:23.902951 Alpha: Bravo we want you to join our group
+2024-10-15 03:15:23.912496 Bravo: No
+ChatterBot Hotel reevaluating
+2024-10-15 03:15:23.941800 Quebec: Bravo we want you to join our group
+2024-10-15 03:15:23.953662 Bravo: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 03:15:23.991336 Whiskey: Same as last round
+2024-10-15 03:15:23.996936 India: Bravo and Juliett we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:24.011878 Bravo: Yes
+2024-10-15 03:15:24.012043 Juliett: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:24.040085 Golf: Alpha we want you to join our group
+2024-10-15 03:15:24.048719 Alpha: No
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 03:15:24.083379 Hotel: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 03:15:24.092425 Bravo: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Oscar submitting transactions
+2024-10-15 03:15:24.217527 Quebec: Alpha and Bravo, sending you 1
+2024-10-15 03:15:24.348088 Quebec: Hotel and Whiskey, sending you 2
+chatterbot Bravo submitting transactions
+2024-10-15 03:15:24.473280 Quebec: Kilo, sending you 3
+2024-10-15 03:15:24.478645 Kilo: Alpha, Hotel and Whiskey, sending you 2
+2024-10-15 03:15:24.483268 Golf: Alpha, Oscar, India, Bravo and Juliett, sending you 1
+2024-10-15 03:15:24.542891 Kilo: Quebec, sending you 3
+2024-10-15 03:15:24.548744 Alpha: Sending you each 1
+2024-10-15 03:15:24.554858 Bravo: Oscar and Juliett, sending you 3
+2024-10-15 03:15:24.558705 Hotel: Alpha, sending you 2
+2024-10-15 03:15:24.564496 Bravo: Golf, sending you 2
+2024-10-15 03:15:24.597278 Hotel: Whiskey, Kilo and Quebec, sending you 3
+2024-10-15 03:15:24.675442 Hotel: Bravo, sending you 1
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
