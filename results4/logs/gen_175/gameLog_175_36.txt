@@ -1,0 +1,1672 @@
+ChatterBot Charlie round 1
+ChatterBot Yankee round 1
+ChatterBot Lima round 1
+ChatterBot Romeo round 1
+ChatterBot Whiskey round 1
+ChatterBot Papa round 1
+ChatterBot Foxtrot round 1
+ChatterBot Mike round 1
+ChatterBot India round 1
+ChatterBot Quebec round 1
+randomSelections Charlie: {Charlie, India, Papa, Romeo} 
+2024-10-15 01:53:01.113433 Charlie: Friends?
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:01.173142 India: Yes
+2024-10-15 01:53:01.174019 Papa: Yes
+2024-10-15 01:53:01.174452 Romeo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+randomSelections Yankee: {Yankee, Mike} 
+2024-10-15 01:53:01.204065 Yankee: Friends?
+ChatterBot Mike reevaluating
+2024-10-15 01:53:01.207523 Mike: Yes
+randomSelections Lima: {Lima, Papa, Foxtrot, Mike} 
+2024-10-15 01:53:01.213416 Lima: Friends?
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:53:01.223542 Papa: No
+2024-10-15 01:53:01.224031 Foxtrot: Yes
+2024-10-15 01:53:01.224243 Mike: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Quebec: {Quebec, Whiskey} 
+2024-10-15 01:53:01.256369 Quebec: We should group up
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:01.260181 Whiskey: Yes
+2024-10-15 01:53:01.286661 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:01.289626 Charlie: Romeo and Papa, sending you 2
+2024-10-15 01:53:01.291132 Papa: Charlie, sending you 1
+2024-10-15 01:53:01.292045 Quebec: Sending you 5
+2024-10-15 01:53:01.293104 Foxtrot: Lima and Mike, sending you 1
+2024-10-15 01:53:01.293879 Romeo: Charlie, sending you 3
+2024-10-15 01:53:01.295481 Yankee: Sending you 2
+2024-10-15 01:53:01.296897 India: Papa, sending you 2
+2024-10-15 01:53:01.298527 Whiskey: Sending you 8
+2024-10-15 01:53:01.299868 Papa: Romeo, sending you 3
+2024-10-15 01:53:01.300682 Foxtrot: Papa, sending you 4
+2024-10-15 01:53:01.301154 Romeo: India, sending you 4
+2024-10-15 01:53:01.302869 Lima: Papa, sending you 1
+2024-10-15 01:53:01.305863 Papa: India, sending you 6
+2024-10-15 01:53:01.307428 Mike: Sending you 9
+2024-10-15 01:53:01.308083 Lima: Foxtrot and Mike, sending you 2
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Charlie round 2
+ChatterBot Yankee round 2
+ChatterBot Lima round 2
+ChatterBot Romeo round 2
+ChatterBot Whiskey round 2
+ChatterBot Papa round 2
+ChatterBot Foxtrot round 2
+ChatterBot Mike round 2
+ChatterBot India round 2
+ChatterBot Quebec round 2
+2024-10-15 01:53:02.705204 India: We should add Lima
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:02.722187 Charlie: No
+2024-10-15 01:53:02.722380 Papa: Yes
+2024-10-15 01:53:02.722526 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:02.782821 Mike: We should add Lima and Foxtrot
+2024-10-15 01:53:02.788468 Yankee: No
+ChatterBot Mike reevaluating
+2024-10-15 01:53:02.794122 Mike: Friends?
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:02.805221 Lima: Yes
+2024-10-15 01:53:02.805412 Foxtrot: Yes
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:53:02.842243 India: We should add Foxtrot
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:02.857069 Charlie: No
+2024-10-15 01:53:02.857270 Papa: No
+2024-10-15 01:53:02.857386 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:03.040975 Lima: We should drop Papa
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:03.052587 Mike: Yes
+2024-10-15 01:53:03.053541 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:53:03.075858 Lima: We should replace Papa with Yankee
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:03.086117 Mike: No
+2024-10-15 01:53:03.086293 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:53:03.242838 Quebec: Sending you 4
+2024-10-15 01:53:03.243938 Mike: Lima and Foxtrot we want you to join our group
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:03.263372 Lima: No
+2024-10-15 01:53:03.264265 Foxtrot: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:53:03.317268 Whiskey: Sending you 9
+2024-10-15 01:53:03.317730 Yankee: Same as last round
+2024-10-15 01:53:03.318830 Romeo: Charlie, sending you 2
+chatterbot Quebec submitting transactions
+2024-10-15 01:53:03.357708 Foxtrot: We should drop Papa and Mike
+ChatterBot Lima reevaluating
+2024-10-15 01:53:03.365781 Lima: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:03.372509 Charlie: Sending you each 2
+2024-10-15 01:53:03.375061 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:03.376549 Papa: Charlie and India, sending you 6
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-15 01:53:03.539079 Mike: Yankee, sending you 4
+2024-10-15 01:53:03.577648 Mike: Lima, sending you 3
+2024-10-15 01:53:03.590816 Lima: Same as last round
+2024-10-15 01:53:03.591601 Mike: Foxtrot, sending you 2
+2024-10-15 01:53:03.591921 Foxtrot: Sending you 4
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Charlie round 3
+ChatterBot Yankee round 3
+ChatterBot Lima round 3
+ChatterBot Romeo round 3
+ChatterBot Whiskey round 3
+ChatterBot Papa round 3
+ChatterBot Foxtrot round 3
+ChatterBot Mike round 3
+ChatterBot India round 3
+ChatterBot Quebec round 3
+2024-10-15 01:53:04.102100 India: We should add Lima
+2024-10-15 01:53:04.115091 Charlie: No
+2024-10-15 01:53:04.115277 Papa: No
+2024-10-15 01:53:04.115398 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:04.167698 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:04.169680 Lima: Same as last round
+2024-10-15 01:53:04.171691 Charlie: India, sending you 2
+2024-10-15 01:53:04.174810 India: Lima we want you to join our group
+2024-10-15 01:53:04.180634 Lima: No
+ChatterBot India reevaluating
+2024-10-15 01:53:04.202783 India: We should add Yankee
+2024-10-15 01:53:04.222065 Charlie: No
+2024-10-15 01:53:04.222727 Papa: No
+2024-10-15 01:53:04.222866 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:04.293127 Papa: Charlie, sending you 5
+2024-10-15 01:53:04.294521 India: We should add Mike
+2024-10-15 01:53:04.373808 Charlie: No
+2024-10-15 01:53:04.374161 Papa: No
+2024-10-15 01:53:04.374395 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:04.500463 Yankee: Same as last round
+2024-10-15 01:53:04.501426 Romeo: Charlie and India, sending you 3
+2024-10-15 01:53:04.501904 Foxtrot: Sending you 5
+2024-10-15 01:53:04.503001 Mike: Yankee, sending you 5
+2024-10-15 01:53:04.503435 Quebec: Same as last round
+2024-10-15 01:53:04.503802 Papa: Romeo, sending you 3
+2024-10-15 01:53:04.504737 Whiskey: Same as last round
+2024-10-15 01:53:04.508743 Romeo: Papa, sending you 2
+2024-10-15 01:53:04.509844 Mike: Lima, sending you 3
+2024-10-15 01:53:04.510546 Papa: India, sending you 6
+2024-10-15 01:53:04.514799 Mike: Foxtrot, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+ChatterBot Charlie round 4
+ChatterBot Yankee round 4
+ChatterBot Lima round 4
+ChatterBot Romeo round 4
+ChatterBot Whiskey round 4
+ChatterBot Papa round 4
+ChatterBot Foxtrot round 4
+ChatterBot Mike round 4
+ChatterBot India round 4
+ChatterBot Quebec round 4
+2024-10-15 01:53:05.491719 India: We should add Yankee
+2024-10-15 01:53:05.505364 Charlie: No
+2024-10-15 01:53:05.505532 Papa: No
+2024-10-15 01:53:05.505676 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:05.542141 India: We should add Quebec
+2024-10-15 01:53:05.554024 Charlie: No
+2024-10-15 01:53:05.554166 Papa: No
+2024-10-15 01:53:05.554286 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:05.602515 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:05.603354 Yankee: Same as last round
+2024-10-15 01:53:05.606667 Charlie: India, sending you 2
+2024-10-15 01:53:05.607702 Lima: Sending you 1
+2024-10-15 01:53:05.608011 Whiskey: Same as last round
+2024-10-15 01:53:05.608302 Foxtrot: Same as last round
+2024-10-15 01:53:05.608585 Papa: Charlie and Romeo, sending you 4
+2024-10-15 01:53:05.609007 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:05.610078 Mike: Yankee, sending you 6
+2024-10-15 01:53:05.614120 Papa: India, sending you 6
+2024-10-15 01:53:05.614668 Romeo: India, sending you 4
+2024-10-15 01:53:05.615051 Mike: Lima, sending you 2
+2024-10-15 01:53:05.617692 Quebec: Same as last round
+2024-10-15 01:53:05.619658 Mike: Foxtrot, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Charlie round 5
+ChatterBot Yankee round 5
+ChatterBot Lima round 5
+ChatterBot Romeo round 5
+ChatterBot Whiskey round 5
+ChatterBot Papa round 5
+ChatterBot Foxtrot round 5
+ChatterBot Mike round 5
+ChatterBot India round 5
+ChatterBot Quebec round 5
+2024-10-15 01:53:06.726518 India: We should add Lima
+2024-10-15 01:53:06.741554 Charlie: No
+2024-10-15 01:53:06.741796 Papa: No
+2024-10-15 01:53:06.741985 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:06.784591 India: We should add Mike
+2024-10-15 01:53:06.793629 Charlie: No
+2024-10-15 01:53:06.793778 Papa: No
+2024-10-15 01:53:06.793884 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:06.824627 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:06.827657 Charlie: India, sending you 2
+2024-10-15 01:53:06.828091 Foxtrot: Sending you 6
+2024-10-15 01:53:06.828321 Yankee: Sending you 1
+2024-10-15 01:53:06.828977 Whiskey: Same as last round
+2024-10-15 01:53:06.829181 Romeo: Charlie, sending you 2
+2024-10-15 01:53:06.829662 Lima: Same as last round
+2024-10-15 01:53:06.833685 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:06.834693 Papa: Charlie, sending you 3
+2024-10-15 01:53:06.837655 Quebec: Sending you 3
+2024-10-15 01:53:06.839684 Papa: Romeo, sending you 4
+2024-10-15 01:53:06.841651 Mike: Yankee, sending you 6
+2024-10-15 01:53:06.844684 Papa: India, sending you 7
+2024-10-15 01:53:06.845069 Mike: Lima, sending you 2
+2024-10-15 01:53:06.848669 Mike: Foxtrot, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Charlie round 6
+ChatterBot Yankee round 6
+ChatterBot Lima round 6
+ChatterBot Romeo round 6
+ChatterBot Whiskey round 6
+ChatterBot Papa round 6
+ChatterBot Foxtrot round 6
+ChatterBot Mike round 6
+ChatterBot India round 6
+ChatterBot Quebec round 6
+2024-10-15 01:53:07.924238 India: We should add Lima
+2024-10-15 01:53:07.934028 Charlie: No
+2024-10-15 01:53:07.934213 Papa: No
+2024-10-15 01:53:07.934346 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:07.963684 India: We should add Mike
+2024-10-15 01:53:07.971344 Charlie: No
+2024-10-15 01:53:07.971477 Papa: No
+2024-10-15 01:53:07.971579 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:07.997671 Papa: Charlie, sending you 3
+2024-10-15 01:53:07.997963 Whiskey: Same as last round
+2024-10-15 01:53:07.998161 Lima: Same as last round
+2024-10-15 01:53:08.000674 Papa: Romeo, sending you 5
+2024-10-15 01:53:08.001139 Romeo: Charlie, sending you 2
+2024-10-15 01:53:08.001459 Mike: Yankee, sending you 6
+2024-10-15 01:53:08.001787 Foxtrot: Same as last round
+2024-10-15 01:53:08.002054 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:08.002674 Yankee: Same as last round
+2024-10-15 01:53:08.005667 Papa: India, sending you 6
+2024-10-15 01:53:08.006061 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:08.006823 Charlie: India, sending you 2
+2024-10-15 01:53:08.007187 Mike: Lima, sending you 2
+2024-10-15 01:53:08.009675 Mike: Foxtrot, sending you 1
+2024-10-15 01:53:08.013705 Quebec: Same as last round
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Charlie round 7
+ChatterBot Yankee round 7
+ChatterBot Lima round 7
+ChatterBot Romeo round 7
+ChatterBot Whiskey round 7
+ChatterBot Papa round 7
+ChatterBot Foxtrot round 7
+ChatterBot Mike round 7
+ChatterBot India round 7
+ChatterBot Quebec round 7
+2024-10-15 01:53:09.184195 India: We should add Foxtrot
+2024-10-15 01:53:09.201611 Charlie: No
+2024-10-15 01:53:09.201899 Papa: No
+2024-10-15 01:53:09.202116 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:09.242091 India: We should add Whiskey
+2024-10-15 01:53:09.250041 Charlie: No
+2024-10-15 01:53:09.250196 Papa: No
+2024-10-15 01:53:09.250325 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:09.278026 Foxtrot: Same as last round
+2024-10-15 01:53:09.278327 Yankee: Same as last round
+2024-10-15 01:53:09.278657 Romeo: Charlie, sending you 2
+2024-10-15 01:53:09.279068 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:09.279406 Mike: Yankee, sending you 6
+2024-10-15 01:53:09.279654 Papa: Charlie, sending you 3
+2024-10-15 01:53:09.280072 Lima: Same as last round
+2024-10-15 01:53:09.282642 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:09.283024 Mike: Lima, sending you 2
+2024-10-15 01:53:09.283661 Charlie: India, sending you 2
+2024-10-15 01:53:09.284656 Papa: Romeo, sending you 5
+2024-10-15 01:53:09.286095 Mike: Foxtrot, sending you 1
+2024-10-15 01:53:09.289652 Papa: India, sending you 6
+2024-10-15 01:53:09.295679 Quebec: Same as last round
+2024-10-15 01:53:09.296650 Whiskey: Same as last round
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Charlie round 8
+ChatterBot Yankee round 8
+ChatterBot Lima round 8
+ChatterBot Romeo round 8
+ChatterBot Whiskey round 8
+ChatterBot Papa round 8
+ChatterBot Foxtrot round 8
+ChatterBot Mike round 8
+ChatterBot India round 8
+ChatterBot Quebec round 8
+2024-10-15 01:53:10.474751 India: We should add Foxtrot
+2024-10-15 01:53:10.486476 Charlie: No
+2024-10-15 01:53:10.486703 Papa: No
+2024-10-15 01:53:10.486894 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:10.524858 India: We should add Mike
+2024-10-15 01:53:10.533974 Charlie: No
+2024-10-15 01:53:10.534121 Papa: No
+2024-10-15 01:53:10.534235 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:10.566683 Papa: Charlie, sending you 3
+2024-10-15 01:53:10.567330 Yankee: Same as last round
+2024-10-15 01:53:10.567658 Quebec: Same as last round
+2024-10-15 01:53:10.567969 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:10.569250 Whiskey: Sending you 10
+2024-10-15 01:53:10.569552 Romeo: Charlie, sending you 2
+2024-10-15 01:53:10.570124 Foxtrot: Same as last round
+2024-10-15 01:53:10.570444 Lima: Same as last round
+2024-10-15 01:53:10.570740 Mike: Yankee, sending you 7
+2024-10-15 01:53:10.571675 Papa: Romeo, sending you 5
+2024-10-15 01:53:10.573917 Charlie: India, sending you 2
+2024-10-15 01:53:10.574928 Mike: Lima and Foxtrot, sending you 1
+2024-10-15 01:53:10.575500 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:10.576186 Papa: India, sending you 6
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Charlie round 9
+ChatterBot Yankee round 9
+ChatterBot Lima round 9
+ChatterBot Romeo round 9
+ChatterBot Whiskey round 9
+ChatterBot Papa round 9
+ChatterBot Foxtrot round 9
+ChatterBot Mike round 9
+ChatterBot India round 9
+ChatterBot Quebec round 9
+2024-10-15 01:53:11.659414 India: We should add Mike
+2024-10-15 01:53:11.669805 Charlie: No
+2024-10-15 01:53:11.670019 Papa: No
+2024-10-15 01:53:11.670183 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:11.701332 Foxtrot: We should add Mike
+ChatterBot Lima reevaluating
+2024-10-15 01:53:11.703948 Lima: Yes
+2024-10-15 01:53:11.709553 India: We should add Yankee
+2024-10-15 01:53:11.717037 Charlie: No
+2024-10-15 01:53:11.717173 Papa: No
+2024-10-15 01:53:11.717279 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:11.740588 Yankee: Same as last round
+2024-10-15 01:53:11.740812 Lima: Mike we want you to join our group
+2024-10-15 01:53:11.743138 Mike: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:53:11.748184 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:11.748500 Foxtrot: Mike we want you to join our group
+2024-10-15 01:53:11.751076 Mike: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:53:11.755811 Romeo: Charlie, sending you 2
+2024-10-15 01:53:11.756514 Charlie: India, sending you 2
+2024-10-15 01:53:11.758681 Whiskey: Same as last round
+2024-10-15 01:53:11.758947 Papa: Charlie, sending you 2
+2024-10-15 01:53:11.759680 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:11.760684 Quebec: Sending you 2
+2024-10-15 01:53:11.762693 Papa: Romeo and India, sending you 6
+2024-10-15 01:53:11.769659 Foxtrot: Sending you each 3
+2024-10-15 01:53:11.776679 Mike: Yankee, sending you 7
+2024-10-15 01:53:11.779658 Mike: Lima and Foxtrot, sending you 1
+2024-10-15 01:53:11.791677 Lima: Sending you each 1
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Charlie round 10
+ChatterBot Yankee round 10
+ChatterBot Lima round 10
+ChatterBot Romeo round 10
+ChatterBot Whiskey round 10
+ChatterBot Papa round 10
+ChatterBot Foxtrot round 10
+2024-10-15 01:53:12.718789 Whiskey: We should add Mike
+2024-10-15 01:53:12.726833 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Mike round 10
+ChatterBot India round 10
+ChatterBot Quebec round 10
+2024-10-15 01:53:12.782904 India: We should add Foxtrot
+2024-10-15 01:53:12.796947 Charlie: No
+2024-10-15 01:53:12.797247 Papa: No
+2024-10-15 01:53:12.797448 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:12.865205 India: We should add Lima
+2024-10-15 01:53:12.885414 Charlie: No
+2024-10-15 01:53:12.886783 Papa: No
+2024-10-15 01:53:12.887128 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:12.943019 Yankee: Same as last round
+2024-10-15 01:53:12.945733 Lima: Same as last round
+2024-10-15 01:53:12.946702 Foxtrot: Same as last round
+2024-10-15 01:53:12.947831 Whiskey: Same as last round
+2024-10-15 01:53:12.948234 Papa: Charlie, sending you 2
+2024-10-15 01:53:12.949025 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:12.949774 Romeo: Charlie, sending you 2
+2024-10-15 01:53:12.953808 Papa: Romeo and India, sending you 6
+2024-10-15 01:53:12.955334 Charlie: India, sending you 2
+2024-10-15 01:53:12.956279 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:12.957684 Quebec: Same as last round
+2024-10-15 01:53:12.963207 Mike: Yankee, sending you 5
+2024-10-15 01:53:12.966667 Mike: Lima and Foxtrot, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Charlie round 11
+ChatterBot Yankee round 11
+ChatterBot Lima round 11
+ChatterBot Romeo round 11
+ChatterBot Whiskey round 11
+ChatterBot Papa round 11
+ChatterBot Foxtrot round 11
+ChatterBot Mike round 11
+ChatterBot India round 11
+ChatterBot Quebec round 11
+2024-10-15 01:53:13.983407 India: We should add Yankee
+2024-10-15 01:53:13.999019 Charlie: No
+2024-10-15 01:53:13.999183 Papa: No
+2024-10-15 01:53:13.999307 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:14.030103 India: We should add Lima
+2024-10-15 01:53:14.039892 Charlie: No
+2024-10-15 01:53:14.040046 Papa: No
+2024-10-15 01:53:14.040171 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:14.073519 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:14.076693 Foxtrot: Same as last round
+2024-10-15 01:53:14.077228 Yankee: Same as last round
+2024-10-15 01:53:14.077676 Charlie: India, sending you 2
+2024-10-15 01:53:14.078807 Mike: Yankee, sending you 4
+2024-10-15 01:53:14.079220 Lima: Same as last round
+2024-10-15 01:53:14.079583 Whiskey: Same as last round
+2024-10-15 01:53:14.079840 Papa: Charlie, sending you 3
+2024-10-15 01:53:14.080791 Romeo: Charlie, sending you 2
+2024-10-15 01:53:14.083661 Mike: Lima, sending you 2
+2024-10-15 01:53:14.084684 Papa: Romeo, sending you 6
+2024-10-15 01:53:14.085716 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:14.086680 Mike: Foxtrot, sending you 3
+2024-10-15 01:53:14.089670 Papa: India, sending you 5
+2024-10-15 01:53:14.090398 Quebec: Same as last round
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Charlie round 12
+ChatterBot Yankee round 12
+ChatterBot Lima round 12
+ChatterBot Romeo round 12
+ChatterBot Whiskey round 12
+ChatterBot Papa round 12
+ChatterBot Foxtrot round 12
+ChatterBot Mike round 12
+ChatterBot India round 12
+ChatterBot Quebec round 12
+2024-10-15 01:53:14.940067 Yankee: We should add Foxtrot
+2024-10-15 01:53:14.943630 Mike: Yes
+2024-10-15 01:53:14.983926 Whiskey: We should add Foxtrot
+2024-10-15 01:53:14.996580 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:15.095518 India: We should add Foxtrot
+2024-10-15 01:53:15.118232 Charlie: No
+2024-10-15 01:53:15.118540 Papa: No
+2024-10-15 01:53:15.118832 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:15.165746 Yankee: Foxtrot we want you to join our group
+2024-10-15 01:53:15.170254 Foxtrot: No
+2024-10-15 01:53:15.177352 Whiskey: We should add Yankee
+2024-10-15 01:53:15.181523 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:15.186300 India: We should add Quebec
+2024-10-15 01:53:15.201094 Charlie: No
+2024-10-15 01:53:15.201473 Papa: No
+2024-10-15 01:53:15.202562 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:15.243375 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:15.244768 Romeo: Charlie, sending you 2
+2024-10-15 01:53:15.247895 Foxtrot: Same as last round
+2024-10-15 01:53:15.248547 Papa: Charlie, sending you 3
+2024-10-15 01:53:15.250098 Charlie: India, sending you 2
+2024-10-15 01:53:15.250951 Mike: Yankee, sending you 4
+2024-10-15 01:53:15.252263 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:15.253014 Quebec: Same as last round
+2024-10-15 01:53:15.253441 Lima: Same as last round
+2024-10-15 01:53:15.254600 Papa: Romeo, sending you 6
+2024-10-15 01:53:15.256691 Mike: Lima, sending you 2
+2024-10-15 01:53:15.258695 Papa: India, sending you 5
+2024-10-15 01:53:15.259633 Yankee: Foxtrot and Mike, sending you 1
+2024-10-15 01:53:15.261684 Mike: Foxtrot, sending you 3
+2024-10-15 01:53:15.268693 Whiskey: Sending you 11
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+ChatterBot Charlie round 13
+ChatterBot Yankee round 13
+ChatterBot Lima round 13
+ChatterBot Romeo round 13
+ChatterBot Whiskey round 13
+ChatterBot Papa round 13
+ChatterBot Foxtrot round 13
+ChatterBot Mike round 13
+ChatterBot India round 13
+ChatterBot Quebec round 13
+2024-10-15 01:53:16.302235 India: We should add Yankee
+2024-10-15 01:53:16.313487 Charlie: No
+2024-10-15 01:53:16.313689 Papa: No
+2024-10-15 01:53:16.313846 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:16.368400 India: We should add Foxtrot
+2024-10-15 01:53:16.379899 Charlie: No
+2024-10-15 01:53:16.380061 Papa: No
+2024-10-15 01:53:16.380188 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:16.410945 Romeo: Charlie, sending you 2
+2024-10-15 01:53:16.413686 Yankee: Foxtrot and Mike, sending you 1
+2024-10-15 01:53:16.414002 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:16.414506 Whiskey: Same as last round
+2024-10-15 01:53:16.414736 Charlie: Romeo and Papa, sending you 1
+2024-10-15 01:53:16.415350 Lima: Same as last round
+2024-10-15 01:53:16.415644 Papa: Charlie, sending you 3
+2024-10-15 01:53:16.418664 Charlie: India, sending you 2
+2024-10-15 01:53:16.420677 Papa: Romeo, sending you 6
+2024-10-15 01:53:16.421346 Quebec: Same as last round
+2024-10-15 01:53:16.422673 Mike: Sending you each 3
+2024-10-15 01:53:16.425650 Papa: India, sending you 5
+2024-10-15 01:53:16.426667 Foxtrot: Same as last round
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Charlie round 14
+ChatterBot Yankee round 14
+ChatterBot Lima round 14
+ChatterBot Romeo round 14
+2024-10-15 01:53:17.504987 Yankee: We should add Lima
+2024-10-15 01:53:17.513297 Mike: Yes
+2024-10-15 01:53:17.513453 Foxtrot: Yes
+ChatterBot Whiskey round 14
+ChatterBot Papa round 14
+ChatterBot Foxtrot round 14
+ChatterBot Mike round 14
+ChatterBot India round 14
+ChatterBot Quebec round 14
+2024-10-15 01:53:17.542709 Yankee: Lima we want you to join our group
+2024-10-15 01:53:17.546246 Lima: No
+ChatterBot Mike reevaluating
+2024-10-15 01:53:17.588848 India: We should add Yankee
+2024-10-15 01:53:17.606578 Charlie: No
+2024-10-15 01:53:17.606767 Papa: No
+2024-10-15 01:53:17.606946 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:17.649353 India: We should add Mike
+2024-10-15 01:53:17.660357 Charlie: No
+2024-10-15 01:53:17.660549 Papa: No
+2024-10-15 01:53:17.660731 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:17.700643 Papa: Charlie, sending you 3
+2024-10-15 01:53:17.701257 Romeo: Charlie, sending you 2
+2024-10-15 01:53:17.701928 Lima: Same as last round
+2024-10-15 01:53:17.702735 Charlie: Sending you each 1
+2024-10-15 01:53:17.703257 Whiskey: Same as last round
+2024-10-15 01:53:17.703518 Yankee: Sending you each 1
+2024-10-15 01:53:17.703870 Foxtrot: Same as last round
+2024-10-15 01:53:17.704686 Papa: Romeo, sending you 6
+2024-10-15 01:53:17.705633 Romeo: Papa and India, sending you 3
+2024-10-15 01:53:17.709686 Papa: India, sending you 5
+2024-10-15 01:53:17.711671 Quebec: Same as last round
+2024-10-15 01:53:17.721219 Mike: Yankee, Lima and Foxtrot, sending you 3
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Charlie round 15
+ChatterBot Yankee round 15
+ChatterBot Lima round 15
+ChatterBot Romeo round 15
+ChatterBot Whiskey round 15
+ChatterBot Papa round 15
+ChatterBot Foxtrot round 15
+ChatterBot Mike round 15
+ChatterBot India round 15
+ChatterBot Quebec round 15
+2024-10-15 01:53:18.730823 India: We should add Yankee
+2024-10-15 01:53:18.744459 Charlie: No
+2024-10-15 01:53:18.744710 Papa: No
+2024-10-15 01:53:18.744902 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:18.808162 Foxtrot: We should drop Lima
+2024-10-15 01:53:18.813431 Mike: No
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:18.820399 India: We should add Mike
+2024-10-15 01:53:18.837316 Charlie: No
+2024-10-15 01:53:18.837585 Papa: No
+2024-10-15 01:53:18.837805 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:18.877307 Whiskey: Same as last round
+2024-10-15 01:53:18.879676 Papa: Charlie, sending you 3
+2024-10-15 01:53:18.880954 Lima: Same as last round
+2024-10-15 01:53:18.881452 Charlie: Same as last round
+2024-10-15 01:53:18.882173 Yankee: Same as last round
+2024-10-15 01:53:18.882610 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:18.883696 Papa: Romeo, sending you 6
+2024-10-15 01:53:18.886700 Mike: Yankee, Lima and Foxtrot, sending you 3
+2024-10-15 01:53:18.887329 Quebec: Sending you 1
+2024-10-15 01:53:18.888472 Romeo: India, sending you 3
+2024-10-15 01:53:18.889365 Foxtrot: Same as last round
+2024-10-15 01:53:18.889822 Papa: India, sending you 5
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Charlie round 16
+ChatterBot Yankee round 16
+ChatterBot Lima round 16
+ChatterBot Romeo round 16
+ChatterBot Whiskey round 16
+ChatterBot Papa round 16
+ChatterBot Foxtrot round 16
+ChatterBot Mike round 16
+ChatterBot India round 16
+2024-10-15 01:53:20.042808 Whiskey: We should group up
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:20.068159 Quebec: No
+2024-10-15 01:53:20.068335 Charlie: No
+2024-10-15 01:53:20.068483 Romeo: No
+2024-10-15 01:53:20.068653 Papa: No
+2024-10-15 01:53:20.068827 India: No
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:20.194106 India: We should add Whiskey
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:20.214202 Charlie: Yes
+2024-10-15 01:53:20.214419 Papa: Yes
+2024-10-15 01:53:20.214593 Romeo: Yes
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec round 16
+2024-10-15 01:53:20.299260 India: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:20.306395 Whiskey: No
+2024-10-15 01:53:20.330922 Papa: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:20.337579 Whiskey: No
+2024-10-15 01:53:20.353203 Romeo: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:20.357604 Whiskey: No
+2024-10-15 01:53:20.371848 Charlie: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 01:53:20.375555 Whiskey: No
+2024-10-15 01:53:20.389707 Lima: Same as last round
+2024-10-15 01:53:20.394676 Yankee: Same as last round
+2024-10-15 01:53:20.395156 Foxtrot: Same as last round
+2024-10-15 01:53:20.395512 Mike: Yankee, Lima and Foxtrot, sending you 3
+2024-10-15 01:53:20.400714 Quebec: Same as last round
+2024-10-15 01:53:20.404921 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:20.405707 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:20.408676 Whiskey: Sending you 13
+2024-10-15 01:53:20.409059 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:20.409964 Romeo: India, sending you 3
+2024-10-15 01:53:20.410686 Papa: Charlie, sending you 3
+2024-10-15 01:53:20.411111 India: Papa, sending you 2
+2024-10-15 01:53:20.414658 Papa: Romeo, sending you 6
+2024-10-15 01:53:20.418657 Papa: India, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Charlie round 17
+ChatterBot Yankee round 17
+ChatterBot Lima round 17
+ChatterBot Romeo round 17
+ChatterBot Whiskey round 17
+ChatterBot Papa round 17
+ChatterBot Foxtrot round 17
+ChatterBot Mike round 17
+ChatterBot India round 17
+ChatterBot Quebec round 17
+2024-10-15 01:53:21.708880 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:21.725936 Lima: Same as last round
+2024-10-15 01:53:21.726714 Yankee: Same as last round
+2024-10-15 01:53:21.727965 Whiskey: Same as last round
+2024-10-15 01:53:21.728484 Mike: Yankee, sending you 3
+2024-10-15 01:53:21.729640 Foxtrot: Same as last round
+2024-10-15 01:53:21.730303 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:21.731427 Papa: Charlie, sending you 3
+2024-10-15 01:53:21.732917 India: Charlie and Papa, sending you 2
+2024-10-15 01:53:21.733709 Mike: Lima, sending you 2
+2024-10-15 01:53:21.734870 Quebec: Same as last round
+2024-10-15 01:53:21.735699 Romeo: India, sending you 3
+2024-10-15 01:53:21.736950 Papa: Romeo, sending you 6
+2024-10-15 01:53:21.737675 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:21.738834 India: Romeo, sending you 3
+2024-10-15 01:53:21.743593 Papa: India, sending you 5
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Charlie round 18
+ChatterBot Yankee round 18
+ChatterBot Lima round 18
+ChatterBot Romeo round 18
+ChatterBot Whiskey round 18
+ChatterBot Papa round 18
+ChatterBot Foxtrot round 18
+ChatterBot Mike round 18
+ChatterBot India round 18
+ChatterBot Quebec round 18
+2024-10-15 01:53:22.785669 Foxtrot: Same as last round
+2024-10-15 01:53:22.786688 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:22.787733 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:22.789065 Lima: Same as last round
+2024-10-15 01:53:22.789484 Mike: Yankee, sending you 2
+2024-10-15 01:53:22.789963 Papa: Charlie, sending you 3
+2024-10-15 01:53:22.790685 Romeo: India, sending you 3
+2024-10-15 01:53:22.791704 Yankee: Same as last round
+2024-10-15 01:53:22.792078 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:22.793809 Papa: Romeo, sending you 6
+2024-10-15 01:53:22.794663 Mike: Lima, sending you 3
+2024-10-15 01:53:22.795145 Quebec: Same as last round
+2024-10-15 01:53:22.796368 India: Papa, sending you 2
+2024-10-15 01:53:22.797002 Whiskey: Same as last round
+2024-10-15 01:53:22.797392 Papa: India, sending you 5
+2024-10-15 01:53:22.798814 Mike: Foxtrot, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Charlie round 19
+ChatterBot Yankee round 19
+ChatterBot Lima round 19
+ChatterBot Romeo round 19
+ChatterBot Whiskey round 19
+ChatterBot Papa round 19
+ChatterBot Foxtrot round 19
+ChatterBot Mike round 19
+ChatterBot India round 19
+ChatterBot Quebec round 19
+2024-10-15 01:53:23.926333 Lima: We should add Yankee
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:23.939581 Mike: Yes
+2024-10-15 01:53:23.939766 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:24.016849 Lima: Yankee we want you to join our group
+2024-10-15 01:53:24.024083 Yankee: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:24.046675 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:24.048777 Foxtrot: Yankee we want you to join our group
+2024-10-15 01:53:24.056237 Yankee: Yes
+2024-10-15 01:53:24.076934 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:24.077610 Mike: Yankee, sending you 2
+2024-10-15 01:53:24.078201 Whiskey: Same as last round
+2024-10-15 01:53:24.078991 Quebec: Same as last round
+2024-10-15 01:53:24.079315 Yankee: Same as last round
+2024-10-15 01:53:24.079807 Papa: Charlie, sending you 3
+2024-10-15 01:53:24.081190 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:24.081728 Lima: Sending you each 1
+2024-10-15 01:53:24.082348 India: Papa, sending you 2
+2024-10-15 01:53:24.083675 Mike: Lima, sending you 3
+2024-10-15 01:53:24.085701 Papa: Romeo, sending you 6
+2024-10-15 01:53:24.086668 Romeo: India, sending you 3
+2024-10-15 01:53:24.088122 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:24.088704 Papa: India, sending you 5
+2024-10-15 01:53:24.093657 Foxtrot: Sending you each 2
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Charlie round 20
+ChatterBot Yankee round 20
+ChatterBot Lima round 20
+ChatterBot Romeo round 20
+ChatterBot Whiskey round 20
+ChatterBot Papa round 20
+ChatterBot Foxtrot round 20
+ChatterBot Mike round 20
+ChatterBot India round 20
+ChatterBot Quebec round 20
+2024-10-15 01:53:25.411650 India: We should replace Whiskey with Yankee
+2024-10-15 01:53:25.432327 Charlie: No
+2024-10-15 01:53:25.432683 Papa: No
+2024-10-15 01:53:25.432955 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:25.545657 India: Yankee we want you to join our group
+2024-10-15 01:53:25.552019 Yankee: No
+ChatterBot India reevaluating
+2024-10-15 01:53:25.626339 Lima: Same as last round
+2024-10-15 01:53:25.628047 Yankee: Lima and Foxtrot, sending you 2
+2024-10-15 01:53:25.628751 Quebec: Same as last round
+2024-10-15 01:53:25.629756 Whiskey: Same as last round
+2024-10-15 01:53:25.630318 Mike: Yankee, sending you 2
+2024-10-15 01:53:25.630991 Foxtrot: Same as last round
+2024-10-15 01:53:25.632447 Papa: Charlie, sending you 3
+2024-10-15 01:53:25.634245 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:25.635668 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:25.637898 Yankee: Mike, sending you 1
+2024-10-15 01:53:25.638739 Mike: Lima, sending you 3
+2024-10-15 01:53:25.640166 Papa: Romeo, sending you 6
+2024-10-15 01:53:25.641032 Romeo: India, sending you 3
+2024-10-15 01:53:25.713822 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:25.715671 Papa: India, sending you 5
+2024-10-15 01:53:25.784391 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:25.792776 India: Papa, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Charlie round 21
+ChatterBot Yankee round 21
+ChatterBot Lima round 21
+ChatterBot Romeo round 21
+ChatterBot Whiskey round 21
+ChatterBot Papa round 21
+ChatterBot Foxtrot round 21
+ChatterBot Mike round 21
+ChatterBot India round 21
+ChatterBot Quebec round 21
+2024-10-15 01:53:26.795629 India: We should replace Yankee with Lima
+2024-10-15 01:53:26.810707 Charlie: No
+2024-10-15 01:53:26.810897 Papa: No
+2024-10-15 01:53:26.811032 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:26.847671 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:26.848555 Yankee: Lima, sending you 3
+2024-10-15 01:53:26.849841 India: Lima we want you to join our group
+2024-10-15 01:53:26.854425 Lima: No
+ChatterBot India reevaluating
+2024-10-15 01:53:26.871787 Romeo: India, sending you 3
+2024-10-15 01:53:26.873051 Mike: Yankee, sending you 2
+2024-10-15 01:53:26.874728 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:26.875684 Whiskey: Same as last round
+2024-10-15 01:53:26.876774 Lima: Same as last round
+2024-10-15 01:53:26.877670 Quebec: Same as last round
+2024-10-15 01:53:26.877996 Mike: Lima, sending you 3
+2024-10-15 01:53:26.879455 Yankee: Mike, sending you 1
+2024-10-15 01:53:26.880036 Foxtrot: Same as last round
+2024-10-15 01:53:26.880711 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:26.882125 Papa: Charlie, sending you 3
+2024-10-15 01:53:26.882818 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:26.887667 Papa: Romeo, sending you 6
+2024-10-15 01:53:26.892667 Papa: India, sending you 5
+2024-10-15 01:53:26.911431 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:26.915669 India: Papa, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Charlie round 22
+ChatterBot Yankee round 22
+ChatterBot Lima round 22
+ChatterBot Romeo round 22
+ChatterBot Whiskey round 22
+ChatterBot Papa round 22
+ChatterBot Foxtrot round 22
+ChatterBot Mike round 22
+ChatterBot India round 22
+ChatterBot Quebec round 22
+2024-10-15 01:53:28.078034 India: We should replace Lima with Foxtrot
+2024-10-15 01:53:28.087486 Charlie: No
+2024-10-15 01:53:28.087698 Papa: No
+2024-10-15 01:53:28.087877 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:28.129669 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:28.138678 Yankee: Lima, sending you 3
+2024-10-15 01:53:28.139685 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:28.140655 Whiskey: Sending you 12
+2024-10-15 01:53:28.141952 Lima: Same as last round
+2024-10-15 01:53:28.142639 Quebec: Same as last round
+2024-10-15 01:53:28.143663 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:28.144093 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:28.144630 Romeo: India, sending you 3
+2024-10-15 01:53:28.145471 Mike: Yankee, sending you 2
+2024-10-15 01:53:28.146678 India: Papa, sending you 2
+2024-10-15 01:53:28.147670 Yankee: Mike, sending you 1
+2024-10-15 01:53:28.148654 Foxtrot: Same as last round
+2024-10-15 01:53:28.149672 Mike: Lima, sending you 3
+2024-10-15 01:53:28.153679 Papa: Charlie, sending you 3
+2024-10-15 01:53:28.154882 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:28.158666 Papa: Romeo, sending you 6
+2024-10-15 01:53:28.163680 Papa: India, sending you 5
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Charlie round 23
+ChatterBot Yankee round 23
+ChatterBot Lima round 23
+ChatterBot Romeo round 23
+ChatterBot Whiskey round 23
+ChatterBot Papa round 23
+ChatterBot Foxtrot round 23
+ChatterBot Mike round 23
+ChatterBot India round 23
+ChatterBot Quebec round 23
+2024-10-15 01:53:29.296040 Papa: We should add Quebec
+ChatterBot India reevaluating
+2024-10-15 01:53:29.311336 India: No
+2024-10-15 01:53:29.311498 Charlie: No
+2024-10-15 01:53:29.311632 Romeo: No
+2024-10-15 01:53:29.311780 Whiskey: No
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:29.405921 Quebec: Same as last round
+2024-10-15 01:53:29.408168 Mike: Yankee, sending you 2
+2024-10-15 01:53:29.410715 Yankee: Lima, sending you 3
+2024-10-15 01:53:29.412407 Whiskey: Sending you 13
+2024-10-15 01:53:29.412935 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:29.415233 Mike: Lima, sending you 3
+2024-10-15 01:53:29.417409 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:29.421150 Lima: Same as last round
+2024-10-15 01:53:29.423207 Papa: Charlie, sending you 3
+2024-10-15 01:53:29.425666 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:29.427609 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:29.429260 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:29.431267 Foxtrot: Same as last round
+2024-10-15 01:53:29.432412 India: Papa, sending you 2
+2024-10-15 01:53:29.434483 Papa: Romeo, sending you 6
+2024-10-15 01:53:29.436570 Yankee: Mike, sending you 1
+2024-10-15 01:53:29.438390 Romeo: India, sending you 3
+2024-10-15 01:53:29.440780 Papa: India, sending you 5
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Charlie round 24
+ChatterBot Yankee round 24
+ChatterBot Lima round 24
+ChatterBot Romeo round 24
+ChatterBot Whiskey round 24
+ChatterBot Papa round 24
+ChatterBot Foxtrot round 24
+ChatterBot Mike round 24
+ChatterBot India round 24
+ChatterBot Quebec round 24
+2024-10-15 01:53:30.670940 Quebec: Same as last round
+2024-10-15 01:53:30.672172 Whiskey: Same as last round
+2024-10-15 01:53:30.672806 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:30.675511 Yankee: Lima, sending you 4
+2024-10-15 01:53:30.677182 Mike: Yankee, sending you 2
+2024-10-15 01:53:30.678322 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:30.681160 Foxtrot: Same as last round
+2024-10-15 01:53:30.683069 Lima: Same as last round
+2024-10-15 01:53:30.684776 Romeo: India, sending you 3
+2024-10-15 01:53:30.687052 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:30.688670 Mike: Lima, sending you 3
+2024-10-15 01:53:30.690711 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:30.692171 Papa: Charlie, sending you 3
+2024-10-15 01:53:30.696035 Yankee: Mike, sending you 1
+2024-10-15 01:53:30.697863 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:30.699146 India: Papa, sending you 2
+2024-10-15 01:53:30.701277 Papa: Romeo, sending you 6
+2024-10-15 01:53:30.724121 Papa: India, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Charlie round 25
+ChatterBot Yankee round 25
+ChatterBot Lima round 25
+ChatterBot Romeo round 25
+ChatterBot Whiskey round 25
+ChatterBot Papa round 25
+ChatterBot Foxtrot round 25
+ChatterBot Mike round 25
+ChatterBot India round 25
+ChatterBot Quebec round 25
+2024-10-15 01:53:31.860770 Papa: Charlie, sending you 4
+2024-10-15 01:53:31.867427 Foxtrot: Same as last round
+2024-10-15 01:53:31.869769 Papa: Romeo and India, sending you 5
+2024-10-15 01:53:31.871772 Charlie: Romeo, Papa and India, sending you 1
+2024-10-15 01:53:31.873125 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:31.874257 Whiskey: Same as last round
+2024-10-15 01:53:31.881559 Mike: Yankee, sending you 2
+2024-10-15 01:53:31.882628 Yankee: Lima, sending you 4
+2024-10-15 01:53:31.884786 Lima: Same as last round
+2024-10-15 01:53:31.885741 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:31.886643 Romeo: India, sending you 3
+2024-10-15 01:53:31.893065 Mike: Lima, sending you 3
+2024-10-15 01:53:31.894047 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:31.896435 Quebec: Same as last round
+2024-10-15 01:53:31.896955 India: Papa, sending you 2
+2024-10-15 01:53:31.897842 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:31.908619 Yankee: Mike, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Charlie round 26
+ChatterBot Yankee round 26
+ChatterBot Lima round 26
+ChatterBot Romeo round 26
+ChatterBot Whiskey round 26
+ChatterBot Papa round 26
+ChatterBot Foxtrot round 26
+ChatterBot Mike round 26
+ChatterBot India round 26
+ChatterBot Quebec round 26
+2024-10-15 01:53:33.068353 India: We should replace Foxtrot with Yankee
+2024-10-15 01:53:33.081865 Charlie: No
+2024-10-15 01:53:33.082204 Papa: No
+2024-10-15 01:53:33.082406 Romeo: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:33.138306 Charlie: We should drop Whiskey
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:33.154078 India: Yes
+2024-10-15 01:53:33.154303 Papa: No
+2024-10-15 01:53:33.154495 Romeo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:33.209687 Quebec: Same as last round
+2024-10-15 01:53:33.210751 Foxtrot: Same as last round
+2024-10-15 01:53:33.213674 Yankee: Lima, sending you 4
+2024-10-15 01:53:33.215684 Charlie: Same as last round
+2024-10-15 01:53:33.218016 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:33.218778 Whiskey: Same as last round
+2024-10-15 01:53:33.219242 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:33.221332 Lima: Same as last round
+2024-10-15 01:53:33.222234 India: Papa, sending you 2
+2024-10-15 01:53:33.222923 Mike: Yankee, sending you 2
+2024-10-15 01:53:33.224197 Yankee: Mike, sending you 1
+2024-10-15 01:53:33.227676 Mike: Lima, sending you 3
+2024-10-15 01:53:33.232669 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:33.233421 Papa: Charlie, sending you 4
+2024-10-15 01:53:33.238665 Papa: Romeo and India, sending you 5
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Charlie round 27
+ChatterBot Yankee round 27
+ChatterBot Lima round 27
+ChatterBot Romeo round 27
+ChatterBot Whiskey round 27
+ChatterBot Papa round 27
+ChatterBot Foxtrot round 27
+ChatterBot Mike round 27
+ChatterBot India round 27
+ChatterBot Quebec round 27
+2024-10-15 01:53:34.405523 Romeo: We should drop Whiskey
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:34.426392 Charlie: Yes
+2024-10-15 01:53:34.426679 India: Yes
+2024-10-15 01:53:34.427593 Papa: Yes
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:34.508786 Charlie: Same as last round
+2024-10-15 01:53:34.512522 Foxtrot: Same as last round
+2024-10-15 01:53:34.514673 India: Mike we want you to join our group
+2024-10-15 01:53:34.524866 Mike: No
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:34.550491 Quebec: Same as last round
+2024-10-15 01:53:34.552233 Yankee: Lima, sending you 4
+2024-10-15 01:53:34.555351 Lima: Same as last round
+2024-10-15 01:53:34.557483 Mike: Yankee, sending you 2
+2024-10-15 01:53:34.560091 India: We should drop Foxtrot
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:34.580148 Charlie: Yes
+2024-10-15 01:53:34.580435 Papa: Yes
+2024-10-15 01:53:34.580646 Romeo: Yes
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:34.635251 Romeo: We should replace Whiskey with Yankee
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:34.646886 Charlie: Yes
+2024-10-15 01:53:34.647036 India: No
+2024-10-15 01:53:34.647201 Papa: Yes
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:34.680942 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:34.682244 Mike: Lima, sending you 3
+2024-10-15 01:53:34.686702 Yankee: Mike, sending you 1
+2024-10-15 01:53:34.688735 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:34.723659 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:34.726672 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:34.728683 Romeo: India, sending you 3
+2024-10-15 01:53:34.730672 India: Papa, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Charlie round 28
+ChatterBot Yankee round 28
+ChatterBot Lima round 28
+ChatterBot Romeo round 28
+ChatterBot Whiskey round 28
+ChatterBot Papa round 28
+ChatterBot Foxtrot round 28
+ChatterBot Mike round 28
+ChatterBot India round 28
+ChatterBot Quebec round 28
+2024-10-15 01:53:35.749701 Charlie: We should add Yankee
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:35.763748 India: Yes
+2024-10-15 01:53:35.764806 Papa: Yes
+2024-10-15 01:53:35.765067 Romeo: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:35.836167 India: We should replace Mike with Yankee
+ChatterBot Charlie reevaluating
+2024-10-15 01:53:35.852951 Charlie: Yes
+2024-10-15 01:53:35.853212 Papa: Yes
+2024-10-15 01:53:35.853401 Romeo: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:35.912407 Romeo: Yankee we want you to join our group
+2024-10-15 01:53:35.919991 Yankee: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:53:35.948683 Mike: Yankee, sending you 2
+2024-10-15 01:53:35.950673 Lima: Same as last round
+2024-10-15 01:53:35.952324 India: Yankee we want you to join our group
+2024-10-15 01:53:35.958318 Yankee: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:53:35.979133 Yankee: Lima, sending you 4
+2024-10-15 01:53:35.980872 Mike: Lima, sending you 3
+2024-10-15 01:53:35.984987 Charlie: Yankee we want you to join our group
+2024-10-15 01:53:35.991231 Yankee: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:53:36.016303 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:36.018655 Quebec: Same as last round
+2024-10-15 01:53:36.019852 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:36.022048 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:36.023824 Foxtrot: Same as last round
+2024-10-15 01:53:36.025291 Yankee: Mike, sending you 1
+2024-10-15 01:53:36.028722 Romeo: India, sending you 3
+2024-10-15 01:53:36.047039 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:36.051670 India: Papa, sending you 2
+2024-10-15 01:53:36.054686 Charlie: Yankee, Romeo and India, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Charlie round 29
+ChatterBot Yankee round 29
+ChatterBot Lima round 29
+ChatterBot Romeo round 29
+ChatterBot Whiskey round 29
+ChatterBot Papa round 29
+ChatterBot Foxtrot round 29
+ChatterBot Mike round 29
+ChatterBot India round 29
+ChatterBot Quebec round 29
+2024-10-15 01:53:36.964873 Foxtrot: We should drop Lima
+ChatterBot Yankee reevaluating
+2024-10-15 01:53:36.979134 Yankee: No
+2024-10-15 01:53:36.980238 Mike: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:53:37.003672 Quebec: Same as last round
+2024-10-15 01:53:37.005417 Charlie: Yankee, Romeo and India, sending you 1
+2024-10-15 01:53:37.008149 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:37.010713 Lima: Same as last round
+2024-10-15 01:53:37.014229 Mike: Yankee, sending you 2
+2024-10-15 01:53:37.016460 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:37.019282 Romeo: India, sending you 3
+2024-10-15 01:53:37.025700 Mike: Lima, sending you 3
+2024-10-15 01:53:37.029968 India: Papa, sending you 2
+2024-10-15 01:53:37.033713 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:37.039588 Yankee: Lima, sending you 4
+2024-10-15 01:53:37.041544 Foxtrot: Same as last round
+2024-10-15 01:53:37.047105 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:37.053658 Yankee: Mike, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Charlie round 30
+ChatterBot Yankee round 30
+ChatterBot Lima round 30
+ChatterBot Romeo round 30
+ChatterBot Whiskey round 30
+ChatterBot Papa round 30
+ChatterBot Foxtrot round 30
+ChatterBot Mike round 30
+ChatterBot India round 30
+ChatterBot Quebec round 30
+2024-10-15 01:53:38.545793 India: We should replace Yankee with Mike
+ChatterBot Papa reevaluating
+2024-10-15 01:53:38.563589 Charlie: No
+2024-10-15 01:53:38.564270 Papa: Yes
+2024-10-15 01:53:38.566106 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:38.647743 Yankee: Lima, sending you 4
+2024-10-15 01:53:38.652185 Charlie: We should drop Yankee
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:38.670755 India: No
+2024-10-15 01:53:38.670993 Papa: Yes
+2024-10-15 01:53:38.671788 Romeo: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:38.717902 Whiskey: Sending you 13
+2024-10-15 01:53:38.718622 Yankee: Foxtrot, sending you 2
+2024-10-15 01:53:38.723160 Mike: Yankee, sending you 2
+2024-10-15 01:53:38.725690 Quebec: Same as last round
+2024-10-15 01:53:38.726401 Lima: Same as last round
+2024-10-15 01:53:38.728912 Foxtrot: Same as last round
+2024-10-15 01:53:38.732252 Yankee: Mike, sending you 1
+2024-10-15 01:53:38.734731 Papa: Mike we want you to join our group
+2024-10-15 01:53:38.742999 Mike: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:38.768922 Mike: Lima, sending you 3
+2024-10-15 01:53:38.773208 Charlie: Mike we want you to join our group
+2024-10-15 01:53:38.778487 Mike: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:38.796423 Mike: Foxtrot, sending you 4
+2024-10-15 01:53:38.810191 Romeo: Mike we want you to join our group
+2024-10-15 01:53:38.817027 Mike: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:38.838929 India: We should replace Yankee with Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:53:38.851465 Charlie: No
+2024-10-15 01:53:38.851701 Papa: No
+2024-10-15 01:53:38.851993 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:38.900639 Romeo: Quebec we want you to join our group
+2024-10-15 01:53:38.907707 Quebec: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:38.935981 Charlie: Quebec we want you to join our group
+2024-10-15 01:53:38.942060 Quebec: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+2024-10-15 01:53:38.971392 India: Mike we want you to join our group
+2024-10-15 01:53:38.976582 Mike: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 01:53:39.003864 Romeo: Charlie and Papa, sending you 2
+2024-10-15 01:53:39.010703 Romeo: India, sending you 3
+2024-10-15 01:53:39.020664 India: Charlie and Romeo, sending you 3
+2024-10-15 01:53:39.027270 India: Papa, sending you 1
+2024-10-15 01:53:39.029731 Charlie: Romeo and India, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions

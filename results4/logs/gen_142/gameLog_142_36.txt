@@ -1,0 +1,1537 @@
+ChatterBot Uniform round 1
+ChatterBot Hotel round 1
+ChatterBot Foxtrot round 1
+ChatterBot Romeo round 1
+ChatterBot Echo round 1
+ChatterBot Bravo round 1
+ChatterBot Victor round 1
+ChatterBot Golf round 1
+ChatterBot Whiskey round 1
+ChatterBot Delta round 1
+randomSelections Uniform: {Uniform, Romeo, Golf, Hotel, Whiskey, Bravo} 
+2024-10-15 01:23:09.398321 Uniform: Friends?
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:23:09.418262 Romeo: Yes
+2024-10-15 01:23:09.418477 Golf: Yes
+2024-10-15 01:23:09.418674 Hotel: Yes
+2024-10-15 01:23:09.419747 Whiskey: Yes
+2024-10-15 01:23:09.419915 Bravo: Yes
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Foxtrot: {Foxtrot, Uniform, Golf, Bravo, Romeo, Delta, Hotel} 
+2024-10-15 01:23:09.619478 Foxtrot: Friends?
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:23:09.635405 Uniform: No
+2024-10-15 01:23:09.635679 Golf: No
+2024-10-15 01:23:09.636014 Bravo: No
+2024-10-15 01:23:09.636461 Romeo: No
+2024-10-15 01:23:09.637491 Delta: Yes
+2024-10-15 01:23:09.637672 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+randomSelections Echo: {Echo, Golf, Delta, Uniform} 
+2024-10-15 01:23:09.701739 Echo: Group up?
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:09.705719 Golf: No
+2024-10-15 01:23:09.706619 Delta: No
+2024-10-15 01:23:09.706830 Uniform: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+randomSelections Victor: {Victor, Delta, Foxtrot, Bravo, Echo, Uniform, Golf} 
+2024-10-15 01:23:09.724938 Victor: We should group up
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:23:09.734050 Delta: No
+2024-10-15 01:23:09.734346 Foxtrot: No
+2024-10-15 01:23:09.734662 Bravo: No
+2024-10-15 01:23:09.734922 Echo: No
+2024-10-15 01:23:09.735773 Uniform: No
+2024-10-15 01:23:09.736002 Golf: No
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Uniform submitting transactions
+2024-10-15 01:23:09.795028 Victor: Bravo and Golf, sending you 2
+2024-10-15 01:23:09.796045 Foxtrot: Uniform, Bravo and Delta, sending you 1
+2024-10-15 01:23:09.797528 Romeo: Uniform and Golf, sending you 1
+2024-10-15 01:23:09.798693 Victor: Delta, sending you 3
+2024-10-15 01:23:09.800010 Foxtrot: Hotel and Romeo, sending you 3
+2024-10-15 01:23:09.802034 Echo: Uniform, sending you 1
+2024-10-15 01:23:09.803417 Romeo: Hotel, sending you 2
+2024-10-15 01:23:09.804712 Whiskey: Uniform and Bravo, sending you 3
+2024-10-15 01:23:09.805312 Delta: Hotel and Foxtrot, sending you 1
+2024-10-15 01:23:09.806137 Uniform: Hotel, Romeo, Bravo and Whiskey, sending you 2
+2024-10-15 01:23:09.807503 Hotel: Uniform, sending you 4
+2024-10-15 01:23:09.808263 Foxtrot: Golf, sending you 2
+2024-10-15 01:23:09.809910 Echo: Golf and Delta, sending you 2
+2024-10-15 01:23:09.810489 Bravo: Hotel and Romeo, sending you 3
+2024-10-15 01:23:09.811150 Whiskey: Hotel and Romeo, sending you 1
+2024-10-15 01:23:09.812685 Romeo: Bravo, sending you 3
+2024-10-15 01:23:09.813777 Delta: Bravo and Golf, sending you 3
+2024-10-15 01:23:09.815416 Uniform: Golf, sending you 1
+2024-10-15 01:23:09.816089 Hotel: Bravo, sending you 2
+2024-10-15 01:23:09.817665 Whiskey: Golf, sending you 2
+2024-10-15 01:23:09.818260 Golf: Uniform, sending you 1
+2024-10-15 01:23:09.819681 Hotel: Golf, sending you 1
+2024-10-15 01:23:09.821964 Golf: Hotel, Romeo and Whiskey, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Uniform round 2
+ChatterBot Hotel round 2
+ChatterBot Foxtrot round 2
+ChatterBot Romeo round 2
+ChatterBot Echo round 2
+ChatterBot Bravo round 2
+ChatterBot Victor round 2
+ChatterBot Golf round 2
+ChatterBot Whiskey round 2
+ChatterBot Delta round 2
+2024-10-15 01:23:12.322384 Foxtrot: Friends?
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:12.343455 Delta: Yes
+2024-10-15 01:23:12.343736 Victor: No
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:12.386169 Victor: We would work well together
+ChatterBot Delta reevaluating
+2024-10-15 01:23:12.407102 Foxtrot: Yes
+2024-10-15 01:23:12.407272 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:12.476227 Echo: We would work well together
+ChatterBot Victor reevaluating
+2024-10-15 01:23:12.486654 Victor: No
+2024-10-15 01:23:12.655895 Golf: Can we be friends?
+ChatterBot Delta reevaluating
+2024-10-15 01:23:12.684097 Foxtrot: No
+2024-10-15 01:23:12.684630 Delta: No
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:23:12.762729 Hotel: We should drop Romeo and Bravo
+ChatterBot Golf reevaluating
+2024-10-15 01:23:12.799279 Uniform: No
+2024-10-15 01:23:12.799752 Golf: Yes
+2024-10-15 01:23:12.800092 Whiskey: No
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Golf reevaluating
+chatterbot Bravo submitting transactions
+2024-10-15 01:23:12.966518 Delta: Sending you each 2
+2024-10-15 01:23:12.967553 Echo: Sending you 2
+2024-10-15 01:23:13.048636 Bravo: Uniform, Hotel, Romeo and Whiskey, sending you 2
+2024-10-15 01:23:13.049739 Victor: Sending you each 3
+2024-10-15 01:23:13.050056 Hotel: Uniform and Golf, sending you 3
+2024-10-15 01:23:13.050328 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:13.051206 Foxtrot: Victor, sending you 5
+2024-10-15 01:23:13.056883 Hotel: Whiskey, sending you 1
+2024-10-15 01:23:13.057601 Foxtrot: Delta, sending you 6
+2024-10-15 01:23:13.057825 Uniform: Sending you each 3
+2024-10-15 01:23:13.058076 Romeo: Bravo, sending you 3
+2024-10-15 01:23:13.058920 Golf: Uniform and Hotel, sending you 2
+2024-10-15 01:23:13.059253 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:13.123886 Golf: Whiskey, sending you 3
+2024-10-15 01:23:13.124349 Whiskey: Hotel and Golf, sending you 3
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Uniform round 3
+ChatterBot Hotel round 3
+ChatterBot Foxtrot round 3
+ChatterBot Romeo round 3
+ChatterBot Echo round 3
+ChatterBot Bravo round 3
+ChatterBot Victor round 3
+ChatterBot Golf round 3
+ChatterBot Whiskey round 3
+ChatterBot Delta round 3
+2024-10-15 01:23:14.210031 Uniform: We should add Romeo and Bravo
+ChatterBot Whiskey reevaluating
+2024-10-15 01:23:14.222678 Hotel: No
+2024-10-15 01:23:14.222846 Golf: No
+2024-10-15 01:23:14.223389 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:23:14.291948 Echo: We should add Foxtrot and Delta
+ChatterBot Victor reevaluating
+2024-10-15 01:23:14.299209 Victor: Yes
+2024-10-15 01:23:14.305666 Victor: We should add Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:14.319370 Foxtrot: No
+2024-10-15 01:23:14.319571 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:14.393451 Uniform: Romeo and Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 01:23:14.406761 Romeo: Yes
+2024-10-15 01:23:14.407632 Bravo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:23:14.457807 Bravo: We should group up
+2024-10-15 01:23:14.461959 Romeo: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 01:23:14.466410 Echo: Foxtrot and Delta we want you to join our group
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:14.474340 Foxtrot: Yes
+2024-10-15 01:23:14.474505 Delta: Yes
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:14.501683 Delta: Echo we want you to join our group
+2024-10-15 01:23:14.507427 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:14.525586 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:14.526142 Hotel: Uniform, sending you 3
+2024-10-15 01:23:14.526532 Whiskey: Romeo and Bravo we want you to join our group
+2024-10-15 01:23:14.538235 Romeo: Yes
+2024-10-15 01:23:14.538362 Bravo: No
+2024-10-15 01:23:14.572420 Foxtrot: Echo we want you to join our group
+2024-10-15 01:23:14.576591 Echo: Yes
+2024-10-15 01:23:14.592773 Hotel: Golf and Whiskey, sending you 2
+2024-10-15 01:23:14.593174 Echo: Foxtrot and Victor, sending you 2
+2024-10-15 01:23:14.593465 Romeo: Bravo, sending you 3
+2024-10-15 01:23:14.593918 Uniform: Hotel, Bravo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:14.594346 Victor: Echo we want you to join our group
+2024-10-15 01:23:14.599961 Echo: Yes
+chatterbot Uniform submitting transactions
+2024-10-15 01:23:14.616191 Bravo: Sending you 3
+2024-10-15 01:23:14.616475 Golf: Uniform and Hotel, sending you 2
+2024-10-15 01:23:14.617346 Echo: Delta, sending you 3
+2024-10-15 01:23:14.617691 Uniform: Romeo, sending you 1
+2024-10-15 01:23:14.619677 Golf: Whiskey, sending you 3
+2024-10-15 01:23:14.621083 Delta: Foxtrot and Victor, sending you 2
+2024-10-15 01:23:14.625696 Delta: Echo, sending you 1
+2024-10-15 01:23:14.627724 Whiskey: Uniform, Hotel, Romeo, Bravo and Golf, sending you 2
+2024-10-15 01:23:14.629668 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:14.632699 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:14.635683 Victor: Foxtrot, Echo and Delta, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Uniform round 4
+ChatterBot Hotel round 4
+ChatterBot Foxtrot round 4
+ChatterBot Romeo round 4
+ChatterBot Echo round 4
+ChatterBot Bravo round 4
+ChatterBot Victor round 4
+ChatterBot Golf round 4
+ChatterBot Whiskey round 4
+ChatterBot Delta round 4
+2024-10-15 01:23:15.648724 Hotel: Uniform, sending you 3
+2024-10-15 01:23:15.651696 Hotel: Golf and Whiskey, sending you 2
+2024-10-15 01:23:15.653100 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:15.654742 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:15.656667 Bravo: Same as last round
+2024-10-15 01:23:15.656959 Whiskey: Uniform, Hotel, Romeo, Bravo and Golf, sending you 2
+2024-10-15 01:23:15.658222 Romeo: Bravo, sending you 3
+2024-10-15 01:23:15.658835 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:15.659937 Uniform: Hotel, Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:15.660576 Victor: Same as last round
+2024-10-15 01:23:15.661717 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:15.665106 Uniform: Bravo, sending you 1
+2024-10-15 01:23:15.665635 Echo: Foxtrot and Victor, sending you 2
+2024-10-15 01:23:15.665931 Golf: Hotel, sending you 3
+2024-10-15 01:23:15.670662 Echo: Delta, sending you 3
+2024-10-15 01:23:15.673911 Delta: Foxtrot and Victor, sending you 2
+2024-10-15 01:23:15.676650 Delta: Echo, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Uniform round 5
+ChatterBot Hotel round 5
+ChatterBot Foxtrot round 5
+ChatterBot Romeo round 5
+ChatterBot Echo round 5
+ChatterBot Bravo round 5
+ChatterBot Victor round 5
+ChatterBot Golf round 5
+ChatterBot Whiskey round 5
+ChatterBot Delta round 5
+2024-10-15 01:23:16.866664 Uniform: Hotel, Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:16.867669 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:16.869290 Whiskey: We should drop Bravo
+ChatterBot Uniform reevaluating
+2024-10-15 01:23:16.882339 Uniform: Yes
+2024-10-15 01:23:16.882497 Hotel: Yes
+2024-10-15 01:23:16.882620 Golf: Yes
+2024-10-15 01:23:16.882748 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:23:16.932759 Hotel: Golf, sending you 3
+2024-10-15 01:23:16.935683 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:16.936357 Victor: Same as last round
+2024-10-15 01:23:16.937324 Delta: Sending you each 2
+2024-10-15 01:23:16.937719 Echo: Foxtrot and Victor, sending you 2
+2024-10-15 01:23:16.938302 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:16.938656 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:16.939734 Romeo: Bravo, sending you 3
+2024-10-15 01:23:16.941673 Golf: Hotel, sending you 3
+2024-10-15 01:23:16.942673 Echo: Delta, sending you 3
+2024-10-15 01:23:16.943238 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:16.946664 Bravo: Sending you 2
+2024-10-15 01:23:16.962248 Uniform: Sorry, I'm actually sending you 0
+2024-10-15 01:23:16.966671 Uniform: Hotel, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Uniform round 6
+ChatterBot Hotel round 6
+ChatterBot Foxtrot round 6
+ChatterBot Romeo round 6
+ChatterBot Echo round 6
+ChatterBot Bravo round 6
+ChatterBot Victor round 6
+ChatterBot Golf round 6
+ChatterBot Whiskey round 6
+ChatterBot Delta round 6
+2024-10-15 01:23:18.195422 Whiskey: We should drop Bravo
+2024-10-15 01:23:18.219033 Uniform: Yes
+2024-10-15 01:23:18.219820 Hotel: Yes
+2024-10-15 01:23:18.219999 Golf: Yes
+2024-10-15 01:23:18.220228 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:23:18.304976 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:18.305475 Delta: Same as last round
+2024-10-15 01:23:18.305860 Uniform: Hotel, sending you 3
+2024-10-15 01:23:18.306785 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:18.307388 Victor: Same as last round
+2024-10-15 01:23:18.307773 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:18.308080 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:18.308898 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:18.309694 Romeo: Bravo, sending you 3
+2024-10-15 01:23:18.310714 Uniform: Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:18.312668 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:18.313848 Hotel: Golf, sending you 3
+2024-10-15 01:23:18.314294 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:18.318708 Golf: Hotel, sending you 3
+2024-10-15 01:23:18.326671 Bravo: Same as last round
+2024-10-15 01:23:18.331686 Whiskey: Uniform and Golf, sending you 3
+2024-10-15 01:23:18.336687 Whiskey: Hotel and Romeo, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Uniform round 7
+ChatterBot Hotel round 7
+ChatterBot Foxtrot round 7
+ChatterBot Romeo round 7
+ChatterBot Echo round 7
+ChatterBot Bravo round 7
+ChatterBot Victor round 7
+ChatterBot Golf round 7
+ChatterBot Whiskey round 7
+ChatterBot Delta round 7
+2024-10-15 01:23:19.543884 Romeo: We should drop Bravo
+2024-10-15 01:23:19.577620 Whiskey: Yes
+2024-10-15 01:23:19.577978 Uniform: Yes
+2024-10-15 01:23:19.578259 Hotel: Yes
+2024-10-15 01:23:19.578578 Golf: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:19.702464 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:19.710796 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:19.711977 Uniform: Hotel, sending you 3
+2024-10-15 01:23:19.712711 Bravo: Same as last round
+2024-10-15 01:23:19.713923 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:19.714535 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:19.715759 Victor: Same as last round
+2024-10-15 01:23:19.716291 Delta: Same as last round
+2024-10-15 01:23:19.717497 Uniform: Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:19.718077 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:19.719386 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:19.719859 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:19.720959 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:19.721728 Hotel: Golf, sending you 3
+2024-10-15 01:23:19.722854 Romeo: Bravo, sending you 3
+2024-10-15 01:23:19.784467 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:19.785245 Golf: Hotel, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Uniform round 8
+ChatterBot Hotel round 8
+ChatterBot Foxtrot round 8
+ChatterBot Romeo round 8
+ChatterBot Echo round 8
+ChatterBot Bravo round 8
+ChatterBot Victor round 8
+ChatterBot Golf round 8
+ChatterBot Whiskey round 8
+ChatterBot Delta round 8
+2024-10-15 01:23:20.776001 Romeo: We should drop Bravo
+2024-10-15 01:23:20.789871 Whiskey: Yes
+2024-10-15 01:23:20.790138 Uniform: Yes
+2024-10-15 01:23:20.791126 Hotel: Yes
+2024-10-15 01:23:20.791298 Golf: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:20.975413 Uniform: Hotel, sending you 3
+2024-10-15 01:23:20.978698 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:20.981706 Uniform: Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:20.983257 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:20.985674 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:20.988035 Bravo: Same as last round
+2024-10-15 01:23:20.988516 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:20.989684 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:20.991077 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:20.991683 Romeo: Uniform, Hotel, Golf and Whiskey, sending you 1
+2024-10-15 01:23:20.993263 Hotel: Golf, sending you 3
+2024-10-15 01:23:20.994152 Golf: Hotel, sending you 3
+2024-10-15 01:23:20.995715 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:20.997234 Romeo: Bravo, sending you 3
+2024-10-15 01:23:20.998077 Victor: Same as last round
+2024-10-15 01:23:20.998713 Delta: Same as last round
+2024-10-15 01:23:21.000182 Whiskey: Romeo, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Uniform round 9
+ChatterBot Hotel round 9
+ChatterBot Foxtrot round 9
+ChatterBot Romeo round 9
+ChatterBot Echo round 9
+ChatterBot Bravo round 9
+ChatterBot Victor round 9
+ChatterBot Golf round 9
+ChatterBot Whiskey round 9
+ChatterBot Delta round 9
+2024-10-15 01:23:22.132655 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:22.133664 Uniform: Hotel, sending you 3
+2024-10-15 01:23:22.134991 Bravo: Same as last round
+2024-10-15 01:23:22.136666 Hotel: Golf, sending you 3
+2024-10-15 01:23:22.137011 Uniform: Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:22.137710 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:22.139650 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:22.140713 Victor: Same as last round
+2024-10-15 01:23:22.141769 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:22.142661 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:22.143003 Golf: Hotel, sending you 3
+2024-10-15 01:23:22.144660 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:22.145120 Romeo: Uniform and Bravo, sending you 2
+2024-10-15 01:23:22.145667 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:22.146665 Delta: Same as last round
+2024-10-15 01:23:22.148794 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:22.149645 Romeo: Hotel, Golf and Whiskey, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Uniform round 10
+ChatterBot Hotel round 10
+ChatterBot Foxtrot round 10
+ChatterBot Romeo round 10
+ChatterBot Echo round 10
+ChatterBot Bravo round 10
+ChatterBot Victor round 10
+ChatterBot Golf round 10
+ChatterBot Whiskey round 10
+ChatterBot Delta round 10
+2024-10-15 01:23:23.331671 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:23.332748 Uniform: Hotel, sending you 3
+2024-10-15 01:23:23.333702 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:23.336653 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:23.337678 Uniform: Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:23.338626 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:23.340226 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:23.344665 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:23.345114 Hotel: Golf, sending you 3
+2024-10-15 01:23:23.346255 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:23.347694 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:23.349653 Bravo: Same as last round
+2024-10-15 01:23:23.349931 Golf: Hotel, sending you 3
+2024-10-15 01:23:23.351672 Romeo: Uniform, Bravo and Whiskey, sending you 2
+2024-10-15 01:23:23.352256 Victor: Same as last round
+2024-10-15 01:23:23.352701 Delta: Same as last round
+2024-10-15 01:23:23.356657 Romeo: Golf, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Uniform round 11
+ChatterBot Hotel round 11
+ChatterBot Foxtrot round 11
+ChatterBot Romeo round 11
+ChatterBot Echo round 11
+ChatterBot Bravo round 11
+ChatterBot Victor round 11
+ChatterBot Golf round 11
+ChatterBot Whiskey round 11
+ChatterBot Delta round 11
+2024-10-15 01:23:24.746206 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:24.747321 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:24.747919 Bravo: Same as last round
+2024-10-15 01:23:24.748262 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:24.749254 Victor: Same as last round
+2024-10-15 01:23:24.749911 Romeo: Uniform, Bravo and Whiskey, sending you 2
+2024-10-15 01:23:24.750561 Uniform: Hotel, sending you 3
+2024-10-15 01:23:24.751588 Delta: Same as last round
+2024-10-15 01:23:24.752112 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:24.753209 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:24.753761 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:24.755216 Hotel: Golf, sending you 3
+2024-10-15 01:23:24.755702 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:24.756375 Romeo: Golf, sending you 1
+2024-10-15 01:23:24.757545 Uniform: Romeo, Golf and Whiskey, sending you 2
+2024-10-15 01:23:24.758239 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:24.759539 Golf: Hotel, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Uniform round 12
+ChatterBot Hotel round 12
+ChatterBot Foxtrot round 12
+ChatterBot Romeo round 12
+ChatterBot Echo round 12
+ChatterBot Bravo round 12
+ChatterBot Victor round 12
+ChatterBot Golf round 12
+ChatterBot Whiskey round 12
+ChatterBot Delta round 12
+2024-10-15 01:23:25.953536 Romeo: We would work well together
+2024-10-15 01:23:25.957951 Bravo: Yes
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:25.989688 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:25.990792 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:25.993691 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:25.994810 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:25.995651 Bravo: Same as last round
+2024-10-15 01:23:25.996503 Uniform: Hotel, Romeo and Golf, sending you 2
+2024-10-15 01:23:25.997365 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:25.999676 Uniform: Whiskey, sending you 3
+2024-10-15 01:23:26.000701 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:26.001268 Golf: Hotel, sending you 3
+2024-10-15 01:23:26.002258 Victor: Same as last round
+2024-10-15 01:23:26.004154 Romeo: Uniform, sending you 3
+2024-10-15 01:23:26.004665 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:26.005191 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:26.006674 Romeo: Bravo, sending you 4
+2024-10-15 01:23:26.009666 Hotel: Golf, sending you 3
+2024-10-15 01:23:26.011683 Delta: Same as last round
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Uniform round 13
+ChatterBot Hotel round 13
+ChatterBot Foxtrot round 13
+ChatterBot Romeo round 13
+ChatterBot Echo round 13
+ChatterBot Bravo round 13
+ChatterBot Victor round 13
+ChatterBot Golf round 13
+ChatterBot Whiskey round 13
+ChatterBot Delta round 13
+2024-10-15 01:23:27.295184 Romeo: We should drop Uniform
+2024-10-15 01:23:27.300919 Bravo: Yes
+2024-10-15 01:23:27.316695 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:27.318020 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:27.318919 Uniform: Hotel, Romeo and Golf, sending you 2
+2024-10-15 01:23:27.321696 Hotel: Golf, sending you 3
+2024-10-15 01:23:27.323681 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:27.325701 Uniform: Whiskey, sending you 3
+2024-10-15 01:23:27.326680 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:27.330712 Romeo: Same as last round
+2024-10-15 01:23:27.331834 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:27.332733 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:27.334203 Delta: Foxtrot, sending you 1
+2024-10-15 01:23:27.336174 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:27.337013 Bravo: Same as last round
+2024-10-15 01:23:27.337283 Victor: Same as last round
+2024-10-15 01:23:27.338706 Golf: Hotel, sending you 3
+2024-10-15 01:23:27.339275 Delta: Echo and Victor, sending you 2
+2024-10-15 01:23:27.342193 Whiskey: Romeo, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Uniform round 14
+ChatterBot Hotel round 14
+ChatterBot Foxtrot round 14
+ChatterBot Romeo round 14
+ChatterBot Echo round 14
+ChatterBot Bravo round 14
+ChatterBot Victor round 14
+ChatterBot Golf round 14
+ChatterBot Whiskey round 14
+ChatterBot Delta round 14
+2024-10-15 01:23:28.503739 Uniform: Hotel, Romeo and Golf, sending you 2
+2024-10-15 01:23:28.504606 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:28.507711 Uniform: Whiskey, sending you 3
+2024-10-15 01:23:28.508729 Golf: Hotel, sending you 3
+2024-10-15 01:23:28.509212 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:28.509735 Romeo: Same as last round
+2024-10-15 01:23:28.510940 Victor: Foxtrot, sending you 1
+2024-10-15 01:23:28.513803 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:28.514288 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:28.514832 Hotel: Golf, sending you 3
+2024-10-15 01:23:28.515720 Victor: Echo and Delta, sending you 2
+2024-10-15 01:23:28.517534 Bravo: Same as last round
+2024-10-15 01:23:28.518028 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:28.519287 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:28.519698 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:28.520677 Delta: Foxtrot, sending you 1
+2024-10-15 01:23:28.521842 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:28.524681 Delta: Echo and Victor, sending you 2
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Uniform round 15
+ChatterBot Hotel round 15
+ChatterBot Foxtrot round 15
+ChatterBot Romeo round 15
+ChatterBot Echo round 15
+ChatterBot Bravo round 15
+ChatterBot Victor round 15
+ChatterBot Golf round 15
+ChatterBot Whiskey round 15
+ChatterBot Delta round 15
+2024-10-15 01:23:29.718666 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:29.721712 Whiskey: Uniform, Hotel and Golf, sending you 3
+2024-10-15 01:23:29.727550 Victor: Foxtrot, sending you 1
+2024-10-15 01:23:29.732465 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:29.735492 Whiskey: Romeo, sending you 1
+2024-10-15 01:23:29.738265 Romeo: Same as last round
+2024-10-15 01:23:29.739725 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:29.742178 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:29.744261 Victor: Echo and Delta, sending you 2
+2024-10-15 01:23:29.745948 Delta: Foxtrot, sending you 1
+2024-10-15 01:23:29.747965 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:29.749604 Bravo: Same as last round
+2024-10-15 01:23:29.750188 Uniform: Hotel, Romeo and Golf, sending you 2
+2024-10-15 01:23:29.752191 Hotel: Golf, sending you 3
+2024-10-15 01:23:29.753129 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:29.754797 Delta: Echo and Victor, sending you 2
+2024-10-15 01:23:29.756277 Golf: Hotel, sending you 3
+2024-10-15 01:23:29.757353 Uniform: Whiskey, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Uniform round 16
+ChatterBot Hotel round 16
+ChatterBot Foxtrot round 16
+ChatterBot Romeo round 16
+ChatterBot Echo round 16
+ChatterBot Bravo round 16
+ChatterBot Victor round 16
+ChatterBot Golf round 16
+ChatterBot Whiskey round 16
+ChatterBot Delta round 16
+2024-10-15 01:23:31.038232 Uniform: We should drop Romeo
+ChatterBot Whiskey reevaluating
+2024-10-15 01:23:31.055778 Hotel: Yes
+2024-10-15 01:23:31.056121 Golf: Yes
+2024-10-15 01:23:31.056481 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:23:31.148026 Bravo: Sending you 3
+2024-10-15 01:23:31.149299 Romeo: Same as last round
+2024-10-15 01:23:31.169165 Victor: Foxtrot, sending you 1
+2024-10-15 01:23:31.170791 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:31.172170 Uniform: Sending you each 3
+2024-10-15 01:23:31.172933 Echo: Foxtrot, sending you 2
+2024-10-15 01:23:31.174358 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:31.175330 Delta: Foxtrot, sending you 1
+2024-10-15 01:23:31.176848 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:31.178189 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:31.178921 Victor: Echo and Delta, sending you 2
+2024-10-15 01:23:31.179556 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:31.180735 Hotel: Golf, sending you 3
+2024-10-15 01:23:31.181964 Delta: Echo and Victor, sending you 2
+2024-10-15 01:23:31.182827 Golf: Hotel, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Uniform round 17
+ChatterBot Hotel round 17
+ChatterBot Foxtrot round 17
+ChatterBot Romeo round 17
+ChatterBot Echo round 17
+ChatterBot Bravo round 17
+ChatterBot Victor round 17
+ChatterBot Golf round 17
+ChatterBot Whiskey round 17
+ChatterBot Delta round 17
+2024-10-15 01:23:32.109423 Whiskey: We should drop Romeo
+2024-10-15 01:23:32.120668 Hotel: Yes
+2024-10-15 01:23:32.120908 Uniform: Yes
+2024-10-15 01:23:32.121073 Golf: Yes
+2024-10-15 01:23:32.157667 Echo: Foxtrot, sending you 1
+2024-10-15 01:23:32.158404 Uniform: Same as last round
+2024-10-15 01:23:32.159363 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:32.159969 Victor: Foxtrot, sending you 1
+2024-10-15 01:23:32.160352 Foxtrot: Echo and Victor, sending you 4
+2024-10-15 01:23:32.160723 Romeo: Same as last round
+2024-10-15 01:23:32.161692 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:32.162761 Victor: Echo and Delta, sending you 2
+2024-10-15 01:23:32.163659 Hotel: Golf, sending you 3
+2024-10-15 01:23:32.164224 Bravo: Sending you 2
+2024-10-15 01:23:32.165663 Foxtrot: Delta, sending you 3
+2024-10-15 01:23:32.171715 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:32.175654 Delta: Foxtrot, sending you 1
+2024-10-15 01:23:32.176904 Golf: Hotel, sending you 3
+2024-10-15 01:23:32.177663 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:32.179672 Delta: Echo and Victor, sending you 2
+2024-10-15 01:23:32.180661 Whiskey: Hotel and Golf, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Uniform round 18
+ChatterBot Hotel round 18
+ChatterBot Foxtrot round 18
+ChatterBot Romeo round 18
+ChatterBot Echo round 18
+ChatterBot Bravo round 18
+ChatterBot Victor round 18
+ChatterBot Golf round 18
+ChatterBot Whiskey round 18
+ChatterBot Delta round 18
+2024-10-15 01:23:33.341709 Bravo: Same as last round
+2024-10-15 01:23:33.344350 Romeo: Same as last round
+2024-10-15 01:23:33.344996 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:33.347271 Foxtrot: Echo, sending you 3
+2024-10-15 01:23:33.348473 Uniform: Same as last round
+2024-10-15 01:23:33.350321 Hotel: Golf, sending you 3
+2024-10-15 01:23:33.351398 Foxtrot: Victor and Delta, sending you 4
+2024-10-15 01:23:33.352309 Echo: Foxtrot, sending you 1
+2024-10-15 01:23:33.354687 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:33.356480 Victor: Foxtrot, sending you 1
+2024-10-15 01:23:33.357458 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:33.358698 Golf: Hotel, sending you 3
+2024-10-15 01:23:33.360675 Victor: Echo and Delta, sending you 2
+2024-10-15 01:23:33.362181 Whiskey: Uniform and Hotel, sending you 1
+2024-10-15 01:23:33.368713 Delta: Foxtrot, sending you 1
+2024-10-15 01:23:33.374720 Delta: Echo, sending you 2
+2024-10-15 01:23:33.379683 Delta: Victor, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Uniform round 19
+ChatterBot Hotel round 19
+ChatterBot Foxtrot round 19
+ChatterBot Romeo round 19
+ChatterBot Echo round 19
+ChatterBot Bravo round 19
+ChatterBot Victor round 19
+ChatterBot Golf round 19
+ChatterBot Whiskey round 19
+ChatterBot Delta round 19
+2024-10-15 01:23:34.505855 Romeo: We should add Foxtrot
+2024-10-15 01:23:34.509829 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:34.543654 Golf: We should drop Uniform
+2024-10-15 01:23:34.554835 Hotel: No
+2024-10-15 01:23:34.555019 Whiskey: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:23:34.583049 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:34.585125 Bravo: Same as last round
+2024-10-15 01:23:34.585834 Victor: Sending you each 1
+2024-10-15 01:23:34.587791 Foxtrot: Echo, sending you 1
+2024-10-15 01:23:34.589280 Uniform: Same as last round
+2024-10-15 01:23:34.591365 Whiskey: Uniform and Hotel, sending you 1
+2024-10-15 01:23:34.593394 Echo: Foxtrot, sending you 1
+2024-10-15 01:23:34.595282 Hotel: Golf, sending you 3
+2024-10-15 01:23:34.597475 Foxtrot: Victor and Delta, sending you 2
+2024-10-15 01:23:34.599295 Foxtrot: I was attacked by Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:34.611055 Foxtrot: Ow
+2024-10-15 01:23:34.613323 Romeo: Same as last round
+2024-10-15 01:23:34.618923 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:34.623674 Golf: Hotel, sending you 3
+2024-10-15 01:23:34.635679 Victor: Echo, sending you 2
+2024-10-15 01:23:34.641670 Victor: Delta, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Uniform round 20
+ChatterBot Hotel round 20
+ChatterBot Foxtrot round 20
+ChatterBot Romeo round 20
+ChatterBot Echo round 20
+ChatterBot Bravo round 20
+ChatterBot Victor round 20
+ChatterBot Golf round 20
+ChatterBot Whiskey round 20
+ChatterBot Delta round 20
+2024-10-15 01:23:35.718089 Uniform: We should add Echo
+ChatterBot Hotel reevaluating
+2024-10-15 01:23:35.735407 Hotel: No
+2024-10-15 01:23:35.735849 Golf: No
+2024-10-15 01:23:35.736108 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:23:35.778473 Romeo: We should add Echo
+2024-10-15 01:23:35.782701 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:35.806753 Hotel: We should drop Whiskey
+ChatterBot Uniform reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:23:35.816932 Uniform: Yes
+2024-10-15 01:23:35.817230 Golf: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:23:35.837819 Foxtrot: I was attacked by Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:35.851699 Foxtrot: I'm keeping this round to protect myself
+2024-10-15 01:23:35.853930 Foxtrot: Ow
+2024-10-15 01:23:35.862893 Bravo: Same as last round
+2024-10-15 01:23:35.863930 Whiskey: Uniform and Hotel, sending you 1
+2024-10-15 01:23:35.902890 Romeo: Same as last round
+2024-10-15 01:23:35.905101 Uniform: Foxtrot, Victor and Delta, sending you 2
+2024-10-15 01:23:35.908155 Golf: Uniform, sending you 3
+2024-10-15 01:23:35.910390 Victor: Foxtrot, sending you 1
+2024-10-15 01:23:35.913467 Echo: Foxtrot, sending you 1
+2024-10-15 01:23:35.918089 Hotel: Uniform, sending you 3
+2024-10-15 01:23:35.920978 Uniform: Echo, sending you 3
+2024-10-15 01:23:35.924340 Golf: Hotel, sending you 4
+2024-10-15 01:23:35.926712 Victor: Echo, sending you 2
+2024-10-15 01:23:35.929313 Echo: Victor and Delta, sending you 3
+2024-10-15 01:23:35.931762 Hotel: Golf, sending you 4
+2024-10-15 01:23:35.932562 Victor: Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Uniform round 21
+ChatterBot Hotel round 21
+ChatterBot Foxtrot round 21
+ChatterBot Romeo round 21
+ChatterBot Echo round 21
+ChatterBot Bravo round 21
+ChatterBot Victor round 21
+ChatterBot Golf round 21
+2024-10-15 01:23:37.009904 Hotel: We should add Whiskey
+ChatterBot Uniform reevaluating
+2024-10-15 01:23:37.017131 Uniform: Yes
+2024-10-15 01:23:37.017298 Golf: No
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey round 21
+ChatterBot Delta round 21
+2024-10-15 01:23:37.093983 Hotel: Whiskey we want you to join our group
+2024-10-15 01:23:37.120677 Whiskey: Yes
+ChatterBot Uniform reevaluating
+2024-10-15 01:23:37.277168 Delta: We should add Uniform
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:37.298008 Echo: No
+2024-10-15 01:23:37.298835 Foxtrot: No
+2024-10-15 01:23:37.299076 Victor: Yes
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:37.360703 Golf: Whiskey we want you to join our group
+2024-10-15 01:23:37.370273 Whiskey: Yes
+2024-10-15 01:23:37.391163 Foxtrot: I was attacked by Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:37.415900 Foxtrot: I'm keeping this round to protect myself
+2024-10-15 01:23:37.418151 Foxtrot: Ow
+2024-10-15 01:23:37.419232 Romeo: Same as last round
+2024-10-15 01:23:37.429853 Echo: We should drop Delta
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:23:37.443657 Foxtrot: Yes
+2024-10-15 01:23:37.444937 Victor: No
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:23:37.475949 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:37.478420 Bravo: Same as last round
+2024-10-15 01:23:37.479720 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:37.482064 Uniform: Hotel, sending you 5
+2024-10-15 01:23:37.484682 Hotel: Golf, sending you 3
+2024-10-15 01:23:37.487179 Victor: Uniform we want you to join our group
+2024-10-15 01:23:37.495229 Uniform: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:37.528139 Victor: We should add Romeo
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:37.551479 Echo: No
+2024-10-15 01:23:37.552452 Foxtrot: No
+2024-10-15 01:23:37.552889 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:37.624610 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:37.627718 Uniform: Whiskey, sending you 4
+2024-10-15 01:23:37.630005 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:37.645463 Golf: Hotel, sending you 3
+2024-10-15 01:23:37.649164 Foxtrot: We should drop Echo
+ChatterBot Victor reevaluating
+2024-10-15 01:23:37.659548 Delta: No
+2024-10-15 01:23:37.659714 Victor: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:23:37.690926 Victor: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:37.699637 Echo: Yes
+2024-10-15 01:23:37.699785 Delta: Yes
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 01:23:37.931516 Victor: Echo, sending you 2
+2024-10-15 01:23:37.982168 Victor: Delta, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Uniform round 22
+ChatterBot Hotel round 22
+ChatterBot Foxtrot round 22
+ChatterBot Romeo round 22
+ChatterBot Echo round 22
+ChatterBot Bravo round 22
+ChatterBot Victor round 22
+ChatterBot Golf round 22
+ChatterBot Whiskey round 22
+ChatterBot Delta round 22
+2024-10-15 01:23:38.910502 Uniform: We should add Golf
+2024-10-15 01:23:38.926814 Hotel: Yes
+2024-10-15 01:23:38.927240 Whiskey: Yes
+2024-10-15 01:23:38.965314 Romeo: We should add Foxtrot
+2024-10-15 01:23:38.972272 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:39.026488 Uniform: Golf we want you to join our group
+2024-10-15 01:23:39.035605 Golf: Yes
+2024-10-15 01:23:39.060027 Delta: We should drop Foxtrot
+ChatterBot Echo reevaluating
+2024-10-15 01:23:39.078794 Victor: Yes
+2024-10-15 01:23:39.079603 Echo: Yes
+ChatterBot Echo reevaluating
+2024-10-15 01:23:39.119887 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:39.123083 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:39.126586 Bravo: Same as last round
+2024-10-15 01:23:39.129307 Victor: Echo, sending you 2
+2024-10-15 01:23:39.131610 Hotel: Golf, sending you 3
+2024-10-15 01:23:39.134744 Golf: Hotel, sending you 3
+2024-10-15 01:23:39.137892 Victor: Delta, sending you 3
+2024-10-15 01:23:39.140134 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:39.142856 Romeo: Same as last round
+2024-10-15 01:23:39.143879 Uniform: Sending you each 3
+2024-10-15 01:23:39.147726 Whiskey: Hotel and Golf, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Uniform round 23
+ChatterBot Hotel round 23
+ChatterBot Foxtrot round 23
+ChatterBot Romeo round 23
+ChatterBot Echo round 23
+ChatterBot Bravo round 23
+ChatterBot Victor round 23
+ChatterBot Golf round 23
+ChatterBot Whiskey round 23
+ChatterBot Delta round 23
+2024-10-15 01:23:40.411828 Delta: We should drop Foxtrot
+ChatterBot Echo reevaluating
+2024-10-15 01:23:40.428095 Victor: Yes
+2024-10-15 01:23:40.428451 Echo: Yes
+ChatterBot Echo reevaluating
+2024-10-15 01:23:40.529492 Victor: Echo, sending you 2
+2024-10-15 01:23:40.531399 Uniform: Same as last round
+2024-10-15 01:23:40.535321 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:40.538030 Victor: Delta, sending you 3
+2024-10-15 01:23:40.624693 Hotel: Golf, sending you 3
+2024-10-15 01:23:40.629383 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:40.632577 Bravo: Same as last round
+2024-10-15 01:23:40.633606 Romeo: Same as last round
+2024-10-15 01:23:40.635246 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:40.638757 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:40.641686 Golf: Hotel, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Uniform round 24
+ChatterBot Hotel round 24
+ChatterBot Foxtrot round 24
+ChatterBot Romeo round 24
+ChatterBot Echo round 24
+ChatterBot Bravo round 24
+ChatterBot Victor round 24
+ChatterBot Golf round 24
+ChatterBot Whiskey round 24
+ChatterBot Delta round 24
+2024-10-15 01:23:41.893389 Delta: We should drop Foxtrot
+2024-10-15 01:23:41.903856 Victor: Yes
+2024-10-15 01:23:41.904131 Echo: Yes
+2024-10-15 01:23:41.940035 Victor: Echo, sending you 2
+2024-10-15 01:23:41.941103 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:41.942838 Uniform: Same as last round
+2024-10-15 01:23:41.944691 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:41.946297 Romeo: Sending you 5
+2024-10-15 01:23:41.947554 Bravo: Same as last round
+2024-10-15 01:23:41.948416 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:41.949946 Victor: Delta, sending you 3
+2024-10-15 01:23:41.951601 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:41.954203 Hotel: Golf, sending you 3
+2024-10-15 01:23:41.956843 Golf: Hotel, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Uniform round 25
+ChatterBot Hotel round 25
+ChatterBot Foxtrot round 25
+ChatterBot Romeo round 25
+ChatterBot Echo round 25
+ChatterBot Bravo round 25
+ChatterBot Victor round 25
+ChatterBot Golf round 25
+ChatterBot Whiskey round 25
+ChatterBot Delta round 25
+2024-10-15 01:23:42.931611 Romeo: We should add Foxtrot
+2024-10-15 01:23:42.936175 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:42.967906 Delta: We should drop Foxtrot
+2024-10-15 01:23:42.978431 Victor: Yes
+2024-10-15 01:23:42.978708 Echo: Yes
+2024-10-15 01:23:43.000665 Uniform: Same as last round
+2024-10-15 01:23:43.001805 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:43.003598 Victor: Echo, sending you 2
+2024-10-15 01:23:43.004081 Bravo: Same as last round
+2024-10-15 01:23:43.004635 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:43.006132 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:43.007972 Golf: Hotel, sending you 3
+2024-10-15 01:23:43.009078 Victor: Delta, sending you 3
+2024-10-15 01:23:43.009780 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:43.011312 Hotel: Golf, sending you 3
+2024-10-15 01:23:43.012676 Romeo: Same as last round
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Uniform round 26
+ChatterBot Hotel round 26
+ChatterBot Foxtrot round 26
+ChatterBot Romeo round 26
+ChatterBot Echo round 26
+ChatterBot Bravo round 26
+ChatterBot Victor round 26
+ChatterBot Golf round 26
+ChatterBot Whiskey round 26
+ChatterBot Delta round 26
+2024-10-15 01:23:44.268533 Romeo: We should add Foxtrot
+2024-10-15 01:23:44.273146 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:44.331015 Delta: We should drop Foxtrot
+2024-10-15 01:23:44.347461 Victor: Yes
+2024-10-15 01:23:44.347665 Echo: Yes
+ChatterBot Victor reevaluating
+2024-10-15 01:23:44.378351 Victor: We should add Uniform
+2024-10-15 01:23:44.392832 Echo: No
+2024-10-15 01:23:44.393017 Delta: No
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:44.418333 Delta: We should replace Foxtrot with Romeo
+ChatterBot Victor reevaluating
+2024-10-15 01:23:44.428975 Victor: Yes
+2024-10-15 01:23:44.429111 Echo: No
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:44.458690 Bravo: Same as last round
+2024-10-15 01:23:44.466682 Victor: Echo, sending you 2
+2024-10-15 01:23:44.468534 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:44.470736 Uniform: Same as last round
+2024-10-15 01:23:44.471837 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:44.473886 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:44.476190 Victor: Delta, sending you 3
+2024-10-15 01:23:44.477258 Golf: Hotel, sending you 3
+2024-10-15 01:23:44.478235 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:44.481142 Hotel: Golf, sending you 3
+2024-10-15 01:23:44.482604 Romeo: Same as last round
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Uniform round 27
+ChatterBot Hotel round 27
+ChatterBot Foxtrot round 27
+ChatterBot Romeo round 27
+ChatterBot Echo round 27
+ChatterBot Bravo round 27
+ChatterBot Victor round 27
+ChatterBot Golf round 27
+ChatterBot Whiskey round 27
+ChatterBot Delta round 27
+2024-10-15 01:23:45.672641 Victor: We should add Romeo
+ChatterBot Delta reevaluating
+2024-10-15 01:23:45.684104 Echo: No
+2024-10-15 01:23:45.684277 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:45.728186 Delta: We should replace Foxtrot with Romeo
+ChatterBot Victor reevaluating
+2024-10-15 01:23:45.744780 Victor: No
+2024-10-15 01:23:45.744976 Echo: No
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:45.787879 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:45.791285 Romeo: Same as last round
+2024-10-15 01:23:45.792090 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:45.794826 Delta: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:45.806146 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:45.832831 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:45.835583 Golf: Hotel, sending you 3
+2024-10-15 01:23:45.838179 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:45.841159 Bravo: Same as last round
+2024-10-15 01:23:45.842286 Delta: We should drop Foxtrot
+ChatterBot Victor reevaluating
+2024-10-15 01:23:45.857434 Victor: Yes
+2024-10-15 01:23:45.857638 Echo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:45.894147 Hotel: Golf, sending you 3
+2024-10-15 01:23:45.896342 Uniform: Same as last round
+2024-10-15 01:23:45.898621 Romeo: Sorry, I'm actually sending you 0
+2024-10-15 01:23:45.956140 Victor: Echo, sending you 2
+2024-10-15 01:23:45.962673 Victor: Delta, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Uniform round 28
+ChatterBot Hotel round 28
+ChatterBot Foxtrot round 28
+ChatterBot Romeo round 28
+ChatterBot Echo round 28
+ChatterBot Bravo round 28
+ChatterBot Victor round 28
+ChatterBot Golf round 28
+ChatterBot Whiskey round 28
+ChatterBot Delta round 28
+2024-10-15 01:23:47.042599 Victor: We should add Romeo
+ChatterBot Delta reevaluating
+2024-10-15 01:23:47.054709 Echo: No
+2024-10-15 01:23:47.054898 Delta: Yes
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:47.127074 Delta: We should drop Foxtrot
+ChatterBot Victor reevaluating
+2024-10-15 01:23:47.142441 Victor: Yes
+2024-10-15 01:23:47.142644 Echo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:47.173896 Delta: We should replace Foxtrot with Romeo
+ChatterBot Victor reevaluating
+2024-10-15 01:23:47.189536 Victor: No
+2024-10-15 01:23:47.189804 Echo: No
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:47.241513 Romeo: Bravo, sending you 4
+2024-10-15 01:23:47.244533 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:47.247144 Bravo: Same as last round
+2024-10-15 01:23:47.248566 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:47.250658 Uniform: Same as last round
+2024-10-15 01:23:47.253254 Victor: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:47.260089 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:47.275399 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:47.277352 Hotel: Golf, sending you 3
+2024-10-15 01:23:47.280708 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:47.283784 Delta: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:47.290607 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:23:47.308758 Golf: Hotel, sending you 3
+2024-10-15 01:23:47.356861 Romeo: Sorry, I'm actually sending you 0
+2024-10-15 01:23:47.357998 Romeo: Sorry, I'm actually sending you 0
+chatterbot Hotel submitting transactions
+2024-10-15 01:23:47.365255 Victor: Echo, sending you 2
+2024-10-15 01:23:47.377846 Victor: Delta, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Uniform round 29
+ChatterBot Hotel round 29
+ChatterBot Foxtrot round 29
+ChatterBot Romeo round 29
+ChatterBot Echo round 29
+ChatterBot Bravo round 29
+ChatterBot Victor round 29
+ChatterBot Golf round 29
+ChatterBot Whiskey round 29
+ChatterBot Delta round 29
+2024-10-15 01:23:48.513853 Bravo: We should add Foxtrot
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:48.520041 Romeo: Yes
+2024-10-15 01:23:48.540899 Delta: We should drop Foxtrot
+2024-10-15 01:23:48.553521 Victor: Yes
+2024-10-15 01:23:48.553759 Echo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:48.585410 Bravo: Foxtrot we want you to join our group
+2024-10-15 01:23:48.592168 Foxtrot: No
+ChatterBot Romeo reevaluating
+2024-10-15 01:23:48.622522 Victor: Echo, sending you 2
+2024-10-15 01:23:48.624398 Uniform: Same as last round
+2024-10-15 01:23:48.627842 Victor: Delta, sending you 3
+2024-10-15 01:23:48.650390 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:48.653587 Bravo: Foxtrot, sending you 1
+2024-10-15 01:23:48.654562 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:48.657899 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:48.660444 Golf: Hotel, sending you 3
+2024-10-15 01:23:48.663333 Bravo: Romeo, sending you 2
+2024-10-15 01:23:48.665057 Hotel: Golf, sending you 3
+2024-10-15 01:23:48.666782 Romeo: Foxtrot, sending you 2
+2024-10-15 01:23:48.668520 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:48.679511 Romeo: Bravo, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Uniform round 30
+ChatterBot Hotel round 30
+ChatterBot Foxtrot round 30
+ChatterBot Romeo round 30
+ChatterBot Echo round 30
+ChatterBot Bravo round 30
+ChatterBot Victor round 30
+ChatterBot Golf round 30
+ChatterBot Whiskey round 30
+ChatterBot Delta round 30
+2024-10-15 01:23:50.285867 Delta: We should drop Foxtrot
+2024-10-15 01:23:50.297416 Victor: Yes
+2024-10-15 01:23:50.297591 Echo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:23:50.329558 Hotel: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:50.332849 Romeo: Foxtrot, sending you 2
+2024-10-15 01:23:50.335108 Golf: Uniform and Whiskey, sending you 2
+2024-10-15 01:23:50.337165 Victor: Echo, sending you 2
+2024-10-15 01:23:50.339214 Uniform: Same as last round
+2024-10-15 01:23:50.342286 Whiskey: Uniform, sending you 4
+2024-10-15 01:23:50.345488 Bravo: Foxtrot, sending you 1
+2024-10-15 01:23:50.347857 Hotel: Golf, sending you 3
+2024-10-15 01:23:50.350644 Romeo: Bravo, sending you 4
+2024-10-15 01:23:50.351825 Golf: Hotel, sending you 3
+2024-10-15 01:23:50.354791 Victor: Delta, sending you 3
+2024-10-15 01:23:50.356927 Whiskey: Hotel and Golf, sending you 3
+2024-10-15 01:23:50.359968 Bravo: Romeo, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions

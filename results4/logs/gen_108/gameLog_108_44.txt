@@ -1,0 +1,1483 @@
+ChatterBot Mike round 1
+ChatterBot Zulu round 1
+ChatterBot Papa round 1
+ChatterBot Echo round 1
+ChatterBot Hotel round 1
+ChatterBot X-ray round 1
+ChatterBot Bravo round 1
+ChatterBot Juliett round 1
+ChatterBot Golf round 1
+ChatterBot Lima round 1
+randomSelections Hotel: {Hotel, Juliett, X-ray, Mike} 
+2024-10-15 00:54:31.357124 Hotel: Group up?
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:31.364224 Juliett: Yes
+2024-10-15 00:54:31.364348 X-ray: Yes
+2024-10-15 00:54:31.365391 Mike: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+randomSelections Bravo: {Bravo, Echo} 
+2024-10-15 00:54:31.389125 Bravo: Can we be friends?
+ChatterBot Echo reevaluating
+2024-10-15 00:54:31.392060 Echo: Yes
+randomSelections Papa: {Papa, Echo, Mike} 
+2024-10-15 00:54:31.400311 Papa: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:31.405167 Echo: No
+2024-10-15 00:54:31.405322 Mike: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+randomSelections Zulu: {Zulu, X-ray, Echo, Mike} 
+2024-10-15 00:54:31.418995 Zulu: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:31.423464 X-ray: No
+2024-10-15 00:54:31.423761 Echo: No
+2024-10-15 00:54:31.424570 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+randomSelections Golf: {Golf, Zulu, Papa, Lima, Mike} 
+2024-10-15 00:54:31.442811 Golf: We would work well together
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:31.449606 Zulu: No
+2024-10-15 00:54:31.450004 Papa: No
+2024-10-15 00:54:31.450606 Lima: Yes
+2024-10-15 00:54:31.450739 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:31.482678 Papa: Mike and Echo, sending you 1
+2024-10-15 00:54:31.484662 Echo: Sending you 2
+2024-10-15 00:54:31.485175 Bravo: Sending you 6
+2024-10-15 00:54:31.485683 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:31.487195 Zulu: Mike, sending you 3
+2024-10-15 00:54:31.487784 Golf: Mike, sending you 2
+2024-10-15 00:54:31.490190 X-ray: Mike and Juliett, sending you 3
+2024-10-15 00:54:31.492944 Juliett: Mike, sending you 1
+2024-10-15 00:54:31.494601 Hotel: X-ray, sending you 1
+2024-10-15 00:54:31.495947 Zulu: Echo, sending you 1
+2024-10-15 00:54:31.497908 Mike: Hotel, sending you 5
+2024-10-15 00:54:31.498721 Golf: Zulu and Papa, sending you 3
+2024-10-15 00:54:31.500268 Lima: Mike, Papa and Golf, sending you 1
+2024-10-15 00:54:31.501089 X-ray: Hotel, sending you 2
+2024-10-15 00:54:31.501736 Juliett: Hotel, sending you 2
+2024-10-15 00:54:31.502284 Zulu: X-ray, sending you 2
+2024-10-15 00:54:31.503364 Golf: Lima, sending you 5
+2024-10-15 00:54:31.504052 Mike: Juliett, sending you 2
+2024-10-15 00:54:31.504688 Lima: Zulu, sending you 3
+2024-10-15 00:54:31.505191 Juliett: X-ray, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 2
+ChatterBot Zulu round 2
+ChatterBot Papa round 2
+ChatterBot Echo round 2
+2024-10-15 00:54:33.741850 Zulu: Friends?
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+2024-10-15 00:54:33.775794 Golf: No
+2024-10-15 00:54:33.776465 Lima: No
+2024-10-15 00:54:33.776587 Papa: No
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:33.905706 Lima: Group up?
+ChatterBot Golf reevaluating
+2024-10-15 00:54:33.928728 Golf: No
+ChatterBot Lima reevaluating
+ChatterBot Hotel round 2
+ChatterBot X-ray round 2
+2024-10-15 00:54:33.961935 Echo: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-15 00:54:33.981933 Bravo: No
+ChatterBot Echo reevaluating
+2024-10-15 00:54:33.993316 Bravo: We should replace Echo with Golf
+ChatterBot Bravo round 2
+ChatterBot Juliett round 2
+ChatterBot Golf round 2
+ChatterBot Lima round 2
+2024-10-15 00:54:34.040858 Echo: We should add Papa
+ChatterBot Bravo reevaluating
+2024-10-15 00:54:34.052029 Bravo: No
+ChatterBot Echo reevaluating
+2024-10-15 00:54:34.106207 X-ray: We should drop Hotel and Mike
+2024-10-15 00:54:34.116915 Juliett: No
+2024-10-15 00:54:34.128750 Lima: We should drop Papa and Mike
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:34.148423 Zulu: Yes
+2024-10-15 00:54:34.149082 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:34.189756 Mike: Hotel and Juliett, sending you 2
+2024-10-15 00:54:34.190644 Echo: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 00:54:34.200850 Papa: No
+ChatterBot Echo reevaluating
+2024-10-15 00:54:34.222772 Hotel: Sending you each 2
+2024-10-15 00:54:34.223230 Mike: X-ray, sending you 3
+2024-10-15 00:54:34.450281 Bravo: Sending you 7
+2024-10-15 00:54:34.450779 Juliett: Sending you each 3
+2024-10-15 00:54:34.451262 X-ray: Sending you 8
+2024-10-15 00:54:34.452086 Echo: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:34.459439 Zulu: No
+ChatterBot Echo reevaluating
+2024-10-15 00:54:34.472602 Papa: Sorry, I'm actually sending you 0
+2024-10-15 00:54:34.524223 Golf: Zulu, sending you 3
+2024-10-15 00:54:34.525296 Lima: Zulu, sending you 2
+2024-10-15 00:54:34.525887 Papa: Sending you 1
+2024-10-15 00:54:34.560797 Golf: Lima, sending you 10
+2024-10-15 00:54:34.561406 Lima: Golf, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+2024-10-15 00:54:34.822543 Echo: Zulu and Bravo, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Mike round 3
+ChatterBot Zulu round 3
+ChatterBot Papa round 3
+ChatterBot Echo round 3
+ChatterBot Hotel round 3
+ChatterBot X-ray round 3
+2024-10-15 00:54:35.759243 Zulu: We should add Echo
+2024-10-15 00:54:35.771139 Lima: No
+2024-10-15 00:54:35.771325 Golf: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:35.802465 Echo: We should replace Zulu with Papa
+2024-10-15 00:54:35.811414 Bravo: No
+ChatterBot Bravo round 3
+ChatterBot Juliett round 3
+ChatterBot Golf round 3
+2024-10-15 00:54:35.825502 Papa: We should replace Zulu with Golf
+ChatterBot Lima round 3
+2024-10-15 00:54:35.830218 X-ray: We should add Hotel
+2024-10-15 00:54:35.834451 Juliett: Yes
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:35.839826 Zulu: We should add Papa
+ChatterBot Lima reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:54:35.848697 Lima: Yes
+2024-10-15 00:54:35.848825 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:35.872773 Echo: Papa we want you to join our group
+2024-10-15 00:54:35.879077 Papa: No
+2024-10-15 00:54:35.912662 Papa: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 00:54:35.919559 Golf: Yes
+2024-10-15 00:54:35.932510 X-ray: We should add Mike and Hotel
+2024-10-15 00:54:35.938516 Juliett: Yes
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:35.945507 Zulu: Papa we want you to join our group
+2024-10-15 00:54:35.951051 Papa: No
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:35.970395 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:35.970893 Mike: Hotel and Juliett, sending you 3
+2024-10-15 00:54:35.975721 Hotel: X-ray, sending you 1
+2024-10-15 00:54:35.976057 Mike: X-ray, sending you 1
+2024-10-15 00:54:35.978765 X-ray: Hotel we want you to join our group
+2024-10-15 00:54:35.983525 Hotel: Yes
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:35.993768 X-ray: We should add Mike
+2024-10-15 00:54:35.999049 Juliett: Yes
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:36.005544 Juliett: Same as last round
+2024-10-15 00:54:36.005913 Golf: Zulu, sending you 5
+2024-10-15 00:54:36.006221 Lima: Zulu, sending you 2
+2024-10-15 00:54:36.010114 Bravo: Sending you 8
+2024-10-15 00:54:36.010429 Lima: Golf, sending you 4
+2024-10-15 00:54:36.010795 Golf: Lima, sending you 8
+2024-10-15 00:54:36.011150 Echo: Papa and Bravo, sending you 2
+2024-10-15 00:54:36.011451 Papa: Sending you 1
+2024-10-15 00:54:36.034686 X-ray: Hotel, sending you 3
+2024-10-15 00:54:36.039654 X-ray: Juliett, sending you 5
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 4
+ChatterBot Zulu round 4
+ChatterBot Papa round 4
+ChatterBot Echo round 4
+ChatterBot Hotel round 4
+ChatterBot X-ray round 4
+2024-10-15 00:54:37.242483 Papa: We should replace Golf with Zulu
+ChatterBot Bravo round 4
+ChatterBot Juliett round 4
+2024-10-15 00:54:37.269383 Zulu: We should add Papa
+ChatterBot Lima reevaluating
+2024-10-15 00:54:37.280668 Lima: Yes
+2024-10-15 00:54:37.280910 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf round 4
+2024-10-15 00:54:37.308760 X-ray: We should add Mike
+2024-10-15 00:54:37.317920 Hotel: Yes
+2024-10-15 00:54:37.318107 Juliett: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima round 4
+2024-10-15 00:54:37.350266 Papa: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:37.357122 Zulu: Yes
+ChatterBot Papa reevaluating
+2024-10-15 00:54:37.387291 Zulu: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 00:54:37.392864 Papa: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:37.410202 X-ray: Mike we want you to join our group
+2024-10-15 00:54:37.415871 Mike: Yes
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:37.432924 Echo: Papa and Bravo, sending you 2
+2024-10-15 00:54:37.434291 Mike: Hotel and Juliett, sending you 3
+2024-10-15 00:54:37.478106 Hotel: Sending you each 2
+2024-10-15 00:54:37.479046 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:37.479419 Mike: X-ray, sending you 1
+2024-10-15 00:54:37.479775 Bravo: Same as last round
+2024-10-15 00:54:37.505552 Juliett: X-ray, sending you 2
+2024-10-15 00:54:37.506012 Lima: Zulu, sending you 2
+2024-10-15 00:54:37.506403 Golf: Zulu, sending you 4
+2024-10-15 00:54:37.507142 Papa: Same as last round
+2024-10-15 00:54:37.519052 Lima: Golf, sending you 4
+2024-10-15 00:54:37.519366 Golf: Papa, sending you 3
+2024-10-15 00:54:37.525989 Golf: Lima, sending you 6
+2024-10-15 00:54:37.526817 X-ray: Mike and Hotel, sending you 2
+2024-10-15 00:54:37.533796 X-ray: Juliett, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 5
+ChatterBot Zulu round 5
+ChatterBot Papa round 5
+ChatterBot Echo round 5
+ChatterBot Hotel round 5
+2024-10-15 00:54:38.582671 Zulu: We should add Papa
+2024-10-15 00:54:38.589068 Lima: No
+2024-10-15 00:54:38.589240 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray round 5
+ChatterBot Bravo round 5
+ChatterBot Juliett round 5
+ChatterBot Golf round 5
+ChatterBot Lima round 5
+2024-10-15 00:54:38.641208 Zulu: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 00:54:38.647231 Papa: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:38.666283 Papa: We should replace Golf with Zulu
+2024-10-15 00:54:38.669675 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:38.671046 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:38.673679 Hotel: X-ray, sending you 1
+2024-10-15 00:54:38.675671 Papa: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:38.682438 Zulu: Yes
+ChatterBot Papa reevaluating
+2024-10-15 00:54:38.689547 Mike: Juliett, sending you 3
+2024-10-15 00:54:38.690014 X-ray: Mike, sending you 2
+2024-10-15 00:54:38.690379 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:38.693739 X-ray: Hotel and Juliett, sending you 3
+2024-10-15 00:54:38.694700 Echo: Papa and Bravo, sending you 2
+2024-10-15 00:54:38.695080 Lima: Zulu, sending you 2
+2024-10-15 00:54:38.695403 Bravo: Sending you 9
+2024-10-15 00:54:38.695695 Juliett: X-ray, sending you 2
+2024-10-15 00:54:38.696031 Golf: Zulu, sending you 4
+2024-10-15 00:54:38.697678 Lima: Papa, sending you 1
+2024-10-15 00:54:38.699678 Golf: Papa, sending you 3
+2024-10-15 00:54:38.700665 Lima: Golf, sending you 3
+2024-10-15 00:54:38.704957 Golf: Lima, sending you 6
+2024-10-15 00:54:38.721686 Papa: Sending you 1
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 6
+ChatterBot Zulu round 6
+2024-10-15 00:54:39.812927 Zulu: We should add Papa
+2024-10-15 00:54:39.827495 Lima: Yes
+2024-10-15 00:54:39.827706 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa round 6
+ChatterBot Echo round 6
+ChatterBot Hotel round 6
+ChatterBot X-ray round 6
+ChatterBot Bravo round 6
+ChatterBot Juliett round 6
+ChatterBot Golf round 6
+ChatterBot Lima round 6
+2024-10-15 00:54:39.882162 Zulu: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 00:54:39.887914 Papa: No
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:39.908362 Papa: We should replace Zulu with Echo
+2024-10-15 00:54:39.909118 X-ray: We should drop Hotel
+2024-10-15 00:54:39.922120 Mike: No
+2024-10-15 00:54:39.922314 Juliett: No
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:39.950522 Papa: Echo we want you to join our group
+2024-10-15 00:54:39.956572 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-15 00:54:39.963631 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:39.965672 Echo: Papa, sending you 2
+2024-10-15 00:54:39.966982 Lima: Zulu, sending you 2
+2024-10-15 00:54:39.967430 Golf: Zulu, sending you 4
+2024-10-15 00:54:39.967829 Hotel: Sending you each 2
+2024-10-15 00:54:39.968671 Mike: Juliett, sending you 3
+2024-10-15 00:54:39.969536 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:39.969866 Lima: Papa, sending you 1
+2024-10-15 00:54:39.970684 Echo: Bravo, sending you 1
+2024-10-15 00:54:39.971669 Golf: Papa, sending you 3
+2024-10-15 00:54:39.972083 Bravo: Sending you 10
+2024-10-15 00:54:39.972673 Lima: Golf, sending you 3
+2024-10-15 00:54:39.973868 Juliett: X-ray, sending you 2
+2024-10-15 00:54:39.975673 Golf: Lima, sending you 6
+2024-10-15 00:54:39.984694 X-ray: Mike and Hotel, sending you 2
+2024-10-15 00:54:39.987698 X-ray: Juliett, sending you 4
+2024-10-15 00:54:39.988688 Papa: Sending you 1
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Mike round 7
+ChatterBot Zulu round 7
+ChatterBot Papa round 7
+ChatterBot Echo round 7
+ChatterBot Hotel round 7
+ChatterBot X-ray round 7
+ChatterBot Bravo round 7
+2024-10-15 00:54:40.975422 Zulu: We should add Papa
+2024-10-15 00:54:40.986330 Lima: Yes
+2024-10-15 00:54:40.986529 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett round 7
+ChatterBot Golf round 7
+ChatterBot Lima round 7
+2024-10-15 00:54:41.208303 Zulu: Papa we want you to join our group
+2024-10-15 00:54:41.213666 Papa: No
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:41.247500 Hotel: Same as last round
+2024-10-15 00:54:41.248919 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:41.249801 Echo: Zulu, Bravo, Golf and Lima, sending you 1
+2024-10-15 00:54:41.251063 Papa: Same as last round
+2024-10-15 00:54:41.251675 X-ray: Mike, sending you 2
+2024-10-15 00:54:41.253131 Mike: Juliett, sending you 3
+2024-10-15 00:54:41.259640 Bravo: Sending you 11
+2024-10-15 00:54:41.260682 Golf: Zulu, sending you 4
+2024-10-15 00:54:41.261390 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:41.262573 X-ray: Hotel and Juliett, sending you 3
+2024-10-15 00:54:41.263224 Lima: Zulu, sending you 2
+2024-10-15 00:54:41.264941 Juliett: X-ray, sending you 2
+2024-10-15 00:54:41.266186 Golf: Papa, sending you 3
+2024-10-15 00:54:41.268448 Lima: Papa, sending you 1
+2024-10-15 00:54:41.397684 Golf: Lima, sending you 6
+2024-10-15 00:54:41.399142 Lima: Golf, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Mike round 8
+ChatterBot Zulu round 8
+ChatterBot Papa round 8
+ChatterBot Echo round 8
+ChatterBot Hotel round 8
+ChatterBot X-ray round 8
+ChatterBot Bravo round 8
+ChatterBot Juliett round 8
+ChatterBot Golf round 8
+ChatterBot Lima round 8
+2024-10-15 00:54:42.700542 Zulu: We should add Papa
+2024-10-15 00:54:42.716556 Lima: Yes
+2024-10-15 00:54:42.716951 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:42.811485 Echo: We should drop Golf and Lima
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:42.825156 Bravo: Yes
+2024-10-15 00:54:42.825372 Zulu: No
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 00:54:42.849673 Zulu: Papa we want you to join our group
+2024-10-15 00:54:42.857130 Papa: No
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:42.882029 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:42.883465 Papa: Same as last round
+2024-10-15 00:54:42.895741 Mike: Juliett, sending you 3
+2024-10-15 00:54:42.897144 Bravo: Same as last round
+2024-10-15 00:54:42.897821 Golf: Zulu, sending you 4
+2024-10-15 00:54:42.899053 Lima: Zulu, sending you 2
+2024-10-15 00:54:42.899570 X-ray: Mike, sending you 2
+2024-10-15 00:54:42.900753 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:42.901218 Hotel: Same as last round
+2024-10-15 00:54:42.902727 Lima: Papa, sending you 1
+2024-10-15 00:54:42.903738 Golf: Papa, sending you 3
+2024-10-15 00:54:42.905408 X-ray: Hotel and Juliett, sending you 3
+2024-10-15 00:54:42.906228 Juliett: X-ray, sending you 2
+2024-10-15 00:54:42.912962 Echo: Zulu, Bravo, Golf and Lima, sending you 1
+2024-10-15 00:54:42.914585 Lima: Golf, sending you 3
+2024-10-15 00:54:42.915471 Golf: Lima, sending you 6
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Mike round 9
+ChatterBot Zulu round 9
+ChatterBot Papa round 9
+ChatterBot Echo round 9
+ChatterBot Hotel round 9
+ChatterBot X-ray round 9
+ChatterBot Bravo round 9
+2024-10-15 00:54:44.145674 Zulu: We should add Papa
+2024-10-15 00:54:44.158975 Lima: Yes
+2024-10-15 00:54:44.163017 Golf: Yes
+ChatterBot Juliett round 9
+ChatterBot Golf round 9
+ChatterBot Lima round 9
+2024-10-15 00:54:44.223924 Zulu: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-15 00:54:44.228519 Papa: No
+2024-10-15 00:54:44.242369 Papa: We should replace Echo with Zulu
+2024-10-15 00:54:44.257886 Papa: Zulu we want you to join our group
+2024-10-15 00:54:44.264955 Zulu: Yes
+ChatterBot Papa reevaluating
+2024-10-15 00:54:44.274654 Hotel: Same as last round
+2024-10-15 00:54:44.275980 Bravo: Same as last round
+2024-10-15 00:54:44.276345 X-ray: Mike, sending you 2
+2024-10-15 00:54:44.276776 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:44.279669 Echo: Zulu, Bravo, Golf and Lima, sending you 1
+2024-10-15 00:54:44.281024 Mike: Juliett, sending you 3
+2024-10-15 00:54:44.281708 X-ray: Hotel and Juliett, sending you 3
+2024-10-15 00:54:44.282308 Lima: Zulu, sending you 2
+2024-10-15 00:54:44.283715 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:44.286670 Papa: Same as last round
+2024-10-15 00:54:44.287676 Lima: Papa, sending you 1
+2024-10-15 00:54:44.288740 Juliett: X-ray, sending you 2
+2024-10-15 00:54:44.291689 Lima: Golf, sending you 3
+2024-10-15 00:54:44.297317 Golf: Zulu, sending you 4
+2024-10-15 00:54:44.301676 Golf: Papa, sending you 3
+2024-10-15 00:54:44.306680 Golf: Lima, sending you 6
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Mike round 10
+ChatterBot Zulu round 10
+ChatterBot Papa round 10
+ChatterBot Echo round 10
+ChatterBot Hotel round 10
+ChatterBot X-ray round 10
+ChatterBot Bravo round 10
+ChatterBot Juliett round 10
+ChatterBot Golf round 10
+2024-10-15 00:54:45.432305 Zulu: We should add Papa
+2024-10-15 00:54:45.449719 Lima: Yes
+2024-10-15 00:54:45.450153 Golf: Yes
+ChatterBot Lima round 10
+2024-10-15 00:54:45.535003 Zulu: Papa we want you to join our group
+2024-10-15 00:54:45.543704 Papa: No
+2024-10-15 00:54:45.575204 X-ray: We should drop Hotel
+2024-10-15 00:54:45.589674 Mike: No
+2024-10-15 00:54:45.590020 Juliett: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:45.619365 Lima: We should drop Papa
+2024-10-15 00:54:45.632589 Zulu: No
+2024-10-15 00:54:45.633047 Golf: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:45.656909 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:45.664005 Papa: Same as last round
+2024-10-15 00:54:45.670382 Hotel: Same as last round
+2024-10-15 00:54:45.674338 Golf: Zulu, sending you 4
+2024-10-15 00:54:45.676366 Echo: Zulu, Bravo, Golf and Lima, sending you 1
+2024-10-15 00:54:45.679044 Mike: Juliett, sending you 3
+2024-10-15 00:54:45.681110 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:45.681816 Bravo: Same as last round
+2024-10-15 00:54:45.682387 Golf: Papa, sending you 2
+2024-10-15 00:54:45.684704 X-ray: Mike, sending you 2
+2024-10-15 00:54:45.686975 Juliett: X-ray, sending you 2
+2024-10-15 00:54:45.688500 Golf: Lima, sending you 7
+2024-10-15 00:54:45.691678 X-ray: Hotel and Juliett, sending you 3
+2024-10-15 00:54:45.697953 Lima: Zulu and Golf, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Mike round 11
+ChatterBot Zulu round 11
+2024-10-15 00:54:46.676209 Zulu: We should add Papa
+2024-10-15 00:54:46.685047 Lima: Yes
+2024-10-15 00:54:46.685242 Golf: Yes
+ChatterBot Papa round 11
+ChatterBot Echo round 11
+ChatterBot Hotel round 11
+ChatterBot X-ray round 11
+ChatterBot Bravo round 11
+ChatterBot Juliett round 11
+ChatterBot Golf round 11
+ChatterBot Lima round 11
+2024-10-15 00:54:46.710133 Zulu: Papa we want you to join our group
+2024-10-15 00:54:46.715317 Papa: No
+2024-10-15 00:54:46.754526 Lima: We should drop Papa
+ChatterBot Golf reevaluating
+2024-10-15 00:54:46.761529 Zulu: No
+2024-10-15 00:54:46.761695 Golf: Yes
+ChatterBot Lima reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:46.779675 Papa: Same as last round
+2024-10-15 00:54:46.780684 Echo: Papa, sending you 2
+2024-10-15 00:54:46.781168 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:46.782042 Bravo: Same as last round
+2024-10-15 00:54:46.785667 Echo: Bravo, sending you 1
+2024-10-15 00:54:46.786508 Mike: Juliett, sending you 3
+2024-10-15 00:54:46.793671 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:46.794687 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:46.797671 Hotel: X-ray, sending you 1
+2024-10-15 00:54:46.798437 Juliett: X-ray, sending you 2
+2024-10-15 00:54:46.800665 X-ray: Mike, sending you 2
+2024-10-15 00:54:46.804671 X-ray: Hotel and Juliett, sending you 3
+2024-10-15 00:54:46.806822 Golf: Zulu, sending you 4
+2024-10-15 00:54:46.810677 Golf: Papa, sending you 2
+2024-10-15 00:54:46.814689 Golf: Lima, sending you 7
+2024-10-15 00:54:46.815680 Lima: Same as last round
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Mike round 12
+ChatterBot Zulu round 12
+ChatterBot Papa round 12
+ChatterBot Echo round 12
+ChatterBot Hotel round 12
+ChatterBot X-ray round 12
+ChatterBot Bravo round 12
+ChatterBot Juliett round 12
+ChatterBot Golf round 12
+ChatterBot Lima round 12
+2024-10-15 00:54:47.904251 Golf: We should replace Papa with Bravo
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:47.913298 Lima: No
+2024-10-15 00:54:47.913446 Zulu: No
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:54:47.939690 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:47.942017 Papa: Same as last round
+2024-10-15 00:54:47.943667 Mike: Juliett, sending you 3
+2024-10-15 00:54:47.949868 Bravo: Same as last round
+2024-10-15 00:54:47.952672 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:47.953675 Echo: Papa, sending you 2
+2024-10-15 00:54:47.955663 Hotel: X-ray, sending you 1
+2024-10-15 00:54:47.956663 X-ray: Mike and Juliett, sending you 3
+2024-10-15 00:54:47.957753 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:47.958395 Echo: Bravo, sending you 1
+2024-10-15 00:54:47.958863 Lima: Same as last round
+2024-10-15 00:54:47.960667 X-ray: Hotel, sending you 2
+2024-10-15 00:54:47.961197 Juliett: X-ray, sending you 2
+2024-10-15 00:54:47.962748 Golf: Zulu, sending you 4
+2024-10-15 00:54:47.966680 Golf: Echo and Bravo, sending you 2
+2024-10-15 00:54:47.971690 Golf: Lima, sending you 5
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Mike round 13
+ChatterBot Zulu round 13
+ChatterBot Papa round 13
+ChatterBot Echo round 13
+ChatterBot Hotel round 13
+ChatterBot X-ray round 13
+ChatterBot Bravo round 13
+ChatterBot Juliett round 13
+ChatterBot Golf round 13
+ChatterBot Lima round 13
+2024-10-15 00:54:49.165335 Lima: We should add Bravo
+ChatterBot Golf reevaluating
+2024-10-15 00:54:49.181663 Zulu: No
+2024-10-15 00:54:49.181919 Golf: Yes
+ChatterBot Lima reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:49.256675 Bravo: Same as last round
+2024-10-15 00:54:49.301014 Echo: Zulu, Bravo, Golf and Lima, sending you 1
+2024-10-15 00:54:49.302525 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:49.302999 X-ray: Mike and Juliett, sending you 3
+2024-10-15 00:54:49.304240 Golf: Zulu, sending you 5
+2024-10-15 00:54:49.304642 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:49.304986 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:49.305338 Papa: Same as last round
+2024-10-15 00:54:49.306215 Juliett: X-ray, sending you 2
+2024-10-15 00:54:49.315887 Golf: Papa, sending you 2
+2024-10-15 00:54:49.317065 Hotel: X-ray, sending you 1
+2024-10-15 00:54:49.317735 X-ray: Hotel, sending you 2
+2024-10-15 00:54:49.318898 Mike: Juliett, sending you 3
+2024-10-15 00:54:49.319443 Lima: Same as last round
+2024-10-15 00:54:49.330224 Golf: Lima, sending you 6
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Mike round 14
+ChatterBot Zulu round 14
+ChatterBot Papa round 14
+ChatterBot Echo round 14
+ChatterBot Hotel round 14
+ChatterBot X-ray round 14
+ChatterBot Bravo round 14
+ChatterBot Juliett round 14
+ChatterBot Golf round 14
+ChatterBot Lima round 14
+2024-10-15 00:54:50.342741 Bravo: We should add Golf
+2024-10-15 00:54:50.347367 Echo: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 00:54:50.362124 Golf: We should replace Papa with Bravo
+2024-10-15 00:54:50.376599 Lima: No
+2024-10-15 00:54:50.377329 Zulu: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:54:50.466963 Golf: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 00:54:50.476357 Bravo: No
+ChatterBot Golf reevaluating
+2024-10-15 00:54:50.506792 Lima: Same as last round
+2024-10-15 00:54:50.507704 Papa: Same as last round
+2024-10-15 00:54:50.508867 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:50.510396 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:50.511153 X-ray: Mike and Juliett, sending you 3
+2024-10-15 00:54:50.512382 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:50.517197 Mike: Juliett, sending you 3
+2024-10-15 00:54:50.518023 Hotel: X-ray, sending you 1
+2024-10-15 00:54:50.519289 X-ray: Hotel, sending you 2
+2024-10-15 00:54:50.520299 Echo: Zulu, Bravo, Golf and Lima, sending you 1
+2024-10-15 00:54:50.522307 Juliett: X-ray, sending you 2
+2024-10-15 00:54:50.533369 Golf: Zulu, sending you 4
+2024-10-15 00:54:50.543291 Bravo: Same as last round
+2024-10-15 00:54:50.543921 Golf: Echo and Bravo, sending you 2
+2024-10-15 00:54:50.549781 Golf: Lima, sending you 5
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Mike round 15
+ChatterBot Zulu round 15
+ChatterBot Papa round 15
+ChatterBot Echo round 15
+ChatterBot Hotel round 15
+ChatterBot X-ray round 15
+ChatterBot Bravo round 15
+ChatterBot Juliett round 15
+ChatterBot Golf round 15
+ChatterBot Lima round 15
+2024-10-15 00:54:51.626728 Echo: Papa, sending you 2
+2024-10-15 00:54:51.629191 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:51.630683 X-ray: Mike and Juliett, sending you 3
+2024-10-15 00:54:51.632203 Echo: Bravo, sending you 1
+2024-10-15 00:54:51.632760 Bravo: Same as last round
+2024-10-15 00:54:51.634686 Mike: Juliett, sending you 3
+2024-10-15 00:54:51.635522 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:51.637047 X-ray: Hotel, sending you 2
+2024-10-15 00:54:51.638005 Papa: Same as last round
+2024-10-15 00:54:51.638656 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:51.640155 Hotel: X-ray, sending you 1
+2024-10-15 00:54:51.641673 Lima: Same as last round
+2024-10-15 00:54:51.643153 Juliett: X-ray, sending you 2
+2024-10-15 00:54:51.645527 Golf: Zulu, sending you 4
+2024-10-15 00:54:51.648670 Golf: Echo, sending you 3
+2024-10-15 00:54:51.653120 Golf: Bravo, sending you 1
+2024-10-15 00:54:51.656676 Golf: Lima, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Mike round 16
+ChatterBot Zulu round 16
+ChatterBot Papa round 16
+ChatterBot Echo round 16
+ChatterBot Hotel round 16
+ChatterBot X-ray round 16
+ChatterBot Bravo round 16
+ChatterBot Juliett round 16
+ChatterBot Golf round 16
+ChatterBot Lima round 16
+2024-10-15 00:54:52.867109 Zulu: We should add Papa
+ChatterBot Golf reevaluating
+2024-10-15 00:54:52.882785 Lima: No
+2024-10-15 00:54:52.883336 Golf: No
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:52.953687 Bravo: We should add Golf
+2024-10-15 00:54:52.964868 Echo: No
+2024-10-15 00:54:52.981650 X-ray: We should drop Hotel
+2024-10-15 00:54:52.996971 Mike: No
+2024-10-15 00:54:52.997343 Juliett: No
+2024-10-15 00:54:53.027936 Bravo: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 00:54:53.036711 Golf: Yes
+2024-10-15 00:54:53.112721 Juliett: Mike and Hotel, sending you 3
+2024-10-15 00:54:53.114082 Echo: Papa, sending you 2
+2024-10-15 00:54:53.114594 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:53.115877 Lima: Same as last round
+2024-10-15 00:54:53.116990 Papa: Same as last round
+2024-10-15 00:54:53.142984 Echo: Bravo, sending you 1
+2024-10-15 00:54:53.143561 Juliett: X-ray, sending you 2
+2024-10-15 00:54:53.144778 Mike: Juliett, sending you 3
+2024-10-15 00:54:53.145806 X-ray: Sending you each 4
+2024-10-15 00:54:53.146304 Bravo: Echo, sending you 7
+chatterbot Papa submitting transactions
+2024-10-15 00:54:53.201651 Golf: Zulu, sending you 4
+2024-10-15 00:54:53.202271 Bravo: Golf, sending you 4
+2024-10-15 00:54:53.236478 Golf: Echo, sending you 3
+2024-10-15 00:54:53.248630 Golf: Lima, sending you 6
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Mike round 17
+ChatterBot Zulu round 17
+ChatterBot Papa round 17
+ChatterBot Echo round 17
+ChatterBot Hotel round 17
+ChatterBot X-ray round 17
+ChatterBot Bravo round 17
+ChatterBot Juliett round 17
+ChatterBot Golf round 17
+ChatterBot Lima round 17
+2024-10-15 00:54:54.111486 X-ray: We should replace Juliett with Hotel
+ChatterBot Mike reevaluating
+2024-10-15 00:54:54.116256 Mike: No
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:54.120920 Mike: We should add Papa
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:54.136763 Hotel: No
+2024-10-15 00:54:54.140988 Juliett: No
+2024-10-15 00:54:54.141798 X-ray: No
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:54.198183 Bravo: I was attacked by Hotel
+2024-10-15 00:54:54.198549 Bravo: I'm keeping this round to protect myself
+2024-10-15 00:54:54.198903 Bravo: Ow
+2024-10-15 00:54:54.202382 Golf: We should drop Bravo
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 00:54:54.222261 Zulu: Yes
+2024-10-15 00:54:54.222430 Lima: Yes
+2024-10-15 00:54:54.222568 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:54.277687 X-ray: Hotel we want you to join our group
+2024-10-15 00:54:54.283242 Hotel: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:54.294504 Juliett: We should drop Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:54.305427 X-ray: No
+2024-10-15 00:54:54.305631 Mike: No
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 00:54:54.330224 Mike: We should add Golf
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:54:54.348099 Hotel: No
+2024-10-15 00:54:54.348228 Juliett: No
+2024-10-15 00:54:54.348335 X-ray: No
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:54.404059 Hotel: Mike and Juliett, sending you 2
+2024-10-15 00:54:54.404806 Lima: Same as last round
+2024-10-15 00:54:54.405881 Papa: Same as last round
+2024-10-15 00:54:54.418703 Hotel: X-ray, sending you 1
+2024-10-15 00:54:54.435689 Echo: Sending you each 1
+2024-10-15 00:54:54.436638 Golf: Zulu, sending you 4
+2024-10-15 00:54:54.466856 Golf: Echo, sending you 3
+2024-10-15 00:54:54.468486 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:54.470296 Juliett: Mike, sending you 3
+2024-10-15 00:54:54.486583 Golf: Lima, sending you 6
+2024-10-15 00:54:54.488004 Mike: Juliett, sending you 3
+2024-10-15 00:54:54.489369 Juliett: X-ray, sending you 2
+2024-10-15 00:54:54.489695 X-ray: Sending you each 4
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 18
+ChatterBot Zulu round 18
+ChatterBot Papa round 18
+ChatterBot Echo round 18
+ChatterBot Hotel round 18
+ChatterBot X-ray round 18
+ChatterBot Bravo round 18
+ChatterBot Juliett round 18
+ChatterBot Golf round 18
+ChatterBot Lima round 18
+2024-10-15 00:54:55.594227 Juliett: We should replace Mike with Hotel
+2024-10-15 00:54:55.601138 X-ray: No
+ChatterBot Juliett reevaluating
+2024-10-15 00:54:55.653060 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:55.654777 Echo: Same as last round
+2024-10-15 00:54:55.670539 Mike: Juliett, sending you 3
+2024-10-15 00:54:55.672362 Papa: Same as last round
+2024-10-15 00:54:55.673041 X-ray: Same as last round
+2024-10-15 00:54:56.143780 Juliett: Mike, sending you 3
+2024-10-15 00:54:56.144610 Lima: Same as last round
+2024-10-15 00:54:56.145926 Golf: Zulu, sending you 4
+2024-10-15 00:54:56.191519 Juliett: X-ray, sending you 2
+2024-10-15 00:54:56.197796 Golf: Echo, sending you 3
+2024-10-15 00:54:56.202721 Golf: Lima, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Mike round 19
+ChatterBot Zulu round 19
+ChatterBot Papa round 19
+ChatterBot Echo round 19
+ChatterBot Hotel round 19
+ChatterBot X-ray round 19
+ChatterBot Bravo round 19
+ChatterBot Juliett round 19
+ChatterBot Golf round 19
+ChatterBot Lima round 19
+2024-10-15 00:54:57.090150 Zulu: We should add Echo
+ChatterBot Lima reevaluating
+2024-10-15 00:54:57.104867 Lima: Yes
+2024-10-15 00:54:57.105027 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:57.159690 Zulu: Echo we want you to join our group
+2024-10-15 00:54:57.168116 Echo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:57.202841 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:57.204299 Golf: I was attacked by Hotel
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 00:54:57.227463 Golf: Ow
+2024-10-15 00:54:57.229645 Mike: Juliett, sending you 3
+2024-10-15 00:54:57.230280 Juliett: Mike, sending you 3
+2024-10-15 00:54:57.230696 X-ray: Mike, sending you 5
+2024-10-15 00:54:57.231638 Hotel: Mike, sending you 2
+2024-10-15 00:54:57.232419 Papa: Same as last round
+2024-10-15 00:54:57.233869 Juliett: X-ray, sending you 2
+2024-10-15 00:54:57.238315 Hotel: X-ray and Juliett, sending you 1
+2024-10-15 00:54:57.239916 X-ray: Hotel, sending you 3
+2024-10-15 00:54:57.241040 Lima: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-15 00:54:57.251119 Echo: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:54:57.292778 Echo: Sorry, I'm actually sending you 0
+2024-10-15 00:54:57.293901 Echo: Sorry, I'm actually sending you 0
+2024-10-15 00:54:57.295937 Echo: Sorry, I'm actually sending you 0
+2024-10-15 00:54:57.299688 Lima: Zulu and Golf, sending you 2
+2024-10-15 00:54:57.302166 Echo: Sending you 2
+2024-10-15 00:54:57.304686 Lima: Echo, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Mike round 20
+ChatterBot Zulu round 20
+ChatterBot Papa round 20
+ChatterBot Echo round 20
+ChatterBot Hotel round 20
+ChatterBot X-ray round 20
+ChatterBot Bravo round 20
+ChatterBot Juliett round 20
+ChatterBot Golf round 20
+ChatterBot Lima round 20
+2024-10-15 00:54:58.336050 Juliett: We should replace X-ray with Hotel
+ChatterBot Mike reevaluating
+2024-10-15 00:54:58.346906 Mike: No
+ChatterBot Juliett reevaluating
+2024-10-15 00:54:58.357373 Mike: We should add Echo
+ChatterBot Juliett reevaluating
+2024-10-15 00:54:58.387895 Hotel: No
+2024-10-15 00:54:58.388133 Juliett: No
+2024-10-15 00:54:58.388306 X-ray: No
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:58.481753 Zulu: We should add Echo
+2024-10-15 00:54:58.501769 Lima: Yes
+2024-10-15 00:54:58.502900 Golf: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:58.617340 Juliett: Hotel we want you to join our group
+2024-10-15 00:54:58.627410 Hotel: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:58.645116 Zulu: Echo we want you to join our group
+2024-10-15 00:54:58.655150 Echo: Yes
+ChatterBot Zulu reevaluating
+2024-10-15 00:54:58.682595 Hotel: I was attacked by Golf
+ChatterBot Juliett reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:54:58.705755 Hotel: Ow
+2024-10-15 00:54:58.707496 Papa: Same as last round
+2024-10-15 00:54:58.708732 Echo: Zulu, sending you 2
+2024-10-15 00:54:58.726755 Lima: Zulu, sending you 3
+2024-10-15 00:54:58.728538 Echo: Lima, sending you 1
+2024-10-15 00:54:58.734272 Lima: Echo, sending you 1
+2024-10-15 00:54:58.740656 Lima: Golf, sending you 2
+2024-10-15 00:54:58.767655 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:54:58.769621 Juliett: Mike, sending you 3
+2024-10-15 00:54:58.773924 Mike: Juliett, sending you 3
+2024-10-15 00:54:58.775784 Juliett: Hotel, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Mike round 21
+ChatterBot Zulu round 21
+ChatterBot Papa round 21
+ChatterBot Echo round 21
+ChatterBot Hotel round 21
+ChatterBot X-ray round 21
+ChatterBot Bravo round 21
+ChatterBot Juliett round 21
+ChatterBot Golf round 21
+ChatterBot Lima round 21
+2024-10-15 00:54:59.971563 Zulu: We should replace Golf with Echo
+ChatterBot Lima reevaluating
+2024-10-15 00:54:59.985527 Lima: Yes
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:00.019867 Echo: We should drop Golf
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:00.045207 Zulu: Yes
+2024-10-15 00:55:00.045464 Lima: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:00.090542 Golf: I was attacked by Hotel
+2024-10-15 00:55:00.091419 Golf: I'm keeping this round to protect myself
+2024-10-15 00:55:00.092505 Golf: Ow
+2024-10-15 00:55:00.093364 Mike: Hotel, sending you 1
+2024-10-15 00:55:00.095569 Hotel: Sending you each 1
+2024-10-15 00:55:00.097593 Zulu: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-15 00:55:00.108642 Echo: Yes
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:00.137929 Papa: Same as last round
+2024-10-15 00:55:00.138973 Juliett: Mike, sending you 3
+2024-10-15 00:55:00.141087 Mike: X-ray and Juliett, sending you 3
+2024-10-15 00:55:00.143901 Juliett: Hotel, sending you 5
+2024-10-15 00:55:00.151651 Lima: Zulu, sending you 4
+2024-10-15 00:55:00.157893 Lima: Echo, sending you 2
+2024-10-15 00:55:00.214863 Echo: Sending you each 2
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Mike round 22
+ChatterBot Zulu round 22
+ChatterBot Papa round 22
+ChatterBot Echo round 22
+ChatterBot Hotel round 22
+ChatterBot X-ray round 22
+ChatterBot Bravo round 22
+ChatterBot Juliett round 22
+ChatterBot Golf round 22
+ChatterBot Lima round 22
+2024-10-15 00:55:01.292370 Echo: We should add Papa
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:55:01.309349 Zulu: No
+2024-10-15 00:55:01.309508 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:01.427989 Echo: Papa we want you to join our group
+2024-10-15 00:55:01.439707 Papa: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:55:01.518558 Papa: Same as last round
+2024-10-15 00:55:01.555725 Hotel: Same as last round
+2024-10-15 00:55:01.557818 Echo: Zulu and Papa, sending you 2
+2024-10-15 00:55:01.559694 Mike: Hotel, sending you 1
+2024-10-15 00:55:01.561513 Juliett: Mike, sending you 3
+2024-10-15 00:55:01.589536 Echo: Lima, sending you 1
+2024-10-15 00:55:01.590328 Mike: X-ray and Juliett, sending you 3
+2024-10-15 00:55:01.591701 Lima: Zulu, sending you 4
+2024-10-15 00:55:01.592222 Juliett: Hotel, sending you 5
+2024-10-15 00:55:01.614942 Lima: Echo, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Mike round 23
+ChatterBot Zulu round 23
+ChatterBot Papa round 23
+ChatterBot Echo round 23
+ChatterBot Hotel round 23
+ChatterBot X-ray round 23
+ChatterBot Bravo round 23
+ChatterBot Juliett round 23
+ChatterBot Golf round 23
+ChatterBot Lima round 23
+2024-10-15 00:55:02.735328 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:02.742869 Lima: Yes
+2024-10-15 00:55:02.788603 Zulu: Echo we want you to join our group
+2024-10-15 00:55:02.796439 Echo: Yes
+2024-10-15 00:55:02.812922 Papa: Same as last round
+2024-10-15 00:55:02.813464 Mike: Hotel, sending you 1
+2024-10-15 00:55:02.814361 Hotel: Same as last round
+2024-10-15 00:55:02.816663 Mike: X-ray and Juliett, sending you 3
+2024-10-15 00:55:02.825673 Echo: Zulu and Papa, sending you 2
+2024-10-15 00:55:02.827665 Juliett: Mike, sending you 4
+2024-10-15 00:55:02.829652 Lima: Zulu, sending you 4
+2024-10-15 00:55:02.830750 Echo: Lima, sending you 1
+2024-10-15 00:55:02.831684 Juliett: Hotel, sending you 5
+2024-10-15 00:55:02.834660 Lima: Echo, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 24
+ChatterBot Zulu round 24
+ChatterBot Papa round 24
+ChatterBot Echo round 24
+ChatterBot Hotel round 24
+ChatterBot X-ray round 24
+ChatterBot Bravo round 24
+ChatterBot Juliett round 24
+ChatterBot Golf round 24
+ChatterBot Lima round 24
+2024-10-15 00:55:04.121847 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:04.132897 Lima: Yes
+2024-10-15 00:55:04.237795 Zulu: Echo we want you to join our group
+2024-10-15 00:55:04.248938 Echo: Yes
+2024-10-15 00:55:04.410434 Echo: Zulu and Lima, sending you 2
+2024-10-15 00:55:04.412533 Mike: Hotel, sending you 1
+2024-10-15 00:55:04.414433 Juliett: Mike, sending you 4
+2024-10-15 00:55:04.415292 Papa: Same as last round
+2024-10-15 00:55:04.416480 Lima: Zulu, sending you 4
+2024-10-15 00:55:04.417675 Hotel: Same as last round
+2024-10-15 00:55:04.419463 Echo: Papa, sending you 1
+2024-10-15 00:55:04.421430 Juliett: Hotel, sending you 5
+2024-10-15 00:55:04.422724 Mike: X-ray and Juliett, sending you 3
+2024-10-15 00:55:04.424630 Lima: Echo, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Mike round 25
+ChatterBot Zulu round 25
+ChatterBot Papa round 25
+ChatterBot Echo round 25
+ChatterBot Hotel round 25
+ChatterBot X-ray round 25
+ChatterBot Bravo round 25
+ChatterBot Juliett round 25
+ChatterBot Golf round 25
+ChatterBot Lima round 25
+2024-10-15 00:55:05.524973 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:05.535186 Lima: Yes
+2024-10-15 00:55:05.621710 Zulu: Echo we want you to join our group
+2024-10-15 00:55:05.632888 Echo: Yes
+2024-10-15 00:55:05.700124 Mike: Hotel, sending you 1
+2024-10-15 00:55:05.719603 Juliett: Mike, sending you 4
+2024-10-15 00:55:05.752623 Mike: X-ray and Juliett, sending you 3
+2024-10-15 00:55:05.755951 Echo: Zulu and Lima, sending you 2
+2024-10-15 00:55:05.758572 Hotel: Same as last round
+2024-10-15 00:55:05.760568 Papa: Same as last round
+2024-10-15 00:55:05.761134 Lima: Zulu, sending you 4
+2024-10-15 00:55:05.762850 Juliett: Hotel, sending you 5
+2024-10-15 00:55:05.765021 Echo: Papa, sending you 1
+2024-10-15 00:55:05.786350 Lima: Echo, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Mike round 26
+ChatterBot Zulu round 26
+ChatterBot Papa round 26
+ChatterBot Echo round 26
+ChatterBot Hotel round 26
+ChatterBot X-ray round 26
+ChatterBot Bravo round 26
+ChatterBot Juliett round 26
+ChatterBot Golf round 26
+ChatterBot Lima round 26
+2024-10-15 00:55:06.936728 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:06.941508 Lima: Yes
+2024-10-15 00:55:06.963281 Zulu: Echo we want you to join our group
+2024-10-15 00:55:06.970421 Echo: Yes
+2024-10-15 00:55:06.984673 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:55:06.988224 Hotel: Same as last round
+2024-10-15 00:55:06.991663 Echo: Zulu and Lima, sending you 2
+2024-10-15 00:55:06.994576 Juliett: Mike, sending you 4
+2024-10-15 00:55:06.996461 Mike: Juliett, sending you 3
+2024-10-15 00:55:06.999032 Echo: Papa, sending you 1
+2024-10-15 00:55:07.001910 Papa: Same as last round
+2024-10-15 00:55:07.003074 Lima: Sending you each 3
+2024-10-15 00:55:07.005647 Juliett: Hotel, sending you 5
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Mike round 27
+ChatterBot Zulu round 27
+ChatterBot Papa round 27
+ChatterBot Echo round 27
+ChatterBot Hotel round 27
+ChatterBot X-ray round 27
+ChatterBot Bravo round 27
+ChatterBot Juliett round 27
+ChatterBot Golf round 27
+ChatterBot Lima round 27
+2024-10-15 00:55:08.303382 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:08.310014 Lima: Yes
+2024-10-15 00:55:08.330339 Zulu: Echo we want you to join our group
+2024-10-15 00:55:08.338858 Echo: Yes
+2024-10-15 00:55:08.374263 Echo: Zulu and Lima, sending you 2
+2024-10-15 00:55:08.376451 Lima: Same as last round
+2024-10-15 00:55:08.378195 Papa: Same as last round
+2024-10-15 00:55:08.379482 Mike: Hotel, sending you 1
+2024-10-15 00:55:08.381784 Juliett: Mike, sending you 4
+2024-10-15 00:55:08.383009 Echo: Papa, sending you 1
+2024-10-15 00:55:08.385284 Mike: X-ray and Juliett, sending you 3
+2024-10-15 00:55:08.406396 Juliett: Hotel, sending you 5
+2024-10-15 00:55:08.408444 Hotel: Same as last round
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Mike round 28
+ChatterBot Zulu round 28
+ChatterBot Papa round 28
+ChatterBot Echo round 28
+ChatterBot Hotel round 28
+ChatterBot X-ray round 28
+ChatterBot Bravo round 28
+ChatterBot Juliett round 28
+ChatterBot Golf round 28
+ChatterBot Lima round 28
+2024-10-15 00:55:09.507892 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:09.514381 Lima: Yes
+2024-10-15 00:55:09.538863 Mike: We should add Papa
+ChatterBot X-ray reevaluating
+2024-10-15 00:55:09.604682 Hotel: No
+2024-10-15 00:55:09.604930 Juliett: No
+2024-10-15 00:55:09.606497 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 00:55:09.822830 Juliett: We should replace Hotel with X-ray
+ChatterBot Mike reevaluating
+2024-10-15 00:55:09.833124 Mike: No
+ChatterBot Juliett reevaluating
+2024-10-15 00:55:09.859538 Zulu: Echo we want you to join our group
+2024-10-15 00:55:09.868426 Echo: Yes
+2024-10-15 00:55:09.914750 Hotel: Same as last round
+2024-10-15 00:55:09.917352 Papa: Same as last round
+2024-10-15 00:55:09.960894 Lima: Same as last round
+2024-10-15 00:55:09.964017 Echo: Zulu and Lima, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-15 00:55:09.974271 Juliett: Mike, sending you 4
+2024-10-15 00:55:09.975978 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:55:09.977997 Echo: Papa, sending you 1
+2024-10-15 00:55:09.980592 Juliett: Hotel, sending you 5
+2024-10-15 00:55:09.982793 Mike: Juliett, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Mike round 29
+ChatterBot Zulu round 29
+ChatterBot Papa round 29
+ChatterBot Echo round 29
+ChatterBot Hotel round 29
+ChatterBot X-ray round 29
+ChatterBot Bravo round 29
+ChatterBot Juliett round 29
+ChatterBot Golf round 29
+ChatterBot Lima round 29
+2024-10-15 00:55:11.067681 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:11.071782 Lima: Yes
+2024-10-15 00:55:11.229145 X-ray: We should replace Hotel with Juliett
+2024-10-15 00:55:11.264846 Mike: No
+2024-10-15 00:55:11.330575 Zulu: Echo we want you to join our group
+2024-10-15 00:55:11.339039 Echo: Yes
+2024-10-15 00:55:11.350077 X-ray: Juliett we want you to join our group
+2024-10-15 00:55:11.355548 Juliett: No
+ChatterBot X-ray reevaluating
+2024-10-15 00:55:11.368673 Papa: Same as last round
+2024-10-15 00:55:11.381421 Echo: Zulu and Lima, sending you 2
+2024-10-15 00:55:11.384560 Juliett: Mike, sending you 4
+2024-10-15 00:55:11.386623 Lima: Same as last round
+2024-10-15 00:55:11.389927 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:55:11.394293 Echo: Papa, sending you 1
+2024-10-15 00:55:11.397113 Juliett: Hotel, sending you 5
+2024-10-15 00:55:11.398788 Hotel: Same as last round
+2024-10-15 00:55:11.402185 Mike: Juliett, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Mike round 30
+ChatterBot Zulu round 30
+ChatterBot Papa round 30
+ChatterBot Echo round 30
+ChatterBot Hotel round 30
+ChatterBot X-ray round 30
+ChatterBot Bravo round 30
+ChatterBot Juliett round 30
+ChatterBot Golf round 30
+ChatterBot Lima round 30
+2024-10-15 00:55:12.465131 Zulu: We should replace Golf with Echo
+2024-10-15 00:55:12.473932 Lima: Yes
+2024-10-15 00:55:12.730116 Juliett: We should replace Hotel with X-ray
+2024-10-15 00:55:12.738473 Mike: No
+ChatterBot Juliett reevaluating
+2024-10-15 00:55:12.773245 Zulu: Echo we want you to join our group
+2024-10-15 00:55:12.781407 Echo: Yes
+2024-10-15 00:55:12.827011 Echo: Zulu and Lima, sending you 2
+2024-10-15 00:55:12.830865 Lima: Same as last round
+2024-10-15 00:55:12.833348 Hotel: Same as last round
+2024-10-15 00:55:12.836321 Papa: Same as last round
+2024-10-15 00:55:12.837811 Mike: Hotel and X-ray, sending you 2
+2024-10-15 00:55:12.840469 Echo: Papa, sending you 1
+2024-10-15 00:55:12.857733 Mike: Juliett, sending you 3
+2024-10-15 00:55:12.861275 Juliett: Mike, sending you 4
+2024-10-15 00:55:12.870058 Juliett: Hotel, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions

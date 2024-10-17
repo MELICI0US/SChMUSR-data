@@ -1,0 +1,1565 @@
+ChatterBot Alpha round 1
+ChatterBot X-ray round 1
+ChatterBot Romeo round 1
+ChatterBot Yankee round 1
+ChatterBot November round 1
+ChatterBot Lima round 1
+ChatterBot Hotel round 1
+ChatterBot Golf round 1
+ChatterBot Zulu round 1
+ChatterBot Bravo round 1
+randomSelections Alpha: {Alpha, Golf, November, Zulu, Bravo} 
+2024-10-15 00:58:52.232524 Alpha: We should group up
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:58:52.246111 Golf: Yes
+2024-10-15 00:58:52.246236 November: Yes
+2024-10-15 00:58:52.246353 Zulu: Yes
+2024-10-15 00:58:52.246473 Bravo: Yes
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Yankee: {Yankee, Golf, Alpha} 
+2024-10-15 00:58:52.277004 Yankee: Group up?
+ChatterBot Golf reevaluating
+2024-10-15 00:58:52.280825 Golf: No
+2024-10-15 00:58:52.280988 Alpha: No
+ChatterBot Golf reevaluating
+randomSelections Hotel: {Hotel} 
+randomSelections X-ray: {X-ray, November, Alpha, Hotel, Yankee, Lima, Zulu, Bravo} 
+2024-10-15 00:58:52.291676 X-ray: Friends?
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:58:52.301685 November: No
+2024-10-15 00:58:52.302219 Alpha: No
+2024-10-15 00:58:52.302325 Hotel: No
+2024-10-15 00:58:52.302420 Yankee: No
+2024-10-15 00:58:52.302524 Lima: Yes
+2024-10-15 00:58:52.302625 Zulu: No
+2024-10-15 00:58:52.302725 Bravo: No
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Romeo: {Romeo, Lima, Bravo, Hotel, November, Alpha} 
+2024-10-15 00:58:52.503427 Romeo: Group up?
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:58:52.515769 Lima: No
+2024-10-15 00:58:52.516047 Bravo: No
+2024-10-15 00:58:52.516287 Hotel: No
+2024-10-15 00:58:52.517275 November: No
+2024-10-15 00:58:52.517794 Alpha: No
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:58:52.614713 Romeo: Alpha and November, sending you 3
+2024-10-15 00:58:52.616894 X-ray: Yankee, Zulu and Bravo, sending you 1
+2024-10-15 00:58:52.618551 Yankee: Alpha, sending you 2
+2024-10-15 00:58:52.619610 November: Alpha, sending you 3
+2024-10-15 00:58:52.621571 Romeo: Lima, sending you 2
+2024-10-15 00:58:52.622959 Alpha: Golf and Zulu, sending you 2
+2024-10-15 00:58:52.623735 Zulu: Alpha, sending you 4
+2024-10-15 00:58:52.625312 X-ray: Lima and Hotel, sending you 2
+2024-10-15 00:58:52.627089 Yankee: Golf, sending you 4
+2024-10-15 00:58:52.627628 Lima: Alpha, X-ray, Yankee and Zulu, sending you 1
+2024-10-15 00:58:52.629033 November: Zulu, sending you 2
+2024-10-15 00:58:52.629674 Golf: Alpha and November, sending you 2
+2024-10-15 00:58:52.631529 Alpha: Bravo, sending you 1
+2024-10-15 00:58:52.632714 Zulu: November, sending you 2
+2024-10-15 00:58:52.633383 Lima: November and Hotel, sending you 2
+2024-10-15 00:58:52.634662 November: Bravo, sending you 4
+2024-10-15 00:58:52.635462 Golf: Zulu and Bravo, sending you 1
+2024-10-15 00:58:52.637035 Bravo: Alpha and Golf, sending you 5
+2024-10-15 00:58:52.638440 Zulu: Golf, sending you 1
+2024-10-15 00:58:52.642285 Bravo: November and Zulu, sending you 1
+2024-10-15 00:58:52.643068 Zulu: Bravo, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 2
+ChatterBot X-ray round 2
+ChatterBot Romeo round 2
+ChatterBot Yankee round 2
+ChatterBot November round 2
+ChatterBot Lima round 2
+ChatterBot Hotel round 2
+2024-10-15 00:58:53.804119 X-ray: Group up?
+ChatterBot Lima reevaluating
+2024-10-15 00:58:53.814067 Lima: Yes
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:53.824277 Lima: We should group up
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:53.841255 X-ray: Yes
+2024-10-15 00:58:53.841456 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:53.874630 Romeo: We should group up
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:53.890498 Lima: Yes
+2024-10-15 00:58:53.890663 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf round 2
+ChatterBot Zulu round 2
+ChatterBot Bravo round 2
+2024-10-15 00:58:53.951350 Yankee: We should group up
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:58:53.963938 X-ray: No
+2024-10-15 00:58:53.964078 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:54.000 Golf: We should add Yankee
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:58:54.026029 Alpha: No
+2024-10-15 00:58:54.026202 November: No
+2024-10-15 00:58:54.026323 Zulu: No
+2024-10-15 00:58:54.026436 Bravo: No
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:58:54.154066 Golf: We should add Romeo
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:58:54.200071 Alpha: No
+2024-10-15 00:58:54.200262 November: Yes
+2024-10-15 00:58:54.200421 Zulu: No
+2024-10-15 00:58:54.200576 Bravo: Yes
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:58:54.384212 Bravo: We should add X-ray and Lima
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:58:54.429190 Alpha: No
+2024-10-15 00:58:54.429400 Golf: No
+2024-10-15 00:58:54.429576 November: No
+2024-10-15 00:58:54.429762 Zulu: No
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:58:54.830066 Hotel: Sending you each 2
+2024-10-15 00:58:54.830717 X-ray: Romeo, sending you 2
+2024-10-15 00:58:54.830919 Yankee: Sending you each 3
+2024-10-15 00:58:54.831113 Zulu: Alpha and November, sending you 3
+2024-10-15 00:58:54.831825 Alpha: November, Golf and Zulu, sending you 2
+2024-10-15 00:58:54.832132 Romeo: Sending you each 6
+2024-10-15 00:58:54.832356 Lima: X-ray, sending you 3
+2024-10-15 00:58:54.833086 Golf: Romeo we want you to join our group
+2024-10-15 00:58:54.838960 Romeo: No
+ChatterBot Golf reevaluating
+2024-10-15 00:58:54.873968 November: Romeo we want you to join our group
+2024-10-15 00:58:54.885347 Romeo: No
+ChatterBot Golf reevaluating
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 00:58:54.944723 Zulu: Golf and Bravo, sending you 2
+2024-10-15 00:58:54.945663 Lima: Romeo, sending you 2
+2024-10-15 00:58:54.946006 X-ray: Lima, sending you 5
+2024-10-15 00:58:54.946370 Alpha: Bravo, sending you 3
+chatterbot Hotel submitting transactions
+2024-10-15 00:58:55.140801 Bravo: Alpha and Golf, sending you 2
+2024-10-15 00:58:55.141932 Golf: Yankee we want you to join our group
+2024-10-15 00:58:55.148135 Yankee: No
+ChatterBot November reevaluating
+2024-10-15 00:58:55.183138 Bravo: November, sending you 5
+2024-10-15 00:58:55.197071 Bravo: Zulu, sending you 3
+2024-10-15 00:58:55.207872 Golf: Alpha, Yankee, Zulu and Bravo, sending you 2
+2024-10-15 00:58:55.216863 November: Alpha, sending you 1
+2024-10-15 00:58:55.223901 November: Golf and Zulu, sending you 3
+2024-10-15 00:58:55.233628 November: Bravo, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 3
+ChatterBot X-ray round 3
+ChatterBot Romeo round 3
+ChatterBot Yankee round 3
+ChatterBot November round 3
+ChatterBot Lima round 3
+ChatterBot Hotel round 3
+ChatterBot Golf round 3
+ChatterBot Zulu round 3
+ChatterBot Bravo round 3
+2024-10-15 00:58:55.728859 Romeo: We should add Hotel
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:55.743808 Lima: No
+2024-10-15 00:58:55.744002 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:55.773275 X-ray: We should add Yankee
+2024-10-15 00:58:55.773601 Lima: We should add Yankee
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:55.787757 Lima: No
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:55.794398 Romeo: Yes
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:55.802295 X-ray: Yes
+2024-10-15 00:58:55.802477 Romeo: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 00:58:55.874226 Yankee: We should add Romeo
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:58:55.883284 X-ray: Yes
+2024-10-15 00:58:55.883442 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+chatterbot November submitting transactions
+2024-10-15 00:58:55.918773 Yankee: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:55.923882 Romeo: Yes
+ChatterBot Lima reevaluating
+2024-10-15 00:58:55.935259 X-ray: Yankee we want you to join our group
+2024-10-15 00:58:55.939318 Yankee: Yes
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:55.951275 Lima: Yankee we want you to join our group
+2024-10-15 00:58:55.955277 Yankee: Yes
+ChatterBot Lima reevaluating
+2024-10-15 00:58:55.967438 Alpha: November and Golf, sending you 2
+2024-10-15 00:58:55.967843 Zulu: Alpha and November, sending you 3
+2024-10-15 00:58:55.968559 Romeo: Yankee we want you to join our group
+2024-10-15 00:58:55.972123 Yankee: Yes
+2024-10-15 00:58:55.984064 Golf: Alpha, Yankee, November and Bravo, sending you 2
+2024-10-15 00:58:55.985033 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:58:55.985356 Zulu: Golf and Bravo, sending you 2
+2024-10-15 00:58:55.985640 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:58:56.005990 Yankee: Sending you each 2
+2024-10-15 00:58:56.006434 November: Bravo, sending you 3
+2024-10-15 00:58:56.007364 Bravo: Sending you each 3
+2024-10-15 00:58:56.007824 X-ray: Romeo, sending you 3
+2024-10-15 00:58:56.044820 Romeo: X-ray and Lima, sending you 5
+2024-10-15 00:58:56.045201 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:58:56.045490 Lima: Sending you each 2
+2024-10-15 00:58:56.073268 Romeo: Yankee, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 4
+ChatterBot X-ray round 4
+ChatterBot Romeo round 4
+ChatterBot Yankee round 4
+ChatterBot November round 4
+ChatterBot Lima round 4
+ChatterBot Hotel round 4
+ChatterBot Golf round 4
+ChatterBot Zulu round 4
+ChatterBot Bravo round 4
+2024-10-15 00:58:57.460841 Romeo: We should add Hotel
+ChatterBot Lima reevaluating
+2024-10-15 00:58:57.523690 Yankee: No
+2024-10-15 00:58:57.525349 X-ray: No
+2024-10-15 00:58:57.525538 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:57.645446 Lima: We should add Yankee
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:57.654424 X-ray: Yes
+2024-10-15 00:58:57.654605 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 00:58:57.685730 Yankee: We should drop Lima
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:57.698968 X-ray: No
+2024-10-15 00:58:57.699303 Romeo: No
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:57.728184 Golf: We should replace Yankee with Hotel
+2024-10-15 00:58:57.743395 Alpha: No
+2024-10-15 00:58:57.744219 November: No
+2024-10-15 00:58:57.744628 Zulu: No
+2024-10-15 00:58:57.744830 Bravo: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:58:57.809093 X-ray: Romeo, sending you 3
+2024-10-15 00:58:57.810797 Alpha: November and Golf, sending you 2
+2024-10-15 00:58:57.814716 Golf: Hotel we want you to join our group
+2024-10-15 00:58:57.818204 Hotel: No
+ChatterBot Golf reevaluating
+2024-10-15 00:58:57.838693 Lima: Yankee we want you to join our group
+2024-10-15 00:58:57.843478 Yankee: No
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:57.858230 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:58:57.858961 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:58:57.862681 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:58:57.863707 Bravo: Same as last round
+2024-10-15 00:58:57.864896 Zulu: Alpha, November and Bravo, sending you 3
+2024-10-15 00:58:57.866430 Yankee: Sending you each 3
+2024-10-15 00:58:57.867171 Romeo: Hotel we want you to join our group
+2024-10-15 00:58:57.874244 Hotel: No
+ChatterBot Romeo reevaluating
+2024-10-15 00:58:57.900575 November: Bravo, sending you 3
+2024-10-15 00:58:57.902420 Zulu: Golf, sending you 1
+2024-10-15 00:58:57.907741 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:58:57.911430 Lima: Sending you each 2
+2024-10-15 00:58:57.926699 Romeo: X-ray, sending you 5
+2024-10-15 00:58:57.936696 Romeo: Yankee, sending you 3
+2024-10-15 00:58:57.943917 Romeo: Lima, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 5
+ChatterBot X-ray round 5
+ChatterBot Romeo round 5
+ChatterBot Yankee round 5
+ChatterBot November round 5
+ChatterBot Lima round 5
+ChatterBot Hotel round 5
+ChatterBot Golf round 5
+ChatterBot Zulu round 5
+ChatterBot Bravo round 5
+2024-10-15 00:58:58.983684 Romeo: X-ray, sending you 5
+2024-10-15 00:58:58.985680 X-ray: Romeo, sending you 3
+2024-10-15 00:58:58.987669 Alpha: November and Golf, sending you 2
+2024-10-15 00:58:58.988738 Romeo: Yankee, sending you 3
+2024-10-15 00:58:58.991043 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:58:58.993065 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:58:58.993701 Romeo: Lima, sending you 4
+2024-10-15 00:58:58.995685 Lima: Same as last round
+2024-10-15 00:58:58.996669 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:58:58.997710 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:58:58.998687 Yankee: Same as last round
+2024-10-15 00:58:58.998993 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:58:59.001662 November: Bravo, sending you 3
+2024-10-15 00:58:59.002695 Zulu: November and Golf, sending you 2
+2024-10-15 00:58:59.004711 Bravo: Same as last round
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 6
+ChatterBot X-ray round 6
+ChatterBot Romeo round 6
+ChatterBot Yankee round 6
+ChatterBot November round 6
+ChatterBot Lima round 6
+ChatterBot Hotel round 6
+ChatterBot Golf round 6
+ChatterBot Zulu round 6
+ChatterBot Bravo round 6
+2024-10-15 00:59:00.256705 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:00.258674 X-ray: Romeo, sending you 3
+2024-10-15 00:59:00.260681 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:00.262146 Romeo: Sending you each 4
+2024-10-15 00:59:00.262518 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:00.262869 Yankee: Same as last round
+2024-10-15 00:59:00.269039 Bravo: Same as last round
+2024-10-15 00:59:00.270677 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:00.272731 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:00.273732 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:00.274734 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:00.275274 Lima: X-ray, sending you 3
+2024-10-15 00:59:00.277010 November: Bravo, sending you 3
+2024-10-15 00:59:00.280678 Lima: Romeo and Yankee, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 7
+ChatterBot X-ray round 7
+ChatterBot Romeo round 7
+ChatterBot Yankee round 7
+ChatterBot November round 7
+ChatterBot Lima round 7
+ChatterBot Hotel round 7
+ChatterBot Golf round 7
+ChatterBot Zulu round 7
+ChatterBot Bravo round 7
+2024-10-15 00:59:01.498690 X-ray: Romeo, sending you 3
+2024-10-15 00:59:01.499171 Romeo: Same as last round
+2024-10-15 00:59:01.501665 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:01.506656 Lima: X-ray, sending you 3
+2024-10-15 00:59:01.507674 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:01.508702 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:01.510719 Yankee: Same as last round
+2024-10-15 00:59:01.511243 Lima: Romeo, sending you 2
+2024-10-15 00:59:01.512713 November: Bravo, sending you 3
+2024-10-15 00:59:01.513869 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:01.515659 Lima: Yankee, sending you 1
+2024-10-15 00:59:01.518715 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:01.519692 Bravo: Same as last round
+2024-10-15 00:59:01.521671 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:01.525682 Zulu: November and Golf, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 8
+ChatterBot X-ray round 8
+ChatterBot Romeo round 8
+ChatterBot Yankee round 8
+ChatterBot November round 8
+ChatterBot Lima round 8
+2024-10-15 00:59:02.741144 Yankee: We should replace X-ray with Lima
+2024-10-15 00:59:02.746011 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Hotel round 8
+ChatterBot Golf round 8
+ChatterBot Zulu round 8
+ChatterBot Bravo round 8
+2024-10-15 00:59:02.811233 Lima: X-ray, sending you 3
+2024-10-15 00:59:02.811840 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:02.813666 X-ray: Romeo, sending you 3
+2024-10-15 00:59:02.815687 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:02.817250 Lima: Romeo, sending you 2
+2024-10-15 00:59:02.817780 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:02.821155 Romeo: Same as last round
+2024-10-15 00:59:02.821698 Lima: Yankee, sending you 1
+2024-10-15 00:59:02.822878 Yankee: Same as last round
+2024-10-15 00:59:02.823137 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:02.827014 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:02.829074 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:02.829683 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:02.833696 November: Bravo, sending you 3
+2024-10-15 00:59:02.839960 Bravo: Same as last round
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 9
+ChatterBot X-ray round 9
+ChatterBot Romeo round 9
+ChatterBot Yankee round 9
+ChatterBot November round 9
+ChatterBot Lima round 9
+ChatterBot Hotel round 9
+ChatterBot Golf round 9
+ChatterBot Zulu round 9
+ChatterBot Bravo round 9
+2024-10-15 00:59:04.012718 X-ray: Romeo, sending you 3
+2024-10-15 00:59:04.013691 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:04.016680 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:04.017734 November: Bravo, sending you 3
+2024-10-15 00:59:04.020276 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:04.021024 Lima: X-ray, sending you 3
+2024-10-15 00:59:04.021723 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:04.024698 Romeo: Same as last round
+2024-10-15 00:59:04.025575 Bravo: Same as last round
+2024-10-15 00:59:04.027064 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:04.027994 Lima: Romeo, sending you 2
+2024-10-15 00:59:04.029534 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:04.030447 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:04.031989 Yankee: Same as last round
+2024-10-15 00:59:04.033207 Lima: Yankee, sending you 1
+chatterbot November submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 10
+ChatterBot X-ray round 10
+ChatterBot Romeo round 10
+ChatterBot Yankee round 10
+ChatterBot November round 10
+ChatterBot Lima round 10
+ChatterBot Hotel round 10
+ChatterBot Golf round 10
+ChatterBot Zulu round 10
+ChatterBot Bravo round 10
+2024-10-15 00:59:05.238445 Romeo: We should add Hotel
+2024-10-15 00:59:05.247819 Yankee: No
+2024-10-15 00:59:05.248010 X-ray: No
+2024-10-15 00:59:05.248144 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:05.298695 X-ray: Romeo, sending you 3
+2024-10-15 00:59:05.301731 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:05.302402 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:05.302802 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:05.304679 Lima: X-ray, sending you 3
+2024-10-15 00:59:05.305800 Yankee: Same as last round
+2024-10-15 00:59:05.306340 November: Bravo, sending you 3
+2024-10-15 00:59:05.307154 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:05.307912 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:05.308690 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:05.309896 Lima: Romeo, sending you 2
+2024-10-15 00:59:05.311713 Romeo: Same as last round
+2024-10-15 00:59:05.312677 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:05.313205 Lima: Yankee, sending you 1
+2024-10-15 00:59:05.319666 Bravo: Same as last round
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 11
+ChatterBot X-ray round 11
+ChatterBot Romeo round 11
+ChatterBot Yankee round 11
+ChatterBot November round 11
+ChatterBot Lima round 11
+ChatterBot Hotel round 11
+ChatterBot Golf round 11
+ChatterBot Zulu round 11
+ChatterBot Bravo round 11
+2024-10-15 00:59:06.494672 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:06.497670 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:06.498243 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:06.498758 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:06.499693 November: Bravo, sending you 3
+2024-10-15 00:59:06.501671 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:06.503675 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:06.504222 Romeo: X-ray, sending you 5
+2024-10-15 00:59:06.505676 X-ray: Romeo, sending you 3
+2024-10-15 00:59:06.508708 Yankee: Same as last round
+2024-10-15 00:59:06.509024 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:06.509837 Romeo: Yankee, sending you 4
+2024-10-15 00:59:06.513666 Romeo: Lima, sending you 3
+2024-10-15 00:59:06.514163 Lima: X-ray, sending you 3
+2024-10-15 00:59:06.518693 Lima: Romeo, sending you 2
+2024-10-15 00:59:06.519663 Bravo: Same as last round
+2024-10-15 00:59:06.523650 Lima: Yankee, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+ChatterBot Alpha round 12
+ChatterBot X-ray round 12
+ChatterBot Romeo round 12
+ChatterBot Yankee round 12
+ChatterBot November round 12
+ChatterBot Lima round 12
+ChatterBot Hotel round 12
+ChatterBot Golf round 12
+ChatterBot Zulu round 12
+ChatterBot Bravo round 12
+2024-10-15 00:59:07.786942 Yankee: We should replace X-ray with Lima
+2024-10-15 00:59:07.792687 Romeo: No
+2024-10-15 00:59:07.820022 Yankee: Lima we want you to join our group
+2024-10-15 00:59:07.826371 Lima: Yes
+2024-10-15 00:59:07.839700 X-ray: Romeo, sending you 3
+2024-10-15 00:59:07.841319 Lima: X-ray, sending you 3
+2024-10-15 00:59:07.842686 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:07.843828 Romeo: X-ray, sending you 5
+2024-10-15 00:59:07.845254 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:07.846335 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:07.847828 Lima: Romeo, sending you 2
+2024-10-15 00:59:07.849311 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:07.850639 Romeo: Yankee, sending you 4
+2024-10-15 00:59:07.851808 Yankee: Sending you each 3
+2024-10-15 00:59:07.853075 November: Bravo, sending you 3
+2024-10-15 00:59:07.854077 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:07.855126 Lima: Yankee, sending you 1
+2024-10-15 00:59:07.856030 Romeo: Lima, sending you 3
+2024-10-15 00:59:07.858686 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:07.860309 Bravo: Same as last round
+2024-10-15 00:59:07.862675 Zulu: November and Golf, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 13
+ChatterBot X-ray round 13
+ChatterBot Romeo round 13
+ChatterBot Yankee round 13
+ChatterBot November round 13
+ChatterBot Lima round 13
+ChatterBot Hotel round 13
+ChatterBot Golf round 13
+ChatterBot Zulu round 13
+ChatterBot Bravo round 13
+2024-10-15 00:59:09.074778 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:09.080061 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:09.081694 X-ray: Romeo, sending you 3
+2024-10-15 00:59:09.083709 Yankee: Same as last round
+2024-10-15 00:59:09.084659 Bravo: Same as last round
+2024-10-15 00:59:09.086690 Lima: X-ray, sending you 3
+2024-10-15 00:59:09.087357 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:09.090124 Lima: Romeo and Yankee, sending you 2
+2024-10-15 00:59:09.094105 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:09.094813 Romeo: X-ray, sending you 5
+2024-10-15 00:59:09.095655 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:09.098650 Romeo: Yankee, sending you 4
+2024-10-15 00:59:09.099068 November: Bravo, sending you 3
+2024-10-15 00:59:09.101661 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:09.102762 Romeo: Lima, sending you 3
+2024-10-15 00:59:09.105926 Zulu: November and Golf, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 14
+ChatterBot X-ray round 14
+ChatterBot Romeo round 14
+ChatterBot Yankee round 14
+ChatterBot November round 14
+ChatterBot Lima round 14
+ChatterBot Hotel round 14
+ChatterBot Golf round 14
+ChatterBot Zulu round 14
+ChatterBot Bravo round 14
+2024-10-15 00:59:10.333664 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:10.335684 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:10.336691 X-ray: Romeo, sending you 3
+2024-10-15 00:59:10.337864 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:10.339998 Yankee: Same as last round
+2024-10-15 00:59:10.340711 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:10.343031 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:10.343721 Lima: X-ray, sending you 3
+2024-10-15 00:59:10.344282 November: Bravo, sending you 3
+2024-10-15 00:59:10.345333 Romeo: X-ray, sending you 5
+2024-10-15 00:59:10.346460 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:10.347344 Bravo: Same as last round
+2024-10-15 00:59:10.348686 Lima: Romeo and Yankee, sending you 2
+2024-10-15 00:59:10.350683 Romeo: Yankee, sending you 4
+2024-10-15 00:59:10.352154 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:10.355703 Romeo: Lima, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 15
+ChatterBot X-ray round 15
+ChatterBot Romeo round 15
+ChatterBot Yankee round 15
+ChatterBot November round 15
+ChatterBot Lima round 15
+ChatterBot Hotel round 15
+ChatterBot Golf round 15
+ChatterBot Zulu round 15
+ChatterBot Bravo round 15
+2024-10-15 00:59:11.583683 Bravo: Same as last round
+2024-10-15 00:59:11.585573 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:11.586752 Romeo: X-ray, sending you 5
+2024-10-15 00:59:11.587605 Lima: X-ray, sending you 3
+2024-10-15 00:59:11.591256 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:11.592340 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:11.594154 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:11.595530 Romeo: Yankee, sending you 4
+2024-10-15 00:59:11.596946 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:11.598248 Lima: Romeo and Yankee, sending you 2
+2024-10-15 00:59:11.599746 X-ray: Romeo, sending you 3
+2024-10-15 00:59:11.600676 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:11.607213 Yankee: Same as last round
+2024-10-15 00:59:11.607898 November: Bravo, sending you 3
+2024-10-15 00:59:11.609111 Romeo: Lima, sending you 3
+2024-10-15 00:59:11.609754 X-ray: Yankee and Lima, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 16
+ChatterBot X-ray round 16
+ChatterBot Romeo round 16
+ChatterBot Yankee round 16
+ChatterBot November round 16
+ChatterBot Lima round 16
+ChatterBot Hotel round 16
+ChatterBot Golf round 16
+ChatterBot Zulu round 16
+ChatterBot Bravo round 16
+2024-10-15 00:59:12.721670 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:12.723707 Yankee: Same as last round
+2024-10-15 00:59:12.726707 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:12.730664 Lima: X-ray, sending you 3
+2024-10-15 00:59:12.731707 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:12.732880 X-ray: Romeo, sending you 3
+2024-10-15 00:59:12.733672 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:12.734534 Lima: Romeo and Yankee, sending you 2
+2024-10-15 00:59:12.735165 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:12.737678 X-ray: Yankee and Lima, sending you 2
+2024-10-15 00:59:12.738649 November: Bravo, sending you 3
+2024-10-15 00:59:12.739364 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:12.740675 Romeo: X-ray, sending you 5
+2024-10-15 00:59:12.741529 Bravo: Same as last round
+2024-10-15 00:59:12.744681 Romeo: Yankee, sending you 4
+2024-10-15 00:59:12.747685 Romeo: Lima, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 17
+ChatterBot X-ray round 17
+ChatterBot Romeo round 17
+ChatterBot Yankee round 17
+ChatterBot November round 17
+ChatterBot Lima round 17
+ChatterBot Hotel round 17
+ChatterBot Golf round 17
+ChatterBot Zulu round 17
+ChatterBot Bravo round 17
+2024-10-15 00:59:14.072542 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:14.074066 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:14.078958 Lima: X-ray, sending you 3
+2024-10-15 00:59:14.080669 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:14.082368 Yankee: Same as last round
+2024-10-15 00:59:14.082934 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:14.084727 Romeo: X-ray, sending you 5
+2024-10-15 00:59:14.086295 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:14.088051 Bravo: Same as last round
+2024-10-15 00:59:14.089867 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:14.090873 Lima: Romeo and Yankee, sending you 2
+2024-10-15 00:59:14.092405 X-ray: Yankee, sending you 1
+2024-10-15 00:59:14.093267 November: Bravo, sending you 3
+2024-10-15 00:59:14.094899 Romeo: Yankee, sending you 4
+2024-10-15 00:59:14.095898 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:14.099673 Romeo: Lima, sending you 3
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 18
+ChatterBot X-ray round 18
+ChatterBot Romeo round 18
+ChatterBot Yankee round 18
+ChatterBot November round 18
+ChatterBot Lima round 18
+ChatterBot Hotel round 18
+ChatterBot Golf round 18
+ChatterBot Zulu round 18
+ChatterBot Bravo round 18
+2024-10-15 00:59:15.239970 Golf: We should drop Hotel
+2024-10-15 00:59:15.252440 Alpha: Yes
+2024-10-15 00:59:15.252602 November: Yes
+2024-10-15 00:59:15.252756 Zulu: Yes
+2024-10-15 00:59:15.252905 Bravo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:59:15.294930 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:15.298702 Lima: X-ray, sending you 3
+2024-10-15 00:59:15.300521 Yankee: Same as last round
+2024-10-15 00:59:15.301113 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:15.301864 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:15.303332 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:15.303852 Romeo: X-ray, sending you 5
+2024-10-15 00:59:15.304673 Lima: Romeo and Yankee, sending you 2
+2024-10-15 00:59:15.307678 November: Bravo, sending you 3
+2024-10-15 00:59:15.309088 X-ray: Yankee, sending you 1
+2024-10-15 00:59:15.309694 Romeo: Yankee, sending you 4
+2024-10-15 00:59:15.314269 Romeo: Lima, sending you 3
+2024-10-15 00:59:15.315273 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:15.316278 Bravo: Same as last round
+2024-10-15 00:59:15.318014 Golf: Same as last round
+2024-10-15 00:59:15.318754 Zulu: November and Golf, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+ChatterBot Alpha round 19
+ChatterBot X-ray round 19
+ChatterBot Romeo round 19
+ChatterBot Yankee round 19
+ChatterBot November round 19
+ChatterBot Lima round 19
+ChatterBot Hotel round 19
+ChatterBot Golf round 19
+ChatterBot Zulu round 19
+ChatterBot Bravo round 19
+2024-10-15 00:59:16.340783 Golf: Same as last round
+2024-10-15 00:59:16.343372 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:16.347683 X-ray: Yankee, sending you 1
+2024-10-15 00:59:16.348962 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:16.349892 Bravo: Same as last round
+2024-10-15 00:59:16.351176 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:16.351831 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:16.353095 Yankee: Same as last round
+2024-10-15 00:59:16.353466 Romeo: X-ray, sending you 5
+2024-10-15 00:59:16.354227 Lima: X-ray and Yankee, sending you 3
+2024-10-15 00:59:16.354744 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:16.356093 November: Bravo, sending you 3
+2024-10-15 00:59:16.356793 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:16.358690 Romeo: Yankee, sending you 4
+2024-10-15 00:59:16.359921 Lima: Romeo, sending you 2
+2024-10-15 00:59:16.364657 Romeo: Lima, sending you 3
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 20
+ChatterBot X-ray round 20
+ChatterBot Romeo round 20
+ChatterBot Yankee round 20
+ChatterBot November round 20
+ChatterBot Lima round 20
+ChatterBot Hotel round 20
+ChatterBot Golf round 20
+ChatterBot Zulu round 20
+ChatterBot Bravo round 20
+2024-10-15 00:59:17.796674 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:17.798923 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:17.801006 Yankee: Same as last round
+2024-10-15 00:59:17.802731 Romeo: X-ray, sending you 5
+2024-10-15 00:59:17.804837 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:17.807826 Lima: X-ray and Yankee, sending you 3
+2024-10-15 00:59:17.809771 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:17.812101 November: Bravo, sending you 3
+2024-10-15 00:59:17.814537 X-ray: Yankee, sending you 1
+2024-10-15 00:59:17.816731 Romeo: Yankee, sending you 4
+2024-10-15 00:59:17.819802 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:17.822503 Lima: Romeo, sending you 2
+2024-10-15 00:59:17.824600 Golf: Same as last round
+2024-10-15 00:59:17.828476 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:17.830962 Bravo: Same as last round
+2024-10-15 00:59:17.833326 Romeo: Lima, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 21
+ChatterBot X-ray round 21
+ChatterBot Romeo round 21
+ChatterBot Yankee round 21
+ChatterBot November round 21
+ChatterBot Lima round 21
+ChatterBot Hotel round 21
+ChatterBot Golf round 21
+ChatterBot Zulu round 21
+ChatterBot Bravo round 21
+2024-10-15 00:59:19.040196 Zulu: We should drop Golf
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:59:19.052695 Alpha: Yes
+2024-10-15 00:59:19.053823 November: No
+2024-10-15 00:59:19.053996 Bravo: Yes
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:59:19.109081 Lima: X-ray and Yankee, sending you 3
+2024-10-15 00:59:19.111356 Yankee: Same as last round
+2024-10-15 00:59:19.115719 Lima: Romeo, sending you 2
+2024-10-15 00:59:19.118186 Romeo: X-ray, sending you 5
+2024-10-15 00:59:19.120368 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:19.122912 Golf: Same as last round
+2024-10-15 00:59:19.125891 Romeo: Yankee, sending you 4
+2024-10-15 00:59:19.128256 X-ray: Yankee, sending you 1
+2024-10-15 00:59:19.131189 Romeo: Lima, sending you 3
+2024-10-15 00:59:19.134717 November: Sending you each 3
+2024-10-15 00:59:19.139002 Zulu: Alpha, sending you 4
+2024-10-15 00:59:19.143675 Zulu: November and Bravo, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 22
+ChatterBot X-ray round 22
+ChatterBot Romeo round 22
+ChatterBot Yankee round 22
+ChatterBot November round 22
+ChatterBot Lima round 22
+ChatterBot Hotel round 22
+ChatterBot Golf round 22
+ChatterBot Zulu round 22
+2024-10-15 00:59:20.221267 Yankee: We should replace Lima with X-ray
+2024-10-15 00:59:20.224918 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo round 22
+2024-10-15 00:59:20.262431 Alpha: We should drop Golf
+2024-10-15 00:59:20.272810 Zulu: Yes
+2024-10-15 00:59:20.273029 November: Yes
+2024-10-15 00:59:20.273148 Bravo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 00:59:20.313699 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:20.314898 Golf: Same as last round
+2024-10-15 00:59:20.316733 Lima: X-ray and Yankee, sending you 3
+2024-10-15 00:59:20.317659 X-ray: Yankee, sending you 1
+2024-10-15 00:59:20.320665 Romeo: X-ray, sending you 5
+2024-10-15 00:59:20.322922 Lima: Romeo, sending you 2
+2024-10-15 00:59:20.325221 Yankee: Same as last round
+2024-10-15 00:59:20.326685 Romeo: Yankee, sending you 4
+2024-10-15 00:59:20.329520 November: Same as last round
+2024-10-15 00:59:20.332670 Romeo: Lima, sending you 3
+2024-10-15 00:59:20.335663 Zulu: Alpha, sending you 4
+2024-10-15 00:59:20.337124 Bravo: Sending you each 4
+2024-10-15 00:59:20.340934 Zulu: November and Bravo, sending you 3
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 23
+ChatterBot X-ray round 23
+ChatterBot Romeo round 23
+ChatterBot Yankee round 23
+ChatterBot November round 23
+ChatterBot Lima round 23
+ChatterBot Hotel round 23
+ChatterBot Golf round 23
+ChatterBot Zulu round 23
+ChatterBot Bravo round 23
+2024-10-15 00:59:21.667937 Romeo: We should add Hotel
+2024-10-15 00:59:21.678949 Yankee: No
+2024-10-15 00:59:21.680111 X-ray: No
+2024-10-15 00:59:21.680359 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:21.724762 Alpha: We should drop Golf
+2024-10-15 00:59:21.734804 Zulu: Yes
+2024-10-15 00:59:21.735505 November: Yes
+2024-10-15 00:59:21.735669 Bravo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 00:59:21.770517 Golf: We should add X-ray
+ChatterBot Alpha reevaluating
+2024-10-15 00:59:21.783776 Alpha: Yes
+2024-10-15 00:59:21.783973 November: Yes
+2024-10-15 00:59:21.784154 Zulu: Yes
+2024-10-15 00:59:21.784314 Bravo: Yes
+ChatterBot Golf reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:59:21.843517 Bravo: We should add Golf and X-ray
+2024-10-15 00:59:21.843887 November: We should add Golf and X-ray
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:59:21.856270 Zulu: No
+ChatterBot Zulu reevaluating
+2024-10-15 00:59:21.860527 Alpha: No
+ChatterBot Alpha reevaluating
+2024-10-15 00:59:21.864018 November: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 00:59:21.868673 Zulu: Yes
+2024-10-15 00:59:21.868828 Alpha: Yes
+2024-10-15 00:59:21.868969 Bravo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:59:21.948751 Zulu: We should add Golf
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:59:21.964136 Alpha: Yes
+2024-10-15 00:59:21.964337 November: Yes
+2024-10-15 00:59:21.964492 Bravo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:59:22.011677 Zulu: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 00:59:22.017070 Golf: Yes
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:59:22.033973 Romeo: Hotel we want you to join our group
+2024-10-15 00:59:22.038240 Hotel: No
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:22.051138 Golf: X-ray we want you to join our group
+2024-10-15 00:59:22.058958 X-ray: No
+ChatterBot Golf reevaluating
+2024-10-15 00:59:22.074563 November: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 00:59:22.079021 Golf: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 00:59:22.091396 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:22.092584 Yankee: Same as last round
+2024-10-15 00:59:22.092939 Lima: X-ray and Yankee, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-15 00:59:22.094717 Bravo: Golf and X-ray we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 00:59:22.101701 Golf: Yes
+2024-10-15 00:59:22.101872 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:59:22.131276 X-ray: We should add Golf
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:22.139967 Yankee: No
+2024-10-15 00:59:22.140114 Romeo: No
+2024-10-15 00:59:22.140229 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:22.305518 Lima: Romeo, sending you 2
+2024-10-15 00:59:22.307078 Zulu: Alpha and Bravo, sending you 3
+chatterbot Lima submitting transactions
+2024-10-15 00:59:22.315697 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:22.317579 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:22.325107 Alpha: November, Golf and Bravo, sending you 2
+2024-10-15 00:59:22.328692 November: Bravo, sending you 3
+2024-10-15 00:59:22.330886 Alpha: Zulu, sending you 4
+2024-10-15 00:59:22.337728 Romeo: Sending you each 4
+2024-10-15 00:59:22.367703 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:22.372593 Bravo: Alpha, November and Zulu, sending you 3
+2024-10-15 00:59:22.380746 Bravo: X-ray, sending you 1
+2024-10-15 00:59:22.388763 Bravo: Golf, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 24
+ChatterBot X-ray round 24
+ChatterBot Romeo round 24
+ChatterBot Yankee round 24
+ChatterBot November round 24
+2024-10-15 00:59:23.379113 Romeo: We should add Hotel
+ChatterBot Yankee reevaluating
+2024-10-15 00:59:23.388178 Yankee: No
+2024-10-15 00:59:23.388361 X-ray: No
+2024-10-15 00:59:23.388505 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima round 24
+ChatterBot Hotel round 24
+ChatterBot Golf round 24
+ChatterBot Zulu round 24
+ChatterBot Bravo round 24
+chatterbot X-ray submitting transactions
+2024-10-15 00:59:23.448654 Lima: X-ray and Romeo, sending you 2
+2024-10-15 00:59:23.450683 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:23.452672 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:23.453694 Lima: Yankee, sending you 3
+2024-10-15 00:59:23.454773 Bravo: Alpha, November and Zulu, sending you 3
+2024-10-15 00:59:23.455284 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:23.456677 Yankee: Same as last round
+2024-10-15 00:59:23.457040 November: Bravo, sending you 3
+2024-10-15 00:59:23.458666 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:23.459668 Bravo: X-ray, sending you 1
+2024-10-15 00:59:23.460117 Romeo: Same as last round
+2024-10-15 00:59:23.460727 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:23.462696 Bravo: Golf, sending you 2
+2024-10-15 00:59:23.464655 X-ray: Yankee, sending you 1
+2024-10-15 00:59:23.465699 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:23.470686 Zulu: November and Golf, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 25
+ChatterBot X-ray round 25
+ChatterBot Romeo round 25
+ChatterBot Yankee round 25
+ChatterBot November round 25
+ChatterBot Lima round 25
+ChatterBot Hotel round 25
+ChatterBot Golf round 25
+ChatterBot Zulu round 25
+ChatterBot Bravo round 25
+2024-10-15 00:59:24.712789 Yankee: We should replace Lima with X-ray
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:24.718768 Romeo: No
+ChatterBot Yankee reevaluating
+2024-10-15 00:59:24.724470 Romeo: We should add Hotel
+ChatterBot Yankee reevaluating
+2024-10-15 00:59:24.735265 Yankee: No
+2024-10-15 00:59:24.735445 X-ray: No
+2024-10-15 00:59:24.735725 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:24.803693 Romeo: Hotel we want you to join our group
+2024-10-15 00:59:24.810111 Hotel: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-15 00:59:24.833699 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:24.836582 Lima: X-ray and Romeo, sending you 2
+2024-10-15 00:59:24.838813 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:24.842303 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:24.843410 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:24.846055 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:24.848926 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:24.851791 Lima: Yankee, sending you 3
+2024-10-15 00:59:24.854022 November: Bravo, sending you 3
+2024-10-15 00:59:24.856339 X-ray: Yankee, sending you 1
+2024-10-15 00:59:24.858036 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:24.860967 Bravo: Alpha, November and Zulu, sending you 3
+2024-10-15 00:59:24.868765 Bravo: X-ray, sending you 1
+2024-10-15 00:59:24.870729 Romeo: Same as last round
+2024-10-15 00:59:24.872358 Yankee: Same as last round
+2024-10-15 00:59:24.877881 Bravo: Golf, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 26
+ChatterBot X-ray round 26
+ChatterBot Romeo round 26
+ChatterBot Yankee round 26
+ChatterBot November round 26
+ChatterBot Lima round 26
+ChatterBot Hotel round 26
+ChatterBot Golf round 26
+ChatterBot Zulu round 26
+ChatterBot Bravo round 26
+2024-10-15 00:59:26.182846 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:26.185898 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:26.189082 Romeo: Same as last round
+2024-10-15 00:59:26.191837 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:26.194371 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:26.196697 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:26.198807 X-ray: Yankee, sending you 1
+2024-10-15 00:59:26.201119 November: Bravo, sending you 3
+2024-10-15 00:59:26.203264 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:26.205829 Bravo: Alpha, November and Zulu, sending you 3
+2024-10-15 00:59:26.207644 Lima: X-ray and Romeo, sending you 2
+2024-10-15 00:59:26.209511 Yankee: Same as last round
+2024-10-15 00:59:26.211387 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:26.213317 Bravo: X-ray, sending you 1
+2024-10-15 00:59:26.215688 Lima: Yankee, sending you 3
+2024-10-15 00:59:26.222870 Bravo: Golf, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 27
+ChatterBot X-ray round 27
+ChatterBot Romeo round 27
+ChatterBot Yankee round 27
+ChatterBot November round 27
+ChatterBot Lima round 27
+ChatterBot Hotel round 27
+ChatterBot Golf round 27
+ChatterBot Zulu round 27
+ChatterBot Bravo round 27
+2024-10-15 00:59:27.419573 Bravo: We should drop X-ray
+2024-10-15 00:59:27.447875 Alpha: Yes
+2024-10-15 00:59:27.448857 Golf: Yes
+2024-10-15 00:59:27.449190 November: Yes
+2024-10-15 00:59:27.449484 Zulu: Yes
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:59:27.558358 Golf: We should replace X-ray with Yankee
+2024-10-15 00:59:27.590962 Alpha: No
+2024-10-15 00:59:27.591547 November: No
+2024-10-15 00:59:27.592166 Zulu: No
+2024-10-15 00:59:27.593635 Bravo: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:59:27.694131 Yankee: Same as last round
+2024-10-15 00:59:27.696087 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:27.698146 Romeo: Same as last round
+2024-10-15 00:59:27.701880 Lima: Sending you each 2
+2024-10-15 00:59:27.704063 Alpha: November and Golf, sending you 2
+chatterbot X-ray submitting transactions
+2024-10-15 00:59:27.708683 X-ray: Yankee, sending you 1
+2024-10-15 00:59:27.711159 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:27.714775 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:27.717715 Bravo: Sending you each 3
+2024-10-15 00:59:27.720793 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:27.725150 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:27.739831 November: Bravo, sending you 3
+2024-10-15 00:59:27.759461 Golf: Same as last round
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 28
+ChatterBot X-ray round 28
+ChatterBot Romeo round 28
+ChatterBot Yankee round 28
+ChatterBot November round 28
+ChatterBot Lima round 28
+ChatterBot Hotel round 28
+ChatterBot Golf round 28
+ChatterBot Zulu round 28
+ChatterBot Bravo round 28
+2024-10-15 00:59:28.683536 Romeo: We should add Hotel
+2024-10-15 00:59:28.693261 Yankee: No
+2024-10-15 00:59:28.693441 X-ray: No
+2024-10-15 00:59:28.693569 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 00:59:28.952320 Zulu: We should drop November
+ChatterBot Golf reevaluating
+2024-10-15 00:59:28.973796 Alpha: No
+2024-10-15 00:59:28.974764 Golf: No
+2024-10-15 00:59:28.975020 Bravo: No
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 00:59:29.054255 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:29.057225 Yankee: Same as last round
+2024-10-15 00:59:29.059348 Lima: Same as last round
+2024-10-15 00:59:29.062130 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:29.064393 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:29.066751 Golf: Hotel we want you to join our group
+2024-10-15 00:59:29.073990 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:59:29.110599 Golf: We should add Yankee
+ChatterBot Zulu reevaluating
+2024-10-15 00:59:29.134645 Alpha: No
+2024-10-15 00:59:29.135081 November: No
+2024-10-15 00:59:29.135390 Zulu: No
+2024-10-15 00:59:29.135709 Bravo: No
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:59:29.256324 November: Bravo, sending you 3
+2024-10-15 00:59:29.261875 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:29.267179 X-ray: Yankee, sending you 1
+2024-10-15 00:59:29.271830 Bravo: Same as last round
+2024-10-15 00:59:29.277228 Romeo: Same as last round
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+2024-10-15 00:59:29.297607 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:29.369352 Zulu: November and Golf, sending you 2
+2024-10-15 00:59:29.378683 Golf: Alpha, November, Zulu and Bravo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 29
+ChatterBot X-ray round 29
+ChatterBot Romeo round 29
+ChatterBot Yankee round 29
+ChatterBot November round 29
+ChatterBot Lima round 29
+ChatterBot Hotel round 29
+ChatterBot Golf round 29
+ChatterBot Zulu round 29
+ChatterBot Bravo round 29
+2024-10-15 00:59:29.969471 Yankee: We should replace Lima with X-ray
+2024-10-15 00:59:29.973145 Romeo: No
+ChatterBot Yankee reevaluating
+2024-10-15 00:59:29.997778 Lima: Same as last round
+2024-10-15 00:59:30.000008 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:30.003695 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:30.005328 X-ray: Yankee, sending you 1
+2024-10-15 00:59:30.006200 Romeo: Same as last round
+2024-10-15 00:59:30.007405 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:30.008418 Bravo: Same as last round
+2024-10-15 00:59:30.009653 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:30.010679 November: Bravo, sending you 3
+2024-10-15 00:59:30.012620 Yankee: Same as last round
+2024-10-15 00:59:30.013696 Golf: Alpha, November, Zulu and Bravo, sending you 2
+2024-10-15 00:59:30.015629 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:30.019665 Zulu: November and Golf, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 30
+ChatterBot X-ray round 30
+ChatterBot Romeo round 30
+ChatterBot Yankee round 30
+ChatterBot November round 30
+ChatterBot Lima round 30
+ChatterBot Hotel round 30
+ChatterBot Golf round 30
+ChatterBot Zulu round 30
+ChatterBot Bravo round 30
+2024-10-15 00:59:31.318715 Golf: We should drop Hotel
+2024-10-15 00:59:31.341771 Alpha: Yes
+2024-10-15 00:59:31.342033 November: Yes
+2024-10-15 00:59:31.342234 Zulu: Yes
+2024-10-15 00:59:31.342432 Bravo: Yes
+2024-10-15 00:59:31.430880 Alpha: November and Golf, sending you 2
+2024-10-15 00:59:31.433490 Lima: Same as last round
+2024-10-15 00:59:31.435207 X-ray: Romeo and Lima, sending you 3
+2024-10-15 00:59:31.436032 November: Alpha, Golf and Zulu, sending you 2
+2024-10-15 00:59:31.437690 Romeo: Same as last round
+2024-10-15 00:59:31.439734 Alpha: Zulu and Bravo, sending you 3
+2024-10-15 00:59:31.441275 X-ray: Yankee, sending you 1
+2024-10-15 00:59:31.443721 November: Bravo, sending you 3
+2024-10-15 00:59:31.447788 Golf: Same as last round
+2024-10-15 00:59:31.450681 Yankee: Same as last round
+2024-10-15 00:59:31.452397 Zulu: Alpha and Bravo, sending you 3
+2024-10-15 00:59:31.455121 Bravo: Same as last round
+2024-10-15 00:59:31.459678 Zulu: November and Golf, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions

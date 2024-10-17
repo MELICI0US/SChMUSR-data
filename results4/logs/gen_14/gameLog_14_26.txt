@@ -1,0 +1,1457 @@
+ChatterBot Alpha round 1
+ChatterBot Kilo round 1
+ChatterBot X-ray round 1
+ChatterBot Uniform round 1
+ChatterBot Mike round 1
+ChatterBot Echo round 1
+ChatterBot Whiskey round 1
+ChatterBot Delta round 1
+ChatterBot Tango round 1
+ChatterBot Sierra round 1
+randomSelections Alpha: {Alpha, Uniform, Mike} 
+2024-10-14 23:31:27.818173 Alpha: Can we be friends?
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:31:27.828892 Uniform: Yes
+2024-10-14 23:31:27.829073 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+randomSelections Echo: {Echo, Alpha, Tango} 
+2024-10-14 23:31:27.846776 Echo: We should group up
+ChatterBot Tango reevaluating
+2024-10-14 23:31:27.852769 Alpha: No
+2024-10-14 23:31:27.852958 Tango: Yes
+ChatterBot Tango reevaluating
+randomSelections Whiskey: {Whiskey, X-ray, Sierra, Delta, Alpha} 
+2024-10-14 23:31:27.863033 Whiskey: Can we be friends?
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 23:31:27.878163 X-ray: Yes
+2024-10-14 23:31:27.879159 Sierra: Yes
+2024-10-14 23:31:27.879301 Delta: Yes
+2024-10-14 23:31:27.879433 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+randomSelections Kilo: {Kilo, Delta} 
+2024-10-14 23:31:27.914426 Kilo: Friends?
+ChatterBot Delta reevaluating
+2024-10-14 23:31:27.916721 Delta: No
+2024-10-14 23:31:27.938989 Delta: Alpha, sending you 2
+2024-10-14 23:31:27.940920 Uniform: Sending you each 2
+2024-10-14 23:31:27.943042 Delta: X-ray, sending you 3
+2024-10-14 23:31:27.944186 Whiskey: Alpha, sending you 1
+2024-10-14 23:31:27.947235 Alpha: Uniform, sending you 2
+2024-10-14 23:31:27.947600 Sierra: Alpha and X-ray, sending you 2
+2024-10-14 23:31:27.948010 X-ray: Alpha, sending you 3
+2024-10-14 23:31:27.948895 Whiskey: X-ray, sending you 5
+2024-10-14 23:31:27.949205 Tango: Alpha, sending you 1
+2024-10-14 23:31:27.949524 Echo: Alpha, sending you 5
+2024-10-14 23:31:27.949854 Kilo: Sending you 11
+2024-10-14 23:31:27.950697 Alpha: Mike, sending you 3
+2024-10-14 23:31:27.952672 Sierra: Whiskey, sending you 3
+2024-10-14 23:31:27.953099 Whiskey: Delta, sending you 2
+2024-10-14 23:31:27.954262 X-ray: Whiskey and Delta, sending you 2
+2024-10-14 23:31:27.954593 Tango: Echo, sending you 2
+2024-10-14 23:31:27.954922 Echo: Tango, sending you 3
+2024-10-14 23:31:27.955834 Mike: Sending you each 1
+2024-10-14 23:31:27.956071 Sierra: Delta, sending you 1
+2024-10-14 23:31:27.957695 Whiskey: Sierra, sending you 3
+2024-10-14 23:31:27.957991 X-ray: Sierra, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 2
+ChatterBot Kilo round 2
+ChatterBot X-ray round 2
+ChatterBot Uniform round 2
+ChatterBot Mike round 2
+ChatterBot Echo round 2
+2024-10-14 23:31:30.732007 Alpha: Can we be friends?
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:30.768721 X-ray: No
+2024-10-14 23:31:30.768897 Whiskey: No
+2024-10-14 23:31:30.769062 Sierra: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:30.851333 Whiskey: We would work well together
+2024-10-14 23:31:30.857713 Kilo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey round 2
+ChatterBot Delta round 2
+ChatterBot Tango round 2
+ChatterBot Sierra round 2
+2024-10-14 23:31:30.902595 Whiskey: We should replace Alpha with Kilo
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 23:31:30.917909 X-ray: No
+2024-10-14 23:31:30.918084 Sierra: No
+2024-10-14 23:31:30.918208 Delta: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:30.983832 Echo: We should drop Alpha
+ChatterBot Tango reevaluating
+2024-10-14 23:31:30.992140 Tango: Yes
+2024-10-14 23:31:30.999944 Tango: We should replace Alpha with Kilo
+ChatterBot Echo reevaluating
+2024-10-14 23:31:31.008074 Echo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:31:31.017601 Whiskey: Kilo we want you to join our group
+2024-10-14 23:31:31.025173 Kilo: No
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 23:31:31.161028 Tango: We should replace Alpha with Mike
+ChatterBot Echo reevaluating
+2024-10-14 23:31:31.171004 Echo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:31:31.180274 Alpha: X-ray and Sierra, sending you 3
+2024-10-14 23:31:31.181476 Uniform: Sending you each 3
+2024-10-14 23:31:31.182669 Sierra: We should drop Delta and Alpha
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:31.199048 X-ray: No
+2024-10-14 23:31:31.199384 Whiskey: No
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:31.232370 Delta: Kilo we want you to join our group
+2024-10-14 23:31:31.242397 Kilo: No
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 23:31:31.278677 Kilo: Same as last round
+2024-10-14 23:31:31.279580 Mike: Same as last round
+chatterbot Alpha submitting transactions
+2024-10-14 23:31:31.281196 Alpha: Whiskey, sending you 2
+chatterbot Uniform submitting transactions
+2024-10-14 23:31:31.337446 Tango: Kilo we want you to join our group
+2024-10-14 23:31:31.342704 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:31:31.354587 Whiskey: We should drop Alpha
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:31.371078 X-ray: Yes
+2024-10-14 23:31:31.371413 Sierra: Yes
+2024-10-14 23:31:31.371681 Delta: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Kilo submitting transactions
+2024-10-14 23:31:31.506883 Sierra: Sending you each 3
+2024-10-14 23:31:31.626131 Delta: Kilo, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 23:31:31.664352 Delta: X-ray and Whiskey, sending you 1
+2024-10-14 23:31:31.665637 Echo: Sending you 8
+2024-10-14 23:31:31.665953 Tango: Kilo, sending you 3
+2024-10-14 23:31:31.683838 Tango: Echo, sending you 8
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 3
+ChatterBot Kilo round 3
+ChatterBot X-ray round 3
+ChatterBot Uniform round 3
+ChatterBot Mike round 3
+ChatterBot Echo round 3
+ChatterBot Whiskey round 3
+ChatterBot Delta round 3
+ChatterBot Tango round 3
+ChatterBot Sierra round 3
+2024-10-14 23:31:32.243545 X-ray: We should drop Delta
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:32.269733 Alpha: Yes
+2024-10-14 23:31:32.270087 Whiskey: Yes
+2024-10-14 23:31:32.270553 Sierra: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:32.362248 Tango: We should replace Kilo with Uniform
+ChatterBot Echo reevaluating
+2024-10-14 23:31:32.371416 Echo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:31:32.391284 Sierra: We should add Alpha
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:32.413123 X-ray: Yes
+2024-10-14 23:31:32.415112 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:32.468732 Kilo: Same as last round
+2024-10-14 23:31:32.469633 Alpha: Sending you each 3
+2024-10-14 23:31:32.469994 Sierra: Alpha we want you to join our group
+2024-10-14 23:31:32.476513 Alpha: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:32.497 Uniform: Same as last round
+2024-10-14 23:31:32.501360 Delta: Kilo, sending you 2
+2024-10-14 23:31:32.501867 Echo: Uniform, sending you 3
+2024-10-14 23:31:32.502109 Mike: Same as last round
+2024-10-14 23:31:32.510292 Delta: X-ray and Whiskey, sending you 1
+2024-10-14 23:31:32.511320 Echo: Tango, sending you 5
+2024-10-14 23:31:32.515683 Tango: Kilo, sending you 3
+2024-10-14 23:31:32.516754 Sierra: Alpha, X-ray and Whiskey, sending you 3
+2024-10-14 23:31:32.517181 Whiskey: Alpha, sending you 3
+2024-10-14 23:31:32.524412 Tango: Echo, sending you 8
+2024-10-14 23:31:32.525191 Whiskey: X-ray and Sierra, sending you 4
+2024-10-14 23:31:32.556946 X-ray: Alpha, sending you 3
+2024-10-14 23:31:32.565894 X-ray: Whiskey, sending you 5
+chatterbot Mike submitting transactions
+2024-10-14 23:31:32.572822 X-ray: Sierra, sending you 4
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Kilo round 4
+ChatterBot X-ray round 4
+ChatterBot Uniform round 4
+ChatterBot Mike round 4
+ChatterBot Echo round 4
+ChatterBot Whiskey round 4
+ChatterBot Delta round 4
+ChatterBot Tango round 4
+ChatterBot Sierra round 4
+2024-10-14 23:31:33.723669 Delta: We should add Alpha
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:33.744484 Whiskey: Yes
+2024-10-14 23:31:33.745303 X-ray: Yes
+2024-10-14 23:31:33.745412 Sierra: Yes
+2024-10-14 23:31:33.745513 Kilo: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:33.872652 Tango: We should replace Kilo with Mike
+2024-10-14 23:31:33.878744 Echo: No
+ChatterBot Tango reevaluating
+2024-10-14 23:31:33.889197 Mike: We should drop Alpha
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:33.895870 Uniform: Yes
+2024-10-14 23:31:33.902565 Delta: Alpha we want you to join our group
+2024-10-14 23:31:33.907740 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:33.931331 Echo: We should drop Uniform
+ChatterBot Tango reevaluating
+2024-10-14 23:31:33.935599 Tango: Yes
+2024-10-14 23:31:33.942884 Kilo: Same as last round
+2024-10-14 23:31:33.943241 X-ray: Alpha, sending you 3
+2024-10-14 23:31:33.943730 Alpha: Same as last round
+2024-10-14 23:31:33.946771 Tango: Mike we want you to join our group
+2024-10-14 23:31:33.954141 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:31:33.964628 Tango: We should add Delta
+ChatterBot Echo reevaluating
+2024-10-14 23:31:33.975645 Echo: No
+2024-10-14 23:31:33.975925 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:31:34.002453 X-ray: Whiskey, sending you 5
+2024-10-14 23:31:34.002867 Sierra: Same as last round
+2024-10-14 23:31:34.005722 Whiskey: Alpha, sending you 3
+2024-10-14 23:31:34.006773 Delta: Kilo, sending you 2
+2024-10-14 23:31:34.007215 Uniform: Same as last round
+2024-10-14 23:31:34.007704 X-ray: Sierra, sending you 4
+2024-10-14 23:31:34.008106 Mike: Sending you 2
+2024-10-14 23:31:34.010712 Whiskey: X-ray and Sierra, sending you 4
+2024-10-14 23:31:34.011300 Delta: X-ray, sending you 1
+2024-10-14 23:31:34.019672 Echo: Mike, sending you 3
+2024-10-14 23:31:34.024152 Echo: Tango, sending you 5
+2024-10-14 23:31:34.030680 Tango: Kilo, sending you 3
+2024-10-14 23:31:34.034660 Tango: Echo, sending you 8
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Kilo round 5
+ChatterBot X-ray round 5
+ChatterBot Uniform round 5
+ChatterBot Mike round 5
+ChatterBot Echo round 5
+ChatterBot Whiskey round 5
+ChatterBot Delta round 5
+ChatterBot Tango round 5
+2024-10-14 23:31:35.180801 Uniform: We should add Echo and Tango
+2024-10-14 23:31:35.187445 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Sierra round 5
+2024-10-14 23:31:35.241580 Echo: We should drop Mike
+ChatterBot Tango reevaluating
+2024-10-14 23:31:35.248922 Tango: Yes
+2024-10-14 23:31:35.254085 Tango: We should add Delta
+2024-10-14 23:31:35.263681 Echo: No
+2024-10-14 23:31:35.263866 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:35.291701 Mike: Same as last round
+2024-10-14 23:31:35.292897 Alpha: Same as last round
+2024-10-14 23:31:35.300907 Whiskey: Alpha, sending you 3
+2024-10-14 23:31:35.301669 Delta: Kilo, sending you 2
+2024-10-14 23:31:35.303727 Whiskey: X-ray and Sierra, sending you 4
+2024-10-14 23:31:35.305294 Echo: Sending you 8
+2024-10-14 23:31:35.308923 Kilo: Same as last round
+2024-10-14 23:31:35.309339 X-ray: Alpha, sending you 3
+2024-10-14 23:31:35.311687 Uniform: Same as last round
+2024-10-14 23:31:35.313700 X-ray: Whiskey, sending you 5
+2024-10-14 23:31:35.316695 Sierra: Same as last round
+2024-10-14 23:31:35.317360 X-ray: Sierra, sending you 4
+2024-10-14 23:31:35.318692 Tango: Kilo, sending you 3
+2024-10-14 23:31:35.322661 Tango: Echo, sending you 8
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Kilo round 6
+ChatterBot X-ray round 6
+ChatterBot Uniform round 6
+ChatterBot Mike round 6
+ChatterBot Echo round 6
+ChatterBot Whiskey round 6
+ChatterBot Delta round 6
+ChatterBot Tango round 6
+ChatterBot Sierra round 6
+2024-10-14 23:31:36.360304 Tango: We should add Delta
+2024-10-14 23:31:36.377671 Echo: No
+2024-10-14 23:31:36.377914 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:36.418682 Uniform: Same as last round
+2024-10-14 23:31:36.423775 Tango: Delta we want you to join our group
+2024-10-14 23:31:36.431464 Delta: No
+ChatterBot Tango reevaluating
+2024-10-14 23:31:36.454821 Tango: We should replace Kilo with Uniform
+2024-10-14 23:31:36.462071 Echo: No
+ChatterBot Tango reevaluating
+2024-10-14 23:31:36.470440 Alpha: Same as last round
+2024-10-14 23:31:36.470982 Echo: Same as last round
+2024-10-14 23:31:36.474671 Delta: Kilo, sending you 2
+2024-10-14 23:31:36.475156 Sierra: Same as last round
+2024-10-14 23:31:36.475697 Kilo: Same as last round
+2024-10-14 23:31:36.475956 X-ray: Alpha, sending you 3
+2024-10-14 23:31:36.477038 Whiskey: Alpha, sending you 3
+2024-10-14 23:31:36.479711 X-ray: Whiskey, sending you 5
+2024-10-14 23:31:36.480938 Whiskey: X-ray and Sierra, sending you 4
+2024-10-14 23:31:36.483686 X-ray: Sierra, sending you 4
+2024-10-14 23:31:36.486901 Tango: Kilo, sending you 3
+2024-10-14 23:31:36.491657 Tango: Echo, sending you 8
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Kilo round 7
+ChatterBot X-ray round 7
+ChatterBot Uniform round 7
+ChatterBot Mike round 7
+ChatterBot Echo round 7
+2024-10-14 23:31:37.417001 Uniform: We should add Kilo and Delta
+2024-10-14 23:31:37.422759 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey round 7
+ChatterBot Delta round 7
+ChatterBot Tango round 7
+ChatterBot Sierra round 7
+2024-10-14 23:31:37.522217 Uniform: We should add Alpha
+2024-10-14 23:31:37.548056 Mike: No
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:37.571703 Tango: We should add Delta
+2024-10-14 23:31:37.580681 Echo: No
+2024-10-14 23:31:37.580971 Kilo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:31:37.609561 Tango: We should replace Kilo with Uniform
+2024-10-14 23:31:37.613659 Echo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:31:37.620483 Alpha: Same as last round
+2024-10-14 23:31:37.621233 Kilo: Same as last round
+2024-10-14 23:31:37.622268 Uniform: Alpha we want you to join our group
+2024-10-14 23:31:37.628452 Alpha: No
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:37.642047 Uniform: Can we be friends?
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:37.667387 Alpha: Yes
+2024-10-14 23:31:37.667730 X-ray: No
+2024-10-14 23:31:37.668031 Whiskey: Yes
+2024-10-14 23:31:37.668621 Sierra: No
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:37.735052 Alpha: We should add Uniform
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:37.749782 X-ray: No
+2024-10-14 23:31:37.750169 Whiskey: No
+2024-10-14 23:31:37.750324 Sierra: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:37.791722 Echo: Uniform, sending you 3
+2024-10-14 23:31:37.792705 Delta: Kilo, sending you 1
+2024-10-14 23:31:37.793664 X-ray: Alpha, sending you 3
+2024-10-14 23:31:37.796258 Echo: Tango, sending you 5
+2024-10-14 23:31:37.799119 X-ray: Whiskey, sending you 5
+2024-10-14 23:31:37.802677 X-ray: Sierra, sending you 4
+2024-10-14 23:31:37.803926 Uniform: Alpha, sending you 3
+2024-10-14 23:31:37.806701 Sierra: Alpha, sending you 3
+2024-10-14 23:31:37.807682 Uniform: X-ray, Whiskey and Sierra, sending you 1
+2024-10-14 23:31:37.810659 Sierra: X-ray and Whiskey, sending you 2
+2024-10-14 23:31:37.811752 Tango: Kilo, sending you 3
+2024-10-14 23:31:37.816 Tango: Echo, sending you 8
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Kilo round 8
+ChatterBot X-ray round 8
+ChatterBot Uniform round 8
+ChatterBot Mike round 8
+ChatterBot Echo round 8
+ChatterBot Whiskey round 8
+ChatterBot Delta round 8
+ChatterBot Tango round 8
+ChatterBot Sierra round 8
+2024-10-14 23:31:39.071114 Tango: We should replace Kilo with Uniform
+2024-10-14 23:31:39.086097 Echo: No
+2024-10-14 23:31:39.120280 Echo: We should drop Uniform
+2024-10-14 23:31:39.125661 Tango: No
+ChatterBot Echo reevaluating
+2024-10-14 23:31:39.133492 Tango: Uniform we want you to join our group
+2024-10-14 23:31:39.140601 Uniform: No
+ChatterBot Echo reevaluating
+2024-10-14 23:31:39.154473 Kilo: Same as last round
+2024-10-14 23:31:39.154984 Whiskey: I was attacked by Mike
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:39.177313 Whiskey: I'm keeping this round to protect myself
+2024-10-14 23:31:39.178588 Whiskey: Ow
+2024-10-14 23:31:39.179663 Alpha: We should add Uniform
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:39.200037 X-ray: No
+2024-10-14 23:31:39.200327 Whiskey: No
+2024-10-14 23:31:39.200524 Sierra: No
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:39.254683 Uniform: Alpha, sending you 4
+2024-10-14 23:31:39.255459 Delta: Kilo, sending you 1
+2024-10-14 23:31:39.257703 Uniform: X-ray, Whiskey and Sierra, sending you 1
+2024-10-14 23:31:39.263659 Tango: Uniform, sending you 3
+2024-10-14 23:31:39.266664 Tango: Echo, sending you 8
+2024-10-14 23:31:39.269678 Echo: Uniform, sending you 3
+2024-10-14 23:31:39.273693 Echo: Tango, sending you 5
+2024-10-14 23:31:39.277681 X-ray: Sending you each 4
+2024-10-14 23:31:39.279693 Sierra: Alpha and Whiskey, sending you 3
+2024-10-14 23:31:39.284052 Sierra: X-ray, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Kilo round 9
+ChatterBot X-ray round 9
+ChatterBot Uniform round 9
+ChatterBot Mike round 9
+ChatterBot Echo round 9
+ChatterBot Whiskey round 9
+ChatterBot Delta round 9
+2024-10-14 23:31:40.203316 Alpha: We should add Uniform
+2024-10-14 23:31:40.214820 X-ray: No
+2024-10-14 23:31:40.214997 Whiskey: No
+2024-10-14 23:31:40.215134 Sierra: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango round 9
+ChatterBot Sierra round 9
+2024-10-14 23:31:40.276434 Tango: We should replace Uniform with Mike
+ChatterBot Echo reevaluating
+2024-10-14 23:31:40.280466 Echo: No
+2024-10-14 23:31:40.287544 X-ray: I was attacked by Mike
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:40.299014 X-ray: I'm keeping this round to protect myself
+2024-10-14 23:31:40.299675 X-ray: Ow
+2024-10-14 23:31:40.299877 Tango: Mike we want you to join our group
+2024-10-14 23:31:40.303521 Mike: No
+ChatterBot Echo reevaluating
+2024-10-14 23:31:40.310589 Kilo: Same as last round
+2024-10-14 23:31:40.313681 Delta: Kilo, sending you 1
+2024-10-14 23:31:40.315688 Uniform: Alpha, sending you 4
+2024-10-14 23:31:40.321164 Uniform: X-ray, Whiskey and Sierra, sending you 1
+2024-10-14 23:31:40.324659 Alpha: X-ray, sending you 2
+2024-10-14 23:31:40.329688 Alpha: Whiskey and Sierra, sending you 3
+2024-10-14 23:31:40.331692 Whiskey: Alpha, sending you 3
+2024-10-14 23:31:40.334657 Tango: Mike, sending you 3
+2024-10-14 23:31:40.335666 Whiskey: X-ray and Sierra, sending you 4
+2024-10-14 23:31:40.336082 Echo: Mike, sending you 3
+2024-10-14 23:31:40.338871 Echo: Tango, sending you 5
+2024-10-14 23:31:40.339703 Tango: Echo, sending you 8
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Kilo round 10
+ChatterBot X-ray round 10
+ChatterBot Uniform round 10
+ChatterBot Mike round 10
+ChatterBot Echo round 10
+ChatterBot Whiskey round 10
+ChatterBot Delta round 10
+ChatterBot Tango round 10
+ChatterBot Sierra round 10
+2024-10-14 23:31:41.448786 Delta: Let's form a team
+ChatterBot Tango reevaluating
+2024-10-14 23:31:41.455977 Kilo: No
+2024-10-14 23:31:41.456144 Tango: Yes
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 23:31:41.475916 X-ray: I was attacked by Mike
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:41.486759 X-ray: I'm keeping this round to protect myself
+2024-10-14 23:31:41.487449 X-ray: Ow
+2024-10-14 23:31:41.487699 Alpha: We should add Uniform
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:41.499430 X-ray: No
+2024-10-14 23:31:41.499560 Whiskey: No
+2024-10-14 23:31:41.499699 Sierra: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:41.537684 Kilo: Same as last round
+2024-10-14 23:31:41.538116 Kilo: I was attacked by Sierra
+ChatterBot Delta reevaluating
+2024-10-14 23:31:41.547885 Kilo: Ow
+2024-10-14 23:31:41.548676 Uniform: Alpha, sending you 4
+2024-10-14 23:31:41.552673 Uniform: X-ray, Whiskey and Sierra, sending you 1
+2024-10-14 23:31:41.553156 Tango: Mike, sending you 3
+2024-10-14 23:31:41.553575 Echo: Mike, sending you 3
+2024-10-14 23:31:41.557904 Tango: Echo, sending you 8
+2024-10-14 23:31:41.558686 Echo: Tango, sending you 5
+2024-10-14 23:31:41.564682 Sierra: Alpha and X-ray, sending you 2
+2024-10-14 23:31:41.565921 Whiskey: Alpha and X-ray, sending you 4
+2024-10-14 23:31:41.567762 Delta: Kilo, sending you 1
+2024-10-14 23:31:41.568664 Alpha: Sending you each 3
+2024-10-14 23:31:41.569089 Whiskey: Sierra, sending you 3
+2024-10-14 23:31:41.570054 Sierra: Whiskey, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Kilo round 11
+ChatterBot X-ray round 11
+ChatterBot Uniform round 11
+ChatterBot Mike round 11
+ChatterBot Echo round 11
+ChatterBot Whiskey round 11
+ChatterBot Delta round 11
+ChatterBot Tango round 11
+ChatterBot Sierra round 11
+2024-10-14 23:31:42.697255 Delta: We should drop Echo
+2024-10-14 23:31:42.703560 Kilo: Yes
+2024-10-14 23:31:42.703786 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 23:31:42.717568 Tango: We should replace Mike with Uniform
+ChatterBot Echo reevaluating
+2024-10-14 23:31:42.721683 Echo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:31:42.728654 Alpha: X-ray and Whiskey, sending you 3
+2024-10-14 23:31:42.729898 Uniform: Alpha, sending you 5
+2024-10-14 23:31:42.730438 Kilo: Same as last round
+2024-10-14 23:31:42.730818 Whiskey: Alpha and Sierra, sending you 4
+2024-10-14 23:31:42.732672 Tango: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:42.738014 Uniform: Yes
+ChatterBot Echo reevaluating
+2024-10-14 23:31:42.744520 Uniform: We should group up
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:42.753669 Echo: Yes
+2024-10-14 23:31:42.753857 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:42.778710 Alpha: Sierra, sending you 4
+2024-10-14 23:31:42.779712 Whiskey: X-ray, sending you 3
+2024-10-14 23:31:42.783686 Sierra: Sending you each 2
+2024-10-14 23:31:42.794757 Uniform: Sorry, I'm actually sending you 0
+2024-10-14 23:31:42.795130 Uniform: Sorry, I'm actually sending you 0
+2024-10-14 23:31:42.795458 Uniform: Sorry, I'm actually sending you 0
+2024-10-14 23:31:42.796306 Uniform: Sorry, I'm actually sending you 0
+2024-10-14 23:31:42.799681 Uniform: Sending you each 3
+2024-10-14 23:31:42.809649 Echo: Tango, sending you 8
+2024-10-14 23:31:42.811681 Tango: Echo, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Kilo round 12
+ChatterBot X-ray round 12
+ChatterBot Uniform round 12
+ChatterBot Mike round 12
+ChatterBot Echo round 12
+ChatterBot Whiskey round 12
+ChatterBot Delta round 12
+ChatterBot Tango round 12
+ChatterBot Sierra round 12
+2024-10-14 23:31:43.948703 Whiskey: We should add Tango
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 23:31:43.961565 Alpha: Yes
+2024-10-14 23:31:43.961745 X-ray: No
+2024-10-14 23:31:43.961885 Sierra: No
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:44.000766 Tango: We should add Mike
+2024-10-14 23:31:44.007093 Echo: No
+2024-10-14 23:31:44.007242 Uniform: No
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:44.024728 Tango: We should add Delta
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:44.030713 Echo: No
+2024-10-14 23:31:44.030906 Uniform: No
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:44.047674 Echo: Uniform, sending you 3
+2024-10-14 23:31:44.048997 Mike: Sending you 2
+2024-10-14 23:31:44.049403 Delta: X-ray and Whiskey, sending you 2
+2024-10-14 23:31:44.050137 Tango: Mike we want you to join our group
+2024-10-14 23:31:44.056434 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:44.072094 Tango: We should add Sierra
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:44.083207 Echo: No
+2024-10-14 23:31:44.083464 Uniform: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:44.107284 Kilo: Same as last round
+2024-10-14 23:31:44.108474 Kilo: I was attacked by Tango
+ChatterBot Delta reevaluating
+2024-10-14 23:31:44.113658 Kilo: Ow
+2024-10-14 23:31:44.114350 Alpha: X-ray and Whiskey, sending you 3
+2024-10-14 23:31:44.114990 Echo: Tango, sending you 5
+2024-10-14 23:31:44.117843 Whiskey: Alpha, sending you 4
+2024-10-14 23:31:44.119044 Alpha: Sierra, sending you 4
+2024-10-14 23:31:44.119608 Sierra: Alpha and Whiskey, sending you 2
+2024-10-14 23:31:44.122711 Whiskey: X-ray, sending you 3
+2024-10-14 23:31:44.123717 Sierra: X-ray, sending you 3
+2024-10-14 23:31:44.126692 Whiskey: Echo and Tango, sending you 2
+2024-10-14 23:31:44.132662 Uniform: Echo, sending you 4
+2024-10-14 23:31:44.135672 Uniform: Tango, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Kilo round 13
+ChatterBot X-ray round 13
+ChatterBot Uniform round 13
+ChatterBot Mike round 13
+ChatterBot Echo round 13
+ChatterBot Whiskey round 13
+ChatterBot Delta round 13
+ChatterBot Tango round 13
+ChatterBot Sierra round 13
+2024-10-14 23:31:45.326282 Tango: We should replace Mike with X-ray
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:45.347546 Echo: No
+2024-10-14 23:31:45.347942 Uniform: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:45.380942 Uniform: We should add X-ray
+ChatterBot Tango reevaluating
+2024-10-14 23:31:45.391350 Echo: Yes
+2024-10-14 23:31:45.392252 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:45.421277 Kilo: I was attacked by Tango
+2024-10-14 23:31:45.421804 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:31:45.422040 Kilo: Ow
+2024-10-14 23:31:45.423151 Uniform: X-ray we want you to join our group
+2024-10-14 23:31:45.430434 X-ray: No
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:45.458969 X-ray: Alpha and Sierra, sending you 2
+2024-10-14 23:31:45.460078 Alpha: X-ray and Whiskey, sending you 3
+2024-10-14 23:31:45.461148 Delta: X-ray, sending you 3
+2024-10-14 23:31:45.461622 Echo: Uniform, sending you 3
+2024-10-14 23:31:45.462931 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:45.463582 Tango: Uniform, sending you 2
+2024-10-14 23:31:45.464666 X-ray: Whiskey, sending you 3
+2024-10-14 23:31:45.465980 Delta: Whiskey, sending you 2
+2024-10-14 23:31:45.466798 Alpha: Sierra, sending you 4
+2024-10-14 23:31:45.467873 Echo: Tango, sending you 5
+2024-10-14 23:31:45.468336 Whiskey: Tango, sending you 2
+2024-10-14 23:31:45.468745 Tango: Echo, sending you 5
+2024-10-14 23:31:45.473692 Whiskey: Sierra, sending you 4
+2024-10-14 23:31:45.475255 Uniform: Alpha, X-ray, Whiskey, Tango and Sierra, sending you 1
+2024-10-14 23:31:45.479692 Uniform: Echo, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Kilo round 14
+ChatterBot X-ray round 14
+ChatterBot Uniform round 14
+ChatterBot Mike round 14
+ChatterBot Echo round 14
+ChatterBot Whiskey round 14
+ChatterBot Delta round 14
+ChatterBot Tango round 14
+ChatterBot Sierra round 14
+2024-10-14 23:31:46.617885 Tango: We should replace Mike with Whiskey
+2024-10-14 23:31:46.636027 Echo: No
+2024-10-14 23:31:46.636341 Uniform: No
+ChatterBot Tango reevaluating
+2024-10-14 23:31:46.683674 X-ray: Alpha and Whiskey, sending you 4
+2024-10-14 23:31:46.685393 Echo: Uniform, sending you 3
+2024-10-14 23:31:46.687228 Kilo: I was attacked by Tango
+2024-10-14 23:31:46.687806 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:31:46.688158 Kilo: Ow
+2024-10-14 23:31:46.689108 Alpha: X-ray and Whiskey, sending you 3
+2024-10-14 23:31:46.690354 X-ray: Sierra, sending you 3
+2024-10-14 23:31:46.691598 Echo: Tango, sending you 5
+2024-10-14 23:31:46.693688 Alpha: Sierra, sending you 4
+2024-10-14 23:31:46.695941 Delta: Uniform and Tango, sending you 1
+2024-10-14 23:31:46.697986 Uniform: I was attacked by Sierra
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:46.720006 Uniform: I'm keeping this round to protect myself
+2024-10-14 23:31:46.727069 Uniform: Ow
+2024-10-14 23:31:46.727887 Delta: Echo, sending you 2
+2024-10-14 23:31:46.731925 Whiskey: Alpha, sending you 6
+2024-10-14 23:31:46.734080 Sierra: Alpha and Whiskey, sending you 2
+2024-10-14 23:31:46.738093 Whiskey: X-ray, sending you 5
+2024-10-14 23:31:46.740683 Sierra: X-ray, sending you 3
+2024-10-14 23:31:46.755689 Tango: Uniform, sending you 4
+2024-10-14 23:31:46.759662 Tango: Echo, sending you 7
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Kilo round 15
+ChatterBot X-ray round 15
+ChatterBot Uniform round 15
+ChatterBot Mike round 15
+ChatterBot Echo round 15
+ChatterBot Whiskey round 15
+ChatterBot Delta round 15
+ChatterBot Tango round 15
+ChatterBot Sierra round 15
+2024-10-14 23:31:48.218965 Whiskey: We should add Uniform and Mike
+ChatterBot Alpha reevaluating
+2024-10-14 23:31:48.234168 Alpha: No
+2024-10-14 23:31:48.234380 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 23:31:48.280703 Alpha: X-ray, sending you 4
+2024-10-14 23:31:48.283686 Sierra: Alpha and Whiskey, sending you 2
+2024-10-14 23:31:48.285694 Alpha: Whiskey and Sierra, sending you 3
+2024-10-14 23:31:48.287708 Sierra: X-ray, sending you 3
+2024-10-14 23:31:48.288700 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:48.291056 X-ray: Sending you each 4
+2024-10-14 23:31:48.292683 Echo: Uniform, sending you 3
+2024-10-14 23:31:48.293774 Whiskey: X-ray, sending you 6
+2024-10-14 23:31:48.294145 Tango: Uniform, sending you 4
+2024-10-14 23:31:48.294521 Delta: X-ray, sending you 3
+2024-10-14 23:31:48.297085 Echo: Tango, sending you 5
+2024-10-14 23:31:48.297673 Tango: Echo, sending you 7
+2024-10-14 23:31:48.298278 Delta: Whiskey, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Kilo round 16
+ChatterBot X-ray round 16
+ChatterBot Uniform round 16
+ChatterBot Mike round 16
+ChatterBot Echo round 16
+ChatterBot Whiskey round 16
+ChatterBot Delta round 16
+ChatterBot Tango round 16
+ChatterBot Sierra round 16
+2024-10-14 23:31:49.625669 Alpha: X-ray, sending you 4
+2024-10-14 23:31:49.627637 X-ray: Same as last round
+2024-10-14 23:31:49.675370 Alpha: Whiskey and Sierra, sending you 3
+2024-10-14 23:31:49.677156 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:49.677584 Tango: Uniform, sending you 3
+2024-10-14 23:31:49.678638 Echo: Uniform, sending you 3
+2024-10-14 23:31:49.679013 Delta: X-ray, sending you 3
+2024-10-14 23:31:49.680428 Whiskey: X-ray, sending you 6
+2024-10-14 23:31:49.727700 Tango: Echo, sending you 8
+2024-10-14 23:31:49.728624 Echo: Tango, sending you 5
+2024-10-14 23:31:49.729929 Delta: Whiskey, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Kilo round 17
+ChatterBot X-ray round 17
+ChatterBot Uniform round 17
+ChatterBot Mike round 17
+ChatterBot Echo round 17
+ChatterBot Whiskey round 17
+ChatterBot Delta round 17
+ChatterBot Tango round 17
+ChatterBot Sierra round 17
+2024-10-14 23:31:50.789793 Alpha: We should add Mike
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:50.814903 X-ray: No
+2024-10-14 23:31:50.815158 Whiskey: No
+2024-10-14 23:31:50.815385 Sierra: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:50.893124 Whiskey: Group up?
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:50.923419 Uniform: Yes
+2024-10-14 23:31:50.923640 Echo: No
+2024-10-14 23:31:50.924457 Tango: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:51.057184 Uniform: We should add Whiskey
+ChatterBot Tango reevaluating
+2024-10-14 23:31:51.076805 Echo: No
+2024-10-14 23:31:51.077440 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:51.153214 Tango: We should replace Mike with Delta
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:51.172569 Echo: No
+2024-10-14 23:31:51.172796 Uniform: No
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:51.206225 Tango: We should replace Mike with Whiskey
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:51.218530 Echo: No
+2024-10-14 23:31:51.219411 Uniform: Yes
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:51.278542 Uniform: Whiskey we want you to join our group
+2024-10-14 23:31:51.288538 Whiskey: Yes
+2024-10-14 23:31:51.313052 Tango: Whiskey we want you to join our group
+2024-10-14 23:31:51.319731 Whiskey: Yes
+2024-10-14 23:31:51.424397 X-ray: Alpha, sending you 4
+2024-10-14 23:31:51.427537 Whiskey: Uniform, sending you 4
+2024-10-14 23:31:51.428222 Sierra: Sending you each 2
+2024-10-14 23:31:51.434782 Alpha: X-ray, sending you 4
+2024-10-14 23:31:51.435949 Echo: Uniform, sending you 3
+2024-10-14 23:31:51.436539 Delta: Sending you each 1
+2024-10-14 23:31:51.439135 X-ray: Whiskey, sending you 5
+2024-10-14 23:31:51.440046 Whiskey: Echo and Tango, sending you 2
+2024-10-14 23:31:51.442439 Echo: Tango, sending you 5
+2024-10-14 23:31:51.442925 Alpha: Whiskey and Sierra, sending you 3
+2024-10-14 23:31:51.447793 Uniform: Echo, sending you 4
+2024-10-14 23:31:51.448963 X-ray: Sierra, sending you 3
+2024-10-14 23:31:51.533061 Uniform: Whiskey and Tango, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Kilo round 18
+ChatterBot X-ray round 18
+ChatterBot Uniform round 18
+ChatterBot Mike round 18
+ChatterBot Echo round 18
+ChatterBot Whiskey round 18
+ChatterBot Delta round 18
+ChatterBot Tango round 18
+ChatterBot Sierra round 18
+2024-10-14 23:31:52.349221 Alpha: We should add Echo
+2024-10-14 23:31:52.369978 X-ray: No
+2024-10-14 23:31:52.370195 Whiskey: No
+2024-10-14 23:31:52.370346 Sierra: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 23:31:52.416222 Delta: Let's form a team
+2024-10-14 23:31:52.421114 Mike: No
+2024-10-14 23:31:52.450676 X-ray: Alpha, sending you 5
+2024-10-14 23:31:52.454688 Alpha: Sending you each 3
+2024-10-14 23:31:52.456781 X-ray: Whiskey, sending you 4
+2024-10-14 23:31:52.457971 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:52.461684 Delta: Sending you 2
+2024-10-14 23:31:52.462677 X-ray: Sierra, sending you 3
+2024-10-14 23:31:52.464257 Whiskey: X-ray, sending you 6
+2024-10-14 23:31:52.464562 Uniform: Echo, sending you 4
+2024-10-14 23:31:52.465040 Echo: Uniform, sending you 3
+2024-10-14 23:31:52.468666 Echo: Tango, sending you 5
+2024-10-14 23:31:52.470396 Uniform: Whiskey, sending you 3
+2024-10-14 23:31:52.473669 Uniform: Tango, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Kilo round 19
+ChatterBot X-ray round 19
+ChatterBot Uniform round 19
+ChatterBot Mike round 19
+ChatterBot Echo round 19
+ChatterBot Whiskey round 19
+ChatterBot Delta round 19
+ChatterBot Tango round 19
+ChatterBot Sierra round 19
+2024-10-14 23:31:53.695019 Tango: We should replace Whiskey with Delta
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:53.711405 Echo: No
+2024-10-14 23:31:53.711586 Uniform: No
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:31:53.808649 Uniform: We should add Alpha and X-ray
+ChatterBot Tango reevaluating
+2024-10-14 23:31:53.942222 Whiskey: Yes
+2024-10-14 23:31:53.942405 Echo: No
+2024-10-14 23:31:53.942639 Tango: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:54.050411 Tango: Alpha and X-ray we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 23:31:54.073306 Alpha: No
+2024-10-14 23:31:54.073654 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Alpha reevaluating
+chatterbot X-ray submitting transactions
+2024-10-14 23:31:54.182677 Echo: Uniform, sending you 4
+2024-10-14 23:31:54.184215 Sierra: Sending you each 2
+2024-10-14 23:31:54.185411 X-ray: Alpha, sending you 4
+2024-10-14 23:31:54.187049 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:54.188314 Alpha: We should drop Sierra
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:54.202680 Whiskey: Yes
+2024-10-14 23:31:54.202954 X-ray: Yes
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 23:31:54.238507 Uniform: Alpha and X-ray we want you to join our group
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 23:31:54.260836 Alpha: No
+2024-10-14 23:31:54.261210 X-ray: No
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 23:31:54.337609 Echo: Tango, sending you 2
+2024-10-14 23:31:54.338785 Whiskey: X-ray, sending you 6
+2024-10-14 23:31:54.342742 Delta: Uniform, sending you 2
+2024-10-14 23:31:54.345865 Delta: Echo, sending you 1
+2024-10-14 23:31:54.364715 Alpha: Same as last round
+2024-10-14 23:31:54.368675 Uniform: Alpha, X-ray and Tango, sending you 1
+2024-10-14 23:31:54.375675 Uniform: Echo, sending you 3
+2024-10-14 23:31:54.380894 Uniform: Whiskey, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Kilo round 20
+ChatterBot X-ray round 20
+ChatterBot Uniform round 20
+ChatterBot Mike round 20
+ChatterBot Echo round 20
+ChatterBot Whiskey round 20
+ChatterBot Delta round 20
+ChatterBot Tango round 20
+ChatterBot Sierra round 20
+2024-10-14 23:31:55.556230 Uniform: We should drop Echo and Tango
+2024-10-14 23:31:55.590854 Alpha: Yes
+2024-10-14 23:31:55.591080 X-ray: Yes
+2024-10-14 23:31:55.591267 Whiskey: Yes
+2024-10-14 23:31:55.719262 Echo: We should drop Tango
+2024-10-14 23:31:55.737301 Uniform: Yes
+2024-10-14 23:31:55.757699 Alpha: Same as last round
+2024-10-14 23:31:55.767790 Delta: X-ray, sending you 3
+2024-10-14 23:31:55.769620 Echo: Sending you 8
+2024-10-14 23:31:55.771663 Delta: Whiskey, sending you 2
+2024-10-14 23:31:55.773714 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:55.778683 Uniform: Alpha and X-ray, sending you 2
+2024-10-14 23:31:55.780088 Whiskey: X-ray, sending you 6
+2024-10-14 23:31:55.782656 Uniform: Whiskey, sending you 5
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Kilo round 21
+ChatterBot X-ray round 21
+ChatterBot Uniform round 21
+ChatterBot Mike round 21
+ChatterBot Echo round 21
+ChatterBot Whiskey round 21
+ChatterBot Delta round 21
+ChatterBot Tango round 21
+ChatterBot Sierra round 21
+2024-10-14 23:31:56.841542 Echo: We should add Whiskey
+2024-10-14 23:31:56.850484 Uniform: Yes
+2024-10-14 23:31:56.895367 Echo: Whiskey we want you to join our group
+2024-10-14 23:31:56.903063 Whiskey: Yes
+2024-10-14 23:31:56.926095 Tango: I was attacked by X-ray
+2024-10-14 23:31:56.927323 Tango: I'm keeping this round to protect myself
+2024-10-14 23:31:56.927776 Tango: Ow
+2024-10-14 23:31:56.931444 Uniform: Alpha and X-ray, sending you 2
+2024-10-14 23:31:56.932609 Delta: X-ray, sending you 3
+2024-10-14 23:31:56.953763 Uniform: Whiskey, sending you 5
+2024-10-14 23:31:56.956213 Alpha: Same as last round
+2024-10-14 23:31:56.958293 Delta: Whiskey, sending you 2
+2024-10-14 23:31:56.959539 Whiskey: Sending you each 3
+2024-10-14 23:31:56.961789 Echo: Sending you each 4
+2024-10-14 23:31:56.963788 Mike: I was attacked by Sierra
+2024-10-14 23:31:56.964127 Mike: I'm keeping this round to protect myself
+2024-10-14 23:31:56.964527 Mike: Ow
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Kilo round 22
+ChatterBot X-ray round 22
+ChatterBot Uniform round 22
+ChatterBot Mike round 22
+ChatterBot Echo round 22
+ChatterBot Whiskey round 22
+ChatterBot Delta round 22
+ChatterBot Tango round 22
+ChatterBot Sierra round 22
+2024-10-14 23:31:58.012306 Whiskey: We should add Delta
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:58.030812 Echo: No
+2024-10-14 23:31:58.031048 Uniform: No
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:58.123894 Whiskey: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 23:31:58.135223 Delta: No
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:31:58.175904 Echo: Same as last round
+2024-10-14 23:31:58.184159 Alpha: Same as last round
+2024-10-14 23:31:58.230517 Whiskey: Alpha, sending you 5
+2024-10-14 23:31:58.232760 Uniform: Echo, sending you 3
+2024-10-14 23:31:58.262502 Whiskey: X-ray, sending you 6
+2024-10-14 23:31:58.263715 Uniform: Whiskey, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Kilo round 23
+ChatterBot X-ray round 23
+ChatterBot Uniform round 23
+ChatterBot Mike round 23
+ChatterBot Echo round 23
+ChatterBot Whiskey round 23
+ChatterBot Delta round 23
+ChatterBot Tango round 23
+ChatterBot Sierra round 23
+2024-10-14 23:31:59.532333 Whiskey: We should drop Alpha
+2024-10-14 23:31:59.540872 X-ray: No
+2024-10-14 23:31:59.549570 Uniform: I was attacked by Sierra
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:31:59.575006 Uniform: I'm keeping this round to protect myself
+2024-10-14 23:31:59.578891 Uniform: Ow
+2024-10-14 23:31:59.585188 Echo: Same as last round
+2024-10-14 23:31:59.587649 Sierra: Sending you each 1
+2024-10-14 23:31:59.645998 Whiskey: Sending you 9
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Kilo round 24
+ChatterBot X-ray round 24
+ChatterBot Uniform round 24
+ChatterBot Mike round 24
+ChatterBot Echo round 24
+ChatterBot Whiskey round 24
+ChatterBot Delta round 24
+ChatterBot Tango round 24
+ChatterBot Sierra round 24
+2024-10-14 23:32:00.922956 Whiskey: Sending you 10
+2024-10-14 23:32:00.924500 Echo: Uniform, sending you 2
+2024-10-14 23:32:00.940062 Delta: I was attacked by Sierra
+2024-10-14 23:32:00.941109 Delta: I'm keeping this round to protect myself
+2024-10-14 23:32:00.941522 Delta: Ow
+2024-10-14 23:32:00.942371 Echo: Whiskey, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Kilo round 25
+ChatterBot X-ray round 25
+ChatterBot Uniform round 25
+ChatterBot Mike round 25
+ChatterBot Echo round 25
+ChatterBot Whiskey round 25
+ChatterBot Delta round 25
+ChatterBot Tango round 25
+ChatterBot Sierra round 25
+2024-10-14 23:32:02.968780 Echo: I was attacked by Sierra
+2024-10-14 23:32:02.969177 Echo: I'm keeping this round to protect myself
+2024-10-14 23:32:02.969436 Echo: Ow
+2024-10-14 23:32:02.978696 Whiskey: Same as last round
+2024-10-14 23:32:02.983662 Sierra: Sending you each 3
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Kilo round 26
+ChatterBot X-ray round 26
+ChatterBot Uniform round 26
+ChatterBot Mike round 26
+ChatterBot Echo round 26
+ChatterBot Whiskey round 26
+ChatterBot Delta round 26
+ChatterBot Tango round 26
+ChatterBot Sierra round 26
+2024-10-14 23:32:04.293869 Uniform: I was attacked by Sierra
+2024-10-14 23:32:04.294388 Uniform: I'm keeping this round to protect myself
+2024-10-14 23:32:04.295439 Uniform: Ow
+2024-10-14 23:32:04.309389 Whiskey: Same as last round
+2024-10-14 23:32:04.316201 Sierra: Alpha, sending you 3
+2024-10-14 23:32:04.322715 Sierra: X-ray and Whiskey, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Kilo round 27
+ChatterBot X-ray round 27
+ChatterBot Uniform round 27
+ChatterBot Mike round 27
+ChatterBot Echo round 27
+ChatterBot Whiskey round 27
+ChatterBot Delta round 27
+ChatterBot Tango round 27
+ChatterBot Sierra round 27
+2024-10-14 23:32:05.684244 Sierra: Sending you each 4
+2024-10-14 23:32:05.694891 Whiskey: Sending you 11
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Kilo round 28
+ChatterBot X-ray round 28
+ChatterBot Uniform round 28
+ChatterBot Mike round 28
+ChatterBot Echo round 28
+ChatterBot Whiskey round 28
+ChatterBot Delta round 28
+ChatterBot Tango round 28
+ChatterBot Sierra round 28
+2024-10-14 23:32:06.926297 Whiskey: Same as last round
+2024-10-14 23:32:06.938223 Sierra: Alpha and X-ray, sending you 4
+2024-10-14 23:32:06.943700 Sierra: Whiskey, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Kilo round 29
+ChatterBot X-ray round 29
+ChatterBot Uniform round 29
+ChatterBot Mike round 29
+ChatterBot Echo round 29
+ChatterBot Whiskey round 29
+ChatterBot Delta round 29
+ChatterBot Tango round 29
+ChatterBot Sierra round 29
+2024-10-14 23:32:08.335456 Mike: I was attacked by Sierra
+2024-10-14 23:32:08.336030 Mike: I'm keeping this round to protect myself
+2024-10-14 23:32:08.336488 Mike: Ow
+2024-10-14 23:32:08.342894 Whiskey: Same as last round
+2024-10-14 23:32:08.350916 Sierra: Sending you each 4
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Kilo round 30
+ChatterBot X-ray round 30
+ChatterBot Uniform round 30
+ChatterBot Mike round 30
+ChatterBot Echo round 30
+ChatterBot Whiskey round 30
+ChatterBot Delta round 30
+ChatterBot Tango round 30
+ChatterBot Sierra round 30
+2024-10-14 23:32:09.560707 Sierra: Same as last round
+2024-10-14 23:32:09.569746 Whiskey: Same as last round
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions

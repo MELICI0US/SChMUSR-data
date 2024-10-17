@@ -1,0 +1,2209 @@
+ChatterBot Alpha round 1
+ChatterBot Quebec round 1
+ChatterBot Echo round 1
+ChatterBot Charlie round 1
+ChatterBot Kilo round 1
+ChatterBot X-ray round 1
+ChatterBot Golf round 1
+ChatterBot Mike round 1
+ChatterBot Bravo round 1
+ChatterBot Victor round 1
+randomSelections Quebec: {Quebec, Golf, Mike} 
+2024-10-15 01:34:45.811818 Quebec: Can we be friends?
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:34:45.816235 Golf: Yes
+2024-10-15 01:34:45.816395 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+randomSelections Alpha: {Alpha, Golf, Victor, Mike, Bravo, Quebec} 
+2024-10-15 01:34:45.826002 Alpha: We would work well together
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:34:45.840209 Golf: No
+2024-10-15 01:34:45.841389 Victor: Yes
+2024-10-15 01:34:45.841628 Mike: No
+2024-10-15 01:34:45.841981 Bravo: Yes
+2024-10-15 01:34:45.842140 Quebec: No
+ChatterBot Victor reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+randomSelections X-ray: {X-ray, Victor, Bravo, Alpha, Quebec, Echo} 
+2024-10-15 01:34:45.893217 X-ray: Group up?
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:34:45.899411 Victor: No
+2024-10-15 01:34:45.899553 Bravo: No
+2024-10-15 01:34:45.899746 Alpha: No
+2024-10-15 01:34:45.900098 Quebec: No
+2024-10-15 01:34:45.900405 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Kilo: {Kilo, Charlie, Golf, Alpha, Echo, Bravo} 
+2024-10-15 01:34:45.927765 Kilo: We would work well together
+ChatterBot Charlie reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:34:45.933945 Charlie: Yes
+2024-10-15 01:34:45.934053 Golf: No
+2024-10-15 01:34:45.934174 Alpha: No
+2024-10-15 01:34:45.934286 Echo: No
+2024-10-15 01:34:45.934379 Bravo: No
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:34:45.971665 X-ray: Alpha, sending you 3
+2024-10-15 01:34:45.971992 Victor: Alpha, sending you 4
+2024-10-15 01:34:45.974704 Quebec: Golf, sending you 3
+2024-10-15 01:34:45.975682 X-ray: Quebec, sending you 4
+2024-10-15 01:34:45.976676 Victor: Quebec, Golf, Mike and Bravo, sending you 2
+2024-10-15 01:34:45.976970 Alpha: Quebec and Bravo, sending you 3
+2024-10-15 01:34:45.978683 Quebec: Mike, sending you 4
+2024-10-15 01:34:45.979675 Kilo: Alpha, sending you 1
+2024-10-15 01:34:45.980682 X-ray: Echo, sending you 1
+2024-10-15 01:34:45.980936 Alpha: Golf and Mike, sending you 1
+2024-10-15 01:34:45.981688 Golf: Sending you each 2
+2024-10-15 01:34:45.983715 Kilo: Charlie, Golf and Bravo, sending you 2
+2024-10-15 01:34:45.984 X-ray: Bravo, sending you 2
+2024-10-15 01:34:45.984664 Alpha: Victor, sending you 2
+2024-10-15 01:34:45.985674 Charlie: Alpha and Echo, sending you 3
+2024-10-15 01:34:45.986681 Mike: Quebec, sending you 4
+2024-10-15 01:34:45.986945 Bravo: Alpha, sending you 4
+2024-10-15 01:34:45.990656 Charlie: Kilo, sending you 2
+2024-10-15 01:34:45.990966 Mike: Golf, sending you 3
+2024-10-15 01:34:45.991182 Bravo: Mike, sending you 2
+2024-10-15 01:34:45.991402 Echo: Quebec and X-ray, sending you 1
+2024-10-15 01:34:45.994646 Bravo: Victor, sending you 3
+2024-10-15 01:34:45.994864 Echo: Bravo and Victor, sending you 3
+2024-10-15 01:34:45.995664 Charlie: Golf and Bravo, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 2
+ChatterBot Quebec round 2
+ChatterBot Echo round 2
+ChatterBot Charlie round 2
+ChatterBot Kilo round 2
+2024-10-15 01:34:48.448538 Alpha: Can we be friends?
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 01:34:48.491037 Bravo: No
+2024-10-15 01:34:48.491271 Victor: No
+2024-10-15 01:34:48.491401 Echo: No
+2024-10-15 01:34:48.491510 X-ray: No
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray round 2
+ChatterBot Golf round 2
+ChatterBot Mike round 2
+ChatterBot Bravo round 2
+ChatterBot Victor round 2
+2024-10-15 01:34:48.650306 Kilo: Let's form a team
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:48.703133 Charlie: No
+2024-10-15 01:34:48.703417 Alpha: No
+2024-10-15 01:34:48.708496 Bravo: No
+2024-10-15 01:34:48.708740 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:34:48.882826 Golf: Friends?
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:34:48.907541 Alpha: No
+2024-10-15 01:34:48.907790 Victor: No
+2024-10-15 01:34:48.907967 Mike: Yes
+2024-10-15 01:34:48.908184 Bravo: No
+2024-10-15 01:34:48.908853 Quebec: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:34:49.125276 Quebec: We should drop Golf
+2024-10-15 01:34:49.133980 Mike: No
+2024-10-15 01:34:49.143530 X-ray: We should drop Quebec
+2024-10-15 01:34:49.172813 Alpha: Yes
+2024-10-15 01:34:49.173032 Bravo: Yes
+2024-10-15 01:34:49.173198 Victor: Yes
+2024-10-15 01:34:49.173914 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:34:49.288701 Alpha: Echo, sending you 1
+2024-10-15 01:34:49.300403 Alpha: X-ray, Bravo and Victor, sending you 3
+2024-10-15 01:34:49.300832 Golf: Alpha, Bravo and Victor, sending you 1
+2024-10-15 01:34:49.301745 Mike: Alpha, Bravo and Victor, sending you 1
+2024-10-15 01:34:49.302123 Kilo: Echo and Charlie, sending you 2
+2024-10-15 01:34:49.302527 Charlie: Sending you each 5
+2024-10-15 01:34:49.310784 Golf: Quebec and Mike, sending you 2
+2024-10-15 01:34:49.311882 Mike: Quebec and Golf, sending you 2
+2024-10-15 01:34:49.312384 Victor: Alpha, Echo and X-ray, sending you 3
+2024-10-15 01:34:49.313273 Bravo: Alpha, sending you 3
+2024-10-15 01:34:49.313591 X-ray: Echo, sending you 6
+2024-10-15 01:34:49.313976 Quebec: Sending you 7
+2024-10-15 01:34:49.335231 Bravo: Echo, X-ray and Victor, sending you 2
+2024-10-15 01:34:49.335685 Victor: Bravo, sending you 4
+2024-10-15 01:34:49.336107 Echo: Charlie, sending you 2
+2024-10-15 01:34:49.342481 Echo: Kilo, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 3
+ChatterBot Quebec round 3
+ChatterBot Echo round 3
+ChatterBot Charlie round 3
+ChatterBot Kilo round 3
+ChatterBot X-ray round 3
+ChatterBot Golf round 3
+ChatterBot Mike round 3
+2024-10-15 01:34:50.446344 Echo: Can we be friends?
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 01:34:50.485337 Charlie: No
+2024-10-15 01:34:50.485564 Kilo: No
+2024-10-15 01:34:50.485819 Alpha: No
+2024-10-15 01:34:50.486029 X-ray: No
+2024-10-15 01:34:50.486682 Bravo: No
+2024-10-15 01:34:50.486858 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 01:34:50.729264 Quebec: We should add Golf
+ChatterBot Mike reevaluating
+2024-10-15 01:34:50.734239 Mike: Yes
+2024-10-15 01:34:50.738210 Mike: We should add X-ray
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:34:50.758704 Alpha: Yes
+2024-10-15 01:34:50.758841 Golf: Yes
+2024-10-15 01:34:50.758953 Victor: Yes
+2024-10-15 01:34:50.759044 Bravo: Yes
+2024-10-15 01:34:50.759131 Quebec: Yes
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo round 3
+ChatterBot Victor round 3
+2024-10-15 01:34:51.034532 Kilo: X-ray we want you to join our group
+2024-10-15 01:34:51.039002 X-ray: No
+2024-10-15 01:34:51.050705 Quebec: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-15 01:34:51.055731 Golf: Yes
+ChatterBot Mike reevaluating
+2024-10-15 01:34:51.072784 Bravo: We should add Charlie and Kilo
+ChatterBot Victor reevaluating
+2024-10-15 01:34:51.087081 Alpha: No
+2024-10-15 01:34:51.088110 Victor: Yes
+2024-10-15 01:34:51.088389 Echo: Yes
+2024-10-15 01:34:51.088660 X-ray: No
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:51.162472 Charlie: Echo we want you to join our group
+2024-10-15 01:34:51.168781 Echo: Yes
+2024-10-15 01:34:51.186972 Mike: X-ray we want you to join our group
+2024-10-15 01:34:51.193491 X-ray: No
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:51.224528 Bravo: Charlie and Kilo we want you to join our group
+2024-10-15 01:34:51.235905 Charlie: No
+2024-10-15 01:34:51.236885 Kilo: No
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+chatterbot Echo submitting transactions
+2024-10-15 01:34:51.285915 Echo: Alpha, Charlie, Kilo, Bravo and Victor, sending you 1
+2024-10-15 01:34:51.290080 X-ray: Alpha and Victor, sending you 4
+2024-10-15 01:34:51.290763 Echo: X-ray, sending you 2
+2024-10-15 01:34:51.291178 Quebec: Golf, sending you 3
+2024-10-15 01:34:51.292253 Kilo: Echo and Charlie, sending you 2
+2024-10-15 01:34:51.294319 X-ray: Echo, sending you 1
+2024-10-15 01:34:51.301151 Quebec: Mike, sending you 4
+2024-10-15 01:34:51.301416 Kilo: X-ray, sending you 1
+2024-10-15 01:34:51.301643 X-ray: Bravo, sending you 3
+2024-10-15 01:34:51.312935 Charlie: Echo and X-ray, sending you 3
+2024-10-15 01:34:51.314120 Bravo: Alpha, sending you 3
+2024-10-15 01:34:51.314704 Victor: Alpha, sending you 4
+2024-10-15 01:34:51.327383 Charlie: Kilo, sending you 4
+2024-10-15 01:34:51.327815 Bravo: Echo, Charlie, Kilo and X-ray, sending you 1
+2024-10-15 01:34:51.328389 Golf: Alpha, sending you 2
+2024-10-15 01:34:51.329544 Alpha: Echo and X-ray, sending you 2
+2024-10-15 01:34:51.330091 Victor: Echo, X-ray and Bravo, sending you 3
+2024-10-15 01:34:51.331464 Bravo: Victor, sending you 2
+2024-10-15 01:34:51.341689 Golf: X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:34:51.342110 Mike: Alpha, X-ray, Golf, Bravo and Victor, sending you 1
+2024-10-15 01:34:51.343151 Alpha: Bravo and Victor, sending you 3
+2024-10-15 01:34:51.354734 Mike: Quebec, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Quebec round 4
+ChatterBot Echo round 4
+ChatterBot Charlie round 4
+ChatterBot Kilo round 4
+ChatterBot X-ray round 4
+ChatterBot Golf round 4
+ChatterBot Mike round 4
+2024-10-15 01:34:52.192902 Charlie: We should replace X-ray with Bravo
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:52.199854 Echo: No
+2024-10-15 01:34:52.200026 Kilo: No
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo round 4
+ChatterBot Victor round 4
+2024-10-15 01:34:52.237016 Golf: We should add Quebec and Mike
+2024-10-15 01:34:52.248122 Alpha: No
+2024-10-15 01:34:52.248298 X-ray: No
+2024-10-15 01:34:52.248820 Bravo: No
+2024-10-15 01:34:52.248965 Victor: No
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:34:52.295733 Victor: We should add Charlie and Kilo
+2024-10-15 01:34:52.306977 Alpha: No
+2024-10-15 01:34:52.307127 Bravo: Yes
+2024-10-15 01:34:52.307230 Echo: Yes
+2024-10-15 01:34:52.307328 X-ray: No
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:52.516760 Alpha: We should drop Echo
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:52.533149 X-ray: No
+2024-10-15 01:34:52.533415 Bravo: Yes
+2024-10-15 01:34:52.533609 Victor: No
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:34:52.654312 X-ray: Alpha and Victor, sending you 4
+2024-10-15 01:34:52.655831 Echo: Alpha, Charlie, Kilo and Bravo, sending you 1
+2024-10-15 01:34:52.657273 Quebec: Golf, sending you 3
+2024-10-15 01:34:52.657951 Mike: Alpha, X-ray, Golf, Bravo and Victor, sending you 1
+2024-10-15 01:34:52.659732 X-ray: Echo and Bravo, sending you 2
+2024-10-15 01:34:52.693260 Echo: X-ray and Victor, sending you 2
+2024-10-15 01:34:52.694641 Quebec: Mike, sending you 4
+2024-10-15 01:34:52.695120 Mike: Quebec, sending you 2
+2024-10-15 01:34:52.696171 Charlie: Alpha, Echo, Kilo, Bravo and Victor, sending you 2
+2024-10-15 01:34:52.697110 Golf: Sending you each 2
+2024-10-15 01:34:52.698215 Kilo: Echo and Charlie, sending you 2
+2024-10-15 01:34:52.718459 Victor: Alpha, sending you 4
+2024-10-15 01:34:52.719230 Bravo: Alpha, X-ray and Victor, sending you 2
+2024-10-15 01:34:52.720523 Kilo: X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:34:52.722300 Alpha: Echo and X-ray, sending you 2
+chatterbot Kilo submitting transactions
+2024-10-15 01:34:52.723289 Bravo: Echo, Charlie and Kilo, sending you 1
+2024-10-15 01:34:52.744399 Victor: Echo, X-ray and Bravo, sending you 3
+2024-10-15 01:34:52.745341 Alpha: Bravo and Victor, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Quebec round 5
+ChatterBot Echo round 5
+ChatterBot Charlie round 5
+ChatterBot Kilo round 5
+ChatterBot X-ray round 5
+ChatterBot Golf round 5
+ChatterBot Mike round 5
+ChatterBot Bravo round 5
+ChatterBot Victor round 5
+2024-10-15 01:34:53.582636 Golf: We should add Charlie and Kilo
+2024-10-15 01:34:53.589415 Quebec: No
+2024-10-15 01:34:53.589593 Mike: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:34:53.603729 X-ray: We should add Charlie and Kilo
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:53.613978 Alpha: Yes
+2024-10-15 01:34:53.614119 Bravo: Yes
+2024-10-15 01:34:53.614230 Victor: Yes
+2024-10-15 01:34:53.614338 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:53.659176 X-ray: Charlie and Kilo we want you to join our group
+2024-10-15 01:34:53.663857 Charlie: No
+2024-10-15 01:34:53.664003 Kilo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:53.692984 Charlie: Echo and Kilo, sending you 5
+2024-10-15 01:34:53.695670 Kilo: Echo and Charlie, sending you 2
+2024-10-15 01:34:53.696166 Quebec: Golf, sending you 3
+2024-10-15 01:34:53.696423 Echo: Alpha, Charlie, Kilo and Bravo, sending you 1
+2024-10-15 01:34:53.696823 Alpha: Charlie and Kilo we want you to join our group
+2024-10-15 01:34:53.702732 Charlie: No
+2024-10-15 01:34:53.702879 Kilo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:34:53.737326 Mike: Quebec, sending you 3
+2024-10-15 01:34:53.737653 Kilo: X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:34:53.737988 Quebec: Mike, sending you 4
+2024-10-15 01:34:53.738211 Victor: Charlie and Kilo we want you to join our group
+2024-10-15 01:34:53.743968 Charlie: No
+2024-10-15 01:34:53.744098 Kilo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:34:53.780073 Echo: X-ray and Victor, sending you 2
+2024-10-15 01:34:53.781525 Mike: Golf and Victor, sending you 2
+2024-10-15 01:34:53.784704 Golf: Same as last round
+2024-10-15 01:34:53.785074 Bravo: Alpha, X-ray and Victor, sending you 2
+2024-10-15 01:34:53.785680 X-ray: Alpha and Victor, sending you 3
+2024-10-15 01:34:53.789693 Bravo: Echo, Charlie and Kilo, sending you 1
+2024-10-15 01:34:53.790478 X-ray: Echo, Charlie and Bravo, sending you 2
+2024-10-15 01:34:53.793691 Victor: Alpha, sending you 3
+2024-10-15 01:34:53.796869 Kilo: Sorry, I'm actually sending you 0
+2024-10-15 01:34:53.798121 Kilo: Sorry, I'm actually sending you 0
+2024-10-15 01:34:53.798574 Kilo: Sorry, I'm actually sending you 0
+2024-10-15 01:34:53.798986 Victor: Echo, Charlie, Kilo, X-ray and Bravo, sending you 2
+2024-10-15 01:34:53.818707 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Quebec round 6
+ChatterBot Echo round 6
+ChatterBot Charlie round 6
+ChatterBot Kilo round 6
+ChatterBot X-ray round 6
+ChatterBot Golf round 6
+ChatterBot Mike round 6
+ChatterBot Bravo round 6
+ChatterBot Victor round 6
+2024-10-15 01:34:54.823529 Mike: We should replace Victor with Charlie
+2024-10-15 01:34:54.829122 Quebec: No
+2024-10-15 01:34:54.829275 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:34:54.846689 Echo: Alpha, Charlie, Kilo and Bravo, sending you 1
+2024-10-15 01:34:54.848789 Mike: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-15 01:34:54.852261 Charlie: No
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:34:54.861633 Mike: We should replace Victor with Alpha
+2024-10-15 01:34:54.861874 Golf: We should add Charlie and Kilo
+ChatterBot Golf reevaluating
+2024-10-15 01:34:54.867642 Quebec: No
+2024-10-15 01:34:54.870517 Golf: No
+ChatterBot Mike reevaluating
+2024-10-15 01:34:54.873833 Quebec: No
+2024-10-15 01:34:54.873952 Mike: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:34:54.896020 Echo: X-ray and Victor, sending you 2
+2024-10-15 01:34:54.899670 Kilo: Alpha, X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:34:54.900182 Bravo: Alpha, X-ray and Victor, sending you 2
+2024-10-15 01:34:54.900661 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:34:54.901141 Quebec: Golf, sending you 3
+2024-10-15 01:34:54.901407 X-ray: Alpha and Victor, sending you 3
+2024-10-15 01:34:54.901850 Victor: Alpha, sending you 3
+2024-10-15 01:34:54.903687 Bravo: Echo, Charlie and Kilo, sending you 1
+2024-10-15 01:34:54.904156 Quebec: Mike, sending you 4
+2024-10-15 01:34:54.904656 Kilo: Echo and Charlie, sending you 2
+2024-10-15 01:34:54.905658 Victor: Echo, Charlie, Kilo, X-ray and Bravo, sending you 2
+2024-10-15 01:34:54.906718 X-ray: Echo and Bravo, sending you 2
+2024-10-15 01:34:54.909687 X-ray: Charlie and Kilo, sending you 1
+2024-10-15 01:34:54.911679 Charlie: Echo and Kilo, sending you 5
+2024-10-15 01:34:54.920657 Golf: Same as last round
+2024-10-15 01:34:54.922642 Mike: Quebec, sending you 3
+2024-10-15 01:34:54.926664 Mike: Golf and Victor, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Quebec round 7
+ChatterBot Echo round 7
+ChatterBot Charlie round 7
+ChatterBot Kilo round 7
+ChatterBot X-ray round 7
+ChatterBot Golf round 7
+ChatterBot Mike round 7
+ChatterBot Bravo round 7
+ChatterBot Victor round 7
+2024-10-15 01:34:56.203033 Mike: We should replace Victor with X-ray
+2024-10-15 01:34:56.220507 Quebec: No
+2024-10-15 01:34:56.221463 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:34:56.236587 Mike: We should replace Victor with Alpha
+2024-10-15 01:34:56.241076 Quebec: No
+2024-10-15 01:34:56.241250 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:34:56.254671 Golf: Quebec, sending you 1
+2024-10-15 01:34:56.255365 Quebec: Golf, sending you 3
+2024-10-15 01:34:56.255972 X-ray: Alpha and Victor, sending you 3
+2024-10-15 01:34:56.257784 Echo: Alpha, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:34:56.258757 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:34:56.259636 Kilo: Alpha, X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:34:56.261787 Charlie: Alpha, Echo, Kilo, Bravo and Victor, sending you 2
+2024-10-15 01:34:56.262753 Golf: Mike, sending you 2
+2024-10-15 01:34:56.263239 Quebec: Mike, sending you 4
+2024-10-15 01:34:56.263865 X-ray: Echo and Bravo, sending you 2
+2024-10-15 01:34:56.265476 Echo: Charlie and Victor, sending you 2
+2024-10-15 01:34:56.266444 Kilo: Echo and Charlie, sending you 2
+2024-10-15 01:34:56.267362 Bravo: Alpha, X-ray and Victor, sending you 2
+2024-10-15 01:34:56.268909 X-ray: Charlie and Kilo, sending you 1
+2024-10-15 01:34:56.270730 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:34:56.272670 Bravo: Echo, Charlie and Kilo, sending you 1
+2024-10-15 01:34:56.276676 Victor: X-ray, sending you 3
+2024-10-15 01:34:56.287660 Mike: Quebec, sending you 3
+2024-10-15 01:34:56.290699 Mike: Golf and Victor, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Quebec round 8
+ChatterBot Echo round 8
+ChatterBot Charlie round 8
+ChatterBot Kilo round 8
+ChatterBot X-ray round 8
+ChatterBot Golf round 8
+ChatterBot Mike round 8
+ChatterBot Bravo round 8
+ChatterBot Victor round 8
+2024-10-15 01:34:57.418957 Mike: We should replace Victor with Alpha
+2024-10-15 01:34:57.424686 Quebec: No
+2024-10-15 01:34:57.424853 Golf: No
+2024-10-15 01:34:57.442704 Victor: We should add Golf
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:57.461407 Echo: No
+2024-10-15 01:34:57.461563 Charlie: No
+2024-10-15 01:34:57.461698 Kilo: No
+2024-10-15 01:34:57.461833 Alpha: No
+2024-10-15 01:34:57.461952 X-ray: No
+2024-10-15 01:34:57.462074 Bravo: No
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:57.590932 Mike: Alpha we want you to join our group
+2024-10-15 01:34:57.596356 Alpha: No
+2024-10-15 01:34:57.608928 Charlie: We should drop Bravo
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:57.633864 Kilo: No
+2024-10-15 01:34:57.634043 Alpha: No
+2024-10-15 01:34:57.634190 Echo: No
+2024-10-15 01:34:57.634328 X-ray: No
+2024-10-15 01:34:57.634469 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:57.760188 X-ray: Alpha and Victor, sending you 3
+2024-10-15 01:34:57.761499 Bravo: We should drop Alpha
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:57.785250 Charlie: No
+2024-10-15 01:34:57.785427 Kilo: No
+2024-10-15 01:34:57.785570 Echo: No
+2024-10-15 01:34:57.785736 X-ray: No
+2024-10-15 01:34:57.785893 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:57.883390 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:34:57.883989 Echo: Alpha, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:34:57.884478 Golf: Quebec, sending you 1
+2024-10-15 01:34:57.884755 Quebec: Golf, sending you 3
+2024-10-15 01:34:57.884988 X-ray: Echo and Bravo, sending you 2
+2024-10-15 01:34:57.889250 Bravo: We should drop Echo
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:57.908807 Charlie: No
+2024-10-15 01:34:57.909068 Kilo: No
+2024-10-15 01:34:57.909203 Alpha: No
+2024-10-15 01:34:57.909759 X-ray: No
+2024-10-15 01:34:57.909881 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:58.000138 Echo: Charlie and Victor, sending you 2
+2024-10-15 01:34:58.001491 Golf: Mike, sending you 2
+2024-10-15 01:34:58.001878 Quebec: Mike, sending you 4
+2024-10-15 01:34:58.002143 X-ray: Charlie and Kilo, sending you 1
+2024-10-15 01:34:58.002751 Mike: Alpha and Golf, sending you 2
+2024-10-15 01:34:58.005959 Mike: Quebec, sending you 3
+2024-10-15 01:34:58.010082 Bravo: We should drop Charlie
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:58.065607 Kilo: No
+2024-10-15 01:34:58.067028 Alpha: No
+2024-10-15 01:34:58.067242 Echo: No
+2024-10-15 01:34:58.067399 X-ray: No
+2024-10-15 01:34:58.067528 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-15 01:34:58.289754 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:34:58.294052 Bravo: We should drop X-ray
+ChatterBot Charlie reevaluating
+2024-10-15 01:34:58.317074 Charlie: Yes
+2024-10-15 01:34:58.317315 Kilo: Yes
+2024-10-15 01:34:58.317599 Alpha: Yes
+2024-10-15 01:34:58.317809 Echo: Yes
+2024-10-15 01:34:58.317956 Victor: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:34:58.479884 Victor: X-ray, sending you 3
+2024-10-15 01:34:58.496051 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:34:58.502190 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:34:58.513735 Bravo: Alpha, Echo, Kilo and Victor, sending you 2
+2024-10-15 01:34:58.519703 Bravo: Charlie, sending you 1
+2024-10-15 01:34:58.523689 Charlie: Alpha, Echo, Kilo, Bravo and Victor, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Quebec round 9
+ChatterBot Echo round 9
+ChatterBot Charlie round 9
+ChatterBot Kilo round 9
+ChatterBot X-ray round 9
+ChatterBot Golf round 9
+ChatterBot Mike round 9
+ChatterBot Bravo round 9
+ChatterBot Victor round 9
+2024-10-15 01:34:59.070823 Mike: We should replace Alpha with Bravo
+2024-10-15 01:34:59.078050 Quebec: No
+2024-10-15 01:34:59.078271 Golf: No
+2024-10-15 01:34:59.098844 Charlie: We should replace Bravo with X-ray
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:59.107355 Alpha: No
+2024-10-15 01:34:59.107480 Echo: No
+2024-10-15 01:34:59.107583 Kilo: Yes
+2024-10-15 01:34:59.107694 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:34:59.146327 Mike: Bravo we want you to join our group
+2024-10-15 01:34:59.148483 Bravo: No
+ChatterBot Mike reevaluating
+2024-10-15 01:34:59.154052 Mike: We should replace Alpha with Victor
+ChatterBot Golf reevaluating
+2024-10-15 01:34:59.157752 Quebec: No
+2024-10-15 01:34:59.157861 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:34:59.166158 Charlie: We should replace Echo with X-ray
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:34:59.173639 Kilo: No
+2024-10-15 01:34:59.173757 Alpha: No
+2024-10-15 01:34:59.173856 Bravo: No
+2024-10-15 01:34:59.173939 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:34:59.205709 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:34:59.206682 X-ray: Alpha and Victor, sending you 3
+2024-10-15 01:34:59.207482 Echo: Alpha, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:34:59.211651 X-ray: Echo and Bravo, sending you 2
+2024-10-15 01:34:59.212218 Echo: Charlie and Victor, sending you 2
+2024-10-15 01:34:59.213666 Quebec: Golf, sending you 3
+2024-10-15 01:34:59.214672 Golf: Sending you each 1
+2024-10-15 01:34:59.215683 X-ray: Charlie and Kilo, sending you 1
+2024-10-15 01:34:59.217158 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:34:59.218340 Quebec: Mike, sending you 4
+2024-10-15 01:34:59.222669 Bravo: Kilo, sending you 1
+2024-10-15 01:34:59.223649 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:34:59.225702 Mike: Alpha and Golf, sending you 2
+2024-10-15 01:34:59.226666 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:34:59.227148 Victor: X-ray, sending you 3
+2024-10-15 01:34:59.229694 Mike: Quebec, sending you 3
+2024-10-15 01:34:59.232187 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:34:59.233679 Charlie: Same as last round
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Quebec round 10
+ChatterBot Echo round 10
+ChatterBot Charlie round 10
+ChatterBot Kilo round 10
+ChatterBot X-ray round 10
+ChatterBot Golf round 10
+ChatterBot Mike round 10
+ChatterBot Bravo round 10
+ChatterBot Victor round 10
+2024-10-15 01:35:00.407704 Charlie: We should replace Bravo with X-ray
+2024-10-15 01:35:00.422185 Alpha: No
+2024-10-15 01:35:00.422806 Echo: No
+2024-10-15 01:35:00.423108 Kilo: Yes
+2024-10-15 01:35:00.423563 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:35:00.520678 Charlie: X-ray we want you to join our group
+2024-10-15 01:35:00.524621 X-ray: Yes
+ChatterBot Charlie reevaluating
+2024-10-15 01:35:00.539675 Mike: Alpha and Golf, sending you 2
+2024-10-15 01:35:00.540129 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:00.541561 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:00.542052 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:00.542541 X-ray: Alpha, sending you 3
+2024-10-15 01:35:00.543991 Echo: Alpha, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:00.544691 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:00.545344 Quebec: Golf, sending you 3
+2024-10-15 01:35:00.545743 Golf: Same as last round
+2024-10-15 01:35:00.547053 Mike: Quebec, sending you 3
+2024-10-15 01:35:00.547422 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:00.548039 Victor: X-ray, sending you 3
+2024-10-15 01:35:00.548723 Bravo: Kilo, sending you 1
+2024-10-15 01:35:00.549599 X-ray: Echo and Bravo, sending you 2
+2024-10-15 01:35:00.550370 Echo: Charlie and Victor, sending you 2
+2024-10-15 01:35:00.551479 Quebec: Mike, sending you 4
+2024-10-15 01:35:00.553213 X-ray: Kilo, sending you 1
+2024-10-15 01:35:00.559249 X-ray: Victor, sending you 4
+2024-10-15 01:35:00.571666 Charlie: Sending you each 2
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Quebec round 11
+ChatterBot Echo round 11
+ChatterBot Charlie round 11
+ChatterBot Kilo round 11
+ChatterBot X-ray round 11
+ChatterBot Golf round 11
+ChatterBot Mike round 11
+ChatterBot Bravo round 11
+ChatterBot Victor round 11
+2024-10-15 01:35:01.967077 Mike: We should replace Alpha with Victor
+2024-10-15 01:35:01.980267 Quebec: No
+2024-10-15 01:35:01.981438 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:02.007725 Mike: We should replace Alpha with X-ray
+ChatterBot Golf reevaluating
+2024-10-15 01:35:02.020241 Quebec: No
+2024-10-15 01:35:02.020608 Golf: Yes
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:02.047811 Mike: We should replace Alpha with Bravo
+2024-10-15 01:35:02.059578 Quebec: No
+2024-10-15 01:35:02.059910 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:02.084969 X-ray: Alpha, sending you 3
+2024-10-15 01:35:02.089436 Charlie: Same as last round
+2024-10-15 01:35:02.092519 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:02.093772 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:02.095974 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:02.097890 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:02.099791 Echo: Alpha and Charlie, sending you 2
+2024-10-15 01:35:02.102034 Quebec: Golf, sending you 3
+2024-10-15 01:35:02.103485 Mike: X-ray we want you to join our group
+2024-10-15 01:35:02.110306 X-ray: No
+ChatterBot Mike reevaluating
+2024-10-15 01:35:02.128033 X-ray: Echo, sending you 2
+2024-10-15 01:35:02.130534 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:02.132148 Bravo: Kilo, sending you 1
+2024-10-15 01:35:02.133795 Victor: X-ray, sending you 3
+2024-10-15 01:35:02.135799 Echo: Kilo, X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:35:02.137592 Quebec: Mike, sending you 4
+2024-10-15 01:35:02.138414 X-ray: Charlie, Kilo and Bravo, sending you 1
+2024-10-15 01:35:02.140469 Golf: Same as last round
+2024-10-15 01:35:02.186309 X-ray: Victor, sending you 4
+chatterbot Alpha submitting transactions
+2024-10-15 01:35:02.212439 Mike: Quebec, sending you 3
+2024-10-15 01:35:02.269871 Mike: X-ray and Golf, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Quebec round 12
+ChatterBot Echo round 12
+ChatterBot Charlie round 12
+ChatterBot Kilo round 12
+ChatterBot X-ray round 12
+ChatterBot Golf round 12
+ChatterBot Mike round 12
+ChatterBot Bravo round 12
+ChatterBot Victor round 12
+2024-10-15 01:35:02.784364 Mike: We should replace X-ray with Alpha
+2024-10-15 01:35:02.789343 Quebec: No
+2024-10-15 01:35:02.789545 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:02.820653 Quebec: Golf, sending you 3
+2024-10-15 01:35:02.824703 X-ray: Alpha, sending you 3
+2024-10-15 01:35:02.825657 Quebec: Mike, sending you 4
+2024-10-15 01:35:02.828691 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:02.829294 Charlie: Same as last round
+2024-10-15 01:35:02.829946 X-ray: Echo, sending you 2
+2024-10-15 01:35:02.832035 Bravo: Kilo, sending you 1
+2024-10-15 01:35:02.833705 Mike: Quebec, sending you 3
+2024-10-15 01:35:02.834194 X-ray: Charlie, Kilo and Bravo, sending you 1
+2024-10-15 01:35:02.835293 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:02.836462 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:02.837550 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:02.839500 Mike: X-ray and Golf, sending you 2
+2024-10-15 01:35:02.840329 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:02.842129 X-ray: Victor, sending you 4
+2024-10-15 01:35:02.843996 Victor: X-ray, sending you 3
+2024-10-15 01:35:02.845788 Golf: Same as last round
+2024-10-15 01:35:02.846641 Kilo: X-ray, sending you 1
+2024-10-15 01:35:02.847773 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Quebec round 13
+ChatterBot Echo round 13
+ChatterBot Charlie round 13
+ChatterBot Kilo round 13
+ChatterBot X-ray round 13
+ChatterBot Golf round 13
+ChatterBot Mike round 13
+ChatterBot Bravo round 13
+ChatterBot Victor round 13
+2024-10-15 01:35:04.142518 Mike: We should replace X-ray with Bravo
+2024-10-15 01:35:04.149471 Quebec: No
+2024-10-15 01:35:04.149691 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:04.175208 Mike: Bravo we want you to join our group
+2024-10-15 01:35:04.178535 Bravo: No
+ChatterBot Mike reevaluating
+2024-10-15 01:35:04.191681 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:04.194337 Charlie: Same as last round
+2024-10-15 01:35:04.195726 Golf: Same as last round
+2024-10-15 01:35:04.196232 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:04.198172 X-ray: Alpha, sending you 3
+2024-10-15 01:35:04.200054 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:04.201970 Quebec: Golf, sending you 3
+2024-10-15 01:35:04.202747 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:04.204331 Victor: X-ray, sending you 3
+2024-10-15 01:35:04.206549 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:04.207354 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:04.208602 Kilo: X-ray, sending you 1
+2024-10-15 01:35:04.209013 Quebec: Mike, sending you 4
+2024-10-15 01:35:04.209407 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:04.211665 X-ray: Kilo, sending you 1
+2024-10-15 01:35:04.214689 Bravo: Kilo, sending you 1
+2024-10-15 01:35:04.216020 X-ray: Victor, sending you 4
+2024-10-15 01:35:04.223686 Mike: Quebec, sending you 3
+2024-10-15 01:35:04.227683 Mike: Golf and Bravo, sending you 2
+chatterbot Victor submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Quebec round 14
+ChatterBot Echo round 14
+ChatterBot Charlie round 14
+ChatterBot Kilo round 14
+ChatterBot X-ray round 14
+ChatterBot Golf round 14
+ChatterBot Mike round 14
+ChatterBot Bravo round 14
+ChatterBot Victor round 14
+2024-10-15 01:35:05.529874 Charlie: We should replace Echo with Bravo
+2024-10-15 01:35:05.545665 Alpha: No
+2024-10-15 01:35:05.545915 Kilo: No
+2024-10-15 01:35:05.546126 X-ray: No
+2024-10-15 01:35:05.546324 Victor: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:35:05.629477 Mike: We should replace Bravo with X-ray
+2024-10-15 01:35:05.636542 Quebec: No
+2024-10-15 01:35:05.636732 Golf: No
+ChatterBot Mike reevaluating
+2024-10-15 01:35:05.743947 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:05.747307 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:05.749876 Golf: Same as last round
+2024-10-15 01:35:05.751758 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:05.754146 Quebec: Golf, sending you 3
+2024-10-15 01:35:05.755567 X-ray: Alpha, sending you 3
+2024-10-15 01:35:05.759179 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:05.761991 Kilo: X-ray, sending you 1
+2024-10-15 01:35:05.764550 Quebec: Mike, sending you 4
+2024-10-15 01:35:05.765628 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:05.769415 Mike: Quebec, sending you 3
+2024-10-15 01:35:05.771119 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:05.773475 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:05.776948 Charlie: Same as last round
+2024-10-15 01:35:05.779497 Victor: X-ray, sending you 3
+2024-10-15 01:35:05.782978 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:05.784885 Bravo: Kilo, sending you 1
+2024-10-15 01:35:05.794619 X-ray: Kilo, sending you 1
+2024-10-15 01:35:05.842789 X-ray: Victor, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Quebec round 15
+ChatterBot Echo round 15
+ChatterBot Charlie round 15
+ChatterBot Kilo round 15
+ChatterBot X-ray round 15
+ChatterBot Golf round 15
+ChatterBot Mike round 15
+ChatterBot Bravo round 15
+ChatterBot Victor round 15
+2024-10-15 01:35:06.880674 Charlie: We should replace Echo with Bravo
+2024-10-15 01:35:06.900562 Alpha: No
+2024-10-15 01:35:06.900853 Kilo: No
+2024-10-15 01:35:06.901060 X-ray: No
+2024-10-15 01:35:06.901290 Victor: No
+2024-10-15 01:35:07.171205 Charlie: Bravo we want you to join our group
+2024-10-15 01:35:07.180099 Bravo: No
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:07.254846 Kilo: Bravo we want you to join our group
+2024-10-15 01:35:07.260386 Bravo: No
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:07.294052 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:07.298021 Charlie: Sending you each 2
+2024-10-15 01:35:07.300544 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:07.305528 Golf: Same as last round
+2024-10-15 01:35:07.307381 Quebec: Golf, sending you 3
+2024-10-15 01:35:07.308321 X-ray: Alpha, sending you 3
+2024-10-15 01:35:07.313494 Mike: Quebec, sending you 3
+2024-10-15 01:35:07.315511 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:07.318499 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:07.323465 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:07.326625 Quebec: Mike, sending you 4
+2024-10-15 01:35:07.328120 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:07.331800 Mike: Golf and Bravo, sending you 2
+chatterbot Quebec submitting transactions
+2024-10-15 01:35:07.333876 Bravo: Kilo, sending you 1
+2024-10-15 01:35:07.337325 Victor: X-ray, sending you 3
+2024-10-15 01:35:07.341491 X-ray: Kilo, sending you 1
+2024-10-15 01:35:07.345262 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:07.362279 X-ray: Victor, sending you 4
+2024-10-15 01:35:07.365993 Kilo: X-ray, sending you 1
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Quebec round 16
+ChatterBot Echo round 16
+ChatterBot Charlie round 16
+ChatterBot Kilo round 16
+ChatterBot X-ray round 16
+ChatterBot Golf round 16
+ChatterBot Mike round 16
+ChatterBot Bravo round 16
+ChatterBot Victor round 16
+2024-10-15 01:35:08.541873 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:08.543826 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:08.545890 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:08.550883 Kilo: X-ray, sending you 1
+2024-10-15 01:35:08.552045 Quebec: Golf, sending you 3
+2024-10-15 01:35:08.552720 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:08.554337 Mike: Quebec, sending you 3
+2024-10-15 01:35:08.554731 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:08.555484 Charlie: Same as last round
+2024-10-15 01:35:08.556873 X-ray: Alpha, sending you 3
+2024-10-15 01:35:08.557817 Golf: Same as last round
+2024-10-15 01:35:08.558216 Quebec: Mike, sending you 4
+2024-10-15 01:35:08.558576 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:08.559760 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:08.560765 Bravo: Kilo, sending you 1
+2024-10-15 01:35:08.561680 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:08.563898 Victor: X-ray, sending you 3
+2024-10-15 01:35:08.566681 X-ray: Kilo, sending you 1
+2024-10-15 01:35:08.572663 X-ray: Victor, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Quebec round 17
+ChatterBot Echo round 17
+ChatterBot Charlie round 17
+ChatterBot Kilo round 17
+ChatterBot X-ray round 17
+ChatterBot Golf round 17
+ChatterBot Mike round 17
+ChatterBot Bravo round 17
+2024-10-15 01:35:09.780928 Mike: We should replace Bravo with Echo
+2024-10-15 01:35:09.786566 Quebec: No
+2024-10-15 01:35:09.786745 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Victor round 17
+2024-10-15 01:35:09.821944 Mike: We should replace Bravo with Alpha
+2024-10-15 01:35:09.827222 Quebec: No
+2024-10-15 01:35:09.827369 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:09.853702 Charlie: Same as last round
+2024-10-15 01:35:09.854768 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:09.856718 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:09.858191 X-ray: Alpha, sending you 3
+2024-10-15 01:35:09.860053 Golf: Same as last round
+2024-10-15 01:35:09.860657 Mike: Quebec, sending you 3
+2024-10-15 01:35:09.861199 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:09.861904 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:09.863682 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:09.864824 Quebec: Golf, sending you 3
+2024-10-15 01:35:09.865428 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:09.866543 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:09.866978 Kilo: X-ray, sending you 1
+2024-10-15 01:35:09.867677 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:09.868927 X-ray: Kilo, sending you 1
+2024-10-15 01:35:09.870126 Quebec: Mike, sending you 4
+2024-10-15 01:35:09.870707 Bravo: Kilo, sending you 1
+2024-10-15 01:35:09.871681 Victor: X-ray, sending you 3
+2024-10-15 01:35:09.873409 X-ray: Victor, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Quebec round 18
+ChatterBot Echo round 18
+ChatterBot Charlie round 18
+ChatterBot Kilo round 18
+ChatterBot X-ray round 18
+ChatterBot Golf round 18
+ChatterBot Mike round 18
+ChatterBot Bravo round 18
+ChatterBot Victor round 18
+2024-10-15 01:35:11.140736 Bravo: We should replace Echo with X-ray
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:11.156768 Kilo: Yes
+2024-10-15 01:35:11.156968 Charlie: Yes
+2024-10-15 01:35:11.157117 Alpha: No
+2024-10-15 01:35:11.157225 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:11.228463 Mike: We should replace Bravo with X-ray
+2024-10-15 01:35:11.237543 Quebec: Yes
+2024-10-15 01:35:11.237745 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:11.256337 Mike: We should replace Bravo with Kilo
+ChatterBot Golf reevaluating
+2024-10-15 01:35:11.263421 Quebec: No
+2024-10-15 01:35:11.263600 Golf: Yes
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:11.277717 Charlie: Same as last round
+2024-10-15 01:35:11.279392 Quebec: X-ray and Golf, sending you 2
+2024-10-15 01:35:11.280210 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:11.282485 X-ray: Alpha, sending you 3
+2024-10-15 01:35:11.284433 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:11.285601 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:11.286846 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:11.289372 Mike: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:11.296768 Kilo: No
+ChatterBot Mike reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:11.307369 Quebec: Mike, sending you 3
+2024-10-15 01:35:11.307943 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:11.311273 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:11.313188 Victor: X-ray, sending you 3
+2024-10-15 01:35:11.315195 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:11.316711 X-ray: Kilo, sending you 1
+2024-10-15 01:35:11.319684 Bravo: Kilo, sending you 1
+2024-10-15 01:35:11.321022 X-ray: Victor, sending you 4
+2024-10-15 01:35:11.327684 Mike: Quebec, sending you 3
+2024-10-15 01:35:11.330689 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:11.340922 Golf: Same as last round
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Quebec round 19
+ChatterBot Echo round 19
+ChatterBot Charlie round 19
+ChatterBot Kilo round 19
+ChatterBot X-ray round 19
+ChatterBot Golf round 19
+ChatterBot Mike round 19
+ChatterBot Bravo round 19
+ChatterBot Victor round 19
+2024-10-15 01:35:12.211468 Mike: We should replace Bravo with Alpha
+2024-10-15 01:35:12.218948 Quebec: No
+2024-10-15 01:35:12.219292 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:12.249035 Mike: We should replace Bravo with Echo
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:12.257784 Quebec: No
+2024-10-15 01:35:12.258157 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:12.276916 Mike: We should replace Bravo with Victor
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:12.286137 Quebec: No
+2024-10-15 01:35:12.286998 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:12.305279 Mike: We should replace Bravo with Kilo
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:12.313553 Quebec: No
+2024-10-15 01:35:12.313866 Golf: Yes
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:12.337192 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:12.351367 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:12.356433 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:12.360824 X-ray: Alpha, sending you 3
+2024-10-15 01:35:12.366852 Charlie: Same as last round
+2024-10-15 01:35:12.371468 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:12.377382 Mike: Alpha we want you to join our group
+2024-10-15 01:35:12.383028 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:12.395072 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:12.398530 Bravo: Kilo, sending you 1
+2024-10-15 01:35:12.401840 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:12.405961 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:12.410489 Victor: X-ray, sending you 3
+2024-10-15 01:35:12.415449 Mike: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:12.420294 Kilo: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:12.432639 Kilo: We should replace Echo with Bravo
+2024-10-15 01:35:12.447211 Charlie: Yes
+2024-10-15 01:35:12.447399 Alpha: No
+2024-10-15 01:35:12.447539 X-ray: No
+2024-10-15 01:35:12.447673 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:12.502993 X-ray: Kilo, sending you 1
+2024-10-15 01:35:12.532844 X-ray: Victor, sending you 4
+2024-10-15 01:35:12.538631 Golf: Sorry, I'm actually sending you 0
+2024-10-15 01:35:12.546632 Mike: Quebec, sending you 3
+2024-10-15 01:35:12.548802 Quebec: Kilo and Golf, sending you 2
+2024-10-15 01:35:12.560020 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:12.563146 Quebec: Mike, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Quebec round 20
+ChatterBot Echo round 20
+ChatterBot Charlie round 20
+ChatterBot Kilo round 20
+ChatterBot X-ray round 20
+ChatterBot Golf round 20
+ChatterBot Mike round 20
+ChatterBot Bravo round 20
+ChatterBot Victor round 20
+2024-10-15 01:35:13.771653 Kilo: We should replace Echo with Bravo
+2024-10-15 01:35:13.786862 Charlie: Yes
+2024-10-15 01:35:13.787098 Alpha: No
+2024-10-15 01:35:13.787271 X-ray: No
+2024-10-15 01:35:13.787543 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:13.881093 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:13.889311 Golf: Same as last round
+2024-10-15 01:35:13.891393 Quebec: Kilo and Golf, sending you 2
+2024-10-15 01:35:13.894316 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:13.902543 Mike: Quebec, sending you 3
+2024-10-15 01:35:13.905723 Charlie: Same as last round
+2024-10-15 01:35:13.911382 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:13.929039 Quebec: Mike, sending you 3
+2024-10-15 01:35:13.938414 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:13.945296 X-ray: Alpha, sending you 3
+2024-10-15 01:35:13.951508 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:13.957107 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:13.962605 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:13.965842 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:13.970977 Bravo: Kilo, sending you 1
+2024-10-15 01:35:13.976165 Victor: X-ray, sending you 3
+2024-10-15 01:35:13.982961 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:13.986679 X-ray: Kilo, sending you 1
+2024-10-15 01:35:14.309777 X-ray: Victor, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Quebec round 21
+ChatterBot Echo round 21
+ChatterBot Charlie round 21
+ChatterBot Kilo round 21
+ChatterBot X-ray round 21
+ChatterBot Golf round 21
+ChatterBot Mike round 21
+ChatterBot Bravo round 21
+ChatterBot Victor round 21
+2024-10-15 01:35:15.472199 Kilo: We should replace Echo with Bravo
+2024-10-15 01:35:15.497200 Charlie: Yes
+2024-10-15 01:35:15.497738 Alpha: No
+2024-10-15 01:35:15.498685 X-ray: No
+2024-10-15 01:35:15.499107 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:15.630498 X-ray: Alpha, sending you 3
+2024-10-15 01:35:15.644832 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:15.652470 Charlie: Same as last round
+2024-10-15 01:35:15.657251 Quebec: X-ray and Golf, sending you 2
+2024-10-15 01:35:15.658210 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:15.661559 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:15.664357 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:15.669323 Golf: Same as last round
+2024-10-15 01:35:15.670401 Mike: Quebec, sending you 3
+2024-10-15 01:35:15.672551 Quebec: Mike, sending you 3
+2024-10-15 01:35:15.673323 Bravo: Alpha, Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:15.676062 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:15.679975 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:15.683310 Victor: X-ray, sending you 3
+2024-10-15 01:35:15.687260 X-ray: Kilo, sending you 1
+2024-10-15 01:35:15.690623 Mike: Golf and Bravo, sending you 2
+2024-10-15 01:35:15.692808 Bravo: Kilo, sending you 1
+2024-10-15 01:35:15.695312 Kilo: Echo, Charlie and Victor, sending you 2
+2024-10-15 01:35:15.699119 X-ray: Victor, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Quebec round 22
+ChatterBot Echo round 22
+ChatterBot Charlie round 22
+ChatterBot Kilo round 22
+ChatterBot X-ray round 22
+ChatterBot Golf round 22
+ChatterBot Mike round 22
+ChatterBot Bravo round 22
+ChatterBot Victor round 22
+2024-10-15 01:35:16.610007 Kilo: We should replace Echo with Bravo
+2024-10-15 01:35:16.713974 Charlie: Yes
+2024-10-15 01:35:16.714356 Alpha: No
+2024-10-15 01:35:16.714618 X-ray: No
+2024-10-15 01:35:16.714845 Victor: No
+2024-10-15 01:35:16.830260 Mike: We should replace Bravo with Kilo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:16.840166 Quebec: Yes
+2024-10-15 01:35:16.840492 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:16.861264 Kilo: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:16.868476 Bravo: Yes
+2024-10-15 01:35:16.884596 Bravo: We should replace Echo with X-ray
+2024-10-15 01:35:16.897728 Kilo: Yes
+2024-10-15 01:35:16.897929 Charlie: Yes
+2024-10-15 01:35:16.898177 Alpha: No
+2024-10-15 01:35:16.898405 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:16.953467 Mike: We should replace Bravo with Echo
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:16.962573 Quebec: No
+2024-10-15 01:35:16.962963 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:16.980134 Mike: We should replace Bravo with Victor
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:16.986858 Quebec: No
+2024-10-15 01:35:16.987732 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:17.003438 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:17.016689 Bravo: X-ray we want you to join our group
+2024-10-15 01:35:17.023464 X-ray: Yes
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:17.047638 X-ray: Alpha, sending you 3
+2024-10-15 01:35:17.051635 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:17.056768 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:17.063132 Charlie: Same as last round
+2024-10-15 01:35:17.068076 Mike: Kilo we want you to join our group
+2024-10-15 01:35:17.077667 Kilo: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:17.095361 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:17.101367 X-ray: Echo and Charlie, sending you 2
+2024-10-15 01:35:17.108626 Victor: X-ray, sending you 3
+2024-10-15 01:35:17.115964 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+chatterbot Kilo submitting transactions
+2024-10-15 01:35:17.123791 Kilo: X-ray, sending you 1
+2024-10-15 01:35:17.129712 X-ray: Kilo, sending you 1
+2024-10-15 01:35:17.136705 Golf: Quebec, Kilo and Mike, sending you 1
+2024-10-15 01:35:17.139674 X-ray: Victor, sending you 4
+2024-10-15 01:35:17.147313 Quebec: Kilo and Golf, sending you 2
+2024-10-15 01:35:17.149557 Bravo: Alpha, Charlie, X-ray and Victor, sending you 2
+2024-10-15 01:35:17.154658 Quebec: Mike, sending you 3
+2024-10-15 01:35:17.157065 Bravo: Kilo, sending you 1
+2024-10-15 01:35:17.161990 Mike: Quebec, sending you 3
+2024-10-15 01:35:17.167965 Mike: Kilo and Golf, sending you 2
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Quebec round 23
+ChatterBot Echo round 23
+ChatterBot Charlie round 23
+ChatterBot Kilo round 23
+ChatterBot X-ray round 23
+ChatterBot Golf round 23
+ChatterBot Mike round 23
+ChatterBot Bravo round 23
+ChatterBot Victor round 23
+2024-10-15 01:35:18.356763 Mike: We should replace Kilo with Echo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:18.367268 Quebec: No
+2024-10-15 01:35:18.367588 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:18.394383 Mike: We should replace Kilo with Alpha
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:18.403348 Quebec: No
+2024-10-15 01:35:18.403672 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:18.423187 Mike: We should replace Kilo with Bravo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:18.434474 Quebec: Yes
+2024-10-15 01:35:18.434884 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:18.547847 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:18.560684 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:18.566840 Golf: Same as last round
+2024-10-15 01:35:18.569200 X-ray: Alpha, sending you 3
+2024-10-15 01:35:18.576682 Charlie: Same as last round
+2024-10-15 01:35:18.581178 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:18.585632 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:18.587443 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:18.591502 Mike: Alpha we want you to join our group
+2024-10-15 01:35:18.597929 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:18.610460 Mike: We should replace Kilo with Victor
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:18.617712 Quebec: No
+2024-10-15 01:35:18.617871 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:18.635965 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:18.640226 Victor: X-ray, sending you 3
+2024-10-15 01:35:18.644417 X-ray: Echo, Kilo and Bravo, sending you 1
+2024-10-15 01:35:18.648410 Kilo: X-ray, sending you 1
+2024-10-15 01:35:18.652090 Bravo: X-ray, sending you 1
+2024-10-15 01:35:18.654840 X-ray: Charlie, sending you 2
+2024-10-15 01:35:18.702131 Mike: Bravo we want you to join our group
+2024-10-15 01:35:18.706765 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:18.718663 X-ray: Victor, sending you 4
+2024-10-15 01:35:18.764150 Quebec: Golf and Bravo, sending you 2
+2024-10-15 01:35:18.794743 Quebec: Mike, sending you 3
+2024-10-15 01:35:18.803 Mike: Quebec, sending you 3
+2024-10-15 01:35:18.811311 Mike: Golf and Bravo, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Quebec round 24
+ChatterBot Echo round 24
+ChatterBot Charlie round 24
+ChatterBot Kilo round 24
+ChatterBot X-ray round 24
+ChatterBot Golf round 24
+ChatterBot Mike round 24
+ChatterBot Bravo round 24
+ChatterBot Victor round 24
+2024-10-15 01:35:19.496816 Mike: We should replace Bravo with Echo
+2024-10-15 01:35:19.508256 Quebec: Yes
+2024-10-15 01:35:19.508509 Golf: No
+ChatterBot Mike reevaluating
+2024-10-15 01:35:19.534649 Mike: We should replace Bravo with Kilo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:19.545982 Quebec: Yes
+2024-10-15 01:35:19.546232 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:19.603831 Mike: We should replace Bravo with Victor
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:19.659186 Quebec: No
+2024-10-15 01:35:19.659571 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:19.784391 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:19.788658 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:19.794133 Golf: Same as last round
+2024-10-15 01:35:19.796171 Charlie: Same as last round
+2024-10-15 01:35:19.800962 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:19.803147 X-ray: Alpha, sending you 3
+2024-10-15 01:35:19.807026 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:19.811553 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:19.816307 Bravo: X-ray, sending you 1
+2024-10-15 01:35:19.818411 Victor: X-ray, sending you 3
+2024-10-15 01:35:19.822484 Kilo: X-ray, sending you 1
+2024-10-15 01:35:19.824367 X-ray: Echo, Kilo and Bravo, sending you 1
+2024-10-15 01:35:19.828167 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:19.833374 Mike: Kilo we want you to join our group
+2024-10-15 01:35:19.839050 Kilo: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:19.858897 X-ray: Charlie, sending you 2
+2024-10-15 01:35:19.913690 X-ray: Victor, sending you 4
+chatterbot Alpha submitting transactions
+2024-10-15 01:35:19.960380 Quebec: Kilo and Golf, sending you 2
+2024-10-15 01:35:20.014828 Quebec: Mike, sending you 3
+2024-10-15 01:35:20.017875 Mike: Quebec, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-15 01:35:20.141380 Mike: Kilo and Golf, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Quebec round 25
+ChatterBot Echo round 25
+ChatterBot Charlie round 25
+ChatterBot Kilo round 25
+ChatterBot X-ray round 25
+ChatterBot Golf round 25
+ChatterBot Mike round 25
+ChatterBot Bravo round 25
+ChatterBot Victor round 25
+2024-10-15 01:35:20.962303 Mike: We should replace Kilo with Echo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:20.967680 Quebec: No
+2024-10-15 01:35:20.967843 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:20.982905 Mike: We should replace Kilo with Bravo
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-15 01:35:20.989741 Quebec: No
+2024-10-15 01:35:20.989904 Golf: No
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:21.005948 Victor: We should drop Echo
+2024-10-15 01:35:21.025178 Bravo: Yes
+2024-10-15 01:35:21.025438 Charlie: Yes
+2024-10-15 01:35:21.025607 Kilo: Yes
+2024-10-15 01:35:21.025786 Alpha: No
+2024-10-15 01:35:21.025943 X-ray: No
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:35:21.127348 Mike: We should replace Kilo with X-ray
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:21.133430 Quebec: No
+2024-10-15 01:35:21.133565 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:21.147032 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:21.152870 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:21.159889 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:21.164126 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:21.168572 X-ray: Alpha, sending you 3
+2024-10-15 01:35:21.174053 Charlie: Same as last round
+2024-10-15 01:35:21.178860 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:21.186289 Bravo: X-ray, sending you 1
+2024-10-15 01:35:21.191782 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:21.196420 X-ray: Echo, Kilo and Bravo, sending you 1
+2024-10-15 01:35:21.202367 Golf: Same as last round
+2024-10-15 01:35:21.205112 Mike: Quebec, sending you 3
+2024-10-15 01:35:21.207716 Quebec: Golf and Bravo, sending you 2
+2024-10-15 01:35:21.210493 Victor: Alpha, Echo, Charlie, Kilo and Bravo, sending you 2
+2024-10-15 01:35:21.216983 X-ray: Charlie, sending you 2
+2024-10-15 01:35:21.222883 Mike: Kilo and Golf, sending you 2
+2024-10-15 01:35:21.225660 Quebec: Mike, sending you 3
+2024-10-15 01:35:21.228675 Victor: X-ray, sending you 3
+2024-10-15 01:35:21.235894 X-ray: Victor, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Quebec round 26
+ChatterBot Echo round 26
+ChatterBot Charlie round 26
+ChatterBot Kilo round 26
+ChatterBot X-ray round 26
+ChatterBot Golf round 26
+ChatterBot Mike round 26
+ChatterBot Bravo round 26
+ChatterBot Victor round 26
+2024-10-15 01:35:22.593539 Mike: We should replace Kilo with Charlie
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:22.601585 Quebec: No
+2024-10-15 01:35:22.601760 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:22.620276 Victor: We should drop Echo
+2024-10-15 01:35:22.637896 Bravo: Yes
+2024-10-15 01:35:22.638068 Charlie: Yes
+2024-10-15 01:35:22.638197 Kilo: Yes
+2024-10-15 01:35:22.638313 Alpha: No
+2024-10-15 01:35:22.638456 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Victor reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Victor reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Victor reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:35:22.854199 Mike: We should replace Kilo with Echo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:22.919320 Quebec: Yes
+2024-10-15 01:35:22.919609 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:22.986966 Mike: We should replace Kilo with Bravo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:22.994498 Quebec: Yes
+2024-10-15 01:35:22.994735 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:23.020186 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:23.025041 Echo: Alpha and Victor, sending you 2
+2024-10-15 01:35:23.030808 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:23.033599 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:23.038926 Charlie: Same as last round
+2024-10-15 01:35:23.043355 Golf: Same as last round
+2024-10-15 01:35:23.046523 Mike: Bravo we want you to join our group
+2024-10-15 01:35:23.052526 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:23.071765 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:23.075334 Echo: Charlie, Kilo, X-ray and Bravo, sending you 1
+2024-10-15 01:35:23.080649 Bravo: X-ray, sending you 1
+2024-10-15 01:35:23.084158 X-ray: Alpha, sending you 3
+2024-10-15 01:35:23.122093 X-ray: Echo, Kilo and Bravo, sending you 1
+2024-10-15 01:35:23.163150 Victor: Alpha, Charlie, X-ray and Bravo, sending you 3
+2024-10-15 01:35:23.169290 X-ray: Charlie, sending you 2
+2024-10-15 01:35:23.177110 Quebec: Echo and Golf, sending you 2
+2024-10-15 01:35:23.181596 Victor: Kilo, sending you 1
+2024-10-15 01:35:23.186915 X-ray: Victor, sending you 4
+2024-10-15 01:35:23.194199 Quebec: Mike, sending you 3
+2024-10-15 01:35:23.196206 Mike: Quebec, sending you 3
+2024-10-15 01:35:23.209113 Mike: Golf and Bravo, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Quebec round 27
+ChatterBot Echo round 27
+ChatterBot Charlie round 27
+ChatterBot Kilo round 27
+ChatterBot X-ray round 27
+ChatterBot Golf round 27
+ChatterBot Mike round 27
+ChatterBot Bravo round 27
+ChatterBot Victor round 27
+2024-10-15 01:35:24.166874 Mike: We should replace Bravo with Charlie
+2024-10-15 01:35:24.171991 Quebec: No
+2024-10-15 01:35:24.172629 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:24.194332 Alpha: We should drop Echo
+2024-10-15 01:35:24.207324 Bravo: Yes
+2024-10-15 01:35:24.207470 Charlie: Yes
+2024-10-15 01:35:24.207593 Kilo: Yes
+2024-10-15 01:35:24.207759 X-ray: No
+2024-10-15 01:35:24.207884 Victor: Yes
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-15 01:35:24.516221 Mike: We should replace Bravo with X-ray
+2024-10-15 01:35:24.523976 Quebec: No
+2024-10-15 01:35:24.524221 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:24.541487 Mike: We should replace Bravo with Kilo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:24.548406 Quebec: Yes
+2024-10-15 01:35:24.548650 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:24.572561 Echo: Alpha, sending you 3
+2024-10-15 01:35:24.581831 Golf: Same as last round
+2024-10-15 01:35:24.584715 Victor: Alpha, Charlie, X-ray and Bravo, sending you 3
+2024-10-15 01:35:24.587718 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:24.591028 X-ray: Alpha, sending you 3
+2024-10-15 01:35:24.597567 Charlie: Same as last round
+2024-10-15 01:35:24.603107 Alpha: Echo, Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:24.610690 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:24.616159 Echo: Charlie, Kilo, X-ray, Bravo and Victor, sending you 1
+2024-10-15 01:35:24.622237 Victor: Kilo, sending you 1
+2024-10-15 01:35:24.627220 Bravo: X-ray, sending you 1
+2024-10-15 01:35:24.632785 X-ray: Echo, Kilo and Bravo, sending you 1
+2024-10-15 01:35:24.638988 Kilo: Charlie, Bravo and Victor, sending you 2
+chatterbot Golf submitting transactions
+2024-10-15 01:35:24.643998 X-ray: Charlie, sending you 2
+2024-10-15 01:35:24.649332 Quebec: Echo and Golf, sending you 2
+2024-10-15 01:35:24.652144 Mike: Quebec, sending you 3
+2024-10-15 01:35:24.655380 X-ray: Victor, sending you 4
+2024-10-15 01:35:24.658692 Quebec: Mike, sending you 3
+2024-10-15 01:35:24.660881 Mike: Golf and Bravo, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Quebec round 28
+ChatterBot Echo round 28
+ChatterBot Charlie round 28
+ChatterBot Kilo round 28
+ChatterBot X-ray round 28
+ChatterBot Golf round 28
+ChatterBot Mike round 28
+ChatterBot Bravo round 28
+ChatterBot Victor round 28
+2024-10-15 01:35:25.604598 Mike: We should replace Bravo with Alpha
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:25.615799 Quebec: No
+2024-10-15 01:35:25.616513 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:25.667751 Alpha: We should drop Echo
+2024-10-15 01:35:25.688086 Bravo: Yes
+2024-10-15 01:35:25.688271 Charlie: Yes
+2024-10-15 01:35:25.688391 Kilo: Yes
+2024-10-15 01:35:25.688502 X-ray: Yes
+2024-10-15 01:35:25.688610 Victor: Yes
+2024-10-15 01:35:25.810250 Mike: We should replace Bravo with Echo
+ChatterBot Quebec reevaluating
+2024-10-15 01:35:25.864390 Quebec: No
+2024-10-15 01:35:25.864751 Golf: No
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:26.046242 Golf: Same as last round
+2024-10-15 01:35:26.049221 Mike: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-15 01:35:26.058551 Echo: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:26.085679 Alpha: Sending you each 2
+2024-10-15 01:35:26.095582 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:26.103862 Victor: Alpha, Charlie, X-ray and Bravo, sending you 3
+2024-10-15 01:35:26.113201 Charlie: Same as last round
+2024-10-15 01:35:26.120744 Kilo: Charlie, X-ray, Bravo and Victor, sending you 2
+2024-10-15 01:35:26.129160 X-ray: Alpha and Charlie, sending you 3
+2024-10-15 01:35:26.137789 Bravo: X-ray, sending you 1
+2024-10-15 01:35:26.146102 Victor: Kilo, sending you 1
+chatterbot X-ray submitting transactions
+2024-10-15 01:35:26.154163 X-ray: Kilo and Bravo, sending you 1
+2024-10-15 01:35:26.193553 Quebec: Echo and Golf, sending you 2
+2024-10-15 01:35:26.197249 Mike: Quebec, sending you 4
+2024-10-15 01:35:26.201225 Golf: Quebec, Echo and Mike, sending you 1
+2024-10-15 01:35:26.204595 X-ray: Victor, sending you 4
+2024-10-15 01:35:26.212017 Quebec: Mike, sending you 3
+2024-10-15 01:35:26.215353 Mike: Golf, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Quebec round 29
+ChatterBot Echo round 29
+ChatterBot Charlie round 29
+ChatterBot Kilo round 29
+ChatterBot X-ray round 29
+ChatterBot Golf round 29
+ChatterBot Mike round 29
+ChatterBot Bravo round 29
+ChatterBot Victor round 29
+chatterbot Echo submitting transactions
+2024-10-15 01:35:27.086326 Charlie: We should drop Kilo
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:27.113010 Alpha: No
+2024-10-15 01:35:27.113238 X-ray: No
+2024-10-15 01:35:27.113420 Bravo: Yes
+2024-10-15 01:35:27.113577 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:27.223689 Alpha: Same as last round
+2024-10-15 01:35:27.229252 Mike: Quebec, sending you 3
+2024-10-15 01:35:27.231405 Golf: Quebec and Mike, sending you 1
+2024-10-15 01:35:27.233388 X-ray: Alpha and Charlie, sending you 3
+2024-10-15 01:35:27.237785 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:27.242296 Quebec: Echo and Golf, sending you 2
+2024-10-15 01:35:27.248003 Bravo: We should drop Charlie
+2024-10-15 01:35:27.263606 Alpha: No
+2024-10-15 01:35:27.263772 Kilo: No
+2024-10-15 01:35:27.263869 X-ray: No
+2024-10-15 01:35:27.263964 Victor: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:35:27.320859 Mike: Echo and Golf, sending you 2
+2024-10-15 01:35:27.322607 Golf: Echo, sending you 2
+chatterbot Golf submitting transactions
+2024-10-15 01:35:27.324716 X-ray: Kilo and Bravo, sending you 1
+2024-10-15 01:35:27.327950 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:27.331675 Quebec: Mike, sending you 3
+2024-10-15 01:35:27.332945 Victor: Alpha, Charlie, X-ray and Bravo, sending you 3
+2024-10-15 01:35:27.336201 Charlie: Alpha and Victor, sending you 3
+2024-10-15 01:35:27.337548 X-ray: Victor, sending you 4
+2024-10-15 01:35:27.340577 Victor: Kilo, sending you 1
+2024-10-15 01:35:27.342209 Charlie: X-ray and Bravo, sending you 2
+chatterbot Echo submitting transactions
+2024-10-15 01:35:27.353661 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:27.359662 Bravo: X-ray, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Quebec round 30
+ChatterBot Echo round 30
+ChatterBot Charlie round 30
+ChatterBot Kilo round 30
+ChatterBot X-ray round 30
+ChatterBot Golf round 30
+ChatterBot Mike round 30
+ChatterBot Bravo round 30
+ChatterBot Victor round 30
+2024-10-15 01:35:29.057998 Echo: We should add Kilo
+ChatterBot Mike reevaluating
+2024-10-15 01:35:29.078152 Quebec: No
+2024-10-15 01:35:29.078445 Golf: No
+2024-10-15 01:35:29.078717 Mike: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:35:29.133093 Mike: We should add Alpha
+ChatterBot Echo reevaluating
+2024-10-15 01:35:29.148559 Quebec: No
+2024-10-15 01:35:29.149507 Golf: No
+2024-10-15 01:35:29.149790 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:35:29.197015 Kilo: We should drop Bravo
+2024-10-15 01:35:29.219005 Charlie: No
+2024-10-15 01:35:29.220467 Alpha: No
+2024-10-15 01:35:29.220783 X-ray: No
+2024-10-15 01:35:29.221008 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:29.321376 Echo: We should add Bravo
+ChatterBot Mike reevaluating
+2024-10-15 01:35:29.337873 Quebec: No
+2024-10-15 01:35:29.338103 Golf: No
+2024-10-15 01:35:29.338395 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:35:29.439887 Quebec: Echo and Golf, sending you 2
+2024-10-15 01:35:29.443254 Golf: Quebec and Mike, sending you 1
+2024-10-15 01:35:29.446541 Bravo: Alpha, Charlie, Kilo and Victor, sending you 2
+2024-10-15 01:35:29.454123 Charlie: Alpha, X-ray and Bravo, sending you 2
+2024-10-15 01:35:29.460400 Alpha: Same as last round
+2024-10-15 01:35:29.467406 X-ray: Alpha and Charlie, sending you 3
+2024-10-15 01:35:29.474838 Victor: Alpha, Charlie, X-ray and Bravo, sending you 3
+2024-10-15 01:35:29.482378 Mike: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-15 01:35:29.496069 Kilo: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:35:29.513420 Echo: We should add X-ray
+ChatterBot Mike reevaluating
+2024-10-15 01:35:29.526310 Quebec: Yes
+2024-10-15 01:35:29.526434 Golf: Yes
+2024-10-15 01:35:29.526555 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:35:29.562936 Quebec: Mike, sending you 3
+chatterbot Alpha submitting transactions
+2024-10-15 01:35:29.565352 Golf: Echo, sending you 2
+2024-10-15 01:35:29.568103 Bravo: X-ray, sending you 1
+2024-10-15 01:35:29.573460 Charlie: Victor, sending you 4
+2024-10-15 01:35:29.577975 X-ray: Kilo and Bravo, sending you 1
+chatterbot Quebec submitting transactions
+2024-10-15 01:35:29.582595 Victor: Kilo, sending you 1
+chatterbot X-ray submitting transactions
+2024-10-15 01:35:29.588543 X-ray: Victor, sending you 4
+2024-10-15 01:35:29.595419 Echo: X-ray we want you to join our group
+2024-10-15 01:35:29.605784 X-ray: No
+ChatterBot Echo reevaluating
+2024-10-15 01:35:29.622264 Mike: X-ray we want you to join our group
+2024-10-15 01:35:29.630238 X-ray: No
+ChatterBot Echo reevaluating
+chatterbot Bravo submitting transactions
+2024-10-15 01:35:29.650367 Kilo: Alpha and X-ray, sending you 1
+2024-10-15 01:35:29.660030 Kilo: Charlie, Bravo and Victor, sending you 2
+2024-10-15 01:35:29.665745 Mike: Quebec, sending you 3
+2024-10-15 01:35:29.673680 Mike: Echo and Golf, sending you 2
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions

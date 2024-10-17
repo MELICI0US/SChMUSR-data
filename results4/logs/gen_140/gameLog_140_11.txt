@@ -1,0 +1,1884 @@
+ChatterBot Hotel round 1
+ChatterBot Tango round 1
+ChatterBot Whiskey round 1
+ChatterBot Sierra round 1
+randomSelections Hotel: {Hotel, Yankee, Delta} 
+2024-10-15 01:21:20.612684 Hotel: Can we be friends?
+ChatterBot Delta round 1
+ChatterBot Delta reevaluating
+2024-10-15 01:21:20.618549 Delta: Yes
+ChatterBot Juliett round 1
+ChatterBot Yankee round 1
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:20.635447 Yankee: Yes
+ChatterBot Delta reevaluating
+ChatterBot November round 1
+ChatterBot Lima round 1
+ChatterBot Echo round 1
+randomSelections Sierra: {Sierra, Hotel, Tango, November, Delta, Whiskey} 
+2024-10-15 01:21:20.653484 Sierra: Friends?
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:20.679102 Hotel: No
+2024-10-15 01:21:20.679434 Tango: Yes
+2024-10-15 01:21:20.680468 November: Yes
+2024-10-15 01:21:20.680748 Delta: No
+2024-10-15 01:21:20.681056 Whiskey: Yes
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+randomSelections Juliett: {Juliett, Hotel, Sierra, Lima, Whiskey, Yankee} 
+2024-10-15 01:21:20.779713 Juliett: Can we be friends?
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:20.790930 Hotel: No
+2024-10-15 01:21:20.791796 Sierra: No
+2024-10-15 01:21:20.791989 Lima: Yes
+2024-10-15 01:21:20.792129 Whiskey: No
+2024-10-15 01:21:20.792263 Yankee: No
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Echo: {Echo, Whiskey, Yankee, Delta, Lima} 
+2024-10-15 01:21:20.953834 Echo: Can we be friends?
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:20.961185 Whiskey: No
+2024-10-15 01:21:20.961677 Yankee: No
+2024-10-15 01:21:20.961874 Delta: No
+2024-10-15 01:21:20.962008 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:20.994186 Hotel: Delta, sending you 5
+2024-10-15 01:21:20.998913 Hotel: Yankee, sending you 2
+2024-10-15 01:21:21.008362 Echo: Whiskey, sending you 2
+2024-10-15 01:21:21.009568 Tango: Hotel, Sierra and November, sending you 2
+2024-10-15 01:21:21.011357 Delta: Sending you each 3
+2024-10-15 01:21:21.012872 November: Hotel and Whiskey, sending you 2
+2024-10-15 01:21:21.013665 Sierra: Hotel, Delta and November, sending you 1
+2024-10-15 01:21:21.015191 Echo: Delta, sending you 3
+2024-10-15 01:21:21.015858 Tango: Whiskey, sending you 3
+2024-10-15 01:21:21.017895 Yankee: Hotel, sending you 4
+2024-10-15 01:21:21.019733 Lima: Whiskey, sending you 1
+2024-10-15 01:21:21.022086 November: Tango and Delta, sending you 1
+2024-10-15 01:21:21.023852 Juliett: Hotel, sending you 1
+2024-10-15 01:21:21.025665 Sierra: Whiskey, sending you 4
+2024-10-15 01:21:21.026506 Echo: Yankee and Lima, sending you 1
+2024-10-15 01:21:21.028183 Tango: Delta, sending you 1
+2024-10-15 01:21:21.030193 Yankee: Delta, sending you 3
+2024-10-15 01:21:21.031565 Lima: Sierra, sending you 2
+2024-10-15 01:21:21.032497 November: Sierra, sending you 3
+2024-10-15 01:21:21.034071 Juliett: Whiskey and Lima, sending you 2
+2024-10-15 01:21:21.036024 Lima: Yankee, sending you 4
+2024-10-15 01:21:21.044454 Juliett: Sierra and Yankee, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 2
+ChatterBot Tango round 2
+ChatterBot Whiskey round 2
+ChatterBot Sierra round 2
+ChatterBot Delta round 2
+ChatterBot Juliett round 2
+ChatterBot Yankee round 2
+ChatterBot November round 2
+2024-10-15 01:21:22.182928 Sierra: We should group up
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:22.216932 Tango: No
+2024-10-15 01:21:22.217595 November: No
+2024-10-15 01:21:22.217783 Juliett: Yes
+2024-10-15 01:21:22.217911 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima round 2
+ChatterBot Echo round 2
+2024-10-15 01:21:22.370762 Delta: We should add Echo
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:22.382902 Hotel: No
+2024-10-15 01:21:22.383116 Yankee: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:22.408787 Yankee: Group up?
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:22.421806 Juliett: No
+2024-10-15 01:21:22.421954 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:22.447744 Lima: Let's form a team
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:22.460292 Juliett: Yes
+2024-10-15 01:21:22.460509 Sierra: No
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:22.517361 Whiskey: We should drop Hotel and Delta
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:22.539079 Tango: Yes
+2024-10-15 01:21:22.539309 Sierra: Yes
+2024-10-15 01:21:22.539426 November: Yes
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:22.592819 Delta: We should add Tango
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:22.604976 Hotel: No
+2024-10-15 01:21:22.605124 Yankee: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:22.631242 Delta: We should add Juliett
+2024-10-15 01:21:22.642847 Hotel: No
+2024-10-15 01:21:22.643494 Yankee: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:22.666813 Hotel: Delta, sending you 3
+2024-10-15 01:21:22.817583 Hotel: Yankee, sending you 4
+2024-10-15 01:21:22.817914 Tango: Sierra, sending you 3
+2024-10-15 01:21:22.818624 Juliett: Sierra and Lima, sending you 5
+2024-10-15 01:21:22.818822 Whiskey: Tango and Sierra, sending you 1
+2024-10-15 01:21:22.819013 Sierra: Tango and Juliett, sending you 2
+2024-10-15 01:21:22.819262 Lima: Sierra, sending you 1
+2024-10-15 01:21:22.820095 Delta: Echo we want you to join our group
+2024-10-15 01:21:22.825069 Echo: No
+ChatterBot Delta reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 01:21:22.842650 Tango: Juliett, sending you 2
+2024-10-15 01:21:22.842937 Sierra: November, sending you 3
+2024-10-15 01:21:22.843125 Lima: Juliett, sending you 6
+2024-10-15 01:21:23.078269 Yankee: Juliett, sending you 3
+2024-10-15 01:21:23.078535 Tango: November, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 01:21:23.508056 Yankee: Lima, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+2024-10-15 01:21:23.781826 Delta: Sending you each 3
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Hotel round 3
+ChatterBot Tango round 3
+ChatterBot Whiskey round 3
+ChatterBot Sierra round 3
+ChatterBot Delta round 3
+ChatterBot Juliett round 3
+ChatterBot Yankee round 3
+ChatterBot November round 3
+ChatterBot Lima round 3
+ChatterBot Echo round 3
+2024-10-15 01:21:23.848404 Juliett: We should add Tango and November
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:23.867734 Lima: No
+2024-10-15 01:21:23.868014 Sierra: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:23.909162 Sierra: We should replace Juliett with Whiskey
+2024-10-15 01:21:23.909520 Lima: We should replace Sierra with Yankee
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:23.939358 Tango: Yes
+2024-10-15 01:21:23.939626 November: Yes
+2024-10-15 01:21:23.940362 Juliett: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:24.073908 Sierra: We should add Lima
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:24.103561 Juliett: Yes
+2024-10-15 01:21:24.103811 Tango: No
+2024-10-15 01:21:24.104422 November: No
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:24.198050 November: We should drop Hotel and Delta
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:24.226276 Whiskey: Yes
+2024-10-15 01:21:24.226477 Tango: Yes
+2024-10-15 01:21:24.226655 Sierra: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:24.314867 Hotel: Delta, sending you 4
+2024-10-15 01:21:24.316300 Lima: Yankee we want you to join our group
+2024-10-15 01:21:24.325436 Yankee: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:24.345846 Hotel: Yankee, sending you 3
+2024-10-15 01:21:24.346254 Sierra: Whiskey we want you to join our group
+2024-10-15 01:21:24.354642 Whiskey: Yes
+2024-10-15 01:21:24.381295 Tango: Whiskey we want you to join our group
+2024-10-15 01:21:24.389885 Whiskey: Yes
+2024-10-15 01:21:24.419114 Delta: Hotel, sending you 3
+2024-10-15 01:21:24.419560 Yankee: Hotel, sending you 4
+2024-10-15 01:21:24.419876 Whiskey: Tango and Sierra, sending you 1
+2024-10-15 01:21:24.420700 Juliett: Yankee we want you to join our group
+2024-10-15 01:21:24.430808 Yankee: No
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:24.450279 Delta: Yankee and Echo, sending you 2
+2024-10-15 01:21:24.450602 Yankee: Delta, sending you 3
+2024-10-15 01:21:24.460335 November: Tango and Sierra, sending you 4
+2024-10-15 01:21:24.625825 Tango: Whiskey and Sierra, sending you 3
+2024-10-15 01:21:24.627244 Sierra: Tango and Whiskey, sending you 2
+2024-10-15 01:21:24.627934 Lima: Juliett, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-15 01:21:24.693261 Tango: November, sending you 4
+2024-10-15 01:21:24.693908 Sierra: November, sending you 3
+2024-10-15 01:21:24.694833 Lima: Yankee, sending you 3
+2024-10-15 01:21:24.695349 Juliett: Yankee, sending you 5
+2024-10-15 01:21:24.805446 Juliett: Lima, sending you 4
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Hotel round 4
+ChatterBot Tango round 4
+ChatterBot Whiskey round 4
+ChatterBot Sierra round 4
+ChatterBot Delta round 4
+ChatterBot Juliett round 4
+ChatterBot Yankee round 4
+ChatterBot November round 4
+ChatterBot Lima round 4
+2024-10-15 01:21:25.327246 Delta: We should replace Echo with Whiskey
+2024-10-15 01:21:25.344242 Hotel: No
+2024-10-15 01:21:25.344485 Yankee: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Echo round 4
+2024-10-15 01:21:25.408965 Tango: Whiskey and Sierra, sending you 3
+2024-10-15 01:21:25.409526 Whiskey: Tango and November, sending you 1
+2024-10-15 01:21:25.409787 Hotel: Delta, sending you 4
+2024-10-15 01:21:25.413715 Tango: November, sending you 4
+2024-10-15 01:21:25.414671 Whiskey: Sierra, sending you 2
+2024-10-15 01:21:25.415005 Hotel: Yankee, sending you 3
+2024-10-15 01:21:25.415289 Yankee: Hotel, sending you 4
+2024-10-15 01:21:25.415660 Juliett: Yankee and Lima, sending you 4
+2024-10-15 01:21:25.417673 Yankee: Delta, sending you 3
+2024-10-15 01:21:25.421918 Delta: Hotel and Yankee, sending you 3
+2024-10-15 01:21:25.422705 Lima: Juliett, sending you 4
+2024-10-15 01:21:25.423867 Sierra: Tango and Whiskey, sending you 2
+2024-10-15 01:21:25.425718 November: Tango and Sierra, sending you 4
+2024-10-15 01:21:25.426017 Lima: Yankee, sending you 3
+2024-10-15 01:21:25.426677 Delta: Echo, sending you 2
+2024-10-15 01:21:25.426998 Sierra: November, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Hotel round 5
+ChatterBot Tango round 5
+ChatterBot Whiskey round 5
+ChatterBot Sierra round 5
+ChatterBot Delta round 5
+ChatterBot Juliett round 5
+ChatterBot Yankee round 5
+ChatterBot November round 5
+2024-10-15 01:21:26.501372 Tango: We should add Juliett
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:26.518787 Whiskey: Yes
+2024-10-15 01:21:26.518967 Sierra: No
+2024-10-15 01:21:26.519101 November: No
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:26.657160 Juliett: We should add Hotel and Delta
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:26.733999 Yankee: No
+2024-10-15 01:21:26.734624 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:26.785886 Delta: We should replace Echo with Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:26.802455 Hotel: No
+2024-10-15 01:21:26.802802 Yankee: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima round 5
+ChatterBot Echo round 5
+2024-10-15 01:21:26.831282 Whiskey: We should add Juliett and Lima
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:26.847453 Tango: No
+2024-10-15 01:21:26.847654 Sierra: No
+2024-10-15 01:21:26.847891 November: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:26.915426 Tango: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:26.921092 Juliett: No
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:26.942395 Whiskey: We should add Echo
+ChatterBot Tango reevaluating
+2024-10-15 01:21:26.956497 Tango: No
+2024-10-15 01:21:26.957472 Sierra: No
+2024-10-15 01:21:26.957798 November: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:27.013482 Delta: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:27.026419 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:27.058692 November: Tango, sending you 3
+2024-10-15 01:21:27.060804 Sierra: Tango and Whiskey, sending you 2
+2024-10-15 01:21:27.062586 Whiskey: Juliett and Lima we want you to join our group
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:27.078412 Juliett: No
+2024-10-15 01:21:27.078784 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:27.144977 Lima: We should replace Yankee with Tango
+2024-10-15 01:21:27.145378 Juliett: We should replace Yankee with Echo
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:27.161904 Juliett: Yes
+2024-10-15 01:21:27.162212 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:27.178220 Yankee: Juliett, sending you 4
+2024-10-15 01:21:27.178790 November: Whiskey, sending you 1
+2024-10-15 01:21:27.179295 Sierra: November, sending you 3
+2024-10-15 01:21:27.180979 Tango: Juliett and Lima we want you to join our group
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:27.196170 Juliett: No
+2024-10-15 01:21:27.196392 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:27.272774 November: Sierra, sending you 4
+2024-10-15 01:21:27.274006 Yankee: Lima, sending you 3
+2024-10-15 01:21:27.274404 Delta: Hotel, sending you 3
+2024-10-15 01:21:27.275814 Juliett: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-15 01:21:27.282757 Tango: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:27.299863 Hotel: Delta, sending you 3
+2024-10-15 01:21:27.300412 Delta: Yankee, sending you 4
+2024-10-15 01:21:27.302683 Hotel: Yankee, sending you 4
+2024-10-15 01:21:27.304679 Delta: Echo, sending you 1
+2024-10-15 01:21:27.309677 Lima: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-15 01:21:27.318009 Tango: Yes
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:27.341364 Whiskey: Tango, Sierra, Juliett and November, sending you 2
+2024-10-15 01:21:27.344711 Whiskey: Lima, sending you 1
+2024-10-15 01:21:27.353686 Lima: Tango, sending you 1
+chatterbot November submitting transactions
+2024-10-15 01:21:27.359610 Lima: Juliett, sending you 6
+2024-10-15 01:21:27.363678 Juliett: Tango, sending you 3
+2024-10-15 01:21:27.367695 Juliett: Lima, sending you 4
+2024-10-15 01:21:27.369683 Tango: Whiskey, Sierra and Juliett, sending you 2
+chatterbot Yankee submitting transactions
+2024-10-15 01:21:27.372679 Tango: November, sending you 3
+2024-10-15 01:21:27.378308 Tango: Lima, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Hotel round 6
+ChatterBot Tango round 6
+ChatterBot Whiskey round 6
+ChatterBot Sierra round 6
+ChatterBot Delta round 6
+ChatterBot Juliett round 6
+ChatterBot Yankee round 6
+ChatterBot November round 6
+ChatterBot Lima round 6
+ChatterBot Echo round 6
+2024-10-15 01:21:28.335668 Delta: Hotel and Yankee, sending you 3
+2024-10-15 01:21:28.337189 Sierra: Tango and Whiskey, sending you 2
+2024-10-15 01:21:28.337842 November: Tango and Sierra, sending you 4
+2024-10-15 01:21:28.339471 Lima: Tango, sending you 1
+2024-10-15 01:21:28.340905 Tango: Whiskey, Sierra, Juliett, November and Lima, sending you 2
+2024-10-15 01:21:28.341596 Delta: Juliett and Lima, sending you 1
+2024-10-15 01:21:28.342010 Sierra: November, sending you 3
+2024-10-15 01:21:28.342976 November: Whiskey, sending you 1
+2024-10-15 01:21:28.343652 Yankee: Hotel, sending you 4
+2024-10-15 01:21:28.344862 Lima: Juliett, sending you 6
+2024-10-15 01:21:28.347013 Juliett: Tango and Lima, sending you 4
+2024-10-15 01:21:28.347594 Yankee: Delta, sending you 3
+2024-10-15 01:21:28.348735 Whiskey: Tango, Sierra, Juliett and November, sending you 2
+2024-10-15 01:21:28.353710 Whiskey: Lima, sending you 1
+2024-10-15 01:21:28.355406 Hotel: Delta, sending you 4
+2024-10-15 01:21:28.361681 Hotel: Yankee, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Hotel round 7
+ChatterBot Tango round 7
+ChatterBot Whiskey round 7
+ChatterBot Sierra round 7
+ChatterBot Delta round 7
+ChatterBot Juliett round 7
+ChatterBot Yankee round 7
+ChatterBot November round 7
+ChatterBot Lima round 7
+ChatterBot Echo round 7
+2024-10-15 01:21:29.580030 Whiskey: Tango, Sierra, Juliett and November, sending you 2
+2024-10-15 01:21:29.580596 Juliett: Tango and Lima, sending you 4
+2024-10-15 01:21:29.582667 Delta: Hotel and Yankee, sending you 4
+2024-10-15 01:21:29.584672 Whiskey: Lima, sending you 1
+2024-10-15 01:21:29.586691 Sierra: Tango and Whiskey, sending you 2
+2024-10-15 01:21:29.587640 Delta: Echo, sending you 1
+2024-10-15 01:21:29.590675 Sierra: November, sending you 3
+2024-10-15 01:21:29.593821 November: Tango, sending you 3
+2024-10-15 01:21:29.595690 Tango: Whiskey, Sierra, Juliett, November and Lima, sending you 2
+2024-10-15 01:21:29.596667 Lima: Tango, sending you 2
+2024-10-15 01:21:29.596953 November: Whiskey, sending you 2
+2024-10-15 01:21:29.599673 Lima: Juliett, sending you 5
+2024-10-15 01:21:29.601734 November: Sierra, sending you 4
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Hotel round 8
+ChatterBot Tango round 8
+ChatterBot Whiskey round 8
+ChatterBot Sierra round 8
+ChatterBot Delta round 8
+ChatterBot Juliett round 8
+ChatterBot Yankee round 8
+ChatterBot November round 8
+ChatterBot Lima round 8
+ChatterBot Echo round 8
+2024-10-15 01:21:30.675867 Sierra: We should add Juliett
+ChatterBot November reevaluating
+2024-10-15 01:21:30.690029 Whiskey: Yes
+2024-10-15 01:21:30.690215 Tango: Yes
+2024-10-15 01:21:30.690351 November: Yes
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:30.758221 Delta: We should group up
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:30.774767 Tango: No
+2024-10-15 01:21:30.774892 Whiskey: No
+2024-10-15 01:21:30.774989 Sierra: No
+2024-10-15 01:21:30.775083 November: No
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:30.838684 Tango: I was attacked by Hotel and Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:30.855042 Tango: Ow
+2024-10-15 01:21:30.861873 Sierra: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:30.865671 Juliett: No
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:30.880376 November: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:30.884647 Juliett: No
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:30.903970 Delta: Tango, Sierra and November, sending you 3
+2024-10-15 01:21:30.905829 Tango: We should drop Lima
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:30.921144 Whiskey: No
+2024-10-15 01:21:30.921296 Sierra: Yes
+2024-10-15 01:21:30.921420 November: Yes
+2024-10-15 01:21:30.921538 Juliett: No
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:30.978722 Delta: Whiskey, sending you 1
+2024-10-15 01:21:30.982680 Sierra: Tango, Whiskey and November, sending you 2
+2024-10-15 01:21:30.983273 November: Tango, sending you 3
+2024-10-15 01:21:30.984065 Juliett: We should replace Tango with Whiskey
+ChatterBot Lima reevaluating
+2024-10-15 01:21:30.991667 Lima: Yes
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:30.999673 Sierra: Juliett, sending you 1
+2024-10-15 01:21:31.000447 November: Whiskey, sending you 2
+2024-10-15 01:21:31.003727 Juliett: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:31.008451 Whiskey: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:31.017146 November: Sierra, sending you 4
+chatterbot Delta submitting transactions
+2024-10-15 01:21:31.042669 Whiskey: Tango, Sierra, Juliett and November, sending you 2
+2024-10-15 01:21:31.045675 Whiskey: Lima, sending you 1
+2024-10-15 01:21:31.058684 Juliett: Whiskey and Lima, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Hotel round 9
+ChatterBot Tango round 9
+ChatterBot Whiskey round 9
+ChatterBot Sierra round 9
+ChatterBot Delta round 9
+ChatterBot Juliett round 9
+ChatterBot Yankee round 9
+ChatterBot November round 9
+ChatterBot Lima round 9
+ChatterBot Echo round 9
+2024-10-15 01:21:32.209040 Lima: We should replace Whiskey with Tango
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:32.212722 Juliett: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:21:32.228597 Tango: We should drop Lima
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:32.242537 Whiskey: Yes
+2024-10-15 01:21:32.242672 Sierra: Yes
+2024-10-15 01:21:32.242786 November: Yes
+2024-10-15 01:21:32.242887 Juliett: No
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:32.298155 Hotel: I was attacked by Tango
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:32.304656 Hotel: Ow
+2024-10-15 01:21:32.305144 Juliett: Tango we want you to join our group
+2024-10-15 01:21:32.308266 Tango: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:32.315 Sierra: Tango, Whiskey and November, sending you 2
+2024-10-15 01:21:32.318666 Lima: Tango we want you to join our group
+2024-10-15 01:21:32.322226 Tango: No
+ChatterBot Lima reevaluating
+2024-10-15 01:21:32.329318 Sierra: Juliett, sending you 1
+2024-10-15 01:21:32.329727 Tango: I was attacked by Hotel and Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:32.344868 Tango: I'm keeping this round to protect myself
+2024-10-15 01:21:32.346477 Tango: Ow
+2024-10-15 01:21:32.351678 Delta: Tango, Sierra and November, sending you 3
+2024-10-15 01:21:32.355660 Delta: Whiskey, sending you 1
+2024-10-15 01:21:32.363686 Whiskey: Tango, Juliett and November, sending you 2
+2024-10-15 01:21:32.364892 November: Tango, sending you 3
+2024-10-15 01:21:32.368659 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:32.369056 November: Whiskey, sending you 2
+2024-10-15 01:21:32.372671 November: Sierra, sending you 4
+2024-10-15 01:21:32.381654 Juliett: Tango, sending you 3
+2024-10-15 01:21:32.386082 Juliett: Lima, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 10
+ChatterBot Tango round 10
+ChatterBot Whiskey round 10
+ChatterBot Sierra round 10
+ChatterBot Delta round 10
+ChatterBot Juliett round 10
+ChatterBot Yankee round 10
+ChatterBot November round 10
+ChatterBot Lima round 10
+ChatterBot Echo round 10
+2024-10-15 01:21:33.552772 Lima: We should replace Whiskey with Tango
+2024-10-15 01:21:33.557359 Juliett: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:21:33.570648 Lima: Tango we want you to join our group
+2024-10-15 01:21:33.574711 Tango: No
+ChatterBot Lima reevaluating
+2024-10-15 01:21:33.582425 Tango: I was attacked by Hotel and Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:33.600848 Tango: I'm keeping this round to protect myself
+2024-10-15 01:21:33.601767 Tango: Ow
+2024-10-15 01:21:33.605692 Delta: Tango, Sierra and November, sending you 3
+2024-10-15 01:21:33.606679 Hotel: Delta, sending you 4
+2024-10-15 01:21:33.607661 Yankee: Hotel, sending you 3
+2024-10-15 01:21:33.609664 Delta: Whiskey, sending you 1
+2024-10-15 01:21:33.610653 Hotel: Yankee, sending you 3
+2024-10-15 01:21:33.611 Yankee: Delta, sending you 4
+2024-10-15 01:21:33.622945 November: Tango, sending you 2
+2024-10-15 01:21:33.625685 Whiskey: Tango, Juliett and November, sending you 2
+2024-10-15 01:21:33.628675 November: Whiskey, sending you 3
+2024-10-15 01:21:33.629287 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:33.631655 Juliett: Tango, sending you 2
+2024-10-15 01:21:33.632746 Sierra: Tango, Whiskey and November, sending you 2
+2024-10-15 01:21:33.633412 November: Sierra, sending you 4
+2024-10-15 01:21:33.636677 Juliett: Lima, sending you 4
+2024-10-15 01:21:33.637412 Sierra: Juliett, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Hotel round 11
+ChatterBot Tango round 11
+ChatterBot Whiskey round 11
+ChatterBot Sierra round 11
+ChatterBot Delta round 11
+ChatterBot Juliett round 11
+2024-10-15 01:21:34.814135 Tango: We should replace Juliett with Delta
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:34.836075 Whiskey: Yes
+2024-10-15 01:21:34.836772 Sierra: Yes
+2024-10-15 01:21:34.836957 November: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee round 11
+ChatterBot November round 11
+ChatterBot Lima round 11
+ChatterBot Echo round 11
+2024-10-15 01:21:34.939190 Lima: We should replace Whiskey with Tango
+2024-10-15 01:21:34.944041 Juliett: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:21:34.954151 November: We should replace Juliett with Delta
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:34.969250 Whiskey: Yes
+2024-10-15 01:21:34.969408 Tango: Yes
+2024-10-15 01:21:34.969577 Sierra: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:35.031654 Hotel: Delta, sending you 3
+2024-10-15 01:21:35.032989 Juliett: Tango, sending you 3
+2024-10-15 01:21:35.033766 November: Delta we want you to join our group
+2024-10-15 01:21:35.039785 Delta: Yes
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:35.060151 Hotel: Yankee, sending you 4
+2024-10-15 01:21:35.060539 Juliett: Lima, sending you 4
+2024-10-15 01:21:35.061028 Lima: Tango we want you to join our group
+2024-10-15 01:21:35.065939 Tango: No
+ChatterBot Lima reevaluating
+2024-10-15 01:21:35.075300 Yankee: Hotel, sending you 4
+2024-10-15 01:21:35.076214 Delta: Tango, Sierra and November, sending you 3
+2024-10-15 01:21:35.076833 Tango: Delta we want you to join our group
+2024-10-15 01:21:35.081301 Delta: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:35.102977 Yankee: Delta, sending you 3
+2024-10-15 01:21:35.103756 Delta: Whiskey, sending you 1
+2024-10-15 01:21:35.107680 Whiskey: Delta we want you to join our group
+2024-10-15 01:21:35.114192 Delta: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:35.171679 Whiskey: Tango, Sierra, Delta and November, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 12
+ChatterBot Tango round 12
+ChatterBot Whiskey round 12
+ChatterBot Sierra round 12
+ChatterBot Delta round 12
+ChatterBot Juliett round 12
+ChatterBot Yankee round 12
+ChatterBot November round 12
+ChatterBot Lima round 12
+2024-10-15 01:21:36.222944 Sierra: We should replace Juliett with Delta
+2024-10-15 01:21:36.241539 Whiskey: Yes
+2024-10-15 01:21:36.241817 Tango: Yes
+2024-10-15 01:21:36.242402 November: Yes
+ChatterBot Echo round 12
+2024-10-15 01:21:36.328556 Juliett: We should replace Tango with Echo
+ChatterBot Lima reevaluating
+2024-10-15 01:21:36.335860 Lima: Yes
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:36.342241 Lima: We should replace Whiskey with Echo
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:36.348469 Juliett: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:21:36.362240 Sierra: Delta we want you to join our group
+2024-10-15 01:21:36.368778 Delta: Yes
+2024-10-15 01:21:36.398607 Hotel: I was attacked by Whiskey and November
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:36.412055 Hotel: I'm keeping this round to protect myself
+2024-10-15 01:21:36.412938 Hotel: Ow
+2024-10-15 01:21:36.413530 Juliett: Echo we want you to join our group
+2024-10-15 01:21:36.419763 Echo: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:36.436127 Whiskey: Tango, Sierra, Delta and November, sending you 1
+2024-10-15 01:21:36.436843 Sierra: Tango, sending you 1
+2024-10-15 01:21:36.437733 Lima: Echo we want you to join our group
+2024-10-15 01:21:36.445254 Echo: No
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:36.454471 Sierra: Whiskey, Delta and November, sending you 2
+2024-10-15 01:21:36.457661 Yankee: Hotel, sending you 4
+2024-10-15 01:21:36.459675 Delta: Tango and November, sending you 1
+2024-10-15 01:21:36.461686 Yankee: Delta, sending you 3
+2024-10-15 01:21:36.464986 Delta: Whiskey, sending you 3
+2024-10-15 01:21:36.470680 Delta: Sierra, sending you 5
+2024-10-15 01:21:36.493679 Juliett: Lima, sending you 4
+2024-10-15 01:21:36.499977 Juliett: Echo, sending you 3
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Hotel round 13
+ChatterBot Tango round 13
+ChatterBot Whiskey round 13
+ChatterBot Sierra round 13
+ChatterBot Delta round 13
+ChatterBot Juliett round 13
+ChatterBot Yankee round 13
+ChatterBot November round 13
+ChatterBot Lima round 13
+ChatterBot Echo round 13
+2024-10-15 01:21:37.662350 Hotel: I was attacked by Tango, Whiskey and November
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:37.672775 Hotel: I'm keeping this round to protect myself
+2024-10-15 01:21:37.674135 Hotel: Ow
+2024-10-15 01:21:37.677688 Sierra: Tango, sending you 1
+2024-10-15 01:21:37.679727 Juliett: Lima, sending you 4
+2024-10-15 01:21:37.682740 Sierra: Whiskey, Delta and November, sending you 2
+2024-10-15 01:21:37.684667 Whiskey: Tango, Delta and November, sending you 1
+2024-10-15 01:21:37.685977 Juliett: Echo, sending you 3
+2024-10-15 01:21:37.688745 Whiskey: Sierra, sending you 2
+2024-10-15 01:21:37.693677 Yankee: Hotel, sending you 4
+2024-10-15 01:21:37.695677 Delta: Tango, sending you 1
+2024-10-15 01:21:37.697699 November: Tango, sending you 1
+2024-10-15 01:21:37.699446 Yankee: Delta, sending you 3
+2024-10-15 01:21:37.701676 Delta: Whiskey, sending you 3
+2024-10-15 01:21:37.702397 November: Whiskey and Delta, sending you 2
+2024-10-15 01:21:37.704681 Delta: Sierra, sending you 5
+2024-10-15 01:21:37.708028 November: Sierra, sending you 4
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 14
+ChatterBot Tango round 14
+ChatterBot Whiskey round 14
+ChatterBot Sierra round 14
+ChatterBot Delta round 14
+ChatterBot Juliett round 14
+ChatterBot Yankee round 14
+ChatterBot November round 14
+ChatterBot Lima round 14
+ChatterBot Echo round 14
+2024-10-15 01:21:38.958254 Lima: We should replace Whiskey with Delta
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:38.963849 Juliett: Yes
+2024-10-15 01:21:38.970208 Juliett: We should replace Echo with Delta
+2024-10-15 01:21:38.975664 Lima: Yes
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:38.993546 Lima: Delta we want you to join our group
+2024-10-15 01:21:39.000300 Delta: No
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:39.012298 Yankee: I was attacked by Tango and Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:39.025828 Yankee: I'm keeping this round to protect myself
+2024-10-15 01:21:39.027452 Yankee: Ow
+2024-10-15 01:21:39.028373 Juliett: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-15 01:21:39.035455 Delta: No
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:39.048955 Whiskey: Tango, Delta and November, sending you 2
+2024-10-15 01:21:39.051124 Sierra: Tango, sending you 1
+2024-10-15 01:21:39.061318 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:39.062806 Sierra: Whiskey, Delta and November, sending you 2
+2024-10-15 01:21:39.102013 Hotel: Delta, sending you 1
+2024-10-15 01:21:39.103801 Delta: Tango, sending you 1
+2024-10-15 01:21:39.142886 Hotel: Yankee, sending you 3
+2024-10-15 01:21:39.143700 Delta: Whiskey and November, sending you 2
+2024-10-15 01:21:39.145951 Juliett: Delta, sending you 3
+2024-10-15 01:21:39.399370 Juliett: Lima, sending you 4
+2024-10-15 01:21:39.400900 Delta: Sierra, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Hotel round 15
+ChatterBot Tango round 15
+ChatterBot Whiskey round 15
+ChatterBot Sierra round 15
+ChatterBot Delta round 15
+ChatterBot Juliett round 15
+ChatterBot Yankee round 15
+ChatterBot November round 15
+ChatterBot Lima round 15
+ChatterBot Echo round 15
+2024-10-15 01:21:40.452162 Tango: We should add Juliett
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:40.489765 Delta: No
+2024-10-15 01:21:40.490365 Whiskey: No
+2024-10-15 01:21:40.490760 Sierra: No
+2024-10-15 01:21:40.491671 November: Yes
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:40.623902 Lima: We should replace Whiskey with Delta
+2024-10-15 01:21:40.630159 Juliett: Yes
+2024-10-15 01:21:40.665344 Lima: Delta we want you to join our group
+2024-10-15 01:21:40.673125 Delta: No
+2024-10-15 01:21:40.702381 Tango: Juliett we want you to join our group
+2024-10-15 01:21:40.710435 Juliett: No
+ChatterBot Tango reevaluating
+2024-10-15 01:21:40.741654 Tango: We should add Echo
+2024-10-15 01:21:40.768347 Delta: No
+2024-10-15 01:21:40.768556 Whiskey: No
+2024-10-15 01:21:40.768721 Sierra: No
+2024-10-15 01:21:40.768851 November: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:40.870591 Yankee: I was attacked by November
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:40.885375 Yankee: I'm keeping this round to protect myself
+2024-10-15 01:21:40.887021 Yankee: Ow
+2024-10-15 01:21:40.887860 Tango: We should add Lima
+ChatterBot Delta reevaluating
+2024-10-15 01:21:40.913594 Delta: No
+2024-10-15 01:21:40.913828 Whiskey: No
+2024-10-15 01:21:40.914016 Sierra: No
+2024-10-15 01:21:40.914150 November: No
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:41.052571 Juliett: Delta and Lima, sending you 3
+2024-10-15 01:21:41.053340 Sierra: Tango, sending you 1
+2024-10-15 01:21:41.055083 Whiskey: Tango, Delta and November, sending you 2
+2024-10-15 01:21:41.056688 November: Tango, sending you 1
+2024-10-15 01:21:41.070512 Sierra: Whiskey, Delta and November, sending you 2
+2024-10-15 01:21:41.072775 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:41.075074 November: Whiskey and Delta, sending you 2
+2024-10-15 01:21:41.114998 November: Sierra, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 16
+ChatterBot Tango round 16
+ChatterBot Whiskey round 16
+ChatterBot Sierra round 16
+ChatterBot Delta round 16
+ChatterBot Juliett round 16
+ChatterBot Yankee round 16
+ChatterBot November round 16
+ChatterBot Lima round 16
+ChatterBot Echo round 16
+2024-10-15 01:21:42.001729 Tango: We should add Juliett
+ChatterBot Delta reevaluating
+2024-10-15 01:21:42.033996 Delta: No
+2024-10-15 01:21:42.034765 Whiskey: No
+2024-10-15 01:21:42.034913 Sierra: No
+2024-10-15 01:21:42.035042 November: No
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:21:42.214077 Yankee: I was attacked by Tango
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:42.230040 Yankee: I'm keeping this round to protect myself
+2024-10-15 01:21:42.230857 Yankee: Ow
+2024-10-15 01:21:42.263715 Whiskey: Tango, Delta and November, sending you 2
+2024-10-15 01:21:42.265834 November: Tango, sending you 1
+2024-10-15 01:21:42.267263 Sierra: Tango, sending you 1
+2024-10-15 01:21:42.271546 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:42.274360 Juliett: Delta and Lima, sending you 3
+2024-10-15 01:21:42.275059 November: Whiskey and Delta, sending you 2
+2024-10-15 01:21:42.276919 Sierra: Whiskey, Delta and November, sending you 2
+2024-10-15 01:21:42.280040 November: Sierra, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 17
+ChatterBot Tango round 17
+ChatterBot Whiskey round 17
+ChatterBot Sierra round 17
+ChatterBot Delta round 17
+ChatterBot Juliett round 17
+ChatterBot Yankee round 17
+ChatterBot November round 17
+ChatterBot Lima round 17
+ChatterBot Echo round 17
+2024-10-15 01:21:43.427198 Delta: We should drop Tango
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:43.446159 Whiskey: No
+2024-10-15 01:21:43.446337 Sierra: Yes
+2024-10-15 01:21:43.446533 November: No
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:43.505821 Tango: I was attacked by Echo
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot November reevaluating
+2024-10-15 01:21:43.530056 Tango: I'm keeping this round to protect myself
+2024-10-15 01:21:43.532009 Tango: Ow
+2024-10-15 01:21:43.572642 Juliett: Delta and Lima, sending you 3
+2024-10-15 01:21:44.357698 November: Tango, sending you 1
+2024-10-15 01:21:44.360265 Sierra: Tango, sending you 1
+2024-10-15 01:21:44.362565 Whiskey: Tango, Delta and November, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-15 01:21:44.365361 November: Whiskey and Delta, sending you 2
+2024-10-15 01:21:44.368851 Sierra: Whiskey, Delta and November, sending you 2
+2024-10-15 01:21:44.371377 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:44.373774 November: Sierra, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Hotel round 18
+ChatterBot Tango round 18
+ChatterBot Whiskey round 18
+ChatterBot Sierra round 18
+ChatterBot Delta round 18
+ChatterBot Juliett round 18
+ChatterBot Yankee round 18
+ChatterBot November round 18
+ChatterBot Lima round 18
+ChatterBot Echo round 18
+2024-10-15 01:21:45.155199 Hotel: We should replace Delta with Juliett
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:45.161610 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:45.233494 Delta: We should drop Tango
+2024-10-15 01:21:45.252812 Whiskey: No
+2024-10-15 01:21:45.253015 Sierra: No
+2024-10-15 01:21:45.253178 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:21:45.361090 Juliett: Tango and Sierra, sending you 3
+2024-10-15 01:21:45.366578 Whiskey: Tango, Delta and November, sending you 2
+2024-10-15 01:21:45.369165 Yankee: Hotel, sending you 3
+2024-10-15 01:21:45.370048 Juliett: Whiskey, sending you 4
+2024-10-15 01:21:45.372453 Whiskey: Sierra, sending you 3
+2024-10-15 01:21:45.374881 Yankee: Juliett, sending you 1
+2024-10-15 01:21:45.375343 Juliett: Delta, sending you 1
+2024-10-15 01:21:45.377116 November: Tango, sending you 1
+2024-10-15 01:21:45.383665 November: Whiskey and Delta, sending you 2
+2024-10-15 01:21:45.385291 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:45.389670 November: Sierra, sending you 4
+2024-10-15 01:21:45.391626 Sierra: Delta, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 19
+ChatterBot Tango round 19
+ChatterBot Whiskey round 19
+ChatterBot Sierra round 19
+ChatterBot Delta round 19
+ChatterBot Juliett round 19
+ChatterBot Yankee round 19
+ChatterBot November round 19
+ChatterBot Lima round 19
+ChatterBot Echo round 19
+2024-10-15 01:21:46.760129 Hotel: We should replace Delta with Juliett
+2024-10-15 01:21:46.767322 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:46.794647 Delta: We should drop Tango
+2024-10-15 01:21:46.807337 Whiskey: Yes
+2024-10-15 01:21:46.807891 Sierra: Yes
+2024-10-15 01:21:46.808006 November: No
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:46.862653 Juliett: Lima, sending you 3
+2024-10-15 01:21:46.870710 Yankee: Hotel, sending you 3
+2024-10-15 01:21:46.873701 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:46.876664 Yankee: Juliett, sending you 1
+2024-10-15 01:21:46.877684 Sierra: Delta, sending you 3
+2024-10-15 01:21:46.879697 Whiskey: Sending you each 3
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 20
+ChatterBot Tango round 20
+ChatterBot Whiskey round 20
+ChatterBot Sierra round 20
+ChatterBot Delta round 20
+ChatterBot Juliett round 20
+ChatterBot Yankee round 20
+ChatterBot November round 20
+ChatterBot Lima round 20
+ChatterBot Echo round 20
+2024-10-15 01:21:47.991488 Juliett: We should replace Echo with Delta
+2024-10-15 01:21:48.000364 Lima: No
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:48.022986 Hotel: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:48.043466 Yankee: Yes
+2024-10-15 01:21:48.043605 Juliett: Yes
+2024-10-15 01:21:48.043715 Lima: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:48.139866 November: We should drop Tango
+ChatterBot Delta reevaluating
+2024-10-15 01:21:48.172002 Delta: Yes
+2024-10-15 01:21:48.172295 Whiskey: Yes
+2024-10-15 01:21:48.172477 Sierra: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:48.241712 Whiskey: Same as last round
+2024-10-15 01:21:48.243331 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:48.248680 Sierra: Delta, sending you 3
+2024-10-15 01:21:48.254719 November: Sending you each 3
+2024-10-15 01:21:48.257684 Echo: Juliett, sending you 4
+2024-10-15 01:21:48.260684 Yankee: Hotel, sending you 3
+2024-10-15 01:21:48.262082 Juliett: Yankee and Lima, sending you 3
+2024-10-15 01:21:48.262731 Echo: Lima, sending you 2
+2024-10-15 01:21:48.266671 Yankee: Juliett and Lima, sending you 1
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 21
+ChatterBot Tango round 21
+ChatterBot Whiskey round 21
+ChatterBot Sierra round 21
+ChatterBot Delta round 21
+ChatterBot Juliett round 21
+ChatterBot Yankee round 21
+ChatterBot November round 21
+ChatterBot Lima round 21
+ChatterBot Echo round 21
+2024-10-15 01:21:49.990200 Delta: We should drop Tango
+2024-10-15 01:21:50.024941 Whiskey: Yes
+2024-10-15 01:21:50.025362 Sierra: Yes
+2024-10-15 01:21:50.025677 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 01:21:50.103680 Yankee: Hotel, sending you 3
+2024-10-15 01:21:50.105001 Juliett: Hotel and Yankee, sending you 2
+2024-10-15 01:21:50.106796 November: Whiskey, Sierra and Delta, sending you 3
+2024-10-15 01:21:50.108333 Whiskey: Same as last round
+2024-10-15 01:21:50.110670 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:50.111269 Yankee: Juliett, sending you 2
+2024-10-15 01:21:50.112419 Juliett: Lima, sending you 3
+2024-10-15 01:21:50.113707 Sierra: Delta, sending you 3
+2024-10-15 01:21:50.116007 Yankee: Lima, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 22
+ChatterBot Tango round 22
+ChatterBot Whiskey round 22
+ChatterBot Sierra round 22
+ChatterBot Delta round 22
+ChatterBot Juliett round 22
+ChatterBot Yankee round 22
+ChatterBot November round 22
+ChatterBot Lima round 22
+ChatterBot Echo round 22
+2024-10-15 01:21:51.414546 Delta: We should drop Tango
+2024-10-15 01:21:51.450368 Whiskey: Yes
+2024-10-15 01:21:51.450762 Sierra: Yes
+2024-10-15 01:21:51.451021 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:51.557680 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:51.559599 Whiskey: Same as last round
+2024-10-15 01:21:51.561680 Yankee: Hotel, sending you 3
+2024-10-15 01:21:51.563974 Sierra: Delta, sending you 3
+2024-10-15 01:21:51.568708 Yankee: Juliett, sending you 2
+2024-10-15 01:21:51.571308 November: Whiskey, Sierra and Delta, sending you 3
+2024-10-15 01:21:51.572666 Juliett: Hotel, sending you 1
+2024-10-15 01:21:51.574708 Yankee: Lima, sending you 1
+2024-10-15 01:21:51.577799 Juliett: Yankee and Lima, sending you 3
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 23
+ChatterBot Tango round 23
+ChatterBot Whiskey round 23
+ChatterBot Sierra round 23
+ChatterBot Delta round 23
+ChatterBot Juliett round 23
+ChatterBot Yankee round 23
+ChatterBot November round 23
+ChatterBot Lima round 23
+ChatterBot Echo round 23
+2024-10-15 01:21:52.913602 Juliett: We should add Echo
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:52.947345 Hotel: No
+2024-10-15 01:21:52.947711 Yankee: No
+2024-10-15 01:21:52.948424 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:53.094820 Juliett: We should add Delta
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:21:53.130993 Hotel: No
+2024-10-15 01:21:53.131396 Yankee: No
+2024-10-15 01:21:53.132409 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:53.255364 Delta: We should drop Tango
+2024-10-15 01:21:53.293826 Whiskey: Yes
+2024-10-15 01:21:53.294077 Sierra: Yes
+2024-10-15 01:21:53.294306 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:53.478584 November: Whiskey, Sierra and Delta, sending you 3
+2024-10-15 01:21:53.481119 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:53.483546 Whiskey: Same as last round
+2024-10-15 01:21:53.536275 Sierra: Delta, sending you 3
+2024-10-15 01:21:53.538428 Yankee: Hotel and Juliett, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-15 01:21:53.601505 Yankee: Lima, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Hotel round 24
+ChatterBot Tango round 24
+ChatterBot Whiskey round 24
+ChatterBot Sierra round 24
+ChatterBot Delta round 24
+ChatterBot Juliett round 24
+ChatterBot Yankee round 24
+ChatterBot November round 24
+ChatterBot Lima round 24
+ChatterBot Echo round 24
+2024-10-15 01:21:54.766536 Juliett: We should add Echo
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:54.790151 Hotel: No
+2024-10-15 01:21:54.790369 Yankee: No
+2024-10-15 01:21:54.790504 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:54.897850 Delta: We should drop Tango
+2024-10-15 01:21:54.917259 Whiskey: Yes
+2024-10-15 01:21:54.917462 Sierra: Yes
+2024-10-15 01:21:54.917599 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:55.140146 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:55.142791 Whiskey: Same as last round
+2024-10-15 01:21:55.145701 Sierra: Delta, sending you 3
+2024-10-15 01:21:55.149804 Juliett: Hotel, sending you 2
+chatterbot Tango submitting transactions
+2024-10-15 01:21:55.152159 Yankee: Hotel and Juliett, sending you 3
+2024-10-15 01:21:55.156101 Juliett: Yankee and Lima, sending you 3
+2024-10-15 01:21:55.174142 Yankee: Lima, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-15 01:21:55.179667 November: Whiskey, Sierra and Delta, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 25
+ChatterBot Tango round 25
+ChatterBot Whiskey round 25
+ChatterBot Sierra round 25
+ChatterBot Delta round 25
+ChatterBot Juliett round 25
+ChatterBot Yankee round 25
+ChatterBot November round 25
+ChatterBot Lima round 25
+ChatterBot Echo round 25
+2024-10-15 01:21:56.431136 Delta: We should drop Tango
+2024-10-15 01:21:56.461651 Whiskey: Yes
+2024-10-15 01:21:56.462417 Sierra: Yes
+2024-10-15 01:21:56.462672 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:56.553855 Whiskey: Same as last round
+2024-10-15 01:21:56.566791 Juliett: Hotel, sending you 2
+2024-10-15 01:21:56.569707 Yankee: Hotel and Juliett, sending you 3
+2024-10-15 01:21:56.592284 Juliett: Yankee and Lima, sending you 3
+2024-10-15 01:21:56.596594 November: Whiskey, Sierra and Delta, sending you 3
+2024-10-15 01:21:56.600372 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:56.604304 Yankee: Lima, sending you 1
+2024-10-15 01:21:56.607795 Sierra: Delta, sending you 3
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 26
+ChatterBot Tango round 26
+ChatterBot Whiskey round 26
+ChatterBot Sierra round 26
+ChatterBot Delta round 26
+ChatterBot Juliett round 26
+ChatterBot Yankee round 26
+ChatterBot November round 26
+ChatterBot Lima round 26
+ChatterBot Echo round 26
+2024-10-15 01:21:57.638799 Juliett: We should add Whiskey
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:57.660818 Hotel: No
+2024-10-15 01:21:57.661721 Yankee: No
+2024-10-15 01:21:57.662283 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:57.801302 Tango: Let's form a team
+2024-10-15 01:21:57.814050 Lima: No
+ChatterBot Tango reevaluating
+2024-10-15 01:21:57.860124 Juliett: We should add Echo
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:57.889845 Hotel: No
+2024-10-15 01:21:57.890076 Yankee: No
+2024-10-15 01:21:57.890212 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:57.956518 Hotel: We should replace Delta with Juliett
+2024-10-15 01:21:57.964321 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:57.972219 Delta: We should drop Tango
+2024-10-15 01:21:57.999364 Whiskey: Yes
+2024-10-15 01:21:57.999560 Sierra: Yes
+2024-10-15 01:21:57.999709 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:21:58.116901 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:58.120115 November: Whiskey, Sierra and Delta, sending you 3
+2024-10-15 01:21:58.154508 Sierra: Delta, sending you 3
+2024-10-15 01:21:58.157465 Whiskey: Same as last round
+2024-10-15 01:21:58.160457 Yankee: Hotel and Juliett, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+2024-10-15 01:21:58.176926 Yankee: Lima, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 27
+ChatterBot Tango round 27
+ChatterBot Whiskey round 27
+ChatterBot Sierra round 27
+ChatterBot Delta round 27
+ChatterBot Juliett round 27
+ChatterBot Yankee round 27
+ChatterBot November round 27
+ChatterBot Lima round 27
+ChatterBot Echo round 27
+2024-10-15 01:21:59.118706 Hotel: We should replace Delta with Juliett
+2024-10-15 01:21:59.124905 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:59.148031 Delta: We should drop Tango
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:59.165159 Whiskey: Yes
+2024-10-15 01:21:59.165437 Sierra: Yes
+2024-10-15 01:21:59.165712 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:21:59.255626 Hotel: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:59.283974 Juliett: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:59.312780 Juliett: We should add Echo
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+2024-10-15 01:21:59.347749 Hotel: No
+2024-10-15 01:21:59.347964 Yankee: No
+2024-10-15 01:21:59.348132 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:21:59.454233 November: Same as last round
+2024-10-15 01:21:59.457804 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:21:59.461379 Juliett: Echo we want you to join our group
+2024-10-15 01:21:59.473352 Echo: No
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:21:59.521800 Sierra: Delta, sending you 3
+chatterbot Tango submitting transactions
+2024-10-15 01:21:59.525801 Whiskey: Same as last round
+2024-10-15 01:21:59.532880 Yankee: Hotel, sending you 3
+2024-10-15 01:21:59.544421 Yankee: Juliett, sending you 4
+2024-10-15 01:21:59.586819 Juliett: Hotel, sending you 2
+2024-10-15 01:21:59.622099 Juliett: Yankee and Lima, sending you 3
+2024-10-15 01:21:59.674077 Juliett: Echo, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Hotel round 28
+ChatterBot Tango round 28
+ChatterBot Whiskey round 28
+ChatterBot Sierra round 28
+ChatterBot Delta round 28
+ChatterBot Juliett round 28
+ChatterBot Yankee round 28
+ChatterBot November round 28
+ChatterBot Lima round 28
+ChatterBot Echo round 28
+2024-10-15 01:22:00.749280 Hotel: We should replace Delta with Juliett
+2024-10-15 01:22:00.760212 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:00.865947 Delta: We should drop Tango
+2024-10-15 01:22:00.892534 Whiskey: Yes
+2024-10-15 01:22:00.892786 Sierra: Yes
+2024-10-15 01:22:00.892955 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:22:00.967803 Hotel: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:00.979790 Juliett: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:01.007559 Juliett: We should replace Echo with Sierra
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:01.039628 Hotel: No
+2024-10-15 01:22:01.041021 Yankee: No
+2024-10-15 01:22:01.041157 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:01.207928 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:22:01.212263 Yankee: Hotel, sending you 3
+2024-10-15 01:22:01.215309 November: Same as last round
+2024-10-15 01:22:01.218740 Whiskey: Same as last round
+2024-10-15 01:22:01.222043 Sierra: Delta, sending you 3
+2024-10-15 01:22:01.225562 Yankee: Juliett, sending you 4
+2024-10-15 01:22:01.363247 Juliett: Hotel, sending you 2
+2024-10-15 01:22:01.411785 Juliett: Yankee and Lima, sending you 3
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+2024-10-15 01:22:01.453893 Juliett: Echo, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Hotel round 29
+ChatterBot Tango round 29
+ChatterBot Whiskey round 29
+ChatterBot Sierra round 29
+ChatterBot Delta round 29
+ChatterBot Juliett round 29
+ChatterBot Yankee round 29
+ChatterBot November round 29
+ChatterBot Lima round 29
+ChatterBot Echo round 29
+2024-10-15 01:22:02.676339 Lima: We should replace Whiskey with Yankee
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:02.681309 Juliett: Yes
+2024-10-15 01:22:02.695271 Hotel: We should replace Delta with Juliett
+2024-10-15 01:22:02.700192 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:02.714089 Tango: We should replace Juliett with Echo
+ChatterBot Lima reevaluating
+2024-10-15 01:22:02.719784 Lima: No
+2024-10-15 01:22:02.735048 Tango: Echo we want you to join our group
+2024-10-15 01:22:02.742738 Echo: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:22:02.753212 Delta: We should drop Tango
+2024-10-15 01:22:02.765922 Whiskey: Yes
+2024-10-15 01:22:02.766068 Sierra: Yes
+2024-10-15 01:22:02.766204 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:22:02.810505 Whiskey: We should add Lima
+ChatterBot Delta reevaluating
+2024-10-15 01:22:02.827986 Delta: No
+2024-10-15 01:22:02.828143 Sierra: No
+2024-10-15 01:22:02.828244 November: No
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:22:02.870154 Juliett: We should drop Echo
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:22:02.884634 Hotel: Yes
+2024-10-15 01:22:02.884782 Yankee: Yes
+2024-10-15 01:22:02.884901 Lima: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:02.940172 November: Same as last round
+2024-10-15 01:22:02.943981 Yankee: Hotel, sending you 3
+2024-10-15 01:22:02.946390 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:22:02.949581 Hotel: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:02.955236 Juliett: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:02.966224 Juliett: We should replace Echo with Sierra
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:22:02.985550 Hotel: No
+2024-10-15 01:22:02.985699 Yankee: No
+2024-10-15 01:22:02.985814 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:03.038012 Yankee: Juliett, sending you 4
+2024-10-15 01:22:03.041452 Sierra: Delta, sending you 3
+2024-10-15 01:22:03.044997 Juliett: We should replace Echo with Tango
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:03.065388 Hotel: No
+2024-10-15 01:22:03.066187 Yankee: No
+2024-10-15 01:22:03.066365 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:03.126478 Whiskey: Same as last round
+chatterbot Yankee submitting transactions
+2024-10-15 01:22:03.192436 Juliett: Hotel, sending you 2
+2024-10-15 01:22:03.201499 Juliett: Yankee, sending you 4
+2024-10-15 01:22:03.215943 Juliett: Lima, sending you 3
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 30
+ChatterBot Tango round 30
+ChatterBot Whiskey round 30
+ChatterBot Sierra round 30
+ChatterBot Delta round 30
+ChatterBot Juliett round 30
+ChatterBot Yankee round 30
+ChatterBot November round 30
+ChatterBot Lima round 30
+ChatterBot Echo round 30
+2024-10-15 01:22:04.248125 Juliett: We should add Echo
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:22:04.274008 Hotel: No
+2024-10-15 01:22:04.274223 Yankee: No
+2024-10-15 01:22:04.274437 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:04.369991 Lima: We should replace Whiskey with Yankee
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:04.377812 Juliett: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:22:04.385211 Hotel: We should replace Delta with Juliett
+2024-10-15 01:22:04.391817 Yankee: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:04.401585 Delta: We should drop Tango
+2024-10-15 01:22:04.417284 Whiskey: Yes
+2024-10-15 01:22:04.417458 Sierra: Yes
+2024-10-15 01:22:04.417581 November: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:22:04.476320 Hotel: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:04.484180 Juliett: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:22:04.499461 Juliett: We should add Delta
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:22:04.519275 Hotel: No
+2024-10-15 01:22:04.519442 Yankee: No
+2024-10-15 01:22:04.519679 Lima: No
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:22:04.576924 Whiskey: Same as last round
+2024-10-15 01:22:04.578029 Yankee: Hotel, sending you 3
+2024-10-15 01:22:04.580711 November: Same as last round
+2024-10-15 01:22:04.582089 Yankee: Juliett, sending you 4
+2024-10-15 01:22:04.583674 Sierra: Whiskey and November, sending you 2
+2024-10-15 01:22:04.588680 Sierra: Delta, sending you 3
+2024-10-15 01:22:04.607673 Juliett: Hotel and Lima, sending you 3
+2024-10-15 01:22:04.612665 Juliett: Yankee, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions

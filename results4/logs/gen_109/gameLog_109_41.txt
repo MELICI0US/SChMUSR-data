@@ -1,0 +1,2085 @@
+ChatterBot Lima round 1
+ChatterBot Tango round 1
+ChatterBot Foxtrot round 1
+ChatterBot Hotel round 1
+ChatterBot Bravo round 1
+ChatterBot November round 1
+ChatterBot Echo round 1
+ChatterBot Zulu round 1
+ChatterBot Whiskey round 1
+ChatterBot Kilo round 1
+randomSelections Echo: {Echo} 
+randomSelections Tango: {Tango, Whiskey} 
+2024-10-15 00:55:28.516821 Tango: We should group up
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:28.519497 Whiskey: Yes
+randomSelections Foxtrot: {Foxtrot, Bravo, Echo} 
+2024-10-15 00:55:28.524079 Foxtrot: Friends?
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:28.527595 Bravo: Yes
+2024-10-15 00:55:28.528521 Echo: No
+ChatterBot Bravo reevaluating
+randomSelections Kilo: {Kilo, November} 
+2024-10-15 00:55:28.536896 Kilo: Friends?
+ChatterBot November reevaluating
+2024-10-15 00:55:28.539576 November: Yes
+randomSelections Lima: {Lima, Zulu, Kilo} 
+2024-10-15 00:55:28.543276 Lima: Friends?
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:28.548702 Zulu: Yes
+2024-10-15 00:55:28.548970 Kilo: No
+ChatterBot Zulu reevaluating
+randomSelections Hotel: {Hotel, Kilo, Zulu, Foxtrot, Whiskey, Tango} 
+2024-10-15 00:55:28.571211 Hotel: Can we be friends?
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:28.579266 Kilo: No
+2024-10-15 00:55:28.580266 Zulu: No
+2024-10-15 00:55:28.580422 Foxtrot: No
+2024-10-15 00:55:28.580800 Whiskey: No
+2024-10-15 00:55:28.580990 Tango: No
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:28.632691 Foxtrot: Bravo, sending you 3
+2024-10-15 00:55:28.634677 Lima: Sending you each 2
+2024-10-15 00:55:28.636700 Foxtrot: Echo, sending you 1
+2024-10-15 00:55:28.638702 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:28.639964 Kilo: Sending you 3
+2024-10-15 00:55:28.640527 Hotel: Tango, sending you 3
+2024-10-15 00:55:28.642028 Whiskey: Sending you 5
+2024-10-15 00:55:28.642561 November: Sending you 1
+2024-10-15 00:55:28.643014 Tango: Sending you 5
+2024-10-15 00:55:28.643850 Bravo: Echo, sending you 2
+2024-10-15 00:55:28.644679 Zulu: Sending you each 2
+2024-10-15 00:55:28.645806 Hotel: Foxtrot, sending you 4
+2024-10-15 00:55:28.648673 Hotel: Zulu, sending you 2
+2024-10-15 00:55:28.654830 Hotel: Whiskey and Kilo, sending you 1
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 2
+ChatterBot Tango round 2
+ChatterBot Foxtrot round 2
+ChatterBot Hotel round 2
+ChatterBot Bravo round 2
+ChatterBot November round 2
+ChatterBot Echo round 2
+ChatterBot Zulu round 2
+ChatterBot Whiskey round 2
+ChatterBot Kilo round 2
+2024-10-15 00:55:30.097093 Tango: We should add Hotel
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:30.103154 Whiskey: Yes
+2024-10-15 00:55:30.114937 Bravo: We should add Hotel
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:55:30.125419 Foxtrot: Yes
+2024-10-15 00:55:30.126046 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:30.181314 Hotel: Group up?
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:30.329211 Foxtrot: No
+2024-10-15 00:55:30.329796 Bravo: No
+2024-10-15 00:55:30.330152 November: No
+2024-10-15 00:55:30.330965 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:30.428725 Zulu: We should replace Kilo with Hotel
+2024-10-15 00:55:30.434784 Lima: No
+2024-10-15 00:55:30.447042 Tango: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:30.453175 Hotel: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:30.465946 Lima: We should drop Kilo
+2024-10-15 00:55:30.472243 Zulu: Yes
+2024-10-15 00:55:30.477364 Zulu: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:30.483373 Hotel: No
+2024-10-15 00:55:30.495284 Hotel: We would work well together
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:30.511776 Foxtrot: No
+2024-10-15 00:55:30.512018 Bravo: Yes
+2024-10-15 00:55:30.512173 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+chatterbot November submitting transactions
+2024-10-15 00:55:30.671724 Bravo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:30.678003 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:55:30.695213 Kilo: Sending you each 3
+chatterbot Kilo submitting transactions
+2024-10-15 00:55:30.695720 November: Same as last round
+2024-10-15 00:55:30.868466 Lima: Same as last round
+2024-10-15 00:55:30.869295 Whiskey: Sending you each 4
+2024-10-15 00:55:30.869584 Zulu: Sending you each 2
+2024-10-15 00:55:30.869845 Tango: Hotel and Whiskey, sending you 4
+2024-10-15 00:55:30.870234 Foxtrot: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:30.878169 Hotel: Yes
+2024-10-15 00:55:30.948779 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:30.984771 Bravo: Hotel and Echo, sending you 1
+2024-10-15 00:55:30.985602 Foxtrot: Hotel, sending you 5
+2024-10-15 00:55:31.013599 Foxtrot: Bravo, sending you 4
+2024-10-15 00:55:31.014395 Hotel: Sending you each 5
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 3
+ChatterBot Tango round 3
+ChatterBot Foxtrot round 3
+ChatterBot Hotel round 3
+ChatterBot Bravo round 3
+ChatterBot November round 3
+ChatterBot Echo round 3
+ChatterBot Zulu round 3
+ChatterBot Whiskey round 3
+ChatterBot Kilo round 3
+2024-10-15 00:55:32.162137 Tango: Hotel and Whiskey, sending you 4
+2024-10-15 00:55:32.162465 Foxtrot: Hotel, sending you 5
+2024-10-15 00:55:32.163454 Kilo: We should drop Lima
+2024-10-15 00:55:32.169334 Zulu: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:55:32.175455 Foxtrot: Bravo, sending you 4
+2024-10-15 00:55:32.176332 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:32.176542 Whiskey: Same as last round
+2024-10-15 00:55:32.184007 Hotel: Tango and Whiskey, sending you 4
+2024-10-15 00:55:32.184943 Lima: Same as last round
+2024-10-15 00:55:32.185267 Zulu: Sending you each 2
+2024-10-15 00:55:32.185587 November: Same as last round
+2024-10-15 00:55:32.185868 Bravo: Hotel, sending you 2
+2024-10-15 00:55:32.187023 Kilo: We should drop Zulu
+2024-10-15 00:55:32.195108 Lima: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:55:32.203563 Hotel: Foxtrot, sending you 5
+2024-10-15 00:55:32.204601 Bravo: Echo, sending you 1
+2024-10-15 00:55:32.213275 Hotel: Bravo, sending you 2
+2024-10-15 00:55:32.246685 Kilo: Same as last round
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 4
+ChatterBot Tango round 4
+ChatterBot Foxtrot round 4
+ChatterBot Hotel round 4
+ChatterBot Bravo round 4
+ChatterBot November round 4
+ChatterBot Echo round 4
+ChatterBot Zulu round 4
+ChatterBot Whiskey round 4
+ChatterBot Kilo round 4
+2024-10-15 00:55:33.305230 Kilo: We should replace Lima with November
+2024-10-15 00:55:33.351405 Bravo: We would work well together
+2024-10-15 00:55:33.372640 Hotel: Yes
+2024-10-15 00:55:33.372806 Foxtrot: No
+2024-10-15 00:55:33.372915 Tango: No
+2024-10-15 00:55:33.373038 Whiskey: No
+2024-10-15 00:55:33.460412 Kilo: November we want you to join our group
+2024-10-15 00:55:33.465700 November: Yes
+2024-10-15 00:55:33.480609 Zulu: Same as last round
+2024-10-15 00:55:33.484591 Hotel: Tango and Whiskey, sending you 4
+2024-10-15 00:55:33.485623 Tango: Hotel and Whiskey, sending you 5
+2024-10-15 00:55:33.486014 November: Same as last round
+2024-10-15 00:55:33.486916 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:33.487277 Lima: Same as last round
+2024-10-15 00:55:33.491258 Hotel: Foxtrot, sending you 5
+2024-10-15 00:55:33.491565 Whiskey: Same as last round
+2024-10-15 00:55:33.491793 Kilo: Sending you 3
+2024-10-15 00:55:33.492570 Foxtrot: Hotel, sending you 5
+2024-10-15 00:55:33.492901 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:33.501058 Hotel: Bravo, sending you 2
+2024-10-15 00:55:33.502265 Foxtrot: Bravo, sending you 4
+2024-10-15 00:55:33.502638 Bravo: Hotel, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Lima round 5
+ChatterBot Tango round 5
+ChatterBot Foxtrot round 5
+ChatterBot Hotel round 5
+ChatterBot Bravo round 5
+ChatterBot November round 5
+ChatterBot Echo round 5
+2024-10-15 00:55:34.572808 Hotel: We should add Zulu
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:34.603228 Foxtrot: No
+2024-10-15 00:55:34.603398 Bravo: No
+2024-10-15 00:55:34.603524 Tango: No
+2024-10-15 00:55:34.603721 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:34.704938 Tango: We should add Foxtrot and Bravo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:34.717716 Whiskey: No
+2024-10-15 00:55:34.717850 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu round 5
+ChatterBot Whiskey round 5
+2024-10-15 00:55:34.761200 Bravo: We should add Echo
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:34.798258 Hotel: Yes
+2024-10-15 00:55:34.798492 Foxtrot: No
+2024-10-15 00:55:34.798650 Tango: No
+2024-10-15 00:55:34.798776 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo round 5
+2024-10-15 00:55:35.172792 Hotel: We should add Lima
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.235685 Foxtrot: No
+2024-10-15 00:55:35.237140 Bravo: No
+2024-10-15 00:55:35.237584 Tango: No
+2024-10-15 00:55:35.238313 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.400653 Hotel: We should add Kilo
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.432017 Foxtrot: No
+2024-10-15 00:55:35.432263 Bravo: No
+2024-10-15 00:55:35.433321 Tango: No
+2024-10-15 00:55:35.433514 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.632009 Hotel: We should add November
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.667911 Foxtrot: No
+2024-10-15 00:55:35.668106 Bravo: No
+2024-10-15 00:55:35.668285 Tango: No
+2024-10-15 00:55:35.668407 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.785341 Zulu: We should drop Kilo
+2024-10-15 00:55:35.790555 Lima: Yes
+2024-10-15 00:55:35.796091 Bravo: Lima we want you to join our group
+2024-10-15 00:55:35.801092 Lima: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:35.833689 Foxtrot: Hotel, sending you 5
+2024-10-15 00:55:35.834040 Lima: Same as last round
+2024-10-15 00:55:35.834747 November: Same as last round
+chatterbot Lima submitting transactions
+2024-10-15 00:55:35.838056 Foxtrot: Bravo, sending you 4
+2024-10-15 00:55:35.838490 Kilo: Same as last round
+2024-10-15 00:55:35.838832 Whiskey: Same as last round
+2024-10-15 00:55:35.840041 Bravo: Echo we want you to join our group
+2024-10-15 00:55:35.845824 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.886695 Zulu: Same as last round
+2024-10-15 00:55:35.888809 Bravo: November we want you to join our group
+2024-10-15 00:55:35.894208 November: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:55:35.946667 Hotel: Echo we want you to join our group
+2024-10-15 00:55:35.950659 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+chatterbot Kilo submitting transactions
+2024-10-15 00:55:35.984670 Tango: Foxtrot and Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:35.997123 Foxtrot: No
+2024-10-15 00:55:35.997291 Bravo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+chatterbot November submitting transactions
+2024-10-15 00:55:36.068693 Hotel: Tango, sending you 4
+2024-10-15 00:55:36.072700 Tango: Foxtrot and Bravo, sending you 2
+2024-10-15 00:55:36.073328 Hotel: Foxtrot, sending you 5
+2024-10-15 00:55:36.074690 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:36.076686 Tango: Hotel and Whiskey, sending you 3
+2024-10-15 00:55:36.077833 Hotel: Bravo, sending you 2
+2024-10-15 00:55:36.078235 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:36.081679 Hotel: Echo, sending you 1
+2024-10-15 00:55:36.083066 Bravo: Hotel, sending you 2
+2024-10-15 00:55:36.086015 Hotel: Whiskey, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 6
+ChatterBot Tango round 6
+ChatterBot Foxtrot round 6
+ChatterBot Hotel round 6
+ChatterBot Bravo round 6
+ChatterBot November round 6
+ChatterBot Echo round 6
+ChatterBot Zulu round 6
+ChatterBot Whiskey round 6
+ChatterBot Kilo round 6
+2024-10-15 00:55:36.869838 Foxtrot: We should add Tango
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:36.893880 Hotel: Yes
+2024-10-15 00:55:36.900269 Bravo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:36.954153 Bravo: We should replace Echo with November
+2024-10-15 00:55:36.955260 Hotel: We should replace Echo with Zulu
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:37.006466 Hotel: No
+2024-10-15 00:55:37.007205 Foxtrot: No
+2024-10-15 00:55:37.007367 Tango: No
+2024-10-15 00:55:37.007556 Whiskey: No
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:37.054805 Foxtrot: No
+2024-10-15 00:55:37.055030 Bravo: No
+2024-10-15 00:55:37.055209 Tango: No
+2024-10-15 00:55:37.055373 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:37.396924 Foxtrot: Tango we want you to join our group
+2024-10-15 00:55:37.404603 Tango: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:37.426891 Bravo: We should replace Echo with Kilo
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:37.453882 Hotel: No
+2024-10-15 00:55:37.454432 Foxtrot: No
+2024-10-15 00:55:37.454532 Tango: No
+2024-10-15 00:55:37.454630 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:37.621896 Hotel: We should replace Echo with Lima
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:37.714610 Foxtrot: No
+2024-10-15 00:55:37.714887 Bravo: No
+2024-10-15 00:55:37.715144 Tango: No
+2024-10-15 00:55:37.715463 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:37.844356 Bravo: Kilo we want you to join our group
+2024-10-15 00:55:37.850075 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:37.886712 Lima: Same as last round
+2024-10-15 00:55:37.889694 Tango: Whiskey, sending you 1
+2024-10-15 00:55:37.892996 Hotel: Kilo we want you to join our group
+2024-10-15 00:55:37.902492 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:37.951972 November: Same as last round
+2024-10-15 00:55:37.952387 Zulu: Sending you each 2
+2024-10-15 00:55:37.953299 Kilo: Same as last round
+2024-10-15 00:55:37.953590 Foxtrot: Tango, Hotel and Bravo, sending you 3
+chatterbot Lima submitting transactions
+2024-10-15 00:55:37.958668 Bravo: November we want you to join our group
+2024-10-15 00:55:37.965234 November: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:38.002999 Whiskey: Same as last round
+2024-10-15 00:55:38.010690 Bravo: Lima we want you to join our group
+2024-10-15 00:55:38.016324 Lima: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:38.091691 Bravo: Tango and November, sending you 1
+2024-10-15 00:55:38.092725 Hotel: Tango, Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:38.096670 Hotel: Bravo, sending you 2
+2024-10-15 00:55:38.097694 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:38.101693 Hotel: Kilo, sending you 1
+2024-10-15 00:55:38.102278 Bravo: Hotel, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 7
+ChatterBot Tango round 7
+ChatterBot Foxtrot round 7
+ChatterBot Hotel round 7
+ChatterBot Bravo round 7
+ChatterBot November round 7
+ChatterBot Echo round 7
+ChatterBot Zulu round 7
+ChatterBot Whiskey round 7
+ChatterBot Kilo round 7
+2024-10-15 00:55:39.236656 Hotel: We should replace Kilo with Lima
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:39.286344 Foxtrot: No
+2024-10-15 00:55:39.287707 Bravo: No
+2024-10-15 00:55:39.288039 Tango: No
+2024-10-15 00:55:39.288453 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:39.549052 Hotel: We should replace Kilo with November
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:39.580429 Foxtrot: No
+2024-10-15 00:55:39.580640 Bravo: No
+2024-10-15 00:55:39.580769 Tango: No
+2024-10-15 00:55:39.580917 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:39.724540 Zulu: We should drop Kilo
+2024-10-15 00:55:39.729471 Lima: Yes
+2024-10-15 00:55:39.734553 Bravo: Zulu we want you to join our group
+2024-10-15 00:55:39.740090 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:39.768044 Bravo: We should replace November with Echo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:39.789094 Hotel: No
+2024-10-15 00:55:39.789248 Foxtrot: No
+2024-10-15 00:55:39.789362 Tango: No
+2024-10-15 00:55:39.789471 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:39.885392 Lima: Same as last round
+2024-10-15 00:55:39.885880 Hotel: We should replace Kilo with Zulu
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:39.910651 Foxtrot: No
+2024-10-15 00:55:39.910823 Bravo: No
+2024-10-15 00:55:39.910964 Tango: No
+2024-10-15 00:55:39.911080 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:40.014523 Hotel: We should replace Kilo with Echo
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:40.036493 Foxtrot: No
+2024-10-15 00:55:40.036658 Bravo: No
+2024-10-15 00:55:40.036764 Tango: No
+2024-10-15 00:55:40.036860 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Lima submitting transactions
+2024-10-15 00:55:40.126148 Tango: Foxtrot and Bravo, sending you 2
+2024-10-15 00:55:40.128661 November: Same as last round
+2024-10-15 00:55:40.128955 Whiskey: Same as last round
+2024-10-15 00:55:40.129325 Kilo: Same as last round
+2024-10-15 00:55:40.129665 Foxtrot: Tango, Hotel and Bravo, sending you 3
+2024-10-15 00:55:40.130119 Bravo: Echo we want you to join our group
+2024-10-15 00:55:40.135409 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:40.161537 Tango: Hotel and Whiskey, sending you 3
+2024-10-15 00:55:40.162057 Zulu: Same as last round
+2024-10-15 00:55:40.166682 Hotel: Echo we want you to join our group
+2024-10-15 00:55:40.170667 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:40.213671 Hotel: Zulu we want you to join our group
+2024-10-15 00:55:40.220237 Zulu: No
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:40.271046 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:40.275666 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:40.279684 Bravo: Hotel, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 8
+ChatterBot Tango round 8
+ChatterBot Foxtrot round 8
+ChatterBot Hotel round 8
+ChatterBot Bravo round 8
+ChatterBot November round 8
+ChatterBot Echo round 8
+ChatterBot Zulu round 8
+ChatterBot Whiskey round 8
+ChatterBot Kilo round 8
+2024-10-15 00:55:41.485403 Bravo: We should drop Echo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:41.514622 Hotel: Yes
+2024-10-15 00:55:41.514833 Foxtrot: Yes
+2024-10-15 00:55:41.515480 Tango: Yes
+2024-10-15 00:55:41.515622 Whiskey: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:41.609271 Hotel: We should replace Echo with Lima
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:41.629747 Foxtrot: No
+2024-10-15 00:55:41.629914 Bravo: No
+2024-10-15 00:55:41.630026 Tango: No
+2024-10-15 00:55:41.630122 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:41.718029 Bravo: We should replace Echo with Zulu
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:41.738428 Hotel: Yes
+2024-10-15 00:55:41.738624 Foxtrot: No
+2024-10-15 00:55:41.738766 Tango: No
+2024-10-15 00:55:41.738877 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:41.827092 Foxtrot: Tango, Hotel and Bravo, sending you 3
+2024-10-15 00:55:41.827555 Tango: Foxtrot and Bravo, sending you 2
+2024-10-15 00:55:41.828194 November: Same as last round
+2024-10-15 00:55:41.828492 Lima: Same as last round
+2024-10-15 00:55:41.832668 Tango: Hotel and Whiskey, sending you 3
+2024-10-15 00:55:41.833309 Zulu: Sending you each 2
+2024-10-15 00:55:41.833524 Whiskey: Same as last round
+2024-10-15 00:55:41.833803 Hotel: Zulu we want you to join our group
+2024-10-15 00:55:41.838248 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:41.861443 Kilo: Sending you 4
+2024-10-15 00:55:41.864674 Bravo: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:41.870153 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Tango submitting transactions
+2024-10-15 00:55:41.903776 Zulu: We should drop Kilo
+2024-10-15 00:55:41.908422 Lima: Yes
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:41.915653 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:41.920668 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:41.924666 Bravo: Hotel, sending you 2
+2024-10-15 00:55:41.936702 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:41.939701 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:41.941680 Zulu: Sorry, I'm actually sending you 0
+2024-10-15 00:55:41.942709 Hotel: Zulu, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 9
+ChatterBot Tango round 9
+ChatterBot Foxtrot round 9
+ChatterBot Hotel round 9
+ChatterBot Bravo round 9
+ChatterBot November round 9
+ChatterBot Echo round 9
+ChatterBot Zulu round 9
+ChatterBot Whiskey round 9
+ChatterBot Kilo round 9
+chatterbot Zulu submitting transactions
+2024-10-15 00:55:42.909314 Whiskey: We should add Bravo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:42.919840 Tango: Yes
+2024-10-15 00:55:42.920008 Hotel: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:42.948212 Bravo: We should drop Echo
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:42.970020 Hotel: Yes
+2024-10-15 00:55:42.970188 Foxtrot: Yes
+2024-10-15 00:55:42.970333 Tango: Yes
+2024-10-15 00:55:42.970532 Whiskey: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:43.064253 Tango: Foxtrot and Bravo, sending you 2
+2024-10-15 00:55:43.066844 Whiskey: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:43.078149 Bravo: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:43.105279 Bravo: We should replace Echo with Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:55:43.139952 Hotel: No
+2024-10-15 00:55:43.140270 Foxtrot: No
+2024-10-15 00:55:43.140469 Tango: No
+2024-10-15 00:55:43.140643 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:43.283135 Tango: Hotel and Whiskey, sending you 3
+2024-10-15 00:55:43.285075 Lima: Same as last round
+2024-10-15 00:55:43.286395 Foxtrot: Same as last round
+2024-10-15 00:55:43.287986 November: Same as last round
+2024-10-15 00:55:43.289803 Kilo: Same as last round
+2024-10-15 00:55:43.290284 Zulu: Same as last round
+2024-10-15 00:55:43.301017 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:43.305716 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:43.310698 Hotel: Zulu, sending you 1
+2024-10-15 00:55:43.318672 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:43.323692 Bravo: Foxtrot, sending you 3
+2024-10-15 00:55:43.326228 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:43.329675 Bravo: Hotel, sending you 2
+2024-10-15 00:55:43.331500 Whiskey: Bravo, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot November submitting transactions
+ChatterBot Lima round 10
+ChatterBot Tango round 10
+ChatterBot Foxtrot round 10
+ChatterBot Hotel round 10
+ChatterBot Bravo round 10
+ChatterBot November round 10
+ChatterBot Echo round 10
+ChatterBot Zulu round 10
+ChatterBot Whiskey round 10
+ChatterBot Kilo round 10
+2024-10-15 00:55:44.688664 Hotel: We should replace Zulu with Kilo
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:44.719815 Foxtrot: No
+2024-10-15 00:55:44.720066 Bravo: Yes
+2024-10-15 00:55:44.720906 Tango: No
+2024-10-15 00:55:44.721140 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:44.814212 Bravo: We should add Echo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:44.830671 Hotel: No
+2024-10-15 00:55:44.831211 Foxtrot: No
+2024-10-15 00:55:44.831317 Tango: No
+2024-10-15 00:55:44.831412 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:44.910686 Bravo: Echo we want you to join our group
+2024-10-15 00:55:44.936240 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:45.069708 Zulu: Same as last round
+2024-10-15 00:55:45.071377 Lima: Same as last round
+2024-10-15 00:55:45.072274 Tango: Foxtrot and Bravo, sending you 2
+2024-10-15 00:55:45.075793 Kilo: Same as last round
+2024-10-15 00:55:45.076541 November: Same as last round
+2024-10-15 00:55:45.077906 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:45.079411 Foxtrot: Same as last round
+2024-10-15 00:55:45.080939 Tango: Hotel and Whiskey, sending you 3
+2024-10-15 00:55:45.082201 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:45.098689 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:45.099905 Bravo: Tango, Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:45.102699 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:45.104644 Bravo: Whiskey, sending you 1
+2024-10-15 00:55:45.107688 Hotel: Zulu, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Lima round 11
+ChatterBot Tango round 11
+ChatterBot Foxtrot round 11
+ChatterBot Hotel round 11
+ChatterBot Bravo round 11
+ChatterBot November round 11
+ChatterBot Echo round 11
+ChatterBot Zulu round 11
+ChatterBot Whiskey round 11
+ChatterBot Kilo round 11
+2024-10-15 00:55:46.184696 Foxtrot: Same as last round
+2024-10-15 00:55:46.190676 Zulu: Same as last round
+2024-10-15 00:55:46.195733 November: Same as last round
+2024-10-15 00:55:46.198653 Lima: Same as last round
+2024-10-15 00:55:46.199707 Bravo: Tango, Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:46.201355 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:46.202151 Kilo: Sending you 5
+2024-10-15 00:55:46.203649 Bravo: Whiskey, sending you 1
+2024-10-15 00:55:46.204675 Tango: Whiskey, sending you 1
+2024-10-15 00:55:46.206684 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:46.207788 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:46.210670 Hotel: Zulu, sending you 1
+2024-10-15 00:55:46.211093 Whiskey: Bravo, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 12
+ChatterBot Tango round 12
+ChatterBot Foxtrot round 12
+ChatterBot Hotel round 12
+ChatterBot Bravo round 12
+ChatterBot November round 12
+ChatterBot Echo round 12
+ChatterBot Zulu round 12
+ChatterBot Whiskey round 12
+ChatterBot Kilo round 12
+2024-10-15 00:55:47.276561 Bravo: We should add Lima
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:47.295575 Hotel: No
+2024-10-15 00:55:47.295802 Foxtrot: No
+2024-10-15 00:55:47.295957 Tango: No
+2024-10-15 00:55:47.296097 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:47.391547 Hotel: We should replace Zulu with Kilo
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:47.411489 Foxtrot: No
+2024-10-15 00:55:47.411684 Bravo: No
+2024-10-15 00:55:47.411815 Tango: No
+2024-10-15 00:55:47.411929 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:47.479685 Tango: Foxtrot and Bravo, sending you 2
+2024-10-15 00:55:47.481354 Foxtrot: Same as last round
+2024-10-15 00:55:47.482244 Lima: Same as last round
+2024-10-15 00:55:47.483696 Tango: Hotel and Whiskey, sending you 3
+2024-10-15 00:55:47.491721 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:47.495672 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:47.496712 Kilo: Same as last round
+2024-10-15 00:55:47.500244 Zulu: Same as last round
+2024-10-15 00:55:47.500672 November: Same as last round
+2024-10-15 00:55:47.505771 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:47.511707 Bravo: Foxtrot and Hotel, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 13
+ChatterBot Tango round 13
+ChatterBot Foxtrot round 13
+ChatterBot Hotel round 13
+ChatterBot Bravo round 13
+ChatterBot November round 13
+ChatterBot Echo round 13
+ChatterBot Zulu round 13
+ChatterBot Whiskey round 13
+ChatterBot Kilo round 13
+2024-10-15 00:55:48.573837 Hotel: We should replace Zulu with Echo
+2024-10-15 00:55:48.595258 Foxtrot: No
+2024-10-15 00:55:48.595931 Bravo: No
+2024-10-15 00:55:48.596065 Tango: No
+2024-10-15 00:55:48.596180 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:48.729670 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:48.731181 Lima: Same as last round
+2024-10-15 00:55:48.732168 Bravo: Tango, Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:48.733507 November: Same as last round
+2024-10-15 00:55:48.735664 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:48.737023 Foxtrot: Same as last round
+2024-10-15 00:55:48.737469 Kilo: Same as last round
+2024-10-15 00:55:48.737790 Bravo: Whiskey, sending you 1
+2024-10-15 00:55:48.739738 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:48.740306 Zulu: Same as last round
+2024-10-15 00:55:48.741015 Tango: Foxtrot and Whiskey, sending you 1
+2024-10-15 00:55:48.743202 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:48.748689 Hotel: Zulu, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 14
+ChatterBot Tango round 14
+ChatterBot Foxtrot round 14
+ChatterBot Hotel round 14
+ChatterBot Bravo round 14
+ChatterBot November round 14
+ChatterBot Echo round 14
+ChatterBot Zulu round 14
+ChatterBot Whiskey round 14
+ChatterBot Kilo round 14
+2024-10-15 00:55:50.025931 Bravo: We should add Kilo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:50.045942 Hotel: No
+2024-10-15 00:55:50.046178 Foxtrot: No
+2024-10-15 00:55:50.046306 Tango: No
+2024-10-15 00:55:50.046429 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:50.188020 Kilo: I was attacked by Tango
+ChatterBot November reevaluating
+2024-10-15 00:55:50.196211 Kilo: I'm keeping this round to protect myself
+2024-10-15 00:55:50.196710 Kilo: Ow
+2024-10-15 00:55:50.200940 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:50.202741 Foxtrot: Same as last round
+2024-10-15 00:55:50.204940 Tango: Foxtrot, Hotel and Whiskey, sending you 3
+2024-10-15 00:55:50.206674 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:50.207937 Zulu: Same as last round
+2024-10-15 00:55:50.208342 Lima: Same as last round
+2024-10-15 00:55:50.208654 Bravo: Tango and Whiskey, sending you 1
+2024-10-15 00:55:50.209930 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:50.212500 Tango: Bravo, sending you 1
+2024-10-15 00:55:50.214434 Hotel: Zulu, sending you 1
+2024-10-15 00:55:50.216059 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:50.217180 Bravo: Foxtrot and Hotel, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 15
+ChatterBot Tango round 15
+ChatterBot Foxtrot round 15
+ChatterBot Hotel round 15
+ChatterBot Bravo round 15
+ChatterBot November round 15
+ChatterBot Echo round 15
+ChatterBot Zulu round 15
+ChatterBot Whiskey round 15
+ChatterBot Kilo round 15
+2024-10-15 00:55:51.116759 Lima: We should add Echo
+2024-10-15 00:55:51.121909 Zulu: No
+ChatterBot Lima reevaluating
+2024-10-15 00:55:51.143663 Bravo: We should add Lima and Zulu
+2024-10-15 00:55:51.161027 Hotel: No
+2024-10-15 00:55:51.161213 Foxtrot: No
+2024-10-15 00:55:51.161361 Tango: No
+2024-10-15 00:55:51.161486 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.249113 Bravo: We should add Echo
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:51.280368 Hotel: No
+2024-10-15 00:55:51.280651 Foxtrot: No
+2024-10-15 00:55:51.280934 Tango: No
+2024-10-15 00:55:51.281131 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.405769 Bravo: We should add Lima
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:51.433543 Hotel: No
+2024-10-15 00:55:51.433743 Foxtrot: No
+2024-10-15 00:55:51.435665 Tango: No
+2024-10-15 00:55:51.435881 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.545119 Hotel: We should replace Zulu with Echo
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.576133 Foxtrot: No
+2024-10-15 00:55:51.576404 Bravo: No
+2024-10-15 00:55:51.576652 Tango: No
+2024-10-15 00:55:51.576892 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.694774 Hotel: We should replace Zulu with Lima
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.746267 Foxtrot: No
+2024-10-15 00:55:51.746704 Bravo: Yes
+2024-10-15 00:55:51.747036 Tango: No
+2024-10-15 00:55:51.747332 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:51.880711 Tango: Foxtrot and Whiskey, sending you 1
+2024-10-15 00:55:51.882882 Foxtrot: Same as last round
+2024-10-15 00:55:51.883533 November: Same as last round
+2024-10-15 00:55:51.888826 Bravo: Lima and Zulu we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-15 00:55:51.900869 Lima: No
+2024-10-15 00:55:51.901020 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-15 00:55:51.962662 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:51.964373 Zulu: Same as last round
+2024-10-15 00:55:51.965696 Hotel: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-15 00:55:51.974631 Lima: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:52.077707 Bravo: We should add Zulu
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:52.201678 Hotel: No
+2024-10-15 00:55:52.202687 Foxtrot: No
+2024-10-15 00:55:52.202907 Tango: No
+2024-10-15 00:55:52.203072 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:52.325453 Whiskey: Bravo, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+2024-10-15 00:55:52.329070 Bravo: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-15 00:55:52.342439 Lima: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Tango submitting transactions
+2024-10-15 00:55:52.434373 Bravo: Tango, Zulu and Whiskey, sending you 1
+chatterbot Zulu submitting transactions
+2024-10-15 00:55:52.445562 Bravo: Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:52.450302 Hotel: Lima, sending you 1
+2024-10-15 00:55:52.457870 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:52.467209 Hotel: Foxtrot and Whiskey, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 16
+ChatterBot Tango round 16
+ChatterBot Foxtrot round 16
+ChatterBot Hotel round 16
+ChatterBot Bravo round 16
+ChatterBot November round 16
+ChatterBot Echo round 16
+ChatterBot Zulu round 16
+2024-10-15 00:55:52.904119 Hotel: We should replace Lima with Zulu
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:52.936089 Foxtrot: No
+2024-10-15 00:55:52.936348 Bravo: Yes
+2024-10-15 00:55:52.937112 Tango: No
+2024-10-15 00:55:52.937321 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey round 16
+ChatterBot Kilo round 16
+2024-10-15 00:55:53.084933 Hotel: We should replace Lima with Echo
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:53.100167 Foxtrot: No
+2024-10-15 00:55:53.100364 Bravo: No
+2024-10-15 00:55:53.100506 Tango: No
+2024-10-15 00:55:53.100631 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:53.185696 Hotel: Zulu we want you to join our group
+2024-10-15 00:55:53.190543 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:53.214593 Zulu: Same as last round
+2024-10-15 00:55:53.214975 Kilo: I was attacked by Tango
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:53.225526 Kilo: I'm keeping this round to protect myself
+2024-10-15 00:55:53.226594 Kilo: Ow
+chatterbot Lima submitting transactions
+2024-10-15 00:55:53.227087 Foxtrot: Same as last round
+2024-10-15 00:55:53.227994 Bravo: We should drop Lima
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:55:53.249146 Foxtrot: Yes
+2024-10-15 00:55:53.249279 Hotel: Yes
+2024-10-15 00:55:53.249803 Tango: Yes
+2024-10-15 00:55:53.249928 Whiskey: Yes
+2024-10-15 00:55:53.250031 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:53.400204 Tango: Foxtrot, Hotel and Whiskey, sending you 3
+2024-10-15 00:55:53.402751 Hotel: We should replace Lima with November
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:53.425158 Foxtrot: No
+2024-10-15 00:55:53.425403 Bravo: Yes
+2024-10-15 00:55:53.425595 Tango: No
+2024-10-15 00:55:53.425802 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:53.691572 November: Same as last round
+2024-10-15 00:55:53.692839 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:53.695546 Tango: Bravo, sending you 1
+chatterbot Lima submitting transactions
+2024-10-15 00:55:53.699932 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:53.745816 Bravo: Tango, Zulu and Whiskey, sending you 1
+2024-10-15 00:55:53.753764 Bravo: Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:53.772696 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:53.779677 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:53.787046 Hotel: Zulu, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 17
+ChatterBot Tango round 17
+ChatterBot Foxtrot round 17
+ChatterBot Hotel round 17
+ChatterBot Bravo round 17
+ChatterBot November round 17
+ChatterBot Echo round 17
+ChatterBot Zulu round 17
+ChatterBot Whiskey round 17
+ChatterBot Kilo round 17
+2024-10-15 00:55:54.774044 Bravo: We should drop Lima
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:54.791776 Foxtrot: Yes
+2024-10-15 00:55:54.791926 Hotel: Yes
+2024-10-15 00:55:54.792034 Tango: Yes
+2024-10-15 00:55:54.792133 Whiskey: Yes
+2024-10-15 00:55:54.792239 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:55.063665 Lima: Same as last round
+2024-10-15 00:55:55.065696 November: Same as last round
+2024-10-15 00:55:55.074467 Zulu: Same as last round
+2024-10-15 00:55:55.076867 Tango: Foxtrot, Hotel and Whiskey, sending you 3
+2024-10-15 00:55:55.079744 Foxtrot: Same as last round
+2024-10-15 00:55:55.081277 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:55.084675 Tango: Bravo, sending you 1
+2024-10-15 00:55:55.087018 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:55.090104 Bravo: Tango, Echo and Whiskey, sending you 1
+2024-10-15 00:55:55.096672 Bravo: Foxtrot and Hotel, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Lima round 18
+ChatterBot Tango round 18
+ChatterBot Foxtrot round 18
+ChatterBot Hotel round 18
+ChatterBot Bravo round 18
+ChatterBot November round 18
+ChatterBot Echo round 18
+ChatterBot Zulu round 18
+ChatterBot Whiskey round 18
+ChatterBot Kilo round 18
+2024-10-15 00:55:56.089196 Hotel: We should replace Zulu with Echo
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:56.109820 Foxtrot: No
+2024-10-15 00:55:56.110628 Bravo: No
+2024-10-15 00:55:56.110858 Tango: No
+2024-10-15 00:55:56.110997 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:56.235696 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:56.237665 Zulu: Same as last round
+2024-10-15 00:55:56.239666 November: Same as last round
+2024-10-15 00:55:56.241679 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:56.242838 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:56.244503 Lima: Same as last round
+2024-10-15 00:55:56.245675 Foxtrot: Same as last round
+2024-10-15 00:55:56.247690 Tango: Foxtrot and Whiskey, sending you 1
+2024-10-15 00:55:56.249806 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:56.251587 Bravo: Tango, Echo and Whiskey, sending you 1
+2024-10-15 00:55:56.253696 Hotel: Zulu, sending you 1
+2024-10-15 00:55:56.255707 Bravo: Foxtrot and Hotel, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 19
+ChatterBot Tango round 19
+ChatterBot Foxtrot round 19
+ChatterBot Hotel round 19
+ChatterBot Bravo round 19
+ChatterBot November round 19
+ChatterBot Echo round 19
+ChatterBot Zulu round 19
+ChatterBot Whiskey round 19
+ChatterBot Kilo round 19
+2024-10-15 00:55:57.350011 Hotel: We should replace Zulu with November
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:57.385483 Foxtrot: No
+2024-10-15 00:55:57.385752 Bravo: No
+2024-10-15 00:55:57.385974 Tango: No
+2024-10-15 00:55:57.386165 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:57.491271 Bravo: We should replace Echo with Lima
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:57.506085 Hotel: No
+2024-10-15 00:55:57.506256 Foxtrot: No
+2024-10-15 00:55:57.506384 Tango: No
+2024-10-15 00:55:57.506543 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:57.589893 Hotel: November we want you to join our group
+2024-10-15 00:55:57.594453 November: No
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:57.616011 Lima: Same as last round
+2024-10-15 00:55:57.616391 Kilo: I was attacked by Tango
+ChatterBot November reevaluating
+2024-10-15 00:55:57.621412 Kilo: I'm keeping this round to protect myself
+2024-10-15 00:55:57.621747 Kilo: Ow
+2024-10-15 00:55:57.622041 Tango: Foxtrot, Hotel and Whiskey, sending you 3
+2024-10-15 00:55:57.623425 Foxtrot: Same as last round
+2024-10-15 00:55:57.624031 Zulu: Same as last round
+2024-10-15 00:55:57.624383 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:57.625848 Tango: Bravo, sending you 1
+2024-10-15 00:55:57.628035 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:57.633682 Bravo: Tango, Echo and Whiskey, sending you 1
+2024-10-15 00:55:57.637685 Bravo: Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:57.640668 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:57.644723 Hotel: Foxtrot and Whiskey, sending you 4
+chatterbot November submitting transactions
+2024-10-15 00:55:57.650711 Hotel: Zulu, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 20
+ChatterBot Tango round 20
+ChatterBot Foxtrot round 20
+ChatterBot Hotel round 20
+ChatterBot Bravo round 20
+ChatterBot November round 20
+ChatterBot Echo round 20
+ChatterBot Zulu round 20
+ChatterBot Whiskey round 20
+ChatterBot Kilo round 20
+2024-10-15 00:55:59.153011 Hotel: We should replace Zulu with Lima
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:59.189344 Foxtrot: No
+2024-10-15 00:55:59.189675 Bravo: No
+2024-10-15 00:55:59.189878 Tango: No
+2024-10-15 00:55:59.190056 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:59.323756 Bravo: We should replace Echo with November
+ChatterBot Hotel reevaluating
+2024-10-15 00:55:59.353851 Hotel: Yes
+2024-10-15 00:55:59.354101 Foxtrot: No
+2024-10-15 00:55:59.354274 Tango: No
+2024-10-15 00:55:59.354448 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:55:59.666909 Kilo: We should add Echo
+2024-10-15 00:55:59.671953 November: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:55:59.693671 November: Same as last round
+2024-10-15 00:55:59.695753 Tango: Foxtrot and Whiskey, sending you 1
+2024-10-15 00:55:59.701502 Lima: Same as last round
+2024-10-15 00:55:59.705831 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:55:59.709542 Foxtrot: Same as last round
+2024-10-15 00:55:59.712220 Zulu: Same as last round
+2024-10-15 00:55:59.713481 Bravo: Lima, Tango and Whiskey, sending you 1
+2024-10-15 00:55:59.717674 Whiskey: Bravo, sending you 2
+2024-10-15 00:55:59.723033 Hotel: Tango and Bravo, sending you 3
+2024-10-15 00:55:59.727673 Bravo: Foxtrot and Hotel, sending you 2
+2024-10-15 00:55:59.731331 Hotel: Foxtrot and Whiskey, sending you 4
+2024-10-15 00:55:59.743872 Hotel: Zulu, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Lima round 21
+ChatterBot Tango round 21
+ChatterBot Foxtrot round 21
+ChatterBot Hotel round 21
+ChatterBot Bravo round 21
+ChatterBot November round 21
+ChatterBot Echo round 21
+ChatterBot Zulu round 21
+ChatterBot Whiskey round 21
+ChatterBot Kilo round 21
+2024-10-15 00:56:01.024471 Hotel: We should add Lima
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:01.069429 Bravo: No
+2024-10-15 00:56:01.069819 Foxtrot: No
+2024-10-15 00:56:01.070092 Tango: No
+2024-10-15 00:56:01.070836 Whiskey: No
+2024-10-15 00:56:01.071164 Zulu: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 00:56:01.261877 November: We should add Hotel
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:01.267487 Kilo: Yes
+2024-10-15 00:56:01.301487 November: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 00:56:01.314283 Hotel: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:01.334688 Lima: Same as last round
+2024-10-15 00:56:01.336317 Bravo: Lima, Tango and Whiskey, sending you 1
+2024-10-15 00:56:01.339067 Tango: Foxtrot, Hotel and Whiskey, sending you 3
+2024-10-15 00:56:01.342248 Foxtrot: Same as last round
+2024-10-15 00:56:01.344437 Bravo: Foxtrot and Hotel, sending you 2
+2024-10-15 00:56:01.347009 Tango: Bravo, sending you 1
+2024-10-15 00:56:01.349607 November: Hotel and Kilo, sending you 1
+2024-10-15 00:56:01.350175 Zulu: Same as last round
+2024-10-15 00:56:01.351700 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:56:01.356692 Whiskey: Bravo, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 22
+ChatterBot Tango round 22
+ChatterBot Foxtrot round 22
+ChatterBot Hotel round 22
+ChatterBot Bravo round 22
+ChatterBot November round 22
+ChatterBot Echo round 22
+ChatterBot Zulu round 22
+ChatterBot Whiskey round 22
+ChatterBot Kilo round 22
+2024-10-15 00:56:02.635215 Hotel: We should replace Zulu with November
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:02.669648 Foxtrot: No
+2024-10-15 00:56:02.670711 Bravo: No
+2024-10-15 00:56:02.671087 Tango: No
+2024-10-15 00:56:02.671522 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:02.838216 Hotel: November we want you to join our group
+2024-10-15 00:56:02.848830 November: No
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:02.897607 November: We should drop Hotel
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:02.906691 Kilo: Yes
+2024-10-15 00:56:02.915766 Kilo: We should replace Hotel with Zulu
+2024-10-15 00:56:02.923719 November: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:02.950397 Foxtrot: Same as last round
+2024-10-15 00:56:02.954496 Tango: Foxtrot and Whiskey, sending you 1
+2024-10-15 00:56:02.959709 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:56:02.963510 Lima: Same as last round
+2024-10-15 00:56:02.965057 Kilo: Zulu we want you to join our group
+2024-10-15 00:56:02.974656 Zulu: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:02.990881 Whiskey: Bravo, sending you 2
+2024-10-15 00:56:02.994266 November: Same as last round
+2024-10-15 00:56:02.995899 Zulu: Same as last round
+2024-10-15 00:56:02.996561 Hotel: Tango, sending you 1
+2024-10-15 00:56:03.001434 Bravo: Tango, sending you 1
+2024-10-15 00:56:03.005719 Hotel: Foxtrot, Bravo and Whiskey, sending you 2
+2024-10-15 00:56:03.010738 Bravo: Foxtrot, Hotel and Whiskey, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Lima round 23
+ChatterBot Tango round 23
+ChatterBot Foxtrot round 23
+ChatterBot Hotel round 23
+ChatterBot Bravo round 23
+ChatterBot November round 23
+ChatterBot Echo round 23
+ChatterBot Zulu round 23
+ChatterBot Whiskey round 23
+ChatterBot Kilo round 23
+2024-10-15 00:56:04.266127 Foxtrot: Same as last round
+2024-10-15 00:56:04.270422 Lima: Same as last round
+2024-10-15 00:56:04.271372 Kilo: I was attacked by Tango
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 00:56:04.283860 Kilo: I'm keeping this round to protect myself
+2024-10-15 00:56:04.286326 Kilo: Ow
+2024-10-15 00:56:04.287436 Tango: Foxtrot and Whiskey, sending you 3
+2024-10-15 00:56:04.292007 Hotel: Tango, sending you 2
+2024-10-15 00:56:04.296197 November: Same as last round
+2024-10-15 00:56:04.297427 Bravo: Tango, Zulu and Whiskey, sending you 1
+2024-10-15 00:56:04.299989 Whiskey: Tango and Hotel, sending you 3
+2024-10-15 00:56:04.303464 Tango: Hotel and Bravo, sending you 2
+2024-10-15 00:56:04.308856 Hotel: Foxtrot, sending you 5
+2024-10-15 00:56:04.313676 Bravo: Foxtrot and Hotel, sending you 2
+2024-10-15 00:56:04.318036 Whiskey: Bravo, sending you 2
+2024-10-15 00:56:04.322198 Hotel: Bravo, sending you 3
+2024-10-15 00:56:04.379123 Hotel: November, sending you 1
+2024-10-15 00:56:04.447182 Hotel: Whiskey, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 24
+ChatterBot Tango round 24
+ChatterBot Foxtrot round 24
+ChatterBot Hotel round 24
+ChatterBot Bravo round 24
+ChatterBot November round 24
+ChatterBot Echo round 24
+ChatterBot Zulu round 24
+ChatterBot Whiskey round 24
+ChatterBot Kilo round 24
+2024-10-15 00:56:05.638536 Hotel: We should replace November with Zulu
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:05.662459 Foxtrot: No
+2024-10-15 00:56:05.662892 Bravo: Yes
+2024-10-15 00:56:05.663350 Tango: No
+2024-10-15 00:56:05.664297 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:05.844266 Bravo: We should drop Zulu
+ChatterBot Hotel reevaluating
+2024-10-15 00:56:05.871211 Foxtrot: Yes
+2024-10-15 00:56:05.872908 Hotel: Yes
+2024-10-15 00:56:05.873583 Tango: Yes
+2024-10-15 00:56:05.875145 Whiskey: Yes
+2024-10-15 00:56:05.875674 Lima: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:06.028873 Foxtrot: Let's form a team
+ChatterBot Zulu reevaluating
+2024-10-15 00:56:06.041451 Lima: No
+2024-10-15 00:56:06.041628 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:56:06.132515 Tango: Foxtrot and Whiskey, sending you 1
+2024-10-15 00:56:06.137451 Lima: Same as last round
+2024-10-15 00:56:06.188144 November: Same as last round
+2024-10-15 00:56:06.188841 Hotel: Tango, sending you 2
+2024-10-15 00:56:06.193716 Whiskey: Sending you each 4
+chatterbot Kilo submitting transactions
+2024-10-15 00:56:06.264775 Hotel: Foxtrot, sending you 5
+2024-10-15 00:56:06.270357 Foxtrot: Lima, sending you 5
+2024-10-15 00:56:06.272026 Bravo: Tango, sending you 1
+2024-10-15 00:56:06.277690 Zulu: Same as last round
+2024-10-15 00:56:06.278597 Hotel: Bravo, sending you 3
+2024-10-15 00:56:06.283961 Foxtrot: Zulu, sending you 4
+2024-10-15 00:56:06.286003 Bravo: Foxtrot, Hotel and Whiskey, sending you 2
+chatterbot Echo submitting transactions
+2024-10-15 00:56:06.291895 Hotel: November, sending you 1
+2024-10-15 00:56:06.333870 Hotel: Whiskey, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 25
+ChatterBot Tango round 25
+ChatterBot Foxtrot round 25
+ChatterBot Hotel round 25
+ChatterBot Bravo round 25
+ChatterBot November round 25
+ChatterBot Echo round 25
+ChatterBot Zulu round 25
+ChatterBot Whiskey round 25
+ChatterBot Kilo round 25
+2024-10-15 00:56:07.389129 November: We should replace Kilo with Hotel
+2024-10-15 00:56:07.400041 Hotel: We should drop Tango and November
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:56:07.426292 Foxtrot: Yes
+2024-10-15 00:56:07.427375 Bravo: Yes
+2024-10-15 00:56:07.427556 Whiskey: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:07.515841 Tango: We should drop Foxtrot and Hotel
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:07.532975 Whiskey: Yes
+2024-10-15 00:56:07.533138 Bravo: No
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:07.566516 Kilo: We should drop Lima
+2024-10-15 00:56:07.576129 Zulu: No
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:07.585405 November: Hotel we want you to join our group
+2024-10-15 00:56:07.598171 Hotel: No
+2024-10-15 00:56:07.652956 Lima: Same as last round
+2024-10-15 00:56:07.655305 Zulu: Same as last round
+chatterbot Hotel submitting transactions
+2024-10-15 00:56:07.658438 Hotel: I was attacked by Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:07.715310 Hotel: I'm keeping this round to protect myself
+2024-10-15 00:56:07.718354 Hotel: Ow
+2024-10-15 00:56:07.721186 November: Sending you 2
+2024-10-15 00:56:07.867992 Tango: Bravo and Whiskey, sending you 1
+2024-10-15 00:56:07.870873 Bravo: We should drop Tango and Lima
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:07.915210 Hotel: Yes
+2024-10-15 00:56:07.915461 Foxtrot: No
+2024-10-15 00:56:07.915679 Whiskey: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:08.047169 Hotel: We should replace Whiskey with Kilo
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:08.076840 Foxtrot: No
+2024-10-15 00:56:08.077138 Bravo: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-15 00:56:08.113044 Hotel: We should add Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:08.138040 Foxtrot: No
+2024-10-15 00:56:08.138198 Bravo: No
+2024-10-15 00:56:08.138305 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 26
+ChatterBot Tango round 26
+ChatterBot Foxtrot round 26
+ChatterBot Hotel round 26
+ChatterBot Bravo round 26
+ChatterBot November round 26
+ChatterBot Echo round 26
+ChatterBot Zulu round 26
+ChatterBot Whiskey round 26
+ChatterBot Kilo round 26
+2024-10-15 00:56:09.702579 Hotel: I was attacked by Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:09.727179 Hotel: I'm keeping this round to protect myself
+2024-10-15 00:56:09.731814 Hotel: Ow
+2024-10-15 00:56:09.762902 November: Same as last round
+2024-10-15 00:56:09.764597 Tango: Bravo and Whiskey, sending you 1
+2024-10-15 00:56:09.766630 Lima: Same as last round
+2024-10-15 00:56:09.767586 Zulu: Same as last round
+2024-10-15 00:56:09.828514 Whiskey: Same as last round
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 27
+ChatterBot Tango round 27
+ChatterBot Foxtrot round 27
+ChatterBot Hotel round 27
+ChatterBot Bravo round 27
+ChatterBot November round 27
+ChatterBot Echo round 27
+ChatterBot Zulu round 27
+ChatterBot Whiskey round 27
+ChatterBot Kilo round 27
+2024-10-15 00:56:10.846334 Kilo: We should replace November with Zulu
+2024-10-15 00:56:10.858868 Tango: We should drop Bravo
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:10.874085 Whiskey: Yes
+2024-10-15 00:56:10.890632 Kilo: Zulu we want you to join our group
+2024-10-15 00:56:10.902258 Zulu: No
+2024-10-15 00:56:10.909852 Zulu: I was attacked by Tango
+ChatterBot Lima reevaluating
+2024-10-15 00:56:10.918976 Zulu: I'm keeping this round to protect myself
+2024-10-15 00:56:10.919816 Zulu: Ow
+2024-10-15 00:56:10.931845 Hotel: Sending you each 3
+2024-10-15 00:56:10.936226 November: Same as last round
+2024-10-15 00:56:10.939185 Whiskey: Sending you each 4
+2024-10-15 00:56:10.942391 Tango: Sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 28
+ChatterBot Tango round 28
+ChatterBot Foxtrot round 28
+ChatterBot Hotel round 28
+ChatterBot Bravo round 28
+ChatterBot November round 28
+ChatterBot Echo round 28
+ChatterBot Zulu round 28
+ChatterBot Whiskey round 28
+ChatterBot Kilo round 28
+2024-10-15 00:56:12.168623 Hotel: We should add Tango and Kilo
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:12.213608 Foxtrot: No
+2024-10-15 00:56:12.213870 Bravo: No
+2024-10-15 00:56:12.214031 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:12.345060 November: We should replace Hotel with Whiskey
+2024-10-15 00:56:12.350018 Hotel: We should add Tango and November
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:12.371389 Foxtrot: No
+2024-10-15 00:56:12.371550 Bravo: Yes
+2024-10-15 00:56:12.371990 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:12.438991 November: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:12.445165 Whiskey: No
+2024-10-15 00:56:12.449568 Bravo: Tango and November we want you to join our group
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+2024-10-15 00:56:12.460662 Tango: No
+2024-10-15 00:56:12.460808 November: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:12.534248 November: Let's form a team
+2024-10-15 00:56:12.534898 Tango: We should add November
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:56:12.548290 Whiskey: Yes
+2024-10-15 00:56:12.548422 Tango: Yes
+ChatterBot Whiskey reevaluating
+2024-10-15 00:56:12.554511 Whiskey: Yes
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:56:12.581277 Bravo: Tango and Kilo we want you to join our group
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-15 00:56:12.592722 Tango: No
+2024-10-15 00:56:12.592866 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 00:56:12.656647 Lima: Same as last round
+2024-10-15 00:56:12.661670 Tango: November we want you to join our group
+2024-10-15 00:56:12.666773 November: Yes
+2024-10-15 00:56:12.680920 Hotel: Tango and November we want you to join our group
+2024-10-15 00:56:12.692312 Tango: No
+2024-10-15 00:56:12.692475 November: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-15 00:56:12.929671 November: Sending you each 2
+2024-10-15 00:56:12.930935 Whiskey: Same as last round
+chatterbot Kilo submitting transactions
+2024-10-15 00:56:12.942664 Tango: November and Whiskey, sending you 1
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 29
+ChatterBot Tango round 29
+ChatterBot Foxtrot round 29
+ChatterBot Hotel round 29
+ChatterBot Bravo round 29
+ChatterBot November round 29
+ChatterBot Echo round 29
+ChatterBot Zulu round 29
+ChatterBot Whiskey round 29
+ChatterBot Kilo round 29
+2024-10-15 00:56:14.068723 Bravo: We should add Tango
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:56:14.086545 Hotel: No
+2024-10-15 00:56:14.086711 Foxtrot: No
+2024-10-15 00:56:14.086834 Whiskey: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:14.150518 Kilo: We should replace Zulu with Hotel
+2024-10-15 00:56:14.156399 Hotel: We should drop Tango and November
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:14.170548 Foxtrot: Yes
+2024-10-15 00:56:14.170711 Bravo: No
+2024-10-15 00:56:14.170822 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:14.215101 Kilo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 00:56:14.220099 Hotel: No
+2024-10-15 00:56:14.224935 Bravo: Tango we want you to join our group
+2024-10-15 00:56:14.230515 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 00:56:14.249827 Tango: November and Whiskey, sending you 1
+2024-10-15 00:56:14.250757 Lima: Same as last round
+2024-10-15 00:56:14.254740 November: Tango, sending you 1
+2024-10-15 00:56:14.256873 Whiskey: Same as last round
+2024-10-15 00:56:14.261574 Hotel: We should drop Tango and Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:56:14.282468 Foxtrot: No
+2024-10-15 00:56:14.282703 Bravo: No
+2024-10-15 00:56:14.282835 November: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 00:56:14.333396 November: Whiskey, sending you 2
+2024-10-15 00:56:14.336678 Kilo: Sending you 1
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 30
+ChatterBot Tango round 30
+ChatterBot Foxtrot round 30
+ChatterBot Hotel round 30
+ChatterBot Bravo round 30
+ChatterBot November round 30
+ChatterBot Echo round 30
+ChatterBot Zulu round 30
+ChatterBot Whiskey round 30
+ChatterBot Kilo round 30
+2024-10-15 00:56:15.188680 November: We should drop Whiskey
+2024-10-15 00:56:15.192605 Tango: No
+2024-10-15 00:56:15.207681 Lima: Sending you 1
+2024-10-15 00:56:15.209666 Kilo: Sending you 3
+2024-10-15 00:56:15.211665 Tango: Same as last round
+2024-10-15 00:56:15.213002 Zulu: Sending you 2
+2024-10-15 00:56:15.219687 Hotel: Foxtrot, sending you 4
+2024-10-15 00:56:15.220841 November: Same as last round
+2024-10-15 00:56:15.221374 Whiskey: Same as last round
+2024-10-15 00:56:15.225655 Hotel: Bravo, sending you 6
+2024-10-15 00:56:15.228647 Hotel: November, sending you 2
+2024-10-15 00:56:15.231653 Hotel: Whiskey, sending you 3
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions

@@ -1,0 +1,2366 @@
+ChatterBot Echo round 1
+ChatterBot Bravo round 1
+ChatterBot Papa round 1
+ChatterBot Hotel round 1
+ChatterBot Uniform round 1
+ChatterBot Zulu round 1
+ChatterBot Kilo round 1
+ChatterBot Juliett round 1
+ChatterBot Mike round 1
+ChatterBot Quebec round 1
+randomSelections Zulu: {Zulu, Bravo} 
+2024-10-14 23:23:39.686990 Zulu: We should group up
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:39.690816 Bravo: Yes
+randomSelections Hotel: {Hotel, Quebec, Uniform, Zulu, Juliett} 
+2024-10-14 23:23:39.694959 Hotel: Friends?
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:39.703088 Quebec: Yes
+2024-10-14 23:23:39.704091 Uniform: Yes
+2024-10-14 23:23:39.704241 Zulu: No
+2024-10-14 23:23:39.704603 Juliett: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+randomSelections Papa: {Papa, Echo, Mike} 
+2024-10-14 23:23:39.735009 Papa: Can we be friends?
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:39.740068 Echo: Yes
+2024-10-14 23:23:39.740206 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+randomSelections Kilo: {Kilo, Bravo} 
+2024-10-14 23:23:39.750253 Kilo: Can we be friends?
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:39.751736 Bravo: No
+2024-10-14 23:23:39.765669 Uniform: Hotel and Zulu, sending you 3
+2024-10-14 23:23:39.772664 Juliett: Hotel, Uniform and Zulu, sending you 1
+2024-10-14 23:23:39.774699 Kilo: Sending you 17
+2024-10-14 23:23:39.777753 Quebec: Hotel and Zulu, sending you 1
+2024-10-14 23:23:39.778037 Juliett: Quebec, sending you 3
+2024-10-14 23:23:39.778273 Zulu: Sending you 11
+2024-10-14 23:23:39.778467 Papa: Echo, sending you 11
+2024-10-14 23:23:39.778744 Hotel: Uniform and Zulu, sending you 1
+2024-10-14 23:23:39.780035 Bravo: Sending you 12
+2024-10-14 23:23:39.781676 Papa: Mike, sending you 7
+2024-10-14 23:23:39.782734 Quebec: Uniform, sending you 3
+2024-10-14 23:23:39.783025 Echo: Papa, sending you 4
+2024-10-14 23:23:39.783279 Hotel: Juliett, sending you 4
+2024-10-14 23:23:39.785694 Mike: Echo, sending you 2
+2024-10-14 23:23:39.786947 Quebec: Juliett, sending you 2
+2024-10-14 23:23:39.787277 Echo: Mike, sending you 6
+2024-10-14 23:23:39.787729 Hotel: Quebec, sending you 2
+2024-10-14 23:23:39.789667 Mike: Papa, sending you 8
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Echo round 2
+ChatterBot Bravo round 2
+ChatterBot Papa round 2
+ChatterBot Hotel round 2
+ChatterBot Uniform round 2
+ChatterBot Zulu round 2
+ChatterBot Kilo round 2
+ChatterBot Juliett round 2
+ChatterBot Mike round 2
+ChatterBot Quebec round 2
+2024-10-14 23:23:40.883668 Uniform: We should replace Zulu with Kilo
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:23:40.895256 Hotel: No
+2024-10-14 23:23:40.895436 Juliett: No
+2024-10-14 23:23:40.895570 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:40.936637 Bravo: We should add Kilo and Uniform
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:40.940817 Zulu: No
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:40.956264 Echo: We should add Quebec
+ChatterBot Mike reevaluating
+2024-10-14 23:23:40.963468 Papa: No
+2024-10-14 23:23:40.963607 Mike: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:40.979466 Mike: We should add Hotel
+ChatterBot Echo reevaluating
+2024-10-14 23:23:40.986486 Papa: No
+2024-10-14 23:23:40.986658 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:41.011902 Kilo: We should add Zulu and Uniform
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:41.016241 Bravo: Yes
+2024-10-14 23:23:41.028081 Hotel: We should drop Zulu
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:23:41.040173 Uniform: Yes
+2024-10-14 23:23:41.040314 Juliett: Yes
+2024-10-14 23:23:41.040411 Quebec: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:41.076403 Mike: We should add Uniform
+ChatterBot Echo reevaluating
+2024-10-14 23:23:41.084511 Papa: No
+2024-10-14 23:23:41.084664 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:41.102002 Kilo: Zulu and Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:41.109969 Zulu: No
+2024-10-14 23:23:41.110108 Uniform: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:41.136073 Kilo: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:41.140504 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:41.145160 Kilo: We would work well together
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:41.157071 Echo: Yes
+2024-10-14 23:23:41.157225 Papa: No
+2024-10-14 23:23:41.157322 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:41.197030 Bravo: Kilo and Uniform we want you to join our group
+ChatterBot Kilo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:41.255727 Kilo: Yes
+2024-10-14 23:23:41.262 Uniform: No
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:41.339473 Papa: Echo, sending you 8
+2024-10-14 23:23:41.340252 Zulu: Sending you 12
+2024-10-14 23:23:41.575419 Uniform: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:41.582541 Kilo: No
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:41.601189 Papa: Mike, sending you 10
+2024-10-14 23:23:41.602358 Hotel: Uniform, sending you 7
+chatterbot Quebec submitting transactions
+2024-10-14 23:23:41.914084 Hotel: Juliett and Quebec, sending you 2
+2024-10-14 23:23:41.914837 Quebec: Hotel and Juliett, sending you 3
+2024-10-14 23:23:41.915169 Juliett: Hotel and Quebec, sending you 3
+chatterbot Mike submitting transactions
+2024-10-14 23:23:42.027532 Bravo: Uniform, sending you 2
+2024-10-14 23:23:42.191146 Bravo: Zulu, sending you 4
+2024-10-14 23:23:42.191531 Kilo: Echo and Papa, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+2024-10-14 23:23:42.232610 Bravo: Kilo, sending you 6
+2024-10-14 23:23:42.232969 Kilo: Mike, sending you 5
+2024-10-14 23:23:42.233927 Uniform: Hotel and Juliett, sending you 1
+chatterbot Papa submitting transactions
+2024-10-14 23:23:42.253339 Uniform: Quebec, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Echo round 3
+ChatterBot Bravo round 3
+ChatterBot Papa round 3
+ChatterBot Hotel round 3
+ChatterBot Uniform round 3
+ChatterBot Zulu round 3
+ChatterBot Kilo round 3
+ChatterBot Juliett round 3
+ChatterBot Mike round 3
+ChatterBot Quebec round 3
+2024-10-14 23:23:43.106668 Echo: We should add Kilo
+2024-10-14 23:23:43.119330 Papa: No
+2024-10-14 23:23:43.119883 Mike: Yes
+2024-10-14 23:23:43.191832 Echo: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:43.199299 Kilo: No
+2024-10-14 23:23:43.217908 Mike: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:43.225264 Kilo: No
+ChatterBot Papa reevaluating
+2024-10-14 23:23:43.435510 Papa: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:43.442399 Kilo: No
+ChatterBot Papa reevaluating
+2024-10-14 23:23:43.462393 Quebec: Sending you each 3
+2024-10-14 23:23:43.463332 Bravo: Uniform, sending you 2
+2024-10-14 23:23:43.580599 Uniform: Hotel, sending you 4
+2024-10-14 23:23:43.581084 Bravo: Zulu, sending you 6
+2024-10-14 23:23:43.581427 Hotel: Sending you each 4
+2024-10-14 23:23:43.582340 Zulu: Sending you 13
+2024-10-14 23:23:43.582698 Juliett: Hotel and Quebec, sending you 3
+2024-10-14 23:23:43.583107 Echo: Papa, sending you 6
+2024-10-14 23:23:43.583469 Mike: Echo, sending you 3
+chatterbot Juliett submitting transactions
+2024-10-14 23:23:43.627872 Bravo: Kilo, sending you 4
+2024-10-14 23:23:43.628266 Uniform: Juliett and Quebec, sending you 1
+2024-10-14 23:23:43.628681 Echo: Kilo and Mike, sending you 2
+2024-10-14 23:23:43.629583 Mike: Papa, sending you 5
+2024-10-14 23:23:43.629971 Juliett: Uniform, sending you 1
+2024-10-14 23:23:43.692432 Mike: Kilo, sending you 2
+2024-10-14 23:23:43.693179 Kilo: Sending you 17
+2024-10-14 23:23:43.693423 Papa: Sending you each 9
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Echo round 4
+ChatterBot Bravo round 4
+ChatterBot Papa round 4
+ChatterBot Hotel round 4
+ChatterBot Uniform round 4
+ChatterBot Zulu round 4
+ChatterBot Kilo round 4
+ChatterBot Juliett round 4
+ChatterBot Mike round 4
+ChatterBot Quebec round 4
+2024-10-14 23:23:44.752812 Uniform: We should drop Kilo
+2024-10-14 23:23:44.764649 Hotel: Yes
+2024-10-14 23:23:44.764862 Juliett: Yes
+2024-10-14 23:23:44.765034 Quebec: Yes
+2024-10-14 23:23:44.854691 Echo: Papa, sending you 6
+2024-10-14 23:23:44.855017 Papa: Same as last round
+2024-10-14 23:23:44.855961 Hotel: Same as last round
+2024-10-14 23:23:44.860208 Bravo: Uniform, sending you 2
+2024-10-14 23:23:44.860543 Juliett: Hotel and Quebec, sending you 3
+2024-10-14 23:23:44.861879 Zulu: Same as last round
+2024-10-14 23:23:44.862172 Quebec: Same as last round
+2024-10-14 23:23:44.862524 Echo: Kilo, sending you 1
+2024-10-14 23:23:45.017136 Bravo: Zulu and Kilo, sending you 5
+2024-10-14 23:23:45.017800 Juliett: Uniform, sending you 1
+2024-10-14 23:23:45.018922 Mike: Echo, sending you 3
+2024-10-14 23:23:45.019580 Kilo: Echo and Mike, sending you 3
+2024-10-14 23:23:45.020487 Echo: Mike, sending you 3
+2024-10-14 23:23:45.021011 Uniform: Hotel, sending you 3
+2024-10-14 23:23:45.021942 Mike: Papa, sending you 6
+2024-10-14 23:23:45.046926 Kilo: Bravo, sending you 11
+2024-10-14 23:23:45.048026 Uniform: Juliett, sending you 1
+2024-10-14 23:23:45.048474 Mike: Kilo, sending you 1
+2024-10-14 23:23:45.125687 Uniform: Quebec, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Echo round 5
+ChatterBot Bravo round 5
+ChatterBot Papa round 5
+ChatterBot Hotel round 5
+ChatterBot Uniform round 5
+ChatterBot Zulu round 5
+ChatterBot Kilo round 5
+ChatterBot Juliett round 5
+ChatterBot Mike round 5
+ChatterBot Quebec round 5
+2024-10-14 23:23:46.215388 Bravo: We should replace Uniform with Juliett
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:46.226728 Zulu: No
+2024-10-14 23:23:46.227103 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:46.269223 Zulu: We should replace Bravo with Kilo
+2024-10-14 23:23:46.288256 Bravo: We should replace Uniform with Quebec
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:46.301029 Zulu: No
+2024-10-14 23:23:46.301899 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:46.338417 Uniform: Hotel, sending you 3
+2024-10-14 23:23:46.341064 Echo: Papa, sending you 6
+2024-10-14 23:23:46.342942 Papa: Same as last round
+2024-10-14 23:23:46.344846 Bravo: Juliett we want you to join our group
+2024-10-14 23:23:46.353535 Juliett: No
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:46.372594 Bravo: Let's form a team
+ChatterBot Kilo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:46.408501 Kilo: Yes
+2024-10-14 23:23:46.409556 Zulu: No
+2024-10-14 23:23:46.409785 Echo: Yes
+2024-10-14 23:23:46.409998 Papa: No
+2024-10-14 23:23:46.410165 Mike: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:46.583768 Mike: We should add Bravo and Zulu
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:46.595955 Kilo: Yes
+2024-10-14 23:23:46.596106 Echo: Yes
+2024-10-14 23:23:46.596238 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:46.630433 Uniform: Juliett, sending you 1
+2024-10-14 23:23:46.630880 Juliett: Hotel and Quebec, sending you 3
+2024-10-14 23:23:46.645090 Hotel: Same as last round
+2024-10-14 23:23:46.645398 Uniform: Quebec, sending you 2
+2024-10-14 23:23:46.645662 Juliett: Uniform, sending you 1
+2024-10-14 23:23:46.671907 Bravo: Echo, Papa and Mike, sending you 1
+2024-10-14 23:23:46.704994 Bravo: Zulu, sending you 5
+2024-10-14 23:23:46.705389 Kilo: Echo and Mike, sending you 3
+2024-10-14 23:23:46.705665 Zulu: Sending you 6
+2024-10-14 23:23:46.723098 Bravo: Kilo, sending you 4
+2024-10-14 23:23:46.723464 Kilo: Bravo, sending you 11
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Echo round 6
+ChatterBot Bravo round 6
+ChatterBot Papa round 6
+ChatterBot Hotel round 6
+ChatterBot Uniform round 6
+ChatterBot Zulu round 6
+ChatterBot Kilo round 6
+ChatterBot Juliett round 6
+ChatterBot Mike round 6
+ChatterBot Quebec round 6
+2024-10-14 23:23:47.677036 Zulu: We should replace Bravo with Kilo
+2024-10-14 23:23:47.687286 Mike: We should add Bravo and Zulu
+ChatterBot Papa reevaluating
+2024-10-14 23:23:47.700649 Kilo: No
+2024-10-14 23:23:47.700836 Echo: Yes
+2024-10-14 23:23:47.701027 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:47.738707 Bravo: We should drop Papa and Mike
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:47.750353 Zulu: Yes
+2024-10-14 23:23:47.750474 Kilo: Yes
+2024-10-14 23:23:47.750580 Echo: No
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:47.804487 Zulu: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:47.810678 Kilo: Yes
+2024-10-14 23:23:47.817663 Papa: We should drop Echo
+ChatterBot Mike reevaluating
+2024-10-14 23:23:47.823931 Mike: No
+ChatterBot Papa reevaluating
+2024-10-14 23:23:47.834941 Uniform: Hotel, sending you 3
+2024-10-14 23:23:47.835676 Hotel: Uniform, sending you 5
+2024-10-14 23:23:47.836132 Juliett: Hotel and Quebec, sending you 3
+2024-10-14 23:23:47.837032 Bravo: Echo, sending you 2
+2024-10-14 23:23:47.838686 Uniform: Juliett, sending you 1
+2024-10-14 23:23:47.840301 Papa: We should drop Mike
+2024-10-14 23:23:47.846195 Echo: No
+2024-10-14 23:23:47.851357 Hotel: Juliett, sending you 4
+2024-10-14 23:23:47.852151 Juliett: Uniform, sending you 2
+2024-10-14 23:23:47.852520 Bravo: Zulu and Kilo, sending you 5
+2024-10-14 23:23:47.852862 Bravo: I was attacked by Quebec
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:47.864975 Bravo: Ow
+2024-10-14 23:23:47.866355 Uniform: Quebec, sending you 2
+2024-10-14 23:23:47.866686 Hotel: Quebec, sending you 3
+2024-10-14 23:23:47.871694 Mike: Echo, sending you 3
+2024-10-14 23:23:47.876923 Mike: Papa, sending you 6
+2024-10-14 23:23:47.879677 Mike: Kilo, sending you 1
+2024-10-14 23:23:47.889999 Kilo: Sending you 17
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Echo round 7
+ChatterBot Bravo round 7
+ChatterBot Papa round 7
+ChatterBot Hotel round 7
+ChatterBot Uniform round 7
+ChatterBot Zulu round 7
+ChatterBot Kilo round 7
+ChatterBot Juliett round 7
+ChatterBot Mike round 7
+ChatterBot Quebec round 7
+2024-10-14 23:23:49.094709 Bravo: Echo, sending you 2
+2024-10-14 23:23:49.097685 Bravo: Zulu and Kilo, sending you 5
+2024-10-14 23:23:49.099665 Hotel: Uniform and Juliett, sending you 1
+2024-10-14 23:23:49.106177 Juliett: Hotel and Quebec, sending you 3
+2024-10-14 23:23:49.106560 Uniform: Hotel, sending you 4
+2024-10-14 23:23:49.108669 Kilo: Same as last round
+2024-10-14 23:23:49.109377 Zulu: Sending you 9
+2024-10-14 23:23:49.109686 Juliett: Uniform, sending you 2
+2024-10-14 23:23:49.110690 Uniform: Juliett and Quebec, sending you 1
+2024-10-14 23:23:49.111678 Mike: Echo, sending you 3
+2024-10-14 23:23:49.114687 Mike: Papa, sending you 5
+2024-10-14 23:23:49.120164 Mike: Kilo, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Echo round 8
+ChatterBot Bravo round 8
+ChatterBot Papa round 8
+ChatterBot Hotel round 8
+ChatterBot Uniform round 8
+ChatterBot Zulu round 8
+ChatterBot Kilo round 8
+ChatterBot Juliett round 8
+ChatterBot Mike round 8
+2024-10-14 23:23:50.486227 Papa: We should replace Echo with Mike
+ChatterBot Quebec round 8
+2024-10-14 23:23:50.495297 Uniform: We should add Papa
+2024-10-14 23:23:50.513667 Hotel: No
+2024-10-14 23:23:50.514051 Juliett: No
+2024-10-14 23:23:50.514412 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:50.578768 Kilo: We should add Zulu
+2024-10-14 23:23:50.583203 Bravo: Yes
+2024-10-14 23:23:50.590993 Mike: We should replace Kilo with Bravo
+ChatterBot Echo reevaluating
+2024-10-14 23:23:50.597704 Papa: No
+2024-10-14 23:23:50.597992 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:50.612711 Papa: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 23:23:50.618298 Mike: Yes
+2024-10-14 23:23:50.626129 Uniform: We should add Echo
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:50.637176 Hotel: No
+2024-10-14 23:23:50.637440 Juliett: Yes
+2024-10-14 23:23:50.637881 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:50.669028 Uniform: We should add Zulu
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:50.678285 Hotel: No
+2024-10-14 23:23:50.678416 Juliett: No
+2024-10-14 23:23:50.678525 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:50.721787 Kilo: Zulu we want you to join our group
+2024-10-14 23:23:50.727290 Zulu: No
+2024-10-14 23:23:50.741661 Bravo: Echo, sending you 1
+2024-10-14 23:23:50.742755 Hotel: Uniform, sending you 6
+2024-10-14 23:23:50.745684 Bravo: Zulu, sending you 3
+2024-10-14 23:23:50.746132 Hotel: Juliett, sending you 5
+2024-10-14 23:23:50.750659 Bravo: Kilo, sending you 5
+2024-10-14 23:23:50.751204 Bravo: I was attacked by Quebec
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:23:50.768603 Bravo: Ow
+chatterbot Papa submitting transactions
+2024-10-14 23:23:50.769709 Hotel: Quebec, sending you 1
+2024-10-14 23:23:50.774687 Juliett: Hotel, sending you 3
+2024-10-14 23:23:50.775107 Papa: Sending you 11
+2024-10-14 23:23:50.775343 Mike: Echo, sending you 3
+2024-10-14 23:23:50.777682 Juliett: Uniform and Quebec, sending you 2
+2024-10-14 23:23:50.780700 Mike: Papa, sending you 5
+chatterbot Hotel submitting transactions
+2024-10-14 23:23:50.784795 Mike: Kilo, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Echo round 9
+ChatterBot Bravo round 9
+ChatterBot Papa round 9
+ChatterBot Hotel round 9
+ChatterBot Uniform round 9
+ChatterBot Zulu round 9
+ChatterBot Kilo round 9
+ChatterBot Juliett round 9
+ChatterBot Mike round 9
+ChatterBot Quebec round 9
+2024-10-14 23:23:52.061666 Papa: Sending you 16
+2024-10-14 23:23:52.063648 Hotel: Uniform and Juliett, sending you 1
+2024-10-14 23:23:52.065175 Bravo: Zulu, sending you 4
+2024-10-14 23:23:52.066708 Zulu: I was attacked by Quebec
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:52.075881 Zulu: I'm keeping this round to protect myself
+2024-10-14 23:23:52.076979 Zulu: Ow
+2024-10-14 23:23:52.078313 Bravo: Kilo, sending you 5
+2024-10-14 23:23:52.080355 Mike: Echo, sending you 3
+2024-10-14 23:23:52.082041 Uniform: Bravo, sending you 6
+2024-10-14 23:23:52.085008 Juliett: Hotel and Uniform, sending you 3
+2024-10-14 23:23:52.087126 Mike: Papa, sending you 6
+2024-10-14 23:23:52.089490 Juliett: Quebec, sending you 1
+2024-10-14 23:23:52.092573 Mike: Kilo, sending you 1
+2024-10-14 23:23:52.099942 Kilo: Bravo, sending you 12
+2024-10-14 23:23:52.103684 Kilo: Zulu, sending you 5
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Echo round 10
+ChatterBot Bravo round 10
+ChatterBot Papa round 10
+ChatterBot Hotel round 10
+ChatterBot Uniform round 10
+ChatterBot Zulu round 10
+ChatterBot Kilo round 10
+ChatterBot Juliett round 10
+ChatterBot Mike round 10
+ChatterBot Quebec round 10
+2024-10-14 23:23:53.343208 Bravo: We should replace Echo with Uniform
+2024-10-14 23:23:53.354486 Zulu: No
+2024-10-14 23:23:53.354650 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:53.376926 Hotel: We should add Echo
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:23:53.388007 Uniform: Yes
+2024-10-14 23:23:53.388159 Juliett: No
+2024-10-14 23:23:53.388271 Quebec: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:53.443161 Bravo: We should replace Echo with Juliett
+ChatterBot Kilo reevaluating
+2024-10-14 23:23:53.450548 Zulu: No
+2024-10-14 23:23:53.450677 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:53.467669 Papa: Sending you 10
+2024-10-14 23:23:53.469814 Hotel: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 23:23:53.477681 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:53.507670 Mike: Echo, sending you 3
+2024-10-14 23:23:53.509004 Quebec: Hotel, sending you 4
+2024-10-14 23:23:53.510661 Mike: Papa, sending you 6
+2024-10-14 23:23:53.512720 Quebec: Uniform and Juliett, sending you 3
+2024-10-14 23:23:53.514684 Mike: Kilo, sending you 1
+2024-10-14 23:23:53.521229 Bravo: Zulu, sending you 4
+2024-10-14 23:23:53.524678 Juliett: Hotel and Uniform, sending you 3
+2024-10-14 23:23:53.525679 Bravo: Kilo, sending you 7
+2024-10-14 23:23:53.528675 Hotel: Uniform, sending you 5
+2024-10-14 23:23:53.529675 Juliett: Quebec, sending you 1
+2024-10-14 23:23:53.530774 Uniform: Bravo, sending you 1
+2024-10-14 23:23:53.531867 Hotel: Juliett, sending you 6
+2024-10-14 23:23:53.534668 Hotel: Quebec, sending you 1
+2024-10-14 23:23:53.535707 Uniform: Hotel, sending you 3
+2024-10-14 23:23:53.540658 Uniform: Juliett, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Echo round 11
+ChatterBot Bravo round 11
+ChatterBot Papa round 11
+ChatterBot Hotel round 11
+ChatterBot Uniform round 11
+ChatterBot Zulu round 11
+ChatterBot Kilo round 11
+ChatterBot Juliett round 11
+2024-10-14 23:23:54.666635 Bravo: We should replace Echo with Uniform
+2024-10-14 23:23:54.674011 Zulu: No
+2024-10-14 23:23:54.674231 Kilo: No
+ChatterBot Mike round 11
+ChatterBot Quebec round 11
+2024-10-14 23:23:54.698661 Uniform: We should replace Bravo with Echo
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:54.710163 Hotel: Yes
+2024-10-14 23:23:54.710986 Juliett: Yes
+2024-10-14 23:23:54.711239 Quebec: No
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:54.765502 Zulu: We should replace Kilo with Bravo
+2024-10-14 23:23:54.766658 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:54.774663 Uniform: No
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:54.801165 Mike: We should replace Kilo with Bravo
+ChatterBot Echo reevaluating
+2024-10-14 23:23:54.814580 Papa: No
+2024-10-14 23:23:54.819061 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:54.851159 Kilo: We should drop Zulu
+2024-10-14 23:23:54.857249 Bravo: No
+2024-10-14 23:23:54.863712 Uniform: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 23:23:54.869781 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:54.893259 Juliett: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 23:23:54.899872 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:54.923891 Hotel: We should add Echo
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:54.942305 Uniform: No
+2024-10-14 23:23:54.942506 Juliett: No
+2024-10-14 23:23:54.942667 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:55.000911 Papa: Sending you 18
+2024-10-14 23:23:55.035072 Bravo: Uniform, sending you 2
+chatterbot Papa submitting transactions
+2024-10-14 23:23:55.036309 Kilo: I was attacked by Papa
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:55.040583 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:23:55.040966 Kilo: Ow
+2024-10-14 23:23:55.041352 Mike: Echo, sending you 3
+2024-10-14 23:23:55.077034 Mike: Papa, sending you 6
+2024-10-14 23:23:55.093720 Hotel: Uniform and Juliett, sending you 5
+2024-10-14 23:23:55.095098 Mike: Kilo, sending you 1
+2024-10-14 23:23:55.095822 Juliett: Hotel, sending you 3
+2024-10-14 23:23:55.096950 Uniform: Hotel, sending you 3
+2024-10-14 23:23:55.106275 Hotel: Quebec, sending you 2
+2024-10-14 23:23:55.107764 Uniform: Juliett, sending you 2
+2024-10-14 23:23:55.108203 Juliett: Uniform and Quebec, sending you 2
+2024-10-14 23:23:55.127091 Uniform: Quebec, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Echo round 12
+ChatterBot Bravo round 12
+ChatterBot Papa round 12
+ChatterBot Hotel round 12
+ChatterBot Uniform round 12
+ChatterBot Zulu round 12
+ChatterBot Kilo round 12
+ChatterBot Juliett round 12
+ChatterBot Mike round 12
+ChatterBot Quebec round 12
+2024-10-14 23:23:56.035926 Zulu: Let's form a team
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:56.047472 Hotel: Yes
+2024-10-14 23:23:56.047701 Uniform: Yes
+2024-10-14 23:23:56.047868 Juliett: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:23:56.108019 Papa: I was attacked by Quebec
+ChatterBot Mike reevaluating
+2024-10-14 23:23:56.113210 Papa: I'm keeping this round to protect myself
+2024-10-14 23:23:56.113591 Papa: Ow
+2024-10-14 23:23:56.113949 Uniform: Zulu we want you to join our group
+2024-10-14 23:23:56.118480 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:56.137602 Juliett: We should add Zulu
+ChatterBot Hotel reevaluating
+2024-10-14 23:23:56.150978 Uniform: Yes
+2024-10-14 23:23:56.151172 Hotel: Yes
+2024-10-14 23:23:56.151361 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:56.193858 Kilo: Sending you 15
+2024-10-14 23:23:56.198799 Quebec: Zulu we want you to join our group
+2024-10-14 23:23:56.201531 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:56.218659 Hotel: Zulu we want you to join our group
+2024-10-14 23:23:56.222155 Zulu: No
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:56.238163 Mike: Echo, sending you 3
+2024-10-14 23:23:56.238959 Uniform: Hotel, sending you 3
+2024-10-14 23:23:56.241676 Uniform: Juliett, sending you 2
+2024-10-14 23:23:56.243716 Mike: Papa, sending you 6
+2024-10-14 23:23:56.246666 Uniform: Quebec, sending you 1
+2024-10-14 23:23:56.249049 Mike: Kilo, sending you 1
+2024-10-14 23:23:56.262432 Hotel: Uniform and Juliett, sending you 5
+2024-10-14 23:23:56.265288 Juliett: Hotel and Uniform, sending you 3
+2024-10-14 23:23:56.265987 Quebec: Hotel and Uniform, sending you 3
+2024-10-14 23:23:56.266670 Hotel: Quebec, sending you 2
+2024-10-14 23:23:56.268684 Quebec: Juliett, sending you 4
+2024-10-14 23:23:56.270679 Juliett: Quebec, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Echo round 13
+ChatterBot Bravo round 13
+ChatterBot Papa round 13
+ChatterBot Hotel round 13
+ChatterBot Uniform round 13
+ChatterBot Zulu round 13
+ChatterBot Kilo round 13
+ChatterBot Juliett round 13
+ChatterBot Mike round 13
+ChatterBot Quebec round 13
+2024-10-14 23:23:57.164764 Juliett: We should add Zulu
+2024-10-14 23:23:57.175776 Uniform: Yes
+2024-10-14 23:23:57.176065 Hotel: Yes
+2024-10-14 23:23:57.176322 Quebec: No
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:57.221130 Bravo: We should replace Echo with Juliett
+2024-10-14 23:23:57.233642 Zulu: Yes
+2024-10-14 23:23:57.234164 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:23:57.256884 Papa: We should replace Mike with Echo
+2024-10-14 23:23:57.275788 Papa: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 23:23:57.281026 Echo: Yes
+2024-10-14 23:23:57.286128 Hotel: We should drop Zulu
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:57.297525 Uniform: No
+2024-10-14 23:23:57.297723 Juliett: Yes
+2024-10-14 23:23:57.297936 Quebec: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:23:57.337660 Zulu: Uniform, sending you 2
+2024-10-14 23:23:57.338290 Quebec: Hotel and Uniform, sending you 3
+2024-10-14 23:23:57.339682 Uniform: Hotel, sending you 3
+2024-10-14 23:23:57.341419 Kilo: Sending you 17
+2024-10-14 23:23:57.342007 Zulu: Juliett, sending you 1
+2024-10-14 23:23:57.343249 Quebec: Juliett, sending you 4
+2024-10-14 23:23:57.344272 Uniform: Juliett, sending you 2
+2024-10-14 23:23:57.346996 Mike: Echo, sending you 3
+2024-10-14 23:23:57.349663 Uniform: Quebec, sending you 1
+2024-10-14 23:23:57.351681 Mike: Papa, sending you 6
+2024-10-14 23:23:57.355682 Mike: Kilo, sending you 1
+2024-10-14 23:23:57.365664 Juliett: Hotel and Uniform, sending you 3
+2024-10-14 23:23:57.370664 Juliett: Quebec, sending you 2
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Echo round 14
+ChatterBot Bravo round 14
+ChatterBot Papa round 14
+ChatterBot Hotel round 14
+ChatterBot Uniform round 14
+ChatterBot Zulu round 14
+ChatterBot Kilo round 14
+ChatterBot Juliett round 14
+ChatterBot Mike round 14
+ChatterBot Quebec round 14
+2024-10-14 23:23:58.513194 Juliett: We should add Zulu
+ChatterBot Hotel reevaluating
+2024-10-14 23:23:58.526171 Uniform: Yes
+2024-10-14 23:23:58.526577 Hotel: Yes
+2024-10-14 23:23:58.527775 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:23:58.574997 Juliett: Zulu we want you to join our group
+2024-10-14 23:23:58.579464 Zulu: No
+ChatterBot Hotel reevaluating
+2024-10-14 23:23:58.595541 Quebec: Zulu we want you to join our group
+2024-10-14 23:23:58.599352 Zulu: No
+ChatterBot Hotel reevaluating
+2024-10-14 23:23:58.620703 Zulu: Hotel and Juliett, sending you 1
+2024-10-14 23:23:58.622644 Kilo: Same as last round
+2024-10-14 23:23:58.624440 Papa: Sending you 10
+2024-10-14 23:23:58.626808 Uniform: Hotel, sending you 3
+2024-10-14 23:23:58.629053 Zulu: Uniform, sending you 4
+2024-10-14 23:23:58.633674 Uniform: Juliett, sending you 2
+2024-10-14 23:23:58.637364 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:23:58.640290 Mike: Echo, sending you 4
+2024-10-14 23:23:58.643349 Uniform: Quebec, sending you 1
+2024-10-14 23:23:58.645585 Juliett: Uniform, sending you 3
+2024-10-14 23:23:58.648860 Mike: Papa, sending you 5
+2024-10-14 23:23:58.650781 Hotel: Uniform and Juliett, sending you 5
+2024-10-14 23:23:58.655061 Mike: Kilo, sending you 1
+2024-10-14 23:23:58.657066 Hotel: Quebec, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Echo round 15
+ChatterBot Bravo round 15
+ChatterBot Papa round 15
+ChatterBot Hotel round 15
+ChatterBot Uniform round 15
+ChatterBot Zulu round 15
+ChatterBot Kilo round 15
+ChatterBot Juliett round 15
+ChatterBot Mike round 15
+ChatterBot Quebec round 15
+2024-10-14 23:23:59.830105 Bravo: We should replace Echo with Uniform
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:59.844307 Zulu: No
+2024-10-14 23:23:59.844788 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:59.876971 Mike: We should add Bravo and Zulu
+ChatterBot Echo reevaluating
+2024-10-14 23:23:59.894264 Kilo: No
+2024-10-14 23:23:59.894631 Echo: No
+2024-10-14 23:23:59.895921 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:23:59.962954 Bravo: We should replace Echo with Juliett
+ChatterBot Zulu reevaluating
+2024-10-14 23:23:59.976187 Zulu: No
+2024-10-14 23:23:59.976658 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:00.003083 Quebec: We should drop Zulu
+2024-10-14 23:24:00.019050 Uniform: No
+2024-10-14 23:24:00.019461 Hotel: No
+2024-10-14 23:24:00.019762 Juliett: No
+2024-10-14 23:24:00.057494 Kilo: I was attacked by Quebec
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:00.061982 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:24:00.063589 Kilo: Ow
+2024-10-14 23:24:00.065371 Hotel: Uniform, sending you 6
+2024-10-14 23:24:00.074159 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:00.076451 Papa: Sending you 13
+2024-10-14 23:24:00.077854 Hotel: Juliett, sending you 4
+2024-10-14 23:24:00.078336 Uniform: Hotel and Juliett, sending you 2
+2024-10-14 23:24:00.081080 Juliett: Uniform, sending you 3
+2024-10-14 23:24:00.082658 Hotel: Quebec, sending you 2
+2024-10-14 23:24:00.084243 Uniform: Zulu and Quebec, sending you 1
+2024-10-14 23:24:00.084940 Quebec: Hotel and Uniform, sending you 3
+2024-10-14 23:24:00.087060 Mike: Echo, sending you 4
+2024-10-14 23:24:00.090012 Quebec: Juliett, sending you 4
+2024-10-14 23:24:00.092010 Zulu: Sending you 6
+2024-10-14 23:24:00.093500 Mike: Papa, sending you 5
+2024-10-14 23:24:00.097958 Mike: Kilo, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Echo round 16
+ChatterBot Bravo round 16
+ChatterBot Papa round 16
+ChatterBot Hotel round 16
+ChatterBot Uniform round 16
+ChatterBot Zulu round 16
+ChatterBot Kilo round 16
+ChatterBot Juliett round 16
+ChatterBot Mike round 16
+ChatterBot Quebec round 16
+2024-10-14 23:24:01.126276 Bravo: We should replace Echo with Juliett
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:01.138717 Zulu: No
+2024-10-14 23:24:01.139351 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:01.160388 Zulu: We should replace Kilo with Bravo
+2024-10-14 23:24:01.195211 Bravo: We should add Papa and Mike
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:24:01.205351 Zulu: No
+2024-10-14 23:24:01.205490 Kilo: No
+2024-10-14 23:24:01.206081 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:01.259500 Zulu: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:01.264742 Bravo: Yes
+2024-10-14 23:24:01.283577 Papa: Sending you 16
+2024-10-14 23:24:01.284711 Kilo: Sending you 15
+2024-10-14 23:24:01.285398 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:01.287303 Bravo: Juliett we want you to join our group
+2024-10-14 23:24:01.292072 Juliett: No
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:01.304018 Bravo: We should replace Echo with Uniform
+2024-10-14 23:24:01.311980 Zulu: No
+2024-10-14 23:24:01.312187 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:01.330150 Hotel: Uniform and Juliett, sending you 1
+2024-10-14 23:24:01.333445 Uniform: Hotel and Juliett, sending you 2
+2024-10-14 23:24:01.335255 Mike: Echo, sending you 5
+2024-10-14 23:24:01.336357 Juliett: Uniform, sending you 3
+2024-10-14 23:24:01.338738 Uniform: Zulu and Quebec, sending you 1
+2024-10-14 23:24:01.339839 Zulu: Sending you 8
+2024-10-14 23:24:01.340605 Mike: Papa, sending you 4
+2024-10-14 23:24:01.341325 Juliett: Zulu, sending you 1
+2024-10-14 23:24:01.349289 Mike: Kilo, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Echo round 17
+ChatterBot Bravo round 17
+ChatterBot Papa round 17
+ChatterBot Hotel round 17
+ChatterBot Uniform round 17
+ChatterBot Zulu round 17
+ChatterBot Kilo round 17
+ChatterBot Juliett round 17
+ChatterBot Mike round 17
+ChatterBot Quebec round 17
+2024-10-14 23:24:02.388351 Echo: We should drop Zulu and Kilo
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:02.407766 Papa: Yes
+2024-10-14 23:24:02.408161 Mike: Yes
+2024-10-14 23:24:02.408535 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:02.455695 Papa: We should add Mike
+2024-10-14 23:24:02.467956 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:02.475656 Zulu: Sending you 11
+2024-10-14 23:24:02.481897 Hotel: Uniform, sending you 6
+2024-10-14 23:24:02.486428 Mike: Quebec we want you to join our group
+2024-10-14 23:24:02.495969 Quebec: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:24:02.522162 Mike: We should replace Kilo with Juliett
+ChatterBot Papa reevaluating
+2024-10-14 23:24:02.537447 Papa: No
+2024-10-14 23:24:02.537678 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:02.558501 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:02.562511 Hotel: Juliett, sending you 4
+2024-10-14 23:24:02.565383 Kilo: I was attacked by Hotel
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:02.573659 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:24:02.575337 Kilo: Ow
+2024-10-14 23:24:02.575962 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:02.586293 Zulu: No
+2024-10-14 23:24:02.586451 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:02.606971 Kilo: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:02.616826 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:02.626569 Juliett: Uniform, sending you 4
+2024-10-14 23:24:02.629114 Uniform: Hotel and Juliett, sending you 2
+2024-10-14 23:24:02.630242 Hotel: Quebec, sending you 2
+2024-10-14 23:24:02.634590 Uniform: Zulu and Quebec, sending you 1
+2024-10-14 23:24:02.639399 Bravo: Uniform we want you to join our group
+2024-10-14 23:24:02.647 Uniform: No
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:02.671306 Bravo: We should replace Echo with Juliett
+2024-10-14 23:24:02.683130 Zulu: No
+2024-10-14 23:24:02.683395 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:02.732241 Papa: Sending you 18
+2024-10-14 23:24:02.767199 Mike: Echo, sending you 5
+2024-10-14 23:24:02.789263 Mike: Papa, sending you 4
+2024-10-14 23:24:02.800095 Mike: Quebec, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Echo round 18
+ChatterBot Bravo round 18
+ChatterBot Papa round 18
+ChatterBot Hotel round 18
+ChatterBot Uniform round 18
+ChatterBot Zulu round 18
+ChatterBot Kilo round 18
+ChatterBot Juliett round 18
+ChatterBot Mike round 18
+ChatterBot Quebec round 18
+2024-10-14 23:24:03.592801 Bravo: We should replace Echo with Uniform
+2024-10-14 23:24:03.606413 Zulu: No
+2024-10-14 23:24:03.606909 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:03.680989 Echo: We should drop Zulu and Kilo
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:03.703086 Papa: Yes
+2024-10-14 23:24:03.704107 Mike: Yes
+2024-10-14 23:24:03.704482 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:03.762908 Papa: We should add Mike
+2024-10-14 23:24:03.768863 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:03.777233 Papa: We should replace Echo with Mike
+2024-10-14 23:24:03.785670 Bravo: Uniform we want you to join our group
+2024-10-14 23:24:03.790136 Uniform: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:03.804435 Kilo: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:03.808670 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:03.813811 Mike: Juliett we want you to join our group
+2024-10-14 23:24:03.817813 Juliett: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:24:03.830877 Uniform: Hotel and Juliett, sending you 2
+2024-10-14 23:24:03.833670 Hotel: Uniform, sending you 6
+2024-10-14 23:24:03.834724 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:03.835898 Uniform: Zulu and Quebec, sending you 1
+2024-10-14 23:24:03.836583 Zulu: Sending you 12
+2024-10-14 23:24:03.838662 Juliett: Uniform, sending you 4
+2024-10-14 23:24:03.839687 Hotel: Juliett, sending you 5
+2024-10-14 23:24:03.844036 Hotel: Quebec, sending you 1
+2024-10-14 23:24:03.848678 Kilo: Sending you 17
+2024-10-14 23:24:03.850120 Mike: Echo, sending you 6
+2024-10-14 23:24:03.853693 Mike: Papa, sending you 4
+2024-10-14 23:24:03.863689 Papa: Same as last round
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 19
+ChatterBot Bravo round 19
+ChatterBot Papa round 19
+ChatterBot Hotel round 19
+ChatterBot Uniform round 19
+ChatterBot Zulu round 19
+ChatterBot Kilo round 19
+ChatterBot Juliett round 19
+ChatterBot Mike round 19
+ChatterBot Quebec round 19
+2024-10-14 23:24:05.044851 Mike: We should replace Juliett with Uniform
+ChatterBot Papa reevaluating
+2024-10-14 23:24:05.053532 Papa: No
+2024-10-14 23:24:05.054244 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:05.095791 Bravo: We should replace Echo with Uniform
+2024-10-14 23:24:05.107911 Zulu: No
+2024-10-14 23:24:05.108873 Kilo: No
+2024-10-14 23:24:05.143768 Papa: We should add Mike
+2024-10-14 23:24:05.151452 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:05.175271 Echo: We should drop Zulu and Kilo
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:05.196201 Papa: Yes
+2024-10-14 23:24:05.196389 Mike: Yes
+2024-10-14 23:24:05.196512 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:05.254876 Bravo: Uniform we want you to join our group
+2024-10-14 23:24:05.262362 Uniform: No
+2024-10-14 23:24:05.281971 Papa: We should replace Echo with Mike
+2024-10-14 23:24:05.283181 Kilo: I was attacked by Quebec
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:05.290260 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:24:05.291175 Kilo: Ow
+2024-10-14 23:24:05.292899 Zulu: Sending you 13
+2024-10-14 23:24:05.293722 Uniform: Hotel, sending you 3
+2024-10-14 23:24:05.296315 Juliett: Hotel, sending you 2
+2024-10-14 23:24:05.298434 Papa: Mike we want you to join our group
+2024-10-14 23:24:05.306238 Mike: Yes
+2024-10-14 23:24:05.312350 Uniform: Juliett, sending you 2
+2024-10-14 23:24:05.314351 Hotel: Uniform, sending you 6
+2024-10-14 23:24:05.315899 Juliett: Uniform, sending you 4
+2024-10-14 23:24:05.317728 Mike: Echo, sending you 6
+2024-10-14 23:24:05.319237 Quebec: Hotel and Uniform, sending you 3
+2024-10-14 23:24:05.320089 Uniform: Quebec, sending you 1
+2024-10-14 23:24:05.322288 Hotel: Juliett, sending you 5
+2024-10-14 23:24:05.323657 Juliett: Quebec, sending you 1
+2024-10-14 23:24:05.325191 Mike: Papa, sending you 3
+2024-10-14 23:24:05.326725 Quebec: Juliett, sending you 4
+2024-10-14 23:24:05.328691 Hotel: Quebec, sending you 1
+2024-10-14 23:24:05.334474 Mike: Juliett, sending you 1
+2024-10-14 23:24:05.340157 Papa: Sending you 18
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Echo round 20
+ChatterBot Bravo round 20
+ChatterBot Papa round 20
+ChatterBot Hotel round 20
+ChatterBot Uniform round 20
+ChatterBot Zulu round 20
+ChatterBot Kilo round 20
+ChatterBot Juliett round 20
+ChatterBot Mike round 20
+2024-10-14 23:24:06.127443 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:06.135619 Zulu: No
+2024-10-14 23:24:06.135877 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:06.155301 Kilo: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:06.159919 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:06.170526 Papa: We should add Echo
+2024-10-14 23:24:06.175779 Mike: Yes
+ChatterBot Quebec round 20
+2024-10-14 23:24:06.208880 Papa: Echo we want you to join our group
+2024-10-14 23:24:06.213090 Echo: Yes
+ChatterBot Mike reevaluating
+2024-10-14 23:24:06.220806 Mike: We should replace Juliett with Uniform
+2024-10-14 23:24:06.227816 Papa: No
+2024-10-14 23:24:06.227997 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:06.247345 Echo: We should drop Zulu and Kilo
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:06.258044 Papa: Yes
+2024-10-14 23:24:06.258579 Mike: Yes
+2024-10-14 23:24:06.258858 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:06.300900 Kilo: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:06.311295 Zulu: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:06.321291 Zulu: We should replace Bravo with Kilo
+2024-10-14 23:24:06.327681 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:06.332513 Mike: We should drop Juliett
+ChatterBot Papa reevaluating
+2024-10-14 23:24:06.342100 Papa: Yes
+2024-10-14 23:24:06.342463 Echo: Yes
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:06.360024 Hotel: Uniform and Juliett, sending you 1
+2024-10-14 23:24:06.362730 Uniform: Hotel and Juliett, sending you 2
+2024-10-14 23:24:06.365471 Zulu: Kilo we want you to join our group
+2024-10-14 23:24:06.370449 Kilo: No
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:06.374356 Bravo: Uniform we want you to join our group
+2024-10-14 23:24:06.379045 Uniform: No
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:06.392258 Juliett: Uniform, sending you 4
+2024-10-14 23:24:06.395360 Mike: Uniform we want you to join our group
+2024-10-14 23:24:06.401754 Uniform: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:24:06.421674 Papa: We should replace Mike with Echo
+2024-10-14 23:24:06.422292 Uniform: Zulu and Quebec, sending you 1
+2024-10-14 23:24:06.425611 Quebec: Hotel, sending you 3
+2024-10-14 23:24:06.427858 Kilo: Sending you 17
+2024-10-14 23:24:06.445307 Quebec: Uniform, sending you 4
+2024-10-14 23:24:06.458817 Quebec: Juliett, sending you 5
+2024-10-14 23:24:06.460490 Zulu: Same as last round
+2024-10-14 23:24:06.483951 Papa: Sending you 18
+2024-10-14 23:24:06.504375 Mike: Sending you each 5
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Echo round 21
+ChatterBot Bravo round 21
+ChatterBot Papa round 21
+ChatterBot Hotel round 21
+ChatterBot Uniform round 21
+ChatterBot Zulu round 21
+ChatterBot Kilo round 21
+ChatterBot Juliett round 21
+ChatterBot Mike round 21
+ChatterBot Quebec round 21
+2024-10-14 23:24:07.449652 Papa: We should add Mike
+2024-10-14 23:24:07.456906 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:07.496418 Mike: We should add Uniform
+ChatterBot Papa reevaluating
+2024-10-14 23:24:07.511412 Papa: No
+2024-10-14 23:24:07.511979 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.547470 Juliett: We should replace Zulu with Mike
+2024-10-14 23:24:07.566148 Uniform: No
+2024-10-14 23:24:07.566443 Hotel: No
+2024-10-14 23:24:07.566686 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:07.642656 Bravo: We should replace Echo with Uniform
+2024-10-14 23:24:07.652912 Zulu: No
+2024-10-14 23:24:07.653132 Kilo: No
+2024-10-14 23:24:07.679115 Echo: We should drop Zulu and Kilo
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.688551 Papa: Yes
+2024-10-14 23:24:07.688687 Mike: Yes
+2024-10-14 23:24:07.688786 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.725887 Papa: We should replace Echo with Mike
+2024-10-14 23:24:07.726349 Hotel: We should drop Zulu
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:07.737481 Uniform: Yes
+2024-10-14 23:24:07.737636 Juliett: No
+2024-10-14 23:24:07.737756 Quebec: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:07.771026 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:07.775604 Uniform: No
+2024-10-14 23:24:07.794790 Papa: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.802076 Mike: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:07.809386 Uniform: Mike we want you to join our group
+2024-10-14 23:24:07.813148 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:07.827434 Quebec: Hotel, sending you 2
+2024-10-14 23:24:07.828332 Kilo: Same as last round
+2024-10-14 23:24:07.828791 Zulu: Bravo, sending you 12
+2024-10-14 23:24:07.830663 Quebec: Uniform, sending you 4
+2024-10-14 23:24:07.832287 Juliett: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.838041 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:07.856842 Mike: We should add Quebec
+ChatterBot Papa reevaluating
+2024-10-14 23:24:07.864121 Papa: No
+2024-10-14 23:24:07.864717 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.880149 Zulu: Kilo, sending you 1
+2024-10-14 23:24:07.881358 Quebec: Juliett, sending you 5
+chatterbot Kilo submitting transactions
+2024-10-14 23:24:07.882834 Mike: We should add Hotel
+ChatterBot Papa reevaluating
+2024-10-14 23:24:07.890596 Papa: No
+2024-10-14 23:24:07.890791 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:07.909843 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:07.913729 Juliett: Uniform, sending you 4
+2024-10-14 23:24:07.921782 Uniform: Hotel, sending you 2
+2024-10-14 23:24:07.925111 Mike: Echo, sending you 5
+2024-10-14 23:24:07.927669 Uniform: Juliett, sending you 3
+2024-10-14 23:24:07.928778 Mike: Bravo, sending you 1
+2024-10-14 23:24:07.933678 Uniform: Quebec, sending you 1
+2024-10-14 23:24:07.935233 Mike: Papa, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Echo round 22
+ChatterBot Bravo round 22
+ChatterBot Papa round 22
+ChatterBot Hotel round 22
+ChatterBot Uniform round 22
+ChatterBot Zulu round 22
+ChatterBot Kilo round 22
+ChatterBot Juliett round 22
+ChatterBot Mike round 22
+ChatterBot Quebec round 22
+2024-10-14 23:24:08.698456 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:08.713888 Zulu: No
+2024-10-14 23:24:08.714831 Kilo: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:08.742998 Kilo: We should add Zulu
+2024-10-14 23:24:08.749432 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:08.768922 Hotel: We should add Zulu
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:08.788524 Uniform: Yes
+2024-10-14 23:24:08.789485 Juliett: No
+2024-10-14 23:24:08.789854 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:08.871897 Papa: We should replace Echo with Mike
+2024-10-14 23:24:08.886476 Uniform: We should replace Mike with Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:24:08.910852 Hotel: No
+2024-10-14 23:24:08.911213 Juliett: Yes
+2024-10-14 23:24:08.911589 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:09.009016 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:09.019924 Uniform: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:09.043013 Echo: We should drop Zulu and Kilo
+ChatterBot Papa reevaluating
+2024-10-14 23:24:09.061036 Papa: Yes
+2024-10-14 23:24:09.061226 Mike: Yes
+2024-10-14 23:24:09.061397 Bravo: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:24:09.118346 Papa: We should add Mike
+2024-10-14 23:24:09.122242 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:09.127658 Hotel: Zulu we want you to join our group
+2024-10-14 23:24:09.133742 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:09.151159 Papa: Mike we want you to join our group
+2024-10-14 23:24:09.155521 Mike: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:09.160751 Juliett: Zulu we want you to join our group
+2024-10-14 23:24:09.169712 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:09.198962 Mike: Echo, sending you 6
+2024-10-14 23:24:09.200722 Zulu: Bravo, sending you 12
+2024-10-14 23:24:09.202342 Kilo: Same as last round
+2024-10-14 23:24:09.203717 Quebec: Zulu we want you to join our group
+2024-10-14 23:24:09.212623 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:09.243189 Mike: Bravo, sending you 1
+2024-10-14 23:24:09.244131 Zulu: Kilo, sending you 1
+2024-10-14 23:24:09.245624 Uniform: We should replace Mike with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:24:09.265263 Hotel: No
+2024-10-14 23:24:09.265467 Juliett: No
+2024-10-14 23:24:09.265639 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:09.328169 Mike: Papa, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-14 23:24:09.333362 Papa: Sending you 18
+2024-10-14 23:24:09.335296 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:09.367107 Juliett: Uniform, sending you 4
+2024-10-14 23:24:09.396439 Uniform: Hotel, sending you 2
+2024-10-14 23:24:09.403427 Uniform: Juliett, sending you 3
+2024-10-14 23:24:09.425707 Uniform: Quebec, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Echo round 23
+ChatterBot Bravo round 23
+ChatterBot Papa round 23
+ChatterBot Hotel round 23
+ChatterBot Uniform round 23
+ChatterBot Zulu round 23
+ChatterBot Kilo round 23
+ChatterBot Juliett round 23
+ChatterBot Mike round 23
+ChatterBot Quebec round 23
+2024-10-14 23:24:10.426483 Kilo: We should add Zulu
+2024-10-14 23:24:10.430167 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:10.448972 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:10.457653 Zulu: No
+2024-10-14 23:24:10.457863 Kilo: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:10.474070 Echo: We should drop Zulu and Kilo
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:10.486588 Papa: Yes
+2024-10-14 23:24:10.487298 Mike: Yes
+2024-10-14 23:24:10.487424 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:24:10.523051 Zulu: We should drop Kilo
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:10.527130 Bravo: No
+2024-10-14 23:24:10.531179 Bravo: We should replace Echo with Juliett
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:10.539491 Zulu: No
+2024-10-14 23:24:10.539650 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:10.562661 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:10.566060 Mike: Echo, sending you 6
+2024-10-14 23:24:10.567870 Uniform: Hotel, sending you 2
+2024-10-14 23:24:10.570406 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:10.580304 Uniform: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:10.602391 Uniform: We should replace Mike with Bravo
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:10.621439 Hotel: No
+2024-10-14 23:24:10.621683 Juliett: No
+2024-10-14 23:24:10.621882 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:10.670184 Juliett: Uniform, sending you 4
+2024-10-14 23:24:10.671875 Mike: Bravo, sending you 1
+2024-10-14 23:24:10.673795 Kilo: Zulu we want you to join our group
+2024-10-14 23:24:10.681445 Zulu: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:10.690742 Bravo: Juliett we want you to join our group
+2024-10-14 23:24:10.695579 Juliett: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:10.707312 Mike: Papa, sending you 3
+2024-10-14 23:24:10.709199 Zulu: Sending you 13
+chatterbot Zulu submitting transactions
+2024-10-14 23:24:10.801246 Kilo: Bravo, sending you 15
+2024-10-14 23:24:10.807471 Kilo: Zulu, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Echo round 24
+ChatterBot Bravo round 24
+ChatterBot Papa round 24
+ChatterBot Hotel round 24
+ChatterBot Uniform round 24
+ChatterBot Zulu round 24
+ChatterBot Kilo round 24
+ChatterBot Juliett round 24
+ChatterBot Mike round 24
+ChatterBot Quebec round 24
+2024-10-14 23:24:11.984639 Uniform: We should replace Mike with Zulu
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:11.999560 Hotel: No
+2024-10-14 23:24:11.999820 Juliett: Yes
+2024-10-14 23:24:12.000031 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:12.041696 Quebec: We should add Zulu
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:12.053635 Uniform: Yes
+2024-10-14 23:24:12.053918 Hotel: Yes
+2024-10-14 23:24:12.054099 Juliett: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:24:12.100342 Papa: We should replace Echo with Mike
+2024-10-14 23:24:12.117306 Bravo: We should replace Echo with Juliett
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:12.126636 Zulu: No
+2024-10-14 23:24:12.126958 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:12.158726 Papa: Mike we want you to join our group
+2024-10-14 23:24:12.162143 Mike: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:12.166315 Bravo: We should replace Echo with Uniform
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:12.173166 Zulu: No
+2024-10-14 23:24:12.173331 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:12.187189 Echo: We should drop Zulu and Kilo
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:12.197367 Papa: Yes
+2024-10-14 23:24:12.197532 Mike: Yes
+2024-10-14 23:24:12.197688 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:24:12.226765 Uniform: Zulu we want you to join our group
+2024-10-14 23:24:12.230772 Zulu: No
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:12.242484 Hotel: Zulu we want you to join our group
+2024-10-14 23:24:12.246051 Zulu: No
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:12.258291 Papa: We should add Mike
+2024-10-14 23:24:12.262619 Echo: Yes
+ChatterBot Papa reevaluating
+2024-10-14 23:24:12.266769 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:12.270667 Mike: Echo, sending you 7
+2024-10-14 23:24:12.271832 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:12.276309 Uniform: No
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:12.289826 Juliett: Uniform, sending you 4
+2024-10-14 23:24:12.291142 Mike: Papa, sending you 3
+2024-10-14 23:24:12.293693 Zulu: Bravo, sending you 12
+2024-10-14 23:24:12.295647 Bravo: Juliett we want you to join our group
+2024-10-14 23:24:12.299885 Juliett: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:12.313346 Zulu: Kilo, sending you 1
+2024-10-14 23:24:12.320825 Kilo: We should drop Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:12.325072 Bravo: No
+ChatterBot Kilo reevaluating
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Echo round 25
+ChatterBot Bravo round 25
+ChatterBot Papa round 25
+ChatterBot Hotel round 25
+ChatterBot Uniform round 25
+ChatterBot Zulu round 25
+ChatterBot Kilo round 25
+ChatterBot Juliett round 25
+ChatterBot Mike round 25
+ChatterBot Quebec round 25
+2024-10-14 23:24:13.693627 Juliett: We should replace Zulu with Mike
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:13.716194 Uniform: Yes
+2024-10-14 23:24:13.716441 Hotel: No
+2024-10-14 23:24:13.716649 Quebec: No
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:13.798540 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:13.809137 Zulu: No
+2024-10-14 23:24:13.809289 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:13.851774 Echo: We should drop Zulu and Kilo
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:13.871239 Papa: Yes
+2024-10-14 23:24:13.871430 Mike: Yes
+2024-10-14 23:24:13.871609 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:13.933874 Bravo: We should replace Echo with Juliett
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:13.948888 Zulu: No
+2024-10-14 23:24:13.949097 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:13.967052 Juliett: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 23:24:13.971868 Mike: No
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:13.993359 Mike: We should replace Bravo with Juliett
+ChatterBot Echo reevaluating
+2024-10-14 23:24:14.046721 Papa: No
+2024-10-14 23:24:14.046951 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:14.171738 Kilo: We should drop Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:14.191089 Bravo: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:14.198701 Zulu: I was attacked by Quebec
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:14.209269 Zulu: I'm keeping this round to protect myself
+2024-10-14 23:24:14.211414 Zulu: Ow
+2024-10-14 23:24:14.212483 Juliett: We should drop Zulu
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:14.227593 Uniform: Yes
+2024-10-14 23:24:14.227854 Hotel: Yes
+2024-10-14 23:24:14.228029 Quebec: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:14.295713 Quebec: Hotel, sending you 2
+2024-10-14 23:24:14.312296 Quebec: Uniform, sending you 4
+2024-10-14 23:24:14.314795 Bravo: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:14.327291 Juliett: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:14.352760 Quebec: Juliett, sending you 5
+2024-10-14 23:24:14.473444 Mike: Echo, sending you 7
+2024-10-14 23:24:14.495100 Mike: Bravo, sending you 1
+2024-10-14 23:24:14.532598 Mike: Papa, sending you 2
+2024-10-14 23:24:14.534801 Kilo: Bravo, sending you 16
+chatterbot Echo submitting transactions
+2024-10-14 23:24:14.568952 Juliett: Hotel, sending you 2
+2024-10-14 23:24:14.571549 Kilo: Zulu, sending you 1
+2024-10-14 23:24:14.575510 Juliett: Uniform, sending you 4
+2024-10-14 23:24:14.617970 Juliett: Quebec, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Echo round 26
+ChatterBot Bravo round 26
+ChatterBot Papa round 26
+ChatterBot Hotel round 26
+ChatterBot Uniform round 26
+ChatterBot Zulu round 26
+ChatterBot Kilo round 26
+ChatterBot Juliett round 26
+ChatterBot Mike round 26
+ChatterBot Quebec round 26
+2024-10-14 23:24:15.563115 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:15.574536 Zulu: No
+2024-10-14 23:24:15.574793 Kilo: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:15.626812 Juliett: We should add Mike
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:15.643233 Uniform: No
+2024-10-14 23:24:15.643557 Hotel: No
+2024-10-14 23:24:15.643782 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:15.701708 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:15.709565 Uniform: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:15.727878 Uniform: We should replace Mike with Echo
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:15.742514 Hotel: No
+2024-10-14 23:24:15.742943 Juliett: No
+2024-10-14 23:24:15.743291 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:15.786401 Uniform: We should replace Mike with Bravo
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:15.799535 Hotel: No
+2024-10-14 23:24:15.799748 Juliett: No
+2024-10-14 23:24:15.799883 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:15.856822 Papa: Sending you 9
+2024-10-14 23:24:15.859054 Mike: Echo, sending you 7
+2024-10-14 23:24:15.861716 Uniform: Bravo we want you to join our group
+2024-10-14 23:24:15.871169 Bravo: No
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:15.897068 Mike: Bravo, sending you 1
+2024-10-14 23:24:15.899675 Kilo: Bravo, sending you 16
+2024-10-14 23:24:15.918847 Mike: Papa, sending you 2
+2024-10-14 23:24:15.921990 Kilo: Zulu, sending you 1
+2024-10-14 23:24:15.932749 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:15.940429 Juliett: Uniform, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Echo round 27
+ChatterBot Bravo round 27
+ChatterBot Papa round 27
+ChatterBot Hotel round 27
+ChatterBot Uniform round 27
+ChatterBot Zulu round 27
+ChatterBot Kilo round 27
+ChatterBot Juliett round 27
+ChatterBot Mike round 27
+ChatterBot Quebec round 27
+2024-10-14 23:24:17.238551 Uniform: We should replace Mike with Echo
+2024-10-14 23:24:17.252284 Hotel: No
+2024-10-14 23:24:17.252743 Juliett: No
+2024-10-14 23:24:17.253795 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:17.358064 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:17.375768 Zulu: No
+2024-10-14 23:24:17.376062 Kilo: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:17.443034 Juliett: We should add Mike
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:24:17.459573 Uniform: No
+2024-10-14 23:24:17.459835 Hotel: No
+2024-10-14 23:24:17.461063 Quebec: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:17.534703 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:17.545089 Uniform: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:17.765381 Mike: Echo, sending you 6
+2024-10-14 23:24:17.767621 Zulu: I was attacked by Quebec
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:17.780228 Zulu: I'm keeping this round to protect myself
+2024-10-14 23:24:17.783809 Zulu: Ow
+2024-10-14 23:24:17.785637 Juliett: Mike we want you to join our group
+2024-10-14 23:24:17.794577 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:17.820251 Uniform: We should replace Mike with Bravo
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:17.842066 Hotel: No
+2024-10-14 23:24:17.842724 Juliett: No
+2024-10-14 23:24:17.842911 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:17.884819 Mike: Papa, sending you 4
+2024-10-14 23:24:17.886422 Papa: Sending you 13
+chatterbot Hotel submitting transactions
+2024-10-14 23:24:17.998008 Hotel: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 23:24:18.006173 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:18.024433 Mike: We should replace Bravo with Uniform
+ChatterBot Echo reevaluating
+2024-10-14 23:24:18.032037 Papa: No
+2024-10-14 23:24:18.032544 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:18.051959 Quebec: Hotel, sending you 2
+chatterbot Zulu submitting transactions
+2024-10-14 23:24:18.125333 Quebec: Uniform, sending you 4
+2024-10-14 23:24:18.128700 Kilo: Bravo, sending you 16
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-14 23:24:18.168761 Quebec: Juliett, sending you 6
+2024-10-14 23:24:18.171969 Kilo: Zulu, sending you 1
+2024-10-14 23:24:18.202793 Juliett: Hotel and Quebec, sending you 2
+2024-10-14 23:24:18.213018 Juliett: Uniform, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Echo round 28
+ChatterBot Bravo round 28
+ChatterBot Papa round 28
+ChatterBot Hotel round 28
+ChatterBot Uniform round 28
+ChatterBot Zulu round 28
+ChatterBot Kilo round 28
+ChatterBot Juliett round 28
+ChatterBot Mike round 28
+ChatterBot Quebec round 28
+chatterbot Echo submitting transactions
+2024-10-14 23:24:18.929825 Bravo: We should replace Echo with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:18.941810 Zulu: No
+2024-10-14 23:24:18.941985 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:18.970132 Papa: We should add Echo
+2024-10-14 23:24:18.974429 Mike: Yes
+2024-10-14 23:24:19.003663 Papa: Echo we want you to join our group
+2024-10-14 23:24:19.009569 Echo: Yes
+2024-10-14 23:24:19.018220 Kilo: We should drop Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:19.022755 Bravo: No
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:19.028535 Juliett: We should drop Mike
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:19.041044 Uniform: Yes
+2024-10-14 23:24:19.041220 Hotel: Yes
+2024-10-14 23:24:19.041361 Quebec: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.081845 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:19.088383 Uniform: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:19.109833 Uniform: We should replace Mike with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.134853 Hotel: No
+2024-10-14 23:24:19.135135 Juliett: Yes
+2024-10-14 23:24:19.135418 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.203368 Quebec: Hotel, sending you 2
+2024-10-14 23:24:19.207220 Mike: Echo and Papa, sending you 5
+chatterbot Mike submitting transactions
+2024-10-14 23:24:19.211571 Quebec: Uniform, sending you 4
+2024-10-14 23:24:19.214822 Papa: Echo, sending you 10
+2024-10-14 23:24:19.232364 Juliett: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 23:24:19.242563 Echo: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.270809 Quebec: Juliett, sending you 6
+2024-10-14 23:24:19.274210 Papa: Mike, sending you 8
+2024-10-14 23:24:19.276204 Uniform: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:19.284817 Bravo: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.316265 Juliett: We should replace Mike with Zulu
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:19.332713 Uniform: Yes
+2024-10-14 23:24:19.332885 Hotel: No
+2024-10-14 23:24:19.333038 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.381213 Uniform: We should replace Mike with Echo
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:19.392535 Hotel: No
+2024-10-14 23:24:19.392724 Juliett: No
+2024-10-14 23:24:19.392887 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 23:24:19.459020 Juliett: Hotel, sending you 2
+2024-10-14 23:24:19.465036 Juliett: Uniform, sending you 4
+2024-10-14 23:24:19.471415 Juliett: Quebec, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Echo round 29
+ChatterBot Bravo round 29
+ChatterBot Papa round 29
+ChatterBot Hotel round 29
+ChatterBot Uniform round 29
+ChatterBot Zulu round 29
+ChatterBot Kilo round 29
+ChatterBot Juliett round 29
+ChatterBot Mike round 29
+ChatterBot Quebec round 29
+2024-10-14 23:24:20.924257 Uniform: We should replace Mike with Bravo
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:20.945792 Hotel: No
+2024-10-14 23:24:20.946122 Juliett: Yes
+2024-10-14 23:24:20.946351 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:21.029135 Bravo: We should replace Echo with Juliett
+2024-10-14 23:24:21.045104 Zulu: No
+2024-10-14 23:24:21.045340 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:21.085541 Mike: We should replace Bravo with Uniform
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:24:21.095104 Papa: No
+2024-10-14 23:24:21.095322 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:24:21.115037 Uniform: We should replace Mike with Zulu
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:24:21.128575 Hotel: No
+2024-10-14 23:24:21.128757 Juliett: Yes
+2024-10-14 23:24:21.128903 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:21.171924 Juliett: We should add Zulu
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 23:24:21.185430 Uniform: Yes
+2024-10-14 23:24:21.185621 Hotel: No
+2024-10-14 23:24:21.186325 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:21.231162 Bravo: We should replace Echo with Uniform
+2024-10-14 23:24:21.240065 Zulu: No
+2024-10-14 23:24:21.240296 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:21.259691 Kilo: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:21.264801 Bravo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:21.305729 Uniform: Zulu we want you to join our group
+2024-10-14 23:24:21.315305 Zulu: No
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:21.341556 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:21.349728 Uniform: No
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:21.369446 Kilo: Sending you 17
+2024-10-14 23:24:21.371908 Papa: Echo, sending you 10
+2024-10-14 23:24:21.374127 Mike: Echo and Papa, sending you 5
+2024-10-14 23:24:21.398134 Papa: Mike, sending you 8
+2024-10-14 23:24:21.400789 Juliett: Hotel, sending you 2
+2024-10-14 23:24:21.407658 Juliett: Uniform, sending you 4
+2024-10-14 23:24:21.417674 Juliett: Quebec, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Echo round 30
+ChatterBot Bravo round 30
+ChatterBot Papa round 30
+ChatterBot Hotel round 30
+ChatterBot Uniform round 30
+ChatterBot Zulu round 30
+ChatterBot Kilo round 30
+ChatterBot Juliett round 30
+ChatterBot Mike round 30
+ChatterBot Quebec round 30
+2024-10-14 23:24:22.393282 Bravo: We should replace Echo with Uniform
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 23:24:22.403398 Zulu: No
+2024-10-14 23:24:22.403534 Kilo: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:22.441046 Juliett: We should add Zulu
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:22.460323 Uniform: No
+2024-10-14 23:24:22.460527 Hotel: No
+2024-10-14 23:24:22.460705 Quebec: No
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:22.526931 Uniform: We should replace Mike with Zulu
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:22.538911 Hotel: No
+2024-10-14 23:24:22.539080 Juliett: Yes
+2024-10-14 23:24:22.539229 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:22.601199 Uniform: We should replace Mike with Bravo
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:22.613408 Hotel: No
+2024-10-14 23:24:22.613625 Juliett: No
+2024-10-14 23:24:22.613758 Quebec: No
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:22.652419 Zulu: We should drop Kilo
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:22.656996 Bravo: No
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:22.663114 Hotel: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:22.669061 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:22.687970 Papa: Sending you each 9
+2024-10-14 23:24:22.689592 Quebec: Hotel, sending you 2
+2024-10-14 23:24:22.692045 Juliett: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:22.699072 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:22.724835 Bravo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 23:24:22.733989 Uniform: No
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 23:24:22.752717 Kilo: I was attacked by Quebec
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:22.758573 Kilo: I'm keeping this round to protect myself
+2024-10-14 23:24:22.760469 Kilo: Ow
+2024-10-14 23:24:22.762120 Quebec: Uniform and Juliett, sending you 5
+2024-10-14 23:24:22.764523 Mike: Echo and Papa, sending you 5
+2024-10-14 23:24:22.766388 Uniform: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 23:24:22.775861 Bravo: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:22.802090 Juliett: We should add Bravo
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:24:22.821232 Uniform: Yes
+2024-10-14 23:24:22.821446 Hotel: No
+2024-10-14 23:24:22.822042 Quebec: No
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 23:24:23.048958 Zulu: Sending you 7
+2024-10-14 23:24:23.239748 Juliett: Hotel, sending you 2
+chatterbot Kilo submitting transactions
+2024-10-14 23:24:23.317208 Juliett: Uniform, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 23:24:23.394461 Juliett: Quebec, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions

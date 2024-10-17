@@ -1,0 +1,1999 @@
+ChatterBot Tango round 1
+ChatterBot Bravo round 1
+ChatterBot India round 1
+ChatterBot Hotel round 1
+ChatterBot Echo round 1
+ChatterBot Papa round 1
+ChatterBot Whiskey round 1
+ChatterBot Yankee round 1
+ChatterBot Mike round 1
+ChatterBot Alpha round 1
+randomSelections Bravo: {Bravo, Echo, Yankee, India, Papa, Whiskey} 
+2024-10-14 23:52:32.331554 Bravo: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:52:32.340641 Echo: Yes
+2024-10-14 23:52:32.340774 Yankee: Yes
+2024-10-14 23:52:32.340857 India: Yes
+2024-10-14 23:52:32.340942 Papa: Yes
+2024-10-14 23:52:32.341017 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+randomSelections Hotel: {Hotel, Papa, Whiskey, Mike, India, Bravo} 
+2024-10-14 23:52:32.381517 Hotel: Group up?
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+2024-10-14 23:52:32.388622 Papa: No
+2024-10-14 23:52:32.388763 Whiskey: No
+2024-10-14 23:52:32.388913 Mike: Yes
+2024-10-14 23:52:32.389009 India: No
+2024-10-14 23:52:32.389122 Bravo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+randomSelections Alpha: {Alpha, India, Papa, Tango, Bravo, Hotel} 
+2024-10-14 23:52:32.441962 Alpha: Can we be friends?
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:52:32.466236 India: No
+2024-10-14 23:52:32.466482 Papa: No
+2024-10-14 23:52:32.466598 Tango: Yes
+2024-10-14 23:52:32.466718 Bravo: No
+2024-10-14 23:52:32.466840 Hotel: No
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:52:32.610244 Alpha: Bravo and Papa, sending you 2
+2024-10-14 23:52:32.613223 Bravo: India, Papa and Whiskey, sending you 3
+2024-10-14 23:52:32.614594 Alpha: India, sending you 3
+2024-10-14 23:52:32.615244 India: Bravo and Whiskey, sending you 3
+2024-10-14 23:52:32.616502 Whiskey: Papa, sending you 1
+2024-10-14 23:52:32.617733 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:32.618474 Papa: Bravo and Whiskey, sending you 2
+2024-10-14 23:52:32.619773 Bravo: Echo, sending you 4
+2024-10-14 23:52:32.620311 India: Echo and Papa, sending you 2
+2024-10-14 23:52:32.620830 Tango: Hotel and Alpha, sending you 1
+2024-10-14 23:52:32.623878 Papa: India, sending you 1
+2024-10-14 23:52:32.625418 Hotel: Bravo, sending you 1
+2024-10-14 23:52:32.626034 Bravo: Yankee, sending you 2
+2024-10-14 23:52:32.627703 Echo: Bravo, sending you 1
+2024-10-14 23:52:32.628901 Tango: Papa, sending you 2
+2024-10-14 23:52:32.629731 Papa: Echo and Yankee, sending you 3
+2024-10-14 23:52:32.630753 Hotel: India, Papa, Whiskey and Mike, sending you 2
+2024-10-14 23:52:32.632011 Yankee: Bravo, sending you 5
+2024-10-14 23:52:32.632721 Echo: India and Whiskey, sending you 4
+2024-10-14 23:52:32.637930 Mike: Bravo, India, Hotel and Whiskey, sending you 2
+2024-10-14 23:52:32.639818 Yankee: Echo and Papa, sending you 1
+2024-10-14 23:52:32.640676 Echo: Papa and Yankee, sending you 2
+2024-10-14 23:52:32.643686 Yankee: Whiskey, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 2
+ChatterBot Bravo round 2
+ChatterBot India round 2
+2024-10-14 23:52:33.803299 Tango: Group up?
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:52:33.841079 Hotel: No
+2024-10-14 23:52:33.841370 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:52:33.890095 Mike: Can we be friends?
+ChatterBot Tango reevaluating
+2024-10-14 23:52:33.896860 Tango: No
+ChatterBot Mike reevaluating
+ChatterBot Hotel round 2
+ChatterBot Echo round 2
+2024-10-14 23:52:33.923334 India: We should replace Whiskey with Tango
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:33.969916 Bravo: Yes
+2024-10-14 23:52:33.971074 Echo: No
+2024-10-14 23:52:33.971223 Papa: No
+2024-10-14 23:52:33.971376 Yankee: No
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa round 2
+ChatterBot Whiskey round 2
+ChatterBot Yankee round 2
+ChatterBot Mike round 2
+ChatterBot Alpha round 2
+2024-10-14 23:52:34.132444 Hotel: Can we be friends?
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:52:34.144092 Tango: Yes
+2024-10-14 23:52:34.144282 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:52:34.196808 Yankee: We should replace Whiskey with Tango
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:34.221566 India: Yes
+2024-10-14 23:52:34.221769 Bravo: Yes
+2024-10-14 23:52:34.221891 Echo: No
+2024-10-14 23:52:34.222004 Papa: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:34.331588 Alpha: We would work well together
+ChatterBot Tango reevaluating
+2024-10-14 23:52:34.337935 Tango: No
+2024-10-14 23:52:34.344863 Echo: We should drop Whiskey
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:34.375955 India: Yes
+2024-10-14 23:52:34.376139 Bravo: Yes
+2024-10-14 23:52:34.376277 Papa: Yes
+2024-10-14 23:52:34.376411 Yankee: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:34.852604 Hotel: Tango and Mike, sending you 2
+2024-10-14 23:52:34.852984 India: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 23:52:34.861503 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:52:34.911089 Bravo: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 23:52:34.919895 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:34.970730 Papa: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 23:52:34.978523 Tango: No
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 23:52:35.022927 Whiskey: Echo, sending you 1
+2024-10-14 23:52:35.189784 Alpha: Sending you 3
+2024-10-14 23:52:35.190757 Mike: Tango and Hotel, sending you 2
+chatterbot Echo submitting transactions
+2024-10-14 23:52:35.191350 Yankee: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 23:52:35.199550 Tango: No
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Papa submitting transactions
+2024-10-14 23:52:35.321986 Papa: Tango, India, Echo and Yankee, sending you 2
+2024-10-14 23:52:35.323357 Bravo: Tango, Echo, Papa and Yankee, sending you 3
+2024-10-14 23:52:35.324047 Echo: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 23:52:35.333521 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:35.387279 Papa: Bravo, sending you 3
+2024-10-14 23:52:35.388737 Bravo: India, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 23:52:35.442090 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:35.445983 Echo: Tango, sending you 1
+2024-10-14 23:52:35.450135 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:35.451186 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:35.451620 Yankee: Tango, Bravo, India and Echo, sending you 2
+2024-10-14 23:52:35.452008 Echo: Bravo, sending you 4
+2024-10-14 23:52:35.486315 India: Papa, sending you 1
+2024-10-14 23:52:35.487568 Yankee: Papa, sending you 3
+2024-10-14 23:52:35.488357 Echo: India and Papa, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-14 23:52:35.506374 Echo: Yankee, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+ChatterBot Tango round 3
+ChatterBot Bravo round 3
+ChatterBot India round 3
+ChatterBot Hotel round 3
+ChatterBot Echo round 3
+ChatterBot Papa round 3
+ChatterBot Whiskey round 3
+ChatterBot Yankee round 3
+ChatterBot Mike round 3
+ChatterBot Alpha round 3
+2024-10-14 23:52:36.609566 Whiskey: We should add Tango
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:36.634591 Bravo: Yes
+2024-10-14 23:52:36.634819 Echo: Yes
+2024-10-14 23:52:36.634975 Yankee: Yes
+2024-10-14 23:52:36.635096 India: Yes
+2024-10-14 23:52:36.635658 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:36.755915 Bravo: We should add Alpha
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:36.779482 Tango: No
+2024-10-14 23:52:36.779697 India: No
+2024-10-14 23:52:36.779820 Echo: No
+2024-10-14 23:52:36.780006 Papa: No
+2024-10-14 23:52:36.780176 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:36.928532 Alpha: We would work well together
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:36.959430 Tango: No
+2024-10-14 23:52:36.959594 Bravo: Yes
+2024-10-14 23:52:36.959717 India: No
+2024-10-14 23:52:36.959818 Echo: No
+2024-10-14 23:52:36.959915 Papa: No
+2024-10-14 23:52:36.960007 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:37.256267 Hotel: We should drop Tango
+ChatterBot Mike reevaluating
+2024-10-14 23:52:37.261734 Mike: Yes
+2024-10-14 23:52:37.266782 Mike: We should replace Tango with Alpha
+ChatterBot Hotel reevaluating
+2024-10-14 23:52:37.272125 Hotel: Yes
+ChatterBot Mike reevaluating
+2024-10-14 23:52:37.277466 Whiskey: Tango we want you to join our group
+2024-10-14 23:52:37.283528 Tango: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:37.330466 Echo: Tango and Yankee, sending you 2
+2024-10-14 23:52:37.332363 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:37.333279 Bravo: Alpha we want you to join our group
+2024-10-14 23:52:37.341502 Alpha: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:37.383365 Echo: Bravo, India and Papa, sending you 3
+2024-10-14 23:52:37.385057 India: Papa, sending you 2
+2024-10-14 23:52:37.386466 Alpha: Tango, sending you 4
+2024-10-14 23:52:37.387435 Hotel: Sending you each 2
+2024-10-14 23:52:37.388367 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:37.389233 Whiskey: Echo, sending you 1
+2024-10-14 23:52:37.390791 India: Yankee, sending you 1
+2024-10-14 23:52:37.392382 Papa: Tango, India and Yankee, sending you 2
+2024-10-14 23:52:37.393658 Mike: Same as last round
+2024-10-14 23:52:37.393990 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:37.395730 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:52:37.401916 Bravo: Tango, Echo, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:52:37.417471 Yankee: Tango, Echo and Papa, sending you 2
+2024-10-14 23:52:37.419357 Bravo: India, sending you 4
+chatterbot Alpha submitting transactions
+2024-10-14 23:52:37.432739 Yankee: Bravo, sending you 3
+2024-10-14 23:52:37.442029 Yankee: India and Alpha, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 4
+ChatterBot Bravo round 4
+ChatterBot India round 4
+ChatterBot Hotel round 4
+ChatterBot Echo round 4
+ChatterBot Papa round 4
+ChatterBot Whiskey round 4
+ChatterBot Yankee round 4
+ChatterBot Mike round 4
+ChatterBot Alpha round 4
+2024-10-14 23:52:38.795481 Hotel: We should drop Alpha
+2024-10-14 23:52:38.800796 Mike: Yes
+2024-10-14 23:52:38.806638 Yankee: We should drop Alpha
+2024-10-14 23:52:38.834003 Tango: Yes
+2024-10-14 23:52:38.834201 Bravo: No
+2024-10-14 23:52:38.834404 India: Yes
+2024-10-14 23:52:38.835178 Echo: Yes
+2024-10-14 23:52:38.835394 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:38.947266 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:38.947867 Echo: Tango and Yankee, sending you 2
+2024-10-14 23:52:38.948331 Bravo: Tango, Echo, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:52:38.948795 Whiskey: Echo, sending you 1
+2024-10-14 23:52:38.949127 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:38.949502 Papa: Tango, India and Yankee, sending you 2
+2024-10-14 23:52:38.950725 Echo: Bravo, India and Papa, sending you 3
+2024-10-14 23:52:38.951705 India: Papa, sending you 2
+2024-10-14 23:52:38.953233 Bravo: India, sending you 4
+2024-10-14 23:52:38.953779 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:38.954697 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:52:38.956004 Mike: Same as last round
+2024-10-14 23:52:38.959688 Hotel: Same as last round
+2024-10-14 23:52:38.963674 Alpha: Tango, sending you 1
+2024-10-14 23:52:38.966803 Alpha: Bravo, sending you 4
+2024-10-14 23:52:38.970684 Alpha: Yankee, sending you 2
+2024-10-14 23:52:38.981665 Yankee: Tango, India, Echo and Papa, sending you 2
+2024-10-14 23:52:38.985660 Yankee: Bravo, sending you 3
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Tango round 5
+ChatterBot Bravo round 5
+ChatterBot India round 5
+ChatterBot Hotel round 5
+ChatterBot Echo round 5
+ChatterBot Papa round 5
+ChatterBot Whiskey round 5
+ChatterBot Yankee round 5
+ChatterBot Mike round 5
+ChatterBot Alpha round 5
+2024-10-14 23:52:39.850662 Hotel: Same as last round
+2024-10-14 23:52:39.853666 Yankee: Tango, Echo and Papa, sending you 2
+2024-10-14 23:52:39.857700 Papa: Tango, India and Yankee, sending you 2
+2024-10-14 23:52:39.859419 Yankee: Bravo, sending you 3
+2024-10-14 23:52:39.859984 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:39.860683 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:39.861688 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:52:39.863777 Echo: Tango and Yankee, sending you 2
+2024-10-14 23:52:39.865568 Yankee: India and Alpha, sending you 1
+2024-10-14 23:52:39.866688 India: Papa, sending you 2
+2024-10-14 23:52:39.868521 Whiskey: Echo, sending you 1
+2024-10-14 23:52:39.869406 Bravo: Tango, Echo, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:52:39.870979 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:39.871888 Mike: Same as last round
+2024-10-14 23:52:39.872455 Echo: Bravo, India and Papa, sending you 3
+2024-10-14 23:52:39.873906 India: Yankee, sending you 1
+2024-10-14 23:52:39.874662 Alpha: Tango and Yankee, sending you 1
+2024-10-14 23:52:39.875993 Bravo: India, sending you 4
+2024-10-14 23:52:39.879652 Alpha: Bravo, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 6
+ChatterBot Bravo round 6
+ChatterBot India round 6
+ChatterBot Hotel round 6
+ChatterBot Echo round 6
+ChatterBot Papa round 6
+ChatterBot Whiskey round 6
+ChatterBot Yankee round 6
+ChatterBot Mike round 6
+ChatterBot Alpha round 6
+2024-10-14 23:52:41.151180 Yankee: We should drop Alpha
+2024-10-14 23:52:41.177699 Tango: Yes
+2024-10-14 23:52:41.177914 Bravo: No
+2024-10-14 23:52:41.178104 India: Yes
+2024-10-14 23:52:41.178284 Echo: Yes
+2024-10-14 23:52:41.178447 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:41.294723 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:41.295551 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:41.298655 Echo: Tango and Yankee, sending you 2
+2024-10-14 23:52:41.299210 India: Papa, sending you 2
+2024-10-14 23:52:41.299622 Whiskey: Echo, sending you 1
+2024-10-14 23:52:41.300249 Bravo: Tango, Echo, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:52:41.301274 Papa: Tango, India and Yankee, sending you 2
+2024-10-14 23:52:41.301937 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:41.302366 Hotel: Same as last round
+2024-10-14 23:52:41.302666 Echo: Bravo, India and Papa, sending you 3
+2024-10-14 23:52:41.303708 India: Yankee, sending you 1
+2024-10-14 23:52:41.305120 Bravo: India, sending you 4
+2024-10-14 23:52:41.306687 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:52:41.313041 Mike: Same as last round
+2024-10-14 23:52:41.315827 Yankee: Tango, Bravo, Echo, Papa and Alpha, sending you 2
+2024-10-14 23:52:41.318686 Alpha: Bravo, sending you 5
+2024-10-14 23:52:41.319675 Yankee: India, sending you 1
+2024-10-14 23:52:41.322677 Alpha: Yankee, sending you 1
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 7
+ChatterBot Bravo round 7
+ChatterBot India round 7
+ChatterBot Hotel round 7
+ChatterBot Echo round 7
+ChatterBot Papa round 7
+ChatterBot Whiskey round 7
+ChatterBot Yankee round 7
+ChatterBot Mike round 7
+ChatterBot Alpha round 7
+2024-10-14 23:52:42.355501 Whiskey: Friends?
+2024-10-14 23:52:42.365199 Hotel: No
+2024-10-14 23:52:42.365389 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 23:52:42.401651 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:42.406663 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:42.410667 Bravo: Tango and India, sending you 4
+2024-10-14 23:52:42.411664 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:42.412212 Papa: Tango, India and Yankee, sending you 2
+2024-10-14 23:52:42.413222 Echo: Tango and Yankee, sending you 2
+2024-10-14 23:52:42.414665 Hotel: Same as last round
+2024-10-14 23:52:42.415698 Bravo: Echo, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:52:42.416668 India: Papa, sending you 2
+2024-10-14 23:52:42.418067 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:52:42.418562 Echo: Bravo, India and Papa, sending you 3
+2024-10-14 23:52:42.419047 Whiskey: Echo, sending you 1
+2024-10-14 23:52:42.419411 Yankee: Tango, Bravo, India, Echo and Papa, sending you 2
+2024-10-14 23:52:42.422722 Yankee: Alpha, sending you 1
+2024-10-14 23:52:42.425100 Mike: Same as last round
+2024-10-14 23:52:42.425396 Alpha: Bravo, sending you 5
+2024-10-14 23:52:42.429675 Alpha: Yankee, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 8
+ChatterBot Bravo round 8
+ChatterBot India round 8
+ChatterBot Hotel round 8
+ChatterBot Echo round 8
+ChatterBot Papa round 8
+ChatterBot Whiskey round 8
+ChatterBot Yankee round 8
+ChatterBot Mike round 8
+ChatterBot Alpha round 8
+2024-10-14 23:52:43.532082 Yankee: We should drop Alpha
+2024-10-14 23:52:43.547963 Tango: Yes
+2024-10-14 23:52:43.548114 Bravo: No
+2024-10-14 23:52:43.548242 India: Yes
+2024-10-14 23:52:43.548351 Echo: Yes
+2024-10-14 23:52:43.548462 Papa: Yes
+2024-10-14 23:52:43.761661 Papa: Tango, India and Yankee, sending you 2
+2024-10-14 23:52:43.762679 Bravo: Tango, Papa and Yankee, sending you 3
+2024-10-14 23:52:43.764321 Hotel: Same as last round
+2024-10-14 23:52:43.764850 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:43.766223 Tango: Bravo and India, sending you 3
+2024-10-14 23:52:43.766919 Whiskey: Mike, sending you 1
+2024-10-14 23:52:43.767380 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:52:43.769023 Bravo: India and Echo, sending you 4
+2024-10-14 23:52:43.770475 Mike: Same as last round
+2024-10-14 23:52:43.771556 India: Papa, sending you 2
+2024-10-14 23:52:43.773495 Tango: Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:43.775266 Yankee: Tango, India, Echo and Papa, sending you 2
+2024-10-14 23:52:43.776874 Bravo: Alpha, sending you 2
+2024-10-14 23:52:43.777947 Echo: Tango and Yankee, sending you 2
+2024-10-14 23:52:43.779285 India: Yankee, sending you 1
+2024-10-14 23:52:43.780270 Alpha: Bravo, sending you 5
+2024-10-14 23:52:43.782034 Yankee: Bravo, sending you 3
+2024-10-14 23:52:43.783604 Echo: Bravo, India and Papa, sending you 3
+2024-10-14 23:52:43.785877 Alpha: Yankee, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 9
+2024-10-14 23:52:44.656037 Tango: We should replace Yankee with Alpha
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:44.669935 Bravo: No
+2024-10-14 23:52:44.670098 India: No
+2024-10-14 23:52:44.670237 Echo: No
+2024-10-14 23:52:44.670372 Papa: No
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo round 9
+ChatterBot India round 9
+ChatterBot Hotel round 9
+ChatterBot Echo round 9
+ChatterBot Papa round 9
+ChatterBot Whiskey round 9
+ChatterBot Yankee round 9
+ChatterBot Mike round 9
+ChatterBot Alpha round 9
+2024-10-14 23:52:44.718744 Tango: We should replace India with Alpha
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:44.729162 Bravo: No
+2024-10-14 23:52:44.729292 Echo: No
+2024-10-14 23:52:44.729389 Papa: No
+2024-10-14 23:52:44.729479 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:44.777893 Bravo: We should add Mike
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:44.795189 Alpha: No
+2024-10-14 23:52:44.795339 Tango: No
+2024-10-14 23:52:44.795459 India: No
+2024-10-14 23:52:44.795564 Echo: No
+2024-10-14 23:52:44.795669 Papa: No
+2024-10-14 23:52:44.795781 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:44.932022 Bravo: We should add Whiskey
+ChatterBot Tango reevaluating
+2024-10-14 23:52:44.950520 Alpha: No
+2024-10-14 23:52:44.950693 Tango: No
+2024-10-14 23:52:44.950817 India: No
+2024-10-14 23:52:44.950919 Echo: No
+2024-10-14 23:52:44.951020 Papa: No
+2024-10-14 23:52:44.951117 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:45.073897 Tango: Alpha we want you to join our group
+2024-10-14 23:52:45.078581 Alpha: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:45.099972 Mike: Same as last round
+2024-10-14 23:52:45.100290 Echo: Tango, Papa and Yankee, sending you 2
+2024-10-14 23:52:45.100933 India: Tango, Bravo and Echo, sending you 3
+2024-10-14 23:52:45.101648 Whiskey: Mike, sending you 1
+2024-10-14 23:52:45.101942 Papa: Tango, Bravo, India and Yankee, sending you 1
+2024-10-14 23:52:45.103217 Alpha: Bravo, sending you 5
+2024-10-14 23:52:45.103858 Hotel: Same as last round
+2024-10-14 23:52:45.104141 Echo: Bravo and India, sending you 3
+2024-10-14 23:52:45.105752 India: Papa, sending you 2
+2024-10-14 23:52:45.106886 Alpha: Yankee, sending you 2
+2024-10-14 23:52:45.108120 Papa: Echo, sending you 2
+2024-10-14 23:52:45.109043 Echo: Alpha, sending you 1
+2024-10-14 23:52:45.110692 India: Yankee, sending you 1
+2024-10-14 23:52:45.115699 Tango: Bravo, sending you 3
+2024-10-14 23:52:45.116698 Yankee: Tango, India, Echo and Papa, sending you 2
+2024-10-14 23:52:45.119689 Tango: Echo, Papa, Yankee and Alpha, sending you 2
+2024-10-14 23:52:45.122183 Yankee: Bravo, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 10
+ChatterBot Bravo round 10
+ChatterBot India round 10
+ChatterBot Hotel round 10
+ChatterBot Echo round 10
+ChatterBot Papa round 10
+ChatterBot Whiskey round 10
+ChatterBot Yankee round 10
+ChatterBot Mike round 10
+ChatterBot Alpha round 10
+2024-10-14 23:52:46.210672 Hotel: I was attacked by Papa
+ChatterBot Mike reevaluating
+2024-10-14 23:52:46.216527 Hotel: I'm keeping this round to protect myself
+2024-10-14 23:52:46.216948 Hotel: Ow
+2024-10-14 23:52:46.220673 India: Tango, Papa and Yankee, sending you 2
+2024-10-14 23:52:46.221455 Tango: Bravo, Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:46.222493 Bravo: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:46.248800 Bravo: I'm keeping this round to protect myself
+2024-10-14 23:52:46.250689 Bravo: Ow
+2024-10-14 23:52:46.251080 Whiskey: Mike, sending you 1
+2024-10-14 23:52:46.254666 Mike: Same as last round
+2024-10-14 23:52:46.271666 Alpha: Tango, sending you 2
+2024-10-14 23:52:46.274698 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:46.276661 Alpha: Bravo, sending you 5
+2024-10-14 23:52:46.278660 Papa: Echo, sending you 3
+2024-10-14 23:52:46.281685 Alpha: Echo and Yankee, sending you 1
+2024-10-14 23:52:46.283680 Papa: Alpha, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 11
+ChatterBot Bravo round 11
+ChatterBot India round 11
+ChatterBot Hotel round 11
+ChatterBot Echo round 11
+ChatterBot Papa round 11
+ChatterBot Whiskey round 11
+ChatterBot Yankee round 11
+ChatterBot Mike round 11
+ChatterBot Alpha round 11
+2024-10-14 23:52:47.493029 Tango: We should drop India
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:47.513640 Bravo: No
+2024-10-14 23:52:47.513849 Echo: No
+2024-10-14 23:52:47.514007 Papa: No
+2024-10-14 23:52:47.514190 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:52:47.616289 Mike: We should add Whiskey
+ChatterBot Hotel reevaluating
+2024-10-14 23:52:47.621353 Hotel: No
+ChatterBot Mike reevaluating
+2024-10-14 23:52:47.629005 Hotel: We should add Yankee
+ChatterBot Mike reevaluating
+2024-10-14 23:52:47.635638 Mike: No
+ChatterBot Hotel reevaluating
+2024-10-14 23:52:47.643124 Tango: We should drop Bravo
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:47.659241 India: No
+2024-10-14 23:52:47.659365 Echo: No
+2024-10-14 23:52:47.659467 Papa: No
+2024-10-14 23:52:47.659567 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+2024-10-14 23:52:47.728264 Whiskey: Mike, sending you 1
+2024-10-14 23:52:47.728682 Papa: Tango, Bravo, India and Yankee, sending you 1
+2024-10-14 23:52:47.730245 Tango: We should drop Papa
+ChatterBot India reevaluating
+2024-10-14 23:52:47.754818 Bravo: No
+2024-10-14 23:52:47.755017 India: No
+2024-10-14 23:52:47.755171 Echo: No
+2024-10-14 23:52:47.755319 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+2024-10-14 23:52:47.824196 Papa: Echo, sending you 2
+chatterbot Papa submitting transactions
+2024-10-14 23:52:47.828897 Alpha: Tango, Echo, Papa and Yankee, sending you 1
+2024-10-14 23:52:47.834201 Tango: We should drop Echo
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:47.854127 Bravo: No
+2024-10-14 23:52:47.854341 India: No
+2024-10-14 23:52:47.854533 Papa: No
+2024-10-14 23:52:47.854725 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:52:47.919930 Alpha: Bravo, sending you 5
+2024-10-14 23:52:47.923960 Mike: Same as last round
+2024-10-14 23:52:47.924308 Hotel: Sending you 2
+2024-10-14 23:52:47.924596 India: Tango and Echo, sending you 3
+2024-10-14 23:52:47.929671 India: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:52:47.952225 Tango: India, sending you 4
+2024-10-14 23:52:47.956674 Tango: Echo and Yankee, sending you 3
+2024-10-14 23:52:47.960649 Tango: Papa, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Tango round 12
+ChatterBot Bravo round 12
+ChatterBot India round 12
+ChatterBot Hotel round 12
+ChatterBot Echo round 12
+ChatterBot Papa round 12
+ChatterBot Whiskey round 12
+ChatterBot Yankee round 12
+ChatterBot Mike round 12
+ChatterBot Alpha round 12
+2024-10-14 23:52:48.870702 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:48.872053 Tango: India, sending you 4
+2024-10-14 23:52:48.872982 Mike: Same as last round
+2024-10-14 23:52:48.873662 India: Tango and Echo, sending you 3
+2024-10-14 23:52:48.875653 Hotel: I was attacked by Papa
+ChatterBot Mike reevaluating
+2024-10-14 23:52:48.880482 Hotel: I'm keeping this round to protect myself
+2024-10-14 23:52:48.880834 Hotel: Ow
+2024-10-14 23:52:48.881115 Papa: Echo, sending you 3
+2024-10-14 23:52:48.881816 Tango: Echo and Yankee, sending you 3
+2024-10-14 23:52:48.882529 India: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:52:48.883665 Whiskey: Mike, sending you 1
+2024-10-14 23:52:48.884818 Papa: Alpha, sending you 1
+2024-10-14 23:52:48.885694 Tango: Papa, sending you 2
+2024-10-14 23:52:48.892745 Alpha: Tango, Papa and Yankee, sending you 1
+2024-10-14 23:52:48.897741 Alpha: Bravo, sending you 4
+2024-10-14 23:52:48.902673 Alpha: Echo, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 13
+ChatterBot Bravo round 13
+ChatterBot India round 13
+ChatterBot Hotel round 13
+ChatterBot Echo round 13
+ChatterBot Papa round 13
+ChatterBot Whiskey round 13
+ChatterBot Yankee round 13
+ChatterBot Mike round 13
+ChatterBot Alpha round 13
+2024-10-14 23:52:50.098661 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:50.099696 India: Tango and Echo, sending you 3
+2024-10-14 23:52:50.103667 Papa: Echo, sending you 3
+2024-10-14 23:52:50.104379 India: Bravo and Yankee, sending you 2
+2024-10-14 23:52:50.108678 Papa: Alpha, sending you 1
+2024-10-14 23:52:50.109371 India: Papa, sending you 1
+2024-10-14 23:52:50.111867 Tango: India, sending you 4
+2024-10-14 23:52:50.115671 Whiskey: Mike, sending you 1
+2024-10-14 23:52:50.116695 Tango: Echo and Yankee, sending you 3
+2024-10-14 23:52:50.117672 Bravo: India, sending you 1
+2024-10-14 23:52:50.119716 Mike: Same as last round
+2024-10-14 23:52:50.121648 Tango: Papa, sending you 2
+2024-10-14 23:52:50.123689 Alpha: Tango, Papa and Yankee, sending you 1
+2024-10-14 23:52:50.126660 Alpha: Bravo, sending you 4
+2024-10-14 23:52:50.131681 Alpha: Echo, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 14
+ChatterBot Bravo round 14
+ChatterBot India round 14
+ChatterBot Hotel round 14
+ChatterBot Echo round 14
+ChatterBot Papa round 14
+ChatterBot Whiskey round 14
+ChatterBot Yankee round 14
+ChatterBot Mike round 14
+ChatterBot Alpha round 14
+2024-10-14 23:52:51.330137 Tango: We should add Alpha
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:51.363152 India: Yes
+2024-10-14 23:52:51.363348 Echo: Yes
+2024-10-14 23:52:51.363510 Papa: Yes
+2024-10-14 23:52:51.363670 Yankee: Yes
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:51.503229 Tango: Alpha we want you to join our group
+2024-10-14 23:52:51.508319 Alpha: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:51.533847 Hotel: Whiskey and Mike, sending you 2
+2024-10-14 23:52:51.542702 Alpha: Tango, sending you 1
+2024-10-14 23:52:51.545682 Whiskey: Mike, sending you 1
+2024-10-14 23:52:51.546669 Bravo: India, Echo, Yankee and Alpha, sending you 1
+2024-10-14 23:52:51.547973 Tango: India and Yankee, sending you 3
+2024-10-14 23:52:51.548685 Alpha: Bravo and Echo, sending you 3
+2024-10-14 23:52:51.550740 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:51.552479 India: Tango and Echo, sending you 3
+2024-10-14 23:52:51.553106 Tango: Echo, Papa and Alpha, sending you 2
+2024-10-14 23:52:51.554205 Alpha: Papa, sending you 2
+2024-10-14 23:52:51.555335 Mike: Same as last round
+2024-10-14 23:52:51.555699 Papa: Echo, sending you 3
+2024-10-14 23:52:51.557683 India: Papa and Yankee, sending you 2
+2024-10-14 23:52:51.559710 Papa: Alpha, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 15
+ChatterBot Bravo round 15
+ChatterBot India round 15
+ChatterBot Hotel round 15
+ChatterBot Echo round 15
+ChatterBot Papa round 15
+ChatterBot Whiskey round 15
+ChatterBot Yankee round 15
+ChatterBot Mike round 15
+ChatterBot Alpha round 15
+2024-10-14 23:52:52.938787 Whiskey: Hotel, sending you 1
+2024-10-14 23:52:52.940745 Hotel: Whiskey and Mike, sending you 2
+2024-10-14 23:52:52.942716 Tango: India, sending you 4
+2024-10-14 23:52:52.945696 Alpha: Tango and Papa, sending you 1
+2024-10-14 23:52:52.947944 Mike: Same as last round
+2024-10-14 23:52:52.948536 India: Tango and Echo, sending you 3
+2024-10-14 23:52:52.950441 Tango: Echo and Papa, sending you 2
+2024-10-14 23:52:52.951575 Bravo: Tango, India, Echo, Papa, Yankee and Alpha, sending you 1
+2024-10-14 23:52:52.953851 Alpha: Bravo, sending you 3
+2024-10-14 23:52:52.955588 India: Papa and Yankee, sending you 2
+2024-10-14 23:52:52.956322 Tango: Yankee, sending you 3
+2024-10-14 23:52:52.958731 Papa: India and Echo, sending you 1
+2024-10-14 23:52:52.962772 Alpha: Echo, sending you 4
+2024-10-14 23:52:52.965624 Tango: Alpha, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 16
+ChatterBot Bravo round 16
+ChatterBot India round 16
+ChatterBot Hotel round 16
+ChatterBot Echo round 16
+ChatterBot Papa round 16
+ChatterBot Whiskey round 16
+ChatterBot Yankee round 16
+ChatterBot Mike round 16
+ChatterBot Alpha round 16
+2024-10-14 23:52:54.143604 Bravo: We should drop Tango
+ChatterBot Alpha reevaluating
+2024-10-14 23:52:54.160291 India: No
+2024-10-14 23:52:54.160425 Echo: No
+2024-10-14 23:52:54.160532 Yankee: No
+2024-10-14 23:52:54.160643 Papa: No
+2024-10-14 23:52:54.160752 Alpha: No
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:54.275663 Hotel: I was attacked by Papa
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:52:54.287338 Hotel: I'm keeping this round to protect myself
+2024-10-14 23:52:54.288020 Hotel: Ow
+2024-10-14 23:52:54.288814 Tango: India, Echo and Yankee, sending you 3
+2024-10-14 23:52:54.291678 Tango: Papa, sending you 2
+2024-10-14 23:52:54.292663 Bravo: Tango, India, Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:54.294727 India: Tango and Echo, sending you 3
+2024-10-14 23:52:54.296066 Papa: Tango, India, Echo and Yankee, sending you 3
+2024-10-14 23:52:54.297744 Tango: Alpha, sending you 1
+2024-10-14 23:52:54.299583 Bravo: Alpha, sending you 1
+2024-10-14 23:52:54.300966 India: Papa and Yankee, sending you 2
+2024-10-14 23:52:54.305425 Alpha: Tango, Papa and Yankee, sending you 1
+2024-10-14 23:52:54.308692 Whiskey: Hotel, sending you 1
+2024-10-14 23:52:54.310685 Alpha: Bravo and Echo, sending you 3
+2024-10-14 23:52:54.315676 Mike: Same as last round
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Tango round 17
+ChatterBot Bravo round 17
+ChatterBot India round 17
+ChatterBot Hotel round 17
+ChatterBot Echo round 17
+ChatterBot Papa round 17
+ChatterBot Whiskey round 17
+ChatterBot Yankee round 17
+ChatterBot Mike round 17
+ChatterBot Alpha round 17
+2024-10-14 23:52:55.550263 India: We should add Bravo
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:55.584789 Tango: No
+2024-10-14 23:52:55.584996 Echo: Yes
+2024-10-14 23:52:55.585165 Papa: Yes
+2024-10-14 23:52:55.585899 Yankee: No
+2024-10-14 23:52:55.586079 Alpha: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:52:55.719652 India: Bravo we want you to join our group
+2024-10-14 23:52:55.725485 Bravo: Yes
+ChatterBot India reevaluating
+2024-10-14 23:52:55.763485 Bravo: Tango, India, Echo, Papa and Yankee, sending you 2
+2024-10-14 23:52:55.767016 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:55.767967 Tango: India, Echo and Yankee, sending you 3
+2024-10-14 23:52:55.768497 Alpha: Tango and Papa, sending you 1
+2024-10-14 23:52:55.769169 Bravo: Alpha, sending you 1
+2024-10-14 23:52:55.770478 Whiskey: Hotel, sending you 1
+2024-10-14 23:52:55.771669 Tango: Papa, sending you 2
+2024-10-14 23:52:55.772209 Alpha: Bravo and Yankee, sending you 2
+2024-10-14 23:52:55.773202 Papa: Echo, sending you 3
+2024-10-14 23:52:55.776667 Tango: Alpha, sending you 1
+2024-10-14 23:52:55.777781 Alpha: Echo, sending you 3
+2024-10-14 23:52:55.779868 Papa: Alpha, sending you 1
+2024-10-14 23:52:55.804660 India: Tango and Echo, sending you 3
+2024-10-14 23:52:55.812642 India: Bravo, Papa and Yankee, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Tango round 18
+ChatterBot Bravo round 18
+ChatterBot India round 18
+ChatterBot Hotel round 18
+ChatterBot Echo round 18
+ChatterBot Papa round 18
+ChatterBot Whiskey round 18
+ChatterBot Yankee round 18
+ChatterBot Mike round 18
+ChatterBot Alpha round 18
+2024-10-14 23:52:56.834596 Tango: We should replace India with Bravo
+2024-10-14 23:52:56.852389 Echo: No
+2024-10-14 23:52:56.853265 Papa: No
+2024-10-14 23:52:56.853389 Yankee: No
+2024-10-14 23:52:56.853492 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:57.099710 Yankee: We should replace Tango with Alpha
+2024-10-14 23:52:57.116493 India: No
+2024-10-14 23:52:57.116807 Bravo: No
+2024-10-14 23:52:57.116993 Echo: No
+2024-10-14 23:52:57.117125 Papa: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:57.189710 Tango: We should replace Yankee with Bravo
+2024-10-14 23:52:57.208292 India: No
+2024-10-14 23:52:57.208486 Echo: No
+2024-10-14 23:52:57.208609 Papa: No
+2024-10-14 23:52:57.208764 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:52:57.290696 Bravo: Tango, India, Echo, Papa, Yankee and Alpha, sending you 2
+2024-10-14 23:52:57.297695 Alpha: Tango and Papa, sending you 1
+2024-10-14 23:52:57.299053 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:57.301221 Whiskey: Hotel, sending you 1
+2024-10-14 23:52:57.301822 India: Tango and Echo, sending you 3
+2024-10-14 23:52:57.303627 Hotel: Whiskey and Mike, sending you 2
+2024-10-14 23:52:57.304600 Alpha: Bravo and Yankee, sending you 2
+2024-10-14 23:52:57.306792 Papa: Echo, sending you 3
+2024-10-14 23:52:57.308801 India: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:52:57.311669 Alpha: Echo, sending you 3
+2024-10-14 23:52:57.313688 Papa: Alpha, sending you 1
+2024-10-14 23:52:57.314638 Tango: India, Echo and Yankee, sending you 3
+2024-10-14 23:52:57.318715 Tango: Papa, sending you 2
+2024-10-14 23:52:57.323671 Tango: Alpha, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 19
+ChatterBot Bravo round 19
+ChatterBot India round 19
+ChatterBot Hotel round 19
+ChatterBot Echo round 19
+ChatterBot Papa round 19
+ChatterBot Whiskey round 19
+ChatterBot Yankee round 19
+ChatterBot Mike round 19
+ChatterBot Alpha round 19
+2024-10-14 23:52:58.496686 Tango: India, Echo and Yankee, sending you 3
+2024-10-14 23:52:58.501695 Tango: Papa, sending you 2
+2024-10-14 23:52:58.502707 Bravo: Tango, sending you 1
+2024-10-14 23:52:58.504538 India: Tango and Echo, sending you 3
+2024-10-14 23:52:58.509049 Whiskey: Hotel, sending you 1
+2024-10-14 23:52:58.509557 Tango: Alpha, sending you 1
+2024-10-14 23:52:58.511022 Bravo: India, Echo and Papa, sending you 3
+2024-10-14 23:52:58.513110 Hotel: Whiskey and Mike, sending you 2
+2024-10-14 23:52:58.513698 India: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:52:58.515821 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:52:58.521949 Mike: Sending you 2
+2024-10-14 23:52:58.522422 Alpha: Tango, Papa and Yankee, sending you 1
+2024-10-14 23:52:58.524634 Bravo: Yankee and Alpha, sending you 2
+2024-10-14 23:52:58.526954 Papa: Echo, sending you 3
+2024-10-14 23:52:58.528687 Alpha: Bravo, sending you 2
+2024-10-14 23:52:58.534275 Papa: Alpha, sending you 1
+2024-10-14 23:52:58.536405 Alpha: Echo, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Tango round 20
+ChatterBot Bravo round 20
+ChatterBot India round 20
+ChatterBot Hotel round 20
+ChatterBot Echo round 20
+ChatterBot Papa round 20
+ChatterBot Whiskey round 20
+ChatterBot Yankee round 20
+ChatterBot Mike round 20
+ChatterBot Alpha round 20
+2024-10-14 23:52:59.609744 Tango: We should replace India with Bravo
+2024-10-14 23:52:59.632626 Echo: No
+2024-10-14 23:52:59.632861 Papa: No
+2024-10-14 23:52:59.633035 Yankee: No
+2024-10-14 23:52:59.633213 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:59.944454 Mike: We should add Whiskey
+2024-10-14 23:52:59.950230 Hotel: Yes
+2024-10-14 23:52:59.968856 Tango: We should replace Echo with Bravo
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:52:59.994029 India: No
+2024-10-14 23:52:59.994510 Papa: No
+2024-10-14 23:52:59.995316 Yankee: No
+2024-10-14 23:52:59.995756 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:00.104089 Mike: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 23:53:00.110312 Whiskey: No
+2024-10-14 23:53:00.120110 Tango: We should replace Yankee with Bravo
+ChatterBot Papa reevaluating
+2024-10-14 23:53:00.144576 India: No
+2024-10-14 23:53:00.144994 Echo: No
+2024-10-14 23:53:00.145237 Papa: No
+2024-10-14 23:53:00.145649 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:53:00.251875 Whiskey: We should drop Mike
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:00.258440 Hotel: No
+ChatterBot Whiskey reevaluating
+2024-10-14 23:53:00.265705 India: Tango and Echo, sending you 3
+2024-10-14 23:53:00.269358 Bravo: India, Echo, Papa and Yankee, sending you 3
+2024-10-14 23:53:00.273077 Tango: Bravo we want you to join our group
+2024-10-14 23:53:00.284221 Bravo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 23:53:00.315301 Hotel: We should drop Whiskey
+ChatterBot Mike reevaluating
+2024-10-14 23:53:00.321926 Mike: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:00.329227 India: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:53:00.334225 Bravo: Alpha, sending you 2
+chatterbot Mike submitting transactions
+2024-10-14 23:53:00.339355 Alpha: Tango, Papa and Yankee, sending you 1
+2024-10-14 23:53:00.342766 Hotel: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 23:53:00.349162 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 23:53:00.363861 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:53:00.368095 Alpha: Bravo, sending you 2
+2024-10-14 23:53:00.489443 Papa: Echo, sending you 3
+2024-10-14 23:53:00.494463 Alpha: Echo, sending you 4
+chatterbot Bravo submitting transactions
+2024-10-14 23:53:00.499648 Papa: Alpha, sending you 1
+2024-10-14 23:53:00.506273 Whiskey: Hotel, sending you 1
+2024-10-14 23:53:00.507506 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:00.515697 Tango: India and Yankee, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 21
+ChatterBot Bravo round 21
+ChatterBot India round 21
+ChatterBot Hotel round 21
+ChatterBot Echo round 21
+ChatterBot Papa round 21
+ChatterBot Whiskey round 21
+ChatterBot Yankee round 21
+ChatterBot Mike round 21
+ChatterBot Alpha round 21
+2024-10-14 23:53:01.540224 Tango: We should replace Yankee with Echo
+2024-10-14 23:53:01.569237 Bravo: No
+2024-10-14 23:53:01.570063 India: No
+2024-10-14 23:53:01.570309 Papa: No
+2024-10-14 23:53:01.570566 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 23:53:01.706008 Yankee: We should replace Tango with Alpha
+2024-10-14 23:53:01.730391 India: No
+2024-10-14 23:53:01.730633 Bravo: No
+2024-10-14 23:53:01.731285 Echo: No
+2024-10-14 23:53:01.731535 Papa: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:01.860314 Tango: Echo we want you to join our group
+2024-10-14 23:53:01.869317 Echo: Yes
+ChatterBot Alpha reevaluating
+2024-10-14 23:53:01.954417 India: Tango and Echo, sending you 3
+2024-10-14 23:53:01.960128 Bravo: Tango, sending you 1
+chatterbot Tango submitting transactions
+2024-10-14 23:53:01.966133 India: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:53:01.975580 Bravo: India, Echo, Papa and Yankee, sending you 3
+2024-10-14 23:53:01.979812 Whiskey: Hotel, sending you 1
+2024-10-14 23:53:01.980294 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:01.981923 Mike: Same as last round
+2024-10-14 23:53:01.982439 Hotel: Whiskey, sending you 3
+2024-10-14 23:53:01.982976 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:53:01.988283 Bravo: Alpha, sending you 2
+2024-10-14 23:53:01.992983 Hotel: Mike, sending you 2
+2024-10-14 23:53:01.993850 Tango: India and Echo, sending you 3
+2024-10-14 23:53:01.997719 Alpha: Tango and Bravo, sending you 2
+2024-10-14 23:53:02.002424 Papa: Echo, sending you 3
+2024-10-14 23:53:02.014544 Alpha: Echo, sending you 3
+2024-10-14 23:53:02.016369 Papa: Alpha, sending you 1
+2024-10-14 23:53:02.036955 Alpha: Papa and Yankee, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 22
+ChatterBot Bravo round 22
+ChatterBot India round 22
+ChatterBot Hotel round 22
+ChatterBot Echo round 22
+ChatterBot Papa round 22
+ChatterBot Whiskey round 22
+ChatterBot Yankee round 22
+ChatterBot Mike round 22
+ChatterBot Alpha round 22
+2024-10-14 23:53:03.318746 Yankee: We should replace Tango with Alpha
+ChatterBot Papa reevaluating
+2024-10-14 23:53:03.342133 India: No
+2024-10-14 23:53:03.342329 Bravo: No
+2024-10-14 23:53:03.342494 Echo: No
+2024-10-14 23:53:03.342659 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:03.419518 Yankee: We should replace Echo with Alpha
+ChatterBot Papa reevaluating
+2024-10-14 23:53:03.440422 Tango: No
+2024-10-14 23:53:03.440596 Bravo: No
+2024-10-14 23:53:03.440755 India: No
+2024-10-14 23:53:03.440947 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:03.513718 Alpha: Tango and Bravo, sending you 2
+2024-10-14 23:53:03.516284 Hotel: Whiskey, sending you 3
+2024-10-14 23:53:03.517437 Mike: Hotel, sending you 2
+2024-10-14 23:53:03.517792 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:03.518548 Whiskey: Hotel, sending you 1
+2024-10-14 23:53:03.519718 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:03.520342 Bravo: Tango, sending you 1
+2024-10-14 23:53:03.524401 Alpha: Echo, sending you 3
+2024-10-14 23:53:03.526734 Hotel: Mike, sending you 2
+2024-10-14 23:53:03.527117 Mike: Whiskey, sending you 3
+2024-10-14 23:53:03.527967 Tango: India and Echo, sending you 3
+2024-10-14 23:53:03.528978 India: Echo, sending you 4
+2024-10-14 23:53:03.530335 Bravo: India, Echo, Papa and Yankee, sending you 3
+2024-10-14 23:53:03.533239 Alpha: Papa and Yankee, sending you 1
+2024-10-14 23:53:03.535472 India: Papa, sending you 2
+2024-10-14 23:53:03.539038 Bravo: Alpha, sending you 2
+2024-10-14 23:53:03.544053 Papa: Tango, Bravo, India and Echo, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Tango round 23
+ChatterBot Bravo round 23
+ChatterBot India round 23
+ChatterBot Hotel round 23
+ChatterBot Echo round 23
+ChatterBot Papa round 23
+ChatterBot Whiskey round 23
+ChatterBot Yankee round 23
+ChatterBot Mike round 23
+ChatterBot Alpha round 23
+2024-10-14 23:53:04.762972 Tango: We should replace India with Yankee
+ChatterBot Papa reevaluating
+2024-10-14 23:53:04.871683 Bravo: No
+2024-10-14 23:53:04.871978 Echo: No
+2024-10-14 23:53:04.873607 Papa: No
+2024-10-14 23:53:04.873772 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:53:05.122561 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:05.125828 Whiskey: Hotel, sending you 1
+2024-10-14 23:53:05.126626 Hotel: Whiskey, sending you 3
+2024-10-14 23:53:05.127951 Mike: Hotel, sending you 2
+2024-10-14 23:53:05.129058 Bravo: Tango and Alpha, sending you 2
+2024-10-14 23:53:05.133193 Papa: Tango, India, Echo and Yankee, sending you 2
+2024-10-14 23:53:05.139744 India: Echo, sending you 4
+2024-10-14 23:53:05.143906 Hotel: Mike, sending you 2
+2024-10-14 23:53:05.145469 Mike: Whiskey, sending you 3
+2024-10-14 23:53:05.146446 Tango: Bravo, sending you 2
+2024-10-14 23:53:05.150778 Alpha: Tango and Bravo, sending you 2
+2024-10-14 23:53:05.154637 Bravo: India, Echo, Papa and Yankee, sending you 3
+2024-10-14 23:53:05.159113 Papa: Bravo, sending you 3
+2024-10-14 23:53:05.163359 India: Papa, sending you 2
+2024-10-14 23:53:05.166588 Tango: India, Echo and Papa, sending you 3
+2024-10-14 23:53:05.169712 Alpha: Echo, sending you 3
+2024-10-14 23:53:05.173380 Papa: Alpha, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-14 23:53:05.177674 Tango: Alpha, sending you 1
+2024-10-14 23:53:05.182081 Alpha: Papa and Yankee, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 24
+ChatterBot Bravo round 24
+ChatterBot India round 24
+ChatterBot Hotel round 24
+ChatterBot Echo round 24
+ChatterBot Papa round 24
+ChatterBot Whiskey round 24
+ChatterBot Yankee round 24
+ChatterBot Mike round 24
+ChatterBot Alpha round 24
+2024-10-14 23:53:06.464579 Alpha: We should drop Yankee
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:53:06.484647 Tango: Yes
+2024-10-14 23:53:06.484925 Bravo: No
+2024-10-14 23:53:06.485207 India: Yes
+2024-10-14 23:53:06.485373 Echo: No
+2024-10-14 23:53:06.485545 Papa: Yes
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 23:53:06.637290 Bravo: Tango, India, Echo, Papa and Yankee, sending you 3
+2024-10-14 23:53:06.644606 Whiskey: Hotel, sending you 1
+2024-10-14 23:53:06.645485 Hotel: Whiskey, sending you 3
+2024-10-14 23:53:06.691580 Bravo: Alpha, sending you 2
+2024-10-14 23:53:06.698195 Mike: Hotel, sending you 2
+2024-10-14 23:53:06.699575 Alpha: Tango, sending you 2
+2024-10-14 23:53:06.702833 Hotel: Mike, sending you 2
+2024-10-14 23:53:06.704420 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:06.709350 Mike: Whiskey, sending you 3
+2024-10-14 23:53:06.710902 Alpha: Bravo and Echo, sending you 3
+2024-10-14 23:53:06.716132 Papa: Tango, India, Echo and Yankee, sending you 2
+2024-10-14 23:53:06.721495 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:06.724885 India: Echo, sending you 4
+2024-10-14 23:53:06.729020 Alpha: Papa, sending you 1
+2024-10-14 23:53:06.734811 Papa: Bravo, sending you 3
+2024-10-14 23:53:06.742247 Tango: India and Echo, sending you 3
+2024-10-14 23:53:06.747459 India: Papa, sending you 2
+2024-10-14 23:53:06.751645 Papa: Alpha, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Tango round 25
+ChatterBot Bravo round 25
+ChatterBot India round 25
+ChatterBot Hotel round 25
+ChatterBot Echo round 25
+ChatterBot Papa round 25
+ChatterBot Whiskey round 25
+ChatterBot Yankee round 25
+ChatterBot Mike round 25
+ChatterBot Alpha round 25
+2024-10-14 23:53:07.922336 Tango: We should replace India with Yankee
+2024-10-14 23:53:07.941264 Bravo: No
+2024-10-14 23:53:07.942026 Echo: No
+2024-10-14 23:53:07.942307 Papa: No
+2024-10-14 23:53:07.942605 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:53:08.066396 Mike: We should drop Hotel
+ChatterBot Whiskey reevaluating
+2024-10-14 23:53:08.071844 Whiskey: No
+2024-10-14 23:53:08.084339 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:08.090325 Bravo: Sending you each 3
+2024-10-14 23:53:08.096707 Whiskey: We should drop Mike
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:08.103792 Hotel: No
+ChatterBot Whiskey reevaluating
+2024-10-14 23:53:08.110306 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:53:08.117434 India: Echo, sending you 4
+2024-10-14 23:53:08.122634 Alpha: Tango and Bravo, sending you 2
+2024-10-14 23:53:08.126951 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:08.131647 Hotel: We should drop Whiskey
+ChatterBot Mike reevaluating
+2024-10-14 23:53:08.137187 Mike: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:08.142807 Papa: Echo, sending you 3
+2024-10-14 23:53:08.149474 India: Papa, sending you 2
+2024-10-14 23:53:08.154375 Alpha: Echo, sending you 3
+2024-10-14 23:53:08.159377 Tango: India and Echo, sending you 3
+2024-10-14 23:53:08.162900 Papa: Alpha, sending you 1
+2024-10-14 23:53:08.167387 Alpha: Papa and Yankee, sending you 1
+2024-10-14 23:53:08.171714 Whiskey: Hotel, sending you 1
+2024-10-14 23:53:08.179675 Mike: Sorry, I'm actually sending you 0
+2024-10-14 23:53:08.185678 Mike: Same as last round
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 26
+ChatterBot Bravo round 26
+ChatterBot India round 26
+ChatterBot Hotel round 26
+ChatterBot Echo round 26
+ChatterBot Papa round 26
+ChatterBot Whiskey round 26
+ChatterBot Yankee round 26
+ChatterBot Mike round 26
+ChatterBot Alpha round 26
+2024-10-14 23:53:09.655019 Mike: We should replace Hotel with Whiskey
+2024-10-14 23:53:09.696522 Mike: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 23:53:09.701992 Whiskey: Yes
+ChatterBot Mike reevaluating
+2024-10-14 23:53:09.709236 Mike: We should add Whiskey
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:09.714305 Hotel: No
+ChatterBot Mike reevaluating
+2024-10-14 23:53:09.960628 Bravo: Same as last round
+2024-10-14 23:53:09.978222 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:53:09.983274 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:09.985824 Tango: Bravo, Papa and Yankee, sending you 2
+2024-10-14 23:53:09.992693 Alpha: Tango and Echo, sending you 2
+2024-10-14 23:53:09.997705 Papa: Echo, sending you 3
+2024-10-14 23:53:10.004691 India: Echo, sending you 4
+2024-10-14 23:53:10.010348 Tango: India and Echo, sending you 3
+2024-10-14 23:53:10.015785 Alpha: Bravo, sending you 3
+2024-10-14 23:53:10.020228 Whiskey: Hotel, sending you 1
+chatterbot Tango submitting transactions
+2024-10-14 23:53:10.022181 Papa: Alpha, sending you 1
+2024-10-14 23:53:10.028256 India: Papa, sending you 2
+2024-10-14 23:53:10.032533 Alpha: Papa and Yankee, sending you 1
+2024-10-14 23:53:10.036529 Mike: Sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Tango round 27
+ChatterBot Bravo round 27
+ChatterBot India round 27
+ChatterBot Hotel round 27
+ChatterBot Echo round 27
+ChatterBot Papa round 27
+ChatterBot Whiskey round 27
+ChatterBot Yankee round 27
+ChatterBot Mike round 27
+ChatterBot Alpha round 27
+2024-10-14 23:53:11.130122 Mike: We should add Hotel
+2024-10-14 23:53:11.135286 Whiskey: Yes
+2024-10-14 23:53:11.171437 Yankee: We should replace Echo with Alpha
+ChatterBot Papa reevaluating
+2024-10-14 23:53:11.195491 Tango: No
+2024-10-14 23:53:11.195725 Bravo: No
+2024-10-14 23:53:11.195926 India: No
+2024-10-14 23:53:11.196668 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:11.301909 Hotel: We should add Whiskey
+2024-10-14 23:53:11.307553 Mike: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:11.325711 Mike: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:11.332050 Hotel: Yes
+2024-10-14 23:53:11.353491 Hotel: Whiskey we want you to join our group
+2024-10-14 23:53:11.357956 Whiskey: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:11.365908 Bravo: Same as last round
+2024-10-14 23:53:11.373343 Whiskey: Mike, sending you 1
+2024-10-14 23:53:11.374279 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:11.379830 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:11.384325 Papa: Tango and India, sending you 2
+2024-10-14 23:53:11.388841 Mike: Hotel, sending you 2
+2024-10-14 23:53:11.390622 Alpha: Tango, Echo and Yankee, sending you 2
+2024-10-14 23:53:11.395818 India: Echo, sending you 4
+2024-10-14 23:53:11.401627 Tango: India and Echo, sending you 3
+2024-10-14 23:53:11.404870 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:53:11.410238 Mike: Whiskey, sending you 4
+2024-10-14 23:53:11.411302 Alpha: Bravo, sending you 3
+2024-10-14 23:53:11.413988 India: Papa, sending you 2
+2024-10-14 23:53:11.416428 Papa: Alpha, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Tango round 28
+ChatterBot Bravo round 28
+ChatterBot India round 28
+ChatterBot Hotel round 28
+ChatterBot Echo round 28
+ChatterBot Papa round 28
+ChatterBot Whiskey round 28
+ChatterBot Yankee round 28
+ChatterBot Mike round 28
+ChatterBot Alpha round 28
+2024-10-14 23:53:13.235768 Hotel: We should add Whiskey
+2024-10-14 23:53:13.242849 Mike: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:13.552820 Whiskey: Mike, sending you 1
+2024-10-14 23:53:13.555240 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:13.562961 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:13.570319 Papa: Tango, Bravo, India and Yankee, sending you 2
+2024-10-14 23:53:13.577169 Mike: Hotel, sending you 2
+2024-10-14 23:53:13.578285 Bravo: Tango, India, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:53:13.584532 Tango: India and Echo, sending you 3
+2024-10-14 23:53:13.589534 India: Echo, sending you 4
+2024-10-14 23:53:13.596155 Papa: Echo, sending you 3
+2024-10-14 23:53:13.602396 Mike: Whiskey, sending you 4
+2024-10-14 23:53:13.603899 Bravo: Echo, sending you 4
+2024-10-14 23:53:13.610701 Alpha: Tango and Echo, sending you 2
+2024-10-14 23:53:13.615301 India: Papa, sending you 2
+2024-10-14 23:53:13.620792 Papa: Alpha, sending you 1
+2024-10-14 23:53:13.627114 Alpha: Bravo, sending you 3
+2024-10-14 23:53:13.639232 Alpha: Papa and Yankee, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Tango round 29
+ChatterBot Bravo round 29
+ChatterBot India round 29
+ChatterBot Hotel round 29
+ChatterBot Echo round 29
+ChatterBot Papa round 29
+ChatterBot Whiskey round 29
+ChatterBot Yankee round 29
+ChatterBot Mike round 29
+ChatterBot Alpha round 29
+2024-10-14 23:53:14.659326 Hotel: We should add Whiskey
+2024-10-14 23:53:14.694486 Mike: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:14.721890 Yankee: We should replace Echo with Alpha
+ChatterBot Papa reevaluating
+2024-10-14 23:53:14.744813 Tango: No
+2024-10-14 23:53:14.745201 Bravo: No
+2024-10-14 23:53:14.745484 India: No
+2024-10-14 23:53:14.746451 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:14.863297 Hotel: Whiskey we want you to join our group
+2024-10-14 23:53:14.869862 Whiskey: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:14.882076 Yankee: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 23:53:14.892016 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:14.920598 Alpha: We should replace Yankee with India
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:53:14.954222 Tango: Yes
+2024-10-14 23:53:14.957215 Bravo: No
+2024-10-14 23:53:14.957519 Echo: Yes
+2024-10-14 23:53:14.957878 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 23:53:15.078255 Bravo: Tango, India, Papa, Yankee and Alpha, sending you 3
+2024-10-14 23:53:15.086599 India: Tango and Bravo, sending you 3
+chatterbot India submitting transactions
+2024-10-14 23:53:15.092343 Whiskey: Mike, sending you 1
+2024-10-14 23:53:15.095632 Mike: Hotel, sending you 2
+2024-10-14 23:53:15.098186 Bravo: Echo, sending you 4
+2024-10-14 23:53:15.106727 India: Echo, sending you 4
+2024-10-14 23:53:15.112747 Mike: Whiskey, sending you 4
+2024-10-14 23:53:15.121875 India: Papa, sending you 2
+2024-10-14 23:53:15.126778 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:15.130247 Papa: Tango and India, sending you 2
+2024-10-14 23:53:15.134904 Tango: India and Echo, sending you 3
+2024-10-14 23:53:15.137860 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:53:15.142521 Alpha: Tango and Echo, sending you 2
+2024-10-14 23:53:15.146871 Papa: Alpha, sending you 1
+2024-10-14 23:53:15.166254 Alpha: Bravo, sending you 3
+2024-10-14 23:53:15.174071 Alpha: Papa and Yankee, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 30
+ChatterBot Bravo round 30
+ChatterBot India round 30
+ChatterBot Hotel round 30
+ChatterBot Echo round 30
+ChatterBot Papa round 30
+ChatterBot Whiskey round 30
+ChatterBot Yankee round 30
+ChatterBot Mike round 30
+ChatterBot Alpha round 30
+2024-10-14 23:53:16.353624 Tango: We should replace Papa with Yankee
+ChatterBot Alpha reevaluating
+2024-10-14 23:53:16.370368 Bravo: No
+2024-10-14 23:53:16.370561 India: No
+2024-10-14 23:53:16.370734 Echo: No
+2024-10-14 23:53:16.370899 Alpha: Yes
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 23:53:16.445855 Hotel: We should add Whiskey
+2024-10-14 23:53:16.449628 Mike: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:16.481553 Yankee: We should replace Echo with Alpha
+ChatterBot Tango reevaluating
+2024-10-14 23:53:16.499560 Tango: No
+2024-10-14 23:53:16.499762 Bravo: No
+2024-10-14 23:53:16.499910 India: No
+2024-10-14 23:53:16.500045 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:16.556279 Hotel: We should add Whiskey and Yankee
+2024-10-14 23:53:16.560234 Mike: No
+ChatterBot Hotel reevaluating
+2024-10-14 23:53:16.563470 Yankee: We should replace Papa with Alpha
+ChatterBot Tango reevaluating
+2024-10-14 23:53:16.573433 Tango: No
+2024-10-14 23:53:16.573602 Bravo: No
+2024-10-14 23:53:16.573735 India: No
+2024-10-14 23:53:16.573846 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:16.617348 Yankee: We should replace Tango with Alpha
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:53:16.627673 India: No
+2024-10-14 23:53:16.627809 Bravo: No
+2024-10-14 23:53:16.627910 Echo: No
+2024-10-14 23:53:16.628002 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 23:53:16.673671 Whiskey: Mike, sending you 1
+2024-10-14 23:53:16.675120 Mike: Hotel, sending you 2
+2024-10-14 23:53:16.675983 Alpha: Tango and Echo, sending you 2
+2024-10-14 23:53:16.679050 India: Tango and Bravo, sending you 3
+2024-10-14 23:53:16.681973 Mike: Whiskey, sending you 4
+2024-10-14 23:53:16.682710 Alpha: Bravo, sending you 3
+2024-10-14 23:53:16.685674 Tango: Bravo, Papa and Alpha, sending you 2
+2024-10-14 23:53:16.687365 India: Echo, sending you 4
+2024-10-14 23:53:16.689081 Alpha: Papa and Yankee, sending you 1
+2024-10-14 23:53:16.690680 Tango: India and Echo, sending you 3
+2024-10-14 23:53:16.692316 India: Papa, sending you 2
+2024-10-14 23:53:16.694275 Papa: Tango and India, sending you 2
+2024-10-14 23:53:16.698695 Papa: Bravo and Echo, sending you 3
+2024-10-14 23:53:16.706680 Papa: Alpha, sending you 1
+2024-10-14 23:53:16.708735 Bravo: Tango, India, Echo and Papa, sending you 4
+2024-10-14 23:53:16.712682 Bravo: Alpha, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions

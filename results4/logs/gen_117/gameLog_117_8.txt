@@ -1,0 +1,1742 @@
+ChatterBot Victor round 1
+ChatterBot Hotel round 1
+ChatterBot Echo round 1
+ChatterBot Sierra round 1
+ChatterBot Foxtrot round 1
+ChatterBot Mike round 1
+ChatterBot Whiskey round 1
+ChatterBot Bravo round 1
+ChatterBot Tango round 1
+ChatterBot Oscar round 1
+randomSelections Hotel: {Hotel} 
+randomSelections Echo: {Echo, Foxtrot, Bravo} 
+2024-10-15 01:02:02.955032 Echo: We would work well together
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:02:02.964775 Foxtrot: Yes
+2024-10-15 01:02:02.965002 Bravo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Sierra: {Sierra, Bravo, Tango, Mike, Hotel} 
+2024-10-15 01:02:02.979703 Sierra: We would work well together
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:02:02.989037 Bravo: No
+2024-10-15 01:02:02.989187 Tango: Yes
+2024-10-15 01:02:02.989292 Mike: Yes
+2024-10-15 01:02:02.989380 Hotel: No
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+randomSelections Victor: {Victor, Tango, Echo, Oscar, Hotel, Bravo} 
+2024-10-15 01:02:03.016960 Victor: We should group up
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:02:03.025727 Tango: No
+2024-10-15 01:02:03.025875 Echo: No
+2024-10-15 01:02:03.026031 Oscar: Yes
+2024-10-15 01:02:03.026135 Hotel: No
+2024-10-15 01:02:03.026241 Bravo: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+randomSelections Whiskey: {Whiskey, Tango, Mike, Hotel, Victor, Echo, Oscar} 
+2024-10-15 01:02:03.182424 Whiskey: We would work well together
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:02:03.191270 Tango: No
+2024-10-15 01:02:03.191517 Mike: No
+2024-10-15 01:02:03.191772 Hotel: No
+2024-10-15 01:02:03.192033 Victor: No
+2024-10-15 01:02:03.192824 Echo: No
+2024-10-15 01:02:03.193030 Oscar: No
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+2024-10-15 01:02:03.269726 Whiskey: Hotel and Mike, sending you 2
+2024-10-15 01:02:03.272754 Victor: Echo, Bravo, Tango and Oscar, sending you 1
+2024-10-15 01:02:03.274354 Echo: Foxtrot, sending you 2
+2024-10-15 01:02:03.275826 Foxtrot: Sending you each 1
+2024-10-15 01:02:03.276541 Whiskey: Tango, sending you 5
+2024-10-15 01:02:03.278684 Bravo: Echo, sending you 4
+2024-10-15 01:02:03.281890 Echo: Bravo, sending you 8
+2024-10-15 01:02:03.283384 Whiskey: Oscar, sending you 1
+2024-10-15 01:02:03.284825 Bravo: Foxtrot, sending you 5
+2024-10-15 01:02:03.285179 Mike: Hotel and Tango, sending you 2
+2024-10-15 01:02:03.285594 Oscar: Victor and Hotel, sending you 3
+2024-10-15 01:02:03.286974 Sierra: Hotel and Bravo, sending you 1
+2024-10-15 01:02:03.287485 Tango: Hotel, Sierra and Bravo, sending you 3
+2024-10-15 01:02:03.288071 Mike: Sierra and Bravo, sending you 1
+2024-10-15 01:02:03.291600 Oscar: Echo and Tango, sending you 1
+2024-10-15 01:02:03.293892 Sierra: Mike, sending you 4
+2024-10-15 01:02:03.295227 Tango: Mike, sending you 2
+2024-10-15 01:02:03.299247 Oscar: Bravo, sending you 2
+2024-10-15 01:02:03.301509 Sierra: Tango, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Victor round 2
+ChatterBot Hotel round 2
+2024-10-15 01:02:04.270544 Hotel: Group up?
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:02:04.322141 Sierra: No
+2024-10-15 01:02:04.322333 Mike: No
+2024-10-15 01:02:04.322481 Whiskey: No
+2024-10-15 01:02:04.322617 Tango: No
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo round 2
+ChatterBot Sierra round 2
+ChatterBot Foxtrot round 2
+ChatterBot Mike round 2
+ChatterBot Whiskey round 2
+2024-10-15 01:02:04.486719 Victor: Can we be friends?
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:02:04.500821 Oscar: No
+2024-10-15 01:02:04.500971 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:02:04.521308 Whiskey: Let's form a team
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:02:04.542287 Hotel: Yes
+2024-10-15 01:02:04.542433 Sierra: Yes
+2024-10-15 01:02:04.542536 Mike: Yes
+2024-10-15 01:02:04.542637 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo round 2
+ChatterBot Tango round 2
+ChatterBot Oscar round 2
+2024-10-15 01:02:04.697067 Mike: We should replace Bravo with Whiskey
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:02:04.718967 Sierra: Yes
+2024-10-15 01:02:04.719191 Tango: Yes
+2024-10-15 01:02:04.719352 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:02:04.797440 Mike: Whiskey we want you to join our group
+2024-10-15 01:02:04.804644 Whiskey: Yes
+2024-10-15 01:02:04.830519 Hotel: Sierra, sending you 1
+2024-10-15 01:02:04.830929 Sierra: Whiskey we want you to join our group
+2024-10-15 01:02:04.838273 Whiskey: Yes
+2024-10-15 01:02:04.863318 Victor: Whiskey and Oscar, sending you 1
+2024-10-15 01:02:04.864360 Hotel: Mike, Whiskey and Tango, sending you 3
+2024-10-15 01:02:04.864789 Tango: Whiskey we want you to join our group
+2024-10-15 01:02:04.871952 Whiskey: Yes
+2024-10-15 01:02:04.897592 Echo: Foxtrot, sending you 4
+2024-10-15 01:02:04.897964 Foxtrot: Same as last round
+2024-10-15 01:02:04.898682 Bravo: Echo, sending you 7
+2024-10-15 01:02:04.898928 Whiskey: Hotel, sending you 1
+2024-10-15 01:02:04.899231 Oscar: Sending you each 3
+chatterbot Hotel submitting transactions
+2024-10-15 01:02:04.967981 Echo: Bravo, sending you 6
+2024-10-15 01:02:04.968737 Mike: Hotel, sending you 1
+2024-10-15 01:02:04.969064 Bravo: Foxtrot, sending you 3
+2024-10-15 01:02:04.969313 Whiskey: Sierra, Mike and Tango, sending you 3
+2024-10-15 01:02:05.018401 Mike: Sierra, Whiskey and Tango, sending you 2
+2024-10-15 01:02:05.019259 Tango: Hotel, sending you 1
+2024-10-15 01:02:05.019631 Sierra: Hotel and Whiskey, sending you 1
+2024-10-15 01:02:05.031839 Tango: Sierra and Mike, sending you 3
+2024-10-15 01:02:05.032248 Sierra: Mike, sending you 2
+2024-10-15 01:02:05.040878 Tango: Whiskey, sending you 4
+2024-10-15 01:02:05.041757 Sierra: Tango, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Victor round 3
+ChatterBot Hotel round 3
+ChatterBot Echo round 3
+ChatterBot Sierra round 3
+ChatterBot Foxtrot round 3
+ChatterBot Mike round 3
+ChatterBot Whiskey round 3
+ChatterBot Bravo round 3
+ChatterBot Tango round 3
+ChatterBot Oscar round 3
+2024-10-15 01:02:06.079085 Whiskey: We should add Oscar
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:02:06.101665 Hotel: No
+2024-10-15 01:02:06.101858 Sierra: No
+2024-10-15 01:02:06.102035 Mike: No
+2024-10-15 01:02:06.102201 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:02:06.210024 Victor: We should drop Whiskey
+2024-10-15 01:02:06.215063 Oscar: Yes
+ChatterBot Victor reevaluating
+2024-10-15 01:02:06.222138 Victor: We should replace Whiskey with Foxtrot
+2024-10-15 01:02:06.227318 Oscar: No
+ChatterBot Victor reevaluating
+2024-10-15 01:02:06.233920 Whiskey: We should add Victor
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:02:06.251557 Hotel: No
+2024-10-15 01:02:06.251787 Sierra: No
+2024-10-15 01:02:06.251964 Mike: No
+2024-10-15 01:02:06.252152 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:02:06.380294 Mike: Sending you each 2
+2024-10-15 01:02:06.381456 Hotel: We should drop Tango
+ChatterBot Whiskey reevaluating
+2024-10-15 01:02:06.391484 Sierra: No
+2024-10-15 01:02:06.392062 Mike: No
+2024-10-15 01:02:06.392163 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:06.438998 Echo: Foxtrot, sending you 4
+2024-10-15 01:02:06.439352 Bravo: Echo, sending you 7
+2024-10-15 01:02:06.439656 Foxtrot: Same as last round
+2024-10-15 01:02:06.440633 Oscar: Same as last round
+2024-10-15 01:02:06.440907 Tango: Hotel, sending you 2
+2024-10-15 01:02:06.441367 Sierra: Hotel, sending you 1
+2024-10-15 01:02:06.444181 Echo: Bravo, sending you 6
+2024-10-15 01:02:06.444458 Bravo: Foxtrot, sending you 3
+2024-10-15 01:02:06.445277 Sierra: Mike and Whiskey, sending you 2
+2024-10-15 01:02:06.445830 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:06.447041 Victor: Same as last round
+2024-10-15 01:02:06.450426 Sierra: Tango, sending you 3
+2024-10-15 01:02:06.464303 Whiskey: Hotel, sending you 3
+2024-10-15 01:02:06.480864 Whiskey: Sierra, sending you 1
+chatterbot Echo submitting transactions
+2024-10-15 01:02:06.487726 Whiskey: Mike, sending you 2
+2024-10-15 01:02:06.495402 Whiskey: Tango, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Victor round 4
+ChatterBot Hotel round 4
+ChatterBot Echo round 4
+ChatterBot Sierra round 4
+ChatterBot Foxtrot round 4
+ChatterBot Mike round 4
+ChatterBot Whiskey round 4
+ChatterBot Bravo round 4
+ChatterBot Tango round 4
+ChatterBot Oscar round 4
+2024-10-15 01:02:07.497580 Echo: We should add Victor and Oscar
+ChatterBot Bravo reevaluating
+2024-10-15 01:02:07.510320 Foxtrot: No
+2024-10-15 01:02:07.511126 Bravo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:02:07.533486 Foxtrot: We should add Victor
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:02:07.540673 Echo: Yes
+2024-10-15 01:02:07.540776 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:02:07.577746 Hotel: We should drop Tango
+2024-10-15 01:02:07.587480 Sierra: No
+2024-10-15 01:02:07.587645 Mike: No
+2024-10-15 01:02:07.587762 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:07.617179 Echo: Victor and Oscar we want you to join our group
+ChatterBot Victor reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:02:07.624306 Victor: No
+2024-10-15 01:02:07.624432 Oscar: No
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:02:07.652537 Victor: We should add Foxtrot
+2024-10-15 01:02:07.652764 Foxtrot: We should add Oscar
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:02:07.663763 Oscar: No
+2024-10-15 01:02:07.663880 Echo: Yes
+2024-10-15 01:02:07.663974 Bravo: Yes
+ChatterBot Victor reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:02:07.681229 Mike: Same as last round
+2024-10-15 01:02:07.684675 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:07.686206 Sierra: Hotel and Mike, sending you 2
+2024-10-15 01:02:07.686789 Foxtrot: Victor we want you to join our group
+ChatterBot Victor reevaluating
+2024-10-15 01:02:07.690830 Victor: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:02:07.701132 Whiskey: Hotel and Tango, sending you 3
+2024-10-15 01:02:07.701562 Tango: Mike, sending you 2
+2024-10-15 01:02:07.701948 Sierra: Whiskey, sending you 1
+2024-10-15 01:02:07.705677 Whiskey: Sierra and Mike, sending you 2
+2024-10-15 01:02:07.706088 Sierra: Tango, sending you 3
+2024-10-15 01:02:07.707672 Oscar: Same as last round
+2024-10-15 01:02:07.708753 Foxtrot: Oscar we want you to join our group
+2024-10-15 01:02:07.713205 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:02:07.730648 Bravo: Victor, sending you 1
+2024-10-15 01:02:07.733659 Bravo: Echo, sending you 5
+2024-10-15 01:02:07.736710 Bravo: Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:07.754663 Echo: Foxtrot, sending you 3
+2024-10-15 01:02:07.757680 Echo: Bravo, sending you 5
+2024-10-15 01:02:07.761676 Foxtrot: Echo and Bravo, sending you 1
+2024-10-15 01:02:07.762671 Echo: Oscar, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Victor round 5
+ChatterBot Hotel round 5
+ChatterBot Echo round 5
+ChatterBot Sierra round 5
+ChatterBot Foxtrot round 5
+ChatterBot Mike round 5
+2024-10-15 01:02:08.935144 Victor: Can we be friends?
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:02:08.949772 Echo: Yes
+2024-10-15 01:02:08.949929 Foxtrot: No
+2024-10-15 01:02:08.950485 Bravo: Yes
+2024-10-15 01:02:08.950610 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey round 5
+ChatterBot Bravo round 5
+ChatterBot Tango round 5
+ChatterBot Oscar round 5
+2024-10-15 01:02:09.230404 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:09.245425 Sierra: No
+2024-10-15 01:02:09.245750 Whiskey: No
+2024-10-15 01:02:09.245999 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:09.294911 Foxtrot: Victor we want you to join our group
+2024-10-15 01:02:09.300850 Victor: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:02:09.321661 Victor: Echo, Foxtrot, Bravo and Oscar, sending you 1
+2024-10-15 01:02:09.327679 Oscar: Same as last round
+2024-10-15 01:02:09.329222 Mike: Same as last round
+2024-10-15 01:02:09.330682 Bravo: Victor, sending you 1
+2024-10-15 01:02:09.334855 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:09.335738 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:09.337328 Bravo: Echo, sending you 5
+2024-10-15 01:02:09.339928 Tango: Mike, sending you 2
+2024-10-15 01:02:09.341148 Sierra: Sending you each 2
+2024-10-15 01:02:09.342823 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:09.343609 Bravo: Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:09.344228 Echo: Victor and Foxtrot, sending you 2
+2024-10-15 01:02:09.345756 Whiskey: Mike, sending you 2
+2024-10-15 01:02:09.348700 Echo: Bravo, sending you 5
+2024-10-15 01:02:09.350443 Whiskey: Tango, sending you 3
+2024-10-15 01:02:09.353705 Echo: Oscar, sending you 1
+2024-10-15 01:02:09.356689 Foxtrot: Echo and Bravo, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Victor round 6
+ChatterBot Hotel round 6
+ChatterBot Echo round 6
+ChatterBot Sierra round 6
+ChatterBot Foxtrot round 6
+ChatterBot Mike round 6
+ChatterBot Whiskey round 6
+ChatterBot Bravo round 6
+ChatterBot Tango round 6
+ChatterBot Oscar round 6
+2024-10-15 01:02:10.480674 Hotel: We should drop Tango
+2024-10-15 01:02:10.487545 Sierra: No
+2024-10-15 01:02:10.487701 Mike: No
+2024-10-15 01:02:10.487810 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:10.518248 Oscar: Can we be friends?
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:02:10.528326 Echo: Yes
+2024-10-15 01:02:10.528482 Foxtrot: Yes
+2024-10-15 01:02:10.528920 Bravo: Yes
+2024-10-15 01:02:10.529036 Victor: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:02:10.604683 Echo: Victor and Foxtrot, sending you 2
+2024-10-15 01:02:10.606659 Whiskey: Hotel and Tango, sending you 3
+2024-10-15 01:02:10.610057 Whiskey: Sierra and Mike, sending you 2
+2024-10-15 01:02:10.610887 Echo: Bravo, sending you 5
+2024-10-15 01:02:10.612668 Sierra: Same as last round
+2024-10-15 01:02:10.613216 Mike: Same as last round
+2024-10-15 01:02:10.613767 Echo: Oscar, sending you 1
+2024-10-15 01:02:10.614686 Bravo: Victor and Foxtrot, sending you 2
+2024-10-15 01:02:10.617705 Victor: Echo, Foxtrot, Bravo and Oscar, sending you 1
+2024-10-15 01:02:10.618668 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:10.619668 Bravo: Echo, sending you 5
+2024-10-15 01:02:10.620783 Foxtrot: Victor, Echo and Bravo, sending you 1
+2024-10-15 01:02:10.621699 Tango: Mike, sending you 2
+2024-10-15 01:02:10.625033 Bravo: Oscar, sending you 1
+2024-10-15 01:02:10.633753 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:10.636681 Oscar: Foxtrot, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Victor round 7
+ChatterBot Hotel round 7
+ChatterBot Echo round 7
+ChatterBot Sierra round 7
+ChatterBot Foxtrot round 7
+ChatterBot Mike round 7
+ChatterBot Whiskey round 7
+ChatterBot Bravo round 7
+ChatterBot Tango round 7
+ChatterBot Oscar round 7
+2024-10-15 01:02:11.746655 Sierra: We should drop Hotel
+2024-10-15 01:02:11.753761 Mike: No
+2024-10-15 01:02:11.753902 Whiskey: No
+2024-10-15 01:02:11.754008 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:11.784178 Hotel: We should drop Sierra
+2024-10-15 01:02:11.792586 Mike: No
+2024-10-15 01:02:11.793361 Whiskey: No
+2024-10-15 01:02:11.793512 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:11.832780 Sierra: Same as last round
+2024-10-15 01:02:11.835737 Mike: Same as last round
+2024-10-15 01:02:11.836663 Whiskey: Hotel and Tango, sending you 3
+2024-10-15 01:02:11.837683 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:11.838097 Victor: Echo, Foxtrot, Bravo and Oscar, sending you 1
+2024-10-15 01:02:11.838686 Foxtrot: Victor, Echo, Bravo and Oscar, sending you 1
+2024-10-15 01:02:11.839694 Whiskey: Sierra and Mike, sending you 2
+2024-10-15 01:02:11.841071 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:11.841683 Bravo: Echo, sending you 4
+2024-10-15 01:02:11.842668 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:11.843682 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:11.844203 Tango: Mike, sending you 2
+2024-10-15 01:02:11.846694 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:11.847198 Echo: Bravo, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Victor round 8
+ChatterBot Hotel round 8
+ChatterBot Echo round 8
+ChatterBot Sierra round 8
+ChatterBot Foxtrot round 8
+ChatterBot Mike round 8
+ChatterBot Whiskey round 8
+ChatterBot Bravo round 8
+ChatterBot Tango round 8
+ChatterBot Oscar round 8
+2024-10-15 01:02:13.070365 Hotel: We should drop Whiskey
+2024-10-15 01:02:13.077679 Sierra: No
+2024-10-15 01:02:13.077850 Mike: No
+2024-10-15 01:02:13.078029 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:13.106697 Victor: Same as last round
+2024-10-15 01:02:13.107909 Foxtrot: Same as last round
+2024-10-15 01:02:13.108387 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:13.114123 Echo: Bravo, sending you 4
+2024-10-15 01:02:13.116668 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:13.117483 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:13.117960 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:13.120666 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:13.121679 Bravo: Echo, sending you 4
+2024-10-15 01:02:13.122131 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:13.122767 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:13.123295 Mike: Same as last round
+2024-10-15 01:02:13.125680 Whiskey: Mike, sending you 2
+2024-10-15 01:02:13.127678 Tango: Mike, sending you 2
+2024-10-15 01:02:13.130675 Whiskey: Tango, sending you 3
+2024-10-15 01:02:13.132705 Sierra: Same as last round
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Victor round 9
+ChatterBot Hotel round 9
+ChatterBot Echo round 9
+ChatterBot Sierra round 9
+ChatterBot Foxtrot round 9
+ChatterBot Mike round 9
+ChatterBot Whiskey round 9
+ChatterBot Bravo round 9
+ChatterBot Tango round 9
+ChatterBot Oscar round 9
+2024-10-15 01:02:14.288908 Hotel: We should drop Mike
+2024-10-15 01:02:14.296218 Sierra: No
+2024-10-15 01:02:14.296417 Whiskey: No
+2024-10-15 01:02:14.296559 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:14.330827 Sierra: We should drop Hotel
+2024-10-15 01:02:14.338488 Mike: No
+2024-10-15 01:02:14.338787 Whiskey: No
+2024-10-15 01:02:14.338946 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:14.367702 Foxtrot: Same as last round
+2024-10-15 01:02:14.368904 Victor: Same as last round
+2024-10-15 01:02:14.369375 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:14.369907 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:14.370255 Mike: Same as last round
+2024-10-15 01:02:14.370678 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:14.371059 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:14.373663 Echo: Bravo, sending you 4
+2024-10-15 01:02:14.374043 Bravo: Echo, sending you 4
+2024-10-15 01:02:14.374671 Tango: Mike, sending you 2
+2024-10-15 01:02:14.375120 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:14.378708 Whiskey: Mike, sending you 2
+2024-10-15 01:02:14.379697 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:14.381675 Whiskey: Tango, sending you 3
+2024-10-15 01:02:14.383658 Oscar: Foxtrot, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Victor round 10
+ChatterBot Hotel round 10
+ChatterBot Echo round 10
+ChatterBot Sierra round 10
+ChatterBot Foxtrot round 10
+ChatterBot Mike round 10
+ChatterBot Whiskey round 10
+ChatterBot Bravo round 10
+ChatterBot Tango round 10
+ChatterBot Oscar round 10
+2024-10-15 01:02:15.548475 Sierra: We should drop Hotel
+2024-10-15 01:02:15.558880 Mike: No
+2024-10-15 01:02:15.559145 Whiskey: No
+2024-10-15 01:02:15.559363 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:15.590617 Hotel: We should drop Sierra
+2024-10-15 01:02:15.597387 Mike: No
+2024-10-15 01:02:15.597553 Whiskey: No
+2024-10-15 01:02:15.597691 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:15.626219 Foxtrot: Same as last round
+2024-10-15 01:02:15.631832 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:15.632684 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:15.633725 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:15.634796 Mike: Same as last round
+2024-10-15 01:02:15.635672 Tango: Mike, sending you 2
+2024-10-15 01:02:15.637666 Bravo: Echo, sending you 4
+2024-10-15 01:02:15.638707 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:15.639187 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:15.641033 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:15.643861 Victor: Same as last round
+2024-10-15 01:02:15.644411 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:15.645048 Echo: Bravo, sending you 4
+2024-10-15 01:02:15.647691 Whiskey: Mike, sending you 2
+2024-10-15 01:02:15.650682 Whiskey: Tango, sending you 3
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Victor round 11
+ChatterBot Hotel round 11
+ChatterBot Echo round 11
+ChatterBot Sierra round 11
+ChatterBot Foxtrot round 11
+ChatterBot Mike round 11
+ChatterBot Whiskey round 11
+ChatterBot Bravo round 11
+ChatterBot Tango round 11
+ChatterBot Oscar round 11
+2024-10-15 01:02:16.556620 Hotel: We should drop Sierra
+2024-10-15 01:02:16.565610 Mike: No
+2024-10-15 01:02:16.565818 Whiskey: No
+2024-10-15 01:02:16.565953 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:16.606116 Victor: Same as last round
+2024-10-15 01:02:16.606844 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:16.610678 Echo: Bravo, sending you 4
+2024-10-15 01:02:16.612677 Mike: Same as last round
+2024-10-15 01:02:16.613429 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:16.617684 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:16.618666 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:16.619678 Sierra: Sending you each 2
+2024-10-15 01:02:16.620961 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:16.621837 Foxtrot: Same as last round
+2024-10-15 01:02:16.623687 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:16.624541 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:16.625880 Tango: Mike, sending you 2
+2024-10-15 01:02:16.628676 Whiskey: Mike, sending you 2
+2024-10-15 01:02:16.629701 Bravo: Echo, sending you 4
+2024-10-15 01:02:16.632678 Whiskey: Tango, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 12
+ChatterBot Hotel round 12
+ChatterBot Echo round 12
+ChatterBot Sierra round 12
+ChatterBot Foxtrot round 12
+ChatterBot Mike round 12
+2024-10-15 01:02:17.696347 Victor: We should add Mike
+2024-10-15 01:02:17.706304 Echo: No
+2024-10-15 01:02:17.706483 Foxtrot: No
+2024-10-15 01:02:17.706633 Bravo: No
+2024-10-15 01:02:17.706783 Oscar: No
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Whiskey round 12
+ChatterBot Bravo round 12
+ChatterBot Tango round 12
+ChatterBot Oscar round 12
+2024-10-15 01:02:17.772440 Hotel: We should drop Sierra
+2024-10-15 01:02:17.778518 Mike: No
+2024-10-15 01:02:17.778658 Whiskey: No
+2024-10-15 01:02:17.778775 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:17.799227 Sierra: We should drop Hotel
+2024-10-15 01:02:17.809541 Mike: No
+2024-10-15 01:02:17.809740 Whiskey: No
+2024-10-15 01:02:17.809918 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:17.834671 Foxtrot: Same as last round
+2024-10-15 01:02:17.835676 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:17.836687 Mike: Same as last round
+2024-10-15 01:02:17.837353 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:17.838646 Bravo: Echo, sending you 4
+2024-10-15 01:02:17.840665 Echo: Bravo, sending you 4
+2024-10-15 01:02:17.849667 Tango: Hotel, sending you 2
+2024-10-15 01:02:17.850685 Victor: Same as last round
+2024-10-15 01:02:17.852691 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:17.853222 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:17.853777 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:17.855694 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:17.856670 Whiskey: Sierra, sending you 2
+2024-10-15 01:02:17.860671 Whiskey: Mike, sending you 1
+2024-10-15 01:02:17.865642 Whiskey: Tango, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 13
+ChatterBot Hotel round 13
+ChatterBot Echo round 13
+ChatterBot Sierra round 13
+ChatterBot Foxtrot round 13
+ChatterBot Mike round 13
+ChatterBot Whiskey round 13
+ChatterBot Bravo round 13
+ChatterBot Tango round 13
+ChatterBot Oscar round 13
+2024-10-15 01:02:19.065217 Sierra: We should drop Hotel
+2024-10-15 01:02:19.082394 Mike: No
+2024-10-15 01:02:19.083067 Whiskey: No
+2024-10-15 01:02:19.084415 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:19.127365 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:19.142653 Sierra: No
+2024-10-15 01:02:19.142824 Whiskey: No
+2024-10-15 01:02:19.142963 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:19.172702 Victor: Same as last round
+2024-10-15 01:02:19.174049 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:19.175569 Tango: Hotel, sending you 2
+2024-10-15 01:02:19.176360 Mike: Same as last round
+2024-10-15 01:02:19.177577 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:19.179189 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:19.180228 Whiskey: Sierra, sending you 2
+2024-10-15 01:02:19.181674 Echo: Bravo, sending you 4
+2024-10-15 01:02:19.183679 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:19.184736 Foxtrot: Same as last round
+2024-10-15 01:02:19.186491 Whiskey: Mike, sending you 1
+2024-10-15 01:02:19.188244 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:19.188810 Bravo: Echo, sending you 4
+2024-10-15 01:02:19.190671 Whiskey: Tango, sending you 3
+2024-10-15 01:02:19.193049 Oscar: Foxtrot, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Victor round 14
+ChatterBot Hotel round 14
+ChatterBot Echo round 14
+ChatterBot Sierra round 14
+ChatterBot Foxtrot round 14
+ChatterBot Mike round 14
+ChatterBot Whiskey round 14
+ChatterBot Bravo round 14
+ChatterBot Tango round 14
+ChatterBot Oscar round 14
+2024-10-15 01:02:20.325273 Hotel: We should drop Tango
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:20.335154 Sierra: No
+2024-10-15 01:02:20.335344 Mike: No
+2024-10-15 01:02:20.335489 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:20.379670 Victor: Same as last round
+2024-10-15 01:02:20.387683 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:20.389669 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:20.391318 Mike: Same as last round
+2024-10-15 01:02:20.391868 Whiskey: Sierra, sending you 2
+2024-10-15 01:02:20.393954 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:20.395664 Bravo: Echo, sending you 4
+2024-10-15 01:02:20.396691 Whiskey: Mike, sending you 1
+2024-10-15 01:02:20.397298 Tango: Hotel, sending you 2
+2024-10-15 01:02:20.397908 Echo: Bravo, sending you 4
+2024-10-15 01:02:20.398336 Foxtrot: Same as last round
+2024-10-15 01:02:20.401136 Whiskey: Tango, sending you 3
+2024-10-15 01:02:20.401900 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:20.402406 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:20.406691 Oscar: Foxtrot, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Victor round 15
+ChatterBot Hotel round 15
+ChatterBot Echo round 15
+ChatterBot Sierra round 15
+ChatterBot Foxtrot round 15
+ChatterBot Mike round 15
+ChatterBot Whiskey round 15
+ChatterBot Bravo round 15
+ChatterBot Tango round 15
+ChatterBot Oscar round 15
+2024-10-15 01:02:21.612383 Hotel: We should drop Sierra
+2024-10-15 01:02:21.618408 Mike: No
+2024-10-15 01:02:21.618553 Whiskey: No
+2024-10-15 01:02:21.618671 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:21.642670 Sierra: Sending you each 2
+2024-10-15 01:02:21.643479 Victor: Same as last round
+2024-10-15 01:02:21.652672 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:21.654181 Tango: Hotel, sending you 2
+2024-10-15 01:02:21.654955 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:21.657664 Bravo: Echo, sending you 4
+2024-10-15 01:02:21.658663 Echo: Bravo, sending you 4
+2024-10-15 01:02:21.659252 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:21.660006 Mike: Same as last round
+2024-10-15 01:02:21.661767 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:21.662303 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:21.662881 Foxtrot: Same as last round
+2024-10-15 01:02:21.664658 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:21.668394 Whiskey: Sierra, sending you 2
+2024-10-15 01:02:21.673656 Whiskey: Mike, sending you 1
+2024-10-15 01:02:21.678683 Whiskey: Tango, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Victor round 16
+ChatterBot Hotel round 16
+ChatterBot Echo round 16
+ChatterBot Sierra round 16
+ChatterBot Foxtrot round 16
+ChatterBot Mike round 16
+ChatterBot Whiskey round 16
+ChatterBot Bravo round 16
+ChatterBot Tango round 16
+ChatterBot Oscar round 16
+2024-10-15 01:02:22.881955 Sierra: We should drop Hotel
+2024-10-15 01:02:22.921202 Mike: No
+2024-10-15 01:02:22.921385 Whiskey: No
+2024-10-15 01:02:22.925548 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:23.012823 Hotel: We should drop Sierra
+2024-10-15 01:02:23.021296 Mike: No
+2024-10-15 01:02:23.021514 Whiskey: No
+2024-10-15 01:02:23.021680 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:23.056688 Mike: Same as last round
+2024-10-15 01:02:23.058663 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:23.061688 Tango: Hotel, sending you 2
+2024-10-15 01:02:23.063805 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:23.065105 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:23.066744 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:23.067686 Whiskey: Mike, sending you 2
+2024-10-15 01:02:23.068904 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:23.070395 Echo: Bravo, sending you 4
+2024-10-15 01:02:23.071682 Bravo: Echo, sending you 4
+2024-10-15 01:02:23.073133 Victor: Same as last round
+2024-10-15 01:02:23.073954 Whiskey: Tango, sending you 3
+2024-10-15 01:02:23.075820 Foxtrot: Same as last round
+2024-10-15 01:02:23.087688 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:23.090667 Oscar: Foxtrot, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Victor round 17
+ChatterBot Hotel round 17
+ChatterBot Echo round 17
+ChatterBot Sierra round 17
+ChatterBot Foxtrot round 17
+ChatterBot Mike round 17
+ChatterBot Whiskey round 17
+ChatterBot Bravo round 17
+ChatterBot Tango round 17
+ChatterBot Oscar round 17
+2024-10-15 01:02:24.109836 Sierra: We should drop Hotel
+2024-10-15 01:02:24.117972 Mike: No
+2024-10-15 01:02:24.118170 Whiskey: No
+2024-10-15 01:02:24.118328 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:24.151727 Hotel: We should drop Whiskey
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:24.159849 Sierra: No
+2024-10-15 01:02:24.160022 Mike: No
+2024-10-15 01:02:24.160157 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:24.184697 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:24.185654 Victor: Same as last round
+2024-10-15 01:02:24.186344 Foxtrot: Same as last round
+2024-10-15 01:02:24.187041 Mike: Same as last round
+2024-10-15 01:02:24.188693 Echo: Bravo, sending you 4
+2024-10-15 01:02:24.192663 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:24.196703 Tango: Hotel, sending you 2
+2024-10-15 01:02:24.197909 Bravo: Echo, sending you 4
+2024-10-15 01:02:24.202672 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:24.203310 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:24.204652 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:24.206670 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:24.208057 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:24.213661 Whiskey: Mike, sending you 2
+2024-10-15 01:02:24.219674 Whiskey: Tango, sending you 3
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Victor round 18
+ChatterBot Hotel round 18
+ChatterBot Echo round 18
+ChatterBot Sierra round 18
+ChatterBot Foxtrot round 18
+ChatterBot Mike round 18
+ChatterBot Whiskey round 18
+ChatterBot Bravo round 18
+ChatterBot Tango round 18
+ChatterBot Oscar round 18
+2024-10-15 01:02:25.384061 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:25.395313 Sierra: No
+2024-10-15 01:02:25.395504 Whiskey: No
+2024-10-15 01:02:25.395675 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:25.432666 Foxtrot: Same as last round
+2024-10-15 01:02:25.433841 Victor: Same as last round
+2024-10-15 01:02:25.436906 Sierra: We should drop Hotel
+2024-10-15 01:02:25.444753 Mike: No
+2024-10-15 01:02:25.444908 Whiskey: No
+2024-10-15 01:02:25.445026 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:25.471668 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:25.472680 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:25.474214 Mike: Same as last round
+2024-10-15 01:02:25.475890 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:25.476716 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:25.477556 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:25.478943 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:25.479841 Bravo: Echo, sending you 4
+2024-10-15 01:02:25.480654 Tango: Mike, sending you 2
+2024-10-15 01:02:25.481901 Echo: Bravo, sending you 4
+2024-10-15 01:02:25.482571 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:25.486674 Whiskey: Mike, sending you 2
+2024-10-15 01:02:25.492730 Whiskey: Tango, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Victor round 19
+ChatterBot Hotel round 19
+ChatterBot Echo round 19
+ChatterBot Sierra round 19
+ChatterBot Foxtrot round 19
+ChatterBot Mike round 19
+ChatterBot Whiskey round 19
+ChatterBot Bravo round 19
+ChatterBot Tango round 19
+ChatterBot Oscar round 19
+2024-10-15 01:02:26.558268 Hotel: We should drop Tango
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:26.570556 Sierra: No
+2024-10-15 01:02:26.570772 Mike: No
+2024-10-15 01:02:26.570940 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:26.608666 Victor: Same as last round
+2024-10-15 01:02:26.610676 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:26.614189 Sierra: We should drop Hotel
+2024-10-15 01:02:26.627 Mike: No
+2024-10-15 01:02:26.628079 Whiskey: No
+2024-10-15 01:02:26.628345 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:26.653843 Echo: Bravo, sending you 4
+2024-10-15 01:02:26.654852 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:26.656677 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:26.657694 Mike: Same as last round
+2024-10-15 01:02:26.659249 Foxtrot: Same as last round
+2024-10-15 01:02:26.659932 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:26.660688 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:26.662089 Bravo: Echo, sending you 4
+2024-10-15 01:02:26.662832 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:26.663694 Tango: Mike, sending you 2
+2024-10-15 01:02:26.665689 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:26.669661 Whiskey: Mike, sending you 2
+2024-10-15 01:02:26.676854 Whiskey: Tango, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Victor round 20
+ChatterBot Hotel round 20
+ChatterBot Echo round 20
+ChatterBot Sierra round 20
+ChatterBot Foxtrot round 20
+ChatterBot Mike round 20
+ChatterBot Whiskey round 20
+ChatterBot Bravo round 20
+ChatterBot Tango round 20
+ChatterBot Oscar round 20
+2024-10-15 01:02:28.082033 Sierra: We should drop Hotel
+2024-10-15 01:02:28.088089 Mike: No
+2024-10-15 01:02:28.088229 Whiskey: No
+2024-10-15 01:02:28.088337 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:28.130806 Hotel: We should drop Sierra
+2024-10-15 01:02:28.138969 Mike: No
+2024-10-15 01:02:28.139104 Whiskey: No
+2024-10-15 01:02:28.139202 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:28.162684 Foxtrot: Same as last round
+2024-10-15 01:02:28.164935 Echo: Foxtrot and Oscar, sending you 3
+2024-10-15 01:02:28.165559 Victor: Same as last round
+2024-10-15 01:02:28.169788 Echo: Bravo, sending you 4
+2024-10-15 01:02:28.170678 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:28.171663 Mike: Same as last round
+2024-10-15 01:02:28.175693 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:28.177906 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:28.180887 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:28.182605 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:28.184808 Bravo: Echo, sending you 4
+2024-10-15 01:02:28.185985 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:28.187862 Tango: Mike, sending you 2
+2024-10-15 01:02:28.191670 Whiskey: Mike, sending you 2
+2024-10-15 01:02:28.195686 Whiskey: Tango, sending you 3
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Victor round 21
+ChatterBot Hotel round 21
+ChatterBot Echo round 21
+ChatterBot Sierra round 21
+ChatterBot Foxtrot round 21
+ChatterBot Mike round 21
+ChatterBot Whiskey round 21
+ChatterBot Bravo round 21
+ChatterBot Tango round 21
+ChatterBot Oscar round 21
+2024-10-15 01:02:29.354137 Echo: We should add Victor
+2024-10-15 01:02:29.363109 Foxtrot: Yes
+2024-10-15 01:02:29.363315 Bravo: Yes
+2024-10-15 01:02:29.364007 Oscar: Yes
+2024-10-15 01:02:29.410193 Echo: Victor we want you to join our group
+2024-10-15 01:02:29.413881 Victor: Yes
+2024-10-15 01:02:29.423937 Sierra: We should drop Hotel
+2024-10-15 01:02:29.435285 Mike: No
+2024-10-15 01:02:29.435499 Whiskey: No
+2024-10-15 01:02:29.435657 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:29.466930 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:29.477148 Sierra: No
+2024-10-15 01:02:29.477316 Whiskey: No
+2024-10-15 01:02:29.477430 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:29.517669 Victor: Same as last round
+2024-10-15 01:02:29.519255 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:29.519911 Foxtrot: Same as last round
+2024-10-15 01:02:29.520625 Mike: Same as last round
+2024-10-15 01:02:29.522124 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:29.523895 Bravo: Echo, sending you 4
+2024-10-15 01:02:29.527907 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:29.528787 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:29.530668 Tango: Mike, sending you 2
+2024-10-15 01:02:29.533709 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:29.535423 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:29.536787 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:29.539664 Echo: Bravo, sending you 4
+2024-10-15 01:02:29.543187 Whiskey: Mike, sending you 2
+2024-10-15 01:02:29.548663 Whiskey: Tango, sending you 3
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Victor round 22
+ChatterBot Hotel round 22
+ChatterBot Echo round 22
+ChatterBot Sierra round 22
+ChatterBot Foxtrot round 22
+ChatterBot Mike round 22
+ChatterBot Whiskey round 22
+ChatterBot Bravo round 22
+ChatterBot Tango round 22
+ChatterBot Oscar round 22
+2024-10-15 01:02:30.545018 Hotel: We should drop Whiskey
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:30.553097 Sierra: No
+2024-10-15 01:02:30.553261 Mike: No
+2024-10-15 01:02:30.553394 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:30.587669 Victor: Same as last round
+2024-10-15 01:02:30.589501 Sierra: We should drop Hotel
+2024-10-15 01:02:30.602919 Mike: No
+2024-10-15 01:02:30.603113 Whiskey: No
+2024-10-15 01:02:30.603244 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:30.645688 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:30.648130 Foxtrot: Same as last round
+2024-10-15 01:02:30.649283 Mike: Same as last round
+2024-10-15 01:02:30.651086 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:30.652881 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:30.654107 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:30.655564 Tango: Mike, sending you 2
+2024-10-15 01:02:30.656875 Echo: Bravo, sending you 4
+2024-10-15 01:02:30.658289 Bravo: Echo, sending you 4
+2024-10-15 01:02:30.659641 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:30.660814 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:30.663920 Whiskey: Mike, sending you 2
+2024-10-15 01:02:30.664890 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:30.667649 Whiskey: Tango, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Victor round 23
+ChatterBot Hotel round 23
+ChatterBot Echo round 23
+ChatterBot Sierra round 23
+ChatterBot Foxtrot round 23
+ChatterBot Mike round 23
+ChatterBot Whiskey round 23
+ChatterBot Bravo round 23
+ChatterBot Tango round 23
+ChatterBot Oscar round 23
+2024-10-15 01:02:31.926890 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:31.945311 Sierra: No
+2024-10-15 01:02:31.946390 Whiskey: No
+2024-10-15 01:02:31.947044 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:32.040794 Sierra: We should drop Hotel
+2024-10-15 01:02:32.055527 Mike: No
+2024-10-15 01:02:32.055875 Whiskey: No
+2024-10-15 01:02:32.056081 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:32.110302 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:32.117683 Mike: Same as last round
+2024-10-15 01:02:32.120074 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:32.122859 Victor: Same as last round
+2024-10-15 01:02:32.125108 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:32.127181 Foxtrot: Same as last round
+2024-10-15 01:02:32.129273 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:32.131224 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:32.133310 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:32.135441 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:32.137721 Bravo: Echo, sending you 4
+2024-10-15 01:02:32.139655 Echo: Bravo, sending you 4
+2024-10-15 01:02:32.141244 Tango: Mike, sending you 2
+2024-10-15 01:02:32.143119 Whiskey: Mike, sending you 2
+2024-10-15 01:02:32.149723 Whiskey: Tango, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Victor round 24
+ChatterBot Hotel round 24
+ChatterBot Echo round 24
+ChatterBot Sierra round 24
+ChatterBot Foxtrot round 24
+ChatterBot Mike round 24
+ChatterBot Whiskey round 24
+ChatterBot Bravo round 24
+ChatterBot Tango round 24
+ChatterBot Oscar round 24
+2024-10-15 01:02:33.135752 Hotel: We should drop Sierra
+2024-10-15 01:02:33.146175 Mike: No
+2024-10-15 01:02:33.147530 Whiskey: No
+2024-10-15 01:02:33.147706 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:33.181650 Sierra: We should drop Hotel
+2024-10-15 01:02:33.190414 Mike: No
+2024-10-15 01:02:33.190556 Whiskey: No
+2024-10-15 01:02:33.190667 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:33.219714 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:33.221068 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:33.222981 Victor: Same as last round
+2024-10-15 01:02:33.223882 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:33.225319 Foxtrot: Same as last round
+2024-10-15 01:02:33.226040 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:33.226694 Echo: Bravo, sending you 4
+2024-10-15 01:02:33.228827 Mike: Same as last round
+2024-10-15 01:02:33.230564 Bravo: Echo, sending you 4
+2024-10-15 01:02:33.232681 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:33.234104 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:33.237664 Tango: Mike, sending you 2
+2024-10-15 01:02:33.239692 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:33.247670 Whiskey: Mike, sending you 2
+2024-10-15 01:02:33.252671 Whiskey: Tango, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 25
+ChatterBot Hotel round 25
+ChatterBot Echo round 25
+ChatterBot Sierra round 25
+ChatterBot Foxtrot round 25
+ChatterBot Mike round 25
+ChatterBot Whiskey round 25
+ChatterBot Bravo round 25
+ChatterBot Tango round 25
+ChatterBot Oscar round 25
+2024-10-15 01:02:34.333124 Victor: We should add Sierra
+2024-10-15 01:02:34.344176 Echo: No
+2024-10-15 01:02:34.344337 Foxtrot: No
+2024-10-15 01:02:34.344459 Bravo: No
+2024-10-15 01:02:34.344573 Oscar: No
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-15 01:02:34.402712 Sierra: We should drop Hotel
+2024-10-15 01:02:34.410617 Mike: No
+2024-10-15 01:02:34.410772 Whiskey: No
+2024-10-15 01:02:34.410892 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:34.433429 Hotel: We should drop Tango
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:34.439958 Sierra: No
+2024-10-15 01:02:34.440091 Mike: No
+2024-10-15 01:02:34.440210 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:34.463687 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:34.466200 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:34.469671 Echo: Bravo, sending you 4
+2024-10-15 01:02:34.470659 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:34.471378 Tango: Hotel, sending you 2
+2024-10-15 01:02:34.473225 Foxtrot: Same as last round
+2024-10-15 01:02:34.474702 Whiskey: Mike, sending you 2
+2024-10-15 01:02:34.475714 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:34.477867 Tango: Sierra, Mike and Whiskey, sending you 3
+2024-10-15 01:02:34.479164 Mike: Same as last round
+2024-10-15 01:02:34.480293 Whiskey: Tango, sending you 3
+2024-10-15 01:02:34.482814 Victor: Same as last round
+2024-10-15 01:02:34.483822 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:34.485536 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:34.491122 Bravo: Echo, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Victor round 26
+ChatterBot Hotel round 26
+ChatterBot Echo round 26
+ChatterBot Sierra round 26
+ChatterBot Foxtrot round 26
+ChatterBot Mike round 26
+ChatterBot Whiskey round 26
+ChatterBot Bravo round 26
+ChatterBot Tango round 26
+ChatterBot Oscar round 26
+2024-10-15 01:02:35.768636 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:35.784044 Sierra: No
+2024-10-15 01:02:35.784262 Whiskey: No
+2024-10-15 01:02:35.784429 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:35.857508 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:35.860801 Sierra: We should drop Hotel
+2024-10-15 01:02:35.874764 Mike: No
+2024-10-15 01:02:35.874970 Whiskey: No
+2024-10-15 01:02:35.875135 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:35.921049 Echo: Bravo, sending you 4
+2024-10-15 01:02:35.923083 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:35.925003 Mike: Same as last round
+2024-10-15 01:02:35.926938 Foxtrot: Same as last round
+2024-10-15 01:02:35.928799 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:35.931387 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:35.933628 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:35.935725 Victor: Same as last round
+2024-10-15 01:02:35.937401 Tango: Mike, sending you 2
+2024-10-15 01:02:35.939047 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:35.941850 Bravo: Echo, sending you 4
+2024-10-15 01:02:35.943874 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:35.945497 Whiskey: Mike, sending you 2
+2024-10-15 01:02:35.950676 Whiskey: Tango, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 27
+ChatterBot Hotel round 27
+ChatterBot Echo round 27
+ChatterBot Sierra round 27
+ChatterBot Foxtrot round 27
+ChatterBot Mike round 27
+ChatterBot Whiskey round 27
+ChatterBot Bravo round 27
+ChatterBot Tango round 27
+ChatterBot Oscar round 27
+2024-10-15 01:02:37.580224 Hotel: We should drop Sierra
+2024-10-15 01:02:37.590090 Mike: No
+2024-10-15 01:02:37.590797 Whiskey: No
+2024-10-15 01:02:37.590913 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:37.627575 Sierra: We should drop Hotel
+2024-10-15 01:02:37.638231 Mike: No
+2024-10-15 01:02:37.638411 Whiskey: No
+2024-10-15 01:02:37.638554 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:37.668979 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:37.670788 Victor: Same as last round
+2024-10-15 01:02:37.673258 Whiskey: Hotel, sending you 4
+2024-10-15 01:02:37.676377 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:37.678124 Bravo: Echo, sending you 4
+2024-10-15 01:02:37.681045 Whiskey: Sierra, sending you 1
+2024-10-15 01:02:37.683965 Echo: Bravo, sending you 4
+2024-10-15 01:02:37.685468 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:37.687888 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:37.690823 Foxtrot: Same as last round
+2024-10-15 01:02:37.693872 Whiskey: Mike, sending you 2
+2024-10-15 01:02:37.695494 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:37.697825 Mike: Same as last round
+2024-10-15 01:02:37.699415 Tango: Mike, sending you 2
+2024-10-15 01:02:37.700543 Whiskey: Tango, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Victor round 28
+ChatterBot Hotel round 28
+ChatterBot Echo round 28
+ChatterBot Sierra round 28
+ChatterBot Foxtrot round 28
+ChatterBot Mike round 28
+ChatterBot Whiskey round 28
+ChatterBot Bravo round 28
+ChatterBot Tango round 28
+ChatterBot Oscar round 28
+2024-10-15 01:02:38.878279 Hotel: We should drop Whiskey
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:38.889276 Sierra: No
+2024-10-15 01:02:38.889733 Mike: No
+2024-10-15 01:02:38.890121 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:38.967324 Sierra: We should drop Hotel
+2024-10-15 01:02:38.978762 Mike: No
+2024-10-15 01:02:38.979003 Whiskey: No
+2024-10-15 01:02:38.979334 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:39.020664 Foxtrot: Same as last round
+2024-10-15 01:02:39.023875 Whiskey: Hotel and Tango, sending you 3
+2024-10-15 01:02:39.028811 Mike: Same as last round
+2024-10-15 01:02:39.034377 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:39.039821 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:39.043210 Victor: Same as last round
+2024-10-15 01:02:39.046288 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:39.050622 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:39.053630 Whiskey: Sierra and Mike, sending you 2
+2024-10-15 01:02:39.058730 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:39.061704 Echo: Bravo, sending you 4
+2024-10-15 01:02:39.064467 Tango: Mike, sending you 2
+2024-10-15 01:02:39.068762 Bravo: Echo, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Victor round 29
+ChatterBot Hotel round 29
+ChatterBot Echo round 29
+ChatterBot Sierra round 29
+ChatterBot Foxtrot round 29
+ChatterBot Mike round 29
+ChatterBot Whiskey round 29
+ChatterBot Bravo round 29
+ChatterBot Tango round 29
+ChatterBot Oscar round 29
+2024-10-15 01:02:40.381821 Sierra: We should drop Hotel
+2024-10-15 01:02:40.393690 Mike: No
+2024-10-15 01:02:40.394532 Whiskey: No
+2024-10-15 01:02:40.394780 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:40.433081 Hotel: We should drop Sierra
+2024-10-15 01:02:40.444506 Mike: No
+2024-10-15 01:02:40.445316 Whiskey: No
+2024-10-15 01:02:40.445522 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:02:40.490964 Echo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:40.494360 Victor: Same as last round
+2024-10-15 01:02:40.498149 Echo: Bravo, sending you 4
+2024-10-15 01:02:40.528224 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:40.531594 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:40.536533 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:40.539829 Mike: Same as last round
+2024-10-15 01:02:40.544409 Bravo: Echo, sending you 4
+2024-10-15 01:02:40.562206 Foxtrot: Same as last round
+2024-10-15 01:02:40.569726 Tango: Mike, sending you 2
+2024-10-15 01:02:40.574948 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:40.580149 Whiskey: Hotel and Tango, sending you 3
+2024-10-15 01:02:40.593160 Whiskey: Sierra and Mike, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Victor round 30
+ChatterBot Hotel round 30
+ChatterBot Echo round 30
+ChatterBot Sierra round 30
+ChatterBot Foxtrot round 30
+ChatterBot Mike round 30
+ChatterBot Whiskey round 30
+ChatterBot Bravo round 30
+ChatterBot Tango round 30
+ChatterBot Oscar round 30
+2024-10-15 01:02:41.583340 Sierra: We should drop Hotel
+2024-10-15 01:02:41.592067 Mike: No
+2024-10-15 01:02:41.592225 Whiskey: No
+2024-10-15 01:02:41.592353 Tango: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:41.638747 Hotel: We should drop Mike
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:41.649322 Sierra: No
+2024-10-15 01:02:41.649492 Whiskey: No
+2024-10-15 01:02:41.649643 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:02:41.678679 Foxtrot: We should drop Oscar
+2024-10-15 01:02:41.685825 Echo: No
+2024-10-15 01:02:41.685969 Bravo: No
+2024-10-15 01:02:41.686075 Victor: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:02:41.712691 Mike: Same as last round
+2024-10-15 01:02:41.716040 Victor: Same as last round
+2024-10-15 01:02:41.717599 Whiskey: Hotel and Tango, sending you 3
+2024-10-15 01:02:41.719147 Oscar: Victor, Echo and Bravo, sending you 3
+2024-10-15 01:02:41.721675 Whiskey: Sierra and Mike, sending you 2
+2024-10-15 01:02:41.722790 Oscar: Foxtrot, sending you 2
+2024-10-15 01:02:41.727210 Tango: Hotel, Sierra and Whiskey, sending you 3
+2024-10-15 01:02:41.728690 Foxtrot: Same as last round
+2024-10-15 01:02:41.731259 Tango: Mike, sending you 2
+2024-10-15 01:02:41.733963 Bravo: Victor, Foxtrot and Oscar, sending you 2
+2024-10-15 01:02:41.738692 Bravo: Echo, sending you 4
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Sierra submitting transactions

@@ -1,0 +1,1211 @@
+ChatterBot Lima round 1
+ChatterBot Bravo round 1
+ChatterBot Papa round 1
+ChatterBot India round 1
+randomSelections Papa: {Papa} 
+ChatterBot Golf round 1
+ChatterBot Alpha round 1
+ChatterBot Romeo round 1
+ChatterBot Hotel round 1
+ChatterBot X-ray round 1
+ChatterBot November round 1
+randomSelections Bravo: {Bravo, India, Hotel, Papa} 
+2024-10-14 23:19:37.610690 Bravo: Friends?
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:37.625089 India: Yes
+2024-10-14 23:19:37.625288 Hotel: Yes
+2024-10-14 23:19:37.625456 Papa: No
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+randomSelections Alpha: {Alpha, India} 
+2024-10-14 23:19:37.707241 Alpha: Group up?
+ChatterBot India reevaluating
+2024-10-14 23:19:37.723559 India: No
+randomSelections Romeo: {Romeo} 
+randomSelections Lima: {Lima, November, Papa, Romeo} 
+2024-10-14 23:19:37.757001 Lima: Let's form a team
+ChatterBot November reevaluating
+2024-10-14 23:19:37.765044 November: Yes
+2024-10-14 23:19:37.765283 Papa: No
+2024-10-14 23:19:37.766537 Romeo: No
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+randomSelections Golf: {Golf, November} 
+2024-10-14 23:19:37.789688 Golf: Let's form a team
+ChatterBot November reevaluating
+2024-10-14 23:19:37.792008 November: No
+randomSelections X-ray: {X-ray, Alpha, Romeo, Papa, Golf} 
+2024-10-14 23:19:37.798992 X-ray: Can we be friends?
+2024-10-14 23:19:37.806729 Alpha: No
+2024-10-14 23:19:37.806945 Romeo: No
+2024-10-14 23:19:37.807137 Papa: No
+2024-10-14 23:19:37.807371 Golf: No
+2024-10-14 23:19:37.849717 X-ray: Papa, Golf and Alpha, sending you 1
+2024-10-14 23:19:37.851695 Bravo: Papa, sending you 5
+2024-10-14 23:19:37.852463 Lima: Papa, sending you 2
+2024-10-14 23:19:37.853668 November: Lima, sending you 2
+2024-10-14 23:19:37.854695 Golf: Sending you 7
+2024-10-14 23:19:37.856688 Bravo: India, sending you 4
+2024-10-14 23:19:37.858049 November: Papa and Romeo, sending you 3
+2024-10-14 23:19:37.862217 Bravo: Hotel, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 2
+ChatterBot Bravo round 2
+ChatterBot Papa round 2
+ChatterBot India round 2
+ChatterBot Golf round 2
+ChatterBot Alpha round 2
+ChatterBot Romeo round 2
+ChatterBot Hotel round 2
+ChatterBot X-ray round 2
+ChatterBot November round 2
+2024-10-14 23:19:43.085453 Lima: Friends?
+ChatterBot Golf reevaluating
+ChatterBot November reevaluating
+2024-10-14 23:19:43.134907 Golf: No
+2024-10-14 23:19:43.135690 November: No
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 23:19:43.225781 Alpha: We should replace India with X-ray
+2024-10-14 23:19:43.329681 Bravo: We should drop Hotel
+2024-10-14 23:19:43.375425 Papa: Yes
+2024-10-14 23:19:43.375718 India: Yes
+2024-10-14 23:19:43.445465 Alpha: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:43.456778 X-ray: No
+2024-10-14 23:19:43.468400 X-ray: Friends?
+2024-10-14 23:19:43.498083 Bravo: No
+2024-10-14 23:19:43.498236 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:43.550677 Hotel: We should drop India
+2024-10-14 23:19:43.584529 Bravo: No
+2024-10-14 23:19:43.584736 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:43.784400 Bravo: Let's form a team
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:43.831507 X-ray: Yes
+2024-10-14 23:19:43.831744 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:43.926743 Golf: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:43.946988 X-ray: No
+ChatterBot Golf reevaluating
+2024-10-14 23:19:43.975177 Golf: We should replace November with Lima
+2024-10-14 23:19:43.976492 Hotel: We should drop India and Papa
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:44.001674 Bravo: No
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:44.023922 Lima: November, sending you 2
+2024-10-14 23:19:44.025444 Papa: Sending you 3
+2024-10-14 23:19:44.026727 Golf: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 23:19:44.046255 Lima: No
+chatterbot Romeo submitting transactions
+2024-10-14 23:19:44.065865 November: Sending you 8
+2024-10-14 23:19:44.074491 Alpha: Sending you 8
+2024-10-14 23:19:44.074868 X-ray: Sending you 3
+2024-10-14 23:19:44.115624 Bravo: Sending you each 6
+2024-10-14 23:19:44.116788 Lima: Sorry, I'm actually sending you 0
+2024-10-14 23:19:44.152396 Golf: Sending you 7
+2024-10-14 23:19:44.152696 Hotel: Sending you 5
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 3
+ChatterBot Bravo round 3
+ChatterBot Papa round 3
+ChatterBot India round 3
+ChatterBot Golf round 3
+2024-10-14 23:19:45.025211 Bravo: We should add Hotel
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:45.054270 X-ray: No
+2024-10-14 23:19:45.054560 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha round 3
+ChatterBot Romeo round 3
+ChatterBot Hotel round 3
+ChatterBot X-ray round 3
+ChatterBot November round 3
+2024-10-14 23:19:45.171141 Golf: We should replace Lima with November
+2024-10-14 23:19:45.221713 Hotel: We should add Papa
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.234637 Bravo: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:45.262217 X-ray: We should add Alpha
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.276579 Bravo: No
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:45.291324 Golf: November we want you to join our group
+2024-10-14 23:19:45.305029 November: Yes
+2024-10-14 23:19:45.318195 Hotel: We should add Papa and Romeo
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.332499 Bravo: No
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:45.347655 X-ray: We should add Papa and Hotel
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.360972 Bravo: Yes
+2024-10-14 23:19:45.374563 Lima: Golf, sending you 2
+2024-10-14 23:19:45.375051 X-ray: Papa and Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:45.400033 Papa: No
+2024-10-14 23:19:45.400269 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.475398 Hotel: We should add Papa and X-ray
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.488381 Bravo: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:45.503574 Alpha: Same as last round
+2024-10-14 23:19:45.503905 Papa: Same as last round
+2024-10-14 23:19:45.504193 November: Same as last round
+2024-10-14 23:19:45.511848 Hotel: Papa and X-ray we want you to join our group
+2024-10-14 23:19:45.528294 X-ray: Yes
+2024-10-14 23:19:45.528897 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:45.572676 Golf: Sending you 6
+2024-10-14 23:19:45.577478 X-ray: Bravo, sending you 3
+2024-10-14 23:19:45.578983 Bravo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:45.587311 Hotel: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 23:19:45.618530 X-ray: Papa and Hotel, sending you 1
+2024-10-14 23:19:45.647924 Bravo: Papa and Hotel, sending you 1
+2024-10-14 23:19:45.657665 Hotel: Bravo, sending you 3
+2024-10-14 23:19:45.662670 Hotel: Papa and X-ray, sending you 1
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 4
+ChatterBot Bravo round 4
+ChatterBot Papa round 4
+ChatterBot India round 4
+ChatterBot Golf round 4
+ChatterBot Alpha round 4
+ChatterBot Romeo round 4
+2024-10-14 23:19:46.473752 Alpha: We should replace X-ray with Lima
+ChatterBot Hotel round 4
+ChatterBot X-ray round 4
+ChatterBot November round 4
+2024-10-14 23:19:46.527243 X-ray: We should add Alpha
+2024-10-14 23:19:46.561913 Bravo: No
+2024-10-14 23:19:46.562206 Papa: No
+2024-10-14 23:19:46.562895 Hotel: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:19:46.636986 Alpha: Lima we want you to join our group
+2024-10-14 23:19:46.642269 Lima: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:46.650165 Alpha: We should replace X-ray with Romeo
+2024-10-14 23:19:46.660353 Alpha: Romeo we want you to join our group
+2024-10-14 23:19:46.671398 Romeo: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:46.683784 Alpha: We should replace X-ray with India
+2024-10-14 23:19:46.684054 Golf: Same as last round
+2024-10-14 23:19:46.684319 Lima: Golf, sending you 2
+2024-10-14 23:19:46.684584 Bravo: Sending you each 4
+2024-10-14 23:19:46.687716 Papa: Same as last round
+2024-10-14 23:19:46.688124 Hotel: Bravo, sending you 3
+2024-10-14 23:19:46.690691 Alpha: India we want you to join our group
+2024-10-14 23:19:46.698513 India: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:46.712083 Hotel: X-ray, sending you 2
+2024-10-14 23:19:46.715691 X-ray: Bravo and Hotel, sending you 3
+2024-10-14 23:19:46.717822 November: Sending you 1
+2024-10-14 23:19:46.718217 November: I was attacked by Bravo
+ChatterBot Golf reevaluating
+2024-10-14 23:19:46.727313 November: Ow
+2024-10-14 23:19:46.727737 X-ray: Papa, sending you 1
+2024-10-14 23:19:46.738680 Alpha: Same as last round
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 5
+ChatterBot Bravo round 5
+ChatterBot Papa round 5
+ChatterBot India round 5
+ChatterBot Golf round 5
+ChatterBot Alpha round 5
+ChatterBot Romeo round 5
+ChatterBot Hotel round 5
+ChatterBot X-ray round 5
+ChatterBot November round 5
+2024-10-14 23:19:47.643339 Papa: We should add Hotel
+2024-10-14 23:19:47.656261 Bravo: Yes
+2024-10-14 23:19:47.675785 Alpha: We should replace X-ray with Lima
+2024-10-14 23:19:47.711030 Papa: Hotel we want you to join our group
+2024-10-14 23:19:47.718907 Hotel: Yes
+2024-10-14 23:19:47.733981 Alpha: Lima we want you to join our group
+2024-10-14 23:19:47.739549 Lima: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:47.746525 Alpha: We should replace X-ray with Romeo
+2024-10-14 23:19:47.746842 Lima: Golf, sending you 2
+2024-10-14 23:19:47.750159 Bravo: Same as last round
+2024-10-14 23:19:47.752066 Golf: Same as last round
+2024-10-14 23:19:47.754694 Alpha: Romeo we want you to join our group
+2024-10-14 23:19:47.763298 Romeo: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:47.770588 Alpha: We should replace X-ray with India
+2024-10-14 23:19:47.770857 X-ray: Bravo, sending you 2
+2024-10-14 23:19:47.773960 Hotel: Bravo, sending you 3
+2024-10-14 23:19:47.774341 Papa: Sending you each 3
+2024-10-14 23:19:47.775672 Alpha: India we want you to join our group
+2024-10-14 23:19:47.782274 India: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:47.788941 Alpha: We should replace X-ray with Papa
+2024-10-14 23:19:47.789531 November: Sending you 5
+2024-10-14 23:19:47.789825 X-ray: Papa, sending you 1
+2024-10-14 23:19:47.790108 Hotel: X-ray, sending you 2
+2024-10-14 23:19:47.794718 X-ray: Hotel, sending you 3
+2024-10-14 23:19:47.796754 Alpha: Papa we want you to join our group
+2024-10-14 23:19:47.803480 Papa: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:47.834663 Alpha: Sending you 8
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Lima round 6
+ChatterBot Bravo round 6
+ChatterBot Papa round 6
+ChatterBot India round 6
+ChatterBot Golf round 6
+ChatterBot Alpha round 6
+ChatterBot Romeo round 6
+ChatterBot Hotel round 6
+ChatterBot X-ray round 6
+ChatterBot November round 6
+2024-10-14 23:19:48.872748 Alpha: We should replace India with Romeo
+2024-10-14 23:19:48.882792 Alpha: Romeo we want you to join our group
+2024-10-14 23:19:48.888671 Romeo: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:48.895385 Alpha: We should replace India with Lima
+2024-10-14 23:19:48.895622 Lima: Golf, sending you 2
+2024-10-14 23:19:48.898657 Golf: Same as last round
+2024-10-14 23:19:48.899665 November: Sending you 8
+2024-10-14 23:19:48.900682 Bravo: Same as last round
+2024-10-14 23:19:48.901185 Hotel: Bravo and X-ray, sending you 2
+2024-10-14 23:19:48.904666 Alpha: Lima we want you to join our group
+2024-10-14 23:19:48.912795 Lima: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:48.921847 Hotel: Papa, sending you 1
+2024-10-14 23:19:48.924682 X-ray: Bravo, sending you 2
+2024-10-14 23:19:48.929705 X-ray: Papa, sending you 1
+2024-10-14 23:19:48.934803 X-ray: Hotel, sending you 3
+2024-10-14 23:19:48.953677 Alpha: Sending you 8
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 7
+ChatterBot Bravo round 7
+ChatterBot Papa round 7
+ChatterBot India round 7
+ChatterBot Golf round 7
+ChatterBot Alpha round 7
+ChatterBot Romeo round 7
+ChatterBot Hotel round 7
+ChatterBot X-ray round 7
+ChatterBot November round 7
+2024-10-14 23:19:50.181661 Alpha: We should replace Lima with Papa
+2024-10-14 23:19:50.216403 Alpha: Papa we want you to join our group
+2024-10-14 23:19:50.224181 Papa: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:50.231032 Alpha: We should replace Lima with Romeo
+2024-10-14 23:19:50.234292 Bravo: Same as last round
+2024-10-14 23:19:50.234908 Hotel: Bravo and X-ray, sending you 2
+2024-10-14 23:19:50.237681 Alpha: Romeo we want you to join our group
+2024-10-14 23:19:50.247793 Romeo: No
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:50.257667 Lima: Sending you 2
+2024-10-14 23:19:50.258114 Hotel: Papa, sending you 1
+2024-10-14 23:19:50.259151 X-ray: I was attacked by Papa
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:50.293449 X-ray: I'm keeping this round to protect myself
+2024-10-14 23:19:50.294651 X-ray: Ow
+2024-10-14 23:19:50.295513 Golf: Same as last round
+2024-10-14 23:19:50.299668 November: Same as last round
+2024-10-14 23:19:50.323708 Alpha: Sending you 8
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 8
+ChatterBot Bravo round 8
+ChatterBot Papa round 8
+ChatterBot India round 8
+ChatterBot Golf round 8
+ChatterBot Alpha round 8
+ChatterBot Romeo round 8
+ChatterBot Hotel round 8
+ChatterBot X-ray round 8
+ChatterBot November round 8
+2024-10-14 23:19:51.488557 Alpha: We should replace Romeo with Lima
+2024-10-14 23:19:51.538721 Alpha: Lima we want you to join our group
+2024-10-14 23:19:51.545889 Lima: Yes
+2024-10-14 23:19:51.552315 X-ray: We should drop Papa
+2024-10-14 23:19:51.562785 Bravo: No
+2024-10-14 23:19:51.562980 Hotel: No
+2024-10-14 23:19:51.586992 Bravo: Papa, sending you 3
+2024-10-14 23:19:51.588089 Lima: Same as last round
+2024-10-14 23:19:51.629124 Hotel: Bravo and X-ray, sending you 2
+2024-10-14 23:19:51.629609 November: Same as last round
+2024-10-14 23:19:51.629858 Bravo: Hotel, sending you 5
+2024-10-14 23:19:51.630153 Golf: Same as last round
+2024-10-14 23:19:51.630831 X-ray: I was attacked by Papa
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 23:19:51.642963 X-ray: I'm keeping this round to protect myself
+2024-10-14 23:19:51.643468 X-ray: Ow
+2024-10-14 23:19:51.643785 Alpha: Sending you 8
+chatterbot November submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 9
+ChatterBot Bravo round 9
+ChatterBot Papa round 9
+ChatterBot India round 9
+ChatterBot Golf round 9
+ChatterBot Alpha round 9
+ChatterBot Romeo round 9
+ChatterBot Hotel round 9
+ChatterBot X-ray round 9
+ChatterBot November round 9
+2024-10-14 23:19:52.876298 X-ray: We should add Papa
+2024-10-14 23:19:52.887998 Bravo: Yes
+2024-10-14 23:19:52.888176 Hotel: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 23:19:52.909673 Lima: Same as last round
+2024-10-14 23:19:52.916752 Golf: Same as last round
+2024-10-14 23:19:52.920686 Romeo: I was attacked by Papa
+2024-10-14 23:19:52.921037 Romeo: I'm keeping this round to protect myself
+2024-10-14 23:19:52.921680 Romeo: Ow
+2024-10-14 23:19:52.921989 Hotel: Bravo and X-ray, sending you 2
+2024-10-14 23:19:52.923660 Bravo: Papa, sending you 2
+2024-10-14 23:19:52.925682 Hotel: Papa, sending you 1
+2024-10-14 23:19:52.928669 Alpha: Same as last round
+2024-10-14 23:19:52.928941 Bravo: Hotel, sending you 6
+2024-10-14 23:19:52.930274 November: Same as last round
+2024-10-14 23:19:52.932331 Bravo: X-ray, sending you 4
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Lima round 10
+ChatterBot Bravo round 10
+ChatterBot Papa round 10
+ChatterBot India round 10
+ChatterBot Golf round 10
+ChatterBot Alpha round 10
+ChatterBot Romeo round 10
+ChatterBot Hotel round 10
+ChatterBot X-ray round 10
+ChatterBot November round 10
+2024-10-14 23:19:54.164535 Golf: I was attacked by Papa
+ChatterBot November reevaluating
+2024-10-14 23:19:54.170307 Golf: I'm keeping this round to protect myself
+2024-10-14 23:19:54.171328 Golf: Ow
+2024-10-14 23:19:54.171694 Alpha: Same as last round
+2024-10-14 23:19:54.172065 Bravo: Papa, sending you 2
+2024-10-14 23:19:54.173171 Lima: Same as last round
+2024-10-14 23:19:54.177344 Bravo: Hotel, sending you 7
+2024-10-14 23:19:54.182690 Bravo: X-ray, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+ChatterBot Lima round 11
+ChatterBot Bravo round 11
+ChatterBot Papa round 11
+ChatterBot India round 11
+ChatterBot Golf round 11
+ChatterBot Alpha round 11
+ChatterBot Romeo round 11
+ChatterBot Hotel round 11
+ChatterBot X-ray round 11
+ChatterBot November round 11
+2024-10-14 23:19:55.578026 Golf: I was attacked by Hotel
+ChatterBot November reevaluating
+2024-10-14 23:19:55.585115 Golf: I'm keeping this round to protect myself
+2024-10-14 23:19:55.585572 Golf: Ow
+2024-10-14 23:19:55.588941 Lima: Same as last round
+2024-10-14 23:19:55.589788 Alpha: Same as last round
+2024-10-14 23:19:55.590799 Bravo: Papa, sending you 2
+2024-10-14 23:19:55.596777 Bravo: Hotel, sending you 7
+2024-10-14 23:19:55.602989 Bravo: X-ray, sending you 3
+2024-10-14 23:19:55.615948 November: Sorry, I'm actually sending you 0
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 12
+ChatterBot Bravo round 12
+ChatterBot Papa round 12
+ChatterBot India round 12
+ChatterBot Golf round 12
+ChatterBot Alpha round 12
+ChatterBot Romeo round 12
+ChatterBot Hotel round 12
+ChatterBot X-ray round 12
+ChatterBot November round 12
+2024-10-14 23:19:56.894322 Papa: We should drop Hotel
+2024-10-14 23:19:56.902635 Bravo: No
+2024-10-14 23:19:57.005263 Alpha: Same as last round
+2024-10-14 23:19:57.006206 Lima: Same as last round
+2024-10-14 23:19:57.006511 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:57.017189 Lima: Ow
+2024-10-14 23:19:57.017766 Bravo: Papa, sending you 2
+2024-10-14 23:19:57.019002 November: I was attacked by Papa
+ChatterBot Golf reevaluating
+2024-10-14 23:19:57.028384 November: I'm keeping this round to protect myself
+2024-10-14 23:19:57.029520 November: Ow
+2024-10-14 23:19:57.029946 Bravo: Hotel, sending you 7
+2024-10-14 23:19:57.032668 X-ray: Bravo, sending you 1
+2024-10-14 23:19:57.033730 Papa: Sending you 3
+2024-10-14 23:19:57.034720 Bravo: X-ray, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Lima round 13
+ChatterBot Bravo round 13
+ChatterBot Papa round 13
+ChatterBot India round 13
+ChatterBot Golf round 13
+ChatterBot Alpha round 13
+ChatterBot Romeo round 13
+ChatterBot Hotel round 13
+ChatterBot X-ray round 13
+ChatterBot November round 13
+2024-10-14 23:19:58.328858 Lima: Same as last round
+2024-10-14 23:19:58.329421 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:19:58.343923 Lima: Ow
+2024-10-14 23:19:58.344991 Papa: Same as last round
+2024-10-14 23:19:58.976222 Bravo: Papa, sending you 3
+2024-10-14 23:19:58.987535 Bravo: Hotel, sending you 5
+2024-10-14 23:19:58.988312 X-ray: Bravo, sending you 1
+2024-10-14 23:19:58.993052 Bravo: X-ray, sending you 4
+2024-10-14 23:19:58.994812 X-ray: Hotel, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 14
+ChatterBot Bravo round 14
+ChatterBot Papa round 14
+ChatterBot India round 14
+ChatterBot Golf round 14
+ChatterBot Alpha round 14
+ChatterBot Romeo round 14
+ChatterBot Hotel round 14
+ChatterBot X-ray round 14
+ChatterBot November round 14
+2024-10-14 23:20:00.802173 Alpha: Same as last round
+2024-10-14 23:20:00.803080 Golf: Sending you 4
+2024-10-14 23:20:00.803421 Lima: Same as last round
+2024-10-14 23:20:00.803800 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:20:00.811889 Lima: Ow
+2024-10-14 23:20:00.812779 Papa: Same as last round
+2024-10-14 23:20:00.813200 X-ray: Bravo, sending you 1
+2024-10-14 23:20:00.814225 Bravo: Sending you each 4
+2024-10-14 23:20:00.822320 X-ray: Hotel, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+ChatterBot Lima round 15
+ChatterBot Bravo round 15
+ChatterBot Papa round 15
+ChatterBot India round 15
+ChatterBot Golf round 15
+ChatterBot Alpha round 15
+ChatterBot Romeo round 15
+ChatterBot Hotel round 15
+ChatterBot X-ray round 15
+ChatterBot November round 15
+2024-10-14 23:20:02.022882 Bravo: Papa, sending you 4
+2024-10-14 23:20:02.053674 X-ray: Bravo, sending you 1
+2024-10-14 23:20:02.055162 Papa: Same as last round
+2024-10-14 23:20:02.056505 Bravo: Hotel, sending you 3
+2024-10-14 23:20:02.057866 Alpha: Same as last round
+2024-10-14 23:20:02.058295 Golf: Sending you 5
+2024-10-14 23:20:02.058568 Lima: Same as last round
+2024-10-14 23:20:02.059347 November: I was attacked by Hotel
+ChatterBot Golf reevaluating
+2024-10-14 23:20:02.067969 November: I'm keeping this round to protect myself
+2024-10-14 23:20:02.068375 November: Ow
+2024-10-14 23:20:02.069061 X-ray: Hotel, sending you 2
+2024-10-14 23:20:02.069624 Bravo: X-ray, sending you 5
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Lima round 16
+ChatterBot Bravo round 16
+ChatterBot Papa round 16
+ChatterBot India round 16
+ChatterBot Golf round 16
+ChatterBot Alpha round 16
+ChatterBot Romeo round 16
+ChatterBot Hotel round 16
+ChatterBot X-ray round 16
+ChatterBot November round 16
+2024-10-14 23:20:03.234250 Papa: We should add Hotel
+2024-10-14 23:20:03.240471 Bravo: Yes
+2024-10-14 23:20:03.274986 Papa: Hotel we want you to join our group
+2024-10-14 23:20:03.281491 Hotel: Yes
+2024-10-14 23:20:03.294572 X-ray: We should drop Papa
+ChatterBot Hotel reevaluating
+2024-10-14 23:20:03.306443 Bravo: No
+2024-10-14 23:20:03.306626 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:03.349467 Lima: Same as last round
+2024-10-14 23:20:03.350585 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:20:03.357372 Lima: Ow
+2024-10-14 23:20:03.357884 Golf: Sending you 6
+2024-10-14 23:20:03.367190 X-ray: Bravo, sending you 1
+2024-10-14 23:20:03.368526 Papa: Bravo, sending you 2
+2024-10-14 23:20:03.372253 Papa: Hotel, sending you 6
+2024-10-14 23:20:03.373846 X-ray: Hotel, sending you 2
+2024-10-14 23:20:03.390216 Bravo: Hotel, sending you 4
+2024-10-14 23:20:03.395685 Bravo: X-ray, sending you 8
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot November submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 17
+ChatterBot Bravo round 17
+ChatterBot Papa round 17
+ChatterBot India round 17
+ChatterBot Golf round 17
+ChatterBot Alpha round 17
+ChatterBot Romeo round 17
+ChatterBot Hotel round 17
+ChatterBot X-ray round 17
+ChatterBot November round 17
+2024-10-14 23:20:04.217003 Bravo: We should add Papa
+2024-10-14 23:20:04.233903 X-ray: No
+2024-10-14 23:20:04.234178 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:04.263320 X-ray: We should add Papa and India
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:04.277385 Bravo: No
+2024-10-14 23:20:04.277857 Hotel: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:04.380749 Golf: I was attacked by Hotel
+ChatterBot November reevaluating
+2024-10-14 23:20:04.387602 Golf: I'm keeping this round to protect myself
+2024-10-14 23:20:04.388109 Golf: Ow
+2024-10-14 23:20:04.388963 Bravo: Papa we want you to join our group
+2024-10-14 23:20:04.395126 Papa: No
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:04.420596 Alpha: Same as last round
+2024-10-14 23:20:04.421897 Papa: Bravo, sending you 3
+2024-10-14 23:20:04.422333 Lima: Same as last round
+2024-10-14 23:20:04.422574 X-ray: Bravo, sending you 1
+2024-10-14 23:20:04.424657 Papa: Hotel, sending you 6
+2024-10-14 23:20:04.428686 X-ray: Hotel, sending you 3
+2024-10-14 23:20:04.437659 November: Sending you 5
+2024-10-14 23:20:04.457021 Bravo: Papa and X-ray, sending you 5
+2024-10-14 23:20:04.486114 Bravo: Hotel, sending you 2
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 18
+ChatterBot Bravo round 18
+ChatterBot Papa round 18
+ChatterBot India round 18
+ChatterBot Golf round 18
+ChatterBot Alpha round 18
+ChatterBot Romeo round 18
+ChatterBot Hotel round 18
+ChatterBot X-ray round 18
+ChatterBot November round 18
+2024-10-14 23:20:06.411243 Golf: We should replace November with India
+2024-10-14 23:20:06.455682 Golf: India we want you to join our group
+2024-10-14 23:20:06.470529 India: No
+2024-10-14 23:20:06.510720 Lima: Same as last round
+2024-10-14 23:20:06.519227 Alpha: Same as last round
+2024-10-14 23:20:06.522695 Bravo: Papa and X-ray, sending you 5
+2024-10-14 23:20:06.524695 Papa: Bravo, sending you 3
+2024-10-14 23:20:06.526729 Golf: I was attacked by Hotel
+ChatterBot India reevaluating
+2024-10-14 23:20:06.575317 Golf: I'm keeping this round to protect myself
+2024-10-14 23:20:06.575777 Golf: Ow
+2024-10-14 23:20:06.576234 November: Sending you 7
+2024-10-14 23:20:06.576816 Bravo: Hotel, sending you 2
+2024-10-14 23:20:06.578908 X-ray: Bravo, sending you 1
+2024-10-14 23:20:06.579454 Papa: Hotel, sending you 6
+2024-10-14 23:20:06.586178 X-ray: Hotel, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 19
+ChatterBot Bravo round 19
+ChatterBot Papa round 19
+ChatterBot India round 19
+ChatterBot Golf round 19
+ChatterBot Alpha round 19
+ChatterBot Romeo round 19
+ChatterBot Hotel round 19
+ChatterBot X-ray round 19
+ChatterBot November round 19
+2024-10-14 23:20:08.094643 Golf: We should replace India with November
+2024-10-14 23:20:08.123167 Golf: November we want you to join our group
+2024-10-14 23:20:08.133897 November: Yes
+2024-10-14 23:20:08.148674 X-ray: Bravo, sending you 1
+2024-10-14 23:20:08.153884 Alpha: Same as last round
+2024-10-14 23:20:08.156099 Lima: Same as last round
+2024-10-14 23:20:08.158195 Papa: Bravo, sending you 3
+2024-10-14 23:20:08.160748 Hotel: Bravo and X-ray, sending you 2
+2024-10-14 23:20:08.162919 Golf: I was attacked by Hotel
+ChatterBot November reevaluating
+2024-10-14 23:20:08.170869 Golf: I'm keeping this round to protect myself
+2024-10-14 23:20:08.171791 Golf: Ow
+2024-10-14 23:20:08.172809 X-ray: Hotel, sending you 3
+2024-10-14 23:20:08.173708 Papa: Hotel, sending you 6
+2024-10-14 23:20:08.175068 Hotel: Papa, sending you 1
+2024-10-14 23:20:08.177720 Bravo: Papa and X-ray, sending you 5
+2024-10-14 23:20:08.184685 Bravo: Hotel, sending you 2
+2024-10-14 23:20:08.197123 November: Sending you 8
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot November submitting transactions
+ChatterBot Lima round 20
+ChatterBot Bravo round 20
+ChatterBot Papa round 20
+ChatterBot India round 20
+ChatterBot Golf round 20
+ChatterBot Alpha round 20
+ChatterBot Romeo round 20
+ChatterBot Hotel round 20
+ChatterBot X-ray round 20
+ChatterBot November round 20
+2024-10-14 23:20:09.466078 Bravo: Papa, sending you 5
+2024-10-14 23:20:09.477575 Papa: Bravo, sending you 3
+2024-10-14 23:20:09.479472 Alpha: Same as last round
+2024-10-14 23:20:09.480892 November: Same as last round
+2024-10-14 23:20:09.481719 Bravo: Hotel, sending you 3
+2024-10-14 23:20:09.484412 X-ray: Bravo, sending you 1
+2024-10-14 23:20:09.485559 Lima: Same as last round
+2024-10-14 23:20:09.486827 Papa: Hotel, sending you 6
+2024-10-14 23:20:09.488414 Bravo: X-ray, sending you 4
+2024-10-14 23:20:09.490449 X-ray: Hotel, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 21
+ChatterBot Bravo round 21
+ChatterBot Papa round 21
+ChatterBot India round 21
+ChatterBot Golf round 21
+ChatterBot Alpha round 21
+ChatterBot Romeo round 21
+ChatterBot Hotel round 21
+ChatterBot X-ray round 21
+ChatterBot November round 21
+2024-10-14 23:20:10.884490 Papa: We should replace Hotel with X-ray
+2024-10-14 23:20:10.891460 Bravo: No
+ChatterBot Papa reevaluating
+2024-10-14 23:20:10.989082 Bravo: Papa and X-ray, sending you 5
+2024-10-14 23:20:10.991003 Lima: Same as last round
+2024-10-14 23:20:10.991562 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:20:11.000238 Lima: Ow
+2024-10-14 23:20:11.001456 X-ray: Bravo, sending you 1
+2024-10-14 23:20:11.003100 Bravo: Hotel, sending you 2
+2024-10-14 23:20:11.005953 November: Same as last round
+2024-10-14 23:20:11.007295 X-ray: Hotel, sending you 3
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 22
+ChatterBot Bravo round 22
+ChatterBot Papa round 22
+ChatterBot India round 22
+ChatterBot Golf round 22
+ChatterBot Alpha round 22
+ChatterBot Romeo round 22
+ChatterBot Hotel round 22
+ChatterBot X-ray round 22
+ChatterBot November round 22
+2024-10-14 23:20:12.304464 Bravo: We should drop Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 23:20:12.316804 X-ray: Yes
+2024-10-14 23:20:12.316985 Papa: Yes
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 23:20:12.345432 Alpha: I was attacked by Papa
+ChatterBot Lima reevaluating
+2024-10-14 23:20:12.352533 Alpha: I'm keeping this round to protect myself
+2024-10-14 23:20:12.354129 Alpha: Ow
+2024-10-14 23:20:12.428302 November: Same as last round
+2024-10-14 23:20:12.451598 Bravo: Sending you each 6
+2024-10-14 23:20:12.582677 X-ray: Sending you each 1
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 23
+ChatterBot Bravo round 23
+ChatterBot Papa round 23
+ChatterBot India round 23
+ChatterBot Golf round 23
+ChatterBot Alpha round 23
+ChatterBot Romeo round 23
+ChatterBot Hotel round 23
+ChatterBot X-ray round 23
+ChatterBot November round 23
+2024-10-14 23:20:13.735053 X-ray: Can we be friends?
+2024-10-14 23:20:13.745167 Golf: No
+2024-10-14 23:20:13.745345 November: No
+2024-10-14 23:20:13.835443 Alpha: I was attacked by Papa
+ChatterBot Lima reevaluating
+2024-10-14 23:20:13.846768 Alpha: I'm keeping this round to protect myself
+2024-10-14 23:20:13.848122 Alpha: Ow
+2024-10-14 23:20:13.849233 X-ray: Golf, sending you 5
+2024-10-14 23:20:13.868904 November: Same as last round
+2024-10-14 23:20:13.869379 Golf: Sending you 3
+2024-10-14 23:20:13.869697 Bravo: Papa, sending you 5
+2024-10-14 23:20:13.871146 X-ray: November, sending you 2
+2024-10-14 23:20:14.257877 Bravo: X-ray, sending you 7
+2024-10-14 23:20:14.259367 Papa: Bravo, sending you 3
+2024-10-14 23:20:14.277323 Papa: Hotel, sending you 6
+2024-10-14 23:20:14.278378 Lima: Same as last round
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 24
+ChatterBot Bravo round 24
+ChatterBot Papa round 24
+ChatterBot India round 24
+ChatterBot Golf round 24
+ChatterBot Alpha round 24
+ChatterBot Romeo round 24
+ChatterBot Hotel round 24
+ChatterBot X-ray round 24
+ChatterBot November round 24
+2024-10-14 23:20:15.330826 Golf: We should add X-ray
+2024-10-14 23:20:15.335690 November: Yes
+2024-10-14 23:20:15.372972 Golf: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 23:20:15.381867 X-ray: Yes
+2024-10-14 23:20:15.402656 Lima: Same as last round
+2024-10-14 23:20:15.403091 Papa: Bravo, sending you 3
+2024-10-14 23:20:15.403677 Bravo: Sending you each 6
+2024-10-14 23:20:15.406812 Papa: Hotel, sending you 6
+2024-10-14 23:20:15.407491 Golf: X-ray, sending you 2
+2024-10-14 23:20:15.411230 Golf: November, sending you 3
+2024-10-14 23:20:15.411932 November: Sending you 1
+2024-10-14 23:20:15.412329 November: I was attacked by Hotel
+ChatterBot Golf reevaluating
+2024-10-14 23:20:15.418282 November: Ow
+2024-10-14 23:20:15.422690 X-ray: Golf, sending you 6
+2024-10-14 23:20:15.428682 X-ray: November, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Lima round 25
+ChatterBot Bravo round 25
+ChatterBot Papa round 25
+ChatterBot India round 25
+ChatterBot Golf round 25
+ChatterBot Alpha round 25
+ChatterBot Romeo round 25
+ChatterBot Hotel round 25
+ChatterBot X-ray round 25
+ChatterBot November round 25
+2024-10-14 23:20:16.927987 Golf: X-ray and November, sending you 3
+2024-10-14 23:20:16.975372 Lima: Same as last round
+2024-10-14 23:20:16.976279 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:20:16.985954 Lima: Ow
+2024-10-14 23:20:16.987389 Bravo: Papa, sending you 7
+2024-10-14 23:20:16.988942 X-ray: Golf, sending you 6
+2024-10-14 23:20:16.989983 November: Sending you 6
+2024-10-14 23:20:16.990895 Papa: Bravo, sending you 2
+2024-10-14 23:20:17.001279 Bravo: X-ray, sending you 5
+2024-10-14 23:20:17.002517 X-ray: November, sending you 1
+2024-10-14 23:20:17.003135 Papa: Hotel, sending you 6
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Lima round 26
+ChatterBot Bravo round 26
+ChatterBot Papa round 26
+ChatterBot India round 26
+ChatterBot Golf round 26
+ChatterBot Alpha round 26
+ChatterBot Romeo round 26
+ChatterBot Hotel round 26
+ChatterBot X-ray round 26
+ChatterBot November round 26
+2024-10-14 23:20:18.408241 November: We should add X-ray
+2024-10-14 23:20:18.417807 Golf: Yes
+2024-10-14 23:20:18.465321 Papa: We should drop Hotel
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:18.477794 Bravo: No
+2024-10-14 23:20:18.490224 Bravo: We should add Hotel
+2024-10-14 23:20:18.508529 X-ray: Yes
+2024-10-14 23:20:18.508757 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:18.542322 November: X-ray we want you to join our group
+2024-10-14 23:20:18.551647 X-ray: No
+2024-10-14 23:20:18.629272 Golf: X-ray and November, sending you 3
+2024-10-14 23:20:18.630042 Lima: Same as last round
+2024-10-14 23:20:18.631038 Lima: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 23:20:18.638641 Lima: Ow
+2024-10-14 23:20:18.639174 Bravo: Hotel we want you to join our group
+2024-10-14 23:20:18.648739 Hotel: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 23:20:18.670495 X-ray: Sending you 3
+2024-10-14 23:20:18.689206 Papa: Same as last round
+2024-10-14 23:20:18.690648 November: Sending you each 4
+2024-10-14 23:20:18.695295 Alpha: Sending you 8
+chatterbot Hotel submitting transactions
+2024-10-14 23:20:18.949089 Bravo: Papa, sending you 6
+2024-10-14 23:20:18.964215 Bravo: Hotel, sending you 2
+chatterbot Lima submitting transactions
+2024-10-14 23:20:18.977531 Bravo: X-ray, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot India submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Lima round 27
+ChatterBot Bravo round 27
+ChatterBot Papa round 27
+ChatterBot India round 27
+ChatterBot Golf round 27
+ChatterBot Alpha round 27
+ChatterBot Romeo round 27
+ChatterBot Hotel round 27
+ChatterBot X-ray round 27
+ChatterBot November round 27
+2024-10-14 23:20:19.891222 X-ray: We should add Golf and November
+2024-10-14 23:20:19.903448 Hotel: No
+ChatterBot X-ray reevaluating
+2024-10-14 23:20:19.936526 Golf: We should drop November
+ChatterBot X-ray reevaluating
+2024-10-14 23:20:19.946390 X-ray: Yes
+2024-10-14 23:20:19.958440 X-ray: We should add Bravo and Papa
+2024-10-14 23:20:19.969264 Hotel: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 23:20:19.989777 November: Golf, sending you 5
+2024-10-14 23:20:19.991723 Bravo: Papa, sending you 7
+2024-10-14 23:20:19.994404 Papa: Same as last round
+2024-10-14 23:20:19.996110 Hotel: Bravo, sending you 1
+2024-10-14 23:20:19.998553 Lima: Same as last round
+2024-10-14 23:20:19.999953 X-ray: Bravo and Papa we want you to join our group
+2024-10-14 23:20:20.010030 Bravo: Yes
+2024-10-14 23:20:20.011010 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 23:20:20.040420 November: X-ray, sending you 3
+2024-10-14 23:20:20.041822 Bravo: Hotel, sending you 1
+2024-10-14 23:20:20.045099 Hotel: Papa and X-ray, sending you 2
+2024-10-14 23:20:20.047528 Alpha: Same as last round
+2024-10-14 23:20:20.049203 Golf: Sending you 4
+2024-10-14 23:20:20.050325 Bravo: X-ray, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+ChatterBot Lima round 28
+ChatterBot Bravo round 28
+ChatterBot Papa round 28
+ChatterBot India round 28
+ChatterBot Golf round 28
+ChatterBot Alpha round 28
+ChatterBot Romeo round 28
+ChatterBot Hotel round 28
+ChatterBot X-ray round 28
+ChatterBot November round 28
+2024-10-14 23:20:21.142256 November: Golf, sending you 5
+2024-10-14 23:20:21.145112 Lima: Same as last round
+2024-10-14 23:20:21.146909 Golf: Sending you 5
+2024-10-14 23:20:21.148436 Papa: Same as last round
+2024-10-14 23:20:21.150250 Hotel: Bravo, sending you 1
+2024-10-14 23:20:21.152981 Alpha: Same as last round
+2024-10-14 23:20:21.155004 November: X-ray, sending you 3
+2024-10-14 23:20:21.168800 Hotel: Papa and X-ray, sending you 2
+2024-10-14 23:20:21.172422 Bravo: Papa, sending you 6
+2024-10-14 23:20:21.187996 Bravo: Hotel and X-ray, sending you 3
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Lima round 29
+ChatterBot Bravo round 29
+ChatterBot Papa round 29
+ChatterBot India round 29
+ChatterBot Golf round 29
+ChatterBot Alpha round 29
+ChatterBot Romeo round 29
+ChatterBot Hotel round 29
+ChatterBot X-ray round 29
+ChatterBot November round 29
+2024-10-14 23:20:22.423672 Bravo: Papa, sending you 6
+2024-10-14 23:20:22.426623 Papa: Same as last round
+2024-10-14 23:20:22.427360 November: Golf, sending you 5
+2024-10-14 23:20:22.428738 Golf: Sending you 3
+2024-10-14 23:20:22.431030 Lima: Same as last round
+2024-10-14 23:20:22.431881 Bravo: Hotel, sending you 4
+2024-10-14 23:20:22.433960 Alpha: Same as last round
+2024-10-14 23:20:22.434650 November: X-ray, sending you 3
+2024-10-14 23:20:22.438733 Bravo: X-ray, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 30
+ChatterBot Bravo round 30
+ChatterBot Papa round 30
+ChatterBot India round 30
+ChatterBot Golf round 30
+ChatterBot Alpha round 30
+ChatterBot Romeo round 30
+ChatterBot Hotel round 30
+ChatterBot X-ray round 30
+ChatterBot November round 30
+2024-10-14 23:20:23.650855 India: I was attacked by Hotel
+2024-10-14 23:20:23.651149 India: I'm keeping this round to protect myself
+2024-10-14 23:20:23.651401 India: Ow
+2024-10-14 23:20:23.655677 Alpha: Same as last round
+2024-10-14 23:20:23.658751 Papa: Same as last round
+2024-10-14 23:20:23.660671 Golf: Same as last round
+2024-10-14 23:20:23.663263 Lima: Same as last round
+2024-10-14 23:20:23.666689 Bravo: Papa, sending you 7
+2024-10-14 23:20:23.669088 November: Golf, sending you 5
+2024-10-14 23:20:23.672674 Bravo: Hotel, sending you 3
+2024-10-14 23:20:23.674772 November: X-ray, sending you 3
+2024-10-14 23:20:23.679683 Bravo: X-ray, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions

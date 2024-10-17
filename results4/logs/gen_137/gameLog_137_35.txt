@@ -1,0 +1,1528 @@
+ChatterBot Romeo round 1
+ChatterBot Sierra round 1
+ChatterBot Bravo round 1
+ChatterBot Juliett round 1
+ChatterBot Tango round 1
+ChatterBot Lima round 1
+ChatterBot Foxtrot round 1
+ChatterBot Oscar round 1
+ChatterBot Delta round 1
+ChatterBot Charlie round 1
+randomSelections Romeo: {Romeo, Tango, Oscar, Delta, Juliett, Bravo} 
+2024-10-15 01:18:41.075159 Romeo: Friends?
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:41.097667 Tango: Yes
+2024-10-15 01:18:41.098345 Oscar: Yes
+2024-10-15 01:18:41.099027 Delta: Yes
+2024-10-15 01:18:41.101842 Juliett: Yes
+2024-10-15 01:18:41.102139 Bravo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Juliett reevaluating
+randomSelections Foxtrot: {Foxtrot, Romeo, Oscar} 
+2024-10-15 01:18:41.168843 Foxtrot: Friends?
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:41.174405 Romeo: No
+2024-10-15 01:18:41.174581 Oscar: No
+ChatterBot Oscar reevaluating
+randomSelections Lima: {Lima, Oscar, Tango, Bravo, Foxtrot, Sierra} 
+2024-10-15 01:18:41.188228 Lima: Friends?
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:18:41.236838 Oscar: No
+2024-10-15 01:18:41.237100 Tango: No
+2024-10-15 01:18:41.237277 Bravo: No
+2024-10-15 01:18:41.237467 Foxtrot: No
+2024-10-15 01:18:41.237657 Sierra: Yes
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Charlie: {Charlie, Sierra, Lima, Romeo, Oscar} 
+2024-10-15 01:18:41.386810 Charlie: Friends?
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:41.397138 Sierra: No
+2024-10-15 01:18:41.397974 Lima: No
+2024-10-15 01:18:41.398348 Romeo: No
+2024-10-15 01:18:41.398575 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:18:41.454566 Romeo: Bravo and Tango, sending you 1
+2024-10-15 01:18:41.457886 Foxtrot: Sending you each 2
+2024-10-15 01:18:41.460212 Delta: Romeo, Bravo and Tango, sending you 1
+2024-10-15 01:18:41.461930 Juliett: Romeo, sending you 1
+2024-10-15 01:18:41.462629 Romeo: Juliett and Delta, sending you 2
+2024-10-15 01:18:41.463356 Lima: Sierra and Tango, sending you 1
+2024-10-15 01:18:41.464774 Charlie: Romeo, sending you 1
+2024-10-15 01:18:41.465944 Bravo: Romeo and Tango, sending you 2
+2024-10-15 01:18:41.467252 Sierra: Bravo and Lima, sending you 2
+2024-10-15 01:18:41.468687 Tango: Romeo and Oscar, sending you 2
+2024-10-15 01:18:41.469998 Delta: Juliett, sending you 3
+2024-10-15 01:18:41.470891 Juliett: Tango, sending you 4
+2024-10-15 01:18:41.471433 Romeo: Oscar, sending you 3
+2024-10-15 01:18:41.472788 Lima: Foxtrot, sending you 3
+2024-10-15 01:18:41.473492 Charlie: Sierra and Lima, sending you 2
+2024-10-15 01:18:41.474452 Bravo: Oscar and Delta, sending you 1
+2024-10-15 01:18:41.475180 Sierra: Tango and Oscar, sending you 1
+2024-10-15 01:18:41.476762 Oscar: Romeo, sending you 3
+2024-10-15 01:18:41.478626 Tango: Juliett, sending you 1
+2024-10-15 01:18:41.479329 Delta: Oscar, sending you 4
+2024-10-15 01:18:41.480064 Juliett: Oscar, sending you 3
+2024-10-15 01:18:41.481342 Charlie: Oscar, sending you 3
+2024-10-15 01:18:41.482037 Lima: Oscar, sending you 2
+2024-10-15 01:18:41.483189 Tango: Delta, sending you 3
+2024-10-15 01:18:41.483846 Oscar: Juliett and Tango, sending you 1
+2024-10-15 01:18:41.487656 Oscar: Delta, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 2
+ChatterBot Sierra round 2
+ChatterBot Bravo round 2
+ChatterBot Juliett round 2
+ChatterBot Tango round 2
+ChatterBot Lima round 2
+ChatterBot Foxtrot round 2
+2024-10-15 01:18:43.031125 Sierra: Let's form a team
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:18:43.049611 Lima: Yes
+2024-10-15 01:18:43.050229 Charlie: No
+ChatterBot Charlie reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:18:43.077762 Charlie: Group up?
+2024-10-15 01:18:43.083237 Sierra: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Oscar round 2
+ChatterBot Delta round 2
+ChatterBot Charlie round 2
+2024-10-15 01:18:43.114238 Foxtrot: Can we be friends?
+ChatterBot Lima reevaluating
+2024-10-15 01:18:43.123826 Bravo: No
+2024-10-15 01:18:43.123973 Lima: No
+ChatterBot Lima reevaluating
+2024-10-15 01:18:43.266451 Lima: Group up?
+ChatterBot Charlie reevaluating
+2024-10-15 01:18:43.292449 Sierra: No
+2024-10-15 01:18:43.293577 Charlie: Yes
+2024-10-15 01:18:43.293942 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:18:43.440642 Delta: We should drop Bravo
+2024-10-15 01:18:43.458463 Romeo: No
+2024-10-15 01:18:43.458852 Juliett: No
+2024-10-15 01:18:43.459499 Tango: No
+2024-10-15 01:18:43.459674 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:43.574100 Bravo: Romeo and Delta, sending you 2
+2024-10-15 01:18:43.575695 Romeo: Bravo, Juliett, Tango and Oscar, sending you 2
+2024-10-15 01:18:43.576254 Sierra: Sending you each 3
+2024-10-15 01:18:43.602206 Bravo: Juliett, Tango and Oscar, sending you 1
+2024-10-15 01:18:43.604005 Romeo: Delta, sending you 1
+2024-10-15 01:18:43.604471 Tango: Romeo, Bravo, Juliett and Oscar, sending you 2
+2024-10-15 01:18:43.605889 Charlie: Sending you each 3
+2024-10-15 01:18:43.606312 Lima: Sierra, sending you 3
+2024-10-15 01:18:43.606641 Juliett: Romeo, sending you 2
+2024-10-15 01:18:43.607974 Foxtrot: Sending you each 2
+2024-10-15 01:18:43.636126 Lima: Foxtrot and Charlie, sending you 2
+2024-10-15 01:18:43.637301 Juliett: Tango and Oscar, sending you 1
+2024-10-15 01:18:43.637901 Delta: Romeo, Tango and Oscar, sending you 3
+2024-10-15 01:18:43.653981 Juliett: Delta, sending you 4
+2024-10-15 01:18:43.655378 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:43.655861 Delta: Juliett, sending you 1
+2024-10-15 01:18:43.682140 Oscar: Bravo, Juliett and Tango, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 3
+ChatterBot Sierra round 3
+ChatterBot Bravo round 3
+ChatterBot Juliett round 3
+ChatterBot Tango round 3
+ChatterBot Lima round 3
+ChatterBot Foxtrot round 3
+ChatterBot Oscar round 3
+ChatterBot Delta round 3
+ChatterBot Charlie round 3
+2024-10-15 01:18:44.717732 Foxtrot: We should replace Bravo with Charlie
+ChatterBot Lima reevaluating
+2024-10-15 01:18:44.722424 Lima: Yes
+2024-10-15 01:18:44.730732 Delta: We should add Bravo
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:44.745074 Romeo: Yes
+2024-10-15 01:18:44.745320 Juliett: Yes
+2024-10-15 01:18:44.746294 Tango: Yes
+2024-10-15 01:18:44.746599 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:44.805154 Charlie: We should add Bravo
+ChatterBot Lima reevaluating
+2024-10-15 01:18:44.815148 Lima: No
+2024-10-15 01:18:44.815376 Sierra: No
+2024-10-15 01:18:44.815562 Foxtrot: No
+ChatterBot Charlie reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:18:44.846303 Foxtrot: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-15 01:18:44.851064 Charlie: Yes
+ChatterBot Lima reevaluating
+2024-10-15 01:18:44.860441 Delta: Bravo we want you to join our group
+2024-10-15 01:18:44.863950 Bravo: Yes
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:45.110972 Romeo: Bravo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:45.112119 Bravo: Romeo, Tango and Oscar, sending you 2
+2024-10-15 01:18:45.112518 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:45.112864 Juliett: Romeo, sending you 3
+2024-10-15 01:18:45.113584 Sierra: Same as last round
+2024-10-15 01:18:45.154405 Bravo: Juliett and Delta, sending you 1
+2024-10-15 01:18:45.155289 Romeo: Juliett, sending you 1
+2024-10-15 01:18:45.155653 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:45.156510 Foxtrot: Sending you each 2
+2024-10-15 01:18:45.156776 Delta: Sending you each 2
+2024-10-15 01:18:45.157081 Lima: Sierra, sending you 3
+2024-10-15 01:18:45.194609 Juliett: Tango and Delta, sending you 2
+2024-10-15 01:18:45.195139 Lima: Foxtrot and Charlie, sending you 2
+2024-10-15 01:18:45.195880 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:45.196206 Charlie: Sierra and Lima, sending you 4
+2024-10-15 01:18:45.223247 Charlie: Foxtrot, sending you 3
+2024-10-15 01:18:45.224046 Oscar: Bravo, Juliett and Tango, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 4
+ChatterBot Sierra round 4
+ChatterBot Bravo round 4
+ChatterBot Juliett round 4
+ChatterBot Tango round 4
+ChatterBot Lima round 4
+ChatterBot Foxtrot round 4
+ChatterBot Oscar round 4
+ChatterBot Delta round 4
+ChatterBot Charlie round 4
+2024-10-15 01:18:46.075662 Sierra: Lima, sending you 3
+2024-10-15 01:18:46.075983 Romeo: Bravo, sending you 1
+2024-10-15 01:18:46.077672 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:18:46.078681 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:46.080676 Sierra: Charlie, sending you 4
+2024-10-15 01:18:46.081771 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:46.084661 Juliett: Delta, sending you 3
+2024-10-15 01:18:46.085735 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:46.086198 Foxtrot: Same as last round
+2024-10-15 01:18:46.089660 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:46.090663 Oscar: Bravo, Juliett and Tango, sending you 1
+2024-10-15 01:18:46.091700 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:46.092176 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:46.093160 Charlie: Sierra and Lima, sending you 4
+2024-10-15 01:18:46.093514 Delta: Same as last round
+2024-10-15 01:18:46.094072 Lima: Charlie, sending you 3
+2024-10-15 01:18:46.095659 Bravo: Juliett, sending you 1
+2024-10-15 01:18:46.096641 Charlie: Foxtrot, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 5
+ChatterBot Sierra round 5
+ChatterBot Bravo round 5
+ChatterBot Juliett round 5
+ChatterBot Tango round 5
+ChatterBot Lima round 5
+ChatterBot Foxtrot round 5
+ChatterBot Oscar round 5
+ChatterBot Delta round 5
+ChatterBot Charlie round 5
+2024-10-15 01:18:47.289962 Oscar: We should drop Tango
+2024-10-15 01:18:47.301364 Romeo: No
+2024-10-15 01:18:47.301546 Bravo: No
+2024-10-15 01:18:47.301696 Juliett: No
+2024-10-15 01:18:47.302315 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:47.351681 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:47.352094 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:47.353167 Romeo: Bravo, sending you 1
+2024-10-15 01:18:47.353681 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:18:47.354720 Sierra: Lima, sending you 3
+2024-10-15 01:18:47.354996 Foxtrot: Same as last round
+2024-10-15 01:18:47.355231 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:47.356760 Lima: Charlie, sending you 3
+2024-10-15 01:18:47.357112 Bravo: Juliett, sending you 1
+2024-10-15 01:18:47.357694 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:47.358733 Sierra: Charlie, sending you 4
+2024-10-15 01:18:47.359704 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:47.363681 Juliett: Delta, sending you 3
+2024-10-15 01:18:47.365659 Charlie: Sierra and Lima, sending you 4
+2024-10-15 01:18:47.368889 Charlie: Foxtrot, sending you 3
+2024-10-15 01:18:47.370871 Delta: Same as last round
+2024-10-15 01:18:47.373690 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:47.378665 Oscar: Bravo, Juliett and Tango, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 6
+ChatterBot Sierra round 6
+ChatterBot Bravo round 6
+ChatterBot Juliett round 6
+ChatterBot Tango round 6
+ChatterBot Lima round 6
+ChatterBot Foxtrot round 6
+ChatterBot Oscar round 6
+ChatterBot Delta round 6
+ChatterBot Charlie round 6
+2024-10-15 01:18:48.540657 Romeo: Bravo, sending you 1
+2024-10-15 01:18:48.545035 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:48.550143 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:48.552032 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:48.554163 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:48.557114 Sierra: Lima, sending you 3
+2024-10-15 01:18:48.558003 Lima: Charlie, sending you 3
+2024-10-15 01:18:48.559553 Bravo: Juliett, sending you 1
+2024-10-15 01:18:48.561783 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:48.564340 Oscar: Bravo, Juliett and Tango, sending you 1
+2024-10-15 01:18:48.566751 Foxtrot: Same as last round
+2024-10-15 01:18:48.567414 Delta: Same as last round
+2024-10-15 01:18:48.569528 Juliett: Romeo and Delta, sending you 2
+2024-10-15 01:18:48.570540 Sierra: Charlie, sending you 4
+2024-10-15 01:18:48.571753 Charlie: Sending you each 4
+2024-10-15 01:18:48.572668 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:48.578673 Juliett: Tango, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Romeo round 7
+ChatterBot Sierra round 7
+ChatterBot Bravo round 7
+ChatterBot Juliett round 7
+ChatterBot Tango round 7
+ChatterBot Lima round 7
+ChatterBot Foxtrot round 7
+ChatterBot Oscar round 7
+ChatterBot Delta round 7
+ChatterBot Charlie round 7
+2024-10-15 01:18:49.640286 Oscar: We should drop Tango
+ChatterBot Delta reevaluating
+2024-10-15 01:18:49.650185 Romeo: No
+2024-10-15 01:18:49.650377 Bravo: No
+2024-10-15 01:18:49.650533 Juliett: No
+2024-10-15 01:18:49.650717 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:49.703866 Sierra: Lima, sending you 3
+2024-10-15 01:18:49.704661 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:49.705267 Romeo: Bravo, sending you 1
+2024-10-15 01:18:49.707625 Delta: We should drop Oscar
+2024-10-15 01:18:49.718277 Romeo: No
+2024-10-15 01:18:49.718446 Bravo: No
+2024-10-15 01:18:49.718568 Juliett: No
+2024-10-15 01:18:49.718744 Tango: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:49.762265 Sierra: Charlie, sending you 4
+2024-10-15 01:18:49.762665 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:49.766687 Juliett: Romeo, sending you 3
+2024-10-15 01:18:49.767322 Charlie: Same as last round
+2024-10-15 01:18:49.767698 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:49.768012 Foxtrot: Same as last round
+2024-10-15 01:18:49.769684 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:49.771081 Lima: Charlie, sending you 3
+2024-10-15 01:18:49.772680 Juliett: Tango and Delta, sending you 2
+2024-10-15 01:18:49.780664 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:49.781698 Delta: Same as last round
+2024-10-15 01:18:49.783667 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:49.785686 Oscar: Bravo, Juliett and Tango, sending you 1
+2024-10-15 01:18:49.789886 Bravo: Juliett, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 8
+ChatterBot Sierra round 8
+ChatterBot Bravo round 8
+ChatterBot Juliett round 8
+ChatterBot Tango round 8
+ChatterBot Lima round 8
+ChatterBot Foxtrot round 8
+ChatterBot Oscar round 8
+ChatterBot Delta round 8
+ChatterBot Charlie round 8
+2024-10-15 01:18:50.884692 Juliett: Romeo, sending you 3
+2024-10-15 01:18:50.886682 Romeo: Bravo, sending you 1
+2024-10-15 01:18:50.890873 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:50.891578 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:50.892272 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:50.893673 Sierra: Lima, sending you 3
+2024-10-15 01:18:50.894714 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:50.895681 Juliett: Tango and Delta, sending you 2
+2024-10-15 01:18:50.897662 Bravo: Juliett, sending you 1
+2024-10-15 01:18:50.898267 Sierra: Charlie, sending you 4
+2024-10-15 01:18:50.898684 Oscar: Bravo, Juliett and Tango, sending you 1
+2024-10-15 01:18:50.903670 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:50.904284 Foxtrot: Same as last round
+2024-10-15 01:18:50.904696 Delta: Same as last round
+2024-10-15 01:18:50.905686 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:50.908671 Lima: Charlie, sending you 3
+2024-10-15 01:18:50.909687 Charlie: Same as last round
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Romeo round 9
+ChatterBot Sierra round 9
+ChatterBot Bravo round 9
+ChatterBot Juliett round 9
+ChatterBot Tango round 9
+ChatterBot Lima round 9
+ChatterBot Foxtrot round 9
+ChatterBot Oscar round 9
+ChatterBot Delta round 9
+ChatterBot Charlie round 9
+2024-10-15 01:18:52.095952 Oscar: We should drop Juliett
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-15 01:18:52.113538 Romeo: No
+2024-10-15 01:18:52.113734 Bravo: No
+2024-10-15 01:18:52.113899 Tango: No
+2024-10-15 01:18:52.114058 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:52.171709 Romeo: Bravo, sending you 1
+2024-10-15 01:18:52.173115 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:52.175075 Delta: We should drop Oscar
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:52.193014 Romeo: No
+2024-10-15 01:18:52.193253 Bravo: Yes
+2024-10-15 01:18:52.193436 Juliett: No
+2024-10-15 01:18:52.193626 Tango: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:52.255026 Sierra: Sending you each 4
+2024-10-15 01:18:52.255429 Juliett: Romeo, sending you 3
+2024-10-15 01:18:52.256898 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:52.260679 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:52.261380 Charlie: Same as last round
+2024-10-15 01:18:52.261784 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:52.262160 Foxtrot: Same as last round
+2024-10-15 01:18:52.263701 Juliett: Tango and Delta, sending you 2
+2024-10-15 01:18:52.266698 Lima: Charlie, sending you 3
+2024-10-15 01:18:52.273677 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:52.276672 Oscar: Bravo, Juliett and Tango, sending you 1
+2024-10-15 01:18:52.282049 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:52.283102 Delta: Same as last round
+2024-10-15 01:18:52.285665 Bravo: Juliett, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 10
+ChatterBot Sierra round 10
+ChatterBot Bravo round 10
+ChatterBot Juliett round 10
+ChatterBot Tango round 10
+ChatterBot Lima round 10
+ChatterBot Foxtrot round 10
+ChatterBot Oscar round 10
+ChatterBot Delta round 10
+ChatterBot Charlie round 10
+2024-10-15 01:18:53.351199 Charlie: We should add Juliett
+2024-10-15 01:18:53.364415 Lima: No
+2024-10-15 01:18:53.365458 Sierra: No
+2024-10-15 01:18:53.365791 Foxtrot: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:18:53.408649 Delta: We should drop Oscar
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:53.426736 Romeo: No
+2024-10-15 01:18:53.427664 Bravo: Yes
+2024-10-15 01:18:53.427982 Juliett: No
+2024-10-15 01:18:53.428318 Tango: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:53.497663 Romeo: Bravo, sending you 1
+2024-10-15 01:18:53.499037 Foxtrot: Same as last round
+2024-10-15 01:18:53.500451 Juliett: Romeo, sending you 3
+2024-10-15 01:18:53.501166 Oscar: Romeo and Delta, sending you 2
+2024-10-15 01:18:53.501961 Sierra: Same as last round
+2024-10-15 01:18:53.502275 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:53.503113 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:53.505700 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:53.506665 Oscar: Bravo, Juliett and Tango, sending you 1
+2024-10-15 01:18:53.507350 Lima: Charlie, sending you 3
+2024-10-15 01:18:53.509691 Juliett: Tango and Delta, sending you 2
+2024-10-15 01:18:53.522736 Charlie: Same as last round
+2024-10-15 01:18:53.527139 Tango: Same as last round
+2024-10-15 01:18:53.530368 Bravo: Romeo, sending you 2
+2024-10-15 01:18:53.533702 Delta: Romeo, Juliett and Tango, sending you 3
+2024-10-15 01:18:53.534192 Bravo: Juliett, sending you 1
+2024-10-15 01:18:53.537706 Delta: Bravo, sending you 1
+2024-10-15 01:18:53.538234 Bravo: Tango and Delta, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 11
+ChatterBot Sierra round 11
+ChatterBot Bravo round 11
+ChatterBot Juliett round 11
+ChatterBot Tango round 11
+ChatterBot Lima round 11
+ChatterBot Foxtrot round 11
+2024-10-15 01:18:54.569850 Tango: We should add Oscar
+2024-10-15 01:18:54.584880 Delta: No
+2024-10-15 01:18:54.585075 Romeo: Yes
+2024-10-15 01:18:54.585225 Bravo: No
+2024-10-15 01:18:54.585368 Juliett: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar round 11
+ChatterBot Delta round 11
+ChatterBot Charlie round 11
+2024-10-15 01:18:54.640815 Tango: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:54.643984 Oscar: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:54.657116 Delta: We should add Oscar
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:54.668098 Romeo: Yes
+2024-10-15 01:18:54.668241 Bravo: Yes
+2024-10-15 01:18:54.668350 Juliett: Yes
+2024-10-15 01:18:54.668456 Tango: Yes
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:54.718677 Sierra: Same as last round
+2024-10-15 01:18:54.719065 Delta: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:54.724489 Oscar: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:18:54.766249 Romeo: Bravo, sending you 1
+2024-10-15 01:18:54.769695 Foxtrot: Same as last round
+2024-10-15 01:18:54.770128 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:54.771048 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:54.772542 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:54.777946 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:18:54.780010 Oscar: We should drop Tango
+2024-10-15 01:18:54.846372 Romeo: No
+2024-10-15 01:18:54.846528 Bravo: No
+2024-10-15 01:18:54.846671 Juliett: No
+2024-10-15 01:18:54.846824 Delta: No
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:54.928505 Bravo: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:54.932960 Oscar: No
+ChatterBot Delta reevaluating
+2024-10-15 01:18:54.947461 Lima: Charlie, sending you 3
+2024-10-15 01:18:54.948110 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:54.952160 Charlie: Same as last round
+2024-10-15 01:18:54.954028 Juliett: Delta, sending you 3
+2024-10-15 01:18:54.958971 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:54.963679 Bravo: Juliett, sending you 1
+2024-10-15 01:18:54.972659 Delta: Sending you each 2
+2024-10-15 01:18:54.976680 Oscar: Romeo, Bravo and Delta, sending you 2
+2024-10-15 01:18:54.980663 Oscar: Juliett, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 12
+ChatterBot Sierra round 12
+ChatterBot Bravo round 12
+ChatterBot Juliett round 12
+ChatterBot Tango round 12
+ChatterBot Lima round 12
+ChatterBot Foxtrot round 12
+ChatterBot Oscar round 12
+ChatterBot Delta round 12
+ChatterBot Charlie round 12
+2024-10-15 01:18:56.092344 Oscar: We should add Tango
+2024-10-15 01:18:56.104202 Romeo: Yes
+2024-10-15 01:18:56.104426 Bravo: Yes
+2024-10-15 01:18:56.104630 Juliett: Yes
+2024-10-15 01:18:56.104799 Delta: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:56.162667 Sierra: Same as last round
+2024-10-15 01:18:56.165034 Oscar: Tango we want you to join our group
+2024-10-15 01:18:56.169551 Tango: Yes
+ChatterBot Oscar reevaluating
+2024-10-15 01:18:56.190957 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:56.192276 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:18:56.193267 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:56.193930 Foxtrot: Same as last round
+2024-10-15 01:18:56.195019 Romeo: Bravo, sending you 1
+2024-10-15 01:18:56.195815 Charlie: Same as last round
+2024-10-15 01:18:56.196274 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:56.197095 Delta: Same as last round
+2024-10-15 01:18:56.198605 Bravo: Juliett, sending you 1
+2024-10-15 01:18:56.199501 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:56.200271 Lima: Charlie, sending you 3
+2024-10-15 01:18:56.200741 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:56.204683 Juliett: Delta, sending you 3
+2024-10-15 01:18:56.219692 Oscar: Romeo, sending you 3
+2024-10-15 01:18:56.225706 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 13
+ChatterBot Sierra round 13
+ChatterBot Bravo round 13
+ChatterBot Juliett round 13
+ChatterBot Tango round 13
+ChatterBot Lima round 13
+ChatterBot Foxtrot round 13
+ChatterBot Oscar round 13
+ChatterBot Delta round 13
+ChatterBot Charlie round 13
+2024-10-15 01:18:57.339800 Delta: We should drop Oscar
+2024-10-15 01:18:57.350446 Romeo: No
+2024-10-15 01:18:57.350610 Bravo: No
+2024-10-15 01:18:57.350764 Juliett: No
+2024-10-15 01:18:57.350885 Tango: No
+2024-10-15 01:18:57.390689 Juliett: Romeo, sending you 3
+2024-10-15 01:18:57.392427 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:57.393592 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:57.394785 Oscar: Romeo, sending you 3
+2024-10-15 01:18:57.396206 Foxtrot: Same as last round
+2024-10-15 01:18:57.396580 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:57.397057 Sierra: Same as last round
+2024-10-15 01:18:57.397399 Romeo: Bravo, sending you 1
+2024-10-15 01:18:57.398911 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:57.400747 Bravo: Juliett, sending you 1
+2024-10-15 01:18:57.401905 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:18:57.403324 Lima: Charlie, sending you 3
+2024-10-15 01:18:57.403865 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:57.404850 Juliett: Tango and Delta, sending you 2
+2024-10-15 01:18:57.406166 Charlie: Same as last round
+2024-10-15 01:18:57.409765 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:18:57.414015 Delta: Bravo and Tango, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 14
+ChatterBot Sierra round 14
+ChatterBot Bravo round 14
+ChatterBot Juliett round 14
+ChatterBot Tango round 14
+ChatterBot Lima round 14
+ChatterBot Foxtrot round 14
+ChatterBot Oscar round 14
+ChatterBot Delta round 14
+ChatterBot Charlie round 14
+2024-10-15 01:18:58.553681 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:58.556941 Sierra: Lima, sending you 4
+2024-10-15 01:18:58.558517 Charlie: Same as last round
+2024-10-15 01:18:58.559410 Bravo: Juliett, sending you 1
+2024-10-15 01:18:58.562311 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:18:58.564884 Delta: Romeo, Juliett and Tango, sending you 3
+2024-10-15 01:18:58.566864 Sierra: Charlie, sending you 5
+2024-10-15 01:18:58.568285 Foxtrot: Same as last round
+2024-10-15 01:18:58.568958 Oscar: Romeo, sending you 3
+2024-10-15 01:18:58.571146 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:58.572413 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:58.574385 Delta: Bravo, sending you 1
+2024-10-15 01:18:58.575584 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:58.576347 Romeo: Bravo, sending you 1
+2024-10-15 01:18:58.578132 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:18:58.579346 Juliett: Delta, sending you 3
+2024-10-15 01:18:58.581400 Lima: Charlie, sending you 3
+2024-10-15 01:18:58.582917 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Romeo round 15
+ChatterBot Sierra round 15
+ChatterBot Bravo round 15
+ChatterBot Juliett round 15
+ChatterBot Tango round 15
+ChatterBot Lima round 15
+ChatterBot Foxtrot round 15
+ChatterBot Oscar round 15
+ChatterBot Delta round 15
+ChatterBot Charlie round 15
+2024-10-15 01:18:59.705672 Bravo: Romeo, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:59.707705 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:18:59.708371 Romeo: Bravo, sending you 1
+2024-10-15 01:18:59.710704 Foxtrot: Same as last round
+2024-10-15 01:18:59.712314 Lima: Charlie, sending you 3
+2024-10-15 01:18:59.713025 Sierra: Lima, sending you 4
+2024-10-15 01:18:59.713345 Bravo: Juliett, sending you 1
+2024-10-15 01:18:59.715370 Tango: Romeo, Bravo, Juliett and Delta, sending you 2
+2024-10-15 01:18:59.716293 Charlie: Same as last round
+2024-10-15 01:18:59.717401 Romeo: Juliett, Tango, Oscar and Delta, sending you 2
+2024-10-15 01:18:59.718260 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:18:59.718841 Sierra: Charlie, sending you 5
+2024-10-15 01:18:59.721690 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:18:59.724021 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:18:59.726175 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:18:59.727416 Oscar: Romeo, sending you 3
+2024-10-15 01:18:59.731663 Juliett: Delta, sending you 3
+2024-10-15 01:18:59.733665 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Romeo round 16
+ChatterBot Sierra round 16
+ChatterBot Bravo round 16
+ChatterBot Juliett round 16
+ChatterBot Tango round 16
+ChatterBot Lima round 16
+ChatterBot Foxtrot round 16
+ChatterBot Oscar round 16
+ChatterBot Delta round 16
+ChatterBot Charlie round 16
+2024-10-15 01:19:00.947072 Charlie: We should add Oscar
+2024-10-15 01:19:00.965927 Lima: No
+2024-10-15 01:19:00.966990 Sierra: No
+2024-10-15 01:19:00.967334 Foxtrot: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:19:01.022046 Oscar: We should drop Delta
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:19:01.043296 Romeo: No
+2024-10-15 01:19:01.043496 Bravo: No
+2024-10-15 01:19:01.043702 Juliett: No
+2024-10-15 01:19:01.043886 Tango: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-15 01:19:01.151109 Foxtrot: Same as last round
+2024-10-15 01:19:01.152189 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:01.153717 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:01.155419 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:19:01.158268 Sierra: Lima, sending you 4
+2024-10-15 01:19:01.159760 Oscar: We should drop Juliett
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:19:01.181085 Romeo: No
+2024-10-15 01:19:01.181311 Bravo: No
+2024-10-15 01:19:01.181499 Tango: No
+2024-10-15 01:19:01.181677 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-15 01:19:01.262709 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:01.263322 Lima: Charlie, sending you 3
+2024-10-15 01:19:01.264558 Juliett: Bravo and Oscar, sending you 1
+2024-10-15 01:19:01.266952 Sierra: Charlie, sending you 5
+2024-10-15 01:19:01.267866 Romeo: We should drop Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:19:01.283649 Delta: Yes
+2024-10-15 01:19:01.284854 Bravo: Yes
+2024-10-15 01:19:01.285040 Juliett: Yes
+2024-10-15 01:19:01.285226 Tango: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Juliett reevaluating
+chatterbot Juliett submitting transactions
+2024-10-15 01:19:01.350846 Charlie: Same as last round
+2024-10-15 01:19:01.351873 Oscar: Romeo, sending you 3
+2024-10-15 01:19:01.356673 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:01.370739 Juliett: Sorry, I'm actually sending you 0
+2024-10-15 01:19:01.374708 Tango: Same as last round
+2024-10-15 01:19:01.375730 Juliett: Romeo and Delta, sending you 3
+2024-10-15 01:19:01.381305 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:01.382686 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:01.385694 Bravo: Tango, sending you 3
+2024-10-15 01:19:01.387805 Romeo: Delta, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 17
+ChatterBot Sierra round 17
+ChatterBot Bravo round 17
+ChatterBot Juliett round 17
+ChatterBot Tango round 17
+ChatterBot Lima round 17
+ChatterBot Foxtrot round 17
+ChatterBot Oscar round 17
+ChatterBot Delta round 17
+ChatterBot Charlie round 17
+2024-10-15 01:19:02.596687 Juliett: Romeo and Delta, sending you 3
+2024-10-15 01:19:02.601623 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:02.605422 Charlie: Same as last round
+2024-10-15 01:19:02.611132 Juliett: Bravo, sending you 1
+2024-10-15 01:19:02.619623 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:02.622642 Sierra: Lima, sending you 4
+2024-10-15 01:19:02.624857 Romeo: Delta, sending you 3
+2024-10-15 01:19:02.629103 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:02.631653 Tango: Same as last round
+2024-10-15 01:19:02.634650 Oscar: Romeo, sending you 3
+2024-10-15 01:19:02.638757 Foxtrot: Same as last round
+2024-10-15 01:19:02.640428 Juliett: Tango, sending you 2
+2024-10-15 01:19:02.641914 Bravo: Tango, sending you 3
+2024-10-15 01:19:02.645642 Sierra: Charlie, sending you 5
+2024-10-15 01:19:02.646630 Lima: Charlie, sending you 3
+2024-10-15 01:19:02.649393 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:02.652602 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:02.656717 Delta: Bravo and Tango, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 18
+ChatterBot Sierra round 18
+ChatterBot Bravo round 18
+ChatterBot Juliett round 18
+ChatterBot Tango round 18
+ChatterBot Lima round 18
+ChatterBot Foxtrot round 18
+ChatterBot Oscar round 18
+ChatterBot Delta round 18
+ChatterBot Charlie round 18
+2024-10-15 01:19:03.873172 Oscar: We should drop Bravo
+2024-10-15 01:19:03.883708 Delta: No
+2024-10-15 01:19:03.884573 Romeo: No
+2024-10-15 01:19:03.884924 Juliett: No
+2024-10-15 01:19:03.885255 Tango: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:19:03.973429 Sierra: Lima, sending you 4
+2024-10-15 01:19:03.974419 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:19:03.976120 Foxtrot: Same as last round
+2024-10-15 01:19:03.977282 Oscar: We should drop Tango
+2024-10-15 01:19:03.991757 Romeo: No
+2024-10-15 01:19:03.992098 Bravo: No
+2024-10-15 01:19:03.992392 Juliett: No
+2024-10-15 01:19:03.992578 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:19:04.047343 Sierra: Charlie, sending you 5
+2024-10-15 01:19:04.048691 Juliett: Bravo, sending you 1
+2024-10-15 01:19:04.051128 Charlie: Same as last round
+2024-10-15 01:19:04.051998 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:04.053841 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:04.055098 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:04.057156 Tango: Same as last round
+2024-10-15 01:19:04.059256 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:04.060494 Juliett: Delta, sending you 4
+2024-10-15 01:19:04.062099 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:04.063744 Lima: Charlie, sending you 3
+2024-10-15 01:19:04.065319 Romeo: Delta, sending you 3
+2024-10-15 01:19:04.067356 Bravo: Tango, sending you 3
+2024-10-15 01:19:04.099583 Oscar: Romeo, sending you 3
+2024-10-15 01:19:04.175830 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 19
+ChatterBot Sierra round 19
+ChatterBot Bravo round 19
+ChatterBot Juliett round 19
+ChatterBot Tango round 19
+ChatterBot Lima round 19
+ChatterBot Foxtrot round 19
+ChatterBot Oscar round 19
+ChatterBot Delta round 19
+ChatterBot Charlie round 19
+2024-10-15 01:19:05.111860 Oscar: We should drop Delta
+2024-10-15 01:19:05.121737 Romeo: No
+2024-10-15 01:19:05.121915 Bravo: No
+2024-10-15 01:19:05.122070 Juliett: No
+2024-10-15 01:19:05.122217 Tango: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-15 01:19:05.168568 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:05.172692 Romeo: Delta, sending you 3
+2024-10-15 01:19:05.173975 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:05.175877 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:19:05.177316 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:05.178603 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:05.180503 Tango: Same as last round
+2024-10-15 01:19:05.181886 Sierra: Lima, sending you 4
+2024-10-15 01:19:05.182608 Foxtrot: Same as last round
+2024-10-15 01:19:05.183915 Bravo: Tango, sending you 3
+2024-10-15 01:19:05.185230 Juliett: Bravo, sending you 1
+2024-10-15 01:19:05.186778 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:05.188771 Lima: Charlie, sending you 3
+2024-10-15 01:19:05.189887 Sierra: Charlie, sending you 5
+2024-10-15 01:19:05.190657 Charlie: Same as last round
+2024-10-15 01:19:05.192323 Juliett: Delta, sending you 4
+2024-10-15 01:19:05.194692 Oscar: Romeo, sending you 3
+2024-10-15 01:19:05.199951 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 20
+ChatterBot Sierra round 20
+ChatterBot Bravo round 20
+ChatterBot Juliett round 20
+ChatterBot Tango round 20
+ChatterBot Lima round 20
+ChatterBot Foxtrot round 20
+ChatterBot Oscar round 20
+ChatterBot Delta round 20
+ChatterBot Charlie round 20
+2024-10-15 01:19:06.435693 Foxtrot: Same as last round
+2024-10-15 01:19:06.437704 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:06.438540 Sierra: Sending you each 5
+2024-10-15 01:19:06.439521 Charlie: Same as last round
+2024-10-15 01:19:06.441678 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:06.443115 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:06.443631 Lima: Charlie, sending you 3
+2024-10-15 01:19:06.444011 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:06.445116 Tango: Same as last round
+2024-10-15 01:19:06.446258 Juliett: Romeo and Tango, sending you 2
+2024-10-15 01:19:06.447269 Romeo: Delta, sending you 3
+2024-10-15 01:19:06.447953 Bravo: Tango, sending you 3
+2024-10-15 01:19:06.449692 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:06.451666 Juliett: Bravo, sending you 1
+2024-10-15 01:19:06.456704 Juliett: Delta, sending you 4
+2024-10-15 01:19:06.457750 Oscar: Romeo, sending you 3
+2024-10-15 01:19:06.463663 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 21
+ChatterBot Sierra round 21
+ChatterBot Bravo round 21
+ChatterBot Juliett round 21
+ChatterBot Tango round 21
+ChatterBot Lima round 21
+ChatterBot Foxtrot round 21
+ChatterBot Oscar round 21
+ChatterBot Delta round 21
+ChatterBot Charlie round 21
+2024-10-15 01:19:07.811220 Charlie: We should add Tango
+2024-10-15 01:19:07.819776 Lima: No
+2024-10-15 01:19:07.819960 Sierra: No
+2024-10-15 01:19:07.820656 Foxtrot: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:19:07.849080 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:07.858790 Juliett: Delta, sending you 3
+2024-10-15 01:19:07.958983 Sierra: Same as last round
+2024-10-15 01:19:07.960964 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:07.963551 Foxtrot: Same as last round
+2024-10-15 01:19:07.964259 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:07.967632 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:07.970280 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:07.972805 Oscar: Romeo, sending you 3
+2024-10-15 01:19:07.975249 Tango: Same as last round
+2024-10-15 01:19:07.978029 Lima: Charlie, sending you 3
+2024-10-15 01:19:07.978995 Charlie: Same as last round
+2024-10-15 01:19:07.980693 Bravo: Tango, sending you 3
+2024-10-15 01:19:07.982022 Romeo: Delta, sending you 3
+2024-10-15 01:19:07.984187 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:07.986196 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 22
+ChatterBot Sierra round 22
+ChatterBot Bravo round 22
+ChatterBot Juliett round 22
+ChatterBot Tango round 22
+ChatterBot Lima round 22
+ChatterBot Foxtrot round 22
+ChatterBot Oscar round 22
+ChatterBot Delta round 22
+ChatterBot Charlie round 22
+2024-10-15 01:19:09.429837 Charlie: Same as last round
+2024-10-15 01:19:09.431708 Foxtrot: Same as last round
+2024-10-15 01:19:09.432749 Oscar: Romeo, sending you 3
+2024-10-15 01:19:09.436860 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:09.440275 Tango: Same as last round
+2024-10-15 01:19:09.442692 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:09.445247 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:09.447293 Sierra: Same as last round
+2024-10-15 01:19:09.448892 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:09.452620 Romeo: Delta, sending you 3
+2024-10-15 01:19:09.455295 Bravo: Tango, sending you 3
+2024-10-15 01:19:09.458478 Lima: Charlie, sending you 3
+2024-10-15 01:19:09.460669 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:09.463783 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:09.495141 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:09.498207 Juliett: Delta, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 23
+ChatterBot Sierra round 23
+ChatterBot Bravo round 23
+ChatterBot Juliett round 23
+ChatterBot Tango round 23
+ChatterBot Lima round 23
+ChatterBot Foxtrot round 23
+ChatterBot Oscar round 23
+ChatterBot Delta round 23
+ChatterBot Charlie round 23
+2024-10-15 01:19:11.675462 Charlie: We should add Bravo
+ChatterBot Lima reevaluating
+2024-10-15 01:19:11.761400 Lima: Yes
+2024-10-15 01:19:11.761732 Sierra: No
+2024-10-15 01:19:11.761974 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Charlie reevaluating
+2024-10-15 01:19:11.936640 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:11.940798 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:11.944142 Foxtrot: Same as last round
+2024-10-15 01:19:11.949821 Bravo: Tango, sending you 3
+2024-10-15 01:19:11.953550 Juliett: Delta, sending you 3
+2024-10-15 01:19:11.956014 Tango: Same as last round
+2024-10-15 01:19:11.956928 Sierra: Same as last round
+2024-10-15 01:19:11.958393 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:11.960999 Charlie: Same as last round
+2024-10-15 01:19:11.962604 Oscar: Romeo, sending you 3
+2024-10-15 01:19:11.966661 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:11.969151 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:11.970889 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:11.972510 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:11.976195 Romeo: Delta, sending you 3
+2024-10-15 01:19:11.979194 Lima: Charlie, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 24
+ChatterBot Sierra round 24
+ChatterBot Bravo round 24
+ChatterBot Juliett round 24
+ChatterBot Tango round 24
+ChatterBot Lima round 24
+ChatterBot Foxtrot round 24
+ChatterBot Oscar round 24
+ChatterBot Delta round 24
+ChatterBot Charlie round 24
+2024-10-15 01:19:12.901693 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:12.903731 Charlie: Sierra, sending you 3
+2024-10-15 01:19:12.904899 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:12.907885 Oscar: Romeo, sending you 3
+2024-10-15 01:19:12.912227 Lima: Charlie, sending you 3
+2024-10-15 01:19:12.913695 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:12.914987 Juliett: Delta, sending you 3
+2024-10-15 01:19:12.917993 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:12.919981 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:12.922282 Sierra: Same as last round
+2024-10-15 01:19:12.923567 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:12.926337 Tango: Same as last round
+2024-10-15 01:19:12.929457 Bravo: Romeo, Juliett and Delta, sending you 2
+2024-10-15 01:19:12.932696 Foxtrot: Same as last round
+2024-10-15 01:19:12.934347 Romeo: Delta, sending you 3
+2024-10-15 01:19:12.937136 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:12.940314 Bravo: Tango, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Romeo round 25
+ChatterBot Sierra round 25
+ChatterBot Bravo round 25
+ChatterBot Juliett round 25
+ChatterBot Tango round 25
+ChatterBot Lima round 25
+ChatterBot Foxtrot round 25
+ChatterBot Oscar round 25
+ChatterBot Delta round 25
+ChatterBot Charlie round 25
+2024-10-15 01:19:14.175259 Foxtrot: We should add Sierra
+2024-10-15 01:19:14.181606 Lima: Yes
+2024-10-15 01:19:14.181760 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:19:14.228848 Foxtrot: Sierra we want you to join our group
+2024-10-15 01:19:14.235342 Sierra: No
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:19:14.251576 Sierra: Same as last round
+2024-10-15 01:19:14.253670 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:14.255441 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:14.258377 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:14.261701 Oscar: Romeo, sending you 3
+2024-10-15 01:19:14.265750 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:14.268585 Bravo: Romeo, sending you 3
+2024-10-15 01:19:14.271594 Tango: Same as last round
+2024-10-15 01:19:14.274387 Charlie: Sierra, sending you 3
+2024-10-15 01:19:14.276569 Lima: Charlie, sending you 3
+2024-10-15 01:19:14.277791 Romeo: Delta, sending you 3
+2024-10-15 01:19:14.280015 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:14.282363 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:14.285627 Juliett: Delta, sending you 3
+2024-10-15 01:19:14.288054 Bravo: Juliett, Tango and Delta, sending you 2
+2024-10-15 01:19:14.290421 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:14.295698 Foxtrot: Same as last round
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 26
+ChatterBot Sierra round 26
+ChatterBot Bravo round 26
+ChatterBot Juliett round 26
+ChatterBot Tango round 26
+ChatterBot Lima round 26
+ChatterBot Foxtrot round 26
+ChatterBot Oscar round 26
+ChatterBot Delta round 26
+ChatterBot Charlie round 26
+2024-10-15 01:19:15.357132 Foxtrot: We should add Sierra
+2024-10-15 01:19:15.364894 Lima: Yes
+2024-10-15 01:19:15.365839 Charlie: Yes
+2024-10-15 01:19:15.405963 Foxtrot: Sierra we want you to join our group
+2024-10-15 01:19:15.410794 Sierra: No
+ChatterBot Foxtrot reevaluating
+2024-10-15 01:19:15.488768 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:15.511876 Juliett: Delta, sending you 3
+2024-10-15 01:19:15.515717 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:15.517864 Charlie: Sierra, sending you 3
+2024-10-15 01:19:15.519772 Oscar: Romeo, sending you 3
+2024-10-15 01:19:15.524073 Sierra: Same as last round
+2024-10-15 01:19:15.525249 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:15.528921 Bravo: Romeo, sending you 3
+2024-10-15 01:19:15.532304 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:15.535715 Tango: Same as last round
+2024-10-15 01:19:15.539870 Lima: Charlie, sending you 3
+2024-10-15 01:19:15.541949 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:15.543477 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+2024-10-15 01:19:15.547973 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:15.551242 Bravo: Juliett, Tango and Delta, sending you 2
+2024-10-15 01:19:15.555086 Romeo: Delta, sending you 3
+2024-10-15 01:19:15.558387 Foxtrot: Same as last round
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Romeo round 27
+ChatterBot Sierra round 27
+ChatterBot Bravo round 27
+ChatterBot Juliett round 27
+ChatterBot Tango round 27
+ChatterBot Lima round 27
+ChatterBot Foxtrot round 27
+ChatterBot Oscar round 27
+ChatterBot Delta round 27
+ChatterBot Charlie round 27
+2024-10-15 01:19:16.669687 Tango: Same as last round
+2024-10-15 01:19:16.672894 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:16.675520 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:16.688072 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:16.690579 Sierra: Same as last round
+2024-10-15 01:19:16.691551 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:16.693817 Charlie: Sierra, sending you 3
+2024-10-15 01:19:16.695518 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:16.697417 Romeo: Delta, sending you 3
+2024-10-15 01:19:16.699461 Bravo: Romeo, sending you 3
+2024-10-15 01:19:16.702050 Foxtrot: Same as last round
+2024-10-15 01:19:16.702595 Oscar: Romeo, sending you 3
+2024-10-15 01:19:16.704730 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:16.706667 Juliett: Delta, sending you 3
+2024-10-15 01:19:16.708982 Lima: Charlie, sending you 3
+2024-10-15 01:19:16.711456 Bravo: Juliett, Tango and Delta, sending you 2
+2024-10-15 01:19:16.713692 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 28
+ChatterBot Sierra round 28
+ChatterBot Bravo round 28
+ChatterBot Juliett round 28
+ChatterBot Tango round 28
+ChatterBot Lima round 28
+ChatterBot Foxtrot round 28
+ChatterBot Oscar round 28
+ChatterBot Delta round 28
+ChatterBot Charlie round 28
+2024-10-15 01:19:18.745812 Bravo: Romeo, sending you 3
+2024-10-15 01:19:18.749385 Sierra: Same as last round
+2024-10-15 01:19:18.750963 Foxtrot: Same as last round
+2024-10-15 01:19:18.751749 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:18.755217 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:18.758513 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:18.762690 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:18.764993 Charlie: Sierra, sending you 3
+2024-10-15 01:19:18.768447 Bravo: Juliett, Tango and Delta, sending you 2
+2024-10-15 01:19:18.771954 Romeo: Delta, sending you 3
+2024-10-15 01:19:18.776203 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:18.780526 Juliett: Delta, sending you 3
+2024-10-15 01:19:18.784575 Lima: Charlie, sending you 3
+2024-10-15 01:19:18.786686 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:18.789610 Tango: Same as last round
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 29
+ChatterBot Sierra round 29
+ChatterBot Bravo round 29
+ChatterBot Juliett round 29
+ChatterBot Tango round 29
+ChatterBot Lima round 29
+ChatterBot Foxtrot round 29
+ChatterBot Oscar round 29
+ChatterBot Delta round 29
+ChatterBot Charlie round 29
+2024-10-15 01:19:20.311705 Bravo: Romeo, sending you 3
+2024-10-15 01:19:20.316733 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:20.321332 Tango: Same as last round
+2024-10-15 01:19:20.324815 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:20.329298 Foxtrot: Same as last round
+2024-10-15 01:19:20.330576 Sierra: Same as last round
+2024-10-15 01:19:20.331930 Bravo: Juliett, Tango and Delta, sending you 2
+2024-10-15 01:19:20.336022 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:20.338993 Juliett: Delta, sending you 3
+2024-10-15 01:19:20.342602 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:20.345282 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:20.347104 Charlie: Sierra, sending you 3
+2024-10-15 01:19:20.348587 Oscar: Romeo, sending you 3
+2024-10-15 01:19:20.352161 Romeo: Delta, sending you 3
+2024-10-15 01:19:20.354187 Lima: Charlie, sending you 3
+2024-10-15 01:19:20.355033 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:20.356797 Oscar: Bravo, Juliett, Tango and Delta, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 30
+ChatterBot Sierra round 30
+ChatterBot Bravo round 30
+ChatterBot Juliett round 30
+ChatterBot Tango round 30
+ChatterBot Lima round 30
+ChatterBot Foxtrot round 30
+ChatterBot Oscar round 30
+ChatterBot Delta round 30
+ChatterBot Charlie round 30
+2024-10-15 01:19:21.810566 Sierra: Same as last round
+2024-10-15 01:19:21.868635 Juliett: Romeo, Bravo and Tango, sending you 2
+2024-10-15 01:19:21.872655 Bravo: Romeo, sending you 3
+2024-10-15 01:19:21.876374 Charlie: Sierra, sending you 3
+2024-10-15 01:19:21.878429 Tango: Same as last round
+2024-10-15 01:19:21.880924 Romeo: Bravo, Juliett and Tango, sending you 2
+2024-10-15 01:19:21.883978 Foxtrot: Same as last round
+2024-10-15 01:19:21.885579 Delta: Romeo and Juliett, sending you 3
+2024-10-15 01:19:21.887972 Lima: Sierra and Foxtrot, sending you 2
+2024-10-15 01:19:21.889711 Juliett: Delta, sending you 3
+2024-10-15 01:19:21.892984 Bravo: Juliett, Tango and Delta, sending you 2
+2024-10-15 01:19:21.895530 Charlie: Lima and Foxtrot, sending you 4
+2024-10-15 01:19:21.897533 Romeo: Delta, sending you 3
+2024-10-15 01:19:21.900113 Delta: Bravo and Tango, sending you 2
+2024-10-15 01:19:21.902131 Lima: Charlie, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions

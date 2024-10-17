@@ -1,0 +1,2032 @@
+ChatterBot Sierra round 1
+ChatterBot Lima round 1
+ChatterBot Zulu round 1
+ChatterBot Juliett round 1
+ChatterBot Echo round 1
+ChatterBot Uniform round 1
+ChatterBot Romeo round 1
+ChatterBot Whiskey round 1
+ChatterBot Alpha round 1
+ChatterBot Hotel round 1
+randomSelections Zulu: {Zulu} 
+randomSelections Lima: {Lima, Romeo, Sierra, Zulu, Echo, Alpha} 
+2024-10-15 01:57:15.456118 Lima: Can we be friends?
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:15.472028 Romeo: Yes
+2024-10-15 01:57:15.472372 Sierra: Yes
+2024-10-15 01:57:15.472670 Zulu: No
+2024-10-15 01:57:15.472914 Echo: Yes
+2024-10-15 01:57:15.473119 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+randomSelections Whiskey: {Whiskey, Echo, Alpha, Juliett} 
+2024-10-15 01:57:15.549875 Whiskey: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:57:15.558541 Echo: No
+2024-10-15 01:57:15.558793 Alpha: No
+2024-10-15 01:57:15.558997 Juliett: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+randomSelections Uniform: {Uniform, Whiskey, Hotel, Lima, Echo, Juliett, Sierra, Zulu} 
+2024-10-15 01:57:15.591587 Uniform: We should group up
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:15.606203 Whiskey: No
+2024-10-15 01:57:15.606572 Hotel: Yes
+2024-10-15 01:57:15.606883 Lima: No
+2024-10-15 01:57:15.607872 Echo: No
+2024-10-15 01:57:15.608140 Juliett: No
+2024-10-15 01:57:15.608577 Sierra: No
+2024-10-15 01:57:15.609733 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:15.725626 Lima: Sierra, Zulu and Echo, sending you 1
+2024-10-15 01:57:15.726425 Alpha: Sierra and Echo, sending you 3
+2024-10-15 01:57:15.731544 Lima: Romeo, sending you 2
+2024-10-15 01:57:15.732946 Juliett: Echo and Alpha, sending you 3
+2024-10-15 01:57:15.733633 Uniform: Sierra, Lima, Juliett and Echo, sending you 1
+2024-10-15 01:57:15.735031 Sierra: Lima, Zulu, Romeo and Alpha, sending you 3
+2024-10-15 01:57:15.736706 Romeo: Sierra, sending you 2
+2024-10-15 01:57:15.737585 Alpha: Lima, sending you 2
+2024-10-15 01:57:15.739276 Whiskey: Juliett, sending you 5
+2024-10-15 01:57:15.740552 Echo: Sierra, sending you 4
+2024-10-15 01:57:15.742210 Lima: Alpha, sending you 3
+2024-10-15 01:57:15.742826 Juliett: Whiskey, sending you 2
+2024-10-15 01:57:15.743800 Uniform: Hotel, sending you 3
+2024-10-15 01:57:15.744471 Sierra: Echo, sending you 2
+2024-10-15 01:57:15.746014 Romeo: Zulu, sending you 4
+2024-10-15 01:57:15.746931 Alpha: Zulu, sending you 1
+2024-10-15 01:57:15.748090 Hotel: Sierra, Juliett and Uniform, sending you 1
+2024-10-15 01:57:15.749618 Whiskey: Echo, sending you 3
+2024-10-15 01:57:15.750341 Echo: Lima, sending you 1
+2024-10-15 01:57:15.751873 Alpha: Romeo, sending you 4
+2024-10-15 01:57:15.753479 Romeo: Alpha, sending you 1
+2024-10-15 01:57:15.755011 Hotel: Lima, sending you 4
+2024-10-15 01:57:15.755678 Whiskey: Alpha, sending you 2
+2024-10-15 01:57:15.756913 Echo: Zulu and Alpha, sending you 3
+2024-10-15 01:57:15.774303 Hotel: Zulu and Echo, sending you 2
+2024-10-15 01:57:15.775717 Echo: Romeo, sending you 2
+2024-10-15 01:57:15.780798 Hotel: Whiskey, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Sierra round 2
+ChatterBot Lima round 2
+ChatterBot Zulu round 2
+ChatterBot Juliett round 2
+ChatterBot Echo round 2
+ChatterBot Uniform round 2
+2024-10-15 01:57:16.920219 Lima: We should replace Zulu with Hotel
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:16.979684 Sierra: No
+2024-10-15 01:57:16.979883 Echo: No
+2024-10-15 01:57:16.980041 Romeo: No
+2024-10-15 01:57:16.980205 Alpha: No
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo round 2
+ChatterBot Whiskey round 2
+2024-10-15 01:57:17.140426 Juliett: Friends?
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:17.159230 Whiskey: Yes
+2024-10-15 01:57:17.159449 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:57:17.190588 Zulu: Friends?
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:17.223386 Lima: No
+2024-10-15 01:57:17.223541 Romeo: Yes
+2024-10-15 01:57:17.223658 Sierra: No
+2024-10-15 01:57:17.223767 Echo: No
+2024-10-15 01:57:17.223861 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha round 2
+ChatterBot Hotel round 2
+2024-10-15 01:57:17.420177 Uniform: We should group up
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:17.434362 Whiskey: Yes
+2024-10-15 01:57:17.434961 Juliett: No
+2024-10-15 01:57:17.435097 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:57:17.478478 Lima: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:17.483546 Hotel: No
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:17.528643 Sierra: We should drop Zulu
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:17.545758 Lima: Yes
+2024-10-15 01:57:17.545923 Echo: Yes
+2024-10-15 01:57:17.546039 Romeo: Yes
+2024-10-15 01:57:17.546632 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:17.704997 Uniform: Juliett and Whiskey, sending you 2
+2024-10-15 01:57:17.705271 Zulu: Sierra, Echo and Romeo, sending you 3
+2024-10-15 01:57:17.705588 Lima: Sierra and Alpha, sending you 2
+2024-10-15 01:57:17.706369 Juliett: Uniform and Hotel, sending you 2
+2024-10-15 01:57:17.706982 Sierra: Hotel we want you to join our group
+2024-10-15 01:57:17.726256 Hotel: No
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:17.873841 Sierra: We should group up
+2024-10-15 01:57:17.918683 Lima: No
+2024-10-15 01:57:17.919522 Echo: No
+2024-10-15 01:57:17.919977 Romeo: No
+2024-10-15 01:57:17.920402 Alpha: No
+2024-10-15 01:57:17.921201 Uniform: No
+2024-10-15 01:57:17.921476 Hotel: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Lima submitting transactions
+2024-10-15 01:57:18.187139 Uniform: Hotel, sending you 4
+2024-10-15 01:57:18.188128 Juliett: Whiskey, sending you 4
+2024-10-15 01:57:18.188499 Zulu: Lima and Alpha, sending you 1
+2024-10-15 01:57:18.189946 Lima: Echo, sending you 1
+2024-10-15 01:57:18.190415 Whiskey: Juliett and Hotel, sending you 5
+2024-10-15 01:57:18.191723 Hotel: Sending you 4
+2024-10-15 01:57:18.197777 Lima: Hotel, sending you 3
+2024-10-15 01:57:18.199344 Whiskey: Uniform, sending you 4
+2024-10-15 01:57:18.199988 Echo: Sierra and Alpha, sending you 4
+chatterbot Zulu submitting transactions
+2024-10-15 01:57:18.639180 Echo: Lima, sending you 2
+2024-10-15 01:57:18.640283 Alpha: Sierra, sending you 3
+chatterbot Juliett submitting transactions
+2024-10-15 01:57:18.651951 Alpha: Lima and Echo, sending you 4
+2024-10-15 01:57:18.652534 Romeo: Sierra, sending you 2
+2024-10-15 01:57:18.656606 Alpha: Romeo, sending you 2
+2024-10-15 01:57:18.661951 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:18.662899 Sierra: Lima, sending you 2
+2024-10-15 01:57:18.665679 Sierra: Echo and Alpha, sending you 4
+2024-10-15 01:57:18.668219 Romeo: Alpha, sending you 3
+2024-10-15 01:57:18.670666 Sierra: Romeo, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Sierra round 3
+ChatterBot Lima round 3
+ChatterBot Zulu round 3
+ChatterBot Juliett round 3
+ChatterBot Echo round 3
+ChatterBot Uniform round 3
+ChatterBot Romeo round 3
+ChatterBot Whiskey round 3
+ChatterBot Alpha round 3
+ChatterBot Hotel round 3
+2024-10-15 01:57:19.209048 Zulu: We should drop Lima
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:19.228911 Sierra: No
+2024-10-15 01:57:19.229241 Echo: No
+2024-10-15 01:57:19.229770 Romeo: No
+2024-10-15 01:57:19.230469 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:19.315046 Juliett: We should drop Hotel
+2024-10-15 01:57:19.323350 Whiskey: No
+2024-10-15 01:57:19.323541 Uniform: No
+2024-10-15 01:57:19.346395 Hotel: Group up?
+2024-10-15 01:57:19.360430 Juliett: No
+2024-10-15 01:57:19.360642 Whiskey: No
+2024-10-15 01:57:19.360747 Uniform: No
+2024-10-15 01:57:19.360835 Lima: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:19.422544 Lima: We should drop Hotel
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:19.436866 Sierra: Yes
+2024-10-15 01:57:19.437003 Echo: Yes
+2024-10-15 01:57:19.437097 Romeo: Yes
+2024-10-15 01:57:19.437187 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:19.500696 Uniform: Juliett and Whiskey, sending you 4
+2024-10-15 01:57:19.502047 Sierra: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:19.506898 Zulu: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:19.525438 Romeo: We should add Zulu
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:19.539459 Lima: No
+2024-10-15 01:57:19.539639 Sierra: Yes
+2024-10-15 01:57:19.539751 Echo: Yes
+2024-10-15 01:57:19.539856 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:19.605074 Juliett: Uniform and Whiskey, sending you 4
+2024-10-15 01:57:19.605347 Uniform: Hotel, sending you 5
+2024-10-15 01:57:19.609298 Hotel: Lima, sending you 3
+2024-10-15 01:57:19.609828 Whiskey: Juliett, sending you 6
+2024-10-15 01:57:19.610131 Romeo: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:19.616423 Zulu: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:19.639847 Lima: We should replace Hotel with Zulu
+2024-10-15 01:57:19.640862 Sierra: We should replace Lima with Zulu
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:19.658375 Sierra: Yes
+2024-10-15 01:57:19.658557 Echo: Yes
+ChatterBot Echo reevaluating
+2024-10-15 01:57:19.662517 Romeo: Yes
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:19.666195 Alpha: Yes
+2024-10-15 01:57:19.669711 Echo: No
+2024-10-15 01:57:19.669854 Romeo: No
+2024-10-15 01:57:19.669965 Alpha: No
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:19.756595 Hotel: Juliett, sending you 2
+2024-10-15 01:57:19.757070 Alpha: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:19.760948 Zulu: No
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:19.776186 Whiskey: Uniform and Hotel, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+2024-10-15 01:57:19.777353 Hotel: Uniform and Whiskey, sending you 4
+2024-10-15 01:57:19.777578 Echo: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:19.780732 Zulu: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Romeo submitting transactions
+2024-10-15 01:57:19.805665 Lima: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:19.813520 Zulu: Yes
+ChatterBot Lima reevaluating
+chatterbot Juliett submitting transactions
+2024-10-15 01:57:19.846671 Echo: Sierra and Alpha, sending you 4
+2024-10-15 01:57:19.848664 Sierra: Lima, Zulu and Romeo, sending you 2
+2024-10-15 01:57:19.851671 Echo: Lima and Romeo, sending you 1
+2024-10-15 01:57:19.852998 Sierra: Echo, sending you 4
+2024-10-15 01:57:19.855661 Sierra: Alpha, sending you 3
+2024-10-15 01:57:19.857031 Echo: Zulu, sending you 2
+2024-10-15 01:57:19.857605 Romeo: Sierra and Alpha, sending you 2
+2024-10-15 01:57:19.858136 Zulu: Sierra, sending you 3
+2024-10-15 01:57:19.860672 Romeo: Lima, Zulu and Echo, sending you 1
+2024-10-15 01:57:19.861708 Zulu: Lima and Alpha, sending you 1
+2024-10-15 01:57:19.866662 Zulu: Echo and Romeo, sending you 4
+2024-10-15 01:57:19.872667 Lima: Sierra and Echo, sending you 2
+2024-10-15 01:57:19.876666 Lima: Zulu, sending you 1
+2024-10-15 01:57:19.880692 Lima: Alpha, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Sierra round 4
+ChatterBot Lima round 4
+ChatterBot Zulu round 4
+ChatterBot Juliett round 4
+ChatterBot Echo round 4
+ChatterBot Uniform round 4
+ChatterBot Romeo round 4
+ChatterBot Whiskey round 4
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Hotel round 4
+2024-10-15 01:57:20.675017 Hotel: We should drop Lima
+2024-10-15 01:57:20.690923 Whiskey: Yes
+2024-10-15 01:57:20.691921 Juliett: Yes
+2024-10-15 01:57:20.692223 Uniform: Yes
+2024-10-15 01:57:20.743101 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:20.745388 Echo: Sierra and Alpha, sending you 4
+2024-10-15 01:57:20.746603 Whiskey: Juliett and Hotel, sending you 5
+2024-10-15 01:57:20.747298 Juliett: Same as last round
+2024-10-15 01:57:20.748264 Sierra: Lima, Zulu and Romeo, sending you 2
+2024-10-15 01:57:20.749009 Zulu: Sierra and Romeo, sending you 3
+2024-10-15 01:57:20.750268 Lima: Sierra, sending you 2
+2024-10-15 01:57:20.751517 Uniform: Sending you each 4
+2024-10-15 01:57:20.752223 Romeo: Echo, sending you 1
+2024-10-15 01:57:20.753508 Echo: Lima, sending you 2
+2024-10-15 01:57:20.755249 Whiskey: Uniform, sending you 4
+2024-10-15 01:57:20.756564 Sierra: Echo, sending you 4
+2024-10-15 01:57:20.757930 Zulu: Lima and Alpha, sending you 2
+2024-10-15 01:57:20.758987 Lima: Zulu, Echo and Romeo, sending you 1
+2024-10-15 01:57:20.760368 Echo: Zulu, sending you 3
+2024-10-15 01:57:20.763445 Sierra: Alpha, sending you 3
+2024-10-15 01:57:20.764800 Zulu: Echo, sending you 4
+2024-10-15 01:57:20.765856 Lima: Alpha, sending you 3
+2024-10-15 01:57:20.767256 Hotel: Juliett, sending you 2
+2024-10-15 01:57:20.772692 Hotel: Uniform and Whiskey, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Sierra round 5
+ChatterBot Lima round 5
+ChatterBot Zulu round 5
+ChatterBot Juliett round 5
+ChatterBot Echo round 5
+ChatterBot Uniform round 5
+ChatterBot Romeo round 5
+ChatterBot Whiskey round 5
+ChatterBot Alpha round 5
+ChatterBot Hotel round 5
+2024-10-15 01:57:21.702650 Zulu: Sierra, Romeo and Alpha, sending you 3
+2024-10-15 01:57:21.706662 Zulu: Lima, sending you 1
+2024-10-15 01:57:21.708680 Juliett: Same as last round
+2024-10-15 01:57:21.711650 Zulu: Echo, sending you 4
+2024-10-15 01:57:21.713664 Whiskey: Juliett and Hotel, sending you 5
+2024-10-15 01:57:21.714677 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:21.716670 Sierra: Lima, Zulu and Romeo, sending you 2
+2024-10-15 01:57:21.717336 Echo: Sierra, sending you 4
+2024-10-15 01:57:21.717866 Whiskey: Uniform, sending you 4
+2024-10-15 01:57:21.719660 Hotel: Juliett, sending you 1
+2024-10-15 01:57:21.719995 Lima: Zulu and Romeo, sending you 1
+2024-10-15 01:57:21.720669 Sierra: Echo, sending you 4
+2024-10-15 01:57:21.721660 Uniform: Same as last round
+2024-10-15 01:57:21.722978 Echo: Lima, sending you 2
+2024-10-15 01:57:21.723773 Sierra: Alpha, sending you 3
+2024-10-15 01:57:21.724660 Hotel: Uniform and Whiskey, sending you 4
+2024-10-15 01:57:21.726678 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:21.728645 Echo: Zulu and Alpha, sending you 3
+2024-10-15 01:57:21.729686 Romeo: Lima, sending you 1
+2024-10-15 01:57:21.733774 Echo: Romeo, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Sierra round 6
+ChatterBot Lima round 6
+ChatterBot Zulu round 6
+ChatterBot Juliett round 6
+ChatterBot Echo round 6
+ChatterBot Uniform round 6
+ChatterBot Romeo round 6
+ChatterBot Whiskey round 6
+ChatterBot Alpha round 6
+ChatterBot Hotel round 6
+2024-10-15 01:57:22.808661 Zulu: Sierra, Romeo and Alpha, sending you 3
+2024-10-15 01:57:22.809690 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:22.810656 Sierra: Lima and Romeo, sending you 2
+2024-10-15 01:57:22.811683 Zulu: Lima, sending you 1
+2024-10-15 01:57:22.814284 Uniform: Juliett, sending you 5
+2024-10-15 01:57:22.814702 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:22.815221 Echo: Sierra, sending you 4
+2024-10-15 01:57:22.815680 Lima: Zulu and Romeo, sending you 1
+2024-10-15 01:57:22.816163 Zulu: Echo, sending you 4
+2024-10-15 01:57:22.817663 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:22.819121 Sierra: Echo, sending you 4
+2024-10-15 01:57:22.819756 Juliett: Same as last round
+2024-10-15 01:57:22.820080 Echo: Lima, sending you 2
+2024-10-15 01:57:22.820674 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:22.824687 Echo: Zulu and Alpha, sending you 3
+2024-10-15 01:57:22.825234 Romeo: Lima, sending you 1
+2024-10-15 01:57:22.829711 Echo: Romeo, sending you 1
+2024-10-15 01:57:22.830263 Whiskey: Juliett and Hotel, sending you 5
+2024-10-15 01:57:22.833663 Whiskey: Uniform, sending you 4
+2024-10-15 01:57:22.837680 Hotel: Juliett, sending you 1
+2024-10-15 01:57:22.841847 Hotel: Uniform and Whiskey, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Sierra round 7
+ChatterBot Lima round 7
+ChatterBot Zulu round 7
+ChatterBot Juliett round 7
+ChatterBot Echo round 7
+ChatterBot Uniform round 7
+ChatterBot Romeo round 7
+ChatterBot Whiskey round 7
+ChatterBot Alpha round 7
+ChatterBot Hotel round 7
+2024-10-15 01:57:23.767740 Sierra: Lima and Romeo, sending you 2
+2024-10-15 01:57:23.769136 Uniform: Juliett, sending you 5
+2024-10-15 01:57:23.770453 Juliett: Same as last round
+2024-10-15 01:57:23.771014 Echo: Sierra, sending you 4
+2024-10-15 01:57:23.772697 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:23.774265 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:23.775148 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:23.776040 Echo: Lima, sending you 2
+2024-10-15 01:57:23.776992 Sierra: Echo, sending you 4
+2024-10-15 01:57:23.779707 Zulu: Sierra, Romeo and Alpha, sending you 3
+2024-10-15 01:57:23.781104 Lima: Zulu and Romeo, sending you 1
+2024-10-15 01:57:23.782486 Echo: Zulu and Alpha, sending you 3
+2024-10-15 01:57:23.783384 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:23.784659 Zulu: Lima, sending you 1
+2024-10-15 01:57:23.785858 Hotel: Uniform and Whiskey, sending you 4
+2024-10-15 01:57:23.786722 Echo: Romeo, sending you 1
+2024-10-15 01:57:23.787322 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:23.788675 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:23.789274 Zulu: Echo, sending you 4
+2024-10-15 01:57:23.792679 Romeo: Lima, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Sierra round 8
+ChatterBot Lima round 8
+ChatterBot Zulu round 8
+ChatterBot Juliett round 8
+ChatterBot Echo round 8
+ChatterBot Uniform round 8
+ChatterBot Romeo round 8
+ChatterBot Whiskey round 8
+ChatterBot Alpha round 8
+ChatterBot Hotel round 8
+2024-10-15 01:57:25.038539 Sierra: We should drop Romeo
+2024-10-15 01:57:25.046385 Lima: No
+2024-10-15 01:57:25.046523 Zulu: No
+2024-10-15 01:57:25.046636 Echo: No
+2024-10-15 01:57:25.046797 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:25.087985 Zulu: We should drop Lima
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:25.100008 Sierra: No
+2024-10-15 01:57:25.100195 Echo: No
+2024-10-15 01:57:25.100341 Romeo: No
+2024-10-15 01:57:25.100883 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:25.132670 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:25.133194 Juliett: Same as last round
+2024-10-15 01:57:25.135722 Lima: Zulu and Romeo, sending you 1
+2024-10-15 01:57:25.136598 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:25.137671 Uniform: Juliett, sending you 5
+2024-10-15 01:57:25.138046 Echo: Sierra, sending you 4
+2024-10-15 01:57:25.139176 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:25.141668 Romeo: Lima, sending you 1
+2024-10-15 01:57:25.143140 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:25.143671 Echo: Lima, sending you 2
+2024-10-15 01:57:25.144246 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:25.148660 Echo: Zulu and Alpha, sending you 3
+2024-10-15 01:57:25.150673 Sierra: Lima and Romeo, sending you 2
+2024-10-15 01:57:25.151722 Echo: Romeo, sending you 1
+2024-10-15 01:57:25.154664 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:25.156650 Hotel: Uniform and Whiskey, sending you 4
+2024-10-15 01:57:25.157682 Zulu: Sierra, Romeo and Alpha, sending you 3
+2024-10-15 01:57:25.158420 Sierra: Echo, sending you 4
+2024-10-15 01:57:25.162663 Zulu: Lima, sending you 1
+2024-10-15 01:57:25.167070 Zulu: Echo, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 9
+ChatterBot Lima round 9
+ChatterBot Zulu round 9
+ChatterBot Juliett round 9
+ChatterBot Echo round 9
+ChatterBot Uniform round 9
+ChatterBot Romeo round 9
+ChatterBot Whiskey round 9
+ChatterBot Alpha round 9
+ChatterBot Hotel round 9
+2024-10-15 01:57:26.244683 Sierra: Lima and Romeo, sending you 2
+2024-10-15 01:57:26.248675 Juliett: Same as last round
+2024-10-15 01:57:26.249014 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:26.251673 Zulu: Sierra, Romeo and Alpha, sending you 3
+2024-10-15 01:57:26.253664 Sierra: Echo, sending you 4
+2024-10-15 01:57:26.256682 Zulu: Lima, sending you 1
+2024-10-15 01:57:26.258658 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:26.259034 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:26.259735 Zulu: Echo, sending you 4
+2024-10-15 01:57:26.261680 Uniform: Juliett, sending you 5
+2024-10-15 01:57:26.262051 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:26.262669 Lima: Zulu and Romeo, sending you 1
+2024-10-15 01:57:26.263669 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:26.265665 Echo: Sierra, sending you 4
+2024-10-15 01:57:26.266669 Hotel: Uniform, sending you 1
+2024-10-15 01:57:26.267037 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:26.267672 Romeo: Lima, sending you 1
+2024-10-15 01:57:26.269684 Echo: Lima, sending you 2
+2024-10-15 01:57:26.272658 Echo: Zulu and Alpha, sending you 3
+2024-10-15 01:57:26.275658 Echo: Romeo, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Sierra round 10
+ChatterBot Lima round 10
+ChatterBot Zulu round 10
+ChatterBot Juliett round 10
+ChatterBot Echo round 10
+ChatterBot Uniform round 10
+ChatterBot Romeo round 10
+ChatterBot Whiskey round 10
+ChatterBot Alpha round 10
+2024-10-15 01:57:27.432969 Zulu: We should add Uniform
+2024-10-15 01:57:27.442394 Lima: No
+2024-10-15 01:57:27.442547 Romeo: No
+2024-10-15 01:57:27.442684 Sierra: No
+2024-10-15 01:57:27.443216 Echo: No
+2024-10-15 01:57:27.443389 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel round 10
+2024-10-15 01:57:27.524982 Hotel: We should drop Juliett
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:27.531258 Uniform: Yes
+2024-10-15 01:57:27.531413 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:27.543104 Romeo: Sending you each 1
+2024-10-15 01:57:27.544310 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:27.545057 Sierra: I was attacked by Hotel
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:27.560013 Sierra: I'm keeping this round to protect myself
+2024-10-15 01:57:27.562118 Sierra: Ow
+2024-10-15 01:57:27.564659 Juliett: Same as last round
+2024-10-15 01:57:27.565723 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:27.570670 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:27.572129 Romeo: Sorry, I'm actually sending you 0
+2024-10-15 01:57:27.574669 Romeo: Sierra, Zulu and Alpha, sending you 2
+2024-10-15 01:57:27.575688 Uniform: Juliett, sending you 5
+2024-10-15 01:57:27.578742 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:27.581028 Hotel: Sending you each 4
+2024-10-15 01:57:27.591671 Zulu: Sierra, Romeo and Alpha, sending you 3
+2024-10-15 01:57:27.597649 Zulu: Lima, sending you 1
+2024-10-15 01:57:27.601662 Zulu: Echo, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Sierra round 11
+ChatterBot Lima round 11
+ChatterBot Zulu round 11
+ChatterBot Juliett round 11
+ChatterBot Echo round 11
+ChatterBot Uniform round 11
+ChatterBot Romeo round 11
+ChatterBot Whiskey round 11
+ChatterBot Alpha round 11
+ChatterBot Hotel round 11
+2024-10-15 01:57:28.847706 Zulu: Sierra, sending you 3
+2024-10-15 01:57:28.849217 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:28.849943 Juliett: Same as last round
+2024-10-15 01:57:28.851677 Uniform: Juliett, sending you 5
+2024-10-15 01:57:28.853677 Zulu: Lima, sending you 2
+2024-10-15 01:57:28.854254 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:28.857028 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:28.857982 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:28.859695 Hotel: Uniform, sending you 1
+2024-10-15 01:57:28.861682 Romeo: Sending you each 1
+2024-10-15 01:57:28.862675 Lima: Sierra, Echo and Alpha, sending you 2
+2024-10-15 01:57:28.865682 Lima: Zulu and Romeo, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Sierra round 12
+ChatterBot Lima round 12
+ChatterBot Zulu round 12
+ChatterBot Juliett round 12
+ChatterBot Echo round 12
+2024-10-15 01:57:30.006146 Juliett: We should add Hotel
+2024-10-15 01:57:30.012593 Whiskey: Yes
+2024-10-15 01:57:30.012792 Uniform: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Uniform round 12
+ChatterBot Romeo round 12
+ChatterBot Whiskey round 12
+2024-10-15 01:57:30.055844 Zulu: We should replace Sierra with Romeo
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:30.072204 Lima: No
+2024-10-15 01:57:30.072427 Echo: No
+2024-10-15 01:57:30.073109 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha round 12
+ChatterBot Hotel round 12
+2024-10-15 01:57:30.145140 Zulu: Romeo we want you to join our group
+2024-10-15 01:57:30.148283 Romeo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:30.162982 Zulu: We should replace Lima with Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:30.170752 Sierra: Yes
+2024-10-15 01:57:30.170876 Echo: No
+2024-10-15 01:57:30.170981 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:30.196671 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:30.197668 Lima: Sierra, Zulu and Romeo, sending you 1
+2024-10-15 01:57:30.198590 Juliett: Same as last round
+2024-10-15 01:57:30.198917 Romeo: Same as last round
+2024-10-15 01:57:30.199967 Uniform: Juliett, sending you 5
+2024-10-15 01:57:30.200449 Alpha: We should drop Sierra
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:30.215632 Zulu: Yes
+2024-10-15 01:57:30.215836 Lima: No
+2024-10-15 01:57:30.216016 Echo: Yes
+2024-10-15 01:57:30.216187 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:30.257406 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:30.257913 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:30.258311 Hotel: I was attacked by Romeo and Alpha
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:57:30.262926 Hotel: I'm keeping this round to protect myself
+2024-10-15 01:57:30.263468 Hotel: Ow
+2024-10-15 01:57:30.283733 Romeo: Sorry, I'm actually sending you 0
+2024-10-15 01:57:30.284663 Zulu: Lima, sending you 2
+2024-10-15 01:57:30.288685 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:30.290664 Romeo: Zulu, sending you 2
+2024-10-15 01:57:30.292683 Zulu: Romeo, sending you 3
+2024-10-15 01:57:30.294668 Romeo: Alpha, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Sierra round 13
+ChatterBot Lima round 13
+ChatterBot Zulu round 13
+ChatterBot Juliett round 13
+ChatterBot Echo round 13
+ChatterBot Uniform round 13
+ChatterBot Romeo round 13
+ChatterBot Whiskey round 13
+ChatterBot Alpha round 13
+ChatterBot Hotel round 13
+2024-10-15 01:57:31.493649 Juliett: We should add Hotel
+2024-10-15 01:57:31.503870 Whiskey: Yes
+2024-10-15 01:57:31.504678 Uniform: Yes
+2024-10-15 01:57:31.532150 Echo: We should drop Sierra
+2024-10-15 01:57:31.548573 Zulu: Yes
+2024-10-15 01:57:31.548782 Lima: Yes
+2024-10-15 01:57:31.548972 Romeo: Yes
+2024-10-15 01:57:31.549139 Alpha: Yes
+2024-10-15 01:57:31.614670 Sierra: We should drop Lima
+2024-10-15 01:57:31.630255 Zulu: No
+2024-10-15 01:57:31.630439 Echo: No
+2024-10-15 01:57:31.630579 Romeo: No
+2024-10-15 01:57:31.630720 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:31.691851 Juliett: Hotel we want you to join our group
+2024-10-15 01:57:31.696363 Hotel: No
+2024-10-15 01:57:31.707519 Hotel: I was attacked by Sierra
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:57:31.715696 Hotel: I'm keeping this round to protect myself
+2024-10-15 01:57:31.716686 Hotel: Ow
+2024-10-15 01:57:31.717364 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:31.720661 Romeo: Zulu, sending you 2
+2024-10-15 01:57:31.722694 Zulu: Lima, sending you 2
+2024-10-15 01:57:31.723667 Romeo: Alpha, sending you 3
+2024-10-15 01:57:31.727820 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:31.732669 Zulu: Romeo, sending you 3
+2024-10-15 01:57:31.734056 Juliett: Uniform and Whiskey, sending you 3
+2024-10-15 01:57:31.737662 Juliett: Hotel, sending you 2
+2024-10-15 01:57:31.744702 Sierra: Zulu, Romeo and Alpha, sending you 2
+2024-10-15 01:57:31.745855 Uniform: Juliett, sending you 5
+2024-10-15 01:57:31.746494 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:31.748662 Sierra: Echo, sending you 3
+2024-10-15 01:57:31.749093 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:31.751034 Whiskey: Hotel, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Sierra round 14
+ChatterBot Lima round 14
+ChatterBot Zulu round 14
+ChatterBot Juliett round 14
+ChatterBot Echo round 14
+ChatterBot Uniform round 14
+ChatterBot Romeo round 14
+ChatterBot Whiskey round 14
+ChatterBot Alpha round 14
+ChatterBot Hotel round 14
+2024-10-15 01:57:32.648223 Sierra: We should replace Romeo with Lima
+2024-10-15 01:57:32.658866 Zulu: No
+2024-10-15 01:57:32.659060 Echo: No
+2024-10-15 01:57:32.659196 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:32.742822 Echo: We should drop Sierra
+2024-10-15 01:57:32.754170 Zulu: Yes
+2024-10-15 01:57:32.754318 Lima: Yes
+2024-10-15 01:57:32.754449 Romeo: Yes
+2024-10-15 01:57:32.754574 Alpha: Yes
+2024-10-15 01:57:32.792842 Juliett: We should drop Hotel
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:32.797887 Whiskey: No
+2024-10-15 01:57:32.798015 Uniform: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:57:32.809854 Sierra: Lima we want you to join our group
+2024-10-15 01:57:32.813441 Lima: No
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:32.824900 Zulu: Lima, sending you 2
+2024-10-15 01:57:32.825400 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:32.828162 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:32.828915 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:32.829734 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:32.833691 Romeo: Zulu, sending you 2
+2024-10-15 01:57:32.834603 Zulu: Romeo, sending you 3
+2024-10-15 01:57:32.838002 Romeo: Alpha, sending you 3
+2024-10-15 01:57:32.848147 Juliett: Sending you each 4
+2024-10-15 01:57:32.850655 Uniform: Juliett, sending you 5
+2024-10-15 01:57:32.854716 Uniform: Whiskey, sending you 4
+2024-10-15 01:57:32.859659 Uniform: Hotel, sending you 3
+2024-10-15 01:57:32.861668 Sierra: Lima, Zulu and Alpha, sending you 3
+2024-10-15 01:57:32.865943 Sierra: Echo, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Sierra round 15
+ChatterBot Lima round 15
+ChatterBot Zulu round 15
+ChatterBot Juliett round 15
+ChatterBot Echo round 15
+ChatterBot Uniform round 15
+ChatterBot Romeo round 15
+2024-10-15 01:57:33.860007 Sierra: We should replace Lima with Romeo
+2024-10-15 01:57:33.870694 Zulu: No
+2024-10-15 01:57:33.870982 Echo: No
+2024-10-15 01:57:33.871230 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey round 15
+ChatterBot Alpha round 15
+ChatterBot Hotel round 15
+2024-10-15 01:57:33.950191 Hotel: We should add Juliett
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:57:33.963367 Uniform: Yes
+2024-10-15 01:57:33.963566 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:33.980703 Echo: We should drop Sierra
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:33.994433 Zulu: No
+2024-10-15 01:57:33.995118 Lima: Yes
+2024-10-15 01:57:33.995309 Romeo: Yes
+2024-10-15 01:57:33.995481 Alpha: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:57:34.072036 Lima: We should add Sierra
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:34.088479 Zulu: Yes
+2024-10-15 01:57:34.089016 Echo: No
+2024-10-15 01:57:34.089186 Romeo: No
+2024-10-15 01:57:34.089315 Alpha: No
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:34.158200 Hotel: Juliett we want you to join our group
+2024-10-15 01:57:34.162669 Juliett: No
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:34.178681 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:34.180357 Juliett: Same as last round
+2024-10-15 01:57:34.180939 Sierra: Lima, Zulu and Alpha, sending you 3
+2024-10-15 01:57:34.183711 Romeo: Zulu, sending you 2
+2024-10-15 01:57:34.184673 Sierra: Echo, sending you 5
+2024-10-15 01:57:34.187836 Romeo: Alpha, sending you 3
+2024-10-15 01:57:34.192698 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:34.195658 Uniform: Juliett, sending you 6
+2024-10-15 01:57:34.196669 Zulu: Lima, sending you 2
+2024-10-15 01:57:34.197965 Hotel: Juliett, sending you 1
+2024-10-15 01:57:34.198437 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:34.199683 Uniform: Whiskey, sending you 4
+2024-10-15 01:57:34.200329 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:34.201849 Hotel: Uniform and Whiskey, sending you 3
+2024-10-15 01:57:34.202662 Uniform: Hotel, sending you 3
+2024-10-15 01:57:34.206677 Zulu: Romeo, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Sierra round 16
+ChatterBot Lima round 16
+ChatterBot Zulu round 16
+ChatterBot Juliett round 16
+ChatterBot Echo round 16
+ChatterBot Uniform round 16
+ChatterBot Romeo round 16
+ChatterBot Whiskey round 16
+ChatterBot Alpha round 16
+ChatterBot Hotel round 16
+2024-10-15 01:57:35.184643 Lima: We should add Sierra
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:35.195656 Zulu: Yes
+2024-10-15 01:57:35.195858 Echo: Yes
+2024-10-15 01:57:35.195988 Romeo: No
+2024-10-15 01:57:35.196106 Alpha: No
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:35.246193 Sierra: We should replace Alpha with Romeo
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:35.253958 Lima: No
+2024-10-15 01:57:35.254062 Zulu: Yes
+2024-10-15 01:57:35.254147 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:35.284229 Sierra: We should add Romeo
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:35.294085 Lima: Yes
+2024-10-15 01:57:35.294206 Zulu: Yes
+2024-10-15 01:57:35.294305 Echo: Yes
+2024-10-15 01:57:35.294395 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:35.332907 Romeo: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:35.336126 Sierra: No
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:35.347340 Sierra: We should replace Lima with Romeo
+2024-10-15 01:57:35.353007 Zulu: No
+2024-10-15 01:57:35.353137 Echo: No
+2024-10-15 01:57:35.353234 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:35.373562 Echo: We should drop Sierra
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:35.382598 Zulu: Yes
+2024-10-15 01:57:35.382756 Lima: No
+2024-10-15 01:57:35.382893 Romeo: Yes
+2024-10-15 01:57:35.382995 Alpha: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:35.421204 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:35.421726 Juliett: Same as last round
+2024-10-15 01:57:35.422175 Sierra: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:35.424733 Romeo: No
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:35.434595 Uniform: Juliett, sending you 5
+2024-10-15 01:57:35.434966 Hotel: Uniform and Whiskey, sending you 3
+2024-10-15 01:57:35.435282 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:35.439679 Uniform: Whiskey and Hotel, sending you 4
+2024-10-15 01:57:35.451718 Zulu: Lima, sending you 2
+2024-10-15 01:57:35.457666 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:35.459187 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:35.463682 Zulu: Romeo, sending you 3
+2024-10-15 01:57:35.464338 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:35.464973 Sierra: Echo, sending you 6
+2024-10-15 01:57:35.467677 Romeo: Zulu, sending you 2
+2024-10-15 01:57:35.468407 Sierra: Romeo, sending you 2
+2024-10-15 01:57:35.470686 Romeo: Alpha, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Sierra round 17
+ChatterBot Lima round 17
+ChatterBot Zulu round 17
+ChatterBot Juliett round 17
+ChatterBot Echo round 17
+ChatterBot Uniform round 17
+ChatterBot Romeo round 17
+ChatterBot Whiskey round 17
+ChatterBot Alpha round 17
+ChatterBot Hotel round 17
+2024-10-15 01:57:36.662547 Alpha: We should drop Sierra
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:36.675668 Zulu: No
+2024-10-15 01:57:36.675858 Lima: Yes
+2024-10-15 01:57:36.676524 Echo: Yes
+2024-10-15 01:57:36.676664 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:57:36.722168 Hotel: We should drop Juliett
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:36.727779 Uniform: Yes
+2024-10-15 01:57:36.727947 Whiskey: No
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:36.744810 Uniform: We should drop Hotel
+2024-10-15 01:57:36.750531 Juliett: Yes
+2024-10-15 01:57:36.750713 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:36.762031 Juliett: Same as last round
+2024-10-15 01:57:36.765654 Hotel: Uniform, sending you 1
+2024-10-15 01:57:36.766716 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:36.767776 Zulu: Lima, sending you 2
+2024-10-15 01:57:36.768566 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:36.769666 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:36.770831 Sierra: Echo, sending you 6
+2024-10-15 01:57:36.771662 Zulu: Echo and Alpha, sending you 4
+2024-10-15 01:57:36.773967 Romeo: Zulu, sending you 2
+2024-10-15 01:57:36.774841 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:36.775343 Zulu: Romeo, sending you 3
+2024-10-15 01:57:36.775859 Sierra: Romeo, sending you 2
+2024-10-15 01:57:36.779681 Romeo: Alpha, sending you 3
+2024-10-15 01:57:36.788668 Uniform: Juliett, sending you 5
+2024-10-15 01:57:36.793652 Uniform: Whiskey, sending you 4
+chatterbot Sierra submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Sierra round 18
+ChatterBot Lima round 18
+ChatterBot Zulu round 18
+ChatterBot Juliett round 18
+ChatterBot Echo round 18
+ChatterBot Uniform round 18
+ChatterBot Romeo round 18
+ChatterBot Whiskey round 18
+ChatterBot Alpha round 18
+ChatterBot Hotel round 18
+2024-10-15 01:57:37.915377 Echo: We should drop Sierra
+2024-10-15 01:57:37.923640 Zulu: Yes
+2024-10-15 01:57:37.923822 Lima: Yes
+2024-10-15 01:57:37.923943 Romeo: Yes
+2024-10-15 01:57:37.924052 Alpha: Yes
+2024-10-15 01:57:37.959677 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:37.963652 Sierra: Echo, sending you 6
+2024-10-15 01:57:37.968680 Sierra: Romeo, sending you 2
+2024-10-15 01:57:37.972655 Romeo: Sending you each 1
+2024-10-15 01:57:37.973678 Hotel: Whiskey, sending you 1
+2024-10-15 01:57:37.975685 Juliett: Same as last round
+2024-10-15 01:57:37.976940 Uniform: Juliett, sending you 5
+2024-10-15 01:57:37.978678 Zulu: Lima, sending you 1
+2024-10-15 01:57:37.979671 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:37.980954 Uniform: Whiskey, sending you 4
+2024-10-15 01:57:37.983695 Zulu: Echo and Alpha, sending you 3
+2024-10-15 01:57:37.984947 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:37.989660 Zulu: Romeo, sending you 2
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Sierra round 19
+ChatterBot Lima round 19
+ChatterBot Zulu round 19
+ChatterBot Juliett round 19
+ChatterBot Echo round 19
+ChatterBot Uniform round 19
+ChatterBot Romeo round 19
+ChatterBot Whiskey round 19
+ChatterBot Alpha round 19
+ChatterBot Hotel round 19
+2024-10-15 01:57:39.232430 Sierra: We should replace Alpha with Lima
+2024-10-15 01:57:39.248665 Zulu: No
+2024-10-15 01:57:39.248916 Echo: No
+2024-10-15 01:57:39.249079 Romeo: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:39.304522 Uniform: We should replace Juliett with Hotel
+2024-10-15 01:57:39.307738 Whiskey: No
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:39.311519 Echo: We should drop Sierra
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:39.323550 Zulu: Yes
+2024-10-15 01:57:39.323752 Lima: Yes
+2024-10-15 01:57:39.323956 Romeo: Yes
+2024-10-15 01:57:39.324068 Alpha: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:39.371742 Sierra: We should add Lima
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:39.382143 Zulu: Yes
+2024-10-15 01:57:39.382377 Echo: Yes
+2024-10-15 01:57:39.382492 Romeo: Yes
+2024-10-15 01:57:39.382591 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:39.435343 Hotel: I was attacked by Zulu and Romeo
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-15 01:57:39.444318 Hotel: I'm keeping this round to protect myself
+2024-10-15 01:57:39.445018 Hotel: Ow
+2024-10-15 01:57:39.448682 Juliett: Same as last round
+2024-10-15 01:57:39.449286 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:39.451082 Sierra: Lima we want you to join our group
+2024-10-15 01:57:39.455505 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:39.475467 Romeo: Zulu, sending you 3
+2024-10-15 01:57:39.480781 Romeo: Alpha, sending you 2
+2024-10-15 01:57:39.490721 Uniform: Juliett, sending you 5
+2024-10-15 01:57:39.493690 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:39.494674 Uniform: Whiskey, sending you 4
+2024-10-15 01:57:39.497660 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:39.501694 Zulu: Lima, Romeo and Alpha, sending you 3
+2024-10-15 01:57:39.503558 Sierra: Zulu and Alpha, sending you 3
+2024-10-15 01:57:39.506684 Zulu: Echo, sending you 4
+2024-10-15 01:57:39.507684 Sierra: Echo, sending you 6
+2024-10-15 01:57:39.512687 Sierra: Romeo, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 20
+ChatterBot Lima round 20
+ChatterBot Zulu round 20
+ChatterBot Juliett round 20
+ChatterBot Echo round 20
+ChatterBot Uniform round 20
+ChatterBot Romeo round 20
+ChatterBot Whiskey round 20
+ChatterBot Alpha round 20
+ChatterBot Hotel round 20
+2024-10-15 01:57:40.392381 Sierra: We should add Lima
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:40.409264 Zulu: Yes
+2024-10-15 01:57:40.409544 Echo: Yes
+2024-10-15 01:57:40.410513 Romeo: Yes
+2024-10-15 01:57:40.410800 Alpha: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:40.516640 Alpha: We should drop Sierra
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:40.533553 Zulu: Yes
+2024-10-15 01:57:40.533938 Lima: Yes
+2024-10-15 01:57:40.534330 Echo: Yes
+2024-10-15 01:57:40.534715 Romeo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:40.607870 Sierra: We should replace Alpha with Lima
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:40.623955 Zulu: Yes
+2024-10-15 01:57:40.624428 Echo: No
+2024-10-15 01:57:40.624902 Romeo: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:40.674684 Romeo: Lima and Echo, sending you 1
+2024-10-15 01:57:40.677428 Juliett: Same as last round
+2024-10-15 01:57:40.679854 Uniform: Juliett, sending you 5
+2024-10-15 01:57:40.681817 Sierra: Lima we want you to join our group
+2024-10-15 01:57:40.690334 Lima: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:40.717240 Romeo: Zulu, sending you 3
+2024-10-15 01:57:40.718594 Uniform: Whiskey, sending you 4
+2024-10-15 01:57:40.720680 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:40.721785 Romeo: Alpha, sending you 2
+2024-10-15 01:57:40.724966 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:40.744718 Sierra: Lima and Romeo, sending you 2
+2024-10-15 01:57:40.746694 Zulu: Sierra, sending you 1
+2024-10-15 01:57:40.748685 Sierra: Zulu, sending you 3
+2024-10-15 01:57:40.751691 Zulu: Lima and Romeo, sending you 3
+2024-10-15 01:57:40.754711 Sierra: Echo, sending you 7
+2024-10-15 01:57:40.757803 Zulu: Echo, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 21
+ChatterBot Lima round 21
+ChatterBot Zulu round 21
+ChatterBot Juliett round 21
+ChatterBot Echo round 21
+ChatterBot Uniform round 21
+ChatterBot Romeo round 21
+ChatterBot Whiskey round 21
+ChatterBot Alpha round 21
+ChatterBot Hotel round 21
+2024-10-15 01:57:41.767628 Echo: We should drop Sierra
+2024-10-15 01:57:41.779201 Zulu: No
+2024-10-15 01:57:41.779379 Lima: Yes
+2024-10-15 01:57:41.779523 Romeo: Yes
+2024-10-15 01:57:41.779660 Alpha: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:41.989682 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:41.990748 Juliett: Same as last round
+2024-10-15 01:57:41.991501 Sierra: Lima and Romeo, sending you 2
+2024-10-15 01:57:41.997305 Uniform: Juliett, sending you 5
+2024-10-15 01:57:41.997949 Zulu: Sierra, sending you 1
+2024-10-15 01:57:42.000308 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:42.001683 Sierra: Zulu, sending you 4
+2024-10-15 01:57:42.002703 Uniform: Whiskey, sending you 3
+2024-10-15 01:57:42.012929 Zulu: Lima and Romeo, sending you 3
+2024-10-15 01:57:42.014842 Sierra: Echo, sending you 6
+2024-10-15 01:57:42.019245 Zulu: Echo, sending you 4
+2024-10-15 01:57:42.025703 Romeo: Sierra and Lima, sending you 1
+2024-10-15 01:57:42.032681 Romeo: Zulu, sending you 3
+chatterbot Juliett submitting transactions
+2024-10-15 01:57:42.039676 Romeo: Echo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Sierra round 22
+ChatterBot Lima round 22
+ChatterBot Zulu round 22
+ChatterBot Juliett round 22
+ChatterBot Echo round 22
+ChatterBot Uniform round 22
+ChatterBot Romeo round 22
+ChatterBot Whiskey round 22
+ChatterBot Alpha round 22
+ChatterBot Hotel round 22
+2024-10-15 01:57:43.034442 Sierra: We should replace Romeo with Alpha
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:43.049107 Lima: No
+2024-10-15 01:57:43.049303 Zulu: No
+2024-10-15 01:57:43.049472 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:57:43.097673 Lima: We should add Sierra
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-15 01:57:43.117169 Zulu: Yes
+2024-10-15 01:57:43.117398 Echo: Yes
+2024-10-15 01:57:43.117573 Romeo: Yes
+2024-10-15 01:57:43.117771 Alpha: Yes
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:43.176641 Whiskey: We should drop Hotel
+2024-10-15 01:57:43.182082 Juliett: Yes
+2024-10-15 01:57:43.182328 Uniform: Yes
+2024-10-15 01:57:43.195696 Juliett: Same as last round
+2024-10-15 01:57:43.196731 Romeo: Sierra and Lima, sending you 1
+2024-10-15 01:57:43.197734 Zulu: Sierra, sending you 1
+2024-10-15 01:57:43.200670 Lima: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:43.207599 Sierra: No
+ChatterBot Lima reevaluating
+2024-10-15 01:57:43.223896 Romeo: Zulu, sending you 3
+2024-10-15 01:57:43.225376 Zulu: Lima, sending you 3
+2024-10-15 01:57:43.227710 Whiskey: Sending you each 7
+2024-10-15 01:57:43.228688 Romeo: Echo, sending you 2
+2024-10-15 01:57:43.229726 Zulu: Echo and Romeo, sending you 4
+2024-10-15 01:57:43.230911 Hotel: Uniform, sending you 2
+2024-10-15 01:57:43.231389 Uniform: Juliett, sending you 5
+2024-10-15 01:57:43.234713 Hotel: Whiskey, sending you 4
+2024-10-15 01:57:43.236711 Uniform: Whiskey, sending you 3
+2024-10-15 01:57:43.244667 Sierra: Lima, sending you 2
+2024-10-15 01:57:43.248718 Sierra: Zulu, sending you 5
+2024-10-15 01:57:43.251686 Sierra: Echo, sending you 4
+2024-10-15 01:57:43.255678 Sierra: Romeo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Sierra round 23
+ChatterBot Lima round 23
+ChatterBot Zulu round 23
+ChatterBot Juliett round 23
+ChatterBot Echo round 23
+ChatterBot Uniform round 23
+ChatterBot Romeo round 23
+ChatterBot Whiskey round 23
+ChatterBot Alpha round 23
+ChatterBot Hotel round 23
+2024-10-15 01:57:44.417218 Zulu: We should add Alpha
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:44.438671 Sierra: No
+2024-10-15 01:57:44.438954 Lima: Yes
+2024-10-15 01:57:44.439187 Echo: Yes
+2024-10-15 01:57:44.439424 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:44.525256 Sierra: We should replace Lima with Alpha
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:44.539598 Zulu: No
+2024-10-15 01:57:44.540506 Echo: No
+2024-10-15 01:57:44.540664 Romeo: No
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:44.634725 Whiskey: We should add Hotel
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:44.644666 Juliett: No
+2024-10-15 01:57:44.644896 Uniform: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Juliett reevaluating
+2024-10-15 01:57:44.661466 Uniform: We should replace Juliett with Hotel
+2024-10-15 01:57:44.664543 Whiskey: No
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:44.682739 Whiskey: Hotel we want you to join our group
+2024-10-15 01:57:44.686450 Hotel: No
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:44.695559 Zulu: Alpha we want you to join our group
+2024-10-15 01:57:44.701582 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:44.716703 Uniform: Hotel we want you to join our group
+2024-10-15 01:57:44.720142 Hotel: Yes
+ChatterBot Uniform reevaluating
+2024-10-15 01:57:44.727854 Sierra: Alpha we want you to join our group
+2024-10-15 01:57:44.732784 Alpha: Yes
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:44.744996 Hotel: Uniform, sending you 3
+2024-10-15 01:57:44.747668 Hotel: Whiskey, sending you 4
+2024-10-15 01:57:44.748864 Whiskey: Juliett and Uniform, sending you 5
+2024-10-15 01:57:44.750392 Romeo: Sierra, Lima and Echo, sending you 1
+2024-10-15 01:57:44.752280 Juliett: Same as last round
+2024-10-15 01:57:44.753644 Whiskey: Hotel, sending you 4
+2024-10-15 01:57:44.757811 Romeo: Zulu and Alpha, sending you 2
+2024-10-15 01:57:44.763675 Sierra: Zulu, sending you 5
+2024-10-15 01:57:44.768671 Uniform: Juliett, sending you 5
+2024-10-15 01:57:44.769694 Sierra: Echo, Romeo and Alpha, sending you 3
+2024-10-15 01:57:44.773666 Uniform: Whiskey and Hotel, sending you 3
+2024-10-15 01:57:44.780668 Zulu: Sierra, sending you 1
+2024-10-15 01:57:44.784669 Zulu: Lima and Alpha, sending you 2
+2024-10-15 01:57:44.789730 Zulu: Echo, sending you 4
+2024-10-15 01:57:44.796318 Zulu: Romeo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Sierra round 24
+ChatterBot Lima round 24
+ChatterBot Zulu round 24
+ChatterBot Juliett round 24
+ChatterBot Echo round 24
+ChatterBot Uniform round 24
+ChatterBot Romeo round 24
+ChatterBot Whiskey round 24
+ChatterBot Alpha round 24
+ChatterBot Hotel round 24
+2024-10-15 01:57:45.976112 Juliett: We should add Hotel
+2024-10-15 01:57:45.989887 Whiskey: Yes
+2024-10-15 01:57:45.990131 Uniform: Yes
+2024-10-15 01:57:46.014806 Juliett: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:46.019625 Hotel: Yes
+2024-10-15 01:57:46.027930 Hotel: We should add Juliett
+2024-10-15 01:57:46.033846 Uniform: Yes
+2024-10-15 01:57:46.034036 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:46.046825 Whiskey: I was attacked by Alpha
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:46.057755 Whiskey: I'm keeping this round to protect myself
+2024-10-15 01:57:46.058846 Whiskey: Ow
+2024-10-15 01:57:46.062665 Sierra: Lima and Alpha, sending you 2
+2024-10-15 01:57:46.064658 Zulu: Sierra, sending you 1
+2024-10-15 01:57:46.066071 Romeo: Sierra, Lima, Echo and Alpha, sending you 1
+2024-10-15 01:57:46.068848 Sierra: Zulu, sending you 4
+2024-10-15 01:57:46.071461 Zulu: Lima, sending you 3
+2024-10-15 01:57:46.072695 Romeo: Zulu, sending you 3
+2024-10-15 01:57:46.074792 Sierra: Echo and Romeo, sending you 3
+2024-10-15 01:57:46.078063 Zulu: Echo and Romeo, sending you 4
+2024-10-15 01:57:46.082692 Uniform: Juliett, sending you 5
+2024-10-15 01:57:46.085852 Hotel: Whiskey, sending you 1
+2024-10-15 01:57:46.086686 Uniform: Whiskey, sending you 2
+2024-10-15 01:57:46.090677 Uniform: Hotel, sending you 3
+2024-10-15 01:57:46.097667 Juliett: Uniform and Whiskey, sending you 3
+2024-10-15 01:57:46.102080 Juliett: Hotel, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 25
+ChatterBot Lima round 25
+ChatterBot Zulu round 25
+ChatterBot Juliett round 25
+ChatterBot Echo round 25
+ChatterBot Uniform round 25
+ChatterBot Romeo round 25
+ChatterBot Whiskey round 25
+ChatterBot Alpha round 25
+ChatterBot Hotel round 25
+2024-10-15 01:57:47.462288 Hotel: We should add Juliett
+2024-10-15 01:57:47.471873 Uniform: Yes
+2024-10-15 01:57:47.472084 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:47.504999 Sierra: We should drop Lima
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:47.532960 Zulu: No
+2024-10-15 01:57:47.533239 Echo: No
+2024-10-15 01:57:47.533426 Romeo: No
+2024-10-15 01:57:47.533650 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+2024-10-15 01:57:47.622160 Sierra: We should drop Echo
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:47.641388 Lima: No
+2024-10-15 01:57:47.641834 Zulu: No
+2024-10-15 01:57:47.642206 Romeo: No
+2024-10-15 01:57:47.643120 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:47.769568 Hotel: Juliett we want you to join our group
+2024-10-15 01:57:47.777932 Juliett: Yes
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:47.803528 Whiskey: I was attacked by Alpha
+ChatterBot Juliett reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:47.826117 Whiskey: I'm keeping this round to protect myself
+2024-10-15 01:57:47.829476 Whiskey: Ow
+2024-10-15 01:57:47.831800 Romeo: Sierra, Lima, Echo and Alpha, sending you 1
+2024-10-15 01:57:47.857335 Romeo: Zulu, sending you 3
+2024-10-15 01:57:47.863553 Sierra: Lima, Zulu, Echo and Romeo, sending you 3
+2024-10-15 01:57:47.875169 Uniform: Juliett, sending you 5
+2024-10-15 01:57:47.876925 Sierra: Alpha, sending you 2
+2024-10-15 01:57:47.879936 Uniform: Whiskey, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-15 01:57:47.901016 Juliett: Uniform, sending you 3
+2024-10-15 01:57:47.903176 Uniform: Hotel, sending you 3
+2024-10-15 01:57:47.930003 Juliett: Whiskey and Hotel, sending you 2
+2024-10-15 01:57:47.932032 Hotel: Juliett, sending you 2
+2024-10-15 01:57:47.940833 Hotel: Uniform, sending you 6
+2024-10-15 01:57:47.948501 Hotel: Whiskey, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Sierra round 26
+ChatterBot Lima round 26
+ChatterBot Zulu round 26
+ChatterBot Juliett round 26
+ChatterBot Echo round 26
+ChatterBot Uniform round 26
+ChatterBot Romeo round 26
+ChatterBot Whiskey round 26
+ChatterBot Alpha round 26
+ChatterBot Hotel round 26
+2024-10-15 01:57:49.184171 Zulu: We should replace Sierra with Alpha
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:49.211903 Lima: No
+2024-10-15 01:57:49.212499 Echo: No
+2024-10-15 01:57:49.212888 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:49.317524 Juliett: We should drop Whiskey
+2024-10-15 01:57:49.335684 Uniform: Yes
+2024-10-15 01:57:49.336080 Hotel: Yes
+2024-10-15 01:57:49.370685 Zulu: Alpha we want you to join our group
+2024-10-15 01:57:49.383005 Alpha: Yes
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:49.403887 Alpha: We should drop Sierra
+2024-10-15 01:57:49.422058 Zulu: Yes
+2024-10-15 01:57:49.422482 Lima: No
+2024-10-15 01:57:49.422969 Echo: No
+2024-10-15 01:57:49.423281 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:57:49.507822 Whiskey: I was attacked by Zulu
+2024-10-15 01:57:49.509776 Whiskey: I'm keeping this round to protect myself
+2024-10-15 01:57:49.510823 Whiskey: Ow
+chatterbot Sierra submitting transactions
+2024-10-15 01:57:49.514196 Sierra: Lima, Echo, Romeo and Alpha, sending you 3
+2024-10-15 01:57:49.519453 Lima: We should drop Alpha
+2024-10-15 01:57:49.535783 Zulu: No
+2024-10-15 01:57:49.536335 Echo: No
+2024-10-15 01:57:49.536561 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:57:49.599432 Uniform: Juliett, sending you 2
+2024-10-15 01:57:49.601746 Sierra: Zulu, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+2024-10-15 01:57:49.608180 Uniform: Hotel, sending you 1
+2024-10-15 01:57:49.609241 Juliett: Uniform, sending you 5
+2024-10-15 01:57:49.611696 Hotel: Juliett, sending you 2
+2024-10-15 01:57:49.614207 Romeo: Lima, sending you 1
+2024-10-15 01:57:49.618594 Juliett: Hotel, sending you 3
+2024-10-15 01:57:49.620155 Hotel: Uniform, sending you 3
+2024-10-15 01:57:49.621764 Romeo: Zulu, Echo and Alpha, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Sierra round 27
+ChatterBot Lima round 27
+ChatterBot Zulu round 27
+ChatterBot Juliett round 27
+ChatterBot Echo round 27
+ChatterBot Uniform round 27
+ChatterBot Romeo round 27
+ChatterBot Whiskey round 27
+ChatterBot Alpha round 27
+ChatterBot Hotel round 27
+2024-10-15 01:57:50.559287 Lima: We should drop Alpha
+2024-10-15 01:57:50.579772 Zulu: Yes
+2024-10-15 01:57:50.579999 Echo: No
+2024-10-15 01:57:50.580145 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-15 01:57:50.627862 Echo: We should drop Sierra
+ChatterBot Lima reevaluating
+2024-10-15 01:57:50.651079 Zulu: Yes
+2024-10-15 01:57:50.651344 Lima: Yes
+2024-10-15 01:57:50.655432 Romeo: Yes
+2024-10-15 01:57:50.655701 Alpha: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+chatterbot Lima submitting transactions
+2024-10-15 01:57:50.981140 Sierra: I was attacked by Alpha
+2024-10-15 01:57:50.982337 Sierra: I'm keeping this round to protect myself
+2024-10-15 01:57:50.982953 Sierra: Ow
+chatterbot Juliett submitting transactions
+chatterbot Sierra submitting transactions
+2024-10-15 01:57:51.179271 Romeo: Lima, sending you 1
+2024-10-15 01:57:51.185118 Juliett: Sending you each 4
+2024-10-15 01:57:51.187023 Uniform: Juliett, sending you 5
+2024-10-15 01:57:51.188906 Hotel: Sending you each 6
+2024-10-15 01:57:51.191179 Romeo: Zulu, Echo and Alpha, sending you 2
+2024-10-15 01:57:51.234111 Uniform: Hotel, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Sierra round 28
+ChatterBot Lima round 28
+ChatterBot Zulu round 28
+ChatterBot Juliett round 28
+ChatterBot Echo round 28
+ChatterBot Uniform round 28
+ChatterBot Romeo round 28
+ChatterBot Whiskey round 28
+ChatterBot Alpha round 28
+ChatterBot Hotel round 28
+2024-10-15 01:57:51.942542 Lima: We should drop Alpha
+2024-10-15 01:57:51.954625 Zulu: Yes
+2024-10-15 01:57:51.954800 Echo: No
+2024-10-15 01:57:51.954929 Romeo: No
+ChatterBot Echo reevaluating
+2024-10-15 01:57:51.984767 Alpha: We should drop Sierra
+ChatterBot Echo reevaluating
+2024-10-15 01:57:51.996985 Zulu: Yes
+2024-10-15 01:57:51.997137 Lima: Yes
+2024-10-15 01:57:51.997254 Echo: Yes
+2024-10-15 01:57:51.997351 Romeo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-15 01:57:52.059674 Juliett: Same as last round
+2024-10-15 01:57:52.066667 Zulu: Lima and Romeo, sending you 1
+2024-10-15 01:57:52.070668 Romeo: Lima, Zulu and Echo, sending you 2
+2024-10-15 01:57:52.071849 Zulu: Echo, sending you 2
+2024-10-15 01:57:52.075692 Uniform: Juliett, sending you 5
+2024-10-15 01:57:52.076674 Romeo: Alpha, sending you 1
+2024-10-15 01:57:52.078692 Hotel: Juliett, sending you 7
+2024-10-15 01:57:52.080652 Uniform: Hotel, sending you 3
+2024-10-15 01:57:52.081686 Hotel: Uniform, sending you 6
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Sierra round 29
+ChatterBot Lima round 29
+ChatterBot Zulu round 29
+ChatterBot Juliett round 29
+ChatterBot Echo round 29
+ChatterBot Uniform round 29
+ChatterBot Romeo round 29
+ChatterBot Whiskey round 29
+ChatterBot Alpha round 29
+ChatterBot Hotel round 29
+2024-10-15 01:57:53.191665 Alpha: We should drop Sierra
+2024-10-15 01:57:53.223209 Zulu: Yes
+2024-10-15 01:57:53.223414 Lima: Yes
+2024-10-15 01:57:53.223569 Echo: Yes
+2024-10-15 01:57:53.223732 Romeo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:53.348462 Lima: We should drop Alpha
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:53.366220 Zulu: Yes
+2024-10-15 01:57:53.366337 Echo: Yes
+2024-10-15 01:57:53.366428 Romeo: No
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:53.412560 Echo: We should drop Sierra and Alpha
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-15 01:57:53.425416 Zulu: Yes
+2024-10-15 01:57:53.425525 Lima: Yes
+2024-10-15 01:57:53.425620 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-15 01:57:53.469661 Uniform: Juliett, sending you 5
+2024-10-15 01:57:53.471521 Juliett: Same as last round
+2024-10-15 01:57:53.472466 Hotel: Juliett, sending you 7
+2024-10-15 01:57:53.474090 Uniform: Hotel, sending you 3
+2024-10-15 01:57:53.477684 Hotel: Uniform, sending you 6
+2024-10-15 01:57:53.491660 Zulu: Lima and Romeo, sending you 3
+2024-10-15 01:57:53.498304 Zulu: Echo, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 30
+ChatterBot Lima round 30
+ChatterBot Zulu round 30
+ChatterBot Juliett round 30
+ChatterBot Echo round 30
+ChatterBot Uniform round 30
+ChatterBot Romeo round 30
+ChatterBot Whiskey round 30
+ChatterBot Alpha round 30
+ChatterBot Hotel round 30
+2024-10-15 01:57:54.685573 Lima: We should drop Alpha
+2024-10-15 01:57:54.710992 Zulu: Yes
+2024-10-15 01:57:54.711336 Echo: Yes
+2024-10-15 01:57:54.711675 Romeo: Yes
+2024-10-15 01:57:54.765382 Echo: We should drop Sierra and Alpha
+2024-10-15 01:57:54.787857 Zulu: Yes
+2024-10-15 01:57:54.788255 Lima: Yes
+2024-10-15 01:57:54.788537 Romeo: Yes
+2024-10-15 01:57:54.860104 Alpha: We should drop Sierra
+2024-10-15 01:57:54.878812 Zulu: Yes
+2024-10-15 01:57:54.878956 Lima: Yes
+2024-10-15 01:57:54.879078 Echo: Yes
+2024-10-15 01:57:54.879185 Romeo: Yes
+2024-10-15 01:57:54.959055 Uniform: I was attacked by Alpha
+ChatterBot Juliett reevaluating
+ChatterBot Hotel reevaluating
+2024-10-15 01:57:54.966224 Uniform: I'm keeping this round to protect myself
+2024-10-15 01:57:54.966869 Uniform: Ow
+2024-10-15 01:57:54.967480 Zulu: Lima and Romeo, sending you 3
+2024-10-15 01:57:54.970680 Zulu: Echo, sending you 2
+2024-10-15 01:57:54.986673 Hotel: Juliett, sending you 7
+2024-10-15 01:57:54.990110 Romeo: Lima and Echo, sending you 2
+2024-10-15 01:57:54.991031 Hotel: Uniform, sending you 6
+2024-10-15 01:57:54.995687 Romeo: Zulu, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Sierra submitting transactions
