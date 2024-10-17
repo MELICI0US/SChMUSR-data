@@ -2,6 +2,9 @@
 
 Data from SChMUSR training
 
+## Note
+`results4/gameInfos/gen_27/gameInfo_27_7.json` was too large for git, so it is compressed into a .zip file. Make sure to uncompress it before using the data
+
 ## File organization
 
 Each results folder contains the data from a single run of the genetic algorithm with the following parameters:
