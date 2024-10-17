@@ -1,0 +1,1482 @@
+ChatterBot Charlie round 1
+ChatterBot Sierra round 1
+ChatterBot Oscar round 1
+ChatterBot Bravo round 1
+ChatterBot Echo round 1
+ChatterBot X-ray round 1
+ChatterBot Whiskey round 1
+ChatterBot Foxtrot round 1
+ChatterBot November round 1
+ChatterBot Tango round 1
+randomSelections Bravo: {Bravo, Foxtrot, November, X-ray} 
+2024-10-14 17:53:18.971798 Bravo: Can we be friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:53:18.980769 Foxtrot: Yes
+2024-10-14 17:53:18.981344 November: Yes
+2024-10-14 17:53:18.981466 X-ray: Yes
+ChatterBot November reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+randomSelections Charlie: {Charlie, Whiskey, Sierra, Foxtrot} 
+2024-10-14 17:53:19.004665 Charlie: Group up?
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:19.012465 Whiskey: Yes
+2024-10-14 17:53:19.013050 Sierra: Yes
+2024-10-14 17:53:19.013169 Foxtrot: No
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Echo: {Echo, Foxtrot, Charlie} 
+2024-10-14 17:53:19.040642 Echo: We should group up
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:19.043875 Foxtrot: No
+2024-10-14 17:53:19.044041 Charlie: No
+ChatterBot Foxtrot reevaluating
+randomSelections Tango: {Tango, November, Bravo} 
+2024-10-14 17:53:19.054286 Tango: Can we be friends?
+ChatterBot November reevaluating
+2024-10-14 17:53:19.056865 November: No
+2024-10-14 17:53:19.056987 Bravo: No
+ChatterBot November reevaluating
+randomSelections Oscar: {Oscar, Charlie, X-ray, Tango, Foxtrot, Bravo} 
+2024-10-14 17:53:19.065006 Oscar: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:19.072226 Charlie: No
+2024-10-14 17:53:19.072362 X-ray: No
+2024-10-14 17:53:19.072877 Tango: No
+2024-10-14 17:53:19.073008 Foxtrot: No
+2024-10-14 17:53:19.073187 Bravo: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:19.113703 Echo: Charlie, sending you 2
+2024-10-14 17:53:19.114726 Charlie: Sierra and Whiskey, sending you 1
+2024-10-14 17:53:19.115702 Oscar: Charlie, Foxtrot and Tango, sending you 2
+2024-10-14 17:53:19.116696 X-ray: Bravo, sending you 2
+2024-10-14 17:53:19.117679 Bravo: X-ray, sending you 4
+2024-10-14 17:53:19.118676 Echo: Foxtrot, sending you 3
+2024-10-14 17:53:19.118947 Charlie: Foxtrot, sending you 3
+2024-10-14 17:53:19.119738 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:19.120704 Oscar: Bravo and X-ray, sending you 5
+2024-10-14 17:53:19.121945 X-ray: Foxtrot and November, sending you 5
+2024-10-14 17:53:19.122692 Bravo: Foxtrot, sending you 7
+2024-10-14 17:53:19.124704 Whiskey: Sierra, sending you 5
+2024-10-14 17:53:19.124918 November: Bravo, sending you 3
+2024-10-14 17:53:19.125130 Sierra: Charlie, sending you 5
+2024-10-14 17:53:19.125708 Tango: Bravo and November, sending you 6
+2024-10-14 17:53:19.127035 Foxtrot: Bravo and X-ray, sending you 5
+2024-10-14 17:53:19.127672 Bravo: November, sending you 5
+2024-10-14 17:53:19.127973 Whiskey: Foxtrot, sending you 6
+2024-10-14 17:53:19.128697 Sierra: Whiskey, sending you 4
+2024-10-14 17:53:19.130004 November: X-ray, sending you 5
+2024-10-14 17:53:19.131647 Foxtrot: November, sending you 6
+2024-10-14 17:53:19.133035 Sierra: Foxtrot, sending you 7
+2024-10-14 17:53:19.133329 November: Foxtrot, sending you 11
+chatterbot Oscar submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Charlie round 2
+ChatterBot Sierra round 2
+ChatterBot Oscar round 2
+ChatterBot Bravo round 2
+ChatterBot Echo round 2
+ChatterBot X-ray round 2
+2024-10-14 17:53:21.350974 Bravo: We should add Oscar and Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:53:21.393258 Foxtrot: No
+2024-10-14 17:53:21.393452 November: No
+2024-10-14 17:53:21.393576 X-ray: No
+ChatterBot November reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:21.553924 X-ray: We should add Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:21.601517 Bravo: Yes
+2024-10-14 17:53:21.602428 Foxtrot: Yes
+2024-10-14 17:53:21.602948 November: No
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey round 2
+ChatterBot Foxtrot round 2
+ChatterBot November round 2
+ChatterBot Tango round 2
+2024-10-14 17:53:21.750326 Oscar: Let's form a team
+2024-10-14 17:53:21.756721 Echo: No
+2024-10-14 17:53:21.770074 Sierra: We should drop Foxtrot
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:21.784558 Charlie: Yes
+2024-10-14 17:53:21.784789 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:21.814255 November: We should add Oscar and Tango
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:21.826892 Bravo: Yes
+2024-10-14 17:53:21.827057 Foxtrot: No
+2024-10-14 17:53:21.827180 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:21.870186 Tango: Can we be friends?
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:21.896196 Oscar: No
+2024-10-14 17:53:21.896413 Bravo: Yes
+2024-10-14 17:53:21.897006 X-ray: No
+2024-10-14 17:53:21.897131 Foxtrot: Yes
+2024-10-14 17:53:21.897323 November: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:21.998623 X-ray: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 17:53:22.003041 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:22.088515 November: We should add Tango
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:53:22.102576 Bravo: Yes
+2024-10-14 17:53:22.102813 Foxtrot: Yes
+2024-10-14 17:53:22.103062 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:22.150323 Bravo: Oscar and Tango we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 17:53:22.159273 Tango: Yes
+2024-10-14 17:53:22.159502 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:22.200884 Oscar: We should replace Charlie with November
+2024-10-14 17:53:22.217355 Bravo: Yes
+2024-10-14 17:53:22.217641 X-ray: Yes
+2024-10-14 17:53:22.217835 Foxtrot: Yes
+2024-10-14 17:53:22.218299 Tango: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:53:22.311456 Sierra: Sending you each 8
+2024-10-14 17:53:22.312373 Foxtrot: Oscar and Tango we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 17:53:22.321144 Tango: Yes
+2024-10-14 17:53:22.321282 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:22.407388 Tango: Oscar, sending you 8
+2024-10-14 17:53:22.408393 X-ray: Sending you each 3
+2024-10-14 17:53:22.408782 Oscar: November we want you to join our group
+ChatterBot November reevaluating
+2024-10-14 17:53:22.415322 November: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 17:53:22.436940 Oscar: Let's form a team
+ChatterBot November reevaluating
+2024-10-14 17:53:22.456499 X-ray: Yes
+2024-10-14 17:53:22.456669 Bravo: Yes
+2024-10-14 17:53:22.456828 Foxtrot: Yes
+2024-10-14 17:53:22.456955 November: Yes
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:53:22.542603 Tango: Bravo, X-ray, Foxtrot and November, sending you 1
+chatterbot Echo submitting transactions
+2024-10-14 17:53:22.547331 Foxtrot: Oscar, sending you 2
+2024-10-14 17:53:22.548395 Bravo: Oscar, Foxtrot and Tango, sending you 4
+2024-10-14 17:53:22.548849 November: Oscar and Tango we want you to join our group
+2024-10-14 17:53:22.562111 Tango: Yes
+2024-10-14 17:53:22.562393 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:22.680296 Charlie: Sierra, sending you 3
+2024-10-14 17:53:22.680894 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:22.682187 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:22.683033 Bravo: X-ray and November, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 17:53:22.684733 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:22.685087 Whiskey: Sierra, sending you 11
+2024-10-14 17:53:22.685737 Foxtrot: X-ray, sending you 3
+chatterbot Whiskey submitting transactions
+2024-10-14 17:53:22.691669 Foxtrot: November, sending you 5
+2024-10-14 17:53:22.695654 Foxtrot: Tango, sending you 1
+2024-10-14 17:53:22.710906 Oscar: Sending you each 4
+chatterbot X-ray submitting transactions
+2024-10-14 17:53:22.718671 November: Oscar, sending you 2
+2024-10-14 17:53:22.724664 November: Bravo, X-ray and Tango, sending you 4
+2024-10-14 17:53:22.728898 November: Foxtrot, sending you 5
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Charlie round 3
+ChatterBot Sierra round 3
+ChatterBot Oscar round 3
+ChatterBot Bravo round 3
+ChatterBot Echo round 3
+ChatterBot X-ray round 3
+2024-10-14 17:53:23.262376 Oscar: We should add Tango
+2024-10-14 17:53:23.278065 X-ray: No
+2024-10-14 17:53:23.278605 Bravo: Yes
+2024-10-14 17:53:23.278855 Foxtrot: Yes
+2024-10-14 17:53:23.279019 November: Yes
+ChatterBot Whiskey round 3
+ChatterBot Foxtrot round 3
+ChatterBot November round 3
+ChatterBot Tango round 3
+2024-10-14 17:53:23.344175 Oscar: Tango we want you to join our group
+2024-10-14 17:53:23.347150 Tango: Yes
+2024-10-14 17:53:23.376679 Charlie: Sierra, sending you 3
+2024-10-14 17:53:23.380978 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:23.383688 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:23.384660 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:23.387669 Sierra: Same as last round
+2024-10-14 17:53:23.387981 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:23.389659 Whiskey: Sierra, sending you 11
+2024-10-14 17:53:23.393704 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:23.395721 X-ray: Same as last round
+2024-10-14 17:53:23.396684 Oscar: Bravo, X-ray, Foxtrot and November, sending you 3
+2024-10-14 17:53:23.397665 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:23.400019 Tango: Oscar and Foxtrot, sending you 2
+2024-10-14 17:53:23.400391 Oscar: Tango, sending you 4
+2024-10-14 17:53:23.401678 November: Foxtrot, sending you 5
+2024-10-14 17:53:23.404691 Foxtrot: Oscar, sending you 2
+2024-10-14 17:53:23.405079 Tango: Bravo and November, sending you 4
+2024-10-14 17:53:23.408659 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:23.412242 Foxtrot: X-ray, sending you 3
+2024-10-14 17:53:23.415793 Foxtrot: November, sending you 5
+2024-10-14 17:53:23.419675 Foxtrot: Tango, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Charlie round 4
+ChatterBot Sierra round 4
+ChatterBot Oscar round 4
+ChatterBot Bravo round 4
+ChatterBot Echo round 4
+ChatterBot X-ray round 4
+ChatterBot Whiskey round 4
+ChatterBot Foxtrot round 4
+ChatterBot November round 4
+ChatterBot Tango round 4
+2024-10-14 17:53:24.631685 Sierra: Same as last round
+2024-10-14 17:53:24.632698 Charlie: Sierra, sending you 3
+2024-10-14 17:53:24.635680 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:24.637683 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:24.640689 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:24.641302 Whiskey: Sierra, sending you 11
+2024-10-14 17:53:24.643698 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:24.644697 Bravo: Oscar, X-ray and Tango, sending you 3
+2024-10-14 17:53:24.645448 Foxtrot: Oscar, sending you 2
+2024-10-14 17:53:24.646663 Oscar: Bravo, sending you 4
+2024-10-14 17:53:24.647720 November: Foxtrot, sending you 5
+2024-10-14 17:53:24.648688 X-ray: Same as last round
+2024-10-14 17:53:24.649112 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:24.650287 Bravo: Foxtrot, sending you 5
+2024-10-14 17:53:24.650820 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:24.651333 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:24.651894 Foxtrot: X-ray, sending you 3
+2024-10-14 17:53:24.654290 Tango: X-ray, sending you 1
+2024-10-14 17:53:24.654900 Bravo: November, sending you 4
+2024-10-14 17:53:24.656684 Foxtrot: November, sending you 6
+2024-10-14 17:53:24.659673 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:24.661720 Foxtrot: Tango, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Charlie round 5
+ChatterBot Sierra round 5
+ChatterBot Oscar round 5
+ChatterBot Bravo round 5
+ChatterBot Echo round 5
+ChatterBot X-ray round 5
+ChatterBot Whiskey round 5
+ChatterBot Foxtrot round 5
+ChatterBot November round 5
+2024-10-14 17:53:25.694765 Charlie: We should add Echo
+2024-10-14 17:53:25.701439 Sierra: No
+2024-10-14 17:53:25.701598 Whiskey: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango round 5
+2024-10-14 17:53:25.744659 Sierra: Same as last round
+2024-10-14 17:53:25.754678 Bravo: Oscar, X-ray and Tango, sending you 3
+2024-10-14 17:53:25.755733 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:25.757795 Bravo: Foxtrot, sending you 5
+2024-10-14 17:53:25.758697 X-ray: Same as last round
+2024-10-14 17:53:25.759195 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:25.760663 Foxtrot: Oscar, sending you 2
+2024-10-14 17:53:25.762668 Bravo: November, sending you 4
+2024-10-14 17:53:25.763151 Oscar: Bravo, sending you 4
+2024-10-14 17:53:25.763696 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:25.764675 November: Foxtrot, sending you 5
+2024-10-14 17:53:25.765696 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:25.766686 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:25.767685 Tango: X-ray, sending you 1
+2024-10-14 17:53:25.768689 Foxtrot: X-ray, sending you 3
+2024-10-14 17:53:25.769704 Charlie: Sierra, sending you 3
+2024-10-14 17:53:25.770738 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:25.771041 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:25.773922 Foxtrot: November, sending you 6
+2024-10-14 17:53:25.774690 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:25.775695 Whiskey: Sierra, sending you 11
+2024-10-14 17:53:25.778673 Foxtrot: Tango, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Charlie round 6
+ChatterBot Sierra round 6
+ChatterBot Oscar round 6
+ChatterBot Bravo round 6
+ChatterBot Echo round 6
+ChatterBot X-ray round 6
+ChatterBot Whiskey round 6
+ChatterBot Foxtrot round 6
+ChatterBot November round 6
+ChatterBot Tango round 6
+2024-10-14 17:53:27.048669 Oscar: Bravo, sending you 4
+2024-10-14 17:53:27.050663 Sierra: Same as last round
+2024-10-14 17:53:27.052680 Charlie: Sierra, sending you 3
+2024-10-14 17:53:27.053007 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:27.054684 X-ray: Same as last round
+2024-10-14 17:53:27.056668 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:27.061688 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:53:27.062678 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:27.065677 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:27.066846 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:27.070680 Foxtrot: X-ray, sending you 3
+2024-10-14 17:53:27.071530 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:27.072266 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:27.073667 Foxtrot: November, sending you 5
+2024-10-14 17:53:27.074694 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:27.075918 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:27.077644 Whiskey: Sierra, sending you 11
+2024-10-14 17:53:27.079681 Tango: X-ray, sending you 1
+2024-10-14 17:53:27.080439 November: Foxtrot, sending you 5
+2024-10-14 17:53:27.082708 Tango: Foxtrot, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Charlie round 7
+ChatterBot Sierra round 7
+ChatterBot Oscar round 7
+ChatterBot Bravo round 7
+ChatterBot Echo round 7
+ChatterBot X-ray round 7
+ChatterBot Whiskey round 7
+ChatterBot Foxtrot round 7
+ChatterBot November round 7
+ChatterBot Tango round 7
+2024-10-14 17:53:27.797683 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:27.798704 Charlie: Sierra, sending you 3
+2024-10-14 17:53:27.799080 Sierra: Same as last round
+2024-10-14 17:53:27.801729 X-ray: Same as last round
+2024-10-14 17:53:27.802146 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:27.802994 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:27.806690 Oscar: Bravo, sending you 4
+2024-10-14 17:53:27.807389 Whiskey: Charlie, sending you 3
+2024-10-14 17:53:27.810689 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:27.812664 Whiskey: Sierra, sending you 11
+2024-10-14 17:53:27.815691 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:27.816448 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:27.817695 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:27.818700 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:27.821039 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:27.821731 Tango: X-ray, sending you 1
+2024-10-14 17:53:27.823655 Foxtrot: November, sending you 5
+2024-10-14 17:53:27.824669 November: Foxtrot, sending you 5
+2024-10-14 17:53:27.825160 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:27.826693 Foxtrot: Tango, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+ChatterBot Charlie round 8
+ChatterBot Sierra round 8
+ChatterBot Oscar round 8
+ChatterBot Bravo round 8
+ChatterBot Echo round 8
+ChatterBot X-ray round 8
+ChatterBot Whiskey round 8
+ChatterBot Foxtrot round 8
+ChatterBot November round 8
+ChatterBot Tango round 8
+2024-10-14 17:53:28.982666 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:28.983777 Oscar: Bravo, sending you 4
+2024-10-14 17:53:28.985680 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:28.987670 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:28.988649 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:28.988926 Sierra: Same as last round
+2024-10-14 17:53:28.991102 X-ray: Same as last round
+2024-10-14 17:53:28.991653 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:28.994654 Charlie: Sierra, sending you 3
+2024-10-14 17:53:28.994981 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:28.997667 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:28.999661 Tango: X-ray, sending you 1
+2024-10-14 17:53:29.004676 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:29.005699 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:29.006668 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:29.009663 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:29.010678 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:29.014664 Foxtrot: November, sending you 5
+2024-10-14 17:53:29.015672 November: Foxtrot, sending you 5
+2024-10-14 17:53:29.017679 Foxtrot: Tango, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Charlie round 9
+ChatterBot Sierra round 9
+ChatterBot Oscar round 9
+ChatterBot Bravo round 9
+ChatterBot Echo round 9
+ChatterBot X-ray round 9
+ChatterBot Whiskey round 9
+ChatterBot Foxtrot round 9
+ChatterBot November round 9
+ChatterBot Tango round 9
+2024-10-14 17:53:30.114673 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:30.115680 Sierra: Same as last round
+2024-10-14 17:53:30.116067 Oscar: Bravo, sending you 4
+2024-10-14 17:53:30.117713 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:30.118200 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:30.119666 X-ray: Same as last round
+2024-10-14 17:53:30.120088 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:30.120709 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:30.121399 Tango: X-ray, sending you 1
+2024-10-14 17:53:30.121951 Charlie: Sierra, sending you 3
+2024-10-14 17:53:30.122789 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:30.124659 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:30.125665 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:30.126666 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:30.127670 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:30.128277 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:30.128897 Foxtrot: November, sending you 5
+2024-10-14 17:53:30.133982 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:30.134693 Foxtrot: Tango, sending you 1
+2024-10-14 17:53:30.138669 November: Foxtrot, sending you 5
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Charlie round 10
+ChatterBot Sierra round 10
+ChatterBot Oscar round 10
+ChatterBot Bravo round 10
+ChatterBot Echo round 10
+ChatterBot X-ray round 10
+ChatterBot Whiskey round 10
+ChatterBot Foxtrot round 10
+ChatterBot November round 10
+ChatterBot Tango round 10
+2024-10-14 17:53:31.330126 X-ray: Same as last round
+2024-10-14 17:53:31.330998 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:31.331754 Charlie: Sierra, sending you 3
+2024-10-14 17:53:31.334670 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:31.335838 Sierra: Same as last round
+2024-10-14 17:53:31.336692 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:31.339680 Foxtrot: November, sending you 5
+2024-10-14 17:53:31.340553 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:31.342657 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:31.344686 Foxtrot: Tango, sending you 1
+2024-10-14 17:53:31.345738 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:31.346691 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:31.347649 Tango: X-ray, sending you 1
+2024-10-14 17:53:31.348302 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:31.348826 Oscar: Bravo, sending you 4
+2024-10-14 17:53:31.351685 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:31.351970 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:31.352814 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:31.353690 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:31.358009 November: Foxtrot, sending you 5
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Charlie round 11
+ChatterBot Sierra round 11
+ChatterBot Oscar round 11
+ChatterBot Bravo round 11
+ChatterBot Echo round 11
+ChatterBot X-ray round 11
+ChatterBot Whiskey round 11
+ChatterBot Foxtrot round 11
+ChatterBot November round 11
+ChatterBot Tango round 11
+2024-10-14 17:53:32.601695 Charlie: Sierra, sending you 3
+2024-10-14 17:53:32.606683 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:32.607181 X-ray: Same as last round
+2024-10-14 17:53:32.609700 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:32.611333 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:32.611899 Sierra: Same as last round
+2024-10-14 17:53:32.615690 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:32.616721 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:32.617171 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:32.618295 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:32.619824 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:32.621468 Oscar: Bravo, sending you 4
+2024-10-14 17:53:32.623119 Tango: Bravo, sending you 4
+2024-10-14 17:53:32.624694 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:32.626285 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:32.627941 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:32.628981 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:32.630005 November: Foxtrot, sending you 5
+2024-10-14 17:53:32.631690 Foxtrot: November, sending you 5
+2024-10-14 17:53:32.636702 Foxtrot: Tango, sending you 1
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Charlie round 12
+ChatterBot Sierra round 12
+ChatterBot Oscar round 12
+ChatterBot Bravo round 12
+ChatterBot Echo round 12
+ChatterBot X-ray round 12
+ChatterBot Whiskey round 12
+ChatterBot Foxtrot round 12
+ChatterBot November round 12
+ChatterBot Tango round 12
+2024-10-14 17:53:33.479687 Oscar: Bravo, sending you 4
+2024-10-14 17:53:33.481185 X-ray: Same as last round
+2024-10-14 17:53:33.482923 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:33.484294 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:33.484794 Sierra: Same as last round
+2024-10-14 17:53:33.485672 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:33.487534 Charlie: Sierra, sending you 3
+2024-10-14 17:53:33.487919 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:33.488748 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:33.491673 Foxtrot: November, sending you 5
+2024-10-14 17:53:33.493631 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:33.494128 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:33.495965 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:33.497797 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:33.500230 Foxtrot: Tango, sending you 1
+2024-10-14 17:53:33.502146 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:33.503871 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:33.505823 Tango: Bravo, sending you 4
+2024-10-14 17:53:33.509710 November: Foxtrot, sending you 5
+2024-10-14 17:53:33.510834 Tango: Foxtrot, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Charlie round 13
+ChatterBot Sierra round 13
+ChatterBot Oscar round 13
+ChatterBot Bravo round 13
+ChatterBot Echo round 13
+ChatterBot X-ray round 13
+ChatterBot Whiskey round 13
+ChatterBot Foxtrot round 13
+ChatterBot November round 13
+ChatterBot Tango round 13
+2024-10-14 17:53:34.653668 Oscar: Bravo, sending you 4
+2024-10-14 17:53:34.659133 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:34.660868 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:34.665310 Charlie: Sierra, sending you 3
+2024-10-14 17:53:34.665733 X-ray: Same as last round
+2024-10-14 17:53:34.666682 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:34.667049 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:34.668528 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:34.669708 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:34.670272 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:34.672105 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:34.673290 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:34.674403 Sierra: Same as last round
+2024-10-14 17:53:34.674954 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:34.676315 November: Foxtrot, sending you 5
+2024-10-14 17:53:34.678148 Tango: Bravo, sending you 4
+2024-10-14 17:53:34.679910 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:34.682899 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:34.685778 Foxtrot: November, sending you 5
+2024-10-14 17:53:34.690670 Foxtrot: Tango, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+ChatterBot Charlie round 14
+ChatterBot Sierra round 14
+ChatterBot Oscar round 14
+ChatterBot Bravo round 14
+ChatterBot Echo round 14
+ChatterBot X-ray round 14
+ChatterBot Whiskey round 14
+ChatterBot Foxtrot round 14
+ChatterBot November round 14
+ChatterBot Tango round 14
+2024-10-14 17:53:35.895666 Oscar: Bravo, sending you 4
+2024-10-14 17:53:35.899666 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:35.900687 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:35.904879 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:35.907722 Sierra: Same as last round
+2024-10-14 17:53:35.908671 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:35.910875 X-ray: Same as last round
+2024-10-14 17:53:35.911641 Charlie: Sierra, sending you 3
+2024-10-14 17:53:35.913703 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:35.914655 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:35.916643 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:35.917800 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:35.918665 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:35.921657 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:35.922775 Foxtrot: Bravo, sending you 4
+2024-10-14 17:53:35.924686 Tango: Bravo, sending you 4
+2024-10-14 17:53:35.926955 November: Foxtrot, sending you 5
+2024-10-14 17:53:35.928143 Foxtrot: November, sending you 5
+2024-10-14 17:53:35.929018 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:35.931674 Foxtrot: Tango, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Charlie round 15
+ChatterBot Sierra round 15
+ChatterBot Oscar round 15
+ChatterBot Bravo round 15
+ChatterBot Echo round 15
+ChatterBot X-ray round 15
+ChatterBot Whiskey round 15
+ChatterBot Foxtrot round 15
+ChatterBot November round 15
+ChatterBot Tango round 15
+2024-10-14 17:53:37.139663 Charlie: Sierra, sending you 3
+2024-10-14 17:53:37.142666 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:37.145698 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:37.148664 November: Oscar and Tango, sending you 3
+2024-10-14 17:53:37.149816 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:37.150725 X-ray: Same as last round
+2024-10-14 17:53:37.151686 Oscar: Bravo, sending you 4
+2024-10-14 17:53:37.153793 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:37.155200 November: Bravo and X-ray, sending you 4
+2024-10-14 17:53:37.156521 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:37.157905 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:37.159815 Tango: Bravo, sending you 4
+2024-10-14 17:53:37.161059 Sierra: Same as last round
+2024-10-14 17:53:37.161540 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:37.163032 November: Foxtrot, sending you 5
+2024-10-14 17:53:37.164978 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:37.166417 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:37.167770 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:37.174950 Foxtrot: Tango, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+ChatterBot Charlie round 16
+ChatterBot Sierra round 16
+ChatterBot Oscar round 16
+ChatterBot Bravo round 16
+ChatterBot Echo round 16
+ChatterBot X-ray round 16
+ChatterBot Whiskey round 16
+ChatterBot Foxtrot round 16
+ChatterBot November round 16
+ChatterBot Tango round 16
+2024-10-14 17:53:38.436697 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:38.439069 Charlie: Sierra, sending you 3
+2024-10-14 17:53:38.439742 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:38.442688 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:38.445246 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:38.445814 Tango: X-ray, sending you 1
+2024-10-14 17:53:38.447975 Oscar: Bravo, sending you 4
+2024-10-14 17:53:38.449881 X-ray: Same as last round
+2024-10-14 17:53:38.451737 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:38.454301 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:38.456228 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:38.457326 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:38.459008 Sierra: Same as last round
+2024-10-14 17:53:38.459514 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:38.460898 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:38.461239 November: Tango, sending you 3
+2024-10-14 17:53:38.465267 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:38.467371 Whiskey: Sierra, sending you 10
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Charlie round 17
+ChatterBot Sierra round 17
+ChatterBot Oscar round 17
+ChatterBot Bravo round 17
+ChatterBot Echo round 17
+ChatterBot X-ray round 17
+ChatterBot Whiskey round 17
+ChatterBot Foxtrot round 17
+ChatterBot November round 17
+ChatterBot Tango round 17
+2024-10-14 17:53:39.629404 Whiskey: We should add Bravo
+2024-10-14 17:53:39.635286 Sierra: No
+2024-10-14 17:53:39.635421 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:39.664653 Charlie: Sierra, sending you 3
+2024-10-14 17:53:39.666670 Sierra: Same as last round
+2024-10-14 17:53:39.670655 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:39.672200 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:39.677684 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:39.679919 X-ray: Same as last round
+2024-10-14 17:53:39.681702 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:39.683705 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:39.686700 Oscar: Bravo, sending you 4
+2024-10-14 17:53:39.689239 Tango: X-ray, sending you 1
+2024-10-14 17:53:39.691127 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:39.693239 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:39.694885 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:39.695650 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:39.698077 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:39.700369 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:39.701979 November: Tango, sending you 3
+2024-10-14 17:53:39.704310 Whiskey: Sierra, sending you 10
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Charlie round 18
+ChatterBot Sierra round 18
+ChatterBot Oscar round 18
+ChatterBot Bravo round 18
+ChatterBot Echo round 18
+ChatterBot X-ray round 18
+ChatterBot Whiskey round 18
+ChatterBot Foxtrot round 18
+ChatterBot November round 18
+ChatterBot Tango round 18
+2024-10-14 17:53:40.656912 Charlie: We should add Echo
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:40.663382 Sierra: No
+2024-10-14 17:53:40.663504 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:40.692864 Sierra: Echo we want you to join our group
+2024-10-14 17:53:40.695762 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:40.710658 Oscar: Bravo, sending you 4
+2024-10-14 17:53:40.713489 X-ray: Same as last round
+2024-10-14 17:53:40.716661 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:40.719729 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:40.722598 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:40.725667 November: Tango, sending you 3
+2024-10-14 17:53:40.727063 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:40.729079 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:40.730036 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:40.731086 Tango: Bravo, sending you 4
+2024-10-14 17:53:40.732693 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:40.734910 Charlie: Sierra, sending you 3
+2024-10-14 17:53:40.735311 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:40.736274 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:40.737992 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:40.738515 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:40.739054 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:40.740663 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:40.743874 Sierra: Whiskey, sending you 6
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Charlie round 19
+ChatterBot Sierra round 19
+ChatterBot Oscar round 19
+ChatterBot Bravo round 19
+ChatterBot Echo round 19
+ChatterBot X-ray round 19
+ChatterBot Whiskey round 19
+ChatterBot Foxtrot round 19
+ChatterBot November round 19
+ChatterBot Tango round 19
+2024-10-14 17:53:41.965120 Charlie: Sierra, sending you 3
+2024-10-14 17:53:41.967686 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:41.969431 Oscar: Bravo, sending you 4
+2024-10-14 17:53:41.972465 X-ray: Same as last round
+2024-10-14 17:53:41.973388 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:41.973784 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:41.974335 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:41.976448 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:41.977915 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:41.980005 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:41.980369 November: Tango, sending you 3
+2024-10-14 17:53:41.982852 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:41.984919 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:41.985550 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:41.989709 Tango: Bravo, sending you 4
+2024-10-14 17:53:41.992947 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:41.993633 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:41.997663 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:42.001967 Foxtrot: Tango, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Charlie round 20
+ChatterBot Sierra round 20
+ChatterBot Oscar round 20
+ChatterBot Bravo round 20
+ChatterBot Echo round 20
+ChatterBot X-ray round 20
+ChatterBot Whiskey round 20
+ChatterBot Foxtrot round 20
+ChatterBot November round 20
+ChatterBot Tango round 20
+2024-10-14 17:53:43.223663 Oscar: Bravo, sending you 4
+2024-10-14 17:53:43.229699 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:43.232184 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:43.233968 X-ray: Same as last round
+2024-10-14 17:53:43.235456 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:43.236176 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:43.239484 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:43.240213 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:43.242878 Charlie: Sierra, sending you 3
+2024-10-14 17:53:43.243599 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:43.244023 November: Tango, sending you 3
+2024-10-14 17:53:43.245493 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:43.247786 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:43.249136 Whiskey: Sierra, sending you 10
+2024-10-14 17:53:43.249597 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:43.250939 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:43.251697 Tango: Bravo, sending you 4
+2024-10-14 17:53:43.254091 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:43.256675 Tango: Foxtrot, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+ChatterBot Charlie round 21
+ChatterBot Sierra round 21
+ChatterBot Oscar round 21
+ChatterBot Bravo round 21
+ChatterBot Echo round 21
+ChatterBot X-ray round 21
+ChatterBot Whiskey round 21
+ChatterBot Foxtrot round 21
+ChatterBot November round 21
+ChatterBot Tango round 21
+2024-10-14 17:53:44.516223 Sierra: We should drop Echo
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:44.522442 Charlie: Yes
+2024-10-14 17:53:44.522636 Whiskey: No
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:44.536683 Oscar: Bravo, sending you 4
+2024-10-14 17:53:44.538058 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:44.540697 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:44.543940 November: Tango, sending you 3
+2024-10-14 17:53:44.545152 Tango: Oscar and November, sending you 3
+2024-10-14 17:53:44.546668 Echo: Sierra, sending you 3
+2024-10-14 17:53:44.548803 Tango: Bravo, sending you 4
+2024-10-14 17:53:44.550340 X-ray: Same as last round
+2024-10-14 17:53:44.551019 Charlie: Sierra, sending you 3
+2024-10-14 17:53:44.551993 Echo: Whiskey, sending you 2
+2024-10-14 17:53:44.552387 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:44.553854 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:44.555727 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:44.556670 Sierra: Charlie, sending you 8
+2024-10-14 17:53:44.557695 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:44.558757 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:44.560593 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:44.562867 Sierra: Whiskey, sending you 7
+2024-10-14 17:53:44.563452 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:44.567102 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:44.570690 Foxtrot: Tango, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Charlie round 22
+ChatterBot Sierra round 22
+ChatterBot Oscar round 22
+ChatterBot Bravo round 22
+ChatterBot Echo round 22
+ChatterBot X-ray round 22
+ChatterBot Whiskey round 22
+ChatterBot Foxtrot round 22
+ChatterBot November round 22
+ChatterBot Tango round 22
+2024-10-14 17:53:45.816670 X-ray: Same as last round
+2024-10-14 17:53:45.818695 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:45.820792 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:45.823698 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:45.826042 Tango: X-ray, sending you 1
+2024-10-14 17:53:45.827823 Oscar: Bravo, sending you 4
+2024-10-14 17:53:45.830162 Charlie: Sierra, sending you 3
+2024-10-14 17:53:45.830603 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:45.832070 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:45.832551 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:45.834015 Sierra: Charlie, sending you 8
+2024-10-14 17:53:45.834463 Echo: Sierra, sending you 3
+2024-10-14 17:53:45.834819 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:45.836134 Charlie: Whiskey, sending you 2
+2024-10-14 17:53:45.836632 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:45.838234 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:45.839803 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:45.840241 Sierra: Whiskey, sending you 7
+2024-10-14 17:53:45.840718 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:45.842443 Echo: Whiskey, sending you 2
+2024-10-14 17:53:45.845202 November: Tango, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Charlie round 23
+ChatterBot Sierra round 23
+ChatterBot Oscar round 23
+ChatterBot Bravo round 23
+ChatterBot Echo round 23
+ChatterBot X-ray round 23
+ChatterBot Whiskey round 23
+ChatterBot Foxtrot round 23
+ChatterBot November round 23
+ChatterBot Tango round 23
+2024-10-14 17:53:46.936939 Echo: We should add Charlie
+ChatterBot Sierra reevaluating
+2024-10-14 17:53:46.942122 Sierra: Yes
+2024-10-14 17:53:46.942276 Whiskey: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 17:53:46.952707 Sierra: We should add Echo
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:46.959336 Charlie: Yes
+2024-10-14 17:53:46.959490 Whiskey: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:46.991216 Echo: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:46.993933 Charlie: No
+ChatterBot Sierra reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:53:47.009667 Sierra: Echo we want you to join our group
+2024-10-14 17:53:47.012552 Echo: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:47.020876 Whiskey: Echo we want you to join our group
+2024-10-14 17:53:47.023720 Echo: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:47.031025 Oscar: Bravo, sending you 4
+2024-10-14 17:53:47.033004 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:47.034674 X-ray: Same as last round
+2024-10-14 17:53:47.035821 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:47.037158 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:47.038072 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:47.039245 Echo: Sierra, sending you 5
+2024-10-14 17:53:47.039543 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:47.040409 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:47.041545 November: Tango, sending you 3
+2024-10-14 17:53:47.042687 Tango: X-ray, sending you 1
+2024-10-14 17:53:47.044040 Charlie: Echo we want you to join our group
+2024-10-14 17:53:47.046471 Echo: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 17:53:47.052449 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:47.053430 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:47.053685 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:47.056670 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:47.057789 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:47.058072 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:47.061667 Whiskey: Echo, sending you 1
+2024-10-14 17:53:47.062684 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:47.092658 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:47.095660 Charlie: Echo, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Charlie round 24
+ChatterBot Sierra round 24
+ChatterBot Oscar round 24
+ChatterBot Bravo round 24
+ChatterBot Echo round 24
+ChatterBot X-ray round 24
+ChatterBot Whiskey round 24
+ChatterBot Foxtrot round 24
+ChatterBot November round 24
+ChatterBot Tango round 24
+2024-10-14 17:53:48.216683 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:48.217623 Oscar: Bravo, sending you 4
+2024-10-14 17:53:48.221180 Echo: Charlie and Whiskey, sending you 1
+2024-10-14 17:53:48.222492 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:48.223189 Charlie: Echo, sending you 1
+2024-10-14 17:53:48.225659 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:48.228197 Whiskey: Charlie, sending you 4
+2024-10-14 17:53:48.229432 X-ray: Same as last round
+2024-10-14 17:53:48.230719 Echo: Sierra, sending you 3
+2024-10-14 17:53:48.231046 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:48.232179 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:48.233726 Tango: Oscar, Bravo, Foxtrot and November, sending you 3
+2024-10-14 17:53:48.236954 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:48.240188 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:48.244301 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:48.245260 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:48.248787 November: Tango, sending you 3
+2024-10-14 17:53:48.252285 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:48.255830 Whiskey: Echo, sending you 1
+2024-10-14 17:53:48.256479 Foxtrot: Tango, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Charlie round 25
+ChatterBot Sierra round 25
+ChatterBot Oscar round 25
+ChatterBot Bravo round 25
+ChatterBot Echo round 25
+ChatterBot X-ray round 25
+ChatterBot Whiskey round 25
+ChatterBot Foxtrot round 25
+ChatterBot November round 25
+ChatterBot Tango round 25
+2024-10-14 17:53:49.547592 Oscar: Bravo, sending you 4
+2024-10-14 17:53:49.552084 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:49.553668 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:49.554733 Echo: Charlie and Whiskey, sending you 1
+2024-10-14 17:53:49.556197 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:49.560279 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:49.564815 X-ray: Same as last round
+2024-10-14 17:53:49.568118 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:49.573408 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:49.578323 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:49.579488 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:49.580239 Echo: Sierra, sending you 3
+2024-10-14 17:53:49.581696 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:49.585902 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:49.590707 November: Tango, sending you 3
+2024-10-14 17:53:49.594644 Tango: Oscar, Bravo, Foxtrot and November, sending you 3
+2024-10-14 17:53:49.598897 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:49.600403 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:49.603671 Charlie: Echo, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Charlie round 26
+ChatterBot Sierra round 26
+ChatterBot Oscar round 26
+ChatterBot Bravo round 26
+ChatterBot Echo round 26
+ChatterBot X-ray round 26
+ChatterBot Whiskey round 26
+ChatterBot Foxtrot round 26
+ChatterBot November round 26
+ChatterBot Tango round 26
+2024-10-14 17:53:50.415689 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:50.417653 Oscar: Bravo, sending you 4
+2024-10-14 17:53:50.419665 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:50.422080 Charlie: Echo, sending you 1
+2024-10-14 17:53:50.422498 Echo: Charlie and Whiskey, sending you 1
+2024-10-14 17:53:50.422837 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:50.425065 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:50.426043 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:50.427212 Tango: Oscar, Bravo, Foxtrot and November, sending you 3
+2024-10-14 17:53:50.428387 November: Tango, sending you 3
+2024-10-14 17:53:50.430116 Echo: Sierra, sending you 3
+2024-10-14 17:53:50.430558 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:50.431693 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:50.432035 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:50.432370 X-ray: Same as last round
+2024-10-14 17:53:50.432891 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:50.434664 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:50.437855 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:50.443679 Foxtrot: Tango, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+ChatterBot Charlie round 27
+ChatterBot Sierra round 27
+ChatterBot Oscar round 27
+ChatterBot Bravo round 27
+ChatterBot Echo round 27
+ChatterBot X-ray round 27
+ChatterBot Whiskey round 27
+ChatterBot Foxtrot round 27
+ChatterBot November round 27
+ChatterBot Tango round 27
+2024-10-14 17:53:51.680709 X-ray: Same as last round
+2024-10-14 17:53:51.682135 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:51.683179 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:51.685719 Echo: Charlie and Whiskey, sending you 1
+2024-10-14 17:53:51.686157 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:51.687667 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:51.688680 Tango: Oscar, Bravo, Foxtrot and November, sending you 3
+2024-10-14 17:53:51.690505 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:51.691823 Oscar: Bravo, sending you 4
+2024-10-14 17:53:51.692995 Charlie: Echo, sending you 1
+2024-10-14 17:53:51.693407 Echo: Sierra, sending you 3
+2024-10-14 17:53:51.694661 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:51.696107 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:51.698571 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:51.699187 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:51.701200 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:51.702645 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:51.703653 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:51.705665 November: Tango, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Charlie round 28
+ChatterBot Sierra round 28
+ChatterBot Oscar round 28
+ChatterBot Bravo round 28
+ChatterBot Echo round 28
+ChatterBot X-ray round 28
+ChatterBot Whiskey round 28
+ChatterBot Foxtrot round 28
+ChatterBot November round 28
+ChatterBot Tango round 28
+2024-10-14 17:53:52.945652 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:52.946699 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:52.949657 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:52.950686 Charlie: Echo, sending you 1
+2024-10-14 17:53:52.951770 Oscar: Bravo, sending you 4
+2024-10-14 17:53:52.953493 Echo: Charlie and Whiskey, sending you 1
+2024-10-14 17:53:52.953970 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:52.954664 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:52.956663 Echo: Sierra, sending you 3
+2024-10-14 17:53:52.957105 X-ray: Same as last round
+2024-10-14 17:53:52.957788 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:52.959039 Whiskey: Sierra, sending you 9
+2024-10-14 17:53:52.959995 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:52.962179 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:52.964309 Tango: Oscar, Bravo, Foxtrot and November, sending you 3
+2024-10-14 17:53:52.966858 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:52.969626 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:52.972592 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:52.976711 November: Tango, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Charlie round 29
+ChatterBot Sierra round 29
+ChatterBot Oscar round 29
+ChatterBot Bravo round 29
+ChatterBot Echo round 29
+ChatterBot X-ray round 29
+ChatterBot Whiskey round 29
+ChatterBot Foxtrot round 29
+ChatterBot November round 29
+ChatterBot Tango round 29
+2024-10-14 17:53:54.189513 Tango: We should add Echo
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:53:54.212266 Oscar: No
+2024-10-14 17:53:54.212443 Bravo: Yes
+2024-10-14 17:53:54.212610 X-ray: No
+2024-10-14 17:53:54.212846 Foxtrot: No
+2024-10-14 17:53:54.212976 November: Yes
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:53:54.553561 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:54.554342 Oscar: Bravo, sending you 4
+2024-10-14 17:53:54.558271 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:54.562181 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:54.563771 Echo: Charlie and Sierra, sending you 2
+2024-10-14 17:53:54.564205 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:54.565103 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:54.566201 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:54.568405 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:54.572869 Charlie: Echo, sending you 1
+2024-10-14 17:53:54.574635 X-ray: Same as last round
+2024-10-14 17:53:54.577561 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:54.582609 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:54.588006 Whiskey: Sierra, sending you 8
+2024-10-14 17:53:54.591148 Echo: Whiskey, sending you 1
+2024-10-14 17:53:54.592296 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:54.599918 Foxtrot: Tango, sending you 2
+2024-10-14 17:53:54.608822 November: Tango, sending you 3
+2024-10-14 17:53:54.613945 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:54.621600 Whiskey: Echo, sending you 1
+2024-10-14 17:53:54.622886 Tango: X-ray, sending you 1
+2024-10-14 17:53:54.633082 Tango: Foxtrot, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot November submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Charlie round 30
+ChatterBot Sierra round 30
+ChatterBot Oscar round 30
+ChatterBot Bravo round 30
+ChatterBot Echo round 30
+ChatterBot X-ray round 30
+ChatterBot Whiskey round 30
+ChatterBot Foxtrot round 30
+ChatterBot November round 30
+ChatterBot Tango round 30
+2024-10-14 17:53:55.601656 Tango: Oscar, Bravo and November, sending you 3
+2024-10-14 17:53:55.607482 Echo: Charlie and Whiskey, sending you 1
+2024-10-14 17:53:55.609337 Oscar: Bravo, sending you 4
+2024-10-14 17:53:55.613329 Tango: X-ray, sending you 1
+2024-10-14 17:53:55.618495 Echo: Sierra, sending you 3
+2024-10-14 17:53:55.620094 Charlie: Sierra and Whiskey, sending you 2
+2024-10-14 17:53:55.621913 Oscar: X-ray, Foxtrot, November and Tango, sending you 3
+2024-10-14 17:53:55.627369 November: Oscar, Bravo, X-ray and Foxtrot, sending you 4
+2024-10-14 17:53:55.631409 Whiskey: Charlie, sending you 5
+2024-10-14 17:53:55.633027 Sierra: Charlie and Echo, sending you 5
+2024-10-14 17:53:55.633713 Bravo: Oscar, Foxtrot and November, sending you 4
+2024-10-14 17:53:55.638967 Tango: Foxtrot, sending you 2
+2024-10-14 17:53:55.642922 X-ray: Same as last round
+2024-10-14 17:53:55.643949 Foxtrot: Oscar and X-ray, sending you 3
+2024-10-14 17:53:55.647737 Charlie: Echo, sending you 1
+2024-10-14 17:53:55.648444 November: Tango, sending you 3
+2024-10-14 17:53:55.651162 Whiskey: Sierra, sending you 8
+2024-10-14 17:53:55.651690 Sierra: Whiskey, sending you 6
+2024-10-14 17:53:55.652876 Bravo: X-ray and Tango, sending you 3
+2024-10-14 17:53:55.655655 Foxtrot: Bravo and November, sending you 4
+2024-10-14 17:53:55.658264 Whiskey: Echo, sending you 1
+2024-10-14 17:53:55.662695 Foxtrot: Tango, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions

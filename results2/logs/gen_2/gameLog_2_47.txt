@@ -1,0 +1,1798 @@
+ChatterBot Romeo round 1
+ChatterBot X-ray round 1
+ChatterBot Sierra round 1
+ChatterBot Delta round 1
+ChatterBot Quebec round 1
+ChatterBot November round 1
+ChatterBot Foxtrot round 1
+ChatterBot Charlie round 1
+ChatterBot Whiskey round 1
+ChatterBot Alpha round 1
+randomSelections Foxtrot: {Foxtrot, Delta, Sierra, Charlie} 
+2024-10-14 16:57:22.729950 Foxtrot: Friends?
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:22.737462 Delta: Yes
+2024-10-14 16:57:22.737604 Sierra: Yes
+2024-10-14 16:57:22.737702 Charlie: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Quebec: {Quebec, Romeo} 
+2024-10-14 16:57:22.754122 Quebec: Friends?
+ChatterBot Romeo reevaluating
+2024-10-14 16:57:22.756021 Romeo: Yes
+randomSelections Alpha: {Alpha, Delta, Quebec, Sierra} 
+2024-10-14 16:57:22.758959 Alpha: Friends?
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:57:22.763092 Delta: No
+2024-10-14 16:57:22.763243 Quebec: No
+2024-10-14 16:57:22.763322 Sierra: No
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+randomSelections November: {November, Alpha, Quebec, Sierra, Romeo, X-ray} 
+2024-10-14 16:57:22.780225 November: Can we be friends?
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:22.787944 Alpha: No
+2024-10-14 16:57:22.788106 Quebec: No
+2024-10-14 16:57:22.788200 Sierra: No
+2024-10-14 16:57:22.788315 Romeo: No
+2024-10-14 16:57:22.788399 X-ray: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+randomSelections Whiskey: {Whiskey, Quebec, X-ray} 
+2024-10-14 16:57:22.819822 Whiskey: We would work well together
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:22.822047 Quebec: No
+2024-10-14 16:57:22.822168 X-ray: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:22.839680 Charlie: Sierra and Foxtrot, sending you 2
+2024-10-14 16:57:22.841698 Quebec: Sending you 4
+2024-10-14 16:57:22.842670 Sierra: Delta, Foxtrot and Charlie, sending you 1
+2024-10-14 16:57:22.844725 Delta: Sierra, sending you 7
+2024-10-14 16:57:22.847700 Alpha: Sierra, sending you 4
+2024-10-14 16:57:22.848001 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:22.848713 Delta: Foxtrot, sending you 4
+2024-10-14 16:57:22.850698 Alpha: Delta, sending you 3
+2024-10-14 16:57:22.851767 Whiskey: Quebec, sending you 3
+2024-10-14 16:57:22.853660 Delta: Charlie, sending you 2
+2024-10-14 16:57:22.854731 Alpha: Quebec, sending you 5
+2024-10-14 16:57:22.856834 X-ray: Romeo and November, sending you 1
+2024-10-14 16:57:22.859673 X-ray: Quebec, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Romeo round 2
+ChatterBot X-ray round 2
+ChatterBot Sierra round 2
+ChatterBot Delta round 2
+ChatterBot Quebec round 2
+ChatterBot November round 2
+ChatterBot Foxtrot round 2
+ChatterBot Charlie round 2
+ChatterBot Whiskey round 2
+ChatterBot Alpha round 2
+2024-10-14 16:57:24.665081 Romeo: We should replace Quebec with Alpha
+2024-10-14 16:57:24.674198 Delta: We should replace Foxtrot with Alpha
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:24.691565 Sierra: No
+2024-10-14 16:57:24.691786 Charlie: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:57:24.743774 Quebec: We should replace Romeo with Alpha
+2024-10-14 16:57:24.752780 Alpha: Can we be friends?
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:24.774825 Quebec: No
+2024-10-14 16:57:24.774971 X-ray: Yes
+2024-10-14 16:57:24.775086 Whiskey: No
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:24.845497 X-ray: We would work well together
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:24.872009 Alpha: Yes
+2024-10-14 16:57:24.872220 Quebec: No
+2024-10-14 16:57:24.872379 Whiskey: No
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:24.968848 November: Friends?
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:24.977753 X-ray: No
+2024-10-14 16:57:24.999226 Romeo: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:25.011696 Alpha: No
+ChatterBot Romeo reevaluating
+2024-10-14 16:57:25.025523 Delta: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:25.040405 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:25.082711 Alpha: We should replace Quebec with Charlie
+ChatterBot Sierra reevaluating
+2024-10-14 16:57:25.110296 Sierra: No
+2024-10-14 16:57:25.110600 Delta: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:57:25.199078 Quebec: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:25.247225 Alpha: Yes
+2024-10-14 16:57:25.266902 Whiskey: We should add Alpha
+2024-10-14 16:57:25.290609 Quebec: Yes
+2024-10-14 16:57:25.291340 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:25.325131 Sierra: We should drop Foxtrot and Charlie
+2024-10-14 16:57:25.340135 Delta: No
+ChatterBot Sierra reevaluating
+2024-10-14 16:57:25.354479 Charlie: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:25.368253 Alpha: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:25.399188 Whiskey: We should replace X-ray with Alpha
+2024-10-14 16:57:25.407146 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:25.416418 Alpha: Charlie we want you to join our group
+2024-10-14 16:57:25.424653 Charlie: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:25.449738 November: Sending you 11
+2024-10-14 16:57:25.450375 X-ray: Quebec and Alpha, sending you 1
+2024-10-14 16:57:25.450683 Foxtrot: Sierra and Charlie, sending you 1
+2024-10-14 16:57:25.450980 Delta: Sierra and Charlie, sending you 4
+2024-10-14 16:57:25.451531 Whiskey: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:25.459313 Alpha: No
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:25.480566 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:25.481355 Quebec: Sending you 4
+2024-10-14 16:57:25.481715 X-ray: Whiskey, sending you 4
+2024-10-14 16:57:25.481973 Delta: Alpha, sending you 5
+2024-10-14 16:57:25.482925 Sierra: We should drop Foxtrot and Delta
+2024-10-14 16:57:25.490141 Charlie: No
+ChatterBot Sierra reevaluating
+2024-10-14 16:57:25.515452 Charlie: Sierra and Alpha, sending you 1
+2024-10-14 16:57:25.520946 Charlie: Delta, sending you 2
+2024-10-14 16:57:25.592546 Whiskey: Quebec, sending you 4
+2024-10-14 16:57:25.608776 Alpha: Sending you each 4
+2024-10-14 16:57:25.609047 Sierra: Same as last round
+2024-10-14 16:57:25.609279 Whiskey: Alpha, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 3
+ChatterBot X-ray round 3
+ChatterBot Sierra round 3
+ChatterBot Delta round 3
+ChatterBot Quebec round 3
+ChatterBot November round 3
+ChatterBot Foxtrot round 3
+ChatterBot Charlie round 3
+ChatterBot Whiskey round 3
+ChatterBot Alpha round 3
+2024-10-14 16:57:26.761822 X-ray: Friends?
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:26.771724 November: Yes
+2024-10-14 16:57:26.772436 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot November reevaluating
+2024-10-14 16:57:26.795914 Sierra: Friends?
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:26.805815 Alpha: No
+2024-10-14 16:57:26.806284 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:26.825167 Delta: We should add Foxtrot
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:26.839339 Sierra: No
+2024-10-14 16:57:26.839511 Charlie: No
+2024-10-14 16:57:26.839635 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:26.888907 Quebec: We should replace Alpha with Romeo
+2024-10-14 16:57:26.903913 Foxtrot: We should add Alpha
+ChatterBot Delta reevaluating
+2024-10-14 16:57:26.918184 Delta: Yes
+2024-10-14 16:57:26.918349 Sierra: Yes
+2024-10-14 16:57:26.918472 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:27.049132 Quebec: Romeo we want you to join our group
+2024-10-14 16:57:27.054814 Romeo: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:27.060754 Quebec: We should replace Alpha with Foxtrot
+2024-10-14 16:57:27.061667 Foxtrot: Alpha we want you to join our group
+2024-10-14 16:57:27.067135 Alpha: No
+2024-10-14 16:57:27.086300 Delta: Foxtrot we want you to join our group
+2024-10-14 16:57:27.093504 Foxtrot: Yes
+2024-10-14 16:57:27.115827 Quebec: Foxtrot we want you to join our group
+2024-10-14 16:57:27.121313 Foxtrot: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:27.128340 Sierra: Sending you each 1
+2024-10-14 16:57:27.129245 X-ray: November, sending you 4
+2024-10-14 16:57:27.158775 November: X-ray, sending you 11
+2024-10-14 16:57:27.159109 Whiskey: X-ray, sending you 6
+2024-10-14 16:57:27.159779 Charlie: Sierra and Alpha, sending you 1
+2024-10-14 16:57:27.160178 Alpha: X-ray, sending you 3
+2024-10-14 16:57:27.160465 X-ray: Whiskey, sending you 2
+2024-10-14 16:57:27.194854 Whiskey: November, sending you 1
+2024-10-14 16:57:27.195830 Charlie: Delta, sending you 2
+2024-10-14 16:57:27.196183 Alpha: November, sending you 1
+2024-10-14 16:57:27.196431 Foxtrot: Sending you each 2
+2024-10-14 16:57:27.197065 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:27.229244 Alpha: Whiskey, sending you 8
+2024-10-14 16:57:27.229568 Delta: Alpha, sending you 5
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:57:27.247995 Quebec: Sending you 4
+chatterbot November submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Romeo round 4
+ChatterBot X-ray round 4
+ChatterBot Sierra round 4
+ChatterBot Delta round 4
+ChatterBot Quebec round 4
+ChatterBot November round 4
+ChatterBot Foxtrot round 4
+ChatterBot Charlie round 4
+ChatterBot Whiskey round 4
+ChatterBot Alpha round 4
+2024-10-14 16:57:28.369635 Sierra: We should add Charlie
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:28.379460 Alpha: Yes
+2024-10-14 16:57:28.379594 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:28.401418 Delta: We should add Quebec
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:28.418541 Foxtrot: No
+2024-10-14 16:57:28.418696 Sierra: No
+2024-10-14 16:57:28.418790 Charlie: No
+2024-10-14 16:57:28.418893 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:28.505343 X-ray: We should add Alpha
+2024-10-14 16:57:28.513490 November: No
+2024-10-14 16:57:28.513686 Whiskey: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:57:28.544027 Sierra: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:28.548876 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:28.562705 Charlie: We should replace Sierra with Foxtrot
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:28.571475 Delta: No
+2024-10-14 16:57:28.571634 Alpha: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:28.600685 Charlie: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:28.605773 Foxtrot: Yes
+2024-10-14 16:57:28.619950 Whiskey: X-ray, sending you 6
+2024-10-14 16:57:28.626871 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:28.627826 Quebec: Sending you 5
+2024-10-14 16:57:28.628077 Whiskey: November, sending you 1
+2024-10-14 16:57:28.628471 Foxtrot: We should drop Sierra
+2024-10-14 16:57:28.649687 Charlie: Yes
+2024-10-14 16:57:28.649908 Delta: No
+2024-10-14 16:57:28.650101 Alpha: Yes
+2024-10-14 16:57:28.770341 November: X-ray, sending you 9
+2024-10-14 16:57:28.771870 Sierra: Sending you each 1
+2024-10-14 16:57:28.773238 Delta: Alpha, sending you 5
+2024-10-14 16:57:28.778172 November: Whiskey, sending you 2
+2024-10-14 16:57:28.780068 Alpha: Delta, sending you 8
+2024-10-14 16:57:28.781547 Charlie: Delta, sending you 2
+2024-10-14 16:57:28.783068 X-ray: November, sending you 4
+2024-10-14 16:57:28.783720 Alpha: Foxtrot and Charlie, sending you 2
+2024-10-14 16:57:28.787427 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 16:57:28.788726 X-ray: Whiskey, sending you 2
+2024-10-14 16:57:28.794940 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:28.800891 Foxtrot: Charlie and Alpha, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 5
+ChatterBot X-ray round 5
+ChatterBot Sierra round 5
+ChatterBot Delta round 5
+ChatterBot Quebec round 5
+ChatterBot November round 5
+ChatterBot Foxtrot round 5
+ChatterBot Charlie round 5
+ChatterBot Whiskey round 5
+ChatterBot Alpha round 5
+2024-10-14 16:57:29.621668 X-ray: November, sending you 4
+2024-10-14 16:57:29.626704 X-ray: Whiskey, sending you 2
+2024-10-14 16:57:29.628708 Alpha: Delta, sending you 7
+2024-10-14 16:57:29.632682 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:29.633151 Alpha: Foxtrot, sending you 3
+2024-10-14 16:57:29.633995 Charlie: Delta, sending you 2
+2024-10-14 16:57:29.634699 Sierra: Same as last round
+2024-10-14 16:57:29.635699 Quebec: Same as last round
+2024-10-14 16:57:29.636075 Alpha: Charlie, sending you 2
+2024-10-14 16:57:29.636691 November: X-ray, sending you 9
+2024-10-14 16:57:29.637677 Foxtrot: Charlie and Alpha, sending you 3
+2024-10-14 16:57:29.638805 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:29.639266 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 16:57:29.639730 Whiskey: X-ray, sending you 5
+2024-10-14 16:57:29.640396 November: Whiskey, sending you 2
+2024-10-14 16:57:29.642689 Whiskey: November, sending you 2
+2024-10-14 16:57:29.643669 Delta: Alpha, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 6
+ChatterBot X-ray round 6
+ChatterBot Sierra round 6
+ChatterBot Delta round 6
+ChatterBot Quebec round 6
+ChatterBot November round 6
+ChatterBot Foxtrot round 6
+ChatterBot Charlie round 6
+ChatterBot Whiskey round 6
+ChatterBot Alpha round 6
+2024-10-14 16:57:30.745681 November: X-ray, sending you 9
+2024-10-14 16:57:30.749675 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:30.750153 November: Whiskey, sending you 2
+2024-10-14 16:57:30.750689 Quebec: Sending you 6
+2024-10-14 16:57:30.751779 Charlie: Delta, sending you 2
+2024-10-14 16:57:30.752184 Alpha: Delta, sending you 6
+2024-10-14 16:57:30.752694 Delta: Alpha, sending you 5
+2024-10-14 16:57:30.753665 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:30.754792 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:30.755728 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 16:57:30.757658 Whiskey: X-ray, sending you 5
+2024-10-14 16:57:30.758266 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:30.759682 X-ray: Sending you each 3
+2024-10-14 16:57:30.760272 Alpha: Charlie, sending you 2
+2024-10-14 16:57:30.761668 Whiskey: November, sending you 2
+2024-10-14 16:57:30.761993 Foxtrot: Alpha, sending you 3
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 7
+ChatterBot X-ray round 7
+ChatterBot Sierra round 7
+ChatterBot Delta round 7
+ChatterBot Quebec round 7
+ChatterBot November round 7
+ChatterBot Foxtrot round 7
+ChatterBot Charlie round 7
+ChatterBot Whiskey round 7
+ChatterBot Alpha round 7
+2024-10-14 16:57:32.035708 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:32.037710 X-ray: Same as last round
+2024-10-14 16:57:32.039683 Delta: Alpha, sending you 5
+2024-10-14 16:57:32.040711 November: X-ray, sending you 8
+2024-10-14 16:57:32.045671 November: Whiskey, sending you 3
+2024-10-14 16:57:32.049692 Charlie: Delta, sending you 2
+2024-10-14 16:57:32.051674 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:32.053095 Alpha: Delta, sending you 6
+2024-10-14 16:57:32.053715 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 16:57:32.054863 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:32.055278 Whiskey: November, sending you 3
+2024-10-14 16:57:32.055713 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:32.059676 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:32.060043 Alpha: Charlie, sending you 2
+2024-10-14 16:57:32.063661 Foxtrot: Alpha, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Romeo round 8
+ChatterBot X-ray round 8
+ChatterBot Sierra round 8
+ChatterBot Delta round 8
+ChatterBot Quebec round 8
+ChatterBot November round 8
+2024-10-14 16:57:33.012456 Quebec: We should replace Romeo with Sierra
+ChatterBot Foxtrot round 8
+ChatterBot Charlie round 8
+ChatterBot Whiskey round 8
+ChatterBot Alpha round 8
+2024-10-14 16:57:33.039874 Quebec: Sierra we want you to join our group
+2024-10-14 16:57:33.046060 Sierra: No
+2024-10-14 16:57:33.074713 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:33.076703 Quebec: Sending you 6
+2024-10-14 16:57:33.077094 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:33.077866 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:33.079733 Delta: Alpha, sending you 5
+2024-10-14 16:57:33.080693 Whiskey: November, sending you 3
+2024-10-14 16:57:33.082692 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:33.084685 Charlie: Delta, sending you 2
+2024-10-14 16:57:33.086679 Alpha: Delta, sending you 6
+2024-10-14 16:57:33.087672 Foxtrot: Alpha, sending you 3
+2024-10-14 16:57:33.088029 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 16:57:33.088679 X-ray: Same as last round
+2024-10-14 16:57:33.089466 November: X-ray, sending you 8
+2024-10-14 16:57:33.090668 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:33.093679 Alpha: Charlie, sending you 2
+2024-10-14 16:57:33.094661 November: Whiskey, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Romeo round 9
+ChatterBot X-ray round 9
+ChatterBot Sierra round 9
+ChatterBot Delta round 9
+ChatterBot Quebec round 9
+ChatterBot November round 9
+ChatterBot Foxtrot round 9
+ChatterBot Charlie round 9
+ChatterBot Whiskey round 9
+ChatterBot Alpha round 9
+2024-10-14 16:57:34.264587 Quebec: We should replace Sierra with Alpha
+2024-10-14 16:57:34.290718 Quebec: Alpha we want you to join our group
+2024-10-14 16:57:34.295265 Alpha: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:34.299471 Quebec: We should replace Sierra with Romeo
+2024-10-14 16:57:34.304685 Quebec: Romeo we want you to join our group
+2024-10-14 16:57:34.311646 Romeo: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:34.319019 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:34.321678 Delta: Alpha, sending you 5
+2024-10-14 16:57:34.323039 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:34.323523 Charlie: Delta, sending you 2
+2024-10-14 16:57:34.323929 November: X-ray, sending you 8
+2024-10-14 16:57:34.324234 Foxtrot: Delta, sending you 2
+2024-10-14 16:57:34.325115 X-ray: Same as last round
+2024-10-14 16:57:34.325630 Alpha: Delta, sending you 6
+2024-10-14 16:57:34.327686 Whiskey: November, sending you 3
+2024-10-14 16:57:34.328488 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 16:57:34.329456 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:34.329886 November: Whiskey, sending you 3
+2024-10-14 16:57:34.330224 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:34.332738 Foxtrot: Alpha, sending you 3
+2024-10-14 16:57:34.333674 Alpha: Charlie, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Romeo round 10
+ChatterBot X-ray round 10
+ChatterBot Sierra round 10
+ChatterBot Delta round 10
+ChatterBot Quebec round 10
+ChatterBot November round 10
+ChatterBot Foxtrot round 10
+2024-10-14 16:57:35.471002 Delta: We should replace Sierra with Romeo
+2024-10-14 16:57:35.487343 Charlie: No
+2024-10-14 16:57:35.487531 Foxtrot: No
+2024-10-14 16:57:35.487667 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie round 10
+ChatterBot Whiskey round 10
+ChatterBot Alpha round 10
+2024-10-14 16:57:35.577949 November: X-ray, sending you 7
+2024-10-14 16:57:35.580670 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:35.581686 November: Whiskey, sending you 4
+2024-10-14 16:57:35.584887 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:35.585360 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:35.585929 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:35.587710 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:35.590778 Delta: Alpha, sending you 5
+2024-10-14 16:57:35.591699 Whiskey: November, sending you 3
+2024-10-14 16:57:35.593688 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:35.594715 X-ray: Same as last round
+2024-10-14 16:57:35.596723 Alpha: Delta, sending you 6
+2024-10-14 16:57:35.600980 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:35.605669 Alpha: Charlie, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 11
+ChatterBot X-ray round 11
+ChatterBot Sierra round 11
+ChatterBot Delta round 11
+ChatterBot Quebec round 11
+ChatterBot November round 11
+ChatterBot Foxtrot round 11
+ChatterBot Charlie round 11
+ChatterBot Whiskey round 11
+ChatterBot Alpha round 11
+2024-10-14 16:57:36.737531 Quebec: We should replace Romeo with Charlie
+2024-10-14 16:57:36.775951 Quebec: Charlie we want you to join our group
+2024-10-14 16:57:36.782860 Charlie: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:36.791678 Romeo: Sending you 6
+2024-10-14 16:57:36.803685 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:36.804676 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:36.805129 X-ray: Same as last round
+2024-10-14 16:57:36.807698 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:36.808502 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:36.809163 Delta: Alpha, sending you 5
+2024-10-14 16:57:36.809673 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:36.810892 Alpha: Delta, sending you 6
+2024-10-14 16:57:36.811681 Whiskey: November, sending you 3
+2024-10-14 16:57:36.812048 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:36.812448 November: X-ray, sending you 7
+2024-10-14 16:57:36.815661 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:36.816674 November: Whiskey, sending you 4
+2024-10-14 16:57:36.819689 Alpha: Charlie, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 12
+ChatterBot X-ray round 12
+ChatterBot Sierra round 12
+ChatterBot Delta round 12
+ChatterBot Quebec round 12
+ChatterBot November round 12
+ChatterBot Foxtrot round 12
+ChatterBot Charlie round 12
+ChatterBot Whiskey round 12
+ChatterBot Alpha round 12
+2024-10-14 16:57:37.878657 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:37.882691 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:37.883404 X-ray: Same as last round
+2024-10-14 16:57:37.884499 November: X-ray, sending you 7
+2024-10-14 16:57:37.886700 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:37.887683 Quebec: Sending you 6
+2024-10-14 16:57:37.888669 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:37.889671 November: Whiskey, sending you 4
+2024-10-14 16:57:37.890475 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:37.891005 Alpha: Delta, sending you 6
+2024-10-14 16:57:37.891458 Whiskey: November, sending you 3
+2024-10-14 16:57:37.892680 Delta: Alpha, sending you 5
+2024-10-14 16:57:37.894659 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:37.895544 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:37.898676 Alpha: Charlie, sending you 2
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 13
+ChatterBot X-ray round 13
+ChatterBot Sierra round 13
+ChatterBot Delta round 13
+ChatterBot Quebec round 13
+ChatterBot November round 13
+ChatterBot Foxtrot round 13
+ChatterBot Charlie round 13
+ChatterBot Whiskey round 13
+ChatterBot Alpha round 13
+2024-10-14 16:57:39.029670 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:39.031052 Quebec: Same as last round
+2024-10-14 16:57:39.032977 Delta: Alpha, sending you 5
+2024-10-14 16:57:39.038719 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:39.039723 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:39.040693 November: X-ray, sending you 7
+2024-10-14 16:57:39.043681 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:39.044125 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:39.044712 X-ray: Same as last round
+2024-10-14 16:57:39.046670 November: Whiskey, sending you 4
+2024-10-14 16:57:39.048669 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:39.051675 Whiskey: November, sending you 3
+2024-10-14 16:57:39.060665 Alpha: Delta, sending you 6
+2024-10-14 16:57:39.063690 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:39.067668 Alpha: Charlie, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Romeo round 14
+ChatterBot X-ray round 14
+ChatterBot Sierra round 14
+ChatterBot Delta round 14
+ChatterBot Quebec round 14
+ChatterBot November round 14
+ChatterBot Foxtrot round 14
+ChatterBot Charlie round 14
+ChatterBot Whiskey round 14
+ChatterBot Alpha round 14
+2024-10-14 16:57:40.251105 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:40.254692 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:40.256455 Quebec: Same as last round
+2024-10-14 16:57:40.257314 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:40.258815 Alpha: Delta, sending you 5
+2024-10-14 16:57:40.260315 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:40.261796 Delta: Alpha, sending you 5
+2024-10-14 16:57:40.275122 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:40.276870 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:40.278762 November: X-ray, sending you 7
+2024-10-14 16:57:40.280739 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:40.282675 X-ray: Same as last round
+2024-10-14 16:57:40.283987 Whiskey: November, sending you 3
+2024-10-14 16:57:40.284933 Alpha: Charlie, sending you 3
+2024-10-14 16:57:40.286457 November: Whiskey, sending you 4
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 15
+ChatterBot X-ray round 15
+ChatterBot Sierra round 15
+ChatterBot Delta round 15
+ChatterBot Quebec round 15
+ChatterBot November round 15
+ChatterBot Foxtrot round 15
+ChatterBot Charlie round 15
+ChatterBot Whiskey round 15
+ChatterBot Alpha round 15
+2024-10-14 16:57:41.469032 Alpha: We should add Quebec
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:41.482961 Charlie: Yes
+2024-10-14 16:57:41.483162 Delta: No
+2024-10-14 16:57:41.483302 Foxtrot: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:41.523718 Delta: We should replace Sierra with Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:41.539307 Charlie: No
+2024-10-14 16:57:41.539455 Foxtrot: Yes
+2024-10-14 16:57:41.539574 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:41.593383 Foxtrot: Quebec we want you to join our group
+2024-10-14 16:57:41.599252 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:41.621681 Alpha: Quebec we want you to join our group
+2024-10-14 16:57:41.626206 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:41.643233 November: X-ray, sending you 7
+2024-10-14 16:57:41.644200 X-ray: Same as last round
+2024-10-14 16:57:41.647800 Delta: Quebec we want you to join our group
+2024-10-14 16:57:41.652865 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:41.669693 November: Whiskey, sending you 4
+2024-10-14 16:57:41.670085 Quebec: Same as last round
+2024-10-14 16:57:41.670361 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:41.671150 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:41.673674 Whiskey: November, sending you 3
+2024-10-14 16:57:41.675157 Foxtrot: Quebec, sending you 1
+2024-10-14 16:57:41.677005 Alpha: Delta, sending you 5
+2024-10-14 16:57:41.681196 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:41.682029 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:41.685664 Alpha: Charlie, sending you 3
+2024-10-14 16:57:41.694707 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:41.698678 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:41.702702 Delta: Foxtrot and Alpha, sending you 6
+2024-10-14 16:57:41.708679 Delta: Charlie, sending you 5
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 16
+ChatterBot X-ray round 16
+ChatterBot Sierra round 16
+ChatterBot Delta round 16
+ChatterBot Quebec round 16
+ChatterBot November round 16
+ChatterBot Foxtrot round 16
+ChatterBot Charlie round 16
+ChatterBot Whiskey round 16
+ChatterBot Alpha round 16
+2024-10-14 16:57:42.691554 Delta: We should replace Quebec with Sierra
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:42.705759 Charlie: No
+2024-10-14 16:57:42.705925 Foxtrot: No
+2024-10-14 16:57:42.706122 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:42.781114 Alpha: We should drop Quebec
+ChatterBot Delta reevaluating
+2024-10-14 16:57:42.797895 Charlie: Yes
+2024-10-14 16:57:42.798196 Delta: Yes
+2024-10-14 16:57:42.798401 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:42.976534 Quebec: Same as last round
+2024-10-14 16:57:42.977355 X-ray: Same as last round
+2024-10-14 16:57:42.978889 November: X-ray, sending you 7
+2024-10-14 16:57:42.980361 Delta: Sierra we want you to join our group
+2024-10-14 16:57:42.987448 Sierra: No
+ChatterBot Delta reevaluating
+2024-10-14 16:57:43.018875 Delta: We should replace Quebec with Romeo
+2024-10-14 16:57:43.042801 Charlie: No
+2024-10-14 16:57:43.043290 Foxtrot: No
+2024-10-14 16:57:43.043995 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:43.114357 November: Whiskey, sending you 4
+2024-10-14 16:57:43.115473 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:43.116497 Alpha: Delta, sending you 5
+2024-10-14 16:57:43.118492 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:43.120851 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:43.122164 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:43.122792 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:43.128508 Whiskey: November, sending you 3
+2024-10-14 16:57:43.129518 Alpha: Charlie, sending you 3
+2024-10-14 16:57:43.130714 Foxtrot: Charlie, sending you 4
+chatterbot Romeo submitting transactions
+2024-10-14 16:57:43.180438 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:43.186779 Delta: Alpha, sending you 5
+chatterbot November submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 17
+ChatterBot X-ray round 17
+ChatterBot Sierra round 17
+ChatterBot Delta round 17
+ChatterBot Quebec round 17
+ChatterBot November round 17
+ChatterBot Foxtrot round 17
+ChatterBot Charlie round 17
+ChatterBot Whiskey round 17
+ChatterBot Alpha round 17
+2024-10-14 16:57:43.880687 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:43.883042 X-ray: Same as last round
+2024-10-14 16:57:43.884277 November: X-ray, sending you 7
+2024-10-14 16:57:43.884965 Alpha: Delta, sending you 5
+2024-10-14 16:57:43.886737 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:43.888035 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:43.889432 Quebec: Same as last round
+2024-10-14 16:57:43.890048 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:43.891346 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:43.893191 November: Whiskey, sending you 4
+2024-10-14 16:57:43.894660 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:43.896619 Delta: Alpha, sending you 5
+2024-10-14 16:57:43.898673 Whiskey: November, sending you 3
+2024-10-14 16:57:43.899963 Alpha: Charlie, sending you 3
+2024-10-14 16:57:43.901733 Foxtrot: Charlie, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 18
+ChatterBot X-ray round 18
+ChatterBot Sierra round 18
+ChatterBot Delta round 18
+ChatterBot Quebec round 18
+ChatterBot November round 18
+ChatterBot Foxtrot round 18
+ChatterBot Charlie round 18
+ChatterBot Whiskey round 18
+ChatterBot Alpha round 18
+2024-10-14 16:57:45.129493 Delta: We should replace Sierra with Quebec
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:45.150235 Charlie: No
+2024-10-14 16:57:45.150417 Foxtrot: No
+2024-10-14 16:57:45.150548 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:45.287148 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:45.289379 Foxtrot: Delta and Alpha, sending you 2
+2024-10-14 16:57:45.291168 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:45.292515 X-ray: Same as last round
+2024-10-14 16:57:45.293301 Quebec: Same as last round
+2024-10-14 16:57:45.294326 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:45.300425 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:45.303464 Whiskey: November, sending you 3
+2024-10-14 16:57:45.304041 November: X-ray, sending you 7
+2024-10-14 16:57:45.305067 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:45.306284 Alpha: Delta, sending you 5
+2024-10-14 16:57:45.334021 November: Whiskey, sending you 4
+2024-10-14 16:57:45.334721 Delta: Alpha, sending you 5
+2024-10-14 16:57:45.336066 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:45.457167 Alpha: Charlie, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 19
+ChatterBot X-ray round 19
+ChatterBot Sierra round 19
+ChatterBot Delta round 19
+ChatterBot Quebec round 19
+ChatterBot November round 19
+ChatterBot Foxtrot round 19
+2024-10-14 16:57:46.124080 Delta: We should replace Sierra with Romeo
+2024-10-14 16:57:46.133961 Charlie: No
+2024-10-14 16:57:46.134145 Foxtrot: No
+2024-10-14 16:57:46.134283 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie round 19
+ChatterBot Whiskey round 19
+ChatterBot Alpha round 19
+2024-10-14 16:57:46.207933 Foxtrot: Delta, sending you 1
+2024-10-14 16:57:46.209684 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:46.212698 Delta: Alpha, sending you 5
+2024-10-14 16:57:46.213669 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:46.214293 X-ray: Same as last round
+2024-10-14 16:57:46.214735 November: X-ray, sending you 7
+2024-10-14 16:57:46.215691 Alpha: Delta, sending you 5
+2024-10-14 16:57:46.217664 Foxtrot: Alpha, sending you 2
+2024-10-14 16:57:46.218654 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:46.219043 November: Whiskey, sending you 4
+2024-10-14 16:57:46.221663 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:46.222828 Quebec: Same as last round
+2024-10-14 16:57:46.223186 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:46.223860 Whiskey: November, sending you 3
+2024-10-14 16:57:46.227651 Alpha: Charlie, sending you 3
+2024-10-14 16:57:46.228674 Charlie: Foxtrot, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 20
+ChatterBot X-ray round 20
+ChatterBot Sierra round 20
+ChatterBot Delta round 20
+ChatterBot Quebec round 20
+ChatterBot November round 20
+ChatterBot Foxtrot round 20
+ChatterBot Charlie round 20
+ChatterBot Whiskey round 20
+ChatterBot Alpha round 20
+2024-10-14 16:57:47.681103 Delta: We should replace Sierra with Quebec
+2024-10-14 16:57:47.694407 Charlie: No
+2024-10-14 16:57:47.695005 Foxtrot: No
+2024-10-14 16:57:47.695172 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:47.748923 Alpha: We should add Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:47.763689 Charlie: Yes
+2024-10-14 16:57:47.763838 Delta: Yes
+2024-10-14 16:57:47.763966 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:47.822105 Delta: Quebec we want you to join our group
+2024-10-14 16:57:47.830030 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:47.864112 X-ray: Same as last round
+2024-10-14 16:57:47.865799 Quebec: Same as last round
+2024-10-14 16:57:47.866255 November: X-ray, sending you 7
+2024-10-14 16:57:47.870070 November: Whiskey, sending you 4
+2024-10-14 16:57:47.878516 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:47.888495 Whiskey: November, sending you 3
+2024-10-14 16:57:47.889516 Alpha: Delta, sending you 5
+2024-10-14 16:57:47.909997 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:47.912467 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:47.915164 Delta: Foxtrot and Alpha, sending you 6
+2024-10-14 16:57:47.917442 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:47.919941 Alpha: Charlie, sending you 3
+2024-10-14 16:57:47.935558 Delta: Charlie, sending you 5
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Romeo round 21
+ChatterBot X-ray round 21
+ChatterBot Sierra round 21
+ChatterBot Delta round 21
+ChatterBot Quebec round 21
+ChatterBot November round 21
+ChatterBot Foxtrot round 21
+ChatterBot Charlie round 21
+ChatterBot Whiskey round 21
+ChatterBot Alpha round 21
+2024-10-14 16:57:49.244304 Foxtrot: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:49.258804 Charlie: No
+2024-10-14 16:57:49.259046 Delta: No
+2024-10-14 16:57:49.259509 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:49.331331 Delta: We should replace Quebec with Sierra
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:49.343112 Charlie: No
+2024-10-14 16:57:49.343333 Foxtrot: No
+2024-10-14 16:57:49.343501 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:49.381869 Delta: We should add Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:49.397564 Foxtrot: No
+2024-10-14 16:57:49.397735 Charlie: No
+2024-10-14 16:57:49.397902 Alpha: No
+2024-10-14 16:57:49.398026 Quebec: Yes
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:49.474105 Quebec: We should add Delta
+2024-10-14 16:57:49.478049 Romeo: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:49.487051 X-ray: Same as last round
+2024-10-14 16:57:49.488904 Delta: Sierra we want you to join our group
+2024-10-14 16:57:49.493688 Sierra: No
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:49.514351 November: X-ray, sending you 7
+2024-10-14 16:57:49.516692 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:49.517710 Foxtrot: Delta, sending you 1
+2024-10-14 16:57:49.519573 November: Whiskey, sending you 4
+2024-10-14 16:57:49.520153 Romeo: Sending you 3
+2024-10-14 16:57:49.520698 Whiskey: November, sending you 3
+2024-10-14 16:57:49.522676 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:49.527720 Foxtrot: Alpha, sending you 2
+2024-10-14 16:57:49.535699 Quebec: Same as last round
+2024-10-14 16:57:49.539677 Delta: Sierra, Foxtrot and Charlie, sending you 4
+2024-10-14 16:57:49.540998 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:49.544701 Delta: Alpha, sending you 5
+2024-10-14 16:57:49.545310 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:49.546416 Alpha: Delta, sending you 5
+2024-10-14 16:57:49.552065 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:49.556715 Alpha: Charlie, sending you 3
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Romeo round 22
+ChatterBot X-ray round 22
+ChatterBot Sierra round 22
+ChatterBot Delta round 22
+ChatterBot Quebec round 22
+ChatterBot November round 22
+ChatterBot Foxtrot round 22
+ChatterBot Charlie round 22
+ChatterBot Whiskey round 22
+ChatterBot Alpha round 22
+2024-10-14 16:57:50.814843 Delta: We should replace Sierra with Quebec
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:50.828778 Charlie: No
+2024-10-14 16:57:50.829077 Foxtrot: Yes
+2024-10-14 16:57:50.829389 Alpha: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:50.869694 Charlie: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:50.882456 Delta: Yes
+2024-10-14 16:57:50.882727 Foxtrot: Yes
+2024-10-14 16:57:50.882981 Alpha: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:50.936903 Alpha: Quebec we want you to join our group
+2024-10-14 16:57:50.940221 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:50.953458 Foxtrot: Quebec we want you to join our group
+2024-10-14 16:57:50.956785 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:50.969952 X-ray: Same as last round
+2024-10-14 16:57:50.972762 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:50.973662 Delta: Quebec we want you to join our group
+2024-10-14 16:57:50.978022 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:50.995816 November: X-ray, sending you 7
+2024-10-14 16:57:50.996329 Quebec: Same as last round
+2024-10-14 16:57:50.996635 Whiskey: November, sending you 3
+2024-10-14 16:57:51.000738 November: Whiskey, sending you 4
+2024-10-14 16:57:51.001683 Charlie: Quebec we want you to join our group
+2024-10-14 16:57:51.006567 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:51.025419 Alpha: Delta, sending you 5
+2024-10-14 16:57:51.027547 Foxtrot: Delta and Quebec, sending you 1
+2024-10-14 16:57:51.031851 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:51.033650 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:51.035692 Alpha: Charlie, sending you 3
+2024-10-14 16:57:51.038680 Foxtrot: Alpha, sending you 2
+2024-10-14 16:57:51.051659 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:51.055655 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:51.056817 Delta: Foxtrot, sending you 5
+2024-10-14 16:57:51.060811 Delta: Charlie and Alpha, sending you 6
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 23
+ChatterBot X-ray round 23
+ChatterBot Sierra round 23
+ChatterBot Delta round 23
+ChatterBot Quebec round 23
+ChatterBot November round 23
+ChatterBot Foxtrot round 23
+ChatterBot Charlie round 23
+ChatterBot Whiskey round 23
+ChatterBot Alpha round 23
+2024-10-14 16:57:52.214096 Charlie: We should add Quebec
+2024-10-14 16:57:52.227806 Delta: Yes
+2024-10-14 16:57:52.227985 Foxtrot: Yes
+2024-10-14 16:57:52.228114 Alpha: Yes
+2024-10-14 16:57:52.291184 Whiskey: We should add Quebec
+ChatterBot November reevaluating
+2024-10-14 16:57:52.299462 X-ray: No
+2024-10-14 16:57:52.299610 November: Yes
+ChatterBot November reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:57:52.327649 Charlie: Quebec we want you to join our group
+2024-10-14 16:57:52.334226 Quebec: No
+ChatterBot Charlie reevaluating
+2024-10-14 16:57:52.356714 Quebec: Same as last round
+2024-10-14 16:57:52.365702 November: X-ray, sending you 7
+2024-10-14 16:57:52.367791 X-ray: November and Whiskey, sending you 3
+2024-10-14 16:57:52.369453 Alpha: Delta, sending you 5
+2024-10-14 16:57:52.370732 November: Whiskey, sending you 4
+2024-10-14 16:57:52.371521 Delta: Foxtrot, sending you 5
+2024-10-14 16:57:52.374847 Alpha: Foxtrot, sending you 4
+2024-10-14 16:57:52.376297 Delta: Charlie and Alpha, sending you 6
+2024-10-14 16:57:52.377900 Foxtrot: Delta and Quebec, sending you 1
+2024-10-14 16:57:52.379875 Alpha: Charlie, sending you 3
+2024-10-14 16:57:52.381594 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:52.384677 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:52.386688 Whiskey: November, sending you 3
+2024-10-14 16:57:52.387689 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:52.390843 Foxtrot: Alpha, sending you 2
+2024-10-14 16:57:52.392756 Charlie: Foxtrot, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 24
+ChatterBot X-ray round 24
+ChatterBot Sierra round 24
+ChatterBot Delta round 24
+ChatterBot Quebec round 24
+ChatterBot November round 24
+ChatterBot Foxtrot round 24
+ChatterBot Charlie round 24
+ChatterBot Whiskey round 24
+ChatterBot Alpha round 24
+2024-10-14 16:57:53.457504 Delta: We should replace Quebec with Sierra
+2024-10-14 16:57:53.473069 Charlie: No
+2024-10-14 16:57:53.473271 Foxtrot: No
+2024-10-14 16:57:53.473426 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:53.576932 X-ray: We should drop Quebec
+2024-10-14 16:57:53.655316 November: Yes
+2024-10-14 16:57:53.655690 Whiskey: Yes
+2024-10-14 16:57:53.787510 Romeo: Sending you 3
+2024-10-14 16:57:53.788662 Delta: Sierra we want you to join our group
+2024-10-14 16:57:53.794804 Sierra: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:53.814570 Delta: We should add Romeo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:53.845619 Foxtrot: No
+2024-10-14 16:57:53.845807 Charlie: No
+2024-10-14 16:57:53.846662 Alpha: No
+2024-10-14 16:57:53.846815 Quebec: Yes
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:53.936977 X-ray: Same as last round
+chatterbot X-ray submitting transactions
+2024-10-14 16:57:53.938431 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:53.939682 Charlie: Delta and Alpha, sending you 1
+2024-10-14 16:57:53.941911 November: X-ray, sending you 7
+2024-10-14 16:57:53.943608 Alpha: Delta, sending you 5
+2024-10-14 16:57:53.944822 Foxtrot: We should drop Quebec
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:53.961098 Charlie: Yes
+2024-10-14 16:57:53.961230 Delta: No
+2024-10-14 16:57:53.961401 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:54.009047 Whiskey: November, sending you 3
+2024-10-14 16:57:54.010683 Charlie: Foxtrot, sending you 2
+2024-10-14 16:57:54.012818 November: Whiskey, sending you 4
+2024-10-14 16:57:54.041512 Quebec: Same as last round
+chatterbot Whiskey submitting transactions
+2024-10-14 16:57:54.368762 Delta: Sierra, Foxtrot and Charlie, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 16:57:54.380894 Delta: Alpha, sending you 5
+2024-10-14 16:57:54.384058 Foxtrot: Delta, sending you 1
+chatterbot Sierra submitting transactions
+2024-10-14 16:57:54.393853 Foxtrot: Charlie, sending you 4
+2024-10-14 16:57:54.401708 Foxtrot: Alpha, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 25
+ChatterBot X-ray round 25
+ChatterBot Sierra round 25
+ChatterBot Delta round 25
+ChatterBot Quebec round 25
+ChatterBot November round 25
+ChatterBot Foxtrot round 25
+ChatterBot Charlie round 25
+ChatterBot Whiskey round 25
+ChatterBot Alpha round 25
+2024-10-14 16:57:55.204238 Quebec: We should add Delta
+ChatterBot Romeo reevaluating
+2024-10-14 16:57:55.210639 Romeo: No
+2024-10-14 16:57:55.256151 Quebec: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 16:57:55.265325 Delta: No
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:57:55.281752 Delta: We should replace Sierra with Romeo
+2024-10-14 16:57:55.304382 Charlie: No
+2024-10-14 16:57:55.305198 Foxtrot: No
+2024-10-14 16:57:55.305391 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:55.358222 Delta: We should replace Sierra with Quebec
+2024-10-14 16:57:55.371086 Charlie: No
+2024-10-14 16:57:55.371278 Foxtrot: No
+2024-10-14 16:57:55.371403 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:55.413779 Alpha: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:55.427286 Charlie: No
+2024-10-14 16:57:55.427427 Delta: Yes
+2024-10-14 16:57:55.427548 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:55.471799 X-ray: Same as last round
+2024-10-14 16:57:55.472395 November: X-ray, sending you 7
+2024-10-14 16:57:55.481939 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:55.483678 November: Whiskey, sending you 4
+2024-10-14 16:57:55.484997 Quebec: Same as last round
+2024-10-14 16:57:55.485471 Delta: Quebec we want you to join our group
+2024-10-14 16:57:55.494489 Quebec: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:55.537979 Whiskey: November, sending you 3
+2024-10-14 16:57:55.563753 Foxtrot: We should drop Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:55.668525 Charlie: Yes
+2024-10-14 16:57:55.668733 Delta: Yes
+2024-10-14 16:57:55.668993 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 26
+ChatterBot X-ray round 26
+ChatterBot Sierra round 26
+ChatterBot Delta round 26
+ChatterBot Quebec round 26
+ChatterBot November round 26
+ChatterBot Foxtrot round 26
+ChatterBot Charlie round 26
+ChatterBot Whiskey round 26
+ChatterBot Alpha round 26
+2024-10-14 16:57:56.832344 Delta: We should replace Quebec with Romeo
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:56.856202 Charlie: No
+2024-10-14 16:57:56.856472 Foxtrot: No
+2024-10-14 16:57:56.856661 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:56.966348 Foxtrot: We should drop Charlie and Quebec
+ChatterBot Delta reevaluating
+2024-10-14 16:57:56.982967 Delta: No
+2024-10-14 16:57:56.983194 Alpha: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:57.016317 Alpha: We should add Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:57:57.038214 Charlie: No
+2024-10-14 16:57:57.038430 Delta: No
+2024-10-14 16:57:57.038587 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:57.079389 Delta: We should add Romeo
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:57.095551 Foxtrot: No
+2024-10-14 16:57:57.095731 Charlie: No
+2024-10-14 16:57:57.095841 Alpha: No
+2024-10-14 16:57:57.095944 Quebec: Yes
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:57:57.171031 Sierra: I was attacked by Alpha
+2024-10-14 16:57:57.171524 Sierra: I'm keeping this round to protect myself
+2024-10-14 16:57:57.171998 Sierra: Ow
+2024-10-14 16:57:57.174700 November: X-ray, sending you 6
+2024-10-14 16:57:57.176487 X-ray: Same as last round
+2024-10-14 16:57:57.177383 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:57.178595 Romeo: Sending you 3
+2024-10-14 16:57:57.179222 Charlie: We should drop Quebec
+2024-10-14 16:57:57.200481 Delta: Yes
+2024-10-14 16:57:57.200799 Foxtrot: Yes
+2024-10-14 16:57:57.201013 Alpha: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:57.252236 November: Whiskey, sending you 5
+2024-10-14 16:57:57.252965 Whiskey: November, sending you 3
+2024-10-14 16:57:57.256674 Quebec: Same as last round
+chatterbot November submitting transactions
+2024-10-14 16:57:57.290792 Delta: Charlie and Alpha, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 27
+ChatterBot X-ray round 27
+ChatterBot Sierra round 27
+ChatterBot Delta round 27
+ChatterBot Quebec round 27
+ChatterBot November round 27
+ChatterBot Foxtrot round 27
+ChatterBot Charlie round 27
+ChatterBot Whiskey round 27
+ChatterBot Alpha round 27
+2024-10-14 16:57:58.522464 Quebec: We should add Delta
+2024-10-14 16:57:58.530734 Romeo: No
+2024-10-14 16:57:58.568963 Charlie: We should drop Quebec
+ChatterBot Delta reevaluating
+2024-10-14 16:57:58.601118 Delta: Yes
+2024-10-14 16:57:58.601567 Foxtrot: Yes
+2024-10-14 16:57:58.602527 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:58.683444 Quebec: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 16:57:58.691506 Delta: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:57:58.703150 Delta: We should add Quebec
+2024-10-14 16:57:58.719466 Charlie: No
+2024-10-14 16:57:58.719658 Foxtrot: No
+2024-10-14 16:57:58.719791 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:57:58.785681 X-ray: Same as last round
+2024-10-14 16:57:58.793688 Whiskey: X-ray, sending you 4
+2024-10-14 16:57:58.797665 Whiskey: November, sending you 3
+2024-10-14 16:57:58.799297 November: X-ray, sending you 6
+2024-10-14 16:57:58.801047 Quebec: Same as last round
+2024-10-14 16:57:58.804938 November: Whiskey, sending you 5
+2024-10-14 16:57:58.810679 Delta: Foxtrot and Charlie, sending you 5
+2024-10-14 16:57:58.816655 Delta: Alpha, sending you 6
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 28
+ChatterBot X-ray round 28
+ChatterBot Sierra round 28
+ChatterBot Delta round 28
+ChatterBot Quebec round 28
+ChatterBot November round 28
+ChatterBot Foxtrot round 28
+ChatterBot Charlie round 28
+ChatterBot Whiskey round 28
+ChatterBot Alpha round 28
+2024-10-14 16:58:00.175771 Delta: We should add Romeo
+2024-10-14 16:58:00.198538 Charlie: No
+2024-10-14 16:58:00.199158 Foxtrot: No
+2024-10-14 16:58:00.199399 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:58:00.275480 Alpha: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:58:00.303646 Charlie: No
+2024-10-14 16:58:00.303947 Delta: No
+2024-10-14 16:58:00.304484 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:58:00.396196 Quebec: We should add Delta
+ChatterBot Romeo reevaluating
+2024-10-14 16:58:00.403834 Romeo: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:58:00.440806 Delta: We should add Romeo and Quebec
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:58:00.469359 Charlie: No
+2024-10-14 16:58:00.469765 Foxtrot: No
+2024-10-14 16:58:00.470011 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:58:00.703264 Charlie: We should drop Quebec
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:58:00.727217 Delta: Yes
+2024-10-14 16:58:00.727571 Foxtrot: Yes
+2024-10-14 16:58:00.727916 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:58:00.836890 X-ray: Same as last round
+2024-10-14 16:58:00.838346 Whiskey: X-ray, sending you 4
+2024-10-14 16:58:00.888149 November: X-ray, sending you 6
+2024-10-14 16:58:00.888933 Whiskey: November, sending you 3
+2024-10-14 16:58:00.891269 Romeo: Sending you 3
+2024-10-14 16:58:00.891846 Quebec: Same as last round
+2024-10-14 16:58:00.926488 November: Whiskey, sending you 5
+2024-10-14 16:58:00.927185 Delta: Foxtrot, sending you 5
+2024-10-14 16:58:01.231127 Delta: Charlie and Alpha, sending you 6
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 29
+ChatterBot X-ray round 29
+ChatterBot Sierra round 29
+ChatterBot Delta round 29
+ChatterBot Quebec round 29
+ChatterBot November round 29
+ChatterBot Foxtrot round 29
+ChatterBot Charlie round 29
+ChatterBot Whiskey round 29
+ChatterBot Alpha round 29
+2024-10-14 16:58:01.768875 Delta: We should add Romeo and Quebec
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:58:01.778671 Charlie: No
+2024-10-14 16:58:01.778829 Foxtrot: No
+2024-10-14 16:58:01.778952 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:58:01.830344 Charlie: We should drop Quebec
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:58:01.884313 Delta: Yes
+2024-10-14 16:58:01.884571 Foxtrot: Yes
+2024-10-14 16:58:01.884749 Alpha: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:58:02.008849 X-ray: Same as last round
+2024-10-14 16:58:02.013722 November: X-ray, sending you 6
+2024-10-14 16:58:02.015602 Romeo: Same as last round
+2024-10-14 16:58:02.017162 Quebec: Same as last round
+2024-10-14 16:58:02.019064 November: Whiskey, sending you 5
+2024-10-14 16:58:02.025684 Whiskey: I was attacked by Sierra
+ChatterBot X-ray reevaluating
+ChatterBot November reevaluating
+2024-10-14 16:58:02.038086 Whiskey: I'm keeping this round to protect myself
+2024-10-14 16:58:02.040541 Whiskey: Ow
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 30
+ChatterBot X-ray round 30
+ChatterBot Sierra round 30
+ChatterBot Delta round 30
+ChatterBot Quebec round 30
+ChatterBot November round 30
+ChatterBot Foxtrot round 30
+ChatterBot Charlie round 30
+ChatterBot Whiskey round 30
+ChatterBot Alpha round 30
+2024-10-14 16:58:03.712773 Delta: We should add Quebec
+2024-10-14 16:58:03.728866 Charlie: No
+2024-10-14 16:58:03.729138 Foxtrot: No
+2024-10-14 16:58:03.729330 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:58:03.812390 Delta: We should add Whiskey
+ChatterBot Alpha reevaluating
+2024-10-14 16:58:03.828406 Charlie: No
+2024-10-14 16:58:03.828619 Foxtrot: No
+2024-10-14 16:58:03.828836 Alpha: No
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+chatterbot X-ray submitting transactions
+2024-10-14 16:58:03.875992 Foxtrot: We should drop Quebec
+ChatterBot Delta reevaluating
+2024-10-14 16:58:03.894808 Charlie: Yes
+2024-10-14 16:58:03.895134 Delta: Yes
+2024-10-14 16:58:03.895936 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:58:04.034584 November: X-ray, sending you 7
+2024-10-14 16:58:04.041232 X-ray: Same as last round
+2024-10-14 16:58:04.741858 November: Whiskey, sending you 4
+2024-10-14 16:58:04.743170 Quebec: Same as last round
+2024-10-14 16:58:04.743954 Whiskey: X-ray, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+2024-10-14 16:58:04.757481 Whiskey: November, sending you 3
+2024-10-14 16:58:04.759774 Delta: Foxtrot, sending you 5
+2024-10-14 16:58:04.775320 Delta: Charlie and Alpha, sending you 6
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions

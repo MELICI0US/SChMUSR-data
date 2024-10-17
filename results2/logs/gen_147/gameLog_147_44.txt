@@ -1,0 +1,2273 @@
+ChatterBot Alpha round 1
+ChatterBot Yankee round 1
+ChatterBot Tango round 1
+ChatterBot Hotel round 1
+ChatterBot Charlie round 1
+ChatterBot Foxtrot round 1
+ChatterBot Uniform round 1
+ChatterBot Mike round 1
+ChatterBot Echo round 1
+ChatterBot Romeo round 1
+randomSelections Hotel: {Hotel, Mike, Uniform, Foxtrot, Charlie, Tango} 
+2024-10-14 19:02:40.557628 Hotel: Can we be friends?
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:40.572541 Mike: Yes
+2024-10-14 19:02:40.572694 Uniform: Yes
+2024-10-14 19:02:40.573403 Foxtrot: Yes
+2024-10-14 19:02:40.573507 Charlie: Yes
+2024-10-14 19:02:40.573604 Tango: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+randomSelections Alpha: {Alpha, Yankee, Charlie, Foxtrot, Romeo, Mike} 
+2024-10-14 19:02:40.617822 Alpha: Group up?
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:40.626012 Yankee: Yes
+2024-10-14 19:02:40.626153 Charlie: No
+2024-10-14 19:02:40.626270 Foxtrot: No
+2024-10-14 19:02:40.626869 Romeo: Yes
+2024-10-14 19:02:40.626983 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+randomSelections Echo: {Echo, Yankee, Romeo, Tango, Alpha, Hotel} 
+2024-10-14 19:02:40.672779 Echo: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:40.679754 Yankee: No
+2024-10-14 19:02:40.679890 Romeo: No
+2024-10-14 19:02:40.679993 Tango: No
+2024-10-14 19:02:40.680099 Alpha: No
+2024-10-14 19:02:40.680202 Hotel: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:40.727668 Hotel: Tango and Foxtrot, sending you 3
+2024-10-14 19:02:40.731669 Echo: Alpha, sending you 3
+2024-10-14 19:02:40.732707 Hotel: Charlie, sending you 1
+2024-10-14 19:02:40.733694 Tango: Hotel, sending you 4
+2024-10-14 19:02:40.735722 Romeo: Alpha, sending you 2
+2024-10-14 19:02:40.736115 Echo: Yankee and Romeo, sending you 5
+2024-10-14 19:02:40.736416 Hotel: Uniform, sending you 6
+2024-10-14 19:02:40.737830 Charlie: Tango and Mike, sending you 2
+2024-10-14 19:02:40.738701 Tango: Charlie and Foxtrot, sending you 3
+2024-10-14 19:02:40.739122 Foxtrot: Tango, Hotel, Charlie, Uniform and Mike, sending you 1
+2024-10-14 19:02:40.739437 Echo: Tango and Hotel, sending you 2
+2024-10-14 19:02:40.739856 Hotel: Mike, sending you 2
+2024-10-14 19:02:40.740721 Romeo: Yankee, sending you 4
+2024-10-14 19:02:40.741685 Charlie: Hotel, sending you 3
+2024-10-14 19:02:40.742715 Yankee: Alpha and Romeo, sending you 4
+2024-10-14 19:02:40.743648 Mike: Tango, sending you 2
+2024-10-14 19:02:40.743955 Tango: Uniform, sending you 1
+2024-10-14 19:02:40.744203 Uniform: Tango and Foxtrot, sending you 4
+2024-10-14 19:02:40.745131 Romeo: Charlie, sending you 1
+2024-10-14 19:02:40.746678 Charlie: Foxtrot, sending you 5
+2024-10-14 19:02:40.747512 Yankee: Charlie and Mike, sending you 2
+2024-10-14 19:02:40.747842 Tango: Mike, sending you 2
+2024-10-14 19:02:40.748189 Mike: Hotel, sending you 4
+2024-10-14 19:02:40.748479 Uniform: Hotel and Charlie, sending you 2
+2024-10-14 19:02:40.749812 Romeo: Foxtrot and Mike, sending you 3
+2024-10-14 19:02:40.750663 Charlie: Uniform, sending you 1
+2024-10-14 19:02:40.751671 Yankee: Foxtrot, sending you 1
+2024-10-14 19:02:40.752363 Mike: Charlie, sending you 5
+2024-10-14 19:02:40.752664 Uniform: Mike, sending you 3
+2024-10-14 19:02:40.756824 Mike: Foxtrot and Uniform, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Alpha round 2
+ChatterBot Yankee round 2
+2024-10-14 19:02:42.046607 Yankee: We would work well together
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:42.080215 Alpha: Yes
+2024-10-14 19:02:42.080876 Echo: No
+2024-10-14 19:02:42.081001 Romeo: No
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:02:42.146923 Echo: Let's form a team
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:42.160194 Hotel: No
+ChatterBot Echo reevaluating
+2024-10-14 19:02:42.172782 Hotel: Can we be friends?
+ChatterBot Tango reevaluating
+2024-10-14 19:02:42.184625 Tango: No
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:42.197048 Tango: Can we be friends?
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:42.208726 Uniform: No
+ChatterBot Tango reevaluating
+2024-10-14 19:02:42.224642 Uniform: We should group up
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:42.246404 Romeo: No
+ChatterBot Uniform reevaluating
+ChatterBot Tango round 2
+ChatterBot Hotel round 2
+ChatterBot Charlie round 2
+ChatterBot Foxtrot round 2
+ChatterBot Uniform round 2
+ChatterBot Mike round 2
+ChatterBot Echo round 2
+ChatterBot Romeo round 2
+2024-10-14 19:02:42.285696 Hotel: We should add Echo
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:42.314432 Mike: No
+2024-10-14 19:02:42.314645 Uniform: No
+2024-10-14 19:02:42.314806 Foxtrot: No
+2024-10-14 19:02:42.314979 Charlie: Yes
+2024-10-14 19:02:42.315160 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:42.470322 Echo: Friends?
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:42.492995 Tango: No
+2024-10-14 19:02:42.493223 Hotel: Yes
+2024-10-14 19:02:42.493393 Charlie: Yes
+2024-10-14 19:02:42.493518 Foxtrot: No
+2024-10-14 19:02:42.493637 Uniform: No
+2024-10-14 19:02:42.494183 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:42.630142 Romeo: Let's form a team
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:42.643591 Alpha: No
+2024-10-14 19:02:42.643752 Yankee: No
+2024-10-14 19:02:42.643881 Echo: No
+2024-10-14 19:02:42.644380 Foxtrot: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:43.063791 Yankee: Alpha and Romeo, sending you 4
+2024-10-14 19:02:43.064527 Charlie: Echo we want you to join our group
+2024-10-14 19:02:43.068867 Echo: Yes
+2024-10-14 19:02:43.095881 Hotel: Echo we want you to join our group
+2024-10-14 19:02:43.099140 Echo: Yes
+chatterbot Yankee submitting transactions
+2024-10-14 19:02:43.115871 Yankee: Echo, sending you 5
+2024-10-14 19:02:43.116187 Echo: Tango, sending you 4
+2024-10-14 19:02:43.116474 Tango: Hotel, sending you 3
+2024-10-14 19:02:43.243870 Uniform: Sending you each 3
+2024-10-14 19:02:43.244245 Romeo: Alpha, sending you 1
+2024-10-14 19:02:43.244590 Mike: Tango, Hotel, Charlie and Uniform, sending you 4
+2024-10-14 19:02:43.245474 Echo: Hotel, Charlie, Foxtrot, Uniform and Mike, sending you 3
+2024-10-14 19:02:43.245843 Foxtrot: Tango, Hotel and Charlie, sending you 1
+2024-10-14 19:02:43.246342 Tango: Charlie, Foxtrot and Mike, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 19:02:43.247586 Romeo: Yankee, sending you 5
+2024-10-14 19:02:43.248681 Mike: Foxtrot, sending you 2
+2024-10-14 19:02:43.322690 Tango: Uniform, sending you 4
+2024-10-14 19:02:43.323249 Charlie: Tango, Hotel, Foxtrot, Uniform and Echo, sending you 2
+2024-10-14 19:02:43.323546 Hotel: Tango, Charlie and Mike, sending you 3
+2024-10-14 19:02:43.324391 Romeo: Echo, sending you 7
+2024-10-14 19:02:43.350160 Charlie: Mike, sending you 3
+2024-10-14 19:02:43.350604 Hotel: Foxtrot, Uniform and Echo, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 3
+ChatterBot Yankee round 3
+ChatterBot Tango round 3
+ChatterBot Hotel round 3
+ChatterBot Charlie round 3
+ChatterBot Foxtrot round 3
+ChatterBot Uniform round 3
+ChatterBot Mike round 3
+ChatterBot Echo round 3
+ChatterBot Romeo round 3
+2024-10-14 19:02:44.179699 Yankee: Alpha and Echo, sending you 4
+2024-10-14 19:02:44.181162 Romeo: We should drop Foxtrot
+ChatterBot Echo reevaluating
+2024-10-14 19:02:44.198440 Yankee: Yes
+2024-10-14 19:02:44.199139 Alpha: Yes
+2024-10-14 19:02:44.199660 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:02:44.249287 Yankee: Romeo, sending you 5
+2024-10-14 19:02:44.278874 Charlie: Tango, Hotel, Foxtrot, Uniform and Echo, sending you 2
+2024-10-14 19:02:44.280151 Mike: Tango, Hotel, Charlie and Uniform, sending you 4
+2024-10-14 19:02:44.281229 Tango: Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:44.281814 Uniform: Same as last round
+2024-10-14 19:02:44.282869 Hotel: Tango, sending you 3
+2024-10-14 19:02:44.664294 Charlie: Mike, sending you 3
+2024-10-14 19:02:44.665443 Mike: Foxtrot, sending you 2
+2024-10-14 19:02:44.665912 Tango: Charlie and Foxtrot, sending you 2
+2024-10-14 19:02:44.666377 Hotel: Charlie, Foxtrot, Uniform and Echo, sending you 2
+2024-10-14 19:02:44.667462 Romeo: Yankee, sending you 8
+2024-10-14 19:02:45.031627 Hotel: Mike, sending you 4
+2024-10-14 19:02:45.032729 Romeo: Echo, sending you 5
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Yankee round 4
+ChatterBot Tango round 4
+ChatterBot Hotel round 4
+ChatterBot Charlie round 4
+ChatterBot Foxtrot round 4
+ChatterBot Uniform round 4
+ChatterBot Mike round 4
+ChatterBot Echo round 4
+ChatterBot Romeo round 4
+2024-10-14 19:02:45.567509 Hotel: We should drop Echo
+2024-10-14 19:02:45.587901 Mike: Yes
+2024-10-14 19:02:45.588133 Uniform: Yes
+2024-10-14 19:02:45.588346 Foxtrot: Yes
+2024-10-14 19:02:45.588605 Charlie: Yes
+2024-10-14 19:02:45.588825 Tango: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:45.755053 Uniform: We should drop Foxtrot
+ChatterBot Tango reevaluating
+2024-10-14 19:02:45.781298 Tango: Yes
+2024-10-14 19:02:45.781500 Hotel: No
+2024-10-14 19:02:45.781681 Charlie: No
+2024-10-14 19:02:45.781837 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:45.893675 Yankee: Alpha and Echo, sending you 4
+2024-10-14 19:02:45.894695 Hotel: Tango, Charlie, Foxtrot, Uniform and Mike, sending you 3
+2024-10-14 19:02:45.895391 Echo: Alpha and Yankee, sending you 6
+2024-10-14 19:02:45.896679 Yankee: Romeo, sending you 5
+2024-10-14 19:02:45.898661 Echo: Romeo, sending you 7
+2024-10-14 19:02:45.904724 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:45.907668 Charlie: Foxtrot, sending you 1
+2024-10-14 19:02:45.912671 Romeo: Yankee, sending you 8
+2024-10-14 19:02:45.917907 Uniform: Tango, Hotel, Charlie, Foxtrot and Mike, sending you 3
+2024-10-14 19:02:45.918426 Romeo: Echo, sending you 5
+2024-10-14 19:02:45.931678 Mike: Tango and Charlie, sending you 4
+chatterbot Charlie submitting transactions
+2024-10-14 19:02:45.934675 Mike: Hotel and Uniform, sending you 5
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Yankee round 5
+ChatterBot Tango round 5
+ChatterBot Hotel round 5
+ChatterBot Charlie round 5
+ChatterBot Foxtrot round 5
+ChatterBot Uniform round 5
+ChatterBot Mike round 5
+ChatterBot Echo round 5
+ChatterBot Romeo round 5
+2024-10-14 19:02:47.014946 Tango: We should drop Foxtrot
+2024-10-14 19:02:47.033211 Uniform: Yes
+2024-10-14 19:02:47.033390 Hotel: No
+2024-10-14 19:02:47.033522 Charlie: No
+2024-10-14 19:02:47.034163 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:47.101683 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:47.102278 Yankee: Alpha and Echo, sending you 4
+2024-10-14 19:02:47.104689 Charlie: Foxtrot, sending you 1
+2024-10-14 19:02:47.106878 Yankee: Romeo, sending you 5
+2024-10-14 19:02:47.108662 Mike: Tango and Uniform, sending you 4
+2024-10-14 19:02:47.111667 Mike: Hotel and Charlie, sending you 5
+2024-10-14 19:02:47.119695 Echo: Alpha and Yankee, sending you 6
+2024-10-14 19:02:47.120687 Romeo: Yankee, sending you 7
+2024-10-14 19:02:47.122668 Hotel: Tango, Charlie and Uniform, sending you 3
+2024-10-14 19:02:47.123689 Echo: Romeo, sending you 7
+2024-10-14 19:02:47.124667 Romeo: Echo, sending you 6
+2024-10-14 19:02:47.127113 Hotel: Foxtrot, sending you 2
+2024-10-14 19:02:47.127685 Uniform: Tango, Hotel, Charlie, Foxtrot and Mike, sending you 3
+2024-10-14 19:02:47.130652 Hotel: Mike, sending you 4
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Yankee round 6
+ChatterBot Tango round 6
+ChatterBot Hotel round 6
+ChatterBot Charlie round 6
+ChatterBot Foxtrot round 6
+ChatterBot Uniform round 6
+ChatterBot Mike round 6
+ChatterBot Echo round 6
+ChatterBot Romeo round 6
+2024-10-14 19:02:48.265071 Tango: We should drop Foxtrot
+2024-10-14 19:02:48.276164 Uniform: Yes
+2024-10-14 19:02:48.276310 Hotel: No
+2024-10-14 19:02:48.276419 Charlie: No
+2024-10-14 19:02:48.276516 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:48.327925 Yankee: We should drop Alpha
+ChatterBot Echo reevaluating
+2024-10-14 19:02:48.334665 Echo: Yes
+2024-10-14 19:02:48.334819 Romeo: No
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:02:48.348442 Romeo: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:02:48.381398 Yankee: No
+2024-10-14 19:02:48.381572 Echo: Yes
+2024-10-14 19:02:48.381770 Tango: No
+2024-10-14 19:02:48.381919 Hotel: No
+2024-10-14 19:02:48.382068 Charlie: No
+2024-10-14 19:02:48.382264 Uniform: No
+2024-10-14 19:02:48.382418 Mike: No
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:48.566628 Mike: We should add Foxtrot
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:48.579966 Uniform: No
+2024-10-14 19:02:48.580131 Tango: No
+2024-10-14 19:02:48.580223 Hotel: No
+2024-10-14 19:02:48.580327 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:48.650680 Echo: Yankee, sending you 9
+2024-10-14 19:02:48.651671 Romeo: Yankee, sending you 7
+2024-10-14 19:02:48.652694 Yankee: Sending you each 5
+2024-10-14 19:02:48.653006 Uniform: Tango, Hotel and Mike, sending you 4
+2024-10-14 19:02:48.653911 Echo: Romeo, sending you 10
+2024-10-14 19:02:48.654703 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:02:48.655670 Romeo: Echo, sending you 6
+2024-10-14 19:02:48.656025 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:48.657687 Hotel: Tango, Charlie and Uniform, sending you 3
+2024-10-14 19:02:48.658675 Uniform: Charlie, sending you 3
+2024-10-14 19:02:48.660666 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:02:48.661461 Charlie: Foxtrot, sending you 1
+2024-10-14 19:02:48.662045 Hotel: Foxtrot, sending you 2
+2024-10-14 19:02:48.666668 Hotel: Mike, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Yankee round 7
+ChatterBot Tango round 7
+ChatterBot Hotel round 7
+ChatterBot Charlie round 7
+ChatterBot Foxtrot round 7
+ChatterBot Uniform round 7
+ChatterBot Mike round 7
+ChatterBot Echo round 7
+ChatterBot Romeo round 7
+2024-10-14 19:02:49.911512 Tango: We should drop Foxtrot
+2024-10-14 19:02:49.930079 Uniform: Yes
+2024-10-14 19:02:49.930237 Hotel: No
+2024-10-14 19:02:49.930375 Charlie: No
+2024-10-14 19:02:49.930790 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:49.989519 Charlie: We should replace Foxtrot with Alpha
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:50.001884 Uniform: No
+2024-10-14 19:02:50.002011 Tango: No
+2024-10-14 19:02:50.002106 Hotel: No
+2024-10-14 19:02:50.002194 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:50.097690 Yankee: Echo, sending you 4
+2024-10-14 19:02:50.099801 Hotel: Alpha we want you to join our group
+2024-10-14 19:02:50.104868 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:50.131589 Yankee: Romeo, sending you 5
+2024-10-14 19:02:50.135650 Romeo: Yankee, sending you 6
+2024-10-14 19:02:50.136697 Echo: Yankee, sending you 9
+2024-10-14 19:02:50.137111 Uniform: Tango, Hotel and Mike, sending you 4
+2024-10-14 19:02:50.138702 Romeo: Echo, sending you 7
+2024-10-14 19:02:50.141102 Echo: Romeo, sending you 10
+2024-10-14 19:02:50.141667 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:02:50.142716 Uniform: Charlie, sending you 3
+2024-10-14 19:02:50.145665 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:02:50.163016 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:50.167691 Charlie: Foxtrot, sending you 1
+2024-10-14 19:02:50.171676 Hotel: Tango, Uniform and Mike, sending you 4
+2024-10-14 19:02:50.175663 Hotel: Charlie, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Yankee round 8
+ChatterBot Tango round 8
+ChatterBot Hotel round 8
+ChatterBot Charlie round 8
+ChatterBot Foxtrot round 8
+ChatterBot Uniform round 8
+ChatterBot Mike round 8
+ChatterBot Echo round 8
+ChatterBot Romeo round 8
+2024-10-14 19:02:51.365131 Tango: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.378072 Uniform: Yes
+2024-10-14 19:02:51.378230 Hotel: Yes
+2024-10-14 19:02:51.378342 Charlie: Yes
+2024-10-14 19:02:51.378444 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.448837 Charlie: We should replace Foxtrot with Alpha
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:51.462557 Uniform: No
+2024-10-14 19:02:51.462736 Tango: No
+2024-10-14 19:02:51.462865 Hotel: No
+2024-10-14 19:02:51.462983 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.510958 Yankee: Echo, sending you 4
+2024-10-14 19:02:51.513657 Uniform: Tango, Hotel and Mike, sending you 4
+2024-10-14 19:02:51.514070 Romeo: Yankee, sending you 6
+2024-10-14 19:02:51.514703 Yankee: Romeo, sending you 5
+2024-10-14 19:02:51.515104 Echo: Yankee, sending you 9
+2024-10-14 19:02:51.515951 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:02:51.516692 Romeo: Echo, sending you 7
+2024-10-14 19:02:51.517677 Charlie: Alpha we want you to join our group
+2024-10-14 19:02:51.520766 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.536919 Hotel: We should add Alpha
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.547231 Uniform: No
+2024-10-14 19:02:51.547358 Tango: No
+2024-10-14 19:02:51.547459 Charlie: No
+2024-10-14 19:02:51.547539 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.666188 Uniform: Charlie, sending you 3
+2024-10-14 19:02:51.667432 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:02:51.668285 Echo: Romeo, sending you 10
+2024-10-14 19:02:51.669141 Hotel: We should add Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.683796 Uniform: No
+2024-10-14 19:02:51.683975 Tango: No
+2024-10-14 19:02:51.684129 Charlie: No
+2024-10-14 19:02:51.684320 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:51.767695 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:51.773292 Hotel: Tango, Uniform and Mike, sending you 4
+2024-10-14 19:02:51.774384 Charlie: Foxtrot, sending you 1
+2024-10-14 19:02:51.779484 Hotel: Charlie, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Yankee round 9
+ChatterBot Tango round 9
+ChatterBot Hotel round 9
+ChatterBot Charlie round 9
+2024-10-14 19:02:52.619143 Charlie: We should replace Foxtrot with Alpha
+2024-10-14 19:02:52.643084 Uniform: No
+2024-10-14 19:02:52.643353 Tango: No
+2024-10-14 19:02:52.643566 Hotel: No
+2024-10-14 19:02:52.643784 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot round 9
+ChatterBot Uniform round 9
+ChatterBot Mike round 9
+ChatterBot Echo round 9
+ChatterBot Romeo round 9
+2024-10-14 19:02:52.768626 Tango: We should drop Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:52.789500 Uniform: Yes
+2024-10-14 19:02:52.789727 Hotel: Yes
+2024-10-14 19:02:52.789910 Charlie: Yes
+2024-10-14 19:02:52.790072 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:52.864952 Yankee: Echo, sending you 4
+2024-10-14 19:02:52.869695 Yankee: Romeo, sending you 5
+2024-10-14 19:02:52.871650 Echo: Yankee, sending you 9
+2024-10-14 19:02:52.873073 Charlie: Alpha we want you to join our group
+2024-10-14 19:02:52.883633 Alpha: No
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:52.969304 Echo: Romeo, sending you 10
+2024-10-14 19:02:52.973679 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:02:52.975073 Hotel: Tango, Uniform and Mike, sending you 4
+2024-10-14 19:02:52.976746 Romeo: Yankee, sending you 6
+2024-10-14 19:02:52.978666 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:02:52.981393 Hotel: Charlie, sending you 3
+2024-10-14 19:02:52.982218 Romeo: Echo, sending you 7
+2024-10-14 19:02:52.988684 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:52.994667 Charlie: Foxtrot, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Yankee round 10
+ChatterBot Tango round 10
+ChatterBot Hotel round 10
+ChatterBot Charlie round 10
+ChatterBot Foxtrot round 10
+ChatterBot Uniform round 10
+ChatterBot Mike round 10
+ChatterBot Echo round 10
+ChatterBot Romeo round 10
+2024-10-14 19:02:53.961779 Charlie: We should replace Foxtrot with Yankee
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:53.983638 Uniform: No
+2024-10-14 19:02:53.983780 Tango: No
+2024-10-14 19:02:53.983901 Hotel: No
+2024-10-14 19:02:53.984010 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:54.054311 Uniform: We should add Foxtrot
+2024-10-14 19:02:54.055211 Hotel: We should add Yankee
+2024-10-14 19:02:54.055527 Mike: We should add Romeo
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:54.073193 Tango: No
+2024-10-14 19:02:54.076511 Hotel: Yes
+2024-10-14 19:02:54.076695 Charlie: No
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:54.079994 Mike: No
+ChatterBot Mike reevaluating
+2024-10-14 19:02:54.084281 Uniform: No
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:54.087437 Tango: No
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:54.093861 Charlie: No
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:54.096992 Mike: Yes
+2024-10-14 19:02:54.097131 Uniform: No
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:54.100468 Tango: No
+2024-10-14 19:02:54.100962 Hotel: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:54.104361 Charlie: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:54.438294 Foxtrot: Let's form a team
+2024-10-14 19:02:54.445376 Alpha: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:54.478362 Echo: We should replace Alpha with Hotel
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:54.489600 Yankee: No
+2024-10-14 19:02:54.489749 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:02:54.507634 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:54.525847 Uniform: Yes
+2024-10-14 19:02:54.525987 Hotel: No
+2024-10-14 19:02:54.526095 Charlie: No
+2024-10-14 19:02:54.526200 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:54.626643 Charlie: We should replace Foxtrot with Romeo
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:54.647984 Uniform: No
+2024-10-14 19:02:54.648685 Tango: No
+2024-10-14 19:02:54.648872 Hotel: No
+2024-10-14 19:02:54.649012 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:54.733726 Uniform: We should add Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:54.753257 Tango: No
+2024-10-14 19:02:54.753403 Hotel: Yes
+2024-10-14 19:02:54.753505 Charlie: Yes
+2024-10-14 19:02:54.753608 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:54.841925 Echo: We should replace Alpha with Charlie
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:54.854990 Yankee: No
+2024-10-14 19:02:54.855562 Romeo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:02:54.888528 Charlie: We should replace Foxtrot with Alpha
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:54.917747 Uniform: No
+2024-10-14 19:02:54.917952 Tango: No
+2024-10-14 19:02:54.918531 Hotel: No
+2024-10-14 19:02:54.918721 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:02:55.125675 Mike: Alpha we want you to join our group
+2024-10-14 19:02:55.132124 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:55.157035 Foxtrot: Uniform, sending you 1
+2024-10-14 19:02:55.158095 Echo: Charlie we want you to join our group
+2024-10-14 19:02:55.162793 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:55.173864 Echo: We should replace Alpha with Foxtrot
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:55.181345 Yankee: No
+2024-10-14 19:02:55.183376 Romeo: No
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:02:55.200571 Hotel: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:02:55.205052 Alpha: No
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:55.221825 Charlie: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:02:55.225802 Alpha: No
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:55.244011 Mike: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:55.247723 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:55.267214 Echo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:55.271790 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 19:02:55.288102 Charlie: Romeo we want you to join our group
+2024-10-14 19:02:55.292649 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:55.319269 Echo: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:55.325392 Foxtrot: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:02:55.349654 Romeo: Yankee, sending you 6
+2024-10-14 19:02:55.352657 Romeo: Echo, sending you 4
+2024-10-14 19:02:55.353683 Hotel: Alpha, sending you 2
+2024-10-14 19:02:55.355676 Uniform: Tango, Hotel and Mike, sending you 4
+2024-10-14 19:02:55.356737 Yankee: Echo, sending you 2
+2024-10-14 19:02:55.358653 Uniform: Charlie, sending you 3
+2024-10-14 19:02:55.359691 Hotel: Tango, Charlie and Uniform, sending you 3
+2024-10-14 19:02:55.360182 Mike: Alpha, sending you 2
+2024-10-14 19:02:55.360742 Yankee: Romeo, sending you 5
+2024-10-14 19:02:55.362693 Hotel: Mike, sending you 4
+2024-10-14 19:02:55.363739 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 19:02:55.364051 Mike: Tango, Hotel, Charlie and Uniform, sending you 4
+2024-10-14 19:02:55.365172 Charlie: Tango, Hotel, Uniform and Mike, sending you 3
+2024-10-14 19:02:55.368687 Charlie: Romeo, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Yankee round 11
+ChatterBot Tango round 11
+ChatterBot Hotel round 11
+ChatterBot Charlie round 11
+ChatterBot Foxtrot round 11
+ChatterBot Uniform round 11
+ChatterBot Mike round 11
+ChatterBot Echo round 11
+ChatterBot Romeo round 11
+2024-10-14 19:02:56.082503 Hotel: We should replace Alpha with Romeo
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:56.112609 Uniform: No
+2024-10-14 19:02:56.112837 Tango: No
+2024-10-14 19:02:56.112980 Charlie: No
+2024-10-14 19:02:56.113100 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:02:56.224471 Tango: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:56.239669 Uniform: Yes
+2024-10-14 19:02:56.239909 Hotel: Yes
+2024-10-14 19:02:56.240042 Charlie: Yes
+2024-10-14 19:02:56.240163 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:56.430246 Uniform: We should add Romeo
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:56.463001 Tango: No
+2024-10-14 19:02:56.463354 Hotel: Yes
+2024-10-14 19:02:56.463688 Charlie: Yes
+2024-10-14 19:02:56.463990 Mike: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Yankee submitting transactions
+2024-10-14 19:02:56.586666 Yankee: Echo, sending you 2
+2024-10-14 19:02:56.587907 Mike: Romeo we want you to join our group
+2024-10-14 19:02:56.594817 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:56.621274 Yankee: Romeo, sending you 3
+2024-10-14 19:02:56.624873 Hotel: Romeo we want you to join our group
+2024-10-14 19:02:56.629700 Romeo: No
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:56.651047 Charlie: We should replace Romeo with Yankee
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:56.664361 Uniform: No
+2024-10-14 19:02:56.664511 Tango: No
+2024-10-14 19:02:56.664632 Hotel: No
+2024-10-14 19:02:56.664749 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:56.722813 Romeo: Yankee, sending you 7
+2024-10-14 19:02:56.725824 Romeo: Charlie, sending you 1
+2024-10-14 19:02:56.731116 Romeo: Echo, sending you 5
+2024-10-14 19:02:56.737674 Romeo: Yankee did not give me 5 like they said
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:56.754663 Uniform: Tango, Hotel and Charlie, sending you 1
+2024-10-14 19:02:56.759665 Uniform: Mike, sending you 2
+2024-10-14 19:02:56.768691 Hotel: Tango, Charlie and Uniform, sending you 3
+2024-10-14 19:02:56.771652 Echo: Yankee and Romeo, sending you 4
+2024-10-14 19:02:56.773929 Hotel: Mike, sending you 4
+2024-10-14 19:02:56.774978 Mike: Tango, Hotel, Charlie and Uniform, sending you 4
+2024-10-14 19:02:56.775534 Echo: Charlie, sending you 3
+2024-10-14 19:02:56.777661 Mike: Romeo, sending you 2
+2024-10-14 19:02:56.778687 Hotel: Romeo, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Yankee round 12
+ChatterBot Tango round 12
+ChatterBot Hotel round 12
+ChatterBot Charlie round 12
+ChatterBot Foxtrot round 12
+ChatterBot Uniform round 12
+ChatterBot Mike round 12
+ChatterBot Echo round 12
+ChatterBot Romeo round 12
+2024-10-14 19:02:58.000449 Foxtrot: We should replace Echo with Romeo
+2024-10-14 19:02:58.023036 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:58.035657 Uniform: Yes
+2024-10-14 19:02:58.035822 Hotel: Yes
+2024-10-14 19:02:58.035933 Charlie: Yes
+2024-10-14 19:02:58.036039 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:58.098557 Foxtrot: Romeo we want you to join our group
+2024-10-14 19:02:58.101994 Romeo: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:58.106919 Mike: We should drop Romeo
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:02:58.132417 Uniform: Yes
+2024-10-14 19:02:58.132604 Tango: Yes
+2024-10-14 19:02:58.132766 Hotel: Yes
+2024-10-14 19:02:58.132903 Charlie: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:58.220622 Charlie: We should replace Romeo with Yankee
+2024-10-14 19:02:58.220972 Uniform: We should add Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:02:58.241952 Uniform: No
+2024-10-14 19:02:58.242178 Tango: No
+2024-10-14 19:02:58.246501 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:58.256920 Mike: No
+ChatterBot Mike reevaluating
+2024-10-14 19:02:58.262577 Tango: No
+2024-10-14 19:02:58.262765 Hotel: No
+2024-10-14 19:02:58.262916 Charlie: No
+2024-10-14 19:02:58.263054 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:58.448395 Echo: Yankee, Charlie and Romeo, sending you 6
+2024-10-14 19:02:58.449180 Romeo: Yankee, sending you 7
+2024-10-14 19:02:58.452981 Romeo: Charlie, sending you 1
+2024-10-14 19:02:58.453932 Mike: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:02:58.487726 Yankee: No
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:02:58.575024 Romeo: Echo, sending you 5
+chatterbot Echo submitting transactions
+2024-10-14 19:02:58.583856 Charlie: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:02:58.593350 Yankee: No
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 19:02:58.636690 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:02:58.643674 Hotel: Uniform, sending you 3
+2024-10-14 19:02:58.660098 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:02:58.663697 Mike: Charlie and Uniform, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Yankee round 13
+ChatterBot Tango round 13
+ChatterBot Hotel round 13
+ChatterBot Charlie round 13
+ChatterBot Foxtrot round 13
+ChatterBot Uniform round 13
+ChatterBot Mike round 13
+ChatterBot Echo round 13
+ChatterBot Romeo round 13
+2024-10-14 19:02:59.569901 Hotel: We should add Alpha
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:59.598129 Uniform: No
+2024-10-14 19:02:59.599447 Tango: No
+2024-10-14 19:02:59.599705 Charlie: Yes
+2024-10-14 19:02:59.599916 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:59.779859 Foxtrot: We should replace Echo with Romeo
+2024-10-14 19:02:59.780355 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:59.797698 Uniform: Yes
+2024-10-14 19:02:59.798010 Hotel: Yes
+2024-10-14 19:02:59.798305 Charlie: Yes
+2024-10-14 19:02:59.798489 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:59.872226 Foxtrot: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 19:02:59.876638 Romeo: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:59.881676 Foxtrot: We should replace Echo with Hotel
+2024-10-14 19:02:59.888103 Foxtrot: Hotel we want you to join our group
+2024-10-14 19:02:59.894142 Hotel: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:02:59.899249 Echo: Yankee and Charlie, sending you 6
+2024-10-14 19:02:59.900076 Mike: Tango, Hotel and Charlie, sending you 2
+2024-10-14 19:02:59.903689 Hotel: Tango, Charlie and Uniform, sending you 3
+2024-10-14 19:02:59.904907 Echo: Romeo, sending you 7
+2024-10-14 19:02:59.905665 Mike: Uniform, sending you 1
+2024-10-14 19:02:59.906913 Mike: I was attacked by Yankee
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:02:59.931890 Mike: Ow
+2024-10-14 19:02:59.933233 Romeo: Yankee and Echo, sending you 5
+2024-10-14 19:02:59.938869 Romeo: Charlie, sending you 2
+2024-10-14 19:02:59.950712 Hotel: Tango and Mike, sending you 2
+2024-10-14 19:02:59.957691 Hotel: Charlie and Uniform, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Yankee round 14
+ChatterBot Tango round 14
+ChatterBot Hotel round 14
+ChatterBot Charlie round 14
+ChatterBot Foxtrot round 14
+ChatterBot Uniform round 14
+ChatterBot Mike round 14
+ChatterBot Echo round 14
+ChatterBot Romeo round 14
+2024-10-14 19:03:00.989690 Alpha: We should drop Echo
+ChatterBot Romeo reevaluating
+2024-10-14 19:03:01.006767 Yankee: Yes
+2024-10-14 19:03:01.006991 Romeo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:03:01.034216 Yankee: We should drop Echo and Charlie
+ChatterBot Romeo reevaluating
+2024-10-14 19:03:01.040372 Romeo: No
+2024-10-14 19:03:01.045927 Tango: We should drop Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:01.063712 Uniform: Yes
+2024-10-14 19:03:01.063896 Hotel: Yes
+2024-10-14 19:03:01.064038 Charlie: Yes
+2024-10-14 19:03:01.064184 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Tango submitting transactions
+2024-10-14 19:03:01.153673 Yankee: I was attacked by Tango and Hotel
+ChatterBot Romeo reevaluating
+2024-10-14 19:03:01.160239 Yankee: I'm keeping this round to protect myself
+2024-10-14 19:03:01.161356 Yankee: Ow
+2024-10-14 19:03:01.162668 Echo: I was attacked by Uniform
+2024-10-14 19:03:01.162961 Echo: I'm keeping this round to protect myself
+2024-10-14 19:03:01.163297 Echo: Ow
+2024-10-14 19:03:01.164205 Hotel: I was attacked by Yankee
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:01.185166 Hotel: I'm keeping this round to protect myself
+2024-10-14 19:03:01.187653 Hotel: Ow
+2024-10-14 19:03:01.202679 Romeo: Hotel and Mike, sending you 3
+2024-10-14 19:03:01.206746 Romeo: Charlie, sending you 7
+2024-10-14 19:03:01.211684 Mike: Sending you each 3
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Yankee round 15
+ChatterBot Tango round 15
+ChatterBot Hotel round 15
+ChatterBot Charlie round 15
+ChatterBot Foxtrot round 15
+ChatterBot Uniform round 15
+ChatterBot Mike round 15
+ChatterBot Echo round 15
+ChatterBot Romeo round 15
+2024-10-14 19:03:02.393875 Yankee: We should add Charlie
+ChatterBot Romeo reevaluating
+2024-10-14 19:03:02.402389 Romeo: Yes
+2024-10-14 19:03:02.469568 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:02.474691 Charlie: No
+ChatterBot Romeo reevaluating
+2024-10-14 19:03:02.485509 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:02.502493 Uniform: Yes
+2024-10-14 19:03:02.502704 Hotel: Yes
+2024-10-14 19:03:02.502849 Charlie: Yes
+2024-10-14 19:03:02.502968 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:02.585723 Mike: Tango, Charlie and Uniform, sending you 4
+2024-10-14 19:03:02.588676 Hotel: Tango, sending you 3
+2024-10-14 19:03:02.590674 Mike: Hotel, sending you 3
+2024-10-14 19:03:02.592885 Romeo: Yankee, sending you 8
+2024-10-14 19:03:02.593649 Hotel: Charlie, Uniform and Mike, sending you 4
+2024-10-14 19:03:02.598831 Romeo: Charlie, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Yankee round 16
+ChatterBot Tango round 16
+ChatterBot Hotel round 16
+ChatterBot Charlie round 16
+ChatterBot Foxtrot round 16
+ChatterBot Uniform round 16
+ChatterBot Mike round 16
+ChatterBot Echo round 16
+ChatterBot Romeo round 16
+2024-10-14 19:03:03.808849 Charlie: We should replace Romeo with Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:03.844735 Uniform: No
+2024-10-14 19:03:03.845494 Tango: No
+2024-10-14 19:03:03.845790 Hotel: No
+2024-10-14 19:03:03.845963 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:03:04.046070 Foxtrot: We should replace Romeo with Yankee
+2024-10-14 19:03:04.172413 Charlie: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:03:04.180387 Foxtrot: No
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:03:04.212101 Mike: We should replace Uniform with Alpha
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:04.231475 Tango: No
+2024-10-14 19:03:04.231746 Hotel: No
+2024-10-14 19:03:04.231967 Charlie: No
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:03:04.326598 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:04.331190 Foxtrot: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:03:04.339113 Yankee: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:03:04.347690 Romeo: I was attacked by Uniform
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:04.362699 Romeo: I'm keeping this round to protect myself
+2024-10-14 19:03:04.363572 Romeo: Ow
+2024-10-14 19:03:04.364253 Hotel: Uniform, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Yankee round 17
+ChatterBot Tango round 17
+ChatterBot Hotel round 17
+ChatterBot Charlie round 17
+ChatterBot Foxtrot round 17
+ChatterBot Uniform round 17
+ChatterBot Mike round 17
+ChatterBot Echo round 17
+ChatterBot Romeo round 17
+2024-10-14 19:03:06.620926 Foxtrot: We should replace Yankee with Charlie
+2024-10-14 19:03:06.643533 Charlie: We should replace Romeo with Alpha
+ChatterBot Uniform reevaluating
+2024-10-14 19:03:06.662289 Uniform: No
+2024-10-14 19:03:06.662482 Tango: No
+2024-10-14 19:03:06.662628 Hotel: No
+2024-10-14 19:03:06.663129 Mike: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:06.730181 Yankee: We should drop Charlie
+2024-10-14 19:03:06.740154 Romeo: Yes
+2024-10-14 19:03:06.748912 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:06.771350 Uniform: Yes
+2024-10-14 19:03:06.771533 Hotel: Yes
+2024-10-14 19:03:06.771655 Charlie: No
+2024-10-14 19:03:06.771810 Mike: Yes
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:06.870675 Foxtrot: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:06.875914 Charlie: No
+2024-10-14 19:03:06.885711 Charlie: Alpha we want you to join our group
+2024-10-14 19:03:06.892151 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:03:06.922309 Mike: Tango, Hotel and Charlie, sending you 3
+2024-10-14 19:03:06.924739 Yankee: I was attacked by Uniform
+ChatterBot Romeo reevaluating
+2024-10-14 19:03:06.932488 Yankee: I'm keeping this round to protect myself
+2024-10-14 19:03:06.933135 Yankee: Ow
+2024-10-14 19:03:06.934687 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:06.937325 Mike: Uniform, sending you 2
+2024-10-14 19:03:06.939821 Mike: I was attacked by Yankee
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:06.961915 Mike: Ow
+2024-10-14 19:03:06.963775 Charlie: We should replace Romeo with Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:03:06.994809 Uniform: No
+2024-10-14 19:03:06.995448 Tango: No
+2024-10-14 19:03:06.995647 Hotel: No
+2024-10-14 19:03:06.995814 Mike: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:07.114175 Foxtrot: Sending you 1
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:03:07.157947 Charlie: Foxtrot we want you to join our group
+2024-10-14 19:03:07.204234 Foxtrot: No
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Yankee round 18
+ChatterBot Tango round 18
+ChatterBot Hotel round 18
+ChatterBot Charlie round 18
+ChatterBot Foxtrot round 18
+ChatterBot Uniform round 18
+ChatterBot Mike round 18
+ChatterBot Echo round 18
+ChatterBot Romeo round 18
+2024-10-14 19:03:08.411583 Charlie: We should replace Romeo with Alpha
+ChatterBot Uniform reevaluating
+2024-10-14 19:03:08.425669 Uniform: No
+2024-10-14 19:03:08.425881 Tango: No
+2024-10-14 19:03:08.426054 Hotel: No
+2024-10-14 19:03:08.426222 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:08.492372 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:08.507219 Uniform: Yes
+2024-10-14 19:03:08.507379 Hotel: Yes
+2024-10-14 19:03:08.508029 Charlie: No
+2024-10-14 19:03:08.508163 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:08.575090 Charlie: We should replace Romeo with Foxtrot
+ChatterBot Uniform reevaluating
+2024-10-14 19:03:08.601465 Uniform: No
+2024-10-14 19:03:08.601730 Tango: No
+2024-10-14 19:03:08.601938 Hotel: No
+2024-10-14 19:03:08.602130 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:08.682665 Yankee: I was attacked by Mike
+2024-10-14 19:03:08.683991 Yankee: I'm keeping this round to protect myself
+2024-10-14 19:03:08.684252 Yankee: Ow
+2024-10-14 19:03:08.687698 Hotel: Tango, sending you 3
+2024-10-14 19:03:08.690752 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:08.692805 Foxtrot: Same as last round
+2024-10-14 19:03:08.693282 Charlie: Foxtrot we want you to join our group
+2024-10-14 19:03:08.700900 Foxtrot: No
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:08.733724 Hotel: Charlie, Uniform and Mike, sending you 4
+2024-10-14 19:03:08.735294 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:03:08.737660 Charlie: Alpha we want you to join our group
+2024-10-14 19:03:08.744119 Alpha: No
+ChatterBot Charlie reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 19:03:08.774914 Charlie: We should drop Romeo
+ChatterBot Uniform reevaluating
+2024-10-14 19:03:08.799433 Uniform: Yes
+2024-10-14 19:03:08.799717 Tango: Yes
+2024-10-14 19:03:08.800235 Hotel: Yes
+2024-10-14 19:03:08.800411 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Yankee round 19
+ChatterBot Tango round 19
+ChatterBot Hotel round 19
+ChatterBot Charlie round 19
+ChatterBot Foxtrot round 19
+ChatterBot Uniform round 19
+ChatterBot Mike round 19
+ChatterBot Echo round 19
+ChatterBot Romeo round 19
+2024-10-14 19:03:09.993154 Charlie: We should replace Romeo with Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:10.022984 Uniform: No
+2024-10-14 19:03:10.023602 Tango: No
+2024-10-14 19:03:10.023819 Hotel: No
+2024-10-14 19:03:10.024 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:10.281120 Tango: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:10.333023 Uniform: Yes
+2024-10-14 19:03:10.333383 Hotel: Yes
+2024-10-14 19:03:10.333668 Charlie: No
+2024-10-14 19:03:10.334322 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:10.477365 Charlie: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 19:03:10.500944 Uniform: Yes
+2024-10-14 19:03:10.501236 Tango: Yes
+2024-10-14 19:03:10.501627 Hotel: Yes
+2024-10-14 19:03:10.502101 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:03:10.625533 Alpha: I was attacked by Uniform
+2024-10-14 19:03:10.625923 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:03:10.626355 Alpha: Ow
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:03:10.628506 Foxtrot: Same as last round
+2024-10-14 19:03:10.630134 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:10.633408 Mike: We should drop Uniform
+2024-10-14 19:03:10.656032 Tango: No
+2024-10-14 19:03:10.656247 Hotel: No
+2024-10-14 19:03:10.656458 Charlie: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:10.710198 Hotel: Uniform, sending you 3
+2024-10-14 19:03:10.788397 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:10.798303 Mike: Charlie and Uniform, sending you 4
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Yankee round 20
+ChatterBot Tango round 20
+ChatterBot Hotel round 20
+ChatterBot Charlie round 20
+ChatterBot Foxtrot round 20
+ChatterBot Uniform round 20
+ChatterBot Mike round 20
+ChatterBot Echo round 20
+ChatterBot Romeo round 20
+2024-10-14 19:03:11.910555 Foxtrot: We should replace Charlie with Alpha
+2024-10-14 19:03:11.935775 Tango: We should drop Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:11.958280 Uniform: Yes
+2024-10-14 19:03:11.959258 Hotel: Yes
+2024-10-14 19:03:11.959459 Charlie: No
+2024-10-14 19:03:11.959785 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:12.050558 Foxtrot: Alpha we want you to join our group
+2024-10-14 19:03:12.056228 Alpha: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:03:12.062107 Charlie: We should replace Romeo with Foxtrot
+2024-10-14 19:03:12.080481 Uniform: No
+2024-10-14 19:03:12.080684 Tango: No
+2024-10-14 19:03:12.080811 Hotel: No
+2024-10-14 19:03:12.081020 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:12.173033 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:12.176892 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:12.179923 Charlie: We should drop Romeo
+2024-10-14 19:03:12.198090 Uniform: Yes
+2024-10-14 19:03:12.198294 Tango: Yes
+2024-10-14 19:03:12.198465 Hotel: Yes
+2024-10-14 19:03:12.198591 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:12.269816 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:03:12.275113 Hotel: Uniform, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Yankee round 21
+ChatterBot Tango round 21
+ChatterBot Hotel round 21
+ChatterBot Charlie round 21
+ChatterBot Foxtrot round 21
+ChatterBot Uniform round 21
+ChatterBot Mike round 21
+ChatterBot Echo round 21
+ChatterBot Romeo round 21
+2024-10-14 19:03:13.262948 Tango: We should drop Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:13.290258 Uniform: Yes
+2024-10-14 19:03:13.290564 Hotel: Yes
+2024-10-14 19:03:13.290776 Charlie: Yes
+2024-10-14 19:03:13.290996 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:13.375078 Alpha: I was attacked by Uniform
+2024-10-14 19:03:13.375361 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:03:13.375598 Alpha: Ow
+2024-10-14 19:03:13.387274 Charlie: We should drop Romeo
+2024-10-14 19:03:13.407902 Uniform: Yes
+2024-10-14 19:03:13.408168 Tango: Yes
+2024-10-14 19:03:13.408349 Hotel: Yes
+2024-10-14 19:03:13.408536 Mike: Yes
+ChatterBot Mike reevaluating
+2024-10-14 19:03:13.514315 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:13.519156 Mike: We should drop Charlie
+2024-10-14 19:03:13.529989 Tango: No
+2024-10-14 19:03:13.530145 Hotel: No
+2024-10-14 19:03:13.530254 Uniform: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:13.569019 Hotel: Uniform, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-14 19:03:13.606998 Mike: Tango, Hotel and Charlie, sending you 5
+2024-10-14 19:03:13.634485 Mike: Uniform, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Yankee round 22
+ChatterBot Tango round 22
+ChatterBot Hotel round 22
+ChatterBot Charlie round 22
+ChatterBot Foxtrot round 22
+ChatterBot Uniform round 22
+ChatterBot Mike round 22
+ChatterBot Echo round 22
+ChatterBot Romeo round 22
+2024-10-14 19:03:15.518603 Foxtrot: We should replace Alpha with Charlie
+2024-10-14 19:03:15.530326 Charlie: We should drop Romeo
+2024-10-14 19:03:15.548812 Uniform: Yes
+2024-10-14 19:03:15.549021 Tango: Yes
+2024-10-14 19:03:15.549165 Hotel: Yes
+2024-10-14 19:03:15.549299 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:15.619577 Tango: We should drop Foxtrot
+ChatterBot Mike reevaluating
+2024-10-14 19:03:15.642671 Uniform: Yes
+2024-10-14 19:03:15.642916 Hotel: Yes
+2024-10-14 19:03:15.643098 Charlie: Yes
+2024-10-14 19:03:15.643686 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:15.758033 Foxtrot: Charlie we want you to join our group
+2024-10-14 19:03:15.764581 Charlie: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:03:16.730900 Hotel: Tango, Charlie and Mike, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:03:16.738401 Hotel: Uniform, sending you 3
+2024-10-14 19:03:16.742844 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:16.752706 Mike: Charlie and Uniform, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Yankee round 23
+ChatterBot Tango round 23
+ChatterBot Hotel round 23
+ChatterBot Charlie round 23
+ChatterBot Foxtrot round 23
+ChatterBot Uniform round 23
+ChatterBot Mike round 23
+ChatterBot Echo round 23
+ChatterBot Romeo round 23
+2024-10-14 19:03:17.301187 Charlie: We should drop Romeo
+2024-10-14 19:03:17.324373 Uniform: Yes
+2024-10-14 19:03:17.324751 Tango: Yes
+2024-10-14 19:03:17.325002 Hotel: Yes
+2024-10-14 19:03:17.326382 Mike: Yes
+ChatterBot Mike reevaluating
+2024-10-14 19:03:17.428324 Tango: We should drop Foxtrot
+ChatterBot Mike reevaluating
+2024-10-14 19:03:17.456328 Uniform: Yes
+2024-10-14 19:03:17.456589 Hotel: Yes
+2024-10-14 19:03:17.457320 Charlie: Yes
+2024-10-14 19:03:17.457558 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:17.577417 Alpha: I was attacked by Uniform
+2024-10-14 19:03:17.577982 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:03:17.578411 Alpha: Ow
+2024-10-14 19:03:17.580075 Foxtrot: Sending you 1
+chatterbot Echo submitting transactions
+2024-10-14 19:03:17.669556 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:17.748655 Hotel: Uniform, sending you 3
+2024-10-14 19:03:17.753789 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:17.855890 Mike: Charlie and Uniform, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Yankee round 24
+ChatterBot Tango round 24
+ChatterBot Hotel round 24
+ChatterBot Charlie round 24
+ChatterBot Foxtrot round 24
+ChatterBot Uniform round 24
+ChatterBot Mike round 24
+ChatterBot Echo round 24
+ChatterBot Romeo round 24
+2024-10-14 19:03:18.721291 Tango: We should drop Foxtrot
+2024-10-14 19:03:18.738185 Uniform: Yes
+2024-10-14 19:03:18.738418 Hotel: Yes
+2024-10-14 19:03:18.738603 Charlie: Yes
+2024-10-14 19:03:18.738804 Mike: Yes
+2024-10-14 19:03:18.801714 Charlie: We should drop Romeo
+2024-10-14 19:03:18.817650 Uniform: Yes
+2024-10-14 19:03:18.817825 Tango: Yes
+2024-10-14 19:03:18.817971 Hotel: Yes
+2024-10-14 19:03:18.818094 Mike: Yes
+2024-10-14 19:03:18.879981 Foxtrot: I was attacked by Uniform
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:18.884762 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 19:03:18.886397 Foxtrot: Ow
+2024-10-14 19:03:18.889964 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:18.895133 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:18.900796 Mike: Charlie and Uniform, sending you 4
+2024-10-14 19:03:18.906484 Hotel: Uniform, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Yankee round 25
+ChatterBot Tango round 25
+ChatterBot Hotel round 25
+ChatterBot Charlie round 25
+ChatterBot Foxtrot round 25
+ChatterBot Uniform round 25
+ChatterBot Mike round 25
+ChatterBot Echo round 25
+ChatterBot Romeo round 25
+2024-10-14 19:03:20.319338 Foxtrot: We should replace Charlie with Hotel
+2024-10-14 19:03:20.323706 Charlie: We should drop Romeo
+2024-10-14 19:03:20.341205 Uniform: Yes
+2024-10-14 19:03:20.341526 Tango: Yes
+2024-10-14 19:03:20.341747 Hotel: Yes
+2024-10-14 19:03:20.341960 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:20.432183 Tango: We should drop Foxtrot
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:20.451782 Uniform: Yes
+2024-10-14 19:03:20.452024 Hotel: Yes
+2024-10-14 19:03:20.452216 Charlie: Yes
+2024-10-14 19:03:20.452416 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:03:20.559551 Foxtrot: Hotel we want you to join our group
+2024-10-14 19:03:20.592077 Hotel: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:03:20.640769 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:20.653923 Hotel: Uniform, sending you 3
+2024-10-14 19:03:20.657227 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:20.671723 Mike: Charlie and Uniform, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Yankee round 26
+ChatterBot Tango round 26
+ChatterBot Hotel round 26
+ChatterBot Charlie round 26
+ChatterBot Foxtrot round 26
+ChatterBot Uniform round 26
+ChatterBot Mike round 26
+ChatterBot Echo round 26
+ChatterBot Romeo round 26
+2024-10-14 19:03:22.081817 Foxtrot: We should replace Charlie with Tango
+2024-10-14 19:03:22.099913 Charlie: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 19:03:22.123185 Uniform: Yes
+2024-10-14 19:03:22.123521 Tango: Yes
+2024-10-14 19:03:22.123756 Hotel: Yes
+2024-10-14 19:03:22.123964 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:22.220812 Foxtrot: Tango we want you to join our group
+2024-10-14 19:03:22.227817 Tango: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:03:22.237250 Tango: We should drop Foxtrot
+ChatterBot Mike reevaluating
+2024-10-14 19:03:22.262567 Uniform: Yes
+2024-10-14 19:03:22.262829 Hotel: Yes
+2024-10-14 19:03:22.263055 Charlie: Yes
+2024-10-14 19:03:22.263261 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:22.385720 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:22.391330 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:22.398053 Hotel: Uniform, sending you 3
+2024-10-14 19:03:22.405726 Mike: Charlie and Uniform, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Yankee round 27
+ChatterBot Tango round 27
+ChatterBot Hotel round 27
+ChatterBot Charlie round 27
+ChatterBot Foxtrot round 27
+ChatterBot Uniform round 27
+ChatterBot Mike round 27
+ChatterBot Echo round 27
+ChatterBot Romeo round 27
+2024-10-14 19:03:23.393212 Tango: We should drop Foxtrot
+2024-10-14 19:03:23.404847 Uniform: Yes
+2024-10-14 19:03:23.405076 Hotel: Yes
+2024-10-14 19:03:23.405249 Charlie: Yes
+2024-10-14 19:03:23.405406 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:23.486460 Charlie: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 19:03:23.504441 Uniform: Yes
+2024-10-14 19:03:23.504644 Tango: Yes
+2024-10-14 19:03:23.504864 Hotel: Yes
+2024-10-14 19:03:23.505033 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:23.567701 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:23.573189 Mike: We should drop Hotel
+2024-10-14 19:03:23.582335 Tango: No
+2024-10-14 19:03:23.582489 Charlie: No
+2024-10-14 19:03:23.582610 Uniform: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:23.612505 Hotel: Uniform, sending you 3
+2024-10-14 19:03:23.632674 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:23.640660 Mike: Charlie and Uniform, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Yankee round 28
+ChatterBot Tango round 28
+ChatterBot Hotel round 28
+ChatterBot Charlie round 28
+ChatterBot Foxtrot round 28
+ChatterBot Uniform round 28
+ChatterBot Mike round 28
+ChatterBot Echo round 28
+ChatterBot Romeo round 28
+2024-10-14 19:03:24.700964 Tango: We should drop Foxtrot
+ChatterBot Mike reevaluating
+2024-10-14 19:03:24.714663 Uniform: Yes
+2024-10-14 19:03:24.714847 Hotel: Yes
+2024-10-14 19:03:24.715002 Charlie: Yes
+2024-10-14 19:03:24.715152 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:24.759655 Charlie: We should drop Romeo
+ChatterBot Mike reevaluating
+2024-10-14 19:03:24.769756 Uniform: Yes
+2024-10-14 19:03:24.769896 Tango: Yes
+2024-10-14 19:03:24.770024 Hotel: Yes
+2024-10-14 19:03:24.770149 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:24.814658 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:24.817242 Mike: We should drop Tango
+2024-10-14 19:03:24.827368 Hotel: No
+2024-10-14 19:03:24.827597 Charlie: No
+2024-10-14 19:03:24.827793 Uniform: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:03:24.857298 Hotel: Uniform, sending you 3
+2024-10-14 19:03:24.878738 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:24.885675 Mike: Charlie and Uniform, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Yankee round 29
+ChatterBot Tango round 29
+ChatterBot Hotel round 29
+ChatterBot Charlie round 29
+ChatterBot Foxtrot round 29
+ChatterBot Uniform round 29
+ChatterBot Mike round 29
+ChatterBot Echo round 29
+ChatterBot Romeo round 29
+2024-10-14 19:03:25.934077 Charlie: We should drop Romeo
+2024-10-14 19:03:25.950512 Uniform: Yes
+2024-10-14 19:03:25.950775 Tango: Yes
+2024-10-14 19:03:25.950986 Hotel: Yes
+2024-10-14 19:03:25.951200 Mike: Yes
+2024-10-14 19:03:26.011668 Tango: We should drop Foxtrot
+2024-10-14 19:03:26.026832 Uniform: Yes
+2024-10-14 19:03:26.027054 Hotel: Yes
+2024-10-14 19:03:26.027240 Charlie: Yes
+2024-10-14 19:03:26.027421 Mike: Yes
+2024-10-14 19:03:26.091874 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:26.094677 Foxtrot: I was attacked by Uniform
+2024-10-14 19:03:26.094985 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 19:03:26.095232 Foxtrot: Ow
+2024-10-14 19:03:26.095655 Hotel: Uniform, sending you 3
+2024-10-14 19:03:26.102678 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:26.110659 Mike: Charlie and Uniform, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Yankee round 30
+ChatterBot Tango round 30
+ChatterBot Hotel round 30
+ChatterBot Charlie round 30
+ChatterBot Foxtrot round 30
+ChatterBot Uniform round 30
+ChatterBot Mike round 30
+ChatterBot Echo round 30
+ChatterBot Romeo round 30
+2024-10-14 19:03:27.296021 Tango: We should drop Foxtrot
+2024-10-14 19:03:27.312227 Uniform: Yes
+2024-10-14 19:03:27.312641 Hotel: Yes
+2024-10-14 19:03:27.312897 Charlie: Yes
+2024-10-14 19:03:27.313144 Mike: Yes
+2024-10-14 19:03:27.358654 Charlie: We should drop Romeo
+2024-10-14 19:03:27.369304 Uniform: Yes
+2024-10-14 19:03:27.369610 Tango: Yes
+2024-10-14 19:03:27.369827 Hotel: Yes
+2024-10-14 19:03:27.370028 Mike: Yes
+2024-10-14 19:03:27.414935 Hotel: Tango, Charlie and Mike, sending you 4
+2024-10-14 19:03:27.417275 Mike: Tango and Hotel, sending you 5
+2024-10-14 19:03:27.420693 Hotel: Uniform, sending you 3
+2024-10-14 19:03:27.423738 Mike: Charlie and Uniform, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions

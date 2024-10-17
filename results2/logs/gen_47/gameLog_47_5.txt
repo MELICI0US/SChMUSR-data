@@ -1,0 +1,1671 @@
+ChatterBot Echo round 1
+ChatterBot Hotel round 1
+ChatterBot Tango round 1
+ChatterBot Uniform round 1
+ChatterBot Zulu round 1
+ChatterBot Yankee round 1
+ChatterBot Lima round 1
+ChatterBot Mike round 1
+ChatterBot Juliett round 1
+ChatterBot November round 1
+randomSelections Echo: {Echo} 
+randomSelections Yankee: {Yankee, Hotel, Mike, Echo} 
+2024-10-14 17:36:15.752740 Yankee: We should group up
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:15.764455 Hotel: Yes
+2024-10-14 17:36:15.764671 Mike: Yes
+2024-10-14 17:36:15.764839 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+randomSelections Lima: {Lima, Zulu, November, Tango, Echo, Juliett} 
+2024-10-14 17:36:15.788713 Lima: We should group up
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:15.799529 Zulu: Yes
+2024-10-14 17:36:15.799688 November: Yes
+2024-10-14 17:36:15.799828 Tango: Yes
+2024-10-14 17:36:15.799954 Echo: No
+2024-10-14 17:36:15.800111 Juliett: Yes
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+randomSelections Uniform: {Uniform, Juliett, Zulu, Lima, Echo, November} 
+2024-10-14 17:36:15.909744 Uniform: Let's form a team
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:36:15.921891 Juliett: No
+2024-10-14 17:36:15.922215 Zulu: No
+2024-10-14 17:36:15.922439 Lima: No
+2024-10-14 17:36:15.923215 Echo: No
+2024-10-14 17:36:15.923438 November: No
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:16.022803 Hotel: Echo, sending you 7
+2024-10-14 17:36:16.023717 Lima: Echo and Tango, sending you 2
+2024-10-14 17:36:16.024190 Mike: Echo, sending you 3
+2024-10-14 17:36:16.024601 Yankee: Echo, sending you 5
+2024-10-14 17:36:16.025390 Uniform: Echo, Zulu, Lima, Juliett and November, sending you 1
+2024-10-14 17:36:16.025782 November: Echo, sending you 2
+2024-10-14 17:36:16.026166 Zulu: Echo and Tango, sending you 3
+2024-10-14 17:36:16.027086 Juliett: Echo, Zulu and Lima, sending you 4
+2024-10-14 17:36:16.027452 Lima: Zulu, sending you 3
+2024-10-14 17:36:16.027794 Hotel: Yankee, sending you 6
+2024-10-14 17:36:16.028494 Mike: Hotel, sending you 5
+2024-10-14 17:36:16.028871 Yankee: Hotel, sending you 2
+2024-10-14 17:36:16.030277 Juliett: November, sending you 1
+2024-10-14 17:36:16.030748 November: Tango, sending you 3
+2024-10-14 17:36:16.031096 Zulu: Lima, sending you 4
+2024-10-14 17:36:16.031888 Lima: November, sending you 4
+2024-10-14 17:36:16.032242 Hotel: Mike, sending you 5
+2024-10-14 17:36:16.032557 Tango: Echo and Zulu, sending you 2
+2024-10-14 17:36:16.032845 Mike: Yankee, sending you 9
+2024-10-14 17:36:16.033938 Yankee: Mike, sending you 6
+2024-10-14 17:36:16.038486 Zulu: Juliett, sending you 5
+2024-10-14 17:36:16.039871 November: Zulu, sending you 1
+2024-10-14 17:36:16.040337 Tango: Lima, sending you 7
+2024-10-14 17:36:16.045294 Zulu: November, sending you 2
+2024-10-14 17:36:16.045892 November: Lima, sending you 4
+2024-10-14 17:36:16.047024 Tango: Juliett, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Echo round 2
+ChatterBot Hotel round 2
+2024-10-14 17:36:17.022828 Echo: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:17.050631 Yankee: No
+2024-10-14 17:36:17.050813 Hotel: Yes
+2024-10-14 17:36:17.050945 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango round 2
+ChatterBot Uniform round 2
+ChatterBot Zulu round 2
+ChatterBot Yankee round 2
+ChatterBot Lima round 2
+ChatterBot Mike round 2
+ChatterBot Juliett round 2
+ChatterBot November round 2
+2024-10-14 17:36:17.107087 Mike: We should drop Yankee and Echo
+2024-10-14 17:36:17.109671 Hotel: No
+ChatterBot Mike reevaluating
+2024-10-14 17:36:17.129175 Zulu: We should drop Echo
+2024-10-14 17:36:17.138486 Tango: Yes
+2024-10-14 17:36:17.138674 Lima: Yes
+2024-10-14 17:36:17.138804 Juliett: Yes
+2024-10-14 17:36:17.138916 November: Yes
+2024-10-14 17:36:17.176852 Yankee: We should drop Echo
+2024-10-14 17:36:17.181795 Hotel: No
+2024-10-14 17:36:17.181936 Mike: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:17.193656 Hotel: Yankee, sending you 5
+2024-10-14 17:36:17.193938 Echo: Tango, Lima and November, sending you 3
+2024-10-14 17:36:17.196671 Hotel: Mike, sending you 10
+2024-10-14 17:36:17.198692 Echo: Zulu, sending you 4
+2024-10-14 17:36:17.199125 Mike: Echo, sending you 3
+2024-10-14 17:36:17.201703 Mike: Hotel, sending you 6
+2024-10-14 17:36:17.202686 Echo: Juliett, sending you 5
+2024-10-14 17:36:17.203008 Lima: Tango, sending you 5
+2024-10-14 17:36:17.203887 Zulu: Tango, sending you 4
+2024-10-14 17:36:17.205861 Tango: Sending you each 4
+2024-10-14 17:36:17.206655 Mike: Yankee, sending you 8
+2024-10-14 17:36:17.206918 Zulu: Lima, sending you 5
+2024-10-14 17:36:17.207811 Lima: Zulu, Juliett and November, sending you 2
+2024-10-14 17:36:17.209887 Zulu: Juliett, sending you 6
+2024-10-14 17:36:17.212688 Zulu: November, sending you 2
+2024-10-14 17:36:17.214672 November: Zulu, sending you 3
+2024-10-14 17:36:17.215710 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:17.218678 November: Lima, sending you 5
+2024-10-14 17:36:17.220663 Juliett: Lima and November, sending you 2
+2024-10-14 17:36:17.221959 Yankee: Hotel, sending you 6
+2024-10-14 17:36:17.222253 November: Juliett, sending you 2
+2024-10-14 17:36:17.225983 Yankee: Mike, sending you 7
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 3
+ChatterBot Hotel round 3
+ChatterBot Tango round 3
+ChatterBot Uniform round 3
+ChatterBot Zulu round 3
+ChatterBot Yankee round 3
+ChatterBot Lima round 3
+ChatterBot Mike round 3
+ChatterBot Juliett round 3
+ChatterBot November round 3
+2024-10-14 17:36:18.482908 Tango: We should add Echo
+ChatterBot November reevaluating
+2024-10-14 17:36:18.506769 Zulu: No
+2024-10-14 17:36:18.507406 Lima: No
+2024-10-14 17:36:18.507641 Juliett: No
+2024-10-14 17:36:18.507886 November: Yes
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:36:18.666617 Echo: We should drop Juliett
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:36:18.691280 Tango: No
+2024-10-14 17:36:18.691494 Zulu: No
+2024-10-14 17:36:18.691667 Lima: No
+2024-10-14 17:36:18.692200 November: No
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:36:18.793354 Tango: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 17:36:18.799888 Echo: No
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:36:18.831903 Mike: We should drop Echo
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:18.839878 Yankee: Yes
+2024-10-14 17:36:18.840006 Hotel: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:18.854792 November: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 17:36:18.859783 Echo: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:18.888593 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:18.889065 Tango: Echo, Zulu, Juliett and November, sending you 3
+2024-10-14 17:36:18.889937 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:18.890307 Yankee: Hotel, sending you 6
+2024-10-14 17:36:18.900195 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:18.900587 Tango: Lima, sending you 4
+2024-10-14 17:36:18.901631 Lima: Juliett, sending you 2
+2024-10-14 17:36:18.901935 Yankee: Mike, sending you 7
+2024-10-14 17:36:18.902182 Mike: Hotel, sending you 9
+2024-10-14 17:36:18.906202 Echo: Hotel, sending you 7
+2024-10-14 17:36:18.907617 November: Echo, Tango, Zulu and Juliett, sending you 2
+2024-10-14 17:36:18.908689 Mike: Yankee, sending you 8
+2024-10-14 17:36:18.910672 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:18.911437 Echo: Yankee, sending you 5
+2024-10-14 17:36:18.911743 Hotel: Yankee, sending you 8
+2024-10-14 17:36:18.914637 November: Lima, sending you 3
+2024-10-14 17:36:18.915794 Zulu: Juliett, sending you 5
+2024-10-14 17:36:18.917671 Echo: Mike, sending you 6
+2024-10-14 17:36:18.917987 Hotel: Mike, sending you 10
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Echo round 4
+ChatterBot Hotel round 4
+ChatterBot Tango round 4
+ChatterBot Uniform round 4
+ChatterBot Zulu round 4
+ChatterBot Yankee round 4
+2024-10-14 17:36:20.069235 Hotel: We should add Echo and Uniform
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:20.076747 Yankee: No
+2024-10-14 17:36:20.076926 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:20.091972 Yankee: We should add Echo
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:20.099106 Hotel: Yes
+2024-10-14 17:36:20.099232 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima round 4
+ChatterBot Mike round 4
+ChatterBot Juliett round 4
+ChatterBot November round 4
+2024-10-14 17:36:20.200955 Mike: Echo we want you to join our group
+2024-10-14 17:36:20.205316 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:20.216998 Mike: We should add Echo
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:20.225201 Yankee: Yes
+2024-10-14 17:36:20.225700 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:20.270100 Tango: We should drop Echo
+2024-10-14 17:36:20.292451 Zulu: Yes
+2024-10-14 17:36:20.292742 Lima: Yes
+2024-10-14 17:36:20.292936 Juliett: Yes
+2024-10-14 17:36:20.293167 November: Yes
+2024-10-14 17:36:20.372203 Yankee: Echo we want you to join our group
+2024-10-14 17:36:20.378303 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:20.396985 Echo: Tango, sending you 5
+2024-10-14 17:36:20.401672 Echo: Zulu, sending you 3
+2024-10-14 17:36:20.402772 Zulu: Tango and Lima, sending you 4
+2024-10-14 17:36:20.404666 Hotel: Echo we want you to join our group
+2024-10-14 17:36:20.409207 Echo: No
+2024-10-14 17:36:20.421555 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:20.422031 Echo: Lima, sending you 2
+2024-10-14 17:36:20.423142 Zulu: Juliett, sending you 6
+2024-10-14 17:36:20.424783 Lima: Juliett, sending you 2
+2024-10-14 17:36:20.425665 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:20.427670 Echo: Juliett and November, sending you 4
+2024-10-14 17:36:20.428535 Zulu: November, sending you 3
+2024-10-14 17:36:20.428942 Tango: Zulu, Juliett and November, sending you 4
+2024-10-14 17:36:20.429333 Yankee: Echo, sending you 3
+2024-10-14 17:36:20.429720 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:20.432199 Tango: Lima, sending you 5
+2024-10-14 17:36:20.432756 Yankee: Hotel, sending you 4
+2024-10-14 17:36:20.434665 November: Tango and Juliett, sending you 2
+2024-10-14 17:36:20.436678 Hotel: Echo, sending you 4
+2024-10-14 17:36:20.437404 Yankee: Mike, sending you 6
+2024-10-14 17:36:20.438668 November: Zulu, sending you 3
+2024-10-14 17:36:20.441669 Hotel: Yankee, sending you 6
+2024-10-14 17:36:20.442124 November: Lima, sending you 4
+2024-10-14 17:36:20.444674 Mike: Echo, sending you 5
+2024-10-14 17:36:20.446670 Hotel: Mike, sending you 8
+2024-10-14 17:36:20.449672 Mike: Hotel and Yankee, sending you 6
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Echo round 5
+ChatterBot Hotel round 5
+ChatterBot Tango round 5
+ChatterBot Uniform round 5
+ChatterBot Zulu round 5
+ChatterBot Yankee round 5
+ChatterBot Lima round 5
+ChatterBot Mike round 5
+ChatterBot Juliett round 5
+ChatterBot November round 5
+2024-10-14 17:36:21.659680 Hotel: Echo, sending you 2
+2024-10-14 17:36:21.662665 Tango: Zulu, Juliett and November, sending you 4
+2024-10-14 17:36:21.663654 Echo: Tango, sending you 5
+2024-10-14 17:36:21.664034 Hotel: Yankee, sending you 7
+2024-10-14 17:36:21.665841 Tango: Lima, sending you 5
+2024-10-14 17:36:21.667666 Hotel: Mike, sending you 9
+2024-10-14 17:36:21.668674 Echo: Zulu, sending you 3
+2024-10-14 17:36:21.669591 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:21.671689 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:21.672670 Mike: Echo, sending you 4
+2024-10-14 17:36:21.672986 Echo: Lima, sending you 2
+2024-10-14 17:36:21.674981 Zulu: Juliett, sending you 5
+2024-10-14 17:36:21.675665 Yankee: Echo, sending you 3
+2024-10-14 17:36:21.675981 Echo: Juliett and November, sending you 4
+2024-10-14 17:36:21.676684 Lima: Juliett, sending you 2
+2024-10-14 17:36:21.678073 Mike: Hotel, sending you 7
+2024-10-14 17:36:21.680651 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:21.681664 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:21.682354 Mike: Yankee, sending you 6
+2024-10-14 17:36:21.683659 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:21.684860 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:21.689694 November: Juliett, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+ChatterBot Echo round 6
+ChatterBot Hotel round 6
+ChatterBot Tango round 6
+ChatterBot Uniform round 6
+ChatterBot Zulu round 6
+ChatterBot Yankee round 6
+ChatterBot Lima round 6
+ChatterBot Mike round 6
+ChatterBot Juliett round 6
+ChatterBot November round 6
+2024-10-14 17:36:22.899677 Tango: Zulu, Juliett and November, sending you 4
+2024-10-14 17:36:22.902674 Tango: Lima, sending you 5
+2024-10-14 17:36:22.907685 Echo: Hotel, sending you 5
+2024-10-14 17:36:22.909066 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:22.909959 Hotel: Echo, sending you 2
+2024-10-14 17:36:22.911672 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:22.912710 Lima: Juliett, sending you 2
+2024-10-14 17:36:22.913560 Hotel: Yankee, sending you 7
+2024-10-14 17:36:22.914245 Echo: Yankee, sending you 6
+2024-10-14 17:36:22.916705 Zulu: Juliett, sending you 5
+2024-10-14 17:36:22.917557 Hotel: Mike, sending you 9
+2024-10-14 17:36:22.919694 Echo: Mike, sending you 7
+2024-10-14 17:36:22.920712 Mike: Echo, sending you 4
+2024-10-14 17:36:22.921241 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:22.921863 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:22.922533 Yankee: Echo, sending you 3
+2024-10-14 17:36:22.924709 Mike: Hotel, sending you 7
+2024-10-14 17:36:22.926679 November: Juliett, sending you 2
+2024-10-14 17:36:22.927445 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:22.928074 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:22.928583 Mike: Yankee, sending you 6
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Echo round 7
+ChatterBot Hotel round 7
+ChatterBot Tango round 7
+ChatterBot Uniform round 7
+ChatterBot Zulu round 7
+ChatterBot Yankee round 7
+ChatterBot Lima round 7
+ChatterBot Mike round 7
+ChatterBot Juliett round 7
+ChatterBot November round 7
+2024-10-14 17:36:24.099668 Echo: Hotel, sending you 5
+2024-10-14 17:36:24.100182 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:24.101335 Tango: Zulu, Lima and November, sending you 4
+2024-10-14 17:36:24.101868 Yankee: Echo, sending you 3
+2024-10-14 17:36:24.102665 Hotel: Echo, sending you 2
+2024-10-14 17:36:24.103688 Echo: Yankee, sending you 6
+2024-10-14 17:36:24.104923 Zulu: Juliett, sending you 5
+2024-10-14 17:36:24.105623 Tango: Juliett, sending you 5
+2024-10-14 17:36:24.106358 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:24.107034 Mike: Echo, sending you 4
+2024-10-14 17:36:24.107444 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:24.108443 Hotel: Yankee, sending you 7
+2024-10-14 17:36:24.109669 Echo: Mike, sending you 7
+2024-10-14 17:36:24.110135 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:24.110689 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:24.111151 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:24.112006 Mike: Hotel, sending you 7
+2024-10-14 17:36:24.113670 Hotel: Mike, sending you 9
+2024-10-14 17:36:24.114174 November: Juliett, sending you 2
+2024-10-14 17:36:24.114663 Mike: Yankee, sending you 6
+2024-10-14 17:36:24.116667 Lima: Juliett, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Echo round 8
+ChatterBot Hotel round 8
+ChatterBot Tango round 8
+ChatterBot Uniform round 8
+ChatterBot Zulu round 8
+ChatterBot Yankee round 8
+ChatterBot Lima round 8
+ChatterBot Mike round 8
+ChatterBot Juliett round 8
+ChatterBot November round 8
+2024-10-14 17:36:25.340697 Echo: We should drop Yankee
+2024-10-14 17:36:25.346004 Hotel: No
+2024-10-14 17:36:25.346160 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:25.383695 Hotel: Echo, sending you 3
+2024-10-14 17:36:25.386679 Echo: Hotel, sending you 5
+2024-10-14 17:36:25.387377 Tango: Zulu, Lima and Juliett, sending you 5
+2024-10-14 17:36:25.389077 Hotel: Yankee, sending you 6
+2024-10-14 17:36:25.389755 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:25.390352 Echo: Yankee, sending you 6
+2024-10-14 17:36:25.390740 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:25.391685 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:25.392080 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:25.392651 Tango: November, sending you 3
+2024-10-14 17:36:25.393082 Yankee: Echo, sending you 3
+2024-10-14 17:36:25.393871 Zulu: Juliett, sending you 5
+2024-10-14 17:36:25.394237 Echo: Mike, sending you 7
+2024-10-14 17:36:25.394718 Hotel: Mike, sending you 9
+2024-10-14 17:36:25.395566 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:25.396670 Lima: Juliett, sending you 2
+2024-10-14 17:36:25.397727 November: Juliett, sending you 2
+2024-10-14 17:36:25.398978 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:25.401649 Mike: Echo, sending you 4
+2024-10-14 17:36:25.405652 Mike: Hotel, sending you 7
+2024-10-14 17:36:25.409686 Mike: Yankee, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 9
+ChatterBot Hotel round 9
+ChatterBot Tango round 9
+ChatterBot Uniform round 9
+ChatterBot Zulu round 9
+ChatterBot Yankee round 9
+ChatterBot Lima round 9
+ChatterBot Mike round 9
+ChatterBot Juliett round 9
+ChatterBot November round 9
+2024-10-14 17:36:26.678680 Echo: Hotel, sending you 5
+2024-10-14 17:36:26.681671 Echo: Yankee, sending you 6
+2024-10-14 17:36:26.684042 Yankee: Echo, sending you 3
+2024-10-14 17:36:26.684460 Tango: Zulu, Lima and Juliett, sending you 5
+2024-10-14 17:36:26.684920 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:26.685337 Hotel: Echo, sending you 3
+2024-10-14 17:36:26.685689 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:26.686130 Echo: Mike, sending you 7
+2024-10-14 17:36:26.686457 Mike: Echo, sending you 5
+2024-10-14 17:36:26.686840 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:26.688680 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:26.689039 Tango: November, sending you 3
+2024-10-14 17:36:26.689437 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:26.689840 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:26.690665 Hotel: Yankee, sending you 6
+2024-10-14 17:36:26.691042 Lima: Juliett, sending you 2
+2024-10-14 17:36:26.691457 Mike: Hotel and Yankee, sending you 6
+2024-10-14 17:36:26.691889 November: Juliett, sending you 2
+2024-10-14 17:36:26.693708 Zulu: Juliett, sending you 5
+2024-10-14 17:36:26.694679 Hotel: Mike, sending you 9
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Echo round 10
+ChatterBot Hotel round 10
+ChatterBot Tango round 10
+ChatterBot Uniform round 10
+ChatterBot Zulu round 10
+ChatterBot Yankee round 10
+ChatterBot Lima round 10
+ChatterBot Mike round 10
+ChatterBot Juliett round 10
+ChatterBot November round 10
+2024-10-14 17:36:27.918662 Tango: Zulu, Lima and Juliett, sending you 5
+2024-10-14 17:36:27.919420 Echo: Hotel, sending you 5
+2024-10-14 17:36:27.922672 Tango: November, sending you 3
+2024-10-14 17:36:27.923650 Echo: Yankee, sending you 6
+2024-10-14 17:36:27.928659 Echo: Mike, sending you 7
+2024-10-14 17:36:27.935676 Zulu: Tango, Lima and November, sending you 4
+2024-10-14 17:36:27.936568 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:27.937369 Mike: Echo, sending you 5
+2024-10-14 17:36:27.938104 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:27.939471 Yankee: Echo, sending you 3
+2024-10-14 17:36:27.940311 Hotel: Echo, sending you 3
+2024-10-14 17:36:27.941123 Zulu: Juliett, sending you 5
+2024-10-14 17:36:27.942499 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:27.943387 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:27.944284 Mike: Hotel and Yankee, sending you 6
+2024-10-14 17:36:27.945470 November: Juliett, sending you 2
+2024-10-14 17:36:27.946250 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:27.946871 Hotel: Yankee, sending you 6
+2024-10-14 17:36:27.948652 Lima: Juliett, sending you 2
+2024-10-14 17:36:27.950682 Hotel: Mike, sending you 9
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Echo round 11
+ChatterBot Hotel round 11
+ChatterBot Tango round 11
+ChatterBot Uniform round 11
+ChatterBot Zulu round 11
+ChatterBot Yankee round 11
+ChatterBot Lima round 11
+ChatterBot Mike round 11
+ChatterBot Juliett round 11
+ChatterBot November round 11
+2024-10-14 17:36:29.153895 Echo: We should drop Yankee
+2024-10-14 17:36:29.160012 Hotel: No
+2024-10-14 17:36:29.160167 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:29.192650 Tango: Zulu, Lima and Juliett, sending you 5
+2024-10-14 17:36:29.195041 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:29.195676 Mike: Echo, sending you 5
+2024-10-14 17:36:29.196133 Zulu: Tango, sending you 5
+2024-10-14 17:36:29.197690 Tango: November, sending you 3
+2024-10-14 17:36:29.198657 Yankee: Echo, sending you 3
+2024-10-14 17:36:29.199103 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:29.200673 Lima: Juliett, sending you 2
+2024-10-14 17:36:29.201150 Mike: Hotel and Yankee, sending you 6
+2024-10-14 17:36:29.201671 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:29.202309 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:29.202813 Echo: Hotel, sending you 5
+2024-10-14 17:36:29.203310 Hotel: Echo, sending you 4
+2024-10-14 17:36:29.204782 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:29.206672 November: Juliett, sending you 2
+2024-10-14 17:36:29.207327 Echo: Yankee, sending you 6
+2024-10-14 17:36:29.207757 Hotel: Yankee, sending you 6
+2024-10-14 17:36:29.210675 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:29.211672 Hotel: Mike, sending you 8
+2024-10-14 17:36:29.212674 Echo: Mike, sending you 7
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+ChatterBot Echo round 12
+ChatterBot Hotel round 12
+ChatterBot Tango round 12
+ChatterBot Uniform round 12
+ChatterBot Zulu round 12
+ChatterBot Yankee round 12
+ChatterBot Lima round 12
+ChatterBot Mike round 12
+ChatterBot Juliett round 12
+ChatterBot November round 12
+2024-10-14 17:36:30.380729 Echo: We should drop Hotel
+ChatterBot Mike reevaluating
+2024-10-14 17:36:30.387081 Yankee: No
+2024-10-14 17:36:30.387216 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:30.401677 Hotel: Echo, sending you 4
+2024-10-14 17:36:30.402712 Tango: Zulu and Juliett, sending you 5
+2024-10-14 17:36:30.405316 Mike: We should drop Echo
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:30.413444 Yankee: No
+2024-10-14 17:36:30.413618 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:30.431223 Tango: Lima and November, sending you 4
+2024-10-14 17:36:30.434804 Yankee: Echo and Hotel, sending you 4
+2024-10-14 17:36:30.435541 November: Tango and Juliett, sending you 2
+2024-10-14 17:36:30.436108 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:30.436768 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:30.437397 Zulu: Tango, sending you 5
+2024-10-14 17:36:30.439679 Yankee: Mike, sending you 5
+2024-10-14 17:36:30.440331 November: Zulu, sending you 4
+2024-10-14 17:36:30.441141 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:30.442160 Lima: Juliett, sending you 2
+2024-10-14 17:36:30.443259 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:30.444972 November: Lima, sending you 3
+2024-10-14 17:36:30.450704 Echo: Hotel, sending you 5
+2024-10-14 17:36:30.454684 Echo: Yankee, sending you 6
+2024-10-14 17:36:30.455435 Mike: Hotel, sending you 9
+2024-10-14 17:36:30.458702 Echo: Mike, sending you 7
+2024-10-14 17:36:30.460033 Mike: Yankee, sending you 8
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 13
+ChatterBot Hotel round 13
+ChatterBot Tango round 13
+ChatterBot Uniform round 13
+ChatterBot Zulu round 13
+ChatterBot Yankee round 13
+ChatterBot Lima round 13
+ChatterBot Mike round 13
+ChatterBot Juliett round 13
+ChatterBot November round 13
+2024-10-14 17:36:31.679708 Echo: Sending you each 6
+2024-10-14 17:36:31.681179 Zulu: Tango, sending you 5
+2024-10-14 17:36:31.685698 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:31.690671 Yankee: Echo and Hotel, sending you 4
+2024-10-14 17:36:31.691840 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:31.694680 Tango: Zulu and Juliett, sending you 5
+2024-10-14 17:36:31.695803 Yankee: Mike, sending you 5
+2024-10-14 17:36:31.697081 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:31.697987 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:31.699454 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:31.700709 Tango: Lima and November, sending you 4
+2024-10-14 17:36:31.702138 November: Juliett, sending you 2
+2024-10-14 17:36:31.702979 Lima: Juliett, sending you 2
+2024-10-14 17:36:31.705680 Mike: Hotel, sending you 9
+2024-10-14 17:36:31.708670 Mike: Yankee, sending you 8
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 14
+ChatterBot Hotel round 14
+ChatterBot Tango round 14
+ChatterBot Uniform round 14
+ChatterBot Zulu round 14
+ChatterBot Yankee round 14
+ChatterBot Lima round 14
+ChatterBot Mike round 14
+ChatterBot Juliett round 14
+ChatterBot November round 14
+2024-10-14 17:36:32.834198 Hotel: We should drop Echo
+2024-10-14 17:36:32.845128 Yankee: No
+2024-10-14 17:36:32.846121 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:32.883678 Echo: Hotel, sending you 6
+2024-10-14 17:36:32.885286 Zulu: Tango, sending you 5
+2024-10-14 17:36:32.889706 Echo: Yankee, sending you 7
+2024-10-14 17:36:32.891292 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:32.893363 Yankee: Echo and Hotel, sending you 4
+2024-10-14 17:36:32.894500 Mike: Hotel, sending you 9
+2024-10-14 17:36:32.894910 Echo: Mike, sending you 5
+2024-10-14 17:36:32.896677 Yankee: Mike, sending you 5
+2024-10-14 17:36:32.899951 Mike: Yankee, sending you 8
+2024-10-14 17:36:32.900564 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:32.901971 Tango: Zulu and Juliett, sending you 5
+2024-10-14 17:36:32.902780 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:32.904110 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:32.906711 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:32.908216 Tango: Lima and November, sending you 4
+2024-10-14 17:36:32.908797 Lima: Juliett, sending you 2
+2024-10-14 17:36:32.910194 November: Juliett, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 15
+ChatterBot Hotel round 15
+ChatterBot Tango round 15
+ChatterBot Uniform round 15
+ChatterBot Zulu round 15
+ChatterBot Yankee round 15
+ChatterBot Lima round 15
+ChatterBot Mike round 15
+ChatterBot Juliett round 15
+ChatterBot November round 15
+2024-10-14 17:36:34.205684 Tango: Zulu and Juliett, sending you 5
+2024-10-14 17:36:34.207003 Echo: Hotel, sending you 6
+2024-10-14 17:36:34.210673 Tango: Lima and November, sending you 4
+2024-10-14 17:36:34.211523 Echo: Yankee, sending you 7
+2024-10-14 17:36:34.212114 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:34.219646 Echo: Mike, sending you 5
+2024-10-14 17:36:34.222738 November: Juliett, sending you 2
+2024-10-14 17:36:34.224849 Yankee: Echo and Hotel, sending you 4
+2024-10-14 17:36:34.226371 Mike: Hotel, sending you 9
+2024-10-14 17:36:34.229215 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:34.236280 Zulu: Tango, sending you 5
+2024-10-14 17:36:34.237815 Yankee: Mike, sending you 5
+2024-10-14 17:36:34.241881 Mike: Yankee, sending you 8
+2024-10-14 17:36:34.242837 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:34.248071 Lima: Juliett, sending you 2
+2024-10-14 17:36:34.249946 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:34.254144 Juliett: Lima and November, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Echo round 16
+ChatterBot Hotel round 16
+ChatterBot Tango round 16
+ChatterBot Uniform round 16
+ChatterBot Zulu round 16
+ChatterBot Yankee round 16
+ChatterBot Lima round 16
+ChatterBot Mike round 16
+ChatterBot Juliett round 16
+ChatterBot November round 16
+2024-10-14 17:36:35.408769 Yankee: We should add Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:35.417652 Hotel: Yes
+2024-10-14 17:36:35.417831 Mike: No
+2024-10-14 17:36:35.418218 Echo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:35.461815 Juliett: We should add Uniform
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:35.472206 Zulu: Yes
+2024-10-14 17:36:35.472356 Tango: No
+2024-10-14 17:36:35.472475 Lima: No
+2024-10-14 17:36:35.472585 November: No
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:35.519507 Echo: We should drop Yankee
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:35.525050 Hotel: No
+2024-10-14 17:36:35.525172 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:35.542819 Hotel: We should drop Echo
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:35.549545 Yankee: No
+2024-10-14 17:36:35.549761 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:35.568820 Mike: Hotel, sending you 9
+2024-10-14 17:36:35.569245 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:35.570195 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:35.570773 Zulu: Tango, sending you 5
+2024-10-14 17:36:35.571432 Echo: Hotel, sending you 6
+2024-10-14 17:36:35.572419 Tango: Zulu and Juliett, sending you 5
+2024-10-14 17:36:35.572954 Mike: Yankee, sending you 8
+2024-10-14 17:36:35.573660 Lima: Juliett, sending you 2
+2024-10-14 17:36:35.574671 November: Juliett, sending you 2
+2024-10-14 17:36:35.575764 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:35.576759 Echo: Yankee, sending you 8
+2024-10-14 17:36:35.577252 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:35.578069 Tango: Lima and November, sending you 4
+2024-10-14 17:36:35.580672 Echo: Mike, sending you 4
+2024-10-14 17:36:35.581451 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:35.593686 Yankee: Echo and Hotel, sending you 4
+2024-10-14 17:36:35.597671 Yankee: Mike, sending you 5
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Echo round 17
+ChatterBot Hotel round 17
+ChatterBot Tango round 17
+ChatterBot Uniform round 17
+ChatterBot Zulu round 17
+ChatterBot Yankee round 17
+ChatterBot Lima round 17
+ChatterBot Mike round 17
+ChatterBot Juliett round 17
+ChatterBot November round 17
+2024-10-14 17:36:36.776687 Tango: Zulu and Juliett, sending you 5
+2024-10-14 17:36:36.780695 Tango: Lima and November, sending you 4
+2024-10-14 17:36:36.783118 Echo: Hotel, sending you 6
+2024-10-14 17:36:36.784037 Zulu: Tango, sending you 5
+2024-10-14 17:36:36.788254 Echo: Yankee, sending you 9
+2024-10-14 17:36:36.788907 Mike: Hotel, sending you 9
+2024-10-14 17:36:36.789664 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:36.790698 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:36.791748 Yankee: Echo, sending you 3
+2024-10-14 17:36:36.792545 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:36.793531 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:36.795777 Mike: Yankee, sending you 8
+2024-10-14 17:36:36.796339 Echo: Mike, sending you 3
+2024-10-14 17:36:36.797183 November: Juliett, sending you 2
+2024-10-14 17:36:36.798204 Yankee: Hotel, sending you 4
+2024-10-14 17:36:36.799059 Lima: Juliett, sending you 2
+2024-10-14 17:36:36.801054 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:36.803677 Yankee: Mike, sending you 5
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Echo round 18
+ChatterBot Hotel round 18
+ChatterBot Tango round 18
+ChatterBot Uniform round 18
+ChatterBot Zulu round 18
+ChatterBot Yankee round 18
+ChatterBot Lima round 18
+ChatterBot Mike round 18
+ChatterBot Juliett round 18
+ChatterBot November round 18
+2024-10-14 17:36:38.075642 Hotel: We should drop Echo
+2024-10-14 17:36:38.095203 Yankee: No
+2024-10-14 17:36:38.095551 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:38.129275 Echo: Hotel, sending you 6
+2024-10-14 17:36:38.130195 Zulu: Tango, sending you 5
+2024-10-14 17:36:38.133669 Echo: Yankee, sending you 9
+2024-10-14 17:36:38.135081 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:38.136689 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:38.138734 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:38.140766 Echo: Mike, sending you 3
+2024-10-14 17:36:38.142496 Mike: Hotel, sending you 9
+2024-10-14 17:36:38.142990 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:38.144440 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:38.145520 Yankee: Echo, sending you 3
+2024-10-14 17:36:38.146744 November: Juliett, sending you 2
+2024-10-14 17:36:38.147693 Tango: Zulu, sending you 6
+2024-10-14 17:36:38.148713 Mike: Yankee, sending you 8
+2024-10-14 17:36:38.149025 Lima: Juliett, sending you 2
+2024-10-14 17:36:38.150659 Yankee: Hotel, sending you 4
+2024-10-14 17:36:38.151689 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:38.153678 Yankee: Mike, sending you 5
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 19
+ChatterBot Hotel round 19
+ChatterBot Tango round 19
+ChatterBot Uniform round 19
+ChatterBot Zulu round 19
+ChatterBot Yankee round 19
+ChatterBot Lima round 19
+ChatterBot Mike round 19
+ChatterBot Juliett round 19
+ChatterBot November round 19
+2024-10-14 17:36:39.315265 Lima: We should add Uniform
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:39.394946 Zulu: No
+2024-10-14 17:36:39.395427 Tango: No
+2024-10-14 17:36:39.395862 Juliett: Yes
+2024-10-14 17:36:39.396240 November: No
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:39.536121 Hotel: We should drop Echo
+2024-10-14 17:36:39.544653 Yankee: No
+2024-10-14 17:36:39.544935 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:39.572821 Zulu: Uniform we want you to join our group
+2024-10-14 17:36:39.579073 Uniform: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:36:39.602680 Echo: Hotel, sending you 6
+2024-10-14 17:36:39.605719 Yankee: Echo, sending you 3
+2024-10-14 17:36:39.608507 Tango: Zulu, sending you 6
+2024-10-14 17:36:39.611666 Echo: Yankee, sending you 9
+2024-10-14 17:36:39.614171 Yankee: Hotel, sending you 4
+2024-10-14 17:36:39.616621 Mike: Hotel, sending you 9
+2024-10-14 17:36:39.618649 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:39.622224 Echo: Mike, sending you 3
+2024-10-14 17:36:39.624388 Yankee: Mike, sending you 5
+2024-10-14 17:36:39.626889 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:39.630117 Mike: Yankee, sending you 8
+2024-10-14 17:36:39.632062 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:39.634367 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:39.637623 Lima: Juliett, sending you 2
+2024-10-14 17:36:39.641288 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:39.644471 Zulu: Tango, sending you 5
+2024-10-14 17:36:39.648868 November: Juliett, sending you 2
+2024-10-14 17:36:39.652680 Zulu: Lima, Juliett and November, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 20
+ChatterBot Hotel round 20
+ChatterBot Tango round 20
+ChatterBot Uniform round 20
+ChatterBot Zulu round 20
+ChatterBot Yankee round 20
+ChatterBot Lima round 20
+ChatterBot Mike round 20
+ChatterBot Juliett round 20
+ChatterBot November round 20
+2024-10-14 17:36:40.790204 Hotel: We should drop Echo
+2024-10-14 17:36:40.797196 Yankee: No
+2024-10-14 17:36:40.798340 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:40.814662 Yankee: Echo, sending you 3
+2024-10-14 17:36:40.815406 Zulu: Tango, sending you 5
+2024-10-14 17:36:40.817928 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:40.819140 Tango: Zulu, sending you 6
+2024-10-14 17:36:40.820069 Echo: Hotel, sending you 6
+2024-10-14 17:36:40.821608 Yankee: Hotel, sending you 4
+2024-10-14 17:36:40.822397 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:40.823117 Lima: Juliett, sending you 2
+2024-10-14 17:36:40.824664 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:40.825694 Echo: Yankee, sending you 9
+2024-10-14 17:36:40.828389 Yankee: Mike, sending you 5
+2024-10-14 17:36:40.830813 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:40.833459 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:40.834770 Echo: Mike, sending you 3
+2024-10-14 17:36:40.836782 Mike: Hotel, sending you 9
+2024-10-14 17:36:40.837715 November: Juliett, sending you 2
+2024-10-14 17:36:40.839914 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:40.842031 Mike: Yankee, sending you 8
+chatterbot Yankee submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Echo round 21
+ChatterBot Hotel round 21
+ChatterBot Tango round 21
+ChatterBot Uniform round 21
+ChatterBot Zulu round 21
+ChatterBot Yankee round 21
+ChatterBot Lima round 21
+ChatterBot Mike round 21
+ChatterBot Juliett round 21
+ChatterBot November round 21
+2024-10-14 17:36:42.039869 Zulu: We should add Uniform
+ChatterBot Tango reevaluating
+2024-10-14 17:36:42.056122 Tango: Yes
+2024-10-14 17:36:42.056294 Lima: No
+2024-10-14 17:36:42.056433 Juliett: No
+2024-10-14 17:36:42.056563 November: No
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:42.123291 Echo: We should drop Mike
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:42.130119 Hotel: No
+2024-10-14 17:36:42.130251 Yankee: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:42.157058 Yankee: Echo, sending you 2
+2024-10-14 17:36:42.158822 Hotel: We should drop Echo
+2024-10-14 17:36:42.165375 Yankee: No
+2024-10-14 17:36:42.165609 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:42.180731 Echo: Hotel, sending you 5
+2024-10-14 17:36:42.181871 Yankee: Hotel, sending you 4
+2024-10-14 17:36:42.183655 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:42.185288 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:42.187448 Tango: Zulu, sending you 6
+2024-10-14 17:36:42.189004 Zulu: Tango, sending you 5
+2024-10-14 17:36:42.190377 Echo: Yankee, sending you 10
+2024-10-14 17:36:42.191465 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:42.192456 Yankee: Mike, sending you 5
+2024-10-14 17:36:42.193790 Mike: Hotel, sending you 9
+2024-10-14 17:36:42.194652 November: Juliett, sending you 2
+2024-10-14 17:36:42.195956 Lima: Juliett, sending you 2
+2024-10-14 17:36:42.197674 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:42.199689 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:42.202103 Echo: Mike, sending you 3
+2024-10-14 17:36:42.203449 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:42.206103 Mike: Yankee, sending you 8
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Echo round 22
+ChatterBot Hotel round 22
+ChatterBot Tango round 22
+ChatterBot Uniform round 22
+ChatterBot Zulu round 22
+ChatterBot Yankee round 22
+ChatterBot Lima round 22
+ChatterBot Mike round 22
+ChatterBot Juliett round 22
+ChatterBot November round 22
+2024-10-14 17:36:43.320935 Lima: We should add Uniform
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:43.332691 Zulu: No
+2024-10-14 17:36:43.332868 Tango: No
+2024-10-14 17:36:43.333015 Juliett: Yes
+2024-10-14 17:36:43.333159 November: No
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:43.406982 Hotel: We should drop Echo
+2024-10-14 17:36:43.412699 Yankee: No
+2024-10-14 17:36:43.412859 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:43.426667 Echo: Hotel, sending you 5
+2024-10-14 17:36:43.427888 Zulu: Tango, sending you 5
+2024-10-14 17:36:43.430310 Tango: Zulu, sending you 6
+2024-10-14 17:36:43.432928 Echo: Yankee, sending you 10
+2024-10-14 17:36:43.433947 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:43.439697 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:43.441683 Echo: Mike, sending you 3
+2024-10-14 17:36:43.443743 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:43.446848 Yankee: Echo, sending you 2
+2024-10-14 17:36:43.448988 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:43.451283 November: Juliett, sending you 2
+2024-10-14 17:36:43.454012 Mike: Hotel, sending you 9
+2024-10-14 17:36:43.455202 Yankee: Hotel, sending you 4
+2024-10-14 17:36:43.457437 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:43.459885 Mike: Yankee, sending you 8
+2024-10-14 17:36:43.460772 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:43.463235 Yankee: Mike, sending you 5
+2024-10-14 17:36:43.468039 Lima: Juliett, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 23
+ChatterBot Hotel round 23
+ChatterBot Tango round 23
+ChatterBot Uniform round 23
+ChatterBot Zulu round 23
+ChatterBot Yankee round 23
+ChatterBot Lima round 23
+ChatterBot Mike round 23
+ChatterBot Juliett round 23
+ChatterBot November round 23
+2024-10-14 17:36:44.691174 Hotel: We should drop Echo
+2024-10-14 17:36:44.701819 Yankee: No
+2024-10-14 17:36:44.702014 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:44.719079 Mike: We should add Echo and Uniform
+2024-10-14 17:36:44.719373 Yankee: We should add Uniform
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:44.731369 Yankee: No
+2024-10-14 17:36:44.731542 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:44.748420 Hotel: Yes
+2024-10-14 17:36:44.748658 Mike: Yes
+2024-10-14 17:36:44.749380 Echo: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:44.818693 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:44.821650 Tango: Zulu, sending you 6
+2024-10-14 17:36:44.822486 Zulu: Tango, sending you 5
+2024-10-14 17:36:44.823698 Lima: Juliett, sending you 2
+2024-10-14 17:36:44.824713 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:44.825426 Juliett: Tango, sending you 4
+2024-10-14 17:36:44.826544 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:44.827502 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:44.828152 Mike: Hotel, sending you 9
+2024-10-14 17:36:44.828755 November: Juliett, sending you 2
+2024-10-14 17:36:44.830830 Yankee: Echo, sending you 2
+2024-10-14 17:36:44.831652 Juliett: Zulu, sending you 5
+2024-10-14 17:36:44.832692 Mike: Yankee, sending you 8
+2024-10-14 17:36:44.836657 Yankee: Hotel, sending you 4
+2024-10-14 17:36:44.837678 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:44.841676 Yankee: Mike, sending you 6
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 24
+ChatterBot Hotel round 24
+ChatterBot Tango round 24
+ChatterBot Uniform round 24
+ChatterBot Zulu round 24
+ChatterBot Yankee round 24
+ChatterBot Lima round 24
+ChatterBot Mike round 24
+ChatterBot Juliett round 24
+ChatterBot November round 24
+2024-10-14 17:36:45.844550 Echo: We should add Uniform
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:45.862325 Yankee: Yes
+2024-10-14 17:36:45.862596 Hotel: No
+2024-10-14 17:36:45.862858 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:45.968518 Hotel: We should drop Echo
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:45.979477 Yankee: No
+2024-10-14 17:36:45.980331 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:46.003676 Zulu: Tango, sending you 5
+2024-10-14 17:36:46.005782 Tango: Zulu, sending you 6
+2024-10-14 17:36:46.010683 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:46.012317 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:46.013895 Mike: Hotel, sending you 9
+2024-10-14 17:36:46.014354 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:46.015474 Juliett: Tango, sending you 4
+2024-10-14 17:36:46.017469 Echo: Hotel, sending you 4
+2024-10-14 17:36:46.019312 Mike: Yankee, sending you 8
+2024-10-14 17:36:46.020324 November: Juliett, sending you 2
+2024-10-14 17:36:46.021319 Juliett: Zulu, sending you 5
+2024-10-14 17:36:46.022414 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:46.024498 Echo: Yankee, sending you 11
+2024-10-14 17:36:46.025675 Yankee: Echo, sending you 2
+2024-10-14 17:36:46.027159 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:46.030386 Lima: Juliett, sending you 2
+2024-10-14 17:36:46.032733 Yankee: Hotel, sending you 4
+2024-10-14 17:36:46.034199 Echo: Mike, sending you 3
+2024-10-14 17:36:46.037697 Yankee: Mike, sending you 6
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot November submitting transactions
+ChatterBot Echo round 25
+ChatterBot Hotel round 25
+ChatterBot Tango round 25
+ChatterBot Uniform round 25
+ChatterBot Zulu round 25
+ChatterBot Yankee round 25
+ChatterBot Lima round 25
+ChatterBot Mike round 25
+ChatterBot Juliett round 25
+ChatterBot November round 25
+2024-10-14 17:36:47.385175 Hotel: We should drop Echo
+2024-10-14 17:36:47.394100 Yankee: No
+2024-10-14 17:36:47.394325 Mike: Yes
+2024-10-14 17:36:47.412691 Zulu: Tango, sending you 5
+2024-10-14 17:36:47.414604 Echo: Hotel, sending you 4
+2024-10-14 17:36:47.416315 Tango: Zulu, sending you 6
+2024-10-14 17:36:47.420846 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:47.423089 Echo: Yankee, sending you 12
+2024-10-14 17:36:47.425240 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:47.426902 Yankee: Echo, sending you 1
+2024-10-14 17:36:47.429086 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:47.432592 Mike: Hotel, sending you 9
+2024-10-14 17:36:47.433621 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:47.437518 Echo: Mike, sending you 2
+2024-10-14 17:36:47.439728 Yankee: Hotel, sending you 4
+2024-10-14 17:36:47.441513 Juliett: Tango, sending you 4
+2024-10-14 17:36:47.444148 Mike: Yankee, sending you 8
+2024-10-14 17:36:47.444984 Lima: Juliett, sending you 2
+2024-10-14 17:36:47.447261 November: Juliett, sending you 2
+2024-10-14 17:36:47.450435 Yankee: Mike, sending you 6
+2024-10-14 17:36:47.452920 Juliett: Zulu, sending you 5
+2024-10-14 17:36:47.458697 Juliett: Lima and November, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Echo round 26
+ChatterBot Hotel round 26
+ChatterBot Tango round 26
+ChatterBot Uniform round 26
+ChatterBot Zulu round 26
+ChatterBot Yankee round 26
+ChatterBot Lima round 26
+ChatterBot Mike round 26
+ChatterBot Juliett round 26
+ChatterBot November round 26
+2024-10-14 17:36:48.602928 Mike: We should add Echo and Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:48.608584 Yankee: No
+2024-10-14 17:36:48.608728 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:48.632828 Hotel: We should drop Echo
+ChatterBot Mike reevaluating
+2024-10-14 17:36:48.639378 Yankee: No
+2024-10-14 17:36:48.639520 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:48.679789 Echo: Hotel, sending you 4
+2024-10-14 17:36:48.684680 Echo: Yankee, sending you 12
+2024-10-14 17:36:48.685987 Juliett: Tango, sending you 4
+2024-10-14 17:36:48.692347 Yankee: Echo, sending you 1
+2024-10-14 17:36:48.693770 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:48.695685 Tango: Zulu, sending you 6
+2024-10-14 17:36:48.696684 Zulu: Tango, sending you 5
+2024-10-14 17:36:48.698542 Echo: Mike, sending you 2
+2024-10-14 17:36:48.700288 Juliett: Zulu, sending you 5
+2024-10-14 17:36:48.702365 Yankee: Hotel, sending you 4
+2024-10-14 17:36:48.703097 Lima: Juliett, sending you 2
+2024-10-14 17:36:48.708643 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:48.710904 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:48.713240 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:48.714492 Yankee: Mike, sending you 6
+2024-10-14 17:36:48.716180 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:48.718011 Mike: Hotel, sending you 9
+2024-10-14 17:36:48.722084 November: Juliett, sending you 2
+2024-10-14 17:36:48.726675 Mike: Yankee, sending you 8
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Echo round 27
+ChatterBot Hotel round 27
+ChatterBot Tango round 27
+ChatterBot Uniform round 27
+ChatterBot Zulu round 27
+ChatterBot Yankee round 27
+ChatterBot Lima round 27
+ChatterBot Mike round 27
+ChatterBot Juliett round 27
+ChatterBot November round 27
+2024-10-14 17:36:49.824997 Yankee: We should add Uniform
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:49.837957 Hotel: Yes
+2024-10-14 17:36:49.838120 Mike: Yes
+2024-10-14 17:36:49.838262 Echo: No
+ChatterBot Mike reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:50.004024 Mike: We should add Echo and Uniform
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:50.022531 Yankee: No
+2024-10-14 17:36:50.022806 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:36:50.045011 Hotel: We should drop Echo
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:50.054172 Yankee: No
+2024-10-14 17:36:50.054538 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:50.072997 Echo: Uniform we want you to join our group
+2024-10-14 17:36:50.077180 Uniform: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:36:50.102668 Zulu: Tango, sending you 5
+2024-10-14 17:36:50.105533 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:50.108339 Tango: Zulu, sending you 6
+2024-10-14 17:36:50.111056 Juliett: Tango, sending you 4
+2024-10-14 17:36:50.113677 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:50.115237 Lima: Juliett, sending you 2
+2024-10-14 17:36:50.118245 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:50.121247 Juliett: Zulu, sending you 5
+2024-10-14 17:36:50.123480 Mike: Hotel, sending you 9
+2024-10-14 17:36:50.127678 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:50.130602 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:50.132406 Mike: Yankee, sending you 8
+2024-10-14 17:36:50.134032 Yankee: Echo, sending you 1
+2024-10-14 17:36:50.136657 November: Juliett, sending you 2
+2024-10-14 17:36:50.140667 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:50.142748 Echo: Hotel and Mike, sending you 3
+2024-10-14 17:36:50.146674 Echo: Yankee, sending you 12
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Echo round 28
+ChatterBot Hotel round 28
+ChatterBot Tango round 28
+ChatterBot Uniform round 28
+ChatterBot Zulu round 28
+ChatterBot Yankee round 28
+ChatterBot Lima round 28
+ChatterBot Mike round 28
+ChatterBot Juliett round 28
+ChatterBot November round 28
+2024-10-14 17:36:51.375810 Echo: We should add Uniform
+ChatterBot Hotel reevaluating
+2024-10-14 17:36:51.398500 Yankee: No
+2024-10-14 17:36:51.399956 Hotel: No
+2024-10-14 17:36:51.401193 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:51.461933 Tango: We should add Uniform
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:36:51.490950 Zulu: Yes
+2024-10-14 17:36:51.491340 Lima: Yes
+2024-10-14 17:36:51.491673 Juliett: Yes
+2024-10-14 17:36:51.491980 November: Yes
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:36:51.634023 Tango: Uniform we want you to join our group
+2024-10-14 17:36:51.642450 Uniform: No
+ChatterBot Zulu reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:36:51.673027 Hotel: We should drop Echo
+2024-10-14 17:36:51.682660 Yankee: No
+2024-10-14 17:36:51.682936 Mike: Yes
+2024-10-14 17:36:51.702823 Zulu: Uniform we want you to join our group
+2024-10-14 17:36:51.709512 Uniform: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:51.723523 Juliett: Uniform we want you to join our group
+2024-10-14 17:36:51.726812 Uniform: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:51.739880 Lima: Uniform we want you to join our group
+2024-10-14 17:36:51.743274 Uniform: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:51.759695 November: Uniform we want you to join our group
+2024-10-14 17:36:51.764280 Uniform: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:36:51.778006 Yankee: Echo, sending you 1
+2024-10-14 17:36:51.781656 Mike: Hotel, sending you 9
+2024-10-14 17:36:51.782655 Yankee: Hotel and Mike, sending you 5
+2024-10-14 17:36:51.784243 Tango: Uniform, sending you 2
+2024-10-14 17:36:51.785894 Echo: Hotel and Mike, sending you 3
+2024-10-14 17:36:51.786546 Mike: Yankee, sending you 8
+2024-10-14 17:36:51.789674 Echo: Yankee, sending you 12
+2024-10-14 17:36:51.791466 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:51.793602 Tango: Zulu, Lima, Juliett and November, sending you 4
+2024-10-14 17:36:51.795576 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:51.797724 Juliett: Uniform, sending you 1
+2024-10-14 17:36:51.800915 Lima: Juliett, sending you 2
+2024-10-14 17:36:51.801919 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:51.803694 Juliett: Lima and November, sending you 3
+2024-10-14 17:36:51.805676 November: Juliett, sending you 2
+2024-10-14 17:36:51.808670 Zulu: Tango, sending you 5
+2024-10-14 17:36:51.811673 Zulu: Lima, Juliett and November, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Echo round 29
+ChatterBot Hotel round 29
+ChatterBot Tango round 29
+ChatterBot Uniform round 29
+ChatterBot Zulu round 29
+ChatterBot Yankee round 29
+ChatterBot Lima round 29
+ChatterBot Mike round 29
+ChatterBot Juliett round 29
+ChatterBot November round 29
+2024-10-14 17:36:52.918275 Echo: We should drop Yankee
+2024-10-14 17:36:52.925978 Hotel: No
+2024-10-14 17:36:52.926591 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 17:36:52.947662 Yankee: We should drop Echo
+2024-10-14 17:36:52.957093 Hotel: Yes
+2024-10-14 17:36:52.957261 Mike: Yes
+2024-10-14 17:36:52.978678 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:52.981678 Tango: Uniform, sending you 2
+2024-10-14 17:36:52.985334 Zulu: Tango, sending you 5
+2024-10-14 17:36:52.989075 Lima: Juliett, sending you 2
+2024-10-14 17:36:52.992826 Tango: Zulu, Lima, Juliett and November, sending you 4
+2024-10-14 17:36:52.996359 Zulu: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:53.000321 Yankee: Hotel, sending you 6
+2024-10-14 17:36:53.003194 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:53.006934 Mike: Hotel, sending you 9
+2024-10-14 17:36:53.010076 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:53.016142 Echo: Hotel and Mike, sending you 3
+2024-10-14 17:36:53.019800 Yankee: Mike, sending you 7
+2024-10-14 17:36:53.022584 Juliett: Uniform, sending you 1
+2024-10-14 17:36:53.025906 Mike: Yankee, sending you 8
+2024-10-14 17:36:53.028387 November: Juliett, sending you 2
+2024-10-14 17:36:53.031566 Echo: Yankee, sending you 12
+2024-10-14 17:36:53.035098 Juliett: Lima and November, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Echo round 30
+ChatterBot Hotel round 30
+ChatterBot Tango round 30
+ChatterBot Uniform round 30
+ChatterBot Zulu round 30
+ChatterBot Yankee round 30
+ChatterBot Lima round 30
+ChatterBot Mike round 30
+ChatterBot Juliett round 30
+ChatterBot November round 30
+2024-10-14 17:36:54.093230 Hotel: We should drop Echo
+2024-10-14 17:36:54.100652 Yankee: Yes
+2024-10-14 17:36:54.100842 Mike: Yes
+2024-10-14 17:36:54.121677 Tango: Zulu, sending you 6
+2024-10-14 17:36:54.125125 Echo: Hotel and Mike, sending you 3
+2024-10-14 17:36:54.130987 Tango: Lima, Juliett and November, sending you 4
+2024-10-14 17:36:54.132025 November: Tango, Zulu and Lima, sending you 3
+2024-10-14 17:36:54.132970 Echo: Yankee, sending you 12
+2024-10-14 17:36:54.135074 Yankee: Hotel, sending you 6
+2024-10-14 17:36:54.139031 November: Juliett, sending you 2
+2024-10-14 17:36:54.140661 Juliett: Tango and Zulu, sending you 4
+2024-10-14 17:36:54.143939 Mike: Hotel, sending you 9
+2024-10-14 17:36:54.146015 Lima: Tango, Zulu and November, sending you 3
+2024-10-14 17:36:54.149556 Yankee: Mike, sending you 7
+2024-10-14 17:36:54.151320 Zulu: Tango, Lima, Juliett and November, sending you 4
+2024-10-14 17:36:54.153674 Juliett: Uniform, sending you 1
+2024-10-14 17:36:54.156829 Mike: Yankee, sending you 8
+2024-10-14 17:36:54.158484 Lima: Juliett, sending you 2
+2024-10-14 17:36:54.161107 Zulu: Uniform, sending you 1
+2024-10-14 17:36:54.162376 Juliett: Lima and November, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions

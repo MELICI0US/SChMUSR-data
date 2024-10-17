@@ -1,0 +1,1585 @@
+ChatterBot Romeo round 1
+ChatterBot Hotel round 1
+ChatterBot Quebec round 1
+ChatterBot Alpha round 1
+ChatterBot Echo round 1
+ChatterBot Delta round 1
+ChatterBot Golf round 1
+ChatterBot Foxtrot round 1
+ChatterBot Mike round 1
+ChatterBot Bravo round 1
+randomSelections Romeo: {Romeo, Alpha, Delta, Quebec, Golf, Hotel} 
+2024-10-14 19:11:03.220893 Romeo: Group up?
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:03.242482 Alpha: Yes
+2024-10-14 19:11:03.242691 Delta: Yes
+2024-10-14 19:11:03.242844 Quebec: Yes
+2024-10-14 19:11:03.243448 Golf: Yes
+2024-10-14 19:11:03.243588 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+randomSelections Mike: {Mike, Bravo, Golf, Romeo, Foxtrot} 
+2024-10-14 19:11:03.291067 Mike: Friends?
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:03.297569 Bravo: Yes
+2024-10-14 19:11:03.297698 Golf: No
+2024-10-14 19:11:03.297832 Romeo: No
+2024-10-14 19:11:03.297948 Foxtrot: Yes
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+randomSelections Echo: {Echo, Romeo, Hotel, Mike, Alpha, Foxtrot} 
+2024-10-14 19:11:03.393964 Echo: We would work well together
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:03.410647 Romeo: No
+2024-10-14 19:11:03.410965 Hotel: No
+2024-10-14 19:11:03.411246 Mike: No
+2024-10-14 19:11:03.412084 Alpha: No
+2024-10-14 19:11:03.412551 Foxtrot: No
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:11:03.493312 Romeo: Hotel, sending you 7
+2024-10-14 19:11:03.495535 Quebec: Romeo and Hotel, sending you 5
+2024-10-14 19:11:03.497353 Mike: Romeo, sending you 7
+2024-10-14 19:11:03.503647 Romeo: Quebec, sending you 4
+2024-10-14 19:11:03.505845 Quebec: Alpha, sending you 3
+2024-10-14 19:11:03.507659 Foxtrot: Romeo, sending you 3
+2024-10-14 19:11:03.509147 Hotel: Romeo, sending you 4
+2024-10-14 19:11:03.511234 Mike: Golf, sending you 3
+2024-10-14 19:11:03.512245 Delta: Romeo, sending you 4
+2024-10-14 19:11:03.514576 Alpha: Romeo, Hotel, Quebec, Delta and Golf, sending you 1
+2024-10-14 19:11:03.515151 Golf: Romeo and Alpha, sending you 3
+2024-10-14 19:11:03.517013 Echo: Romeo, sending you 1
+2024-10-14 19:11:03.517948 Romeo: Delta, sending you 5
+2024-10-14 19:11:03.520582 Quebec: Delta, sending you 1
+2024-10-14 19:11:03.522726 Foxtrot: Golf and Bravo, sending you 5
+2024-10-14 19:11:03.524102 Hotel: Quebec and Delta, sending you 3
+2024-10-14 19:11:03.527090 Mike: Foxtrot, sending you 4
+2024-10-14 19:11:03.528119 Delta: Hotel, sending you 3
+2024-10-14 19:11:03.530556 Bravo: Romeo, Golf, Foxtrot and Mike, sending you 1
+2024-10-14 19:11:03.531725 Golf: Hotel, sending you 1
+chatterbot Romeo submitting transactions
+2024-10-14 19:11:03.533864 Echo: Hotel and Foxtrot, sending you 2
+2024-10-14 19:11:03.535381 Romeo: Golf, sending you 1
+2024-10-14 19:11:03.538403 Quebec: Golf, sending you 4
+2024-10-14 19:11:03.540534 Foxtrot: Mike, sending you 4
+2024-10-14 19:11:03.544186 Hotel: Alpha, sending you 5
+2024-10-14 19:11:03.547281 Mike: Bravo, sending you 5
+2024-10-14 19:11:03.548961 Delta: Quebec, sending you 5
+2024-10-14 19:11:03.552236 Golf: Quebec, sending you 5
+2024-10-14 19:11:03.554102 Echo: Alpha, sending you 4
+2024-10-14 19:11:03.566462 Hotel: Golf, sending you 2
+2024-10-14 19:11:03.572051 Delta: Alpha and Golf, sending you 2
+2024-10-14 19:11:03.573484 Golf: Delta, sending you 6
+2024-10-14 19:11:03.575547 Echo: Mike, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 2
+ChatterBot Hotel round 2
+ChatterBot Quebec round 2
+ChatterBot Alpha round 2
+ChatterBot Echo round 2
+ChatterBot Delta round 2
+ChatterBot Golf round 2
+ChatterBot Foxtrot round 2
+ChatterBot Mike round 2
+ChatterBot Bravo round 2
+2024-10-14 19:11:07.395275 Alpha: We should add Echo
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:07.421266 Romeo: No
+2024-10-14 19:11:07.421531 Delta: Yes
+2024-10-14 19:11:07.421777 Quebec: No
+2024-10-14 19:11:07.422426 Golf: No
+2024-10-14 19:11:07.422600 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:07.604672 Foxtrot: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:07.615087 Echo: Yes
+2024-10-14 19:11:07.615287 Mike: Yes
+2024-10-14 19:11:07.615452 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:07.645568 Mike: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:07.656570 Foxtrot: Yes
+2024-10-14 19:11:07.657180 Echo: Yes
+2024-10-14 19:11:07.657397 Bravo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:07.705851 Alpha: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:11:07.710630 Echo: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:07.770966 Romeo: Hotel, Quebec and Delta, sending you 4
+2024-10-14 19:11:07.771466 Hotel: Romeo, sending you 7
+2024-10-14 19:11:07.771858 Quebec: Romeo, sending you 4
+2024-10-14 19:11:07.831298 Romeo: Alpha, sending you 2
+2024-10-14 19:11:07.831826 Hotel: Quebec, sending you 5
+2024-10-14 19:11:07.832826 Quebec: Hotel, sending you 3
+2024-10-14 19:11:07.833429 Foxtrot: Echo, sending you 5
+2024-10-14 19:11:07.834224 Mike: Echo, sending you 2
+2024-10-14 19:11:07.834547 Alpha: Romeo, Hotel, Quebec, Echo, Delta and Golf, sending you 1
+2024-10-14 19:11:07.835054 Bravo: Sending you each 1
+chatterbot Romeo submitting transactions
+2024-10-14 19:11:07.836160 Romeo: Golf, sending you 3
+2024-10-14 19:11:07.836656 Hotel: Alpha and Golf, sending you 1
+2024-10-14 19:11:07.837544 Quebec: Alpha, sending you 1
+2024-10-14 19:11:07.837983 Foxtrot: Mike, sending you 8
+2024-10-14 19:11:07.838701 Mike: Foxtrot, sending you 3
+2024-10-14 19:11:07.838994 Golf: Romeo and Alpha, sending you 2
+2024-10-14 19:11:07.839391 Echo: Sending you each 4
+2024-10-14 19:11:07.840083 Hotel: Delta, sending you 3
+2024-10-14 19:11:07.963178 Delta: Romeo and Golf, sending you 4
+2024-10-14 19:11:07.963694 Quebec: Delta and Golf, sending you 5
+2024-10-14 19:11:07.964461 Foxtrot: Bravo, sending you 3
+2024-10-14 19:11:07.964747 Golf: Hotel and Delta, sending you 4
+2024-10-14 19:11:07.965060 Mike: Bravo, sending you 1
+2024-10-14 19:11:07.996803 Delta: Hotel and Quebec, sending you 3
+2024-10-14 19:11:07.997652 Golf: Quebec, sending you 6
+2024-10-14 19:11:08.017123 Delta: Alpha, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 3
+ChatterBot Hotel round 3
+ChatterBot Quebec round 3
+ChatterBot Alpha round 3
+ChatterBot Echo round 3
+ChatterBot Delta round 3
+ChatterBot Golf round 3
+ChatterBot Foxtrot round 3
+ChatterBot Mike round 3
+ChatterBot Bravo round 3
+2024-10-14 19:11:09.037277 Delta: We should add Bravo
+2024-10-14 19:11:09.064641 Romeo: No
+2024-10-14 19:11:09.064948 Alpha: No
+2024-10-14 19:11:09.065188 Quebec: No
+2024-10-14 19:11:09.065421 Golf: No
+2024-10-14 19:11:09.065689 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.195906 Alpha: We should drop Echo
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.213421 Romeo: Yes
+2024-10-14 19:11:09.213661 Delta: Yes
+2024-10-14 19:11:09.213786 Quebec: Yes
+2024-10-14 19:11:09.213918 Golf: Yes
+2024-10-14 19:11:09.214053 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.336408 Delta: We should add Foxtrot
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.350718 Romeo: No
+2024-10-14 19:11:09.350922 Alpha: No
+2024-10-14 19:11:09.351063 Quebec: No
+2024-10-14 19:11:09.351185 Golf: Yes
+2024-10-14 19:11:09.351308 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.427664 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:09.428821 Delta: Bravo we want you to join our group
+2024-10-14 19:11:09.433317 Bravo: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.456244 Delta: We should add Echo
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.474464 Romeo: No
+2024-10-14 19:11:09.474703 Alpha: No
+2024-10-14 19:11:09.475241 Quebec: No
+2024-10-14 19:11:09.475373 Golf: No
+2024-10-14 19:11:09.475502 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:09.629400 Hotel: Romeo, sending you 5
+2024-10-14 19:11:09.630236 Romeo: Hotel, sending you 5
+2024-10-14 19:11:09.639893 Quebec: Romeo and Hotel, sending you 4
+2024-10-14 19:11:09.640726 Echo: Mike, sending you 4
+chatterbot Quebec submitting transactions
+2024-10-14 19:11:09.642751 Hotel: Quebec, Delta and Golf, sending you 3
+2024-10-14 19:11:09.644545 Romeo: Quebec and Delta, sending you 3
+2024-10-14 19:11:09.646697 Bravo: Same as last round
+2024-10-14 19:11:09.648718 Mike: Echo, sending you 6
+2024-10-14 19:11:09.650576 Quebec: Alpha, sending you 1
+2024-10-14 19:11:09.651732 Echo: Bravo, sending you 3
+2024-10-14 19:11:09.652859 Alpha: Same as last round
+2024-10-14 19:11:09.654448 Foxtrot: Echo, sending you 7
+2024-10-14 19:11:09.655040 Delta: Echo we want you to join our group
+2024-10-14 19:11:09.660928 Echo: No
+ChatterBot Delta reevaluating
+2024-10-14 19:11:09.691794 Hotel: Alpha, sending you 1
+2024-10-14 19:11:09.692699 Romeo: Alpha and Golf, sending you 2
+2024-10-14 19:11:09.694205 Mike: Foxtrot, sending you 9
+2024-10-14 19:11:09.695283 Quebec: Delta, sending you 3
+2024-10-14 19:11:09.696141 Foxtrot: Mike, sending you 8
+2024-10-14 19:11:09.717153 Mike: Bravo, sending you 2
+2024-10-14 19:11:09.717746 Quebec: Golf, sending you 5
+2024-10-14 19:11:09.718934 Golf: Romeo, sending you 3
+2024-10-14 19:11:09.719685 Foxtrot: Bravo, sending you 2
+2024-10-14 19:11:09.739664 Golf: Hotel and Alpha, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 19:11:09.753332 Golf: Quebec, sending you 6
+2024-10-14 19:11:09.807989 Golf: Delta, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 4
+ChatterBot Hotel round 4
+ChatterBot Quebec round 4
+ChatterBot Alpha round 4
+ChatterBot Echo round 4
+ChatterBot Delta round 4
+ChatterBot Golf round 4
+ChatterBot Foxtrot round 4
+ChatterBot Mike round 4
+ChatterBot Bravo round 4
+2024-10-14 19:11:10.544045 Delta: We should replace Bravo with Foxtrot
+2024-10-14 19:11:10.558475 Romeo: No
+2024-10-14 19:11:10.558649 Alpha: No
+2024-10-14 19:11:10.558863 Quebec: No
+2024-10-14 19:11:10.559041 Golf: No
+2024-10-14 19:11:10.559587 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:10.678697 Romeo: Hotel, sending you 5
+2024-10-14 19:11:10.680021 Delta: Foxtrot we want you to join our group
+2024-10-14 19:11:10.685087 Foxtrot: No
+ChatterBot Delta reevaluating
+2024-10-14 19:11:10.707609 Hotel: Romeo, sending you 7
+2024-10-14 19:11:10.708256 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:10.708932 Romeo: Quebec, sending you 4
+2024-10-14 19:11:10.711743 Hotel: Quebec, sending you 5
+2024-10-14 19:11:10.713222 Foxtrot: Echo, sending you 6
+2024-10-14 19:11:10.713674 Quebec: Romeo, sending you 5
+2024-10-14 19:11:10.714652 Golf: Romeo, sending you 4
+2024-10-14 19:11:10.715690 Echo: Mike, sending you 4
+2024-10-14 19:11:10.716046 Romeo: Alpha, sending you 2
+2024-10-14 19:11:10.716688 Alpha: Same as last round
+2024-10-14 19:11:10.717692 Bravo: Same as last round
+2024-10-14 19:11:10.718118 Hotel: Alpha, sending you 1
+2024-10-14 19:11:10.719094 Mike: I was attacked by Romeo, Hotel, Quebec, Alpha, Delta and Golf
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:10.730008 Mike: I'm keeping this round to protect myself
+2024-10-14 19:11:10.731384 Mike: Ow
+2024-10-14 19:11:10.731994 Quebec: Hotel, sending you 4
+2024-10-14 19:11:10.732852 Golf: Hotel and Delta, sending you 3
+2024-10-14 19:11:10.733303 Romeo: Delta and Golf, sending you 3
+2024-10-14 19:11:10.734148 Hotel: Delta, sending you 2
+2024-10-14 19:11:10.735829 Golf: Quebec, sending you 7
+2024-10-14 19:11:10.736676 Quebec: Alpha, sending you 1
+2024-10-14 19:11:10.737870 Hotel: Golf, sending you 3
+2024-10-14 19:11:10.738934 Delta: Romeo, Hotel, Quebec and Golf, sending you 3
+2024-10-14 19:11:10.739946 Golf: Alpha, sending you 2
+2024-10-14 19:11:10.742761 Quebec: Delta, sending you 3
+2024-10-14 19:11:10.744711 Delta: Alpha and Bravo, sending you 2
+2024-10-14 19:11:10.745939 Quebec: Golf, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Romeo round 5
+ChatterBot Hotel round 5
+ChatterBot Quebec round 5
+ChatterBot Alpha round 5
+ChatterBot Echo round 5
+ChatterBot Delta round 5
+ChatterBot Golf round 5
+ChatterBot Foxtrot round 5
+ChatterBot Mike round 5
+ChatterBot Bravo round 5
+2024-10-14 19:11:11.922604 Delta: We should replace Bravo with Echo
+2024-10-14 19:11:11.936481 Romeo: No
+2024-10-14 19:11:11.936662 Alpha: No
+2024-10-14 19:11:11.936802 Quebec: No
+2024-10-14 19:11:11.936922 Golf: No
+2024-10-14 19:11:11.937034 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:12.062127 Quebec: Romeo and Hotel, sending you 4
+2024-10-14 19:11:12.067695 Quebec: Alpha, sending you 1
+2024-10-14 19:11:12.071685 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:12.072810 Quebec: Delta, sending you 3
+2024-10-14 19:11:12.073756 Hotel: Romeo, sending you 6
+2024-10-14 19:11:12.075719 Bravo: Same as last round
+2024-10-14 19:11:12.076267 Echo: Mike, sending you 4
+2024-10-14 19:11:12.076813 Quebec: Golf, sending you 6
+2024-10-14 19:11:12.078682 Golf: Romeo, sending you 4
+2024-10-14 19:11:12.079368 Romeo: Hotel, sending you 5
+2024-10-14 19:11:12.080 Hotel: Quebec, sending you 5
+2024-10-14 19:11:12.081011 Alpha: Same as last round
+2024-10-14 19:11:12.081774 Echo: Bravo, sending you 3
+2024-10-14 19:11:12.082708 Romeo: Quebec, sending you 4
+2024-10-14 19:11:12.084360 Golf: Hotel and Delta, sending you 3
+2024-10-14 19:11:12.085108 Delta: Romeo, Hotel, Quebec and Golf, sending you 3
+2024-10-14 19:11:12.085724 Hotel: Alpha, sending you 1
+2024-10-14 19:11:12.087697 Delta: Alpha and Bravo, sending you 2
+2024-10-14 19:11:12.089398 Romeo: Alpha, sending you 2
+2024-10-14 19:11:12.090383 Golf: Quebec, sending you 7
+2024-10-14 19:11:12.091526 Hotel: Delta and Golf, sending you 3
+2024-10-14 19:11:12.092968 Romeo: Delta and Golf, sending you 3
+2024-10-14 19:11:12.093686 Golf: Alpha, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Romeo round 6
+ChatterBot Hotel round 6
+ChatterBot Quebec round 6
+ChatterBot Alpha round 6
+ChatterBot Echo round 6
+ChatterBot Delta round 6
+ChatterBot Golf round 6
+ChatterBot Foxtrot round 6
+ChatterBot Mike round 6
+ChatterBot Bravo round 6
+2024-10-14 19:11:13.264853 Delta: We should replace Bravo with Foxtrot
+2024-10-14 19:11:13.283533 Romeo: No
+2024-10-14 19:11:13.283803 Alpha: No
+2024-10-14 19:11:13.283982 Quebec: No
+2024-10-14 19:11:13.284152 Golf: No
+2024-10-14 19:11:13.284667 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:13.343088 Mike: We should drop Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:13.347233 Echo: No
+2024-10-14 19:11:13.347354 Foxtrot: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:13.358038 Delta: We should replace Bravo with Echo
+2024-10-14 19:11:13.368409 Romeo: No
+2024-10-14 19:11:13.368584 Alpha: No
+2024-10-14 19:11:13.368728 Quebec: No
+2024-10-14 19:11:13.368855 Golf: No
+2024-10-14 19:11:13.368973 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:13.421496 Quebec: Romeo, Hotel and Golf, sending you 2
+2024-10-14 19:11:13.422168 Romeo: Hotel, sending you 5
+2024-10-14 19:11:13.425846 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:13.426243 Romeo: Quebec, sending you 3
+2024-10-14 19:11:13.427008 Alpha: Same as last round
+2024-10-14 19:11:13.427733 Quebec: Delta, sending you 1
+2024-10-14 19:11:13.428378 Quebec: I was attacked by Mike
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:13.442650 Quebec: Ow
+2024-10-14 19:11:13.443932 Bravo: Same as last round
+2024-10-14 19:11:13.444307 Echo: Mike, sending you 4
+2024-10-14 19:11:13.447693 Mike: Echo, sending you 6
+2024-10-14 19:11:13.448660 Echo: Bravo, sending you 3
+2024-10-14 19:11:13.452661 Mike: Foxtrot, sending you 7
+2024-10-14 19:11:13.456696 Mike: Bravo, sending you 2
+2024-10-14 19:11:13.465664 Delta: Romeo, Hotel, Quebec and Golf, sending you 2
+2024-10-14 19:11:13.469677 Delta: Alpha, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Romeo round 7
+ChatterBot Hotel round 7
+ChatterBot Quebec round 7
+ChatterBot Alpha round 7
+ChatterBot Echo round 7
+ChatterBot Delta round 7
+ChatterBot Golf round 7
+ChatterBot Foxtrot round 7
+ChatterBot Mike round 7
+ChatterBot Bravo round 7
+2024-10-14 19:11:14.538877 Delta: We should replace Bravo with Foxtrot
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:14.554201 Romeo: No
+2024-10-14 19:11:14.554416 Alpha: No
+2024-10-14 19:11:14.554559 Quebec: No
+2024-10-14 19:11:14.554734 Golf: No
+2024-10-14 19:11:14.554902 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:14.636817 Delta: We should replace Bravo with Echo
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:14.649131 Romeo: No
+2024-10-14 19:11:14.649275 Alpha: No
+2024-10-14 19:11:14.649391 Quebec: No
+2024-10-14 19:11:14.649503 Golf: No
+2024-10-14 19:11:14.649635 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:14.720289 Mike: We should drop Bravo
+2024-10-14 19:11:14.724698 Echo: No
+2024-10-14 19:11:14.724827 Foxtrot: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:14.737694 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:14.738667 Quebec: Romeo and Hotel, sending you 3
+2024-10-14 19:11:14.740198 Alpha: Same as last round
+2024-10-14 19:11:14.741160 Bravo: Same as last round
+2024-10-14 19:11:14.741589 Echo: Mike, sending you 4
+2024-10-14 19:11:14.744659 Quebec: Alpha, sending you 1
+2024-10-14 19:11:14.745826 Echo: Bravo, sending you 3
+2024-10-14 19:11:14.750667 Quebec: Delta, sending you 2
+2024-10-14 19:11:14.754688 Delta: Romeo, Hotel, Quebec and Golf, sending you 3
+2024-10-14 19:11:14.758047 Quebec: Golf, sending you 5
+2024-10-14 19:11:14.761691 Delta: Alpha and Bravo, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 8
+ChatterBot Hotel round 8
+ChatterBot Quebec round 8
+ChatterBot Alpha round 8
+ChatterBot Echo round 8
+ChatterBot Delta round 8
+ChatterBot Golf round 8
+ChatterBot Foxtrot round 8
+ChatterBot Mike round 8
+ChatterBot Bravo round 8
+2024-10-14 19:11:15.834664 Quebec: Romeo and Hotel, sending you 3
+2024-10-14 19:11:15.838692 Quebec: Delta, sending you 2
+2024-10-14 19:11:15.840695 Delta: Romeo, Hotel, Quebec and Golf, sending you 3
+2024-10-14 19:11:15.841797 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:15.843694 Delta: Alpha and Bravo, sending you 2
+2024-10-14 19:11:15.844705 Quebec: Golf, sending you 4
+2024-10-14 19:11:15.845648 Quebec: I was attacked by Mike
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:15.861561 Quebec: Ow
+2024-10-14 19:11:15.862536 Echo: Mike, sending you 4
+2024-10-14 19:11:15.865659 Bravo: Same as last round
+2024-10-14 19:11:15.867675 Echo: Bravo, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 9
+ChatterBot Hotel round 9
+ChatterBot Quebec round 9
+ChatterBot Alpha round 9
+ChatterBot Echo round 9
+ChatterBot Delta round 9
+ChatterBot Golf round 9
+ChatterBot Foxtrot round 9
+ChatterBot Mike round 9
+ChatterBot Bravo round 9
+2024-10-14 19:11:17.098077 Delta: We should replace Bravo with Echo
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:17.115833 Romeo: No
+2024-10-14 19:11:17.116062 Alpha: No
+2024-10-14 19:11:17.116423 Quebec: No
+2024-10-14 19:11:17.116666 Golf: No
+2024-10-14 19:11:17.116942 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:17.195444 Bravo: We should add Delta
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:17.203534 Foxtrot: Yes
+2024-10-14 19:11:17.203711 Echo: No
+2024-10-14 19:11:17.203837 Mike: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:17.232608 Foxtrot: We should add Alpha
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:17.240550 Echo: No
+2024-10-14 19:11:17.240698 Mike: No
+2024-10-14 19:11:17.240816 Bravo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:17.267673 Quebec: Romeo and Hotel, sending you 3
+2024-10-14 19:11:17.271688 Quebec: Alpha, sending you 1
+2024-10-14 19:11:17.277695 Quebec: Delta, sending you 2
+2024-10-14 19:11:17.279417 Alpha: Same as last round
+2024-10-14 19:11:17.281697 Bravo: Echo and Mike, sending you 1
+2024-10-14 19:11:17.282683 Quebec: Golf, sending you 4
+2024-10-14 19:11:17.284281 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:17.285668 Delta: Romeo, Hotel, Quebec and Golf, sending you 3
+2024-10-14 19:11:17.287675 Echo: Mike, sending you 4
+2024-10-14 19:11:17.288055 Mike: Echo, sending you 2
+2024-10-14 19:11:17.290693 Delta: Alpha and Bravo, sending you 2
+2024-10-14 19:11:17.291754 Echo: Bravo, sending you 3
+2024-10-14 19:11:17.292688 Mike: Foxtrot, sending you 3
+2024-10-14 19:11:17.296658 Mike: Bravo, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 10
+ChatterBot Hotel round 10
+ChatterBot Quebec round 10
+ChatterBot Alpha round 10
+ChatterBot Echo round 10
+ChatterBot Delta round 10
+ChatterBot Golf round 10
+ChatterBot Foxtrot round 10
+ChatterBot Mike round 10
+ChatterBot Bravo round 10
+2024-10-14 19:11:18.438796 Delta: We should replace Bravo with Echo
+ChatterBot Romeo reevaluating
+2024-10-14 19:11:18.456471 Romeo: No
+2024-10-14 19:11:18.456667 Alpha: No
+2024-10-14 19:11:18.457177 Quebec: No
+2024-10-14 19:11:18.457363 Golf: No
+2024-10-14 19:11:18.457506 Hotel: No
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:18.580677 Delta: Echo we want you to join our group
+2024-10-14 19:11:18.584208 Echo: No
+ChatterBot Delta reevaluating
+2024-10-14 19:11:18.601219 Delta: We should replace Bravo with Foxtrot
+2024-10-14 19:11:18.612756 Romeo: No
+2024-10-14 19:11:18.613384 Alpha: No
+2024-10-14 19:11:18.613522 Quebec: No
+2024-10-14 19:11:18.613668 Golf: No
+2024-10-14 19:11:18.613817 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:18.686698 Bravo: Echo and Mike, sending you 1
+2024-10-14 19:11:18.687771 Mike: Echo, sending you 2
+2024-10-14 19:11:18.688698 Alpha: Same as last round
+2024-10-14 19:11:18.691001 Quebec: Romeo and Delta, sending you 2
+2024-10-14 19:11:18.693510 Echo: Foxtrot, sending you 5
+2024-10-14 19:11:18.695339 Delta: Foxtrot we want you to join our group
+2024-10-14 19:11:18.701938 Foxtrot: No
+ChatterBot Delta reevaluating
+2024-10-14 19:11:18.726087 Mike: Foxtrot, sending you 3
+2024-10-14 19:11:18.726521 Quebec: Hotel, sending you 3
+2024-10-14 19:11:18.727905 Echo: Mike, sending you 4
+2024-10-14 19:11:18.729666 Mike: Bravo, sending you 1
+2024-10-14 19:11:18.730705 Quebec: Golf, sending you 4
+2024-10-14 19:11:18.732595 Quebec: I was attacked by Mike
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:18.752997 Quebec: Ow
+2024-10-14 19:11:18.754733 Echo: Bravo, sending you 3
+2024-10-14 19:11:18.780682 Delta: Romeo, Hotel, Quebec and Golf, sending you 3
+2024-10-14 19:11:18.784739 Delta: Alpha and Bravo, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 11
+ChatterBot Hotel round 11
+ChatterBot Quebec round 11
+ChatterBot Alpha round 11
+ChatterBot Echo round 11
+ChatterBot Delta round 11
+ChatterBot Golf round 11
+ChatterBot Foxtrot round 11
+ChatterBot Mike round 11
+ChatterBot Bravo round 11
+2024-10-14 19:11:19.752438 Delta: We should replace Hotel with Foxtrot
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:19.782031 Romeo: No
+2024-10-14 19:11:19.782316 Quebec: No
+2024-10-14 19:11:19.782501 Alpha: No
+2024-10-14 19:11:19.782693 Golf: No
+2024-10-14 19:11:19.782906 Bravo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:19.952571 Mike: We should drop Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:19.961994 Echo: No
+2024-10-14 19:11:19.962757 Foxtrot: No
+ChatterBot Foxtrot reevaluating
+chatterbot Golf submitting transactions
+2024-10-14 19:11:19.987669 Quebec: Romeo, Hotel and Delta, sending you 2
+2024-10-14 19:11:19.990023 Echo: Foxtrot and Bravo, sending you 3
+2024-10-14 19:11:19.990962 Alpha: Same as last round
+2024-10-14 19:11:19.994213 Echo: Mike, sending you 4
+2024-10-14 19:11:19.995238 Delta: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:20.002715 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:20.022768 Delta: Let's form a team
+2024-10-14 19:11:20.024181 Bravo: We should add Delta
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:20.040133 Romeo: No
+2024-10-14 19:11:20.040292 Quebec: No
+2024-10-14 19:11:20.040412 Alpha: No
+2024-10-14 19:11:20.040530 Golf: No
+2024-10-14 19:11:20.040641 Foxtrot: No
+2024-10-14 19:11:20.041167 Echo: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:20.053456 Foxtrot: No
+2024-10-14 19:11:20.053647 Echo: No
+2024-10-14 19:11:20.053834 Mike: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:20.294336 Quebec: Alpha, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:11:20.307676 Quebec: Golf, sending you 3
+2024-10-14 19:11:20.324672 Bravo: Echo and Mike, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 12
+ChatterBot Hotel round 12
+ChatterBot Quebec round 12
+ChatterBot Alpha round 12
+ChatterBot Echo round 12
+ChatterBot Delta round 12
+ChatterBot Golf round 12
+ChatterBot Foxtrot round 12
+ChatterBot Mike round 12
+ChatterBot Bravo round 12
+2024-10-14 19:11:21.627125 Alpha: Same as last round
+2024-10-14 19:11:21.634605 Delta: Romeo, Hotel, Quebec and Alpha, sending you 2
+2024-10-14 19:11:21.637237 Echo: Foxtrot, sending you 3
+2024-10-14 19:11:21.639022 Bravo: Echo, sending you 1
+2024-10-14 19:11:21.639764 Quebec: Romeo and Hotel, sending you 3
+2024-10-14 19:11:21.642623 Delta: Golf, sending you 3
+2024-10-14 19:11:21.645530 Echo: Mike and Bravo, sending you 4
+2024-10-14 19:11:21.646988 Quebec: Alpha, sending you 1
+2024-10-14 19:11:21.654203 Quebec: Delta, sending you 2
+2024-10-14 19:11:21.660284 Quebec: Golf, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 13
+ChatterBot Hotel round 13
+ChatterBot Quebec round 13
+ChatterBot Alpha round 13
+ChatterBot Echo round 13
+ChatterBot Delta round 13
+ChatterBot Golf round 13
+ChatterBot Foxtrot round 13
+ChatterBot Mike round 13
+ChatterBot Bravo round 13
+2024-10-14 19:11:22.863418 Foxtrot: We should add Delta
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:22.881387 Echo: No
+2024-10-14 19:11:22.881648 Mike: No
+2024-10-14 19:11:22.882283 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:23.049873 Bravo: Delta we want you to join our group
+2024-10-14 19:11:23.059454 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:23.084747 Foxtrot: We should add Quebec
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:23.103820 Echo: No
+2024-10-14 19:11:23.104180 Mike: No
+2024-10-14 19:11:23.104610 Bravo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:23.146238 Delta: I was attacked by Hotel
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:23.173422 Delta: I'm keeping this round to protect myself
+2024-10-14 19:11:23.180877 Delta: Ow
+2024-10-14 19:11:23.182810 Echo: Sending you each 4
+2024-10-14 19:11:23.184447 Foxtrot: Delta we want you to join our group
+2024-10-14 19:11:23.189832 Delta: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:11:23.220678 Quebec: Romeo and Golf, sending you 4
+2024-10-14 19:11:23.229675 Quebec: Hotel, sending you 3
+2024-10-14 19:11:23.231964 Alpha: Same as last round
+2024-10-14 19:11:23.234680 Quebec: Alpha, sending you 1
+2024-10-14 19:11:23.241293 Quebec: Delta, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Romeo round 14
+ChatterBot Hotel round 14
+ChatterBot Quebec round 14
+ChatterBot Alpha round 14
+ChatterBot Echo round 14
+ChatterBot Delta round 14
+ChatterBot Golf round 14
+ChatterBot Foxtrot round 14
+ChatterBot Mike round 14
+ChatterBot Bravo round 14
+2024-10-14 19:11:24.362177 Bravo: We should add Delta
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:11:24.372741 Foxtrot: No
+2024-10-14 19:11:24.372963 Echo: No
+2024-10-14 19:11:24.373164 Mike: No
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:11:24.421789 Alpha: Romeo and Golf, sending you 1
+2024-10-14 19:11:24.424494 Delta: Romeo, sending you 4
+2024-10-14 19:11:24.430700 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:24.433384 Quebec: Romeo and Golf, sending you 4
+2024-10-14 19:11:24.435863 Echo: Same as last round
+2024-10-14 19:11:24.438673 Quebec: Hotel, sending you 3
+2024-10-14 19:11:24.445677 Quebec: Alpha, sending you 1
+2024-10-14 19:11:24.451705 Quebec: Delta, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 15
+ChatterBot Hotel round 15
+ChatterBot Quebec round 15
+ChatterBot Alpha round 15
+ChatterBot Echo round 15
+ChatterBot Delta round 15
+ChatterBot Golf round 15
+ChatterBot Foxtrot round 15
+ChatterBot Mike round 15
+ChatterBot Bravo round 15
+2024-10-14 19:11:25.479342 Echo: We should drop Foxtrot and Bravo
+2024-10-14 19:11:25.484215 Mike: Yes
+2024-10-14 19:11:25.490411 Hotel: We should drop Alpha
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:25.505663 Romeo: No
+2024-10-14 19:11:25.505806 Quebec: No
+2024-10-14 19:11:25.505935 Delta: No
+2024-10-14 19:11:25.506551 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 19:11:25.571897 Bravo: We should drop Foxtrot
+2024-10-14 19:11:25.580402 Echo: Yes
+2024-10-14 19:11:25.580551 Mike: Yes
+2024-10-14 19:11:25.596547 Quebec: We should drop Hotel
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:11:25.609411 Romeo: No
+2024-10-14 19:11:25.609575 Alpha: No
+2024-10-14 19:11:25.610308 Delta: No
+2024-10-14 19:11:25.610471 Golf: No
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:11:25.707311 Hotel: We should drop Delta
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 19:11:25.836962 Romeo: No
+2024-10-14 19:11:25.837375 Quebec: No
+2024-10-14 19:11:25.838065 Alpha: No
+2024-10-14 19:11:25.838450 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 19:11:25.904234 Delta: Romeo, sending you 4
+2024-10-14 19:11:25.924554 Echo: Sending you 7
+2024-10-14 19:11:25.925287 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:25.928209 Alpha: Sending you each 1
+chatterbot Echo submitting transactions
+2024-10-14 19:11:26.011124 Quebec: Romeo, sending you 5
+2024-10-14 19:11:26.048637 Quebec: Hotel and Delta, sending you 3
+2024-10-14 19:11:26.064872 Quebec: Alpha, sending you 1
+chatterbot Alpha submitting transactions
+2024-10-14 19:11:26.081723 Quebec: Golf, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Romeo round 16
+ChatterBot Hotel round 16
+ChatterBot Quebec round 16
+ChatterBot Alpha round 16
+ChatterBot Echo round 16
+ChatterBot Delta round 16
+ChatterBot Golf round 16
+ChatterBot Foxtrot round 16
+ChatterBot Mike round 16
+ChatterBot Bravo round 16
+2024-10-14 19:11:28.520478 Alpha: Same as last round
+2024-10-14 19:11:28.522360 Quebec: Romeo and Golf, sending you 5
+2024-10-14 19:11:28.526099 Delta: Romeo, sending you 4
+2024-10-14 19:11:28.531089 Quebec: Hotel, sending you 4
+2024-10-14 19:11:28.602150 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:28.606086 Echo: Same as last round
+2024-10-14 19:11:28.607131 Quebec: Alpha, sending you 1
+chatterbot Romeo submitting transactions
+2024-10-14 19:11:28.626567 Quebec: Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 17
+ChatterBot Hotel round 17
+ChatterBot Quebec round 17
+ChatterBot Alpha round 17
+ChatterBot Echo round 17
+ChatterBot Delta round 17
+ChatterBot Golf round 17
+ChatterBot Foxtrot round 17
+ChatterBot Mike round 17
+ChatterBot Bravo round 17
+2024-10-14 19:11:29.623969 Echo: We should replace Mike with Bravo
+2024-10-14 19:11:29.630562 Bravo: We should drop Mike
+2024-10-14 19:11:29.635858 Echo: Yes
+2024-10-14 19:11:29.640847 Echo: Bravo we want you to join our group
+2024-10-14 19:11:29.645535 Bravo: Yes
+2024-10-14 19:11:29.656095 Alpha: Same as last round
+2024-10-14 19:11:29.661345 Delta: Romeo, sending you 4
+2024-10-14 19:11:29.685124 Quebec: Romeo and Golf, sending you 6
+2024-10-14 19:11:29.690821 Echo: Sending you 12
+2024-10-14 19:11:29.692533 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:29.697418 Quebec: Hotel and Delta, sending you 3
+2024-10-14 19:11:29.714570 Quebec: Alpha, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Romeo round 18
+ChatterBot Hotel round 18
+ChatterBot Quebec round 18
+ChatterBot Alpha round 18
+ChatterBot Echo round 18
+ChatterBot Delta round 18
+ChatterBot Golf round 18
+ChatterBot Foxtrot round 18
+ChatterBot Mike round 18
+ChatterBot Bravo round 18
+2024-10-14 19:11:31.387682 Delta: Romeo, sending you 4
+2024-10-14 19:11:31.389705 Quebec: Romeo, sending you 6
+2024-10-14 19:11:31.396335 Echo: Same as last round
+2024-10-14 19:11:31.396890 Alpha: Same as last round
+2024-10-14 19:11:31.400039 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:31.407043 Quebec: Hotel, sending you 4
+2024-10-14 19:11:31.519034 Quebec: Alpha, sending you 1
+2024-10-14 19:11:31.533909 Quebec: Delta, sending you 3
+2024-10-14 19:11:31.564080 Quebec: Golf, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Romeo round 19
+ChatterBot Hotel round 19
+ChatterBot Quebec round 19
+ChatterBot Alpha round 19
+ChatterBot Echo round 19
+ChatterBot Delta round 19
+ChatterBot Golf round 19
+ChatterBot Foxtrot round 19
+ChatterBot Mike round 19
+ChatterBot Bravo round 19
+2024-10-14 19:11:32.664442 Echo: I was attacked by Hotel
+2024-10-14 19:11:32.664928 Echo: I'm keeping this round to protect myself
+2024-10-14 19:11:32.665320 Echo: Ow
+2024-10-14 19:11:32.696734 Quebec: Romeo and Golf, sending you 6
+2024-10-14 19:11:32.700334 Alpha: Same as last round
+2024-10-14 19:11:32.702687 Delta: Romeo, sending you 4
+2024-10-14 19:11:32.705777 Quebec: Hotel and Delta, sending you 3
+2024-10-14 19:11:32.758075 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:32.762048 Quebec: Alpha, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Romeo round 20
+ChatterBot Hotel round 20
+ChatterBot Quebec round 20
+ChatterBot Alpha round 20
+ChatterBot Echo round 20
+ChatterBot Delta round 20
+ChatterBot Golf round 20
+ChatterBot Foxtrot round 20
+ChatterBot Mike round 20
+ChatterBot Bravo round 20
+2024-10-14 19:11:34.275247 Delta: Romeo, sending you 4
+2024-10-14 19:11:34.278059 Alpha: Same as last round
+2024-10-14 19:11:34.280053 Quebec: Romeo, sending you 5
+2024-10-14 19:11:34.394935 Delta: Hotel, Quebec, Alpha and Golf, sending you 3
+2024-10-14 19:11:34.398216 Quebec: Hotel, sending you 4
+2024-10-14 19:11:34.450180 Quebec: Alpha, sending you 1
+2024-10-14 19:11:34.646864 Quebec: Delta, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 19:11:34.727568 Quebec: Golf, sending you 6
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 21
+ChatterBot Hotel round 21
+ChatterBot Quebec round 21
+ChatterBot Alpha round 21
+ChatterBot Echo round 21
+ChatterBot Delta round 21
+ChatterBot Golf round 21
+ChatterBot Foxtrot round 21
+ChatterBot Mike round 21
+ChatterBot Bravo round 21
+2024-10-14 19:11:35.501093 Delta: We should drop Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:11:35.529017 Hotel: Yes
+2024-10-14 19:11:35.529319 Romeo: No
+2024-10-14 19:11:35.529551 Quebec: No
+2024-10-14 19:11:35.529776 Golf: No
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:35.787807 Alpha: Same as last round
+2024-10-14 19:11:35.876492 Quebec: Romeo, sending you 5
+2024-10-14 19:11:35.919724 Quebec: Hotel, sending you 4
+2024-10-14 19:11:35.923379 Delta: Sending you each 4
+2024-10-14 19:11:35.934957 Quebec: Alpha, sending you 1
+chatterbot Golf submitting transactions
+2024-10-14 19:11:35.985836 Quebec: Delta, sending you 3
+2024-10-14 19:11:36.013461 Quebec: Golf, sending you 6
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 22
+ChatterBot Hotel round 22
+ChatterBot Quebec round 22
+ChatterBot Alpha round 22
+ChatterBot Echo round 22
+ChatterBot Delta round 22
+ChatterBot Golf round 22
+ChatterBot Foxtrot round 22
+ChatterBot Mike round 22
+ChatterBot Bravo round 22
+2024-10-14 19:11:36.974114 Delta: We should replace Hotel with Alpha
+2024-10-14 19:11:36.989896 Romeo: No
+2024-10-14 19:11:36.990056 Quebec: No
+2024-10-14 19:11:36.990175 Golf: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:37.044503 Hotel: We should drop Alpha
+ChatterBot Delta reevaluating
+2024-10-14 19:11:37.060489 Romeo: No
+2024-10-14 19:11:37.060658 Quebec: No
+2024-10-14 19:11:37.060804 Delta: No
+2024-10-14 19:11:37.061584 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:11:37.134955 Quebec: Romeo, sending you 5
+2024-10-14 19:11:37.148838 Quebec: Hotel, sending you 4
+2024-10-14 19:11:37.153466 Delta: Alpha we want you to join our group
+2024-10-14 19:11:37.159536 Alpha: Yes
+2024-10-14 19:11:37.191928 Quebec: Alpha, sending you 1
+2024-10-14 19:11:37.196686 Alpha: Same as last round
+2024-10-14 19:11:37.201319 Quebec: Delta, sending you 3
+2024-10-14 19:11:37.225570 Quebec: Golf, sending you 6
+2024-10-14 19:11:37.287588 Delta: Sending you each 4
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 23
+ChatterBot Hotel round 23
+ChatterBot Quebec round 23
+ChatterBot Alpha round 23
+ChatterBot Echo round 23
+ChatterBot Delta round 23
+ChatterBot Golf round 23
+ChatterBot Foxtrot round 23
+ChatterBot Mike round 23
+ChatterBot Bravo round 23
+2024-10-14 19:11:39.488139 Alpha: Same as last round
+2024-10-14 19:11:39.490777 Delta: Same as last round
+2024-10-14 19:11:39.491916 Quebec: Romeo, sending you 5
+2024-10-14 19:11:39.595665 Quebec: Hotel, sending you 4
+2024-10-14 19:11:39.625049 Quebec: Alpha, sending you 1
+2024-10-14 19:11:39.649009 Quebec: Delta, sending you 3
+2024-10-14 19:11:39.667496 Quebec: Golf, sending you 6
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 24
+ChatterBot Hotel round 24
+ChatterBot Quebec round 24
+ChatterBot Alpha round 24
+ChatterBot Echo round 24
+ChatterBot Delta round 24
+ChatterBot Golf round 24
+ChatterBot Foxtrot round 24
+ChatterBot Mike round 24
+ChatterBot Bravo round 24
+2024-10-14 19:11:40.774212 Alpha: Same as last round
+2024-10-14 19:11:40.780571 Delta: Same as last round
+2024-10-14 19:11:40.783752 Quebec: Romeo, sending you 5
+2024-10-14 19:11:40.799953 Quebec: Hotel, sending you 4
+2024-10-14 19:11:40.831194 Quebec: Alpha, sending you 1
+2024-10-14 19:11:40.842159 Quebec: Delta, sending you 3
+2024-10-14 19:11:40.854915 Quebec: Golf, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 25
+ChatterBot Hotel round 25
+ChatterBot Quebec round 25
+ChatterBot Alpha round 25
+ChatterBot Echo round 25
+ChatterBot Delta round 25
+ChatterBot Golf round 25
+ChatterBot Foxtrot round 25
+ChatterBot Mike round 25
+ChatterBot Bravo round 25
+2024-10-14 19:11:43.138124 Alpha: Same as last round
+2024-10-14 19:11:43.142573 Delta: Same as last round
+2024-10-14 19:11:43.145670 Quebec: Romeo, sending you 5
+chatterbot Alpha submitting transactions
+2024-10-14 19:11:43.222874 Quebec: Hotel, sending you 4
+2024-10-14 19:11:43.242076 Quebec: Alpha, sending you 1
+2024-10-14 19:11:43.288843 Quebec: Delta, sending you 3
+2024-10-14 19:11:43.318661 Quebec: Golf, sending you 6
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 26
+ChatterBot Hotel round 26
+ChatterBot Quebec round 26
+ChatterBot Alpha round 26
+ChatterBot Echo round 26
+ChatterBot Delta round 26
+ChatterBot Golf round 26
+ChatterBot Foxtrot round 26
+ChatterBot Mike round 26
+ChatterBot Bravo round 26
+2024-10-14 19:11:44.114700 Alpha: Same as last round
+2024-10-14 19:11:45.953125 Delta: Same as last round
+2024-10-14 19:11:45.963584 Quebec: Romeo, sending you 5
+2024-10-14 19:11:45.979025 Quebec: Hotel, sending you 4
+2024-10-14 19:11:45.994144 Quebec: Alpha, sending you 1
+2024-10-14 19:11:46.005306 Quebec: Delta, sending you 3
+2024-10-14 19:11:46.059691 Quebec: Golf, sending you 6
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 27
+ChatterBot Hotel round 27
+ChatterBot Quebec round 27
+ChatterBot Alpha round 27
+ChatterBot Echo round 27
+ChatterBot Delta round 27
+ChatterBot Golf round 27
+ChatterBot Foxtrot round 27
+ChatterBot Mike round 27
+ChatterBot Bravo round 27
+2024-10-14 19:11:47.553830 Delta: Same as last round
+2024-10-14 19:11:47.558394 Quebec: Romeo, sending you 5
+2024-10-14 19:11:47.564214 Alpha: Same as last round
+chatterbot Golf submitting transactions
+2024-10-14 19:11:47.569716 Quebec: Hotel, sending you 4
+2024-10-14 19:11:47.691439 Quebec: Alpha, sending you 1
+2024-10-14 19:11:47.787649 Quebec: Delta, sending you 3
+2024-10-14 19:11:47.925093 Quebec: Golf, sending you 6
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 28
+ChatterBot Hotel round 28
+ChatterBot Quebec round 28
+ChatterBot Alpha round 28
+ChatterBot Echo round 28
+ChatterBot Delta round 28
+ChatterBot Golf round 28
+ChatterBot Foxtrot round 28
+ChatterBot Mike round 28
+ChatterBot Bravo round 28
+2024-10-14 19:11:48.556939 Hotel: We should drop Alpha
+2024-10-14 19:11:48.579235 Romeo: No
+2024-10-14 19:11:48.579395 Quebec: No
+2024-10-14 19:11:48.579513 Delta: No
+2024-10-14 19:11:48.579644 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:11:48.683354 Delta: Same as last round
+2024-10-14 19:11:48.685296 Quebec: Romeo and Hotel, sending you 4
+2024-10-14 19:11:48.721357 Quebec: Alpha, sending you 1
+2024-10-14 19:11:48.725347 Alpha: Same as last round
+2024-10-14 19:11:48.735791 Quebec: Delta, sending you 3
+2024-10-14 19:11:48.748579 Quebec: Golf, sending you 6
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Romeo round 29
+ChatterBot Hotel round 29
+ChatterBot Quebec round 29
+ChatterBot Alpha round 29
+ChatterBot Echo round 29
+ChatterBot Delta round 29
+ChatterBot Golf round 29
+ChatterBot Foxtrot round 29
+ChatterBot Mike round 29
+ChatterBot Bravo round 29
+2024-10-14 19:11:50.644088 Quebec: Romeo and Hotel, sending you 4
+2024-10-14 19:11:50.649420 Delta: Same as last round
+2024-10-14 19:11:50.653058 Alpha: Same as last round
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 19:11:50.660371 Quebec: Alpha, sending you 1
+2024-10-14 19:11:50.764479 Quebec: Delta, sending you 3
+2024-10-14 19:11:50.806829 Quebec: Golf, sending you 6
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 30
+ChatterBot Hotel round 30
+ChatterBot Quebec round 30
+ChatterBot Alpha round 30
+ChatterBot Echo round 30
+ChatterBot Delta round 30
+ChatterBot Golf round 30
+ChatterBot Foxtrot round 30
+ChatterBot Mike round 30
+ChatterBot Bravo round 30
+2024-10-14 19:11:52.202194 Delta: Romeo and Quebec, sending you 1
+2024-10-14 19:11:52.205908 Quebec: Romeo and Hotel, sending you 4
+chatterbot Delta submitting transactions
+2024-10-14 19:11:52.322428 Quebec: Alpha, sending you 1
+2024-10-14 19:11:52.326570 Alpha: Same as last round
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 19:11:52.381397 Quebec: Delta, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-14 19:11:52.408099 Quebec: Golf, sending you 6
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions

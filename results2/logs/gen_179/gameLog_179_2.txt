@@ -1,0 +1,2797 @@
+ChatterBot Alpha round 1
+ChatterBot Yankee round 1
+ChatterBot Golf round 1
+ChatterBot X-ray round 1
+ChatterBot Bravo round 1
+ChatterBot Whiskey round 1
+ChatterBot Hotel round 1
+ChatterBot Tango round 1
+ChatterBot Quebec round 1
+ChatterBot Delta round 1
+randomSelections Yankee: {Yankee, Hotel, Golf, Bravo} 
+2024-10-14 19:37:53.227831 Yankee: Friends?
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:37:53.252459 Hotel: Yes
+2024-10-14 19:37:53.252752 Golf: Yes
+2024-10-14 19:37:53.252981 Bravo: Yes
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+randomSelections Quebec: {Quebec, Yankee, X-ray, Hotel, Bravo, Tango} 
+2024-10-14 19:37:53.370213 Quebec: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:37:53.387461 Yankee: No
+2024-10-14 19:37:53.387743 X-ray: Yes
+2024-10-14 19:37:53.387940 Hotel: No
+2024-10-14 19:37:53.388943 Bravo: No
+2024-10-14 19:37:53.389224 Tango: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Alpha: {Alpha, X-ray, Whiskey, Hotel, Delta, Golf} 
+2024-10-14 19:37:53.465495 Alpha: We should group up
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:37:53.479876 X-ray: No
+2024-10-14 19:37:53.480226 Whiskey: Yes
+2024-10-14 19:37:53.480798 Hotel: No
+2024-10-14 19:37:53.481109 Delta: Yes
+2024-10-14 19:37:53.481259 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:37:53.582082 Tango: Yankee, sending you 2
+2024-10-14 19:37:53.582975 Bravo: Yankee, sending you 4
+2024-10-14 19:37:53.583632 X-ray: Yankee, sending you 2
+2024-10-14 19:37:53.585407 Quebec: Yankee and Tango, sending you 3
+2024-10-14 19:37:53.586016 Yankee: Golf, sending you 4
+2024-10-14 19:37:53.586703 Bravo: Golf, sending you 3
+2024-10-14 19:37:53.588202 Alpha: Golf and Delta, sending you 5
+2024-10-14 19:37:53.588837 Tango: X-ray, sending you 4
+2024-10-14 19:37:53.589354 X-ray: Bravo, sending you 4
+2024-10-14 19:37:53.590672 Golf: Yankee and Hotel, sending you 7
+2024-10-14 19:37:53.591156 Quebec: X-ray and Hotel, sending you 4
+2024-10-14 19:37:53.591703 Whiskey: Alpha and Golf, sending you 2
+2024-10-14 19:37:53.592854 Bravo: Hotel, sending you 8
+2024-10-14 19:37:53.593337 Delta: Alpha, X-ray and Hotel, sending you 4
+2024-10-14 19:37:53.593915 Yankee: Bravo, sending you 6
+2024-10-14 19:37:53.594371 Hotel: Yankee, sending you 5
+2024-10-14 19:37:53.595745 X-ray: Hotel, sending you 3
+2024-10-14 19:37:53.596218 Alpha: X-ray, sending you 6
+2024-10-14 19:37:53.596773 Tango: Bravo, Hotel and Quebec, sending you 3
+2024-10-14 19:37:53.597208 Golf: Bravo, sending you 2
+2024-10-14 19:37:53.597599 Quebec: Bravo, sending you 1
+2024-10-14 19:37:53.599254 Whiskey: X-ray, sending you 3
+2024-10-14 19:37:53.599804 Delta: Golf and Whiskey, sending you 3
+2024-10-14 19:37:53.600317 Yankee: Hotel, sending you 2
+2024-10-14 19:37:53.602293 X-ray: Tango, sending you 5
+2024-10-14 19:37:53.602910 Hotel: Golf and Bravo, sending you 6
+2024-10-14 19:37:53.603429 Alpha: Hotel, sending you 3
+2024-10-14 19:37:53.605088 Whiskey: Hotel, sending you 5
+2024-10-14 19:37:53.607890 X-ray: Quebec, sending you 1
+2024-10-14 19:37:53.608366 Whiskey: Delta, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 2
+2024-10-14 19:37:54.601311 Alpha: Friends?
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:37:54.620604 Whiskey: No
+2024-10-14 19:37:54.620789 Delta: No
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:37:54.642452 Delta: We would work well together
+2024-10-14 19:37:54.645269 Alpha: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee round 2
+ChatterBot Golf round 2
+ChatterBot X-ray round 2
+ChatterBot Bravo round 2
+ChatterBot Whiskey round 2
+ChatterBot Hotel round 2
+ChatterBot Tango round 2
+ChatterBot Quebec round 2
+ChatterBot Delta round 2
+2024-10-14 19:37:54.657480 Golf: We would work well together
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:37:54.673068 Yankee: No
+2024-10-14 19:37:54.673230 Bravo: No
+2024-10-14 19:37:54.673347 Hotel: Yes
+2024-10-14 19:37:54.673452 Alpha: No
+2024-10-14 19:37:54.673554 Whiskey: Yes
+2024-10-14 19:37:54.673660 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:37:54.835318 Tango: We would work well together
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 19:37:54.843660 X-ray: Yes
+2024-10-14 19:37:54.843852 Quebec: Yes
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:37:54.859920 Quebec: We would work well together
+ChatterBot X-ray reevaluating
+2024-10-14 19:37:54.867865 Tango: Yes
+2024-10-14 19:37:54.868063 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 19:37:54.928724 Alpha: Whiskey, sending you 7
+2024-10-14 19:37:57.679731 Alpha: Delta, sending you 12
+2024-10-14 19:37:57.680398 Bravo: Whiskey we want you to join our group
+2024-10-14 19:37:57.686941 Whiskey: Yes
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:37:57.718781 Tango: X-ray, sending you 5
+2024-10-14 19:37:57.719307 Delta: Alpha, sending you 7
+2024-10-14 19:37:57.723479 Golf: Alpha and Yankee, sending you 3
+2024-10-14 19:37:57.725151 Hotel: Alpha and Delta, sending you 2
+2024-10-14 19:37:57.725729 X-ray: Alpha, sending you 4
+2024-10-14 19:37:57.726886 Quebec: X-ray, sending you 6
+2024-10-14 19:37:57.727240 Yankee: Sending you each 5
+2024-10-14 19:37:57.727663 Whiskey: Alpha, Yankee, Golf, Bravo and Delta, sending you 3
+2024-10-14 19:37:57.730031 Tango: Quebec, sending you 4
+2024-10-14 19:37:57.730633 Delta: Yankee, Golf and Bravo, sending you 2
+2024-10-14 19:37:57.731931 Golf: Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:37:57.732660 Hotel: Yankee, sending you 1
+2024-10-14 19:37:57.734019 X-ray: Whiskey, Tango, Quebec and Delta, sending you 3
+2024-10-14 19:37:57.734698 Quebec: Tango, sending you 9
+2024-10-14 19:37:57.735828 Whiskey: Hotel, sending you 1
+2024-10-14 19:37:57.752478 Delta: Whiskey, sending you 6
+2024-10-14 19:37:57.753769 Golf: Hotel, sending you 4
+2024-10-14 19:37:57.754781 Hotel: Golf, sending you 4
+2024-10-14 19:37:57.756114 Bravo: Yankee, sending you 7
+2024-10-14 19:37:57.756683 Delta: Hotel, sending you 1
+2024-10-14 19:37:57.796837 Bravo: Golf, sending you 2
+2024-10-14 19:37:57.797299 Hotel: Bravo, sending you 5
+2024-10-14 19:37:57.810855 Bravo: Hotel, sending you 6
+2024-10-14 19:37:57.811998 Hotel: Whiskey, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 3
+ChatterBot Yankee round 3
+ChatterBot Golf round 3
+ChatterBot X-ray round 3
+ChatterBot Bravo round 3
+2024-10-14 19:37:58.777063 Alpha: We would work well together
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:37:58.817413 Golf: Yes
+2024-10-14 19:37:58.817691 Yankee: No
+2024-10-14 19:37:58.817882 Bravo: No
+2024-10-14 19:37:58.818058 Hotel: Yes
+2024-10-14 19:37:58.818688 Whiskey: Yes
+2024-10-14 19:37:58.818850 Delta: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:37:59.146937 Yankee: We should add Whiskey and Delta
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:37:59.169572 Hotel: Yes
+2024-10-14 19:37:59.170485 Golf: Yes
+2024-10-14 19:37:59.170843 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey round 3
+ChatterBot Hotel round 3
+ChatterBot Tango round 3
+ChatterBot Quebec round 3
+2024-10-14 19:37:59.270724 Bravo: We should add Delta
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:37:59.303836 Yankee: Yes
+2024-10-14 19:37:59.304362 Golf: Yes
+2024-10-14 19:37:59.304710 Hotel: Yes
+2024-10-14 19:37:59.304916 Whiskey: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta round 3
+2024-10-14 19:37:59.446353 Yankee: We should add Whiskey
+ChatterBot Golf reevaluating
+2024-10-14 19:37:59.469884 Hotel: Yes
+2024-10-14 19:37:59.470163 Golf: Yes
+2024-10-14 19:37:59.470365 Bravo: Yes
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:37:59.582103 Yankee: Whiskey we want you to join our group
+2024-10-14 19:37:59.589439 Whiskey: Yes
+2024-10-14 19:37:59.620768 Bravo: Delta we want you to join our group
+2024-10-14 19:37:59.628511 Delta: Yes
+2024-10-14 19:37:59.652463 Alpha: Golf and Hotel, sending you 3
+2024-10-14 19:37:59.657 Alpha: Whiskey, sending you 4
+2024-10-14 19:37:59.657450 X-ray: Alpha and Delta, sending you 3
+2024-10-14 19:37:59.658274 Hotel: Alpha, sending you 1
+2024-10-14 19:37:59.658658 Tango: X-ray, sending you 4
+2024-10-14 19:37:59.658942 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:37:59.659791 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:37:59.660351 Alpha: Delta, sending you 9
+2024-10-14 19:37:59.660780 X-ray: Whiskey, sending you 2
+2024-10-14 19:37:59.696274 Hotel: Yankee, sending you 3
+2024-10-14 19:37:59.696964 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:37:59.698152 Tango: Quebec, sending you 3
+2024-10-14 19:37:59.698460 Whiskey: Bravo, sending you 1
+2024-10-14 19:37:59.698993 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:37:59.699936 Delta: Alpha, sending you 7
+2024-10-14 19:37:59.700520 Yankee: Golf, sending you 5
+2024-10-14 19:37:59.701244 Hotel: Golf, sending you 4
+2024-10-14 19:38:00.313286 Quebec: X-ray, sending you 7
+2024-10-14 19:38:00.313596 Bravo: Yankee, sending you 5
+2024-10-14 19:38:00.314684 Delta: Yankee, sending you 2
+2024-10-14 19:38:00.315227 Yankee: Bravo, sending you 6
+2024-10-14 19:38:00.315543 Hotel: Bravo, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:38:00.335003 Quebec: Tango, sending you 8
+2024-10-14 19:38:00.335358 Bravo: Golf, sending you 2
+2024-10-14 19:38:00.336464 Delta: Golf and Hotel, sending you 3
+2024-10-14 19:38:00.337112 Yankee: Whiskey, sending you 2
+2024-10-14 19:38:00.338006 Hotel: Whiskey and Delta, sending you 2
+chatterbot Golf submitting transactions
+2024-10-14 19:38:00.349106 Delta: Bravo, sending you 1
+2024-10-14 19:38:00.350283 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 19:38:00.350727 Yankee: Hotel, sending you 4
+2024-10-14 19:38:00.362560 Bravo: Hotel, sending you 6
+2024-10-14 19:38:00.363531 Delta: Whiskey, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 4
+ChatterBot Yankee round 4
+ChatterBot Golf round 4
+ChatterBot X-ray round 4
+ChatterBot Bravo round 4
+ChatterBot Whiskey round 4
+ChatterBot Hotel round 4
+ChatterBot Tango round 4
+ChatterBot Quebec round 4
+ChatterBot Delta round 4
+2024-10-14 19:38:01.076768 Yankee: We should add Delta
+2024-10-14 19:38:01.103138 Bravo: Yes
+2024-10-14 19:38:01.103309 Golf: Yes
+2024-10-14 19:38:01.103438 Hotel: Yes
+2024-10-14 19:38:01.103566 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:01.324967 Yankee: Delta we want you to join our group
+2024-10-14 19:38:01.334231 Delta: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:01.372816 Alpha: Golf, sending you 3
+2024-10-14 19:38:01.374008 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:01.385255 Tango: X-ray, sending you 4
+2024-10-14 19:38:01.386309 X-ray: Alpha, sending you 3
+2024-10-14 19:38:01.387236 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:01.389201 Bravo: Yankee, sending you 5
+2024-10-14 19:38:01.389923 Alpha: Whiskey, sending you 4
+2024-10-14 19:38:01.391269 Hotel: Alpha, sending you 1
+2024-10-14 19:38:01.392760 Quebec: X-ray, sending you 7
+2024-10-14 19:38:01.393212 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:01.394723 Tango: Quebec, sending you 3
+2024-10-14 19:38:01.395317 X-ray: Whiskey and Delta, sending you 2
+2024-10-14 19:38:01.396624 Bravo: Golf, sending you 2
+2024-10-14 19:38:01.398114 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:01.400782 Alpha: Hotel, sending you 2
+2024-10-14 19:38:01.405536 Hotel: Yankee, sending you 3
+2024-10-14 19:38:01.409491 Quebec: Tango, sending you 8
+2024-10-14 19:38:01.412991 Delta: Alpha, sending you 6
+2024-10-14 19:38:01.418449 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:38:01.423273 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 19:38:01.424779 Alpha: Delta, sending you 10
+2024-10-14 19:38:01.426549 Hotel: Golf, sending you 4
+2024-10-14 19:38:01.428568 Delta: Yankee and Bravo, sending you 2
+2024-10-14 19:38:01.430529 Bravo: Hotel, sending you 6
+2024-10-14 19:38:01.432099 Hotel: Bravo, sending you 5
+2024-10-14 19:38:01.452604 Delta: Golf and Hotel, sending you 3
+2024-10-14 19:38:01.453387 Yankee: Golf, sending you 4
+2024-10-14 19:38:01.454656 Hotel: Whiskey and Delta, sending you 2
+2024-10-14 19:38:01.462327 Delta: Whiskey, sending you 4
+2024-10-14 19:38:01.463866 Yankee: Bravo, sending you 6
+2024-10-14 19:38:01.472370 Yankee: Whiskey and Delta, sending you 2
+2024-10-14 19:38:01.479515 Yankee: Hotel, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 5
+ChatterBot Yankee round 5
+ChatterBot Golf round 5
+ChatterBot X-ray round 5
+ChatterBot Bravo round 5
+ChatterBot Whiskey round 5
+ChatterBot Hotel round 5
+ChatterBot Tango round 5
+ChatterBot Quebec round 5
+ChatterBot Delta round 5
+2024-10-14 19:38:02.607787 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:02.611923 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:02.613320 Alpha: Golf, sending you 3
+2024-10-14 19:38:02.615401 Tango: X-ray, sending you 4
+2024-10-14 19:38:02.618816 Alpha: Whiskey, sending you 5
+2024-10-14 19:38:02.619970 Hotel: Alpha, sending you 1
+2024-10-14 19:38:02.621591 Tango: Quebec, sending you 3
+2024-10-14 19:38:02.622080 Yankee: Golf, sending you 4
+2024-10-14 19:38:02.622831 X-ray: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:02.623881 Quebec: X-ray, sending you 8
+2024-10-14 19:38:02.624290 Hotel: Yankee, sending you 3
+2024-10-14 19:38:02.624815 Alpha: Hotel, sending you 2
+2024-10-14 19:38:02.628086 Yankee: Bravo, sending you 5
+2024-10-14 19:38:02.628819 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:02.630450 Quebec: Tango, sending you 7
+2024-10-14 19:38:02.630820 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:38:02.631219 Bravo: Yankee, sending you 6
+2024-10-14 19:38:02.631650 Hotel: Golf, sending you 4
+2024-10-14 19:38:02.633045 Alpha: Delta, sending you 9
+2024-10-14 19:38:02.633880 Yankee: Whiskey and Hotel, sending you 3
+2024-10-14 19:38:02.634941 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:02.635748 Bravo: Golf, sending you 2
+2024-10-14 19:38:02.636981 Hotel: Bravo, sending you 5
+2024-10-14 19:38:02.638186 Delta: Alpha, sending you 7
+2024-10-14 19:38:02.639765 Yankee: Delta, sending you 2
+2024-10-14 19:38:02.640785 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 19:38:02.642 Hotel: Whiskey and Delta, sending you 2
+2024-10-14 19:38:02.643008 Delta: Yankee and Bravo, sending you 2
+2024-10-14 19:38:02.646845 Bravo: Hotel, sending you 5
+2024-10-14 19:38:02.647694 Delta: Golf, Whiskey and Hotel, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 6
+ChatterBot Yankee round 6
+ChatterBot Golf round 6
+ChatterBot X-ray round 6
+ChatterBot Bravo round 6
+ChatterBot Whiskey round 6
+ChatterBot Hotel round 6
+ChatterBot Tango round 6
+ChatterBot Quebec round 6
+ChatterBot Delta round 6
+2024-10-14 19:38:03.930682 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:03.932335 Alpha: Golf, sending you 3
+2024-10-14 19:38:03.933199 Yankee: Golf, sending you 4
+2024-10-14 19:38:03.934683 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:03.937689 Alpha: Whiskey, sending you 4
+2024-10-14 19:38:03.939072 Yankee: Bravo, sending you 5
+2024-10-14 19:38:03.939866 Bravo: Yankee, sending you 5
+2024-10-14 19:38:03.941017 Hotel: Alpha, sending you 1
+2024-10-14 19:38:03.941995 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:03.943770 Alpha: Hotel, sending you 2
+2024-10-14 19:38:03.945212 Tango: Sending you each 3
+2024-10-14 19:38:03.945829 Yankee: Whiskey and Hotel, sending you 3
+2024-10-14 19:38:03.947238 Bravo: Golf, sending you 2
+2024-10-14 19:38:03.948050 Quebec: X-ray, sending you 8
+2024-10-14 19:38:03.948569 Hotel: Yankee, sending you 3
+2024-10-14 19:38:03.950084 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:03.951161 Alpha: Delta, sending you 10
+2024-10-14 19:38:03.952677 Delta: Alpha, sending you 6
+2024-10-14 19:38:03.954419 Yankee: Delta, sending you 2
+2024-10-14 19:38:03.955519 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 19:38:03.956932 Quebec: Tango, sending you 7
+2024-10-14 19:38:03.957485 X-ray: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:03.959024 Hotel: Golf, sending you 4
+2024-10-14 19:38:03.960199 Delta: Yankee, Golf, Whiskey and Hotel, sending you 3
+2024-10-14 19:38:03.961990 Bravo: Hotel, sending you 6
+2024-10-14 19:38:03.962809 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:38:03.964701 Hotel: Bravo, sending you 5
+2024-10-14 19:38:03.966266 Delta: Bravo, sending you 2
+2024-10-14 19:38:03.969696 Hotel: Whiskey and Delta, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 7
+ChatterBot Yankee round 7
+ChatterBot Golf round 7
+ChatterBot X-ray round 7
+ChatterBot Bravo round 7
+ChatterBot Whiskey round 7
+ChatterBot Hotel round 7
+ChatterBot Tango round 7
+ChatterBot Quebec round 7
+ChatterBot Delta round 7
+2024-10-14 19:38:05.168372 Hotel: We should drop Alpha
+2024-10-14 19:38:05.190758 Bravo: Yes
+2024-10-14 19:38:05.191054 Yankee: Yes
+2024-10-14 19:38:05.191382 Golf: No
+2024-10-14 19:38:05.191619 Whiskey: No
+2024-10-14 19:38:05.191884 Delta: No
+2024-10-14 19:38:05.292659 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:05.294172 Yankee: Golf, sending you 4
+2024-10-14 19:38:05.294736 X-ray: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:05.295147 Bravo: Yankee, sending you 5
+2024-10-14 19:38:05.295625 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:05.296722 Quebec: X-ray, sending you 8
+2024-10-14 19:38:05.297014 Alpha: Golf, sending you 3
+2024-10-14 19:38:05.297936 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:05.299480 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:38:05.300103 Bravo: Golf, sending you 2
+2024-10-14 19:38:05.301266 Yankee: Bravo, sending you 5
+2024-10-14 19:38:05.302136 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:05.302775 Quebec: Tango, sending you 7
+2024-10-14 19:38:05.303544 Delta: Alpha, sending you 6
+2024-10-14 19:38:05.304431 Alpha: Whiskey, sending you 5
+2024-10-14 19:38:05.306253 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 19:38:05.306950 Yankee: Whiskey and Hotel, sending you 3
+2024-10-14 19:38:05.308793 Delta: Yankee, Golf, Whiskey and Hotel, sending you 3
+2024-10-14 19:38:05.310213 Alpha: Hotel, sending you 2
+2024-10-14 19:38:05.311590 Hotel: Yankee, sending you 3
+2024-10-14 19:38:05.312805 Bravo: Hotel, sending you 6
+2024-10-14 19:38:05.314236 Yankee: Delta, sending you 2
+2024-10-14 19:38:05.315213 Tango: X-ray, sending you 3
+2024-10-14 19:38:05.316176 Delta: Bravo, sending you 2
+2024-10-14 19:38:05.317506 Alpha: Delta, sending you 9
+2024-10-14 19:38:05.319098 Hotel: Golf, sending you 4
+2024-10-14 19:38:05.320294 Tango: Quebec, sending you 2
+2024-10-14 19:38:05.322711 Hotel: Bravo, sending you 6
+2024-10-14 19:38:05.328679 Hotel: Whiskey and Delta, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 8
+ChatterBot Yankee round 8
+ChatterBot Golf round 8
+ChatterBot X-ray round 8
+ChatterBot Bravo round 8
+ChatterBot Whiskey round 8
+ChatterBot Hotel round 8
+ChatterBot Tango round 8
+ChatterBot Quebec round 8
+ChatterBot Delta round 8
+2024-10-14 19:38:06.456690 Yankee: Golf, sending you 4
+2024-10-14 19:38:06.457551 X-ray: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:06.458691 Alpha: Golf, sending you 3
+2024-10-14 19:38:06.459752 Yankee: Bravo, sending you 5
+2024-10-14 19:38:06.462669 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:38:06.463337 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:06.464669 Alpha: Whiskey, sending you 4
+2024-10-14 19:38:06.465318 Yankee: Whiskey and Hotel, sending you 3
+2024-10-14 19:38:06.465859 Bravo: Yankee, sending you 5
+2024-10-14 19:38:06.466552 Hotel: Yankee, sending you 3
+2024-10-14 19:38:06.469598 Alpha: Hotel, sending you 2
+2024-10-14 19:38:06.470958 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:06.472487 Quebec: X-ray, sending you 8
+2024-10-14 19:38:06.472927 Yankee: Delta, sending you 2
+2024-10-14 19:38:06.473644 Bravo: Golf and Delta, sending you 2
+2024-10-14 19:38:06.474843 Hotel: Golf, sending you 4
+2024-10-14 19:38:06.475559 Alpha: Delta, sending you 10
+2024-10-14 19:38:06.477250 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:06.478327 Tango: X-ray, sending you 3
+2024-10-14 19:38:06.479334 Quebec: Tango, sending you 7
+2024-10-14 19:38:06.479716 Bravo: Hotel, sending you 6
+2024-10-14 19:38:06.481096 Hotel: Bravo, sending you 6
+2024-10-14 19:38:06.481828 Delta: Alpha, sending you 6
+2024-10-14 19:38:06.483327 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:06.484375 Tango: Quebec, sending you 2
+2024-10-14 19:38:06.488583 Hotel: Whiskey and Delta, sending you 2
+2024-10-14 19:38:06.489627 Delta: Yankee, Golf, Whiskey and Hotel, sending you 3
+2024-10-14 19:38:06.494739 Delta: Bravo, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 9
+ChatterBot Yankee round 9
+ChatterBot Golf round 9
+ChatterBot X-ray round 9
+ChatterBot Bravo round 9
+ChatterBot Whiskey round 9
+ChatterBot Hotel round 9
+ChatterBot Tango round 9
+ChatterBot Quebec round 9
+ChatterBot Delta round 9
+2024-10-14 19:38:07.784124 Hotel: Yankee, sending you 3
+2024-10-14 19:38:07.788418 Delta: Alpha, sending you 5
+2024-10-14 19:38:07.790522 X-ray: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:07.791198 Hotel: Golf, sending you 4
+2024-10-14 19:38:07.813246 Alpha: Golf and Whiskey, sending you 4
+2024-10-14 19:38:07.816693 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:07.819315 Yankee: Golf, sending you 4
+2024-10-14 19:38:07.820860 Quebec: X-ray, sending you 8
+2024-10-14 19:38:07.821989 Delta: Yankee, Golf, Bravo, Whiskey and Hotel, sending you 3
+2024-10-14 19:38:07.824385 X-ray: Tango and Quebec, sending you 4
+2024-10-14 19:38:07.825437 Hotel: Bravo, sending you 6
+2024-10-14 19:38:07.827712 Bravo: Yankee, sending you 5
+2024-10-14 19:38:07.829631 Tango: X-ray, sending you 3
+2024-10-14 19:38:07.830176 Alpha: Hotel, sending you 1
+2024-10-14 19:38:07.831874 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:07.833735 Yankee: Bravo, sending you 5
+2024-10-14 19:38:07.835480 Quebec: Tango, sending you 7
+2024-10-14 19:38:07.835931 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:07.838167 Hotel: Whiskey and Delta, sending you 2
+2024-10-14 19:38:07.840007 Tango: Quebec, sending you 2
+2024-10-14 19:38:07.840472 Bravo: Golf and Delta, sending you 2
+2024-10-14 19:38:07.843889 Alpha: Delta, sending you 10
+2024-10-14 19:38:07.846143 Yankee: Whiskey and Hotel, sending you 3
+2024-10-14 19:38:07.848136 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:07.849307 Bravo: Hotel, sending you 6
+2024-10-14 19:38:07.851715 Yankee: Delta, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 10
+ChatterBot Yankee round 10
+ChatterBot Golf round 10
+ChatterBot X-ray round 10
+ChatterBot Bravo round 10
+ChatterBot Whiskey round 10
+ChatterBot Hotel round 10
+ChatterBot Tango round 10
+ChatterBot Quebec round 10
+ChatterBot Delta round 10
+2024-10-14 19:38:09.094689 Alpha: Golf and Whiskey, sending you 2
+2024-10-14 19:38:09.097752 Hotel: Yankee, sending you 3
+2024-10-14 19:38:09.100797 Alpha: Hotel, sending you 1
+2024-10-14 19:38:09.104556 Hotel: Golf, sending you 4
+2024-10-14 19:38:09.107688 Alpha: Delta, sending you 4
+2024-10-14 19:38:09.110438 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:09.113100 Delta: Alpha, sending you 5
+2024-10-14 19:38:09.115740 Yankee: Golf and Bravo, sending you 4
+2024-10-14 19:38:09.117933 Hotel: Bravo, sending you 6
+2024-10-14 19:38:09.119985 Tango: X-ray, sending you 3
+2024-10-14 19:38:09.120458 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:09.122728 Quebec: X-ray, sending you 8
+2024-10-14 19:38:09.123798 Bravo: Yankee, sending you 5
+2024-10-14 19:38:09.125353 X-ray: Quebec, sending you 1
+2024-10-14 19:38:09.126909 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:09.129188 Delta: Yankee, Golf, Bravo, Whiskey and Hotel, sending you 3
+2024-10-14 19:38:09.131234 Yankee: Whiskey, Hotel and Delta, sending you 3
+2024-10-14 19:38:09.132481 Hotel: Whiskey and Delta, sending you 2
+2024-10-14 19:38:09.134383 Tango: Quebec, sending you 2
+2024-10-14 19:38:09.134881 Golf: Yankee, sending you 3
+2024-10-14 19:38:09.136672 Quebec: Tango, sending you 7
+2024-10-14 19:38:09.137047 Bravo: Golf and Delta, sending you 2
+2024-10-14 19:38:09.140668 Golf: Hotel, sending you 5
+2024-10-14 19:38:09.143694 Bravo: Hotel, sending you 6
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 11
+ChatterBot Yankee round 11
+ChatterBot Golf round 11
+ChatterBot X-ray round 11
+ChatterBot Bravo round 11
+ChatterBot Whiskey round 11
+ChatterBot Hotel round 11
+ChatterBot Tango round 11
+ChatterBot Quebec round 11
+ChatterBot Delta round 11
+2024-10-14 19:38:10.372819 Hotel: We should replace Yankee with Alpha
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:10.391628 Golf: No
+2024-10-14 19:38:10.391774 Whiskey: No
+2024-10-14 19:38:10.391880 Delta: Yes
+2024-10-14 19:38:10.391985 Bravo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:10.473527 Delta: We should add Tango
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:10.500254 Golf: No
+2024-10-14 19:38:10.500499 Yankee: No
+2024-10-14 19:38:10.500806 Bravo: No
+2024-10-14 19:38:10.501022 Hotel: No
+2024-10-14 19:38:10.501230 Alpha: No
+2024-10-14 19:38:10.501835 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:10.923626 Alpha: Golf, sending you 4
+2024-10-14 19:38:10.930384 X-ray: Quebec, sending you 1
+2024-10-14 19:38:10.934977 Bravo: Alpha we want you to join our group
+2024-10-14 19:38:10.946186 Alpha: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:10.970563 Quebec: I was attacked by Alpha
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:10.979710 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:38:10.981730 Quebec: Ow
+2024-10-14 19:38:10.982286 Alpha: Whiskey, sending you 5
+2024-10-14 19:38:10.986054 Yankee: Golf, sending you 4
+2024-10-14 19:38:10.988588 Whiskey: Alpha, Yankee, Hotel and Delta, sending you 3
+2024-10-14 19:38:10.991135 Golf: Hotel, sending you 1
+2024-10-14 19:38:10.994012 Golf: I was attacked by X-ray
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:11.039023 Golf: Ow
+2024-10-14 19:38:11.041541 Alpha: Hotel, sending you 1
+2024-10-14 19:38:11.045124 Yankee: Bravo, sending you 5
+2024-10-14 19:38:11.046985 Whiskey: Golf, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 19:38:11.049255 Alpha: Delta, sending you 9
+2024-10-14 19:38:11.052336 Delta: We should drop Yankee
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:11.083343 Bravo: Yes
+2024-10-14 19:38:11.083560 Golf: No
+2024-10-14 19:38:11.083746 Hotel: Yes
+2024-10-14 19:38:11.084471 Alpha: No
+2024-10-14 19:38:11.084639 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:11.192018 Yankee: Whiskey and Hotel, sending you 3
+2024-10-14 19:38:11.192703 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:11.196665 Yankee: Delta, sending you 2
+2024-10-14 19:38:11.198793 Delta: Yankee we want you to join our group
+2024-10-14 19:38:11.203599 Yankee: No
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:11.222972 Delta: We should add Yankee
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:11.240739 Bravo: Yes
+2024-10-14 19:38:11.240911 Golf: Yes
+2024-10-14 19:38:11.241036 Hotel: Yes
+2024-10-14 19:38:11.241154 Alpha: Yes
+2024-10-14 19:38:11.241266 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+chatterbot Golf submitting transactions
+2024-10-14 19:38:11.332700 Hotel: We should replace Bravo with Alpha
+ChatterBot Delta reevaluating
+2024-10-14 19:38:11.345056 Golf: No
+2024-10-14 19:38:11.345202 Whiskey: No
+2024-10-14 19:38:11.345300 Delta: No
+2024-10-14 19:38:11.345852 Yankee: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:11.405813 Bravo: We should replace Hotel with Alpha
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:11.421649 Yankee: No
+2024-10-14 19:38:11.421766 Golf: No
+2024-10-14 19:38:11.421872 Whiskey: No
+2024-10-14 19:38:11.421970 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 19:38:11.484056 Hotel: Alpha we want you to join our group
+2024-10-14 19:38:11.491648 Alpha: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Yankee submitting transactions
+2024-10-14 19:38:11.525672 Yankee: Alpha we want you to join our group
+2024-10-14 19:38:11.530531 Alpha: Yes
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:11.566784 Yankee: Sorry, I'm actually sending you 0
+2024-10-14 19:38:11.569901 Bravo: Yankee, sending you 7
+2024-10-14 19:38:11.571683 Yankee: Alpha, sending you 1
+2024-10-14 19:38:11.573003 Hotel: Alpha, sending you 1
+2024-10-14 19:38:11.573649 Bravo: Golf and Delta, sending you 3
+2024-10-14 19:38:11.575667 Yankee: Golf, sending you 6
+2024-10-14 19:38:11.576979 Hotel: Yankee, sending you 4
+2024-10-14 19:38:11.577707 Bravo: Whiskey, sending you 1
+2024-10-14 19:38:11.579674 Yankee: Whiskey and Delta, sending you 3
+2024-10-14 19:38:11.582677 Hotel: Golf, sending you 6
+2024-10-14 19:38:11.584663 Yankee: Hotel, sending you 4
+2024-10-14 19:38:11.586690 Hotel: Whiskey and Delta, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 12
+ChatterBot Yankee round 12
+ChatterBot Golf round 12
+ChatterBot X-ray round 12
+ChatterBot Bravo round 12
+ChatterBot Whiskey round 12
+ChatterBot Hotel round 12
+ChatterBot Tango round 12
+ChatterBot Quebec round 12
+ChatterBot Delta round 12
+2024-10-14 19:38:12.376699 Bravo: We should replace Golf with Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:12.399182 Yankee: Yes
+2024-10-14 19:38:12.399346 Alpha: No
+2024-10-14 19:38:12.399494 Whiskey: No
+2024-10-14 19:38:12.399622 Delta: No
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:12.486301 Delta: We should add Yankee
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:12.513533 Bravo: Yes
+2024-10-14 19:38:12.513741 Golf: Yes
+2024-10-14 19:38:12.513941 Hotel: Yes
+2024-10-14 19:38:12.514072 Alpha: Yes
+2024-10-14 19:38:12.514189 Whiskey: Yes
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:12.676462 Tango: We should drop Quebec
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:12.682212 X-ray: No
+ChatterBot Tango reevaluating
+2024-10-14 19:38:12.690803 Bravo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:12.701011 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:12.729261 Yankee: We should replace Golf with Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:12.747206 Hotel: Yes
+2024-10-14 19:38:12.747341 Alpha: No
+2024-10-14 19:38:12.747465 Whiskey: No
+2024-10-14 19:38:12.747578 Delta: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:12.844168 X-ray: We should drop Yankee and Hotel
+ChatterBot Tango reevaluating
+2024-10-14 19:38:12.948449 Tango: Yes
+2024-10-14 19:38:12.948736 Quebec: Yes
+2024-10-14 19:38:12.949022 Bravo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:38:12.984162 Alpha: Yankee and Hotel, sending you 1
+2024-10-14 19:38:12.987064 Delta: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:12.994799 Yankee: No
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:13.020785 Quebec: I was attacked by Golf
+2024-10-14 19:38:13.021209 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:38:13.022021 Quebec: Ow
+2024-10-14 19:38:13.023485 Alpha: Golf, sending you 2
+2024-10-14 19:38:13.026074 Yankee: Bravo we want you to join our group
+2024-10-14 19:38:13.035156 Bravo: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:13.060674 Hotel: Bravo we want you to join our group
+2024-10-14 19:38:13.066202 Bravo: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:13.085343 Whiskey: Alpha, Yankee, Golf, Bravo, Hotel and Delta, sending you 1
+2024-10-14 19:38:13.087619 Whiskey: I was attacked by X-ray
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:13.111877 Whiskey: Ow
+2024-10-14 19:38:13.112767 Golf: Alpha, Bravo, Whiskey and Delta, sending you 2
+2024-10-14 19:38:13.114820 Alpha: Whiskey, sending you 4
+2024-10-14 19:38:13.116712 Bravo: Yankee and Hotel, sending you 2
+2024-10-14 19:38:13.119693 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:13.122550 Alpha: Delta, sending you 6
+2024-10-14 19:38:13.125198 Bravo: Delta, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+2024-10-14 19:38:13.142680 Hotel: Alpha, sending you 1
+2024-10-14 19:38:13.147679 Hotel: Yankee, sending you 4
+2024-10-14 19:38:13.150655 Yankee: Alpha, sending you 1
+2024-10-14 19:38:13.152114 Hotel: Bravo, sending you 6
+2024-10-14 19:38:13.153671 Yankee: Bravo, sending you 5
+2024-10-14 19:38:13.156668 Hotel: Whiskey and Delta, sending you 3
+2024-10-14 19:38:13.158226 Yankee: Whiskey and Delta, sending you 3
+2024-10-14 19:38:13.162660 Yankee: Hotel, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 13
+ChatterBot Yankee round 13
+ChatterBot Golf round 13
+ChatterBot X-ray round 13
+ChatterBot Bravo round 13
+ChatterBot Whiskey round 13
+ChatterBot Hotel round 13
+ChatterBot Tango round 13
+ChatterBot Quebec round 13
+ChatterBot Delta round 13
+2024-10-14 19:38:14.258071 Delta: We should add Yankee
+2024-10-14 19:38:14.279743 Bravo: Yes
+2024-10-14 19:38:14.279933 Golf: Yes
+2024-10-14 19:38:14.280062 Hotel: Yes
+2024-10-14 19:38:14.280188 Alpha: Yes
+2024-10-14 19:38:14.280315 Whiskey: Yes
+2024-10-14 19:38:14.379105 Tango: We should drop Quebec
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:14.384900 X-ray: Yes
+ChatterBot Tango reevaluating
+2024-10-14 19:38:14.389634 X-ray: Friends?
+2024-10-14 19:38:14.406371 Alpha: No
+2024-10-14 19:38:14.406528 Golf: No
+2024-10-14 19:38:14.406642 Whiskey: No
+2024-10-14 19:38:14.406742 Delta: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:14.471657 Delta: Yankee we want you to join our group
+2024-10-14 19:38:14.477571 Yankee: No
+2024-10-14 19:38:14.505010 Quebec: I was attacked by Alpha
+2024-10-14 19:38:14.505346 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:38:14.505505 Quebec: Ow
+2024-10-14 19:38:14.506709 Alpha: I was attacked by X-ray
+2024-10-14 19:38:14.533911 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:38:14.535800 Alpha: Ow
+2024-10-14 19:38:14.536166 Hotel: Yankee and Bravo, sending you 5
+2024-10-14 19:38:14.536648 Yankee: Alpha, sending you 1
+2024-10-14 19:38:14.537541 Golf: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:14.538304 Bravo: Yankee, sending you 5
+2024-10-14 19:38:14.538852 Whiskey: Alpha, Yankee, Golf, Bravo, Hotel and Delta, sending you 2
+2024-10-14 19:38:14.540170 Yankee: Bravo, sending you 5
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:14.542065 Hotel: Whiskey, sending you 3
+2024-10-14 19:38:14.543074 Golf: Yankee and Hotel, sending you 3
+2024-10-14 19:38:14.546007 Bravo: Whiskey, sending you 1
+chatterbot Alpha submitting transactions
+2024-10-14 19:38:14.546674 Yankee: Whiskey and Delta, sending you 3
+2024-10-14 19:38:14.547807 Hotel: Delta, sending you 4
+2024-10-14 19:38:14.549837 Golf: Bravo, sending you 1
+2024-10-14 19:38:14.550989 Golf: I was attacked by Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:14.588330 Golf: Ow
+2024-10-14 19:38:14.614660 Whiskey: Yankee, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 14
+ChatterBot Yankee round 14
+ChatterBot Golf round 14
+ChatterBot X-ray round 14
+ChatterBot Bravo round 14
+ChatterBot Whiskey round 14
+ChatterBot Hotel round 14
+chatterbot Delta submitting transactions
+ChatterBot Tango round 14
+ChatterBot Quebec round 14
+ChatterBot Delta round 14
+2024-10-14 19:38:15.474067 X-ray: We should add Tango
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:15.494500 Yankee: No
+2024-10-14 19:38:15.494725 Bravo: No
+2024-10-14 19:38:15.494886 Hotel: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:15.600220 Hotel: We should replace Yankee with Golf
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:15.627043 Alpha: No
+2024-10-14 19:38:15.627247 Whiskey: No
+2024-10-14 19:38:15.627403 Delta: No
+2024-10-14 19:38:15.627540 Bravo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:15.706019 Delta: We should add Yankee
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:15.726910 Bravo: No
+2024-10-14 19:38:15.727072 Golf: Yes
+2024-10-14 19:38:15.727210 Hotel: Yes
+2024-10-14 19:38:15.727852 Alpha: Yes
+2024-10-14 19:38:15.728026 Whiskey: Yes
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 19:38:15.883028 Hotel: Golf we want you to join our group
+2024-10-14 19:38:15.888011 Golf: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:16.024288 Bravo: We should replace Alpha with Golf
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:16.046156 Yankee: Yes
+2024-10-14 19:38:16.046384 Whiskey: No
+2024-10-14 19:38:16.046606 Hotel: No
+2024-10-14 19:38:16.046963 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:16.127690 Bravo: We should replace Whiskey with Golf
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:16.151116 Alpha: No
+2024-10-14 19:38:16.151726 Yankee: No
+2024-10-14 19:38:16.152746 Hotel: No
+2024-10-14 19:38:16.153394 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:16.236160 Delta: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:16.243383 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:16.273351 Tango: We should drop Quebec
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:16.279667 X-ray: Yes
+ChatterBot Tango reevaluating
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:16.289011 Golf: Alpha, sending you 2
+2024-10-14 19:38:16.291855 Alpha: Yankee and Hotel, sending you 1
+2024-10-14 19:38:16.293932 Whiskey: Sending you each 2
+2024-10-14 19:38:16.296100 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:16.302055 Bravo: Golf we want you to join our group
+2024-10-14 19:38:16.308019 Golf: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:16.337072 Yankee: Golf we want you to join our group
+2024-10-14 19:38:16.343689 Golf: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:16.372909 Alpha: Golf and Whiskey, sending you 4
+2024-10-14 19:38:16.375537 Golf: Whiskey and Delta, sending you 3
+2024-10-14 19:38:16.378168 Hotel: Alpha, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-14 19:38:16.380029 Alpha: Delta, sending you 9
+2024-10-14 19:38:16.395935 Hotel: Golf, sending you 6
+2024-10-14 19:38:16.423933 Hotel: Whiskey, sending you 4
+2024-10-14 19:38:16.438251 Hotel: Delta, sending you 5
+2024-10-14 19:38:16.440020 Yankee: Alpha, sending you 1
+2024-10-14 19:38:16.501666 Yankee: Golf and Hotel, sending you 4
+2024-10-14 19:38:16.512208 Yankee: Bravo, sending you 5
+2024-10-14 19:38:16.530028 Yankee: Delta, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 15
+ChatterBot Yankee round 15
+ChatterBot Golf round 15
+ChatterBot X-ray round 15
+ChatterBot Bravo round 15
+ChatterBot Whiskey round 15
+ChatterBot Hotel round 15
+ChatterBot Tango round 15
+ChatterBot Quebec round 15
+ChatterBot Delta round 15
+2024-10-14 19:38:17.296649 Hotel: We should add Yankee
+ChatterBot Delta reevaluating
+2024-10-14 19:38:17.313116 Delta: Yes
+2024-10-14 19:38:17.313305 Alpha: Yes
+2024-10-14 19:38:17.313435 Golf: Yes
+2024-10-14 19:38:17.313555 Whiskey: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:17.382730 X-ray: We would work well together
+ChatterBot Tango reevaluating
+2024-10-14 19:38:17.392904 Tango: No
+2024-10-14 19:38:17.393073 Whiskey: No
+ChatterBot Tango reevaluating
+2024-10-14 19:38:17.419580 Bravo: We should replace Delta with Golf
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:17.446854 Alpha: No
+2024-10-14 19:38:17.447075 Yankee: No
+2024-10-14 19:38:17.447303 Whiskey: No
+2024-10-14 19:38:17.447433 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:17.530311 Hotel: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:17.536668 Yankee: Yes
+ChatterBot Delta reevaluating
+2024-10-14 19:38:17.558882 Tango: We should drop Quebec
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:17.563526 X-ray: Yes
+ChatterBot Tango reevaluating
+2024-10-14 19:38:17.570384 Delta: Yankee we want you to join our group
+2024-10-14 19:38:17.578185 Yankee: No
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:17.600160 Bravo: We should replace Whiskey with Golf
+2024-10-14 19:38:17.614344 Alpha: No
+2024-10-14 19:38:17.614532 Yankee: No
+2024-10-14 19:38:17.614666 Hotel: No
+2024-10-14 19:38:17.614822 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:17.693270 Alpha: Yankee and Hotel, sending you 2
+2024-10-14 19:38:17.697564 Golf: Alpha and Whiskey, sending you 2
+2024-10-14 19:38:17.700962 Yankee: Whiskey we want you to join our group
+2024-10-14 19:38:17.709270 Whiskey: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:17.733975 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:17.739169 Alpha: Golf and Whiskey, sending you 4
+2024-10-14 19:38:17.743820 Bravo: Golf we want you to join our group
+2024-10-14 19:38:17.752532 Golf: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:17.841464 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:17.845344 Hotel: Alpha, sending you 1
+2024-10-14 19:38:17.848917 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:17.855226 Alpha: Delta, sending you 7
+2024-10-14 19:38:17.858880 Golf: Bravo, sending you 1
+2024-10-14 19:38:17.867118 Hotel: Yankee and Golf, sending you 5
+2024-10-14 19:38:17.871671 Golf: Delta, sending you 3
+2024-10-14 19:38:17.874227 Hotel: Whiskey and Delta, sending you 3
+2024-10-14 19:38:17.899701 Yankee: Alpha, sending you 1
+2024-10-14 19:38:17.906978 Yankee: Golf, sending you 6
+2024-10-14 19:38:17.945931 Yankee: Whiskey and Delta, sending you 3
+2024-10-14 19:38:17.953675 Yankee: Hotel, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Alpha round 16
+ChatterBot Yankee round 16
+ChatterBot Golf round 16
+ChatterBot X-ray round 16
+ChatterBot Bravo round 16
+ChatterBot Whiskey round 16
+ChatterBot Hotel round 16
+ChatterBot Tango round 16
+ChatterBot Quebec round 16
+ChatterBot Delta round 16
+2024-10-14 19:38:19.583464 X-ray: We should replace Delta with Whiskey
+2024-10-14 19:38:19.590527 Tango: No
+2024-10-14 19:38:19.634963 Bravo: We should replace Whiskey with Golf
+2024-10-14 19:38:19.660064 Alpha: No
+2024-10-14 19:38:19.660297 Yankee: No
+2024-10-14 19:38:19.660497 Hotel: No
+2024-10-14 19:38:19.660681 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:19.754883 Delta: We should add Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:19.770369 Bravo: Yes
+2024-10-14 19:38:19.770523 Golf: Yes
+2024-10-14 19:38:19.770669 Hotel: Yes
+2024-10-14 19:38:19.770785 Alpha: Yes
+2024-10-14 19:38:19.770885 Whiskey: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:19.845100 X-ray: Whiskey we want you to join our group
+2024-10-14 19:38:19.847745 Whiskey: No
+2024-10-14 19:38:19.855373 Tango: We should drop Quebec
+2024-10-14 19:38:19.859152 X-ray: Yes
+2024-10-14 19:38:19.863099 Delta: Yankee we want you to join our group
+2024-10-14 19:38:19.867637 Yankee: No
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:19.887664 Alpha: Yankee and Hotel, sending you 2
+2024-10-14 19:38:19.891777 Hotel: Yankee and Golf, sending you 5
+2024-10-14 19:38:19.894689 Golf: Alpha and Whiskey, sending you 2
+2024-10-14 19:38:19.898376 Yankee: Alpha, sending you 1
+2024-10-14 19:38:19.901118 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:19.904425 Bravo: Golf we want you to join our group
+2024-10-14 19:38:19.911106 Golf: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:19.934737 Alpha: Golf and Whiskey, sending you 4
+2024-10-14 19:38:19.937350 Hotel: Whiskey, sending you 3
+2024-10-14 19:38:19.938848 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:19.941036 Yankee: Golf, sending you 4
+2024-10-14 19:38:19.942659 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:19.944898 Alpha: Delta, sending you 7
+2024-10-14 19:38:19.946537 Hotel: Delta, sending you 4
+2024-10-14 19:38:19.949227 Golf: Bravo, sending you 1
+2024-10-14 19:38:19.951225 Yankee: Whiskey and Delta, sending you 3
+2024-10-14 19:38:19.955673 Golf: Delta, sending you 3
+2024-10-14 19:38:19.957722 Yankee: Hotel, sending you 6
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 17
+ChatterBot Yankee round 17
+ChatterBot Golf round 17
+ChatterBot X-ray round 17
+ChatterBot Bravo round 17
+ChatterBot Whiskey round 17
+ChatterBot Hotel round 17
+ChatterBot Tango round 17
+ChatterBot Quebec round 17
+ChatterBot Delta round 17
+2024-10-14 19:38:21.724055 Delta: We should replace Bravo with Yankee
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:21.743155 Alpha: Yes
+2024-10-14 19:38:21.743348 Golf: No
+2024-10-14 19:38:21.743493 Whiskey: Yes
+2024-10-14 19:38:21.743632 Hotel: Yes
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:21.872672 Bravo: We should replace Whiskey with Golf
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:21.898534 Alpha: No
+2024-10-14 19:38:21.898727 Yankee: No
+2024-10-14 19:38:21.898896 Hotel: No
+2024-10-14 19:38:21.899046 Delta: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:21.985092 Delta: We should add Yankee
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:22.018350 Bravo: Yes
+2024-10-14 19:38:22.018543 Golf: Yes
+2024-10-14 19:38:22.018737 Hotel: Yes
+2024-10-14 19:38:22.018909 Alpha: Yes
+2024-10-14 19:38:22.019088 Whiskey: Yes
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:22.254871 Tango: We should drop Quebec
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:22.259776 X-ray: Yes
+2024-10-14 19:38:22.264177 X-ray: We should add Bravo
+2024-10-14 19:38:22.272889 Tango: No
+2024-10-14 19:38:22.273120 Whiskey: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:22.294547 Delta: Yankee we want you to join our group
+2024-10-14 19:38:22.310451 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:22.355486 Whiskey: We should drop Bravo
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:38:22.389600 Delta: Yes
+2024-10-14 19:38:22.390635 Alpha: Yes
+2024-10-14 19:38:22.391008 Golf: No
+2024-10-14 19:38:22.391342 Yankee: Yes
+2024-10-14 19:38:22.391691 Hotel: Yes
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 19:38:22.649990 Yankee: Alpha, sending you 2
+2024-10-14 19:38:22.654785 X-ray: We should drop Whiskey
+2024-10-14 19:38:22.660368 Tango: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:22.671539 Bravo: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 19:38:22.684749 Golf: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:22.726699 Yankee: Golf, sending you 4
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:22.730875 Whiskey: Alpha, Yankee, Hotel and Delta, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-14 19:38:22.734519 Yankee: Whiskey and Delta, sending you 3
+2024-10-14 19:38:22.740460 Hotel: We should drop Whiskey
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:22.768804 Yankee: No
+2024-10-14 19:38:22.769488 Alpha: No
+2024-10-14 19:38:22.769684 Golf: No
+2024-10-14 19:38:22.769848 Delta: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:22.902175 Alpha: Yankee and Hotel, sending you 2
+2024-10-14 19:38:22.906650 Whiskey: Golf, sending you 1
+2024-10-14 19:38:22.910174 Yankee: Hotel, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:38:22.918305 Hotel: We should drop Delta
+ChatterBot Golf reevaluating
+2024-10-14 19:38:22.951276 Alpha: No
+2024-10-14 19:38:22.951527 Yankee: No
+2024-10-14 19:38:22.951716 Golf: No
+2024-10-14 19:38:22.951893 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:38:23.082447 Alpha: Golf and Whiskey, sending you 4
+2024-10-14 19:38:23.355877 Alpha: Delta, sending you 7
+2024-10-14 19:38:23.359703 Hotel: We should drop Yankee
+ChatterBot Golf reevaluating
+2024-10-14 19:38:23.377799 Delta: No
+2024-10-14 19:38:23.378254 Alpha: No
+2024-10-14 19:38:23.379038 Golf: No
+2024-10-14 19:38:23.379324 Whiskey: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:23.510125 Hotel: We should drop Golf
+2024-10-14 19:38:23.527736 Yankee: No
+2024-10-14 19:38:23.527913 Alpha: No
+2024-10-14 19:38:23.528052 Whiskey: No
+2024-10-14 19:38:23.528162 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:23.623840 Golf: Alpha and Whiskey, sending you 2
+2024-10-14 19:38:23.653483 Golf: Yankee and Hotel, sending you 4
+2024-10-14 19:38:23.671630 Hotel: Alpha, sending you 2
+2024-10-14 19:38:23.676759 Golf: Bravo, sending you 1
+2024-10-14 19:38:23.682453 Hotel: Golf, sending you 6
+2024-10-14 19:38:23.686540 Golf: Delta, sending you 3
+2024-10-14 19:38:23.693221 Hotel: Whiskey, sending you 4
+2024-10-14 19:38:23.722932 Hotel: Delta, sending you 5
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 18
+ChatterBot Yankee round 18
+ChatterBot Golf round 18
+ChatterBot X-ray round 18
+ChatterBot Bravo round 18
+ChatterBot Whiskey round 18
+ChatterBot Hotel round 18
+ChatterBot Tango round 18
+ChatterBot Quebec round 18
+ChatterBot Delta round 18
+2024-10-14 19:38:25.374144 Bravo: We should add Golf
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:25.504095 Yankee: Yes
+2024-10-14 19:38:25.505042 Hotel: Yes
+2024-10-14 19:38:25.505317 Alpha: Yes
+2024-10-14 19:38:25.505566 Whiskey: Yes
+2024-10-14 19:38:25.505814 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:25.644796 Delta: We should replace Bravo with Yankee
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:25.664758 Alpha: Yes
+2024-10-14 19:38:25.665411 Golf: Yes
+2024-10-14 19:38:25.666005 Whiskey: Yes
+2024-10-14 19:38:25.667006 Hotel: Yes
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:25.748206 Golf: We should replace Bravo with Tango
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:25.771680 Delta: No
+2024-10-14 19:38:25.771839 Alpha: No
+2024-10-14 19:38:25.771974 Whiskey: No
+2024-10-14 19:38:25.772084 Yankee: No
+2024-10-14 19:38:25.772203 Hotel: No
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:25.936493 Yankee: We should drop Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:25.964871 Alpha: No
+2024-10-14 19:38:25.965076 Golf: No
+2024-10-14 19:38:25.965232 Whiskey: No
+2024-10-14 19:38:25.965409 Delta: No
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:26.093850 Delta: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:26.105794 Yankee: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:26.142466 Tango: We should drop Quebec
+2024-10-14 19:38:26.148484 X-ray: Yes
+2024-10-14 19:38:26.157451 Bravo: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 19:38:26.169728 Golf: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:26.230111 Alpha: Yankee and Hotel, sending you 2
+2024-10-14 19:38:26.235062 Hotel: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:26.243218 Yankee: No
+2024-10-14 19:38:26.259448 Whiskey: Alpha, Yankee, Golf and Delta, sending you 3
+2024-10-14 19:38:26.265420 Golf: We should drop Bravo
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:26.286936 Delta: Yes
+2024-10-14 19:38:26.287149 Alpha: Yes
+2024-10-14 19:38:26.287318 Whiskey: Yes
+2024-10-14 19:38:26.287893 Yankee: Yes
+2024-10-14 19:38:26.288011 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 19:38:26.402355 Alpha: Golf, sending you 4
+chatterbot Tango submitting transactions
+2024-10-14 19:38:26.407815 Whiskey: Hotel, sending you 4
+2024-10-14 19:38:26.413317 Alpha: Whiskey, sending you 5
+2024-10-14 19:38:26.420788 Alpha: Delta, sending you 6
+2024-10-14 19:38:27.131546 Hotel: Alpha, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 19:38:27.139071 Golf: Alpha, Whiskey and Delta, sending you 2
+2024-10-14 19:38:27.144499 Hotel: Yankee and Golf, sending you 6
+2024-10-14 19:38:27.147792 Yankee: Alpha, sending you 2
+2024-10-14 19:38:27.149728 Golf: Yankee, sending you 4
+chatterbot Golf submitting transactions
+2024-10-14 19:38:27.155783 Hotel: Whiskey, sending you 3
+2024-10-14 19:38:27.159972 Yankee: Golf, sending you 6
+2024-10-14 19:38:27.163808 Golf: Hotel, sending you 6
+2024-10-14 19:38:27.250108 Yankee: Whiskey, sending you 5
+2024-10-14 19:38:27.321201 Yankee: Delta, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 19
+ChatterBot Yankee round 19
+ChatterBot Golf round 19
+ChatterBot X-ray round 19
+ChatterBot Bravo round 19
+ChatterBot Whiskey round 19
+ChatterBot Hotel round 19
+ChatterBot Tango round 19
+ChatterBot Quebec round 19
+ChatterBot Delta round 19
+2024-10-14 19:38:28.050452 Alpha: We should add Bravo
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:28.088568 Delta: No
+2024-10-14 19:38:28.088859 Golf: Yes
+2024-10-14 19:38:28.089067 Whiskey: Yes
+2024-10-14 19:38:28.089237 Yankee: No
+2024-10-14 19:38:28.089413 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:28.298306 X-ray: We should add Bravo and Yankee
+ChatterBot Tango reevaluating
+2024-10-14 19:38:28.307004 Tango: Yes
+2024-10-14 19:38:28.352704 Delta: We should replace Bravo with Yankee
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:28.385033 Alpha: No
+2024-10-14 19:38:28.385267 Golf: No
+2024-10-14 19:38:28.385462 Whiskey: No
+2024-10-14 19:38:28.385655 Hotel: Yes
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:28.462348 Alpha: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:28.472770 Bravo: No
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:28.505103 X-ray: Bravo and Yankee we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:28.516847 Bravo: No
+2024-10-14 19:38:28.516988 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:38:28.566243 Delta: Yankee we want you to join our group
+2024-10-14 19:38:28.578788 Yankee: No
+ChatterBot Golf reevaluating
+2024-10-14 19:38:28.615206 Whiskey: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:28.625822 Bravo: No
+ChatterBot Golf reevaluating
+2024-10-14 19:38:28.672124 Yankee: Golf and Hotel, sending you 6
+2024-10-14 19:38:28.676351 Alpha: I was attacked by Bravo
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:28.873116 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:38:28.885041 Alpha: Ow
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:28.900979 Golf: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:28.911723 Bravo: No
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:28.939384 X-ray: Tango, sending you 2
+2024-10-14 19:38:29.034026 Golf: Yankee, sending you 5
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:38:29.066276 Golf: Whiskey, sending you 3
+2024-10-14 19:38:29.071015 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+2024-10-14 19:38:29.116671 Golf: Hotel, sending you 6
+2024-10-14 19:38:29.123165 Whiskey: Bravo, sending you 1
+2024-10-14 19:38:29.128544 Golf: Delta, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 20
+ChatterBot Yankee round 20
+ChatterBot Golf round 20
+ChatterBot X-ray round 20
+ChatterBot Bravo round 20
+ChatterBot Whiskey round 20
+ChatterBot Hotel round 20
+ChatterBot Tango round 20
+ChatterBot Quebec round 20
+ChatterBot Delta round 20
+2024-10-14 19:38:29.937856 Bravo: We should add Golf
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:30.034274 Yankee: Yes
+2024-10-14 19:38:30.035005 Hotel: Yes
+2024-10-14 19:38:30.035413 Alpha: Yes
+2024-10-14 19:38:30.036388 Whiskey: Yes
+2024-10-14 19:38:30.036713 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:30.220750 Yankee: We should add Alpha
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:30.239653 Golf: Yes
+2024-10-14 19:38:30.239840 Whiskey: Yes
+2024-10-14 19:38:30.240481 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:30.322898 Alpha: We should drop Bravo
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:30.347738 Delta: Yes
+2024-10-14 19:38:30.347889 Golf: Yes
+2024-10-14 19:38:30.348004 Whiskey: Yes
+2024-10-14 19:38:30.348108 Yankee: Yes
+2024-10-14 19:38:30.348213 Hotel: Yes
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:38:30.473444 Delta: We should replace Bravo with Yankee
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:30.493041 Alpha: Yes
+2024-10-14 19:38:30.493226 Golf: Yes
+2024-10-14 19:38:30.493337 Whiskey: Yes
+2024-10-14 19:38:30.493454 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:30.565929 Golf: We should replace Bravo with Alpha
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:30.585210 Hotel: Yes
+2024-10-14 19:38:30.585392 Whiskey: Yes
+2024-10-14 19:38:30.585502 Delta: Yes
+2024-10-14 19:38:30.585624 Yankee: Yes
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:30.704702 Bravo: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 19:38:30.719508 Golf: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:30.766898 Delta: Yankee we want you to join our group
+2024-10-14 19:38:30.778916 Yankee: No
+ChatterBot Golf reevaluating
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:30.818385 Yankee: Alpha we want you to join our group
+2024-10-14 19:38:30.828144 Alpha: Yes
+2024-10-14 19:38:30.858710 X-ray: Yankee and Bravo, sending you 1
+2024-10-14 19:38:30.861853 Alpha: Yankee and Hotel, sending you 1
+2024-10-14 19:38:30.866394 Golf: Alpha we want you to join our group
+2024-10-14 19:38:30.876736 Alpha: Yes
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:30.908474 X-ray: Tango, sending you 2
+2024-10-14 19:38:30.911877 Alpha: Golf, Whiskey and Delta, sending you 2
+chatterbot Tango submitting transactions
+2024-10-14 19:38:30.932853 Yankee: Alpha, sending you 1
+2024-10-14 19:38:30.941783 Golf: Yankee, sending you 1
+2024-10-14 19:38:30.947485 Yankee: Golf and Hotel, sending you 6
+2024-10-14 19:38:30.953538 Golf: Hotel, sending you 2
+2024-10-14 19:38:30.962111 Yankee: Whiskey, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 21
+ChatterBot Yankee round 21
+ChatterBot Golf round 21
+ChatterBot X-ray round 21
+ChatterBot Bravo round 21
+ChatterBot Whiskey round 21
+ChatterBot Hotel round 21
+ChatterBot Tango round 21
+ChatterBot Quebec round 21
+ChatterBot Delta round 21
+2024-10-14 19:38:31.831781 Delta: We should replace Bravo with Yankee
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:31.850027 Alpha: Yes
+2024-10-14 19:38:31.850293 Golf: Yes
+2024-10-14 19:38:31.850478 Whiskey: Yes
+2024-10-14 19:38:31.850680 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:31.942497 Bravo: We should add Golf
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:31.965476 Yankee: Yes
+2024-10-14 19:38:31.965679 Hotel: Yes
+2024-10-14 19:38:31.965801 Alpha: Yes
+2024-10-14 19:38:31.965917 Whiskey: Yes
+2024-10-14 19:38:31.966028 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:32.097162 Yankee: We should replace Whiskey with Delta
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:32.114187 Alpha: No
+2024-10-14 19:38:32.114738 Golf: No
+2024-10-14 19:38:32.114866 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:32.191907 Delta: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:32.206676 Yankee: No
+ChatterBot Delta reevaluating
+2024-10-14 19:38:32.241422 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 19:38:32.252573 Delta: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:32.283331 Bravo: Golf we want you to join our group
+2024-10-14 19:38:32.327950 Golf: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:32.472480 Whiskey: I was attacked by Bravo
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:32.501697 Whiskey: I'm keeping this round to protect myself
+2024-10-14 19:38:32.511471 Whiskey: Ow
+2024-10-14 19:38:32.517471 X-ray: Bravo, sending you 2
+2024-10-14 19:38:32.542602 Yankee: Delta we want you to join our group
+2024-10-14 19:38:32.554837 Delta: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:32.585456 X-ray: Hotel, sending you 4
+chatterbot Tango submitting transactions
+2024-10-14 19:38:32.795101 Yankee: Alpha, sending you 2
+2024-10-14 19:38:32.813920 Yankee: Golf, sending you 5
+2024-10-14 19:38:32.829527 Yankee: Hotel, sending you 6
+2024-10-14 19:38:32.839005 Yankee: Delta, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 22
+ChatterBot Yankee round 22
+ChatterBot Golf round 22
+ChatterBot X-ray round 22
+ChatterBot Bravo round 22
+ChatterBot Whiskey round 22
+ChatterBot Hotel round 22
+ChatterBot Tango round 22
+ChatterBot Quebec round 22
+ChatterBot Delta round 22
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:33.707562 Hotel: We should replace Whiskey with Delta
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:38:33.732039 Yankee: Yes
+2024-10-14 19:38:33.732329 Alpha: No
+2024-10-14 19:38:33.732716 Golf: No
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:33.814038 Delta: We should replace Bravo with Yankee
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:33.834164 Alpha: Yes
+2024-10-14 19:38:33.834620 Golf: Yes
+2024-10-14 19:38:33.835849 Whiskey: Yes
+2024-10-14 19:38:33.836169 Hotel: Yes
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:38:33.941226 Delta: Yankee we want you to join our group
+2024-10-14 19:38:33.952751 Yankee: No
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:34.030634 Yankee: Alpha, sending you 1
+2024-10-14 19:38:34.036127 X-ray: Bravo, sending you 2
+2024-10-14 19:38:34.039542 Whiskey: Alpha, Golf and Delta, sending you 1
+2024-10-14 19:38:34.045468 Hotel: Delta we want you to join our group
+2024-10-14 19:38:34.053471 Delta: Yes
+2024-10-14 19:38:34.074160 Yankee: Golf and Hotel, sending you 6
+2024-10-14 19:38:34.079955 X-ray: Hotel, sending you 4
+2024-10-14 19:38:34.083238 Whiskey: Yankee and Hotel, sending you 2
+2024-10-14 19:38:34.089798 Yankee: Delta, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 23
+ChatterBot Yankee round 23
+ChatterBot Golf round 23
+ChatterBot X-ray round 23
+ChatterBot Bravo round 23
+ChatterBot Whiskey round 23
+ChatterBot Hotel round 23
+ChatterBot Tango round 23
+ChatterBot Quebec round 23
+ChatterBot Delta round 23
+2024-10-14 19:38:35.187383 Hotel: We should replace Whiskey with Delta
+2024-10-14 19:38:35.204454 Yankee: Yes
+2024-10-14 19:38:35.207448 Alpha: No
+2024-10-14 19:38:35.209269 Golf: No
+2024-10-14 19:38:35.267407 Delta: We should replace Bravo with Yankee
+2024-10-14 19:38:35.287715 Alpha: Yes
+2024-10-14 19:38:35.287976 Golf: Yes
+2024-10-14 19:38:35.288213 Whiskey: Yes
+2024-10-14 19:38:35.288426 Hotel: Yes
+2024-10-14 19:38:35.385812 X-ray: We should replace Hotel with Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:35.393147 Bravo: No
+2024-10-14 19:38:35.408064 Hotel: Delta we want you to join our group
+2024-10-14 19:38:35.417072 Delta: Yes
+2024-10-14 19:38:35.441126 Delta: Yankee we want you to join our group
+2024-10-14 19:38:35.451959 Yankee: No
+2024-10-14 19:38:35.477441 X-ray: Yankee we want you to join our group
+2024-10-14 19:38:35.485765 Yankee: No
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:35.527055 Whiskey: Yankee and Hotel, sending you 1
+2024-10-14 19:38:35.531901 Yankee: Alpha, sending you 2
+2024-10-14 19:38:35.548097 Yankee: Golf and Hotel, sending you 6
+2024-10-14 19:38:35.553444 X-ray: Yankee, sending you 6
+chatterbot Hotel submitting transactions
+2024-10-14 19:38:35.556564 Yankee: Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Alpha round 24
+ChatterBot Yankee round 24
+ChatterBot Golf round 24
+ChatterBot X-ray round 24
+ChatterBot Bravo round 24
+ChatterBot Whiskey round 24
+ChatterBot Hotel round 24
+ChatterBot Tango round 24
+ChatterBot Quebec round 24
+ChatterBot Delta round 24
+2024-10-14 19:38:37.158850 Hotel: We should replace Whiskey with Delta
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:38:37.175037 Yankee: Yes
+2024-10-14 19:38:37.175230 Alpha: No
+2024-10-14 19:38:37.175360 Golf: No
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:37.251804 Bravo: We should add X-ray and Golf
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:37.275274 Yankee: Yes
+2024-10-14 19:38:37.275452 Hotel: Yes
+2024-10-14 19:38:37.275557 Alpha: Yes
+2024-10-14 19:38:37.275676 Whiskey: Yes
+2024-10-14 19:38:37.275855 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:37.403654 Alpha: We should add X-ray
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:37.428316 Delta: Yes
+2024-10-14 19:38:37.428568 Golf: Yes
+2024-10-14 19:38:37.428741 Whiskey: Yes
+2024-10-14 19:38:37.428897 Yankee: Yes
+2024-10-14 19:38:37.429063 Hotel: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:38:37.662124 Hotel: Delta we want you to join our group
+2024-10-14 19:38:37.705345 Delta: No
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 19:38:37.778465 Delta: We should drop Bravo and Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:37.798298 Alpha: No
+2024-10-14 19:38:37.798622 Whiskey: No
+2024-10-14 19:38:37.798817 Golf: No
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:38.037931 Bravo: X-ray and Golf we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:38.053562 X-ray: No
+2024-10-14 19:38:38.054322 Golf: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:38.119496 X-ray: We should replace Yankee with Golf
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:38.125709 Bravo: No
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:38.136421 Bravo: We should add Golf
+2024-10-14 19:38:38.173710 Yankee: Yes
+2024-10-14 19:38:38.174016 Hotel: Yes
+2024-10-14 19:38:38.174216 Alpha: Yes
+2024-10-14 19:38:38.174396 Whiskey: Yes
+2024-10-14 19:38:38.174564 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:38.360892 Whiskey: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:38.381382 X-ray: No
+ChatterBot Alpha reevaluating
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:38.533789 Yankee: Alpha, sending you 2
+2024-10-14 19:38:38.538749 Alpha: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 19:38:38.548279 X-ray: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:38.578394 Delta: We should group up
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 19:38:38.610263 Yankee: No
+2024-10-14 19:38:38.610428 Golf: No
+2024-10-14 19:38:38.610569 X-ray: No
+2024-10-14 19:38:38.610691 Bravo: No
+2024-10-14 19:38:38.610812 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 19:38:38.771244 Yankee: Golf and Hotel, sending you 6
+2024-10-14 19:38:38.779711 Whiskey: Alpha, Yankee, Golf, Hotel and Delta, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:38:38.788211 Yankee: Delta, sending you 3
+2024-10-14 19:38:38.793970 Whiskey: X-ray, sending you 1
+2024-10-14 19:38:38.801745 X-ray: Alpha, sending you 9
+2024-10-14 19:38:38.828367 X-ray: Yankee, sending you 3
+2024-10-14 19:38:38.856676 X-ray: Golf, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 25
+ChatterBot Yankee round 25
+ChatterBot Golf round 25
+ChatterBot X-ray round 25
+ChatterBot Bravo round 25
+ChatterBot Whiskey round 25
+ChatterBot Hotel round 25
+ChatterBot Tango round 25
+ChatterBot Quebec round 25
+ChatterBot Delta round 25
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:39.705848 Alpha: We should add X-ray
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:39.743871 Delta: Yes
+2024-10-14 19:38:39.744213 Golf: Yes
+2024-10-14 19:38:39.744404 Whiskey: Yes
+2024-10-14 19:38:39.745304 Yankee: Yes
+2024-10-14 19:38:39.745505 Hotel: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:39.926152 Bravo: We should add Golf
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:39.952068 Yankee: Yes
+2024-10-14 19:38:39.952254 Hotel: Yes
+2024-10-14 19:38:39.952411 Alpha: Yes
+2024-10-14 19:38:39.952565 Whiskey: Yes
+2024-10-14 19:38:39.952723 Delta: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:40.091260 Hotel: We should replace Whiskey with Delta
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:40.105945 Yankee: Yes
+2024-10-14 19:38:40.106104 Alpha: No
+2024-10-14 19:38:40.106233 Golf: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:40.151203 Delta: We should replace Bravo with Yankee
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:40.168308 Alpha: Yes
+2024-10-14 19:38:40.168436 Golf: Yes
+2024-10-14 19:38:40.168540 Whiskey: Yes
+2024-10-14 19:38:40.168667 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:38:40.244214 Bravo: We should add X-ray and Golf
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:40.265825 Yankee: Yes
+2024-10-14 19:38:40.265970 Hotel: Yes
+2024-10-14 19:38:40.266103 Alpha: Yes
+2024-10-14 19:38:40.266240 Whiskey: Yes
+2024-10-14 19:38:40.266356 Delta: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:40.556926 Whiskey: We should drop X-ray
+ChatterBot Delta reevaluating
+2024-10-14 19:38:40.582336 Delta: Yes
+2024-10-14 19:38:40.582591 Alpha: Yes
+2024-10-14 19:38:40.583138 Golf: Yes
+2024-10-14 19:38:40.583396 Yankee: Yes
+2024-10-14 19:38:40.584319 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:40.717680 Bravo: X-ray and Golf we want you to join our group
+2024-10-14 19:38:40.738436 X-ray: No
+2024-10-14 19:38:40.738901 Golf: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:40.847544 Hotel: Delta we want you to join our group
+2024-10-14 19:38:40.860594 Delta: Yes
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:40.887789 X-ray: Alpha, sending you 10
+chatterbot Golf submitting transactions
+2024-10-14 19:38:40.898588 Delta: Yankee we want you to join our group
+2024-10-14 19:38:40.911991 Yankee: No
+2024-10-14 19:38:40.946302 Yankee: Alpha, sending you 2
+2024-10-14 19:38:40.952324 X-ray: Golf, sending you 6
+2024-10-14 19:38:40.960107 Yankee: Golf, sending you 5
+2024-10-14 19:38:40.966139 Whiskey: Golf, sending you 1
+2024-10-14 19:38:40.974569 Yankee: Hotel, sending you 6
+2024-10-14 19:38:40.986674 Yankee: Delta, sending you 4
+2024-10-14 19:38:40.998994 Yankee: X-ray did not give me 3 like they said
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 26
+ChatterBot Yankee round 26
+ChatterBot Golf round 26
+ChatterBot X-ray round 26
+ChatterBot Bravo round 26
+ChatterBot Whiskey round 26
+ChatterBot Hotel round 26
+ChatterBot Tango round 26
+ChatterBot Quebec round 26
+ChatterBot Delta round 26
+chatterbot Bravo submitting transactions
+2024-10-14 19:38:42.032283 Alpha: We should drop Whiskey
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:42.054818 Yankee: Yes
+2024-10-14 19:38:42.055092 Golf: Yes
+2024-10-14 19:38:42.055289 Hotel: Yes
+2024-10-14 19:38:42.055512 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:42.167424 Yankee: We should drop Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:42.185690 Golf: No
+2024-10-14 19:38:42.186958 Hotel: No
+2024-10-14 19:38:42.187197 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:42.252986 X-ray: We should drop Alpha and Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:42.277525 Yankee: Yes
+2024-10-14 19:38:42.277710 Golf: No
+2024-10-14 19:38:42.277823 Hotel: No
+2024-10-14 19:38:42.277920 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:42.445244 Delta: We should replace Bravo with Yankee
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:42.466735 Alpha: Yes
+2024-10-14 19:38:42.466937 Golf: Yes
+2024-10-14 19:38:42.467069 Whiskey: Yes
+2024-10-14 19:38:42.467223 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+chatterbot X-ray submitting transactions
+2024-10-14 19:38:42.556487 Delta: Yankee we want you to join our group
+2024-10-14 19:38:42.566734 Yankee: No
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 19:38:42.594106 Whiskey: Alpha, Yankee, Golf and Hotel, sending you 3
+2024-10-14 19:38:42.603034 X-ray: Golf, sending you 16
+2024-10-14 19:38:42.609699 Hotel: We should drop Yankee
+2024-10-14 19:38:42.624735 Alpha: No
+2024-10-14 19:38:42.624900 Golf: No
+2024-10-14 19:38:42.625009 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:42.693001 Yankee: Golf and Hotel, sending you 6
+chatterbot Yankee submitting transactions
+2024-10-14 19:38:42.698969 Whiskey: Delta, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:38:42.707822 Yankee: Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 27
+ChatterBot Yankee round 27
+ChatterBot Golf round 27
+ChatterBot X-ray round 27
+ChatterBot Bravo round 27
+ChatterBot Whiskey round 27
+ChatterBot Hotel round 27
+ChatterBot Tango round 27
+ChatterBot Quebec round 27
+ChatterBot Delta round 27
+2024-10-14 19:38:43.691610 Delta: We should replace Bravo with Yankee
+2024-10-14 19:38:43.712920 Alpha: Yes
+2024-10-14 19:38:43.713146 Golf: Yes
+2024-10-14 19:38:43.713307 Whiskey: Yes
+2024-10-14 19:38:43.713550 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:43.817412 Alpha: We should drop Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:38:43.840609 Yankee: Yes
+2024-10-14 19:38:43.840795 Golf: Yes
+2024-10-14 19:38:43.840904 Hotel: Yes
+2024-10-14 19:38:43.841021 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:43.957897 Yankee: Golf and Hotel, sending you 6
+2024-10-14 19:38:43.970682 Whiskey: Golf and Delta, sending you 1
+2024-10-14 19:38:43.980132 X-ray: Golf, sending you 16
+2024-10-14 19:38:43.986179 Yankee: Delta, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Alpha round 28
+ChatterBot Yankee round 28
+ChatterBot Golf round 28
+ChatterBot X-ray round 28
+ChatterBot Bravo round 28
+ChatterBot Whiskey round 28
+ChatterBot Hotel round 28
+ChatterBot Tango round 28
+ChatterBot Quebec round 28
+ChatterBot Delta round 28
+2024-10-14 19:38:45.827215 Yankee: We should replace Delta with Alpha
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:45.848930 Golf: No
+2024-10-14 19:38:45.850141 Hotel: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:45.904516 Golf: We should drop Whiskey
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:45.927921 Yankee: Yes
+2024-10-14 19:38:45.928136 Alpha: Yes
+2024-10-14 19:38:45.928346 Hotel: Yes
+2024-10-14 19:38:45.928536 Delta: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:46.023569 Yankee: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:46.031075 Alpha: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:46.049014 X-ray: We should drop Delta
+2024-10-14 19:38:46.062722 Yankee: Yes
+2024-10-14 19:38:46.062840 Golf: No
+2024-10-14 19:38:46.062959 Hotel: Yes
+2024-10-14 19:38:46.102663 Whiskey: Golf and Delta, sending you 1
+2024-10-14 19:38:46.115695 Yankee: I was attacked by Whiskey
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:46.133220 Yankee: I'm keeping this round to protect myself
+2024-10-14 19:38:46.138905 Yankee: Ow
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Alpha round 29
+ChatterBot Yankee round 29
+ChatterBot Golf round 29
+ChatterBot X-ray round 29
+ChatterBot Bravo round 29
+ChatterBot Whiskey round 29
+ChatterBot Hotel round 29
+ChatterBot Tango round 29
+ChatterBot Quebec round 29
+ChatterBot Delta round 29
+2024-10-14 19:38:47.364126 Alpha: We should drop Whiskey
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:47.395391 Yankee: Yes
+2024-10-14 19:38:47.395636 Golf: Yes
+2024-10-14 19:38:47.395821 Hotel: Yes
+2024-10-14 19:38:47.395991 Delta: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:47.502683 Yankee: Alpha, sending you 2
+2024-10-14 19:38:47.504759 X-ray: I was attacked by Alpha
+2024-10-14 19:38:47.505145 X-ray: I'm keeping this round to protect myself
+2024-10-14 19:38:47.505344 X-ray: Ow
+2024-10-14 19:38:47.508673 Yankee: Golf, sending you 6
+2024-10-14 19:38:47.510695 Whiskey: Golf and Delta, sending you 1
+2024-10-14 19:38:47.514199 Yankee: Hotel, sending you 5
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Alpha round 30
+ChatterBot Yankee round 30
+ChatterBot Golf round 30
+ChatterBot X-ray round 30
+ChatterBot Bravo round 30
+ChatterBot Whiskey round 30
+ChatterBot Hotel round 30
+ChatterBot Tango round 30
+ChatterBot Quebec round 30
+ChatterBot Delta round 30
+2024-10-14 19:38:48.870263 Alpha: We should drop Whiskey
+2024-10-14 19:38:48.899804 Yankee: Yes
+2024-10-14 19:38:48.900238 Golf: Yes
+2024-10-14 19:38:48.900483 Hotel: Yes
+2024-10-14 19:38:48.900683 Delta: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:38:48.981822 Whiskey: I was attacked by Delta
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:38:49.008025 Whiskey: I'm keeping this round to protect myself
+2024-10-14 19:38:49.013223 Whiskey: Ow
+2024-10-14 19:38:49.036851 Yankee: Alpha, sending you 2
+2024-10-14 19:38:49.043696 Yankee: Golf and Hotel, sending you 6
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions

@@ -1,0 +1,1856 @@
+ChatterBot X-ray round 1
+ChatterBot India round 1
+ChatterBot Hotel round 1
+ChatterBot Yankee round 1
+ChatterBot Echo round 1
+ChatterBot Tango round 1
+ChatterBot Alpha round 1
+ChatterBot Zulu round 1
+ChatterBot Foxtrot round 1
+ChatterBot Charlie round 1
+randomSelections Hotel: {Hotel, Yankee} 
+2024-10-14 18:32:23.973455 Hotel: We should group up
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:23.977261 Yankee: Yes
+randomSelections Foxtrot: {Foxtrot, Yankee, Alpha} 
+2024-10-14 18:32:23.986808 Foxtrot: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:23.995176 Yankee: No
+2024-10-14 18:32:23.996755 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+randomSelections X-ray: {X-ray, Charlie, Alpha, Hotel, Zulu, Yankee, Tango} 
+2024-10-14 18:32:24.012183 X-ray: We should group up
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:32:24.029981 Charlie: Yes
+2024-10-14 18:32:24.031012 Alpha: No
+2024-10-14 18:32:24.031398 Hotel: No
+2024-10-14 18:32:24.031687 Zulu: Yes
+2024-10-14 18:32:24.031863 Yankee: No
+2024-10-14 18:32:24.032097 Tango: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+randomSelections Echo: {Echo, Alpha, X-ray, Zulu, Tango, Charlie} 
+2024-10-14 18:32:24.124163 Echo: Can we be friends?
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:24.136716 Alpha: No
+2024-10-14 18:32:24.136913 X-ray: No
+2024-10-14 18:32:24.137568 Zulu: No
+2024-10-14 18:32:24.137842 Tango: No
+2024-10-14 18:32:24.138109 Charlie: No
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+randomSelections India: {India, X-ray, Charlie, Alpha, Zulu, Hotel} 
+2024-10-14 18:32:24.252263 India: We should group up
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:24.262119 X-ray: No
+2024-10-14 18:32:24.262466 Charlie: No
+2024-10-14 18:32:24.262695 Alpha: No
+2024-10-14 18:32:24.263717 Zulu: No
+2024-10-14 18:32:24.264032 Hotel: No
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:24.336014 Yankee: Sending you 15
+2024-10-14 18:32:24.336576 Echo: X-ray and Tango, sending you 1
+2024-10-14 18:32:24.338546 Hotel: Sending you 12
+2024-10-14 18:32:24.339341 X-ray: Yankee, sending you 1
+2024-10-14 18:32:24.342020 Echo: Alpha and Charlie, sending you 2
+2024-10-14 18:32:24.342702 Zulu: X-ray, sending you 2
+2024-10-14 18:32:24.345571 Foxtrot: Yankee, sending you 9
+2024-10-14 18:32:24.345970 Alpha: Yankee, sending you 8
+2024-10-14 18:32:24.346601 X-ray: Tango and Zulu, sending you 2
+2024-10-14 18:32:24.347136 Echo: Zulu, sending you 7
+2024-10-14 18:32:24.349768 India: X-ray and Hotel, sending you 1
+2024-10-14 18:32:24.350479 Charlie: X-ray, Tango and Zulu, sending you 1
+2024-10-14 18:32:24.351309 Zulu: Hotel, Yankee, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:24.353394 Tango: Yankee, sending you 3
+2024-10-14 18:32:24.355478 X-ray: Alpha, sending you 4
+2024-10-14 18:32:24.356427 Foxtrot: Alpha, sending you 8
+2024-10-14 18:32:24.357258 Alpha: Foxtrot, sending you 6
+2024-10-14 18:32:24.358968 Charlie: Hotel, sending you 2
+2024-10-14 18:32:24.360281 India: Alpha and Zulu, sending you 4
+2024-10-14 18:32:24.362496 Tango: Alpha, sending you 5
+2024-10-14 18:32:24.365221 X-ray: Charlie, sending you 5
+2024-10-14 18:32:24.365881 Charlie: Alpha, sending you 3
+2024-10-14 18:32:24.367609 India: Charlie, sending you 2
+2024-10-14 18:32:24.368217 Tango: Charlie, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot X-ray round 2
+ChatterBot India round 2
+ChatterBot Hotel round 2
+ChatterBot Yankee round 2
+2024-10-14 18:32:25.508515 India: We should group up
+ChatterBot Echo reevaluating
+2024-10-14 18:32:25.528527 Echo: Yes
+2024-10-14 18:32:25.537705 Echo: Group up?
+2024-10-14 18:32:25.546740 India: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo round 2
+2024-10-14 18:32:25.576984 X-ray: Let's form a team
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:25.645501 India: No
+2024-10-14 18:32:25.645700 Echo: Yes
+2024-10-14 18:32:25.646171 Zulu: No
+2024-10-14 18:32:25.646303 Tango: No
+2024-10-14 18:32:25.646422 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango round 2
+ChatterBot Alpha round 2
+2024-10-14 18:32:25.867871 Hotel: We should add India
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:25.873308 Yankee: No
+ChatterBot Hotel reevaluating
+2024-10-14 18:32:25.878855 Yankee: Group up?
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:32:25.907464 Hotel: No
+2024-10-14 18:32:25.907593 Alpha: No
+2024-10-14 18:32:25.908131 Foxtrot: No
+2024-10-14 18:32:25.908238 Tango: No
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:26.012667 Alpha: Friends?
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:26.059318 India: No
+2024-10-14 18:32:26.059454 Tango: No
+2024-10-14 18:32:26.060017 Echo: Yes
+2024-10-14 18:32:26.060114 Zulu: No
+2024-10-14 18:32:26.060220 X-ray: Yes
+2024-10-14 18:32:26.060308 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:32:26.334723 Echo: We should add India
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:26.452511 Alpha: Yes
+2024-10-14 18:32:26.453046 X-ray: Yes
+2024-10-14 18:32:26.453294 Zulu: Yes
+2024-10-14 18:32:26.453471 Tango: No
+2024-10-14 18:32:26.453597 Charlie: Yes
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu round 2
+ChatterBot Foxtrot round 2
+ChatterBot Charlie round 2
+2024-10-14 18:32:26.685286 Foxtrot: We should drop Yankee
+2024-10-14 18:32:26.690444 Alpha: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:26.709522 Charlie: Let's form a team
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:26.743038 Alpha: Yes
+2024-10-14 18:32:26.743330 India: No
+2024-10-14 18:32:26.743904 Echo: Yes
+2024-10-14 18:32:26.744017 Zulu: Yes
+2024-10-14 18:32:26.744130 X-ray: Yes
+2024-10-14 18:32:26.744252 Tango: No
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot India reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:26.881604 India: We should group up
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:26.973468 Echo: Yes
+2024-10-14 18:32:26.974054 Zulu: Yes
+2024-10-14 18:32:26.974177 X-ray: Yes
+2024-10-14 18:32:26.974382 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 18:32:27.147152 Echo: India we want you to join our group
+ChatterBot India reevaluating
+2024-10-14 18:32:27.153973 India: No
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+2024-10-14 18:32:27.588130 Yankee: Hotel, Alpha and Foxtrot, sending you 4
+chatterbot Foxtrot submitting transactions
+2024-10-14 18:32:27.917817 Hotel: Sending you 14
+2024-10-14 18:32:27.918950 Charlie: X-ray, India, Echo and Zulu, sending you 2
+2024-10-14 18:32:27.920052 Tango: X-ray, sending you 6
+2024-10-14 18:32:27.920773 Yankee: Tango, sending you 3
+2024-10-14 18:32:27.921266 Alpha: X-ray, India and Tango, sending you 3
+2024-10-14 18:32:27.922229 Echo: X-ray, Tango, Alpha, Zulu and Charlie, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+2024-10-14 18:32:27.928486 Tango: Echo, Zulu and Charlie, sending you 3
+2024-10-14 18:32:27.929745 X-ray: India, Echo and Charlie, sending you 4
+2024-10-14 18:32:27.934124 India: X-ray, Echo, Zulu and Charlie, sending you 3
+2024-10-14 18:32:27.939568 Alpha: Echo and Charlie, sending you 2
+2024-10-14 18:32:27.941664 Echo: India, sending you 3
+2024-10-14 18:32:27.943470 X-ray: Zulu, sending you 6
+2024-10-14 18:32:28.006754 Alpha: Zulu, sending you 1
+2024-10-14 18:32:28.007293 Foxtrot: Same as last round
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot X-ray round 3
+ChatterBot India round 3
+ChatterBot Hotel round 3
+ChatterBot Yankee round 3
+2024-10-14 18:32:28.657348 X-ray: We should add Tango and Alpha
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:28.677926 Echo: Yes
+2024-10-14 18:32:28.678411 India: Yes
+2024-10-14 18:32:28.678536 Zulu: Yes
+2024-10-14 18:32:28.678667 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo round 3
+ChatterBot Tango round 3
+ChatterBot Alpha round 3
+ChatterBot Zulu round 3
+ChatterBot Foxtrot round 3
+ChatterBot Charlie round 3
+2024-10-14 18:32:28.777489 X-ray: Tango and Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:32:28.787036 Alpha: Yes
+2024-10-14 18:32:28.787172 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:28.841301 Tango: We should add India and Alpha
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:28.857088 Echo: Yes
+2024-10-14 18:32:28.857257 Zulu: No
+2024-10-14 18:32:28.857364 X-ray: Yes
+2024-10-14 18:32:28.857960 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:28.935344 Foxtrot: We should add Hotel and Yankee
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:28.944402 Alpha: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:28.976634 Charlie: We should add Tango and Alpha
+ChatterBot Echo reevaluating
+2024-10-14 18:32:29.033698 Echo: Yes
+2024-10-14 18:32:29.034541 India: Yes
+2024-10-14 18:32:29.034831 Zulu: No
+2024-10-14 18:32:29.035068 X-ray: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:29.141766 India: Tango and Alpha we want you to join our group
+2024-10-14 18:32:29.156252 Alpha: Yes
+2024-10-14 18:32:29.157239 Tango: Yes
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:29.247567 Foxtrot: We should add Yankee
+2024-10-14 18:32:29.255196 Alpha: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:29.263886 Charlie: We should replace Zulu with Tango
+ChatterBot Echo reevaluating
+2024-10-14 18:32:29.283142 X-ray: No
+2024-10-14 18:32:29.283834 India: No
+2024-10-14 18:32:29.284029 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 18:32:29.335785 Tango: India and Alpha we want you to join our group
+2024-10-14 18:32:29.346990 Alpha: Yes
+2024-10-14 18:32:29.347323 India: Yes
+2024-10-14 18:32:29.408074 Zulu: We should drop Alpha
+2024-10-14 18:32:29.434370 X-ray: No
+2024-10-14 18:32:29.434549 India: No
+2024-10-14 18:32:29.434696 Echo: No
+2024-10-14 18:32:29.434934 Tango: No
+2024-10-14 18:32:29.435097 Charlie: Yes
+2024-10-14 18:32:29.554327 Charlie: Tango we want you to join our group
+2024-10-14 18:32:29.557513 Tango: Yes
+2024-10-14 18:32:29.568537 X-ray: India, Echo, Alpha and Charlie, sending you 3
+2024-10-14 18:32:29.569001 Hotel: Sending you 15
+2024-10-14 18:32:29.569265 Yankee: Hotel, sending you 6
+2024-10-14 18:32:29.569587 Foxtrot: Yankee we want you to join our group
+2024-10-14 18:32:29.573341 Yankee: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:29.580312 Alpha: X-ray, India and Charlie, sending you 2
+2024-10-14 18:32:29.580797 X-ray: Tango, sending you 4
+2024-10-14 18:32:29.581094 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:29.581403 Yankee: Tango, Alpha and Foxtrot, sending you 3
+2024-10-14 18:32:29.583968 X-ray: Zulu, sending you 2
+2024-10-14 18:32:29.584676 Alpha: Echo, sending you 3
+2024-10-14 18:32:29.588731 Echo: X-ray, India, Tango and Alpha, sending you 3
+2024-10-14 18:32:29.589550 Tango: X-ray, Zulu and Charlie, sending you 2
+2024-10-14 18:32:29.590674 Alpha: Tango, sending you 4
+2024-10-14 18:32:29.593790 Echo: Charlie, sending you 1
+2024-10-14 18:32:29.594673 Tango: India, sending you 1
+2024-10-14 18:32:29.595670 Alpha: Zulu, sending you 1
+2024-10-14 18:32:29.596684 Charlie: Sending you each 2
+2024-10-14 18:32:29.599028 Tango: Echo, sending you 3
+2024-10-14 18:32:29.603704 Tango: Alpha, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot X-ray round 4
+ChatterBot India round 4
+ChatterBot Hotel round 4
+ChatterBot Yankee round 4
+ChatterBot Echo round 4
+ChatterBot Tango round 4
+ChatterBot Alpha round 4
+ChatterBot Zulu round 4
+ChatterBot Foxtrot round 4
+ChatterBot Charlie round 4
+2024-10-14 18:32:31.246329 Zulu: We should add Alpha
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:31.267108 X-ray: Yes
+2024-10-14 18:32:31.267719 India: Yes
+2024-10-14 18:32:31.267865 Echo: Yes
+2024-10-14 18:32:31.268013 Tango: Yes
+2024-10-14 18:32:31.268141 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 18:32:31.383233 X-ray: We should drop Zulu
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:31.399064 India: Yes
+2024-10-14 18:32:31.399208 Echo: Yes
+2024-10-14 18:32:31.399301 Tango: Yes
+2024-10-14 18:32:31.399405 Alpha: Yes
+2024-10-14 18:32:31.399534 Charlie: Yes
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:31.479521 Zulu: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:31.484012 Alpha: No
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:31.504747 Yankee: We should drop Tango
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:31.513987 Hotel: Yes
+2024-10-14 18:32:31.514164 Foxtrot: Yes
+2024-10-14 18:32:31.514288 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:31.541411 Foxtrot: We should drop Alpha
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:31.545043 Yankee: Yes
+2024-10-14 18:32:31.548627 Alpha: We should replace Zulu with Foxtrot
+2024-10-14 18:32:31.564320 X-ray: No
+2024-10-14 18:32:31.564482 India: No
+2024-10-14 18:32:31.564636 Echo: No
+2024-10-14 18:32:31.564766 Tango: No
+2024-10-14 18:32:31.564907 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:31.672868 Yankee: We should drop Alpha and Tango
+2024-10-14 18:32:31.679393 Hotel: Yes
+2024-10-14 18:32:31.679548 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:31.692032 Alpha: Foxtrot we want you to join our group
+2024-10-14 18:32:31.696067 Foxtrot: No
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:31.715671 Hotel: Same as last round
+2024-10-14 18:32:31.716165 X-ray: India and Charlie, sending you 3
+2024-10-14 18:32:31.719687 Charlie: X-ray, India, Tango and Alpha, sending you 2
+2024-10-14 18:32:31.720134 Echo: X-ray, Tango, Alpha and Charlie, sending you 3
+2024-10-14 18:32:31.720723 India: X-ray and Alpha, sending you 3
+2024-10-14 18:32:31.721131 Zulu: X-ray, sending you 2
+2024-10-14 18:32:31.722171 X-ray: Echo, Tango and Alpha, sending you 4
+2024-10-14 18:32:31.723980 Echo: India, sending you 1
+2024-10-14 18:32:31.724697 India: Echo, Tango and Charlie, sending you 2
+2024-10-14 18:32:31.725195 Tango: X-ray and Echo, sending you 3
+2024-10-14 18:32:31.725673 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:31.728032 Tango: India and Charlie, sending you 2
+2024-10-14 18:32:31.732674 Tango: Alpha, sending you 5
+2024-10-14 18:32:31.740663 Yankee: Hotel, sending you 7
+2024-10-14 18:32:31.742675 Alpha: X-ray, India and Echo, sending you 2
+2024-10-14 18:32:31.744678 Yankee: Foxtrot, sending you 4
+2024-10-14 18:32:31.746666 Alpha: Tango, sending you 3
+2024-10-14 18:32:31.751670 Alpha: Foxtrot, sending you 4
+2024-10-14 18:32:31.756676 Alpha: Charlie, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot X-ray round 5
+ChatterBot India round 5
+ChatterBot Hotel round 5
+ChatterBot Yankee round 5
+ChatterBot Echo round 5
+ChatterBot Tango round 5
+ChatterBot Alpha round 5
+ChatterBot Zulu round 5
+ChatterBot Foxtrot round 5
+ChatterBot Charlie round 5
+2024-10-14 18:32:32.766715 India: X-ray and Alpha, sending you 3
+2024-10-14 18:32:32.768710 Yankee: Hotel, sending you 9
+2024-10-14 18:32:32.769680 X-ray: India, Echo, Tango and Alpha, sending you 4
+2024-10-14 18:32:32.771130 India: Echo, Tango and Charlie, sending you 2
+2024-10-14 18:32:32.771868 Echo: X-ray, India, Tango and Alpha, sending you 3
+2024-10-14 18:32:32.772736 Yankee: Foxtrot, sending you 6
+2024-10-14 18:32:32.773789 X-ray: Charlie, sending you 2
+2024-10-14 18:32:32.774702 Alpha: X-ray, India, Echo and Charlie, sending you 2
+2024-10-14 18:32:32.775689 Echo: Charlie, sending you 1
+2024-10-14 18:32:32.777265 Tango: X-ray, Echo and Charlie, sending you 3
+2024-10-14 18:32:32.778412 Charlie: X-ray, India, Echo and Tango, sending you 2
+2024-10-14 18:32:32.780380 Hotel: Same as last round
+2024-10-14 18:32:32.780830 Alpha: Tango and Foxtrot, sending you 3
+2024-10-14 18:32:32.781736 Tango: India, sending you 2
+2024-10-14 18:32:32.783419 Zulu: X-ray, sending you 2
+2024-10-14 18:32:32.787679 Tango: Alpha, sending you 4
+2024-10-14 18:32:32.788632 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot X-ray round 6
+ChatterBot India round 6
+ChatterBot Hotel round 6
+ChatterBot Yankee round 6
+ChatterBot Echo round 6
+ChatterBot Tango round 6
+ChatterBot Alpha round 6
+ChatterBot Zulu round 6
+ChatterBot Foxtrot round 6
+ChatterBot Charlie round 6
+2024-10-14 18:32:33.876702 X-ray: India, Echo, Tango and Alpha, sending you 4
+2024-10-14 18:32:33.877660 Hotel: Same as last round
+2024-10-14 18:32:33.881677 Tango: X-ray, Echo and Charlie, sending you 3
+2024-10-14 18:32:33.883019 X-ray: Charlie, sending you 2
+2024-10-14 18:32:33.883663 India: X-ray and Alpha, sending you 3
+2024-10-14 18:32:33.884726 Echo: X-ray, India, Tango and Alpha, sending you 3
+2024-10-14 18:32:33.885694 Tango: India, sending you 2
+2024-10-14 18:32:33.887051 India: Echo, Tango and Charlie, sending you 2
+2024-10-14 18:32:33.887703 Echo: Charlie, sending you 1
+2024-10-14 18:32:33.888694 Alpha: X-ray, Tango and Foxtrot, sending you 3
+2024-10-14 18:32:33.889324 Charlie: X-ray, India, Tango and Alpha, sending you 2
+2024-10-14 18:32:33.890683 Tango: Alpha, sending you 4
+2024-10-14 18:32:33.891710 Yankee: Sending you 12
+2024-10-14 18:32:33.891975 Foxtrot: Sending you 10
+2024-10-14 18:32:33.893696 Alpha: India and Echo, sending you 2
+2024-10-14 18:32:33.896694 Alpha: Charlie, sending you 1
+2024-10-14 18:32:33.903811 Zulu: X-ray, sending you 2
+2024-10-14 18:32:33.909673 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot X-ray round 7
+ChatterBot India round 7
+ChatterBot Hotel round 7
+ChatterBot Yankee round 7
+ChatterBot Echo round 7
+ChatterBot Tango round 7
+ChatterBot Alpha round 7
+ChatterBot Zulu round 7
+ChatterBot Foxtrot round 7
+ChatterBot Charlie round 7
+2024-10-14 18:32:35.016307 Yankee: We should add Foxtrot
+2024-10-14 18:32:35.023040 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:35.069694 Hotel: Same as last round
+2024-10-14 18:32:35.071682 Charlie: X-ray, India, Tango and Alpha, sending you 2
+2024-10-14 18:32:35.073521 Foxtrot: Sending you 15
+2024-10-14 18:32:35.076700 Yankee: Sending you 11
+2024-10-14 18:32:35.078686 India: X-ray and Alpha, sending you 3
+2024-10-14 18:32:35.080887 Alpha: X-ray and Tango, sending you 3
+2024-10-14 18:32:35.083091 Echo: X-ray, India, Tango and Alpha, sending you 3
+2024-10-14 18:32:35.085189 X-ray: India, Echo, Tango and Alpha, sending you 4
+2024-10-14 18:32:35.087480 India: Echo, Tango and Charlie, sending you 2
+2024-10-14 18:32:35.089732 Alpha: India, Echo, Foxtrot and Charlie, sending you 2
+2024-10-14 18:32:35.092168 Tango: X-ray, Echo and Charlie, sending you 3
+2024-10-14 18:32:35.093534 Echo: Charlie, sending you 1
+2024-10-14 18:32:35.095174 X-ray: Charlie, sending you 2
+2024-10-14 18:32:35.097585 Zulu: X-ray, sending you 2
+2024-10-14 18:32:35.098859 Tango: India, sending you 2
+2024-10-14 18:32:35.102688 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:35.105693 Tango: Alpha, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot X-ray round 8
+ChatterBot India round 8
+ChatterBot Hotel round 8
+ChatterBot Yankee round 8
+ChatterBot Echo round 8
+ChatterBot Tango round 8
+ChatterBot Alpha round 8
+ChatterBot Zulu round 8
+ChatterBot Foxtrot round 8
+ChatterBot Charlie round 8
+2024-10-14 18:32:36.327800 Alpha: We should replace Foxtrot with Zulu
+2024-10-14 18:32:36.348144 X-ray: No
+2024-10-14 18:32:36.348332 India: No
+2024-10-14 18:32:36.348503 Echo: No
+2024-10-14 18:32:36.348733 Tango: No
+2024-10-14 18:32:36.348876 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:36.450685 Yankee: Sending you 10
+2024-10-14 18:32:36.452777 X-ray: India, Echo, Tango and Alpha, sending you 4
+2024-10-14 18:32:36.454703 Zulu: X-ray, sending you 2
+2024-10-14 18:32:36.455569 Echo: X-ray, India, Tango and Alpha, sending you 3
+2024-10-14 18:32:36.456661 Alpha: X-ray and Tango, sending you 3
+2024-10-14 18:32:36.457226 X-ray: Charlie, sending you 2
+2024-10-14 18:32:36.457926 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:36.458896 Tango: X-ray, Echo and Charlie, sending you 3
+2024-10-14 18:32:36.459926 Echo: Charlie, sending you 1
+2024-10-14 18:32:36.460511 Alpha: India, Echo, Foxtrot and Charlie, sending you 2
+2024-10-14 18:32:36.461020 Hotel: Same as last round
+2024-10-14 18:32:36.461281 India: X-ray and Echo, sending you 3
+2024-10-14 18:32:36.461852 Foxtrot: Sending you 17
+2024-10-14 18:32:36.463686 Tango: India, sending you 2
+2024-10-14 18:32:36.467144 India: Tango, Alpha and Charlie, sending you 2
+2024-10-14 18:32:36.467964 Tango: Alpha, sending you 4
+2024-10-14 18:32:36.468708 Charlie: X-ray, India, Tango and Alpha, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot X-ray round 9
+ChatterBot India round 9
+ChatterBot Hotel round 9
+ChatterBot Yankee round 9
+ChatterBot Echo round 9
+ChatterBot Tango round 9
+ChatterBot Alpha round 9
+ChatterBot Zulu round 9
+ChatterBot Foxtrot round 9
+ChatterBot Charlie round 9
+2024-10-14 18:32:37.626856 X-ray: India, Echo, Tango and Alpha, sending you 4
+2024-10-14 18:32:37.629036 India: X-ray and Echo, sending you 3
+2024-10-14 18:32:37.631678 Tango: X-ray, Echo and Charlie, sending you 3
+2024-10-14 18:32:37.632707 X-ray: Charlie, sending you 2
+2024-10-14 18:32:37.634 Hotel: Same as last round
+2024-10-14 18:32:37.634718 India: Tango, Alpha and Charlie, sending you 2
+2024-10-14 18:32:37.636225 Echo: X-ray, India, Tango and Alpha, sending you 3
+2024-10-14 18:32:37.637116 Tango: India, sending you 2
+2024-10-14 18:32:37.637896 Alpha: X-ray and Tango, sending you 3
+2024-10-14 18:32:37.638998 Zulu: X-ray, sending you 2
+2024-10-14 18:32:37.639981 Yankee: Same as last round
+2024-10-14 18:32:37.640914 Echo: Charlie, sending you 1
+2024-10-14 18:32:37.641835 Tango: Alpha, sending you 4
+2024-10-14 18:32:37.643518 Alpha: India, Echo, Foxtrot and Charlie, sending you 2
+2024-10-14 18:32:37.644185 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:37.645483 Charlie: X-ray, India, Tango and Alpha, sending you 2
+2024-10-14 18:32:37.646336 Foxtrot: Same as last round
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 10
+ChatterBot India round 10
+ChatterBot Hotel round 10
+ChatterBot Yankee round 10
+ChatterBot Echo round 10
+ChatterBot Tango round 10
+ChatterBot Alpha round 10
+ChatterBot Zulu round 10
+ChatterBot Foxtrot round 10
+ChatterBot Charlie round 10
+2024-10-14 18:32:38.773481 Alpha: We should replace Foxtrot with Zulu
+2024-10-14 18:32:38.856494 X-ray: No
+2024-10-14 18:32:38.856858 India: No
+2024-10-14 18:32:38.857185 Echo: No
+2024-10-14 18:32:38.858077 Tango: No
+2024-10-14 18:32:38.858334 Charlie: No
+2024-10-14 18:32:38.991106 Yankee: We should add Foxtrot and Charlie
+2024-10-14 18:32:38.998467 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:39.019880 Alpha: Zulu we want you to join our group
+2024-10-14 18:32:39.029156 Zulu: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:39.071931 Hotel: Same as last round
+2024-10-14 18:32:39.074058 Zulu: X-ray, sending you 2
+2024-10-14 18:32:39.076319 Foxtrot: Sending you 11
+2024-10-14 18:32:39.078680 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:39.081683 Alpha: X-ray, sending you 3
+2024-10-14 18:32:39.087687 X-ray: India, Echo, Tango, Alpha, Zulu and Charlie, sending you 3
+2024-10-14 18:32:39.088972 Alpha: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:39.091804 Echo: X-ray, sending you 3
+2024-10-14 18:32:39.094676 Alpha: Tango, sending you 4
+2024-10-14 18:32:39.096499 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:39.098448 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:39.099785 Yankee: Same as last round
+2024-10-14 18:32:39.100668 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:39.101814 Alpha: Zulu, sending you 1
+2024-10-14 18:32:39.104917 Tango: X-ray and Echo, sending you 3
+2024-10-14 18:32:39.106053 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:39.108996 Tango: India and Charlie, sending you 2
+2024-10-14 18:32:39.113013 Tango: Alpha, sending you 4
+2024-10-14 18:32:39.118667 Tango: Zulu, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 11
+ChatterBot India round 11
+ChatterBot Hotel round 11
+ChatterBot Yankee round 11
+ChatterBot Echo round 11
+ChatterBot Tango round 11
+ChatterBot Alpha round 11
+ChatterBot Zulu round 11
+ChatterBot Foxtrot round 11
+ChatterBot Charlie round 11
+2024-10-14 18:32:40.207669 Alpha: X-ray, sending you 3
+2024-10-14 18:32:40.211690 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:40.214032 Echo: X-ray, sending you 3
+2024-10-14 18:32:40.216018 Tango: X-ray and Echo, sending you 3
+2024-10-14 18:32:40.217449 Yankee: Same as last round
+2024-10-14 18:32:40.218869 Alpha: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:40.220494 Hotel: Same as last round
+2024-10-14 18:32:40.221660 Hotel: I was attacked by Foxtrot
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:40.227285 Hotel: Ow
+2024-10-14 18:32:40.228665 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:40.231708 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:40.234860 Tango: India and Charlie, sending you 2
+2024-10-14 18:32:40.238127 Foxtrot: Same as last round
+2024-10-14 18:32:40.239067 India: Same as last round
+2024-10-14 18:32:40.243504 Alpha: Tango, sending you 4
+2024-10-14 18:32:40.247740 Tango: Alpha, sending you 4
+2024-10-14 18:32:40.252954 Alpha: Zulu, sending you 1
+2024-10-14 18:32:40.256951 X-ray: Same as last round
+2024-10-14 18:32:40.260010 Tango: Zulu, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 12
+ChatterBot India round 12
+ChatterBot Hotel round 12
+ChatterBot Yankee round 12
+ChatterBot Echo round 12
+ChatterBot Tango round 12
+ChatterBot Alpha round 12
+ChatterBot Zulu round 12
+ChatterBot Foxtrot round 12
+ChatterBot Charlie round 12
+2024-10-14 18:32:41.503674 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:41.506499 Hotel: Same as last round
+2024-10-14 18:32:41.507563 Hotel: I was attacked by Foxtrot
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:41.511700 Hotel: Ow
+2024-10-14 18:32:41.512464 Tango: X-ray and Echo, sending you 3
+2024-10-14 18:32:41.515172 Alpha: X-ray, sending you 3
+2024-10-14 18:32:41.517623 India: Same as last round
+2024-10-14 18:32:41.520852 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:41.524801 Echo: X-ray, sending you 3
+2024-10-14 18:32:41.527568 X-ray: Alpha, sending you 4
+2024-10-14 18:32:41.530312 Tango: India and Charlie, sending you 2
+2024-10-14 18:32:41.532872 Alpha: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:41.535483 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:41.538963 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:41.542111 Foxtrot: Sending you 17
+2024-10-14 18:32:41.543769 X-ray: Zulu, sending you 2
+2024-10-14 18:32:41.546831 Tango: Alpha, sending you 4
+2024-10-14 18:32:41.551147 Alpha: Tango, sending you 4
+2024-10-14 18:32:41.555301 Tango: Zulu, sending you 1
+2024-10-14 18:32:41.559132 Alpha: Zulu, sending you 1
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot X-ray round 13
+ChatterBot India round 13
+ChatterBot Hotel round 13
+ChatterBot Yankee round 13
+ChatterBot Echo round 13
+ChatterBot Tango round 13
+ChatterBot Alpha round 13
+ChatterBot Zulu round 13
+ChatterBot Foxtrot round 13
+ChatterBot Charlie round 13
+2024-10-14 18:32:42.773767 Foxtrot: We should add Hotel
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:42.779252 Yankee: Yes
+2024-10-14 18:32:42.783347 Yankee: We should add Foxtrot
+2024-10-14 18:32:42.786828 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:42.810136 Foxtrot: Hotel we want you to join our group
+2024-10-14 18:32:42.813682 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:42.831309 Yankee: Foxtrot we want you to join our group
+2024-10-14 18:32:42.836255 Foxtrot: Yes
+2024-10-14 18:32:42.846041 Alpha: X-ray, sending you 3
+2024-10-14 18:32:42.849984 Foxtrot: Hotel, sending you 5
+2024-10-14 18:32:42.850802 Echo: X-ray, sending you 3
+2024-10-14 18:32:42.854721 India: Same as last round
+2024-10-14 18:32:42.857317 Tango: X-ray, sending you 3
+2024-10-14 18:32:42.860074 Foxtrot: Yankee, sending you 12
+2024-10-14 18:32:42.861238 Alpha: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:42.863729 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:42.866660 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:42.869527 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:42.872057 Hotel: Same as last round
+2024-10-14 18:32:42.872457 Hotel: I was attacked by Zulu
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:42.876027 Hotel: Ow
+2024-10-14 18:32:42.877185 Tango: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:42.878169 Alpha: Tango, sending you 4
+2024-10-14 18:32:42.879823 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:42.880861 X-ray: Alpha, sending you 4
+2024-10-14 18:32:42.882727 Tango: Alpha, sending you 5
+2024-10-14 18:32:42.885901 Alpha: Zulu, sending you 1
+2024-10-14 18:32:42.888470 X-ray: Zulu, sending you 2
+2024-10-14 18:32:42.890316 Tango: Zulu, sending you 1
+2024-10-14 18:32:42.904164 Yankee: Hotel, sending you 9
+2024-10-14 18:32:42.910030 Yankee: Foxtrot, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot X-ray round 14
+ChatterBot India round 14
+ChatterBot Hotel round 14
+ChatterBot Yankee round 14
+ChatterBot Echo round 14
+ChatterBot Tango round 14
+ChatterBot Alpha round 14
+ChatterBot Zulu round 14
+ChatterBot Foxtrot round 14
+ChatterBot Charlie round 14
+2024-10-14 18:32:44.015695 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:44.018558 Echo: X-ray, sending you 3
+2024-10-14 18:32:44.021384 Alpha: X-ray, sending you 3
+2024-10-14 18:32:44.024609 X-ray: Alpha, sending you 4
+2024-10-14 18:32:44.027682 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:44.031418 Yankee: Hotel, sending you 9
+2024-10-14 18:32:44.032127 Alpha: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:44.035075 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:44.037916 Foxtrot: Hotel, sending you 5
+2024-10-14 18:32:44.039552 X-ray: Zulu, sending you 2
+2024-10-14 18:32:44.042154 Hotel: Yankee, sending you 15
+2024-10-14 18:32:44.042656 India: Same as last round
+2024-10-14 18:32:44.044403 Yankee: Foxtrot, sending you 2
+2024-10-14 18:32:44.044669 Yankee: I was attacked by Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:44.051146 Yankee: Ow
+2024-10-14 18:32:44.051887 Alpha: Tango, sending you 4
+2024-10-14 18:32:44.053492 Tango: India and Echo, sending you 2
+2024-10-14 18:32:44.054365 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:44.057663 Alpha: Zulu, sending you 1
+2024-10-14 18:32:44.059521 Tango: Alpha, sending you 4
+2024-10-14 18:32:44.062230 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:44.066685 Tango: Zulu, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot X-ray round 15
+ChatterBot India round 15
+ChatterBot Hotel round 15
+ChatterBot Yankee round 15
+ChatterBot Echo round 15
+ChatterBot Tango round 15
+ChatterBot Alpha round 15
+ChatterBot Zulu round 15
+ChatterBot Foxtrot round 15
+ChatterBot Charlie round 15
+2024-10-14 18:32:45.292732 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:45.295186 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:45.296898 India: Same as last round
+2024-10-14 18:32:45.298699 Tango: India and Echo, sending you 2
+2024-10-14 18:32:45.300704 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:45.302947 X-ray: Alpha, sending you 4
+2024-10-14 18:32:45.304741 Echo: X-ray, sending you 3
+2024-10-14 18:32:45.306294 Hotel: Yankee, sending you 15
+2024-10-14 18:32:45.306678 Tango: Alpha, sending you 4
+2024-10-14 18:32:45.307812 Yankee: Hotel, sending you 9
+2024-10-14 18:32:45.308908 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:45.311541 X-ray: Zulu, sending you 2
+2024-10-14 18:32:45.313041 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:45.315510 Alpha: X-ray, sending you 3
+2024-10-14 18:32:45.317511 Foxtrot: Hotel, sending you 5
+2024-10-14 18:32:45.318009 Tango: Zulu, sending you 1
+2024-10-14 18:32:45.319700 Yankee: Foxtrot, sending you 2
+2024-10-14 18:32:45.320242 Yankee: I was attacked by Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:45.326230 Yankee: Ow
+2024-10-14 18:32:45.326986 Alpha: India, Echo and Charlie, sending you 2
+2024-10-14 18:32:45.333508 Alpha: Tango, sending you 4
+2024-10-14 18:32:45.338717 Alpha: Zulu, sending you 1
+2024-10-14 18:32:45.348698 Hotel: Yankee, sending you 12
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 16
+ChatterBot India round 16
+ChatterBot Hotel round 16
+ChatterBot Yankee round 16
+ChatterBot Echo round 16
+ChatterBot Tango round 16
+ChatterBot Alpha round 16
+ChatterBot Zulu round 16
+ChatterBot Foxtrot round 16
+ChatterBot Charlie round 16
+2024-10-14 18:32:46.462962 Hotel: Yankee, sending you 15
+2024-10-14 18:32:46.463353 Hotel: I was attacked by Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:46.469558 Hotel: Ow
+2024-10-14 18:32:46.473672 Echo: X-ray, sending you 3
+2024-10-14 18:32:46.474915 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:46.477807 Foxtrot: We should drop Hotel
+ChatterBot Yankee reevaluating
+2024-10-14 18:32:46.481744 Yankee: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:46.485682 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:46.486762 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:46.487689 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:46.488980 Tango: X-ray, Echo and Charlie, sending you 3
+2024-10-14 18:32:46.489766 Zulu: X-ray, sending you 2
+2024-10-14 18:32:46.491126 Alpha: X-ray, sending you 3
+2024-10-14 18:32:46.492022 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:46.493591 X-ray: Alpha, sending you 4
+2024-10-14 18:32:46.494509 Tango: India, sending you 2
+2024-10-14 18:32:46.495185 Zulu: India, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:46.496100 Zulu: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:46.517358 Zulu: Ow
+2024-10-14 18:32:46.533684 Foxtrot: Sending you 17
+2024-10-14 18:32:46.534679 Yankee: Same as last round
+2024-10-14 18:32:46.543653 Charlie: Sorry, I'm actually sending you 0
+2024-10-14 18:32:46.544366 Charlie: Sorry, I'm actually sending you 0
+2024-10-14 18:32:46.547686 Charlie: X-ray, India, Tango and Alpha, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot X-ray round 17
+ChatterBot India round 17
+ChatterBot Hotel round 17
+ChatterBot Yankee round 17
+ChatterBot Echo round 17
+ChatterBot Tango round 17
+ChatterBot Alpha round 17
+ChatterBot Zulu round 17
+ChatterBot Foxtrot round 17
+ChatterBot Charlie round 17
+2024-10-14 18:32:47.686776 Tango: We should add Zulu
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:47.701146 X-ray: Yes
+2024-10-14 18:32:47.701307 India: Yes
+2024-10-14 18:32:47.701440 Echo: Yes
+2024-10-14 18:32:47.701559 Alpha: Yes
+2024-10-14 18:32:47.701673 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:47.793629 Tango: Zulu we want you to join our group
+2024-10-14 18:32:47.798122 Zulu: Yes
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:47.821708 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:47.823264 Charlie: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:47.833553 Zulu: No
+2024-10-14 18:32:47.853719 X-ray: Alpha, sending you 4
+2024-10-14 18:32:47.856678 Yankee: Same as last round
+2024-10-14 18:32:47.858261 X-ray: Zulu, sending you 2
+2024-10-14 18:32:47.860630 Foxtrot: Same as last round
+2024-10-14 18:32:47.861003 Hotel: Yankee, sending you 15
+2024-10-14 18:32:47.863119 Zulu: We should drop Charlie
+2024-10-14 18:32:47.875726 X-ray: No
+2024-10-14 18:32:47.875883 India: No
+2024-10-14 18:32:47.875999 Echo: No
+2024-10-14 18:32:47.876101 Tango: No
+2024-10-14 18:32:47.876210 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:47.940453 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:47.943687 Tango: India and Echo, sending you 2
+2024-10-14 18:32:47.945943 India: Same as last round
+2024-10-14 18:32:47.947600 Echo: X-ray, sending you 3
+2024-10-14 18:32:47.949417 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:47.950956 Tango: Alpha, sending you 4
+2024-10-14 18:32:47.953676 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:47.955695 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:47.957825 Tango: Zulu, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot X-ray round 18
+ChatterBot India round 18
+ChatterBot Hotel round 18
+ChatterBot Yankee round 18
+ChatterBot Echo round 18
+ChatterBot Tango round 18
+ChatterBot Alpha round 18
+ChatterBot Zulu round 18
+ChatterBot Foxtrot round 18
+ChatterBot Charlie round 18
+2024-10-14 18:32:49.323695 India: Same as last round
+2024-10-14 18:32:49.327578 Echo: X-ray, sending you 3
+2024-10-14 18:32:49.332609 Hotel: Yankee, sending you 15
+2024-10-14 18:32:49.335392 Yankee: Same as last round
+2024-10-14 18:32:49.336874 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:49.342470 Yankee: Ow
+2024-10-14 18:32:49.344111 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:49.347848 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:49.351096 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:49.354038 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:49.357479 X-ray: Alpha, sending you 4
+2024-10-14 18:32:49.360589 Tango: India and Echo, sending you 2
+2024-10-14 18:32:49.365516 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:49.370485 X-ray: Zulu, sending you 2
+2024-10-14 18:32:49.374921 Tango: Alpha, sending you 4
+2024-10-14 18:32:49.380681 Tango: Zulu, sending you 1
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot X-ray round 19
+ChatterBot India round 19
+ChatterBot Hotel round 19
+ChatterBot Yankee round 19
+ChatterBot Echo round 19
+ChatterBot Tango round 19
+ChatterBot Alpha round 19
+ChatterBot Zulu round 19
+ChatterBot Foxtrot round 19
+ChatterBot Charlie round 19
+2024-10-14 18:32:50.701015 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:50.702689 Echo: X-ray, sending you 3
+2024-10-14 18:32:50.704238 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:50.705887 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:50.707049 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:50.708482 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:50.710444 Hotel: Yankee, sending you 15
+2024-10-14 18:32:50.710904 Tango: India and Echo, sending you 2
+2024-10-14 18:32:50.713037 Yankee: Same as last round
+2024-10-14 18:32:50.713323 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:50.718255 Yankee: Ow
+2024-10-14 18:32:50.719968 X-ray: Alpha, sending you 4
+2024-10-14 18:32:50.724909 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:50.728816 Zulu: X-ray, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:50.731843 Tango: Alpha, sending you 4
+2024-10-14 18:32:50.736329 X-ray: Zulu, sending you 2
+2024-10-14 18:32:50.739032 Zulu: India, sending you 2
+2024-10-14 18:32:50.742662 Tango: Zulu, sending you 1
+2024-10-14 18:32:50.755677 Foxtrot: Same as last round
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot X-ray round 20
+ChatterBot India round 20
+ChatterBot Hotel round 20
+ChatterBot Yankee round 20
+ChatterBot Echo round 20
+ChatterBot Tango round 20
+ChatterBot Alpha round 20
+ChatterBot Zulu round 20
+ChatterBot Foxtrot round 20
+ChatterBot Charlie round 20
+2024-10-14 18:32:51.913814 India: Same as last round
+2024-10-14 18:32:51.917526 Echo: X-ray, sending you 3
+2024-10-14 18:32:51.919302 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:51.922750 Yankee: Same as last round
+2024-10-14 18:32:51.923903 Hotel: Yankee, sending you 15
+2024-10-14 18:32:51.924768 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:51.929287 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:51.931759 Foxtrot: Same as last round
+2024-10-14 18:32:51.932072 X-ray: Alpha, sending you 4
+2024-10-14 18:32:51.936052 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:51.938814 X-ray: Zulu, sending you 2
+2024-10-14 18:32:51.942395 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:51.949529 Tango: India and Echo, sending you 2
+2024-10-14 18:32:51.956671 Tango: Alpha, sending you 4
+2024-10-14 18:32:51.964682 Tango: Zulu, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot X-ray round 21
+ChatterBot India round 21
+ChatterBot Hotel round 21
+ChatterBot Yankee round 21
+ChatterBot Echo round 21
+ChatterBot Tango round 21
+ChatterBot Alpha round 21
+ChatterBot Zulu round 21
+ChatterBot Foxtrot round 21
+ChatterBot Charlie round 21
+2024-10-14 18:32:53.252664 Hotel: Yankee, sending you 15
+2024-10-14 18:32:53.253733 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:53.255688 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:53.257485 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:53.260439 Foxtrot: Same as last round
+2024-10-14 18:32:53.260983 Echo: X-ray, sending you 3
+2024-10-14 18:32:53.264276 Tango: India and Echo, sending you 2
+2024-10-14 18:32:53.266741 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:53.269259 X-ray: Alpha, sending you 4
+2024-10-14 18:32:53.272032 Zulu: X-ray, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:53.275033 Yankee: Same as last round
+2024-10-14 18:32:53.275394 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:53.281660 Yankee: Ow
+2024-10-14 18:32:53.282841 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:53.285930 Tango: Alpha, sending you 4
+2024-10-14 18:32:53.289037 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:53.291689 X-ray: Zulu, sending you 2
+2024-10-14 18:32:53.294169 Zulu: India, sending you 2
+2024-10-14 18:32:53.296256 Tango: Zulu, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot X-ray round 22
+ChatterBot India round 22
+ChatterBot Hotel round 22
+ChatterBot Yankee round 22
+ChatterBot Echo round 22
+ChatterBot Tango round 22
+ChatterBot Alpha round 22
+ChatterBot Zulu round 22
+ChatterBot Foxtrot round 22
+ChatterBot Charlie round 22
+2024-10-14 18:32:54.591856 Zulu: We should drop Echo
+2024-10-14 18:32:54.609725 X-ray: No
+2024-10-14 18:32:54.610 India: No
+2024-10-14 18:32:54.610199 Tango: No
+2024-10-14 18:32:54.610411 Alpha: No
+2024-10-14 18:32:54.610573 Charlie: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:32:54.844977 Hotel: Yankee, sending you 15
+2024-10-14 18:32:54.850721 India: Same as last round
+2024-10-14 18:32:54.857711 Yankee: Same as last round
+2024-10-14 18:32:54.861667 Foxtrot: Same as last round
+2024-10-14 18:32:54.862570 Charlie: X-ray and Tango, sending you 2
+chatterbot Alpha submitting transactions
+2024-10-14 18:32:54.866560 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:54.870585 Echo: X-ray, sending you 3
+2024-10-14 18:32:54.875299 Tango: X-ray, India and Charlie, sending you 3
+2024-10-14 18:32:54.878626 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:54.882523 X-ray: Alpha, sending you 4
+2024-10-14 18:32:54.886239 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:54.889535 Tango: Echo, sending you 2
+2024-10-14 18:32:54.891943 X-ray: Zulu, sending you 2
+2024-10-14 18:32:54.895714 Tango: Alpha, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot X-ray round 23
+ChatterBot India round 23
+ChatterBot Hotel round 23
+ChatterBot Yankee round 23
+ChatterBot Echo round 23
+ChatterBot Tango round 23
+ChatterBot Alpha round 23
+ChatterBot Zulu round 23
+ChatterBot Foxtrot round 23
+ChatterBot Charlie round 23
+2024-10-14 18:32:56.053690 Hotel: Yankee, sending you 15
+2024-10-14 18:32:56.054436 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:56.059920 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:56.062909 Foxtrot: Same as last round
+2024-10-14 18:32:56.063397 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:56.065923 Echo: X-ray, sending you 3
+2024-10-14 18:32:56.069808 Tango: X-ray, India and Charlie, sending you 3
+2024-10-14 18:32:56.071736 Zulu: X-ray, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:32:56.074215 Yankee: Same as last round
+2024-10-14 18:32:56.075347 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:56.080334 Yankee: Ow
+2024-10-14 18:32:56.081849 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:56.086244 X-ray: Alpha, sending you 4
+2024-10-14 18:32:56.088930 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:56.092031 Tango: Echo, sending you 2
+2024-10-14 18:32:56.094265 Zulu: India, sending you 2
+2024-10-14 18:32:56.097857 X-ray: Zulu, sending you 2
+2024-10-14 18:32:56.100300 Tango: Alpha, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 24
+ChatterBot India round 24
+ChatterBot Hotel round 24
+ChatterBot Yankee round 24
+ChatterBot Echo round 24
+ChatterBot Tango round 24
+ChatterBot Alpha round 24
+ChatterBot Zulu round 24
+ChatterBot Foxtrot round 24
+ChatterBot Charlie round 24
+2024-10-14 18:32:57.308173 Tango: We should add Zulu
+ChatterBot X-ray reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:32:57.329420 X-ray: Yes
+2024-10-14 18:32:57.329589 India: Yes
+2024-10-14 18:32:57.329718 Echo: Yes
+2024-10-14 18:32:57.329839 Alpha: Yes
+2024-10-14 18:32:57.329948 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:32:57.480124 Tango: Zulu we want you to join our group
+2024-10-14 18:32:57.489336 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 18:32:57.550125 Echo: X-ray, sending you 3
+2024-10-14 18:32:57.558134 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:57.565230 Hotel: Yankee, sending you 15
+2024-10-14 18:32:57.567890 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:32:57.574413 India: Same as last round
+2024-10-14 18:32:57.580811 Yankee: Same as last round
+2024-10-14 18:32:57.581588 Foxtrot: Same as last round
+2024-10-14 18:32:57.582439 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:57.589137 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:57.596136 X-ray: Alpha, sending you 4
+2024-10-14 18:32:57.644091 X-ray: Zulu, sending you 2
+2024-10-14 18:32:57.656670 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:57.666987 Tango: India and Echo, sending you 2
+2024-10-14 18:32:57.677684 Tango: Alpha, sending you 4
+2024-10-14 18:32:57.686661 Tango: Zulu, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot X-ray round 25
+ChatterBot India round 25
+ChatterBot Hotel round 25
+ChatterBot Yankee round 25
+ChatterBot Echo round 25
+ChatterBot Tango round 25
+ChatterBot Alpha round 25
+ChatterBot Zulu round 25
+ChatterBot Foxtrot round 25
+ChatterBot Charlie round 25
+2024-10-14 18:32:59.310949 Zulu: We should drop Alpha
+2024-10-14 18:32:59.325094 X-ray: No
+2024-10-14 18:32:59.325283 India: No
+2024-10-14 18:32:59.325936 Echo: No
+2024-10-14 18:32:59.326060 Tango: No
+2024-10-14 18:32:59.326171 Charlie: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:59.442965 Zulu: We should drop Charlie
+2024-10-14 18:32:59.459296 X-ray: No
+2024-10-14 18:32:59.459468 India: No
+2024-10-14 18:32:59.459595 Echo: No
+2024-10-14 18:32:59.459717 Tango: No
+2024-10-14 18:32:59.459831 Alpha: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 18:32:59.733174 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:32:59.756348 Tango: India and Echo, sending you 2
+2024-10-14 18:32:59.769204 Foxtrot: Same as last round
+2024-10-14 18:32:59.770590 India: Same as last round
+2024-10-14 18:32:59.777116 Echo: X-ray, sending you 3
+2024-10-14 18:32:59.785975 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:32:59.793859 Hotel: Yankee, sending you 15
+2024-10-14 18:32:59.796075 Yankee: Same as last round
+2024-10-14 18:32:59.797321 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:32:59.803394 Yankee: Ow
+2024-10-14 18:32:59.805622 X-ray: India, Echo, Tango and Charlie, sending you 3
+chatterbot Echo submitting transactions
+2024-10-14 18:32:59.815774 Tango: Alpha, sending you 4
+2024-10-14 18:32:59.824480 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:32:59.833897 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:32:59.841872 X-ray: Alpha, sending you 4
+2024-10-14 18:32:59.850969 Tango: Zulu, sending you 1
+2024-10-14 18:32:59.858486 X-ray: Zulu, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 26
+ChatterBot India round 26
+ChatterBot Hotel round 26
+ChatterBot Yankee round 26
+ChatterBot Echo round 26
+ChatterBot Tango round 26
+ChatterBot Alpha round 26
+ChatterBot Zulu round 26
+ChatterBot Foxtrot round 26
+ChatterBot Charlie round 26
+2024-10-14 18:33:00.859699 Zulu: X-ray, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:33:00.868334 Hotel: Yankee, sending you 15
+2024-10-14 18:33:00.870348 Yankee: Same as last round
+2024-10-14 18:33:00.871758 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:33:00.876988 Yankee: Ow
+2024-10-14 18:33:00.878423 Zulu: India, sending you 2
+2024-10-14 18:33:00.884278 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:33:00.889187 Echo: X-ray, sending you 3
+2024-10-14 18:33:00.894149 Tango: X-ray, India and Charlie, sending you 3
+2024-10-14 18:33:00.899008 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:00.907040 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:33:00.914305 X-ray: Alpha, sending you 4
+2024-10-14 18:33:00.921155 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:00.927852 Tango: Echo, sending you 2
+2024-10-14 18:33:00.932809 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:33:00.940279 X-ray: Zulu, sending you 2
+2024-10-14 18:33:00.958318 Tango: Alpha, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot X-ray round 27
+ChatterBot India round 27
+ChatterBot Hotel round 27
+ChatterBot Yankee round 27
+ChatterBot Echo round 27
+ChatterBot Tango round 27
+ChatterBot Alpha round 27
+ChatterBot Zulu round 27
+ChatterBot Foxtrot round 27
+ChatterBot Charlie round 27
+2024-10-14 18:33:03.020182 Tango: We should add Zulu
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:33:03.048390 X-ray: Yes
+2024-10-14 18:33:03.048635 India: Yes
+2024-10-14 18:33:03.048827 Echo: Yes
+2024-10-14 18:33:03.048995 Alpha: Yes
+2024-10-14 18:33:03.049467 Charlie: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:33:03.331473 Tango: Zulu we want you to join our group
+2024-10-14 18:33:03.356838 Zulu: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 18:33:03.476391 Echo: X-ray, sending you 3
+2024-10-14 18:33:03.490309 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:33:03.496520 Yankee: Same as last round
+2024-10-14 18:33:03.498158 India: Same as last round
+chatterbot Tango submitting transactions
+2024-10-14 18:33:03.504575 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+chatterbot X-ray submitting transactions
+2024-10-14 18:33:03.512821 X-ray: Alpha, sending you 4
+2024-10-14 18:33:03.518010 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:33:03.526119 Hotel: Yankee, sending you 15
+2024-10-14 18:33:03.528424 Foxtrot: Same as last round
+2024-10-14 18:33:03.529575 X-ray: Zulu, sending you 2
+2024-10-14 18:33:03.536857 Tango: India and Echo, sending you 2
+2024-10-14 18:33:03.544090 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:33:03.550952 Tango: Alpha, sending you 4
+2024-10-14 18:33:03.603925 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:33:03.613300 Tango: Zulu, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot X-ray round 28
+ChatterBot India round 28
+ChatterBot Hotel round 28
+ChatterBot Yankee round 28
+ChatterBot Echo round 28
+ChatterBot Tango round 28
+ChatterBot Alpha round 28
+ChatterBot Zulu round 28
+ChatterBot Foxtrot round 28
+ChatterBot Charlie round 28
+2024-10-14 18:33:04.506693 Echo: X-ray, sending you 3
+2024-10-14 18:33:04.514395 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:33:04.522836 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:04.529200 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:04.537967 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:33:04.548073 X-ray: Alpha, sending you 4
+2024-10-14 18:33:04.553628 Foxtrot: Same as last round
+2024-10-14 18:33:04.554404 Yankee: Same as last round
+2024-10-14 18:33:04.559471 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:33:04.589901 Yankee: Ow
+2024-10-14 18:33:04.591009 Zulu: X-ray, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:33:04.600709 Hotel: Yankee, sending you 15
+2024-10-14 18:33:04.601553 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:33:04.612683 Tango: India and Echo, sending you 2
+2024-10-14 18:33:04.619128 X-ray: Zulu, sending you 2
+2024-10-14 18:33:04.626729 Zulu: India, sending you 2
+2024-10-14 18:33:04.636110 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:33:04.642707 Tango: Alpha, sending you 4
+2024-10-14 18:33:04.653682 Tango: Zulu, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot X-ray round 29
+ChatterBot India round 29
+ChatterBot Hotel round 29
+ChatterBot Yankee round 29
+ChatterBot Echo round 29
+ChatterBot Tango round 29
+ChatterBot Alpha round 29
+ChatterBot Zulu round 29
+ChatterBot Foxtrot round 29
+ChatterBot Charlie round 29
+2024-10-14 18:33:06.758762 India: Same as last round
+2024-10-14 18:33:06.767864 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:33:06.775159 Echo: X-ray, sending you 3
+2024-10-14 18:33:06.780145 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:33:06.787074 Hotel: Yankee, sending you 15
+2024-10-14 18:33:06.787906 X-ray: Alpha, sending you 4
+2024-10-14 18:33:06.798646 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:33:06.803459 Foxtrot: Same as last round
+2024-10-14 18:33:06.804163 Yankee: Same as last round
+2024-10-14 18:33:06.806172 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:06.815160 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:33:06.824130 X-ray: Zulu, sending you 2
+2024-10-14 18:33:06.829528 Tango: India and Echo, sending you 2
+2024-10-14 18:33:07.008050 Tango: Alpha, sending you 4
+2024-10-14 18:33:07.081026 Tango: Zulu, sending you 1
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot X-ray round 30
+ChatterBot India round 30
+ChatterBot Hotel round 30
+ChatterBot Yankee round 30
+ChatterBot Echo round 30
+ChatterBot Tango round 30
+ChatterBot Alpha round 30
+ChatterBot Zulu round 30
+ChatterBot Foxtrot round 30
+ChatterBot Charlie round 30
+2024-10-14 18:33:08.169663 Echo: X-ray, sending you 3
+2024-10-14 18:33:08.176842 Charlie: X-ray and Tango, sending you 2
+2024-10-14 18:33:08.184075 Yankee: Same as last round
+2024-10-14 18:33:08.184927 Yankee: I was attacked by Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:33:08.189502 Yankee: Ow
+2024-10-14 18:33:08.190728 Echo: India, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:08.195429 India: X-ray, Echo, Tango, Alpha, Zulu and Charlie, sending you 2
+2024-10-14 18:33:08.198573 Charlie: India, Echo, Alpha and Zulu, sending you 1
+2024-10-14 18:33:08.201366 Zulu: X-ray, Echo, Tango, Alpha and Charlie, sending you 1
+2024-10-14 18:33:08.204314 X-ray: India, Echo, Tango and Charlie, sending you 3
+2024-10-14 18:33:08.206611 Hotel: Yankee, sending you 15
+2024-10-14 18:33:08.207006 Tango: X-ray and Charlie, sending you 3
+2024-10-14 18:33:08.209981 Zulu: India, sending you 2
+2024-10-14 18:33:08.211983 X-ray: Alpha, sending you 4
+2024-10-14 18:33:08.214932 Tango: India and Echo, sending you 2
+2024-10-14 18:33:08.218706 X-ray: Zulu, sending you 2
+2024-10-14 18:33:08.221928 Tango: Alpha, sending you 4
+2024-10-14 18:33:08.228658 Tango: Zulu, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions

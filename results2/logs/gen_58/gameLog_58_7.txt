@@ -1,0 +1,1918 @@
+ChatterBot Hotel round 1
+ChatterBot Quebec round 1
+ChatterBot Foxtrot round 1
+ChatterBot November round 1
+ChatterBot Yankee round 1
+ChatterBot Zulu round 1
+ChatterBot Papa round 1
+ChatterBot Tango round 1
+ChatterBot Alpha round 1
+ChatterBot Mike round 1
+randomSelections Hotel: {Hotel, Foxtrot} 
+2024-10-14 17:45:12.056851 Hotel: Friends?
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:12.063464 Foxtrot: Yes
+randomSelections Quebec: {Quebec, Tango, November, Hotel, Zulu, Foxtrot} 
+2024-10-14 17:45:12.072814 Quebec: Friends?
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:12.111959 Tango: Yes
+2024-10-14 17:45:12.112188 November: Yes
+2024-10-14 17:45:12.112402 Hotel: No
+2024-10-14 17:45:12.112688 Zulu: Yes
+2024-10-14 17:45:12.112841 Foxtrot: No
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Papa: {Papa, Foxtrot, Yankee, Quebec, Alpha, Tango} 
+2024-10-14 17:45:12.210356 Papa: We should group up
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:45:12.223756 Foxtrot: No
+2024-10-14 17:45:12.224080 Yankee: Yes
+2024-10-14 17:45:12.224283 Quebec: No
+2024-10-14 17:45:12.224533 Alpha: Yes
+2024-10-14 17:45:12.225270 Tango: No
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+randomSelections Mike: {Mike, Zulu, Yankee, Alpha, Quebec, Foxtrot} 
+2024-10-14 17:45:12.302599 Mike: We would work well together
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:12.313552 Zulu: No
+2024-10-14 17:45:12.313715 Yankee: No
+2024-10-14 17:45:12.313899 Alpha: No
+2024-10-14 17:45:12.314411 Quebec: No
+2024-10-14 17:45:12.314572 Foxtrot: No
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 17:45:12.376761 Mike: Foxtrot, sending you 4
+2024-10-14 17:45:12.378744 Quebec: Hotel and Tango, sending you 2
+2024-10-14 17:45:12.381742 Mike: Yankee and Zulu, sending you 2
+2024-10-14 17:45:12.382735 Quebec: Foxtrot and November, sending you 4
+2024-10-14 17:45:12.384663 Yankee: Quebec and Alpha, sending you 3
+2024-10-14 17:45:12.385095 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:12.385466 Zulu: Hotel and Quebec, sending you 1
+2024-10-14 17:45:12.385801 Mike: Alpha, sending you 6
+2024-10-14 17:45:12.387255 Papa: Quebec and Alpha, sending you 2
+2024-10-14 17:45:12.390752 Foxtrot: Sending you 16
+2024-10-14 17:45:12.391155 Hotel: Sending you 13
+2024-10-14 17:45:12.391510 Quebec: Zulu, sending you 3
+2024-10-14 17:45:12.392062 November: Tango, sending you 5
+2024-10-14 17:45:12.393258 Yankee: Foxtrot, sending you 1
+2024-10-14 17:45:12.393688 Zulu: Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:12.395327 Papa: Foxtrot and Yankee, sending you 1
+2024-10-14 17:45:12.401932 Alpha: Quebec, sending you 1
+2024-10-14 17:45:12.402329 Yankee: Papa and Tango, sending you 4
+2024-10-14 17:45:12.402768 Papa: Tango, sending you 3
+2024-10-14 17:45:12.406566 Alpha: Foxtrot, sending you 3
+2024-10-14 17:45:12.420401 Alpha: Yankee, Papa and Tango, sending you 5
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Hotel round 2
+ChatterBot Quebec round 2
+ChatterBot Foxtrot round 2
+ChatterBot November round 2
+ChatterBot Yankee round 2
+ChatterBot Zulu round 2
+ChatterBot Papa round 2
+2024-10-14 17:45:13.451063 Foxtrot: Let's form a team
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:13.483136 Quebec: No
+2024-10-14 17:45:13.483933 Tango: No
+2024-10-14 17:45:13.484088 November: No
+2024-10-14 17:45:13.484216 Hotel: Yes
+2024-10-14 17:45:13.484340 Zulu: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:13.644630 Foxtrot: We should add Zulu
+ChatterBot Hotel reevaluating
+2024-10-14 17:45:13.648939 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango round 2
+ChatterBot Alpha round 2
+2024-10-14 17:45:13.666865 Yankee: Friends?
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:13.687194 Papa: Yes
+2024-10-14 17:45:13.687739 Alpha: Yes
+2024-10-14 17:45:13.687884 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike round 2
+2024-10-14 17:45:13.751739 November: We should drop Hotel and Foxtrot
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:45:13.764134 Quebec: Yes
+2024-10-14 17:45:13.764273 Zulu: Yes
+2024-10-14 17:45:13.764388 Tango: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:13.814224 Mike: We would work well together
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:13.833572 Yankee: No
+2024-10-14 17:45:13.833759 Papa: No
+2024-10-14 17:45:13.833887 Alpha: No
+2024-10-14 17:45:13.834019 Hotel: No
+2024-10-14 17:45:13.834167 Foxtrot: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:13.990964 Hotel: Quebec and November, sending you 2
+2024-10-14 17:45:13.991326 Yankee: Sending you each 4
+2024-10-14 17:45:14.483600 Alpha: Yankee, sending you 6
+2024-10-14 17:45:14.484799 Hotel: Foxtrot, sending you 7
+2024-10-14 17:45:14.485451 Tango: November and Alpha, sending you 3
+2024-10-14 17:45:14.486557 November: Quebec and Zulu, sending you 6
+2024-10-14 17:45:14.487052 Papa: Yankee, sending you 4
+2024-10-14 17:45:14.488031 Zulu: Sending you each 4
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 17:45:14.493465 Alpha: Papa, sending you 5
+2024-10-14 17:45:14.493978 Hotel: Zulu and Tango, sending you 1
+2024-10-14 17:45:14.495021 Tango: Yankee, Zulu and Papa, sending you 2
+2024-10-14 17:45:14.495506 Foxtrot: Hotel, sending you 4
+2024-10-14 17:45:14.496506 November: Tango, sending you 5
+2024-10-14 17:45:14.496901 Papa: Alpha, sending you 5
+2024-10-14 17:45:14.497916 Alpha: Mike, sending you 8
+2024-10-14 17:45:14.576037 Foxtrot: Quebec, November, Zulu and Tango, sending you 3
+chatterbot Tango submitting transactions
+2024-10-14 17:45:14.853792 Quebec: Sending you each 4
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 17:45:14.984514 Mike: Hotel, Foxtrot, Papa and Alpha, sending you 3
+2024-10-14 17:45:15.095814 Mike: Yankee, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Hotel round 3
+ChatterBot Quebec round 3
+ChatterBot Foxtrot round 3
+ChatterBot November round 3
+ChatterBot Yankee round 3
+ChatterBot Zulu round 3
+ChatterBot Papa round 3
+ChatterBot Tango round 3
+ChatterBot Alpha round 3
+ChatterBot Mike round 3
+2024-10-14 17:45:16.035778 November: We should add Hotel and Foxtrot
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:45:16.049381 Quebec: Yes
+2024-10-14 17:45:16.049517 Zulu: Yes
+2024-10-14 17:45:16.049652 Tango: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:16.109859 Foxtrot: We should drop Tango
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:16.127493 Hotel: No
+2024-10-14 17:45:16.127986 Quebec: No
+2024-10-14 17:45:16.128142 November: No
+2024-10-14 17:45:16.128294 Zulu: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:45:16.293623 November: Hotel and Foxtrot we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 17:45:16.308979 Hotel: No
+2024-10-14 17:45:16.309807 Foxtrot: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:16.383113 Zulu: Hotel and Foxtrot we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 17:45:16.393052 Foxtrot: Yes
+2024-10-14 17:45:16.393194 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:45:16.429167 Yankee: Papa and Alpha, sending you 4
+chatterbot Yankee submitting transactions
+2024-10-14 17:45:16.433173 Yankee: Mike, sending you 3
+2024-10-14 17:45:16.434121 Foxtrot: Hotel, sending you 5
+2024-10-14 17:45:16.434644 Alpha: Yankee and Papa, sending you 6
+2024-10-14 17:45:16.435254 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:16.436337 Papa: Yankee, sending you 3
+2024-10-14 17:45:16.437104 Tango: Hotel and Quebec, sending you 1
+2024-10-14 17:45:16.439415 Foxtrot: Quebec and Zulu, sending you 4
+2024-10-14 17:45:16.439934 Alpha: Mike, sending you 7
+2024-10-14 17:45:16.441183 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:16.444749 Papa: Alpha, sending you 4
+2024-10-14 17:45:16.445133 Quebec: Hotel and Foxtrot, sending you 5
+chatterbot Mike submitting transactions
+2024-10-14 17:45:16.445650 Foxtrot: November, sending you 3
+2024-10-14 17:45:16.446575 Tango: November, sending you 7
+2024-10-14 17:45:16.475750 Quebec: November and Zulu, sending you 4
+2024-10-14 17:45:16.476374 Papa: Mike, sending you 2
+2024-10-14 17:45:16.476786 Tango: Zulu, sending you 2
+chatterbot Alpha submitting transactions
+2024-10-14 17:45:16.478118 November: Hotel, Quebec and Foxtrot, sending you 4
+2024-10-14 17:45:16.480910 Zulu: Hotel, sending you 3
+2024-10-14 17:45:16.481287 Hotel: Quebec and November, sending you 2
+2024-10-14 17:45:16.500144 November: Zulu, sending you 5
+2024-10-14 17:45:16.501017 Zulu: Quebec and November, sending you 4
+2024-10-14 17:45:16.501393 Hotel: Foxtrot, sending you 8
+2024-10-14 17:45:16.507624 Zulu: Foxtrot, sending you 5
+2024-10-14 17:45:16.508032 Hotel: Zulu, sending you 1
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Hotel round 4
+ChatterBot Quebec round 4
+ChatterBot Foxtrot round 4
+ChatterBot November round 4
+2024-10-14 17:45:17.557197 Quebec: We should add Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:45:17.576361 Foxtrot: No
+2024-10-14 17:45:17.576596 Hotel: Yes
+2024-10-14 17:45:17.576820 November: Yes
+2024-10-14 17:45:17.577765 Zulu: No
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Yankee round 4
+ChatterBot Zulu round 4
+ChatterBot Papa round 4
+ChatterBot Tango round 4
+ChatterBot Alpha round 4
+ChatterBot Mike round 4
+2024-10-14 17:45:17.632770 Quebec: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 17:45:17.636266 Tango: Yes
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:17.665393 Mike: We should replace Quebec with Tango
+2024-10-14 17:45:17.672650 Yankee: No
+2024-10-14 17:45:17.672826 Papa: No
+2024-10-14 17:45:17.672973 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:17.695978 Hotel: Tango we want you to join our group
+2024-10-14 17:45:17.698430 Tango: Yes
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:17.708799 November: Tango we want you to join our group
+2024-10-14 17:45:17.711164 Tango: Yes
+2024-10-14 17:45:17.723699 Quebec: Sending you each 4
+2024-10-14 17:45:17.732683 November: Hotel, Quebec and Foxtrot, sending you 3
+2024-10-14 17:45:17.733561 Tango: Hotel and Quebec, sending you 1
+2024-10-14 17:45:17.734678 Papa: Yankee, sending you 3
+2024-10-14 17:45:17.735704 November: Zulu and Tango, sending you 4
+2024-10-14 17:45:17.736666 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:17.737685 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:17.738669 Foxtrot: Sending you each 4
+2024-10-14 17:45:17.739250 Papa: Alpha, sending you 4
+2024-10-14 17:45:17.740057 Hotel: Quebec, November and Zulu, sending you 2
+2024-10-14 17:45:17.740618 Zulu: Hotel, sending you 3
+2024-10-14 17:45:17.741047 Alpha: Papa, sending you 7
+2024-10-14 17:45:17.741663 Tango: November, sending you 7
+2024-10-14 17:45:17.742676 Hotel: Foxtrot, sending you 6
+2024-10-14 17:45:17.743673 Papa: Mike, sending you 2
+2024-10-14 17:45:17.744061 Yankee: Papa, sending you 4
+2024-10-14 17:45:17.744668 Zulu: Quebec and November, sending you 4
+2024-10-14 17:45:17.745621 Tango: Zulu, sending you 2
+2024-10-14 17:45:17.746701 Hotel: Tango, sending you 1
+2024-10-14 17:45:17.748104 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:17.749666 Zulu: Foxtrot, sending you 5
+2024-10-14 17:45:17.755686 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Hotel round 5
+ChatterBot Quebec round 5
+ChatterBot Foxtrot round 5
+ChatterBot November round 5
+ChatterBot Yankee round 5
+ChatterBot Zulu round 5
+ChatterBot Papa round 5
+ChatterBot Tango round 5
+ChatterBot Alpha round 5
+ChatterBot Mike round 5
+2024-10-14 17:45:18.993357 Mike: We should replace Quebec with Tango
+2024-10-14 17:45:18.999328 Yankee: No
+2024-10-14 17:45:18.999509 Papa: No
+2024-10-14 17:45:18.999650 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:19.019658 Yankee: Papa, sending you 4
+2024-10-14 17:45:19.020020 Hotel: Quebec, sending you 3
+2024-10-14 17:45:19.020767 Quebec: Same as last round
+2024-10-14 17:45:19.021672 Zulu: Hotel, sending you 3
+2024-10-14 17:45:19.022651 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:19.025658 Hotel: Foxtrot, sending you 5
+2024-10-14 17:45:19.026690 Zulu: Quebec and November, sending you 4
+2024-10-14 17:45:19.029672 Zulu: Foxtrot, sending you 5
+2024-10-14 17:45:19.030678 Hotel: November and Zulu, sending you 2
+2024-10-14 17:45:19.033646 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:19.034088 Foxtrot: Same as last round
+2024-10-14 17:45:19.034406 Tango: Hotel and Zulu, sending you 1
+2024-10-14 17:45:19.035677 Hotel: Tango, sending you 1
+2024-10-14 17:45:19.036660 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:19.037664 November: Tango, sending you 5
+2024-10-14 17:45:19.039677 Tango: Quebec, sending you 4
+2024-10-14 17:45:19.040670 Papa: Yankee, sending you 3
+2024-10-14 17:45:19.041678 Alpha: Papa, sending you 7
+2024-10-14 17:45:19.043655 Tango: Foxtrot, sending you 2
+2024-10-14 17:45:19.044172 Papa: Alpha, sending you 4
+2024-10-14 17:45:19.044676 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:19.046659 Tango: November, sending you 7
+2024-10-14 17:45:19.048684 Papa: Mike, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 6
+ChatterBot Quebec round 6
+ChatterBot Foxtrot round 6
+ChatterBot November round 6
+ChatterBot Yankee round 6
+ChatterBot Zulu round 6
+ChatterBot Papa round 6
+ChatterBot Tango round 6
+ChatterBot Alpha round 6
+ChatterBot Mike round 6
+2024-10-14 17:45:20.250203 Mike: We should replace Quebec with November
+2024-10-14 17:45:20.259504 Yankee: No
+2024-10-14 17:45:20.259775 Papa: No
+2024-10-14 17:45:20.259965 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:20.286680 Hotel: Quebec, sending you 3
+2024-10-14 17:45:20.288657 Tango: Hotel, Foxtrot and Zulu, sending you 1
+2024-10-14 17:45:20.289603 Mike: November we want you to join our group
+2024-10-14 17:45:20.292137 November: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:20.302012 Hotel: Foxtrot, sending you 5
+2024-10-14 17:45:20.302573 Tango: Quebec, sending you 5
+2024-10-14 17:45:20.305659 Tango: November, sending you 7
+2024-10-14 17:45:20.306382 Quebec: Hotel, Foxtrot, November and Zulu, sending you 4
+2024-10-14 17:45:20.306930 Yankee: Papa, sending you 4
+2024-10-14 17:45:20.307275 Hotel: November and Zulu, sending you 2
+2024-10-14 17:45:20.307715 Foxtrot: Same as last round
+2024-10-14 17:45:20.308 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:20.308328 Papa: Yankee, sending you 3
+2024-10-14 17:45:20.308911 Zulu: Hotel, sending you 3
+2024-10-14 17:45:20.309678 Quebec: Tango, sending you 3
+2024-10-14 17:45:20.310672 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:20.311156 November: Tango, sending you 5
+2024-10-14 17:45:20.311838 Hotel: Tango, sending you 1
+2024-10-14 17:45:20.312485 Zulu: Quebec, sending you 4
+2024-10-14 17:45:20.313664 Papa: Alpha, sending you 4
+2024-10-14 17:45:20.314922 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:20.317672 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:20.318234 Papa: Mike, sending you 2
+2024-10-14 17:45:20.318677 Alpha: Papa, sending you 7
+2024-10-14 17:45:20.335661 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 7
+ChatterBot Quebec round 7
+ChatterBot Foxtrot round 7
+ChatterBot November round 7
+ChatterBot Yankee round 7
+ChatterBot Zulu round 7
+ChatterBot Papa round 7
+ChatterBot Tango round 7
+ChatterBot Alpha round 7
+ChatterBot Mike round 7
+2024-10-14 17:45:21.317664 Yankee: Papa, sending you 5
+2024-10-14 17:45:21.320362 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:21.321280 Hotel: Quebec, sending you 3
+2024-10-14 17:45:21.322673 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:21.325667 November: Tango, sending you 5
+2024-10-14 17:45:21.326192 Hotel: Foxtrot, sending you 5
+2024-10-14 17:45:21.326568 Quebec: Hotel, Foxtrot, November and Zulu, sending you 4
+2024-10-14 17:45:21.327002 Tango: Hotel, sending you 2
+2024-10-14 17:45:21.327511 Papa: Yankee, sending you 3
+2024-10-14 17:45:21.328660 Hotel: November and Zulu, sending you 2
+2024-10-14 17:45:21.330676 Quebec: Tango, sending you 3
+2024-10-14 17:45:21.331627 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:21.332692 Papa: Alpha, sending you 4
+2024-10-14 17:45:21.333310 Tango: Quebec, sending you 5
+2024-10-14 17:45:21.333851 Hotel: Tango, sending you 1
+2024-10-14 17:45:21.334360 Zulu: Hotel, sending you 4
+2024-10-14 17:45:21.334734 Foxtrot: Same as last round
+2024-10-14 17:45:21.336662 Papa: Mike, sending you 2
+2024-10-14 17:45:21.337009 Tango: November, sending you 8
+2024-10-14 17:45:21.337694 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:21.338203 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:21.343003 Alpha: Papa, sending you 7
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Hotel round 8
+ChatterBot Quebec round 8
+ChatterBot Foxtrot round 8
+ChatterBot November round 8
+ChatterBot Yankee round 8
+ChatterBot Zulu round 8
+ChatterBot Papa round 8
+ChatterBot Tango round 8
+ChatterBot Alpha round 8
+ChatterBot Mike round 8
+2024-10-14 17:45:22.586681 Hotel: Quebec and November, sending you 3
+2024-10-14 17:45:22.588724 Papa: Yankee, sending you 3
+2024-10-14 17:45:22.591664 Hotel: Foxtrot, sending you 4
+2024-10-14 17:45:22.592661 Papa: Alpha, sending you 4
+2024-10-14 17:45:22.593673 Foxtrot: Same as last round
+2024-10-14 17:45:22.594780 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:22.595911 Hotel: Zulu, sending you 2
+2024-10-14 17:45:22.597630 Papa: Mike, sending you 2
+2024-10-14 17:45:22.598444 Tango: Hotel, sending you 2
+2024-10-14 17:45:22.600181 Quebec: Hotel, Foxtrot, November and Zulu, sending you 4
+2024-10-14 17:45:22.601312 November: Tango, sending you 5
+2024-10-14 17:45:22.602337 Hotel: Tango, sending you 1
+2024-10-14 17:45:22.603800 Yankee: Papa, sending you 5
+2024-10-14 17:45:22.604799 Tango: Quebec, sending you 5
+2024-10-14 17:45:22.606454 Quebec: Tango, sending you 3
+2024-10-14 17:45:22.607665 Zulu: Hotel, sending you 4
+2024-10-14 17:45:22.608694 Tango: November, sending you 9
+2024-10-14 17:45:22.609685 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:22.610349 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:22.610850 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:22.611682 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:22.615239 Alpha: Papa, sending you 7
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 9
+ChatterBot Quebec round 9
+ChatterBot Foxtrot round 9
+ChatterBot November round 9
+ChatterBot Yankee round 9
+ChatterBot Zulu round 9
+ChatterBot Papa round 9
+ChatterBot Tango round 9
+ChatterBot Alpha round 9
+ChatterBot Mike round 9
+2024-10-14 17:45:23.726597 Mike: We should replace Quebec with Tango
+2024-10-14 17:45:23.731728 Yankee: No
+2024-10-14 17:45:23.731873 Papa: No
+2024-10-14 17:45:23.732 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:23.754674 Yankee: Papa, sending you 5
+2024-10-14 17:45:23.755108 Foxtrot: Same as last round
+2024-10-14 17:45:23.755682 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:23.757216 Hotel: Quebec and November, sending you 3
+2024-10-14 17:45:23.758053 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:23.758574 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:23.758952 November: Tango, sending you 5
+2024-10-14 17:45:23.760657 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:23.761184 Papa: Yankee, sending you 3
+2024-10-14 17:45:23.761662 Mike: Tango we want you to join our group
+2024-10-14 17:45:23.765547 Tango: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:23.780999 Hotel: Foxtrot, sending you 4
+2024-10-14 17:45:23.781895 Papa: Alpha, sending you 4
+2024-10-14 17:45:23.782355 Zulu: Hotel, sending you 4
+2024-10-14 17:45:23.782859 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:23.784725 Hotel: Zulu, sending you 2
+2024-10-14 17:45:23.785517 Papa: Mike, sending you 2
+2024-10-14 17:45:23.786682 Alpha: Papa, sending you 7
+2024-10-14 17:45:23.787677 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:23.788658 Tango: Hotel, sending you 2
+2024-10-14 17:45:23.789374 Hotel: Tango, sending you 1
+2024-10-14 17:45:23.793665 Tango: Quebec, sending you 5
+2024-10-14 17:45:23.798657 Tango: November, sending you 9
+2024-10-14 17:45:23.802663 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 10
+ChatterBot Quebec round 10
+ChatterBot Foxtrot round 10
+ChatterBot November round 10
+ChatterBot Yankee round 10
+ChatterBot Zulu round 10
+ChatterBot Papa round 10
+ChatterBot Tango round 10
+ChatterBot Alpha round 10
+ChatterBot Mike round 10
+2024-10-14 17:45:25.021724 Mike: We should replace Quebec with Tango
+2024-10-14 17:45:25.028241 Yankee: No
+2024-10-14 17:45:25.028443 Papa: No
+2024-10-14 17:45:25.028557 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:25.078677 Mike: Tango we want you to join our group
+2024-10-14 17:45:25.083387 Tango: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:25.100663 Papa: Yankee, sending you 3
+2024-10-14 17:45:25.101646 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:25.102233 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:25.102727 Foxtrot: Same as last round
+2024-10-14 17:45:25.103130 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:25.103665 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:25.104270 Yankee: Papa, sending you 5
+2024-10-14 17:45:25.104856 Tango: Hotel, sending you 2
+2024-10-14 17:45:25.105407 Zulu: Hotel, sending you 4
+2024-10-14 17:45:25.106508 Papa: Alpha, sending you 4
+2024-10-14 17:45:25.107037 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:25.107779 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:25.108915 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:25.109309 November: Tango, sending you 5
+2024-10-14 17:45:25.109822 Alpha: Papa, sending you 7
+2024-10-14 17:45:25.110183 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:25.110571 Tango: Quebec, sending you 5
+2024-10-14 17:45:25.111058 Papa: Mike, sending you 2
+2024-10-14 17:45:25.113686 Tango: November, sending you 9
+2024-10-14 17:45:25.130673 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:25.136015 Mike: Alpha, sending you 6
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Hotel round 11
+ChatterBot Quebec round 11
+ChatterBot Foxtrot round 11
+ChatterBot November round 11
+ChatterBot Yankee round 11
+ChatterBot Zulu round 11
+ChatterBot Papa round 11
+ChatterBot Tango round 11
+ChatterBot Alpha round 11
+ChatterBot Mike round 11
+2024-10-14 17:45:26.320293 Mike: We should replace Tango with Quebec
+2024-10-14 17:45:26.330315 Yankee: No
+2024-10-14 17:45:26.330550 Papa: No
+2024-10-14 17:45:26.331329 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:26.354921 Mike: We should replace Tango with November
+2024-10-14 17:45:26.361191 Yankee: No
+2024-10-14 17:45:26.361385 Papa: No
+2024-10-14 17:45:26.361510 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:26.382866 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:26.386656 November: Tango, sending you 5
+2024-10-14 17:45:26.387457 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:26.388557 Papa: Yankee, sending you 3
+2024-10-14 17:45:26.389030 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:26.389640 Foxtrot: Same as last round
+2024-10-14 17:45:26.390271 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:26.390804 Yankee: Papa, sending you 5
+2024-10-14 17:45:26.391262 Zulu: Hotel, sending you 4
+2024-10-14 17:45:26.392287 Mike: Quebec we want you to join our group
+2024-10-14 17:45:26.394905 Quebec: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:26.405597 Tango: Hotel, sending you 2
+2024-10-14 17:45:26.406383 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:26.407011 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:26.407652 Papa: Alpha, sending you 4
+2024-10-14 17:45:26.408113 Alpha: Papa, sending you 7
+2024-10-14 17:45:26.409053 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:26.409472 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:26.409960 Mike: November we want you to join our group
+2024-10-14 17:45:26.412842 November: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:26.423376 Tango: Quebec, sending you 5
+2024-10-14 17:45:26.424062 Papa: Mike, sending you 2
+2024-10-14 17:45:26.429025 Tango: November, sending you 9
+2024-10-14 17:45:26.442685 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:26.445676 Mike: Alpha, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Hotel round 12
+ChatterBot Quebec round 12
+ChatterBot Foxtrot round 12
+ChatterBot November round 12
+ChatterBot Yankee round 12
+ChatterBot Zulu round 12
+ChatterBot Papa round 12
+ChatterBot Tango round 12
+ChatterBot Alpha round 12
+2024-10-14 17:45:27.580809 Foxtrot: We should replace November with Tango
+2024-10-14 17:45:27.591092 Hotel: No
+2024-10-14 17:45:27.591298 Quebec: No
+2024-10-14 17:45:27.591460 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike round 12
+2024-10-14 17:45:27.730542 Mike: We should replace November with Quebec
+2024-10-14 17:45:27.741293 Yankee: No
+2024-10-14 17:45:27.741707 Papa: No
+2024-10-14 17:45:27.741894 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:27.772171 Papa: Yankee, sending you 3
+2024-10-14 17:45:27.773135 Mike: Quebec we want you to join our group
+2024-10-14 17:45:27.777713 Quebec: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:27.793080 Mike: We should replace November with Tango
+2024-10-14 17:45:27.805120 Yankee: No
+2024-10-14 17:45:27.805908 Papa: No
+2024-10-14 17:45:27.806686 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:27.838515 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:27.840752 Papa: Alpha, sending you 4
+2024-10-14 17:45:27.843683 November: Tango, sending you 5
+2024-10-14 17:45:27.846513 Papa: Mike, sending you 2
+2024-10-14 17:45:27.847584 Tango: Hotel, sending you 2
+2024-10-14 17:45:27.849508 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:27.850513 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:27.852637 Yankee: Papa, sending you 5
+2024-10-14 17:45:27.853188 Zulu: Hotel, sending you 4
+2024-10-14 17:45:27.854048 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:27.855443 Foxtrot: Same as last round
+2024-10-14 17:45:27.856041 Tango: Quebec, sending you 5
+2024-10-14 17:45:27.856766 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:27.858190 Alpha: Papa, sending you 7
+2024-10-14 17:45:27.858775 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:27.859307 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:27.859817 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:27.861667 Tango: November, sending you 9
+2024-10-14 17:45:27.873679 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:27.876670 Mike: Alpha, sending you 6
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 13
+ChatterBot Quebec round 13
+ChatterBot Foxtrot round 13
+2024-10-14 17:45:28.933545 Foxtrot: We should replace November with Tango
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:28.939359 Hotel: No
+2024-10-14 17:45:28.939499 Quebec: No
+2024-10-14 17:45:28.939599 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November round 13
+ChatterBot Yankee round 13
+ChatterBot Zulu round 13
+ChatterBot Papa round 13
+ChatterBot Tango round 13
+ChatterBot Alpha round 13
+ChatterBot Mike round 13
+2024-10-14 17:45:28.974148 Mike: We should replace November with Quebec
+2024-10-14 17:45:28.984243 Yankee: No
+2024-10-14 17:45:28.984442 Papa: No
+2024-10-14 17:45:28.984625 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:29.017190 Mike: We should replace November with Tango
+2024-10-14 17:45:29.022892 Yankee: No
+2024-10-14 17:45:29.023041 Papa: No
+2024-10-14 17:45:29.023155 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:29.043956 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:29.045499 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:29.046914 Foxtrot: Same as last round
+2024-10-14 17:45:29.047912 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:29.049127 Papa: Yankee, sending you 3
+2024-10-14 17:45:29.049910 Mike: Tango we want you to join our group
+2024-10-14 17:45:29.054204 Tango: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:29.068607 Mike: We should replace November with Foxtrot
+2024-10-14 17:45:29.076550 Yankee: No
+2024-10-14 17:45:29.077250 Papa: No
+2024-10-14 17:45:29.077438 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:29.110090 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:29.111325 November: Tango, sending you 5
+2024-10-14 17:45:29.113041 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:29.114420 Papa: Alpha, sending you 4
+2024-10-14 17:45:29.116672 Zulu: Hotel, sending you 4
+2024-10-14 17:45:29.117704 Yankee: Papa, sending you 5
+2024-10-14 17:45:29.118468 Tango: Hotel, sending you 2
+2024-10-14 17:45:29.119353 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:29.120245 Papa: Mike, sending you 2
+2024-10-14 17:45:29.120724 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:29.121302 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:29.121859 Mike: Quebec we want you to join our group
+2024-10-14 17:45:29.124806 Quebec: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:29.136091 Tango: Quebec, sending you 5
+2024-10-14 17:45:29.139669 Tango: November, sending you 9
+2024-10-14 17:45:29.156665 Alpha: Yankee and Mike, sending you 5
+2024-10-14 17:45:29.165677 Alpha: Tango, sending you 2
+2024-10-14 17:45:29.178061 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:29.183714 Mike: Alpha, sending you 6
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 14
+ChatterBot Quebec round 14
+ChatterBot Foxtrot round 14
+ChatterBot November round 14
+ChatterBot Yankee round 14
+ChatterBot Zulu round 14
+ChatterBot Papa round 14
+ChatterBot Tango round 14
+ChatterBot Alpha round 14
+ChatterBot Mike round 14
+2024-10-14 17:45:30.324745 Mike: We should replace Tango with Quebec
+2024-10-14 17:45:30.331276 Yankee: No
+2024-10-14 17:45:30.331547 Papa: No
+2024-10-14 17:45:30.331786 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:30.358687 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:30.361651 Mike: Quebec we want you to join our group
+2024-10-14 17:45:30.364729 Quebec: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:30.374426 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:30.375435 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:30.376733 Foxtrot: Same as last round
+2024-10-14 17:45:30.377399 Papa: Yankee, sending you 3
+2024-10-14 17:45:30.378686 Yankee: Papa, sending you 5
+2024-10-14 17:45:30.379689 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:30.380831 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:30.381893 Zulu: Hotel, sending you 4
+2024-10-14 17:45:30.382563 Tango: Hotel, sending you 2
+2024-10-14 17:45:30.383626 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:30.385354 Papa: Alpha, sending you 4
+2024-10-14 17:45:30.386169 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:30.386990 Alpha: Papa, sending you 7
+2024-10-14 17:45:30.388079 November: Tango, sending you 5
+2024-10-14 17:45:30.388732 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:30.389187 Tango: Quebec, sending you 5
+2024-10-14 17:45:30.389902 Papa: Mike, sending you 2
+2024-10-14 17:45:30.394897 Tango: November, sending you 9
+2024-10-14 17:45:30.399845 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Hotel round 15
+ChatterBot Quebec round 15
+ChatterBot Foxtrot round 15
+ChatterBot November round 15
+ChatterBot Yankee round 15
+ChatterBot Zulu round 15
+ChatterBot Papa round 15
+ChatterBot Tango round 15
+ChatterBot Alpha round 15
+ChatterBot Mike round 15
+2024-10-14 17:45:31.637664 Tango: Hotel, sending you 3
+2024-10-14 17:45:31.642107 Tango: Quebec, sending you 4
+2024-10-14 17:45:31.643260 Yankee: Papa, sending you 5
+2024-10-14 17:45:31.646684 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:31.648018 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:31.649351 Tango: November, sending you 9
+2024-10-14 17:45:31.650765 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:31.651938 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:31.652865 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:31.653582 Foxtrot: Same as last round
+2024-10-14 17:45:31.654045 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:31.654553 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:31.655706 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:31.657749 November: Tango, sending you 5
+2024-10-14 17:45:31.658929 Alpha: Papa, sending you 7
+2024-10-14 17:45:31.659633 Papa: Yankee, sending you 3
+2024-10-14 17:45:31.661151 Zulu: Hotel, sending you 4
+2024-10-14 17:45:31.663657 Papa: Alpha, sending you 4
+2024-10-14 17:45:31.664680 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:31.668056 Papa: Mike, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 16
+ChatterBot Quebec round 16
+ChatterBot Foxtrot round 16
+ChatterBot November round 16
+ChatterBot Yankee round 16
+ChatterBot Zulu round 16
+ChatterBot Papa round 16
+ChatterBot Tango round 16
+ChatterBot Alpha round 16
+ChatterBot Mike round 16
+2024-10-14 17:45:32.975761 Mike: We should replace Quebec with Hotel
+2024-10-14 17:45:32.986194 Yankee: No
+2024-10-14 17:45:32.987166 Papa: No
+2024-10-14 17:45:32.987537 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:33.026675 Papa: Yankee, sending you 4
+2024-10-14 17:45:33.030329 Tango: Hotel, sending you 3
+2024-10-14 17:45:33.033158 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:33.034969 Foxtrot: Same as last round
+2024-10-14 17:45:33.036026 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:33.038471 Papa: Alpha, sending you 3
+2024-10-14 17:45:33.040535 Tango: Quebec, sending you 4
+2024-10-14 17:45:33.043474 Alpha: Papa, sending you 7
+2024-10-14 17:45:33.046328 Zulu: Hotel, sending you 4
+2024-10-14 17:45:33.048198 November: Tango, sending you 5
+2024-10-14 17:45:33.051775 Yankee: Papa, sending you 5
+2024-10-14 17:45:33.055291 Papa: Mike, sending you 2
+2024-10-14 17:45:33.057839 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:33.060913 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:33.064163 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:33.068442 Tango: November, sending you 9
+2024-10-14 17:45:33.071015 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:33.074398 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:33.077315 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:33.080959 Quebec: Zulu and Tango, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Hotel round 17
+ChatterBot Quebec round 17
+ChatterBot Foxtrot round 17
+ChatterBot November round 17
+ChatterBot Yankee round 17
+ChatterBot Zulu round 17
+ChatterBot Papa round 17
+ChatterBot Tango round 17
+ChatterBot Alpha round 17
+ChatterBot Mike round 17
+2024-10-14 17:45:34.346020 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:34.350687 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:34.351706 Yankee: Papa, sending you 5
+2024-10-14 17:45:34.353278 Papa: Yankee, sending you 4
+2024-10-14 17:45:34.354096 Zulu: Hotel, sending you 4
+2024-10-14 17:45:34.355725 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:34.356897 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:34.358251 Papa: Alpha, sending you 3
+2024-10-14 17:45:34.359108 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:34.359942 Alpha: Papa, sending you 7
+2024-10-14 17:45:34.362150 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:34.364697 Tango: Hotel, sending you 3
+2024-10-14 17:45:34.366973 Papa: Mike, sending you 2
+2024-10-14 17:45:34.368656 Foxtrot: Same as last round
+2024-10-14 17:45:34.369984 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:34.372376 November: Tango, sending you 5
+2024-10-14 17:45:34.374297 Tango: Quebec, sending you 4
+2024-10-14 17:45:34.376203 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:34.377445 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:34.379680 Tango: November, sending you 9
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Hotel round 18
+ChatterBot Quebec round 18
+ChatterBot Foxtrot round 18
+ChatterBot November round 18
+ChatterBot Yankee round 18
+ChatterBot Zulu round 18
+ChatterBot Papa round 18
+ChatterBot Tango round 18
+ChatterBot Alpha round 18
+ChatterBot Mike round 18
+2024-10-14 17:45:35.459686 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:35.461676 Zulu: Hotel, sending you 4
+2024-10-14 17:45:35.463475 Papa: Yankee, sending you 4
+2024-10-14 17:45:35.464544 Tango: Hotel, sending you 3
+2024-10-14 17:45:35.466468 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:35.468570 Foxtrot: Same as last round
+2024-10-14 17:45:35.470127 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:35.472707 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:35.473793 Papa: Alpha, sending you 3
+2024-10-14 17:45:35.474724 Tango: Quebec, sending you 4
+2024-10-14 17:45:35.475892 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:35.477987 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:35.479311 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:35.479988 Papa: Mike, sending you 2
+2024-10-14 17:45:35.480858 Tango: November, sending you 9
+2024-10-14 17:45:35.482825 Yankee: Papa, sending you 5
+2024-10-14 17:45:35.483659 November: Tango, sending you 5
+2024-10-14 17:45:35.485078 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:35.487960 Yankee: Alpha and Mike, sending you 3
+2024-10-14 17:45:35.490661 Alpha: Papa, sending you 7
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Hotel round 19
+ChatterBot Quebec round 19
+ChatterBot Foxtrot round 19
+ChatterBot November round 19
+ChatterBot Yankee round 19
+ChatterBot Zulu round 19
+ChatterBot Papa round 19
+ChatterBot Tango round 19
+ChatterBot Alpha round 19
+ChatterBot Mike round 19
+2024-10-14 17:45:36.638598 Mike: We should replace Quebec with Tango
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:36.649382 Yankee: No
+2024-10-14 17:45:36.649669 Papa: No
+2024-10-14 17:45:36.650520 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:36.679098 Mike: We should replace Quebec with Foxtrot
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:36.685940 Yankee: No
+2024-10-14 17:45:36.686874 Papa: No
+2024-10-14 17:45:36.687004 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:36.711699 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:36.716668 Zulu: Hotel, sending you 4
+2024-10-14 17:45:36.718864 Yankee: Papa, sending you 5
+2024-10-14 17:45:36.720431 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:36.722916 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:36.724901 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:36.727573 Papa: Yankee, sending you 4
+2024-10-14 17:45:36.729143 Tango: Hotel, sending you 3
+2024-10-14 17:45:36.731834 Foxtrot: Same as last round
+2024-10-14 17:45:36.732991 Yankee: Alpha, sending you 2
+2024-10-14 17:45:36.734470 Zulu: Quebec, Foxtrot and November, sending you 5
+2024-10-14 17:45:36.735355 November: Tango, sending you 5
+2024-10-14 17:45:36.736748 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:36.738909 Papa: Alpha, sending you 3
+2024-10-14 17:45:36.739958 Tango: Quebec, sending you 4
+2024-10-14 17:45:36.741934 Yankee: Mike, sending you 3
+2024-10-14 17:45:36.743115 Alpha: Yankee and Mike, sending you 5
+2024-10-14 17:45:36.744762 Papa: Mike, sending you 2
+2024-10-14 17:45:36.746686 Tango: November, sending you 9
+2024-10-14 17:45:36.749299 Alpha: Papa, sending you 7
+2024-10-14 17:45:36.750651 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:36.752725 Alpha: Tango, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 20
+ChatterBot Quebec round 20
+ChatterBot Foxtrot round 20
+ChatterBot November round 20
+ChatterBot Yankee round 20
+ChatterBot Zulu round 20
+ChatterBot Papa round 20
+ChatterBot Tango round 20
+ChatterBot Alpha round 20
+ChatterBot Mike round 20
+2024-10-14 17:45:37.970330 Mike: We should replace Quebec with November
+2024-10-14 17:45:37.983309 Yankee: No
+2024-10-14 17:45:37.983546 Papa: No
+2024-10-14 17:45:37.983769 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:38.026884 Zulu: We should add Tango
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:38.035891 Foxtrot: Yes
+2024-10-14 17:45:38.036041 Hotel: Yes
+2024-10-14 17:45:38.036153 Quebec: Yes
+2024-10-14 17:45:38.036261 November: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:38.083347 Mike: We should replace Quebec with Zulu
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:38.091739 Yankee: No
+2024-10-14 17:45:38.091894 Papa: No
+2024-10-14 17:45:38.092021 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:38.228624 Foxtrot: We should replace November with Tango
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:38.253754 Hotel: No
+2024-10-14 17:45:38.254566 Quebec: No
+2024-10-14 17:45:38.254871 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:38.300239 Foxtrot: We should replace Hotel with Tango
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:38.312058 Quebec: No
+2024-10-14 17:45:38.312300 November: No
+2024-10-14 17:45:38.312649 Zulu: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:38.346675 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:38.351572 Mike: Zulu we want you to join our group
+2024-10-14 17:45:38.358018 Zulu: No
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:38.375298 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:38.379457 Tango: Hotel, sending you 3
+2024-10-14 17:45:38.382859 Papa: Yankee, sending you 4
+2024-10-14 17:45:38.386429 Foxtrot: Tango we want you to join our group
+2024-10-14 17:45:38.396210 Tango: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:38.412419 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:38.415602 November: Tango, sending you 5
+2024-10-14 17:45:38.418666 Tango: Quebec, sending you 4
+2024-10-14 17:45:38.421588 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:38.423449 Papa: Alpha, sending you 3
+2024-10-14 17:45:38.425353 Yankee: Papa, sending you 5
+2024-10-14 17:45:38.426697 Tango: November, sending you 9
+2024-10-14 17:45:38.429329 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:38.431505 Papa: Mike, sending you 2
+2024-10-14 17:45:38.432807 Yankee: Alpha, sending you 2
+2024-10-14 17:45:38.434717 Alpha: Yankee and Mike, sending you 5
+2024-10-14 17:45:38.436666 Mike: Quebec, Yankee, Papa and Alpha, sending you 4
+2024-10-14 17:45:38.438654 Yankee: Mike, sending you 3
+2024-10-14 17:45:38.439696 Alpha: Zulu, sending you 2
+2024-10-14 17:45:38.442674 Alpha: Papa, sending you 7
+2024-10-14 17:45:38.454681 Foxtrot: Sending you each 4
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Hotel round 21
+ChatterBot Quebec round 21
+ChatterBot Foxtrot round 21
+ChatterBot November round 21
+ChatterBot Yankee round 21
+ChatterBot Zulu round 21
+ChatterBot Papa round 21
+ChatterBot Tango round 21
+ChatterBot Alpha round 21
+ChatterBot Mike round 21
+2024-10-14 17:45:39.504640 Mike: We should replace Quebec with Tango
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:39.513462 Yankee: No
+2024-10-14 17:45:39.513611 Papa: No
+2024-10-14 17:45:39.513755 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:39.555389 Zulu: We should add Tango
+2024-10-14 17:45:39.563871 Foxtrot: Yes
+2024-10-14 17:45:39.564021 Hotel: Yes
+2024-10-14 17:45:39.564135 Quebec: Yes
+2024-10-14 17:45:39.564241 November: Yes
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:39.722022 Mike: We should replace Quebec with November
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:39.732375 Yankee: No
+2024-10-14 17:45:39.732662 Papa: No
+2024-10-14 17:45:39.732905 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:39.776950 Zulu: We should replace Hotel with Tango
+2024-10-14 17:45:39.791149 Foxtrot: No
+2024-10-14 17:45:39.791392 Quebec: No
+2024-10-14 17:45:39.796567 November: No
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:39.845790 Foxtrot: We should replace Hotel with November
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:39.862055 Quebec: No
+2024-10-14 17:45:39.862365 Zulu: No
+2024-10-14 17:45:39.862627 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:39.905680 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:39.907926 Papa: Yankee, sending you 4
+2024-10-14 17:45:39.909719 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:39.912480 Mike: November we want you to join our group
+2024-10-14 17:45:39.916521 November: No
+ChatterBot Mike reevaluating
+2024-10-14 17:45:39.933713 Yankee: Papa, sending you 5
+2024-10-14 17:45:39.935486 Hotel: Quebec, Foxtrot and November, sending you 3
+2024-10-14 17:45:39.938003 Zulu: Tango we want you to join our group
+2024-10-14 17:45:39.943764 Tango: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:39.961801 November: Tango, sending you 5
+2024-10-14 17:45:39.964521 Papa: Alpha, sending you 3
+2024-10-14 17:45:39.966529 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:39.968708 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:39.969632 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:39.971181 Papa: Mike, sending you 2
+2024-10-14 17:45:39.973355 Foxtrot: November we want you to join our group
+2024-10-14 17:45:39.977958 November: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:39.993570 Tango: Hotel, sending you 3
+2024-10-14 17:45:39.995702 Alpha: Yankee and Mike, sending you 6
+2024-10-14 17:45:39.998676 Tango: Quebec, sending you 4
+2024-10-14 17:45:40.000550 Alpha: Papa, sending you 7
+2024-10-14 17:45:40.004656 Tango: Foxtrot, sending you 1
+2024-10-14 17:45:40.008679 Tango: November, sending you 8
+2024-10-14 17:45:40.010851 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:40.016681 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:40.020670 Zulu: Tango, sending you 1
+2024-10-14 17:45:40.021881 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:40.027695 Mike: Alpha, sending you 6
+2024-10-14 17:45:40.028300 Foxtrot: Sending you each 4
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Hotel round 22
+ChatterBot Quebec round 22
+ChatterBot Foxtrot round 22
+ChatterBot November round 22
+ChatterBot Yankee round 22
+ChatterBot Zulu round 22
+ChatterBot Papa round 22
+ChatterBot Tango round 22
+ChatterBot Alpha round 22
+ChatterBot Mike round 22
+2024-10-14 17:45:41.240818 Papa: Yankee, sending you 4
+2024-10-14 17:45:41.246680 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:41.250442 Quebec: Hotel, Foxtrot and November, sending you 4
+2024-10-14 17:45:41.254859 Papa: Alpha, sending you 3
+2024-10-14 17:45:41.256802 Foxtrot: Same as last round
+2024-10-14 17:45:41.257629 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:41.259821 Yankee: Papa, sending you 5
+2024-10-14 17:45:41.261097 Hotel: Quebec, sending you 4
+2024-10-14 17:45:41.265163 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:41.266219 Alpha: Yankee and Mike, sending you 5
+2024-10-14 17:45:41.268263 November: Tango, sending you 5
+2024-10-14 17:45:41.271216 Quebec: Zulu and Tango, sending you 3
+2024-10-14 17:45:41.274623 Papa: Mike, sending you 2
+2024-10-14 17:45:41.277669 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:41.280411 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:41.283721 Hotel: Foxtrot, Zulu and Tango, sending you 2
+2024-10-14 17:45:41.286991 Mike: Alpha, sending you 6
+2024-10-14 17:45:41.289714 Alpha: Papa, sending you 7
+2024-10-14 17:45:41.292365 Tango: Hotel, sending you 3
+2024-10-14 17:45:41.295918 Zulu: Tango, sending you 1
+2024-10-14 17:45:41.299458 Hotel: November, sending you 3
+2024-10-14 17:45:41.303684 Alpha: Tango, sending you 2
+2024-10-14 17:45:41.306410 Tango: Quebec, sending you 4
+2024-10-14 17:45:41.314670 Tango: Foxtrot, sending you 2
+2024-10-14 17:45:41.320654 Tango: November, sending you 7
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 23
+ChatterBot Quebec round 23
+ChatterBot Foxtrot round 23
+ChatterBot November round 23
+ChatterBot Yankee round 23
+ChatterBot Zulu round 23
+ChatterBot Papa round 23
+ChatterBot Tango round 23
+ChatterBot Alpha round 23
+ChatterBot Mike round 23
+2024-10-14 17:45:42.492027 Mike: We should replace November with Quebec
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:42.525889 Yankee: No
+2024-10-14 17:45:42.526165 Papa: No
+2024-10-14 17:45:42.526449 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:42.566695 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:42.572689 Quebec: Zulu, sending you 3
+2024-10-14 17:45:42.576178 Yankee: Papa, sending you 5
+2024-10-14 17:45:42.580710 Foxtrot: Same as last round
+2024-10-14 17:45:42.583489 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:42.586703 Hotel: Quebec, November and Zulu, sending you 3
+2024-10-14 17:45:42.589581 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:42.591019 Alpha: Yankee and Mike, sending you 5
+2024-10-14 17:45:42.592662 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:42.595136 Papa: Yankee, sending you 4
+2024-10-14 17:45:42.596799 Tango: Hotel, sending you 3
+2024-10-14 17:45:42.599413 November: Tango, sending you 5
+2024-10-14 17:45:42.602997 Hotel: Foxtrot and Tango, sending you 2
+2024-10-14 17:45:42.607971 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:42.609663 Alpha: Papa, sending you 7
+2024-10-14 17:45:42.611521 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:42.614628 Papa: Alpha, sending you 3
+2024-10-14 17:45:42.617156 Tango: Quebec, sending you 4
+2024-10-14 17:45:42.620670 Mike: Alpha, sending you 6
+2024-10-14 17:45:42.622585 Alpha: Tango, sending you 2
+2024-10-14 17:45:42.624374 Zulu: Tango, sending you 1
+2024-10-14 17:45:42.627925 Papa: Mike, sending you 2
+2024-10-14 17:45:42.629906 Tango: Foxtrot, sending you 2
+2024-10-14 17:45:42.635749 Tango: November, sending you 7
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 24
+ChatterBot Quebec round 24
+ChatterBot Foxtrot round 24
+ChatterBot November round 24
+ChatterBot Yankee round 24
+ChatterBot Zulu round 24
+ChatterBot Papa round 24
+ChatterBot Tango round 24
+ChatterBot Alpha round 24
+ChatterBot Mike round 24
+2024-10-14 17:45:44.017706 Papa: Yankee, sending you 4
+2024-10-14 17:45:44.019932 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:44.024319 Foxtrot: Same as last round
+2024-10-14 17:45:44.027142 Tango: Hotel, sending you 2
+2024-10-14 17:45:44.031189 Hotel: Quebec, November and Zulu, sending you 3
+2024-10-14 17:45:44.035333 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:44.038388 Papa: Alpha, sending you 3
+2024-10-14 17:45:44.042084 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:44.047045 Tango: Quebec, sending you 4
+2024-10-14 17:45:44.050823 Alpha: Yankee, sending you 5
+2024-10-14 17:45:44.053526 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:44.057944 Hotel: Foxtrot and Tango, sending you 2
+2024-10-14 17:45:44.062244 Mike: Alpha, sending you 6
+2024-10-14 17:45:44.065301 Papa: Mike, sending you 2
+2024-10-14 17:45:44.068034 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:44.071866 Yankee: Papa, sending you 5
+2024-10-14 17:45:44.075188 Zulu: Tango, sending you 1
+2024-10-14 17:45:44.079424 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:44.081927 Alpha: Papa and Mike, sending you 6
+2024-10-14 17:45:44.083042 November: Tango, sending you 5
+2024-10-14 17:45:44.085516 Quebec: Zulu, sending you 3
+2024-10-14 17:45:44.087796 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:44.089049 Tango: November, sending you 7
+2024-10-14 17:45:44.090915 Alpha: Tango, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 25
+ChatterBot Quebec round 25
+ChatterBot Foxtrot round 25
+ChatterBot November round 25
+ChatterBot Yankee round 25
+ChatterBot Zulu round 25
+ChatterBot Papa round 25
+ChatterBot Tango round 25
+ChatterBot Alpha round 25
+ChatterBot Mike round 25
+2024-10-14 17:45:45.147987 Mike: We should replace November with Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:45.156233 Yankee: No
+2024-10-14 17:45:45.156414 Papa: No
+2024-10-14 17:45:45.156569 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:45.181657 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:45.187662 Quebec: Zulu, sending you 3
+2024-10-14 17:45:45.188871 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:45.190682 Foxtrot: Same as last round
+2024-10-14 17:45:45.191664 Tango: Hotel, sending you 2
+2024-10-14 17:45:45.193841 November: Tango, sending you 5
+2024-10-14 17:45:45.196677 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:45.198053 Papa: Yankee, sending you 4
+2024-10-14 17:45:45.198950 Tango: Quebec, sending you 4
+2024-10-14 17:45:45.200789 Alpha: Yankee, sending you 5
+2024-10-14 17:45:45.201597 Yankee: Papa, sending you 5
+2024-10-14 17:45:45.202334 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:45.203434 Papa: Alpha, sending you 3
+2024-10-14 17:45:45.204148 Hotel: Quebec, November and Zulu, sending you 3
+2024-10-14 17:45:45.205334 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:45.206557 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:45.206996 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:45.207828 Alpha: Papa, sending you 8
+2024-10-14 17:45:45.208366 Zulu: Tango, sending you 1
+2024-10-14 17:45:45.209243 Papa: Mike, sending you 2
+2024-10-14 17:45:45.210394 Hotel: Foxtrot and Tango, sending you 2
+2024-10-14 17:45:45.212169 Mike: Alpha, sending you 6
+2024-10-14 17:45:45.213800 Tango: November, sending you 7
+2024-10-14 17:45:45.215277 Alpha: Mike, sending you 6
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 26
+ChatterBot Quebec round 26
+ChatterBot Foxtrot round 26
+ChatterBot November round 26
+ChatterBot Yankee round 26
+ChatterBot Zulu round 26
+ChatterBot Papa round 26
+ChatterBot Tango round 26
+ChatterBot Alpha round 26
+ChatterBot Mike round 26
+2024-10-14 17:45:46.439218 Mike: We should replace November with Tango
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:46.449472 Yankee: No
+2024-10-14 17:45:46.449700 Papa: No
+2024-10-14 17:45:46.449912 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:46.494814 Zulu: We should drop Hotel
+2024-10-14 17:45:46.505703 Quebec: No
+2024-10-14 17:45:46.505885 Foxtrot: Yes
+2024-10-14 17:45:46.506047 November: No
+2024-10-14 17:45:46.506182 Tango: No
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:46.602976 Foxtrot: We should replace Zulu with Hotel
+2024-10-14 17:45:46.638823 Quebec: No
+2024-10-14 17:45:46.639007 November: No
+2024-10-14 17:45:46.639129 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:46.713673 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:46.715294 Yankee: Papa, sending you 5
+2024-10-14 17:45:46.716912 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:46.717535 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:46.718743 Alpha: Yankee, sending you 5
+2024-10-14 17:45:46.719809 Tango: Hotel, sending you 2
+2024-10-14 17:45:46.720823 Hotel: Quebec, November and Zulu, sending you 3
+2024-10-14 17:45:46.721912 Papa: Yankee, sending you 4
+2024-10-14 17:45:46.722701 Quebec: Zulu, sending you 3
+2024-10-14 17:45:46.724158 Mike: Alpha, sending you 6
+2024-10-14 17:45:46.724808 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:46.725603 Alpha: Zulu, sending you 2
+2024-10-14 17:45:46.726293 November: Tango, sending you 5
+2024-10-14 17:45:46.727712 Tango: Quebec, sending you 4
+2024-10-14 17:45:46.728810 Hotel: Foxtrot and Tango, sending you 2
+2024-10-14 17:45:46.729842 Papa: Alpha, sending you 3
+2024-10-14 17:45:46.731454 Alpha: Papa and Mike, sending you 6
+2024-10-14 17:45:46.733662 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:46.734900 Papa: Mike, sending you 2
+2024-10-14 17:45:46.736151 Foxtrot: Same as last round
+2024-10-14 17:45:46.737698 Tango: November, sending you 6
+2024-10-14 17:45:46.742661 Zulu: Quebec, sending you 5
+2024-10-14 17:45:46.743736 Tango: Zulu, sending you 1
+2024-10-14 17:45:46.747068 Zulu: Foxtrot and November, sending you 6
+2024-10-14 17:45:46.750682 Zulu: Tango, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Hotel round 27
+ChatterBot Quebec round 27
+ChatterBot Foxtrot round 27
+ChatterBot November round 27
+ChatterBot Yankee round 27
+ChatterBot Zulu round 27
+ChatterBot Papa round 27
+ChatterBot Tango round 27
+ChatterBot Alpha round 27
+ChatterBot Mike round 27
+2024-10-14 17:45:47.809561 Foxtrot: We should replace Zulu with Hotel
+2024-10-14 17:45:47.823160 Quebec: No
+2024-10-14 17:45:47.823390 November: No
+2024-10-14 17:45:47.823564 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:47.893572 Zulu: We should add Hotel
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:47.957930 Quebec: Yes
+2024-10-14 17:45:47.958119 Foxtrot: Yes
+2024-10-14 17:45:47.958241 November: Yes
+2024-10-14 17:45:47.958347 Tango: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:48.103813 Foxtrot: We should replace Quebec with Hotel
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:48.112269 November: No
+2024-10-14 17:45:48.112533 Zulu: No
+2024-10-14 17:45:48.113220 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:48.155664 Tango: Hotel, sending you 2
+2024-10-14 17:45:48.158867 Foxtrot: Hotel we want you to join our group
+2024-10-14 17:45:48.166039 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:48.191550 Hotel: Quebec and November, sending you 4
+2024-10-14 17:45:48.196655 Tango: Quebec, sending you 4
+2024-10-14 17:45:48.201962 Hotel: Foxtrot, sending you 1
+2024-10-14 17:45:48.206953 Alpha: Yankee, sending you 5
+2024-10-14 17:45:48.210831 Yankee: Papa, sending you 5
+2024-10-14 17:45:48.213521 Zulu: Hotel we want you to join our group
+2024-10-14 17:45:48.222549 Hotel: Yes
+ChatterBot Zulu reevaluating
+2024-10-14 17:45:48.252623 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:48.255886 Papa: Yankee, sending you 4
+2024-10-14 17:45:48.258353 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:48.262407 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:48.266147 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:48.270215 Hotel: Zulu and Tango, sending you 2
+2024-10-14 17:45:48.274889 Alpha: Papa and Mike, sending you 6
+2024-10-14 17:45:48.276527 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:48.278449 Mike: Alpha, sending you 6
+2024-10-14 17:45:48.279465 Papa: Alpha, sending you 3
+2024-10-14 17:45:48.281901 Tango: November, sending you 6
+2024-10-14 17:45:48.284469 November: Tango, sending you 5
+2024-10-14 17:45:48.286826 Quebec: Zulu, sending you 3
+2024-10-14 17:45:48.289315 Alpha: Tango, sending you 2
+2024-10-14 17:45:48.290780 Papa: Mike, sending you 2
+2024-10-14 17:45:48.292653 Tango: Zulu, sending you 1
+2024-10-14 17:45:48.295968 Foxtrot: Sending you each 4
+2024-10-14 17:45:48.311650 Zulu: Hotel and Quebec, sending you 4
+chatterbot Mike submitting transactions
+2024-10-14 17:45:48.318676 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:48.327660 Zulu: Tango, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Hotel round 28
+ChatterBot Quebec round 28
+ChatterBot Foxtrot round 28
+ChatterBot November round 28
+ChatterBot Yankee round 28
+ChatterBot Zulu round 28
+ChatterBot Papa round 28
+ChatterBot Tango round 28
+ChatterBot Alpha round 28
+ChatterBot Mike round 28
+2024-10-14 17:45:49.481874 Foxtrot: We should replace Tango with Quebec
+2024-10-14 17:45:49.492573 Hotel: No
+2024-10-14 17:45:49.492889 November: No
+2024-10-14 17:45:49.493080 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:49.569226 Foxtrot: Quebec we want you to join our group
+2024-10-14 17:45:49.579637 Quebec: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:49.603101 Foxtrot: We should replace November with Quebec
+2024-10-14 17:45:49.618386 Hotel: No
+2024-10-14 17:45:49.618680 Zulu: No
+2024-10-14 17:45:49.619023 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:49.660899 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:49.666898 Papa: Yankee, sending you 4
+2024-10-14 17:45:49.672267 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:49.678815 Tango: Hotel, sending you 2
+2024-10-14 17:45:49.682178 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:49.685439 Yankee: Papa, sending you 5
+2024-10-14 17:45:49.687973 Alpha: Yankee, sending you 5
+2024-10-14 17:45:49.692268 Hotel: Quebec, sending you 4
+2024-10-14 17:45:49.697366 Quebec: Zulu, sending you 3
+2024-10-14 17:45:49.701794 Papa: Alpha, sending you 3
+2024-10-14 17:45:49.704750 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:49.708588 Tango: Quebec, sending you 4
+2024-10-14 17:45:49.711975 November: Tango, sending you 5
+2024-10-14 17:45:49.714195 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:49.716090 Alpha: Papa, sending you 8
+2024-10-14 17:45:49.717113 Hotel: Foxtrot, Zulu and Tango, sending you 2
+2024-10-14 17:45:49.720043 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:49.722111 Papa: Mike, sending you 2
+2024-10-14 17:45:49.725170 Zulu: Tango, sending you 1
+2024-10-14 17:45:49.729203 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:49.735359 Alpha: Mike, sending you 6
+2024-10-14 17:45:49.740644 Hotel: November, sending you 3
+2024-10-14 17:45:49.745647 Mike: Alpha, sending you 6
+2024-10-14 17:45:49.749091 Tango: November, sending you 6
+2024-10-14 17:45:49.753266 Foxtrot: Sending you each 4
+2024-10-14 17:45:49.756163 Tango: Zulu, sending you 1
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Hotel round 29
+ChatterBot Quebec round 29
+ChatterBot Foxtrot round 29
+ChatterBot November round 29
+ChatterBot Yankee round 29
+ChatterBot Zulu round 29
+ChatterBot Papa round 29
+ChatterBot Tango round 29
+ChatterBot Alpha round 29
+ChatterBot Mike round 29
+2024-10-14 17:45:50.908281 Foxtrot: We should replace November with Tango
+2024-10-14 17:45:50.918480 Hotel: No
+2024-10-14 17:45:50.918893 Quebec: No
+2024-10-14 17:45:50.919980 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:50.964070 Mike: We should replace November with Quebec
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:50.974365 Yankee: No
+2024-10-14 17:45:50.974672 Papa: No
+2024-10-14 17:45:50.974848 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:51.010675 Foxtrot: Tango we want you to join our group
+2024-10-14 17:45:51.013942 Tango: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:51.029664 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:51.032560 Papa: Yankee, sending you 4
+2024-10-14 17:45:51.034103 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:51.036904 Alpha: Hotel, sending you 2
+2024-10-14 17:45:51.038118 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:51.040522 Hotel: Quebec, sending you 4
+2024-10-14 17:45:51.043674 November: Tango, sending you 5
+2024-10-14 17:45:51.046458 Papa: Alpha, sending you 3
+2024-10-14 17:45:51.048594 Quebec: Zulu, sending you 3
+2024-10-14 17:45:51.051723 Alpha: Yankee, sending you 5
+2024-10-14 17:45:51.052503 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:51.055508 Hotel: Foxtrot, Zulu and Tango, sending you 2
+2024-10-14 17:45:51.057720 Papa: Mike, sending you 2
+2024-10-14 17:45:51.060130 Alpha: Papa and Mike, sending you 6
+2024-10-14 17:45:51.062223 Yankee: Papa, sending you 5
+2024-10-14 17:45:51.064822 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:51.066892 Zulu: Tango, sending you 1
+2024-10-14 17:45:51.070177 Tango: Hotel, sending you 2
+2024-10-14 17:45:51.072478 Hotel: November, sending you 3
+2024-10-14 17:45:51.074335 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:51.076356 Mike: Alpha, sending you 6
+2024-10-14 17:45:51.077171 Tango: Quebec, sending you 4
+2024-10-14 17:45:51.082680 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:51.084035 Foxtrot: Sending you each 4
+2024-10-14 17:45:51.086679 Tango: November, sending you 7
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Hotel round 30
+ChatterBot Quebec round 30
+ChatterBot Foxtrot round 30
+ChatterBot November round 30
+ChatterBot Yankee round 30
+ChatterBot Zulu round 30
+ChatterBot Papa round 30
+ChatterBot Tango round 30
+ChatterBot Alpha round 30
+ChatterBot Mike round 30
+2024-10-14 17:45:52.248854 Foxtrot: We should replace Zulu with November
+2024-10-14 17:45:52.256339 Hotel: No
+2024-10-14 17:45:52.256495 Quebec: No
+2024-10-14 17:45:52.256625 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:52.297236 Mike: We should replace November with Tango
+ChatterBot Alpha reevaluating
+2024-10-14 17:45:52.303985 Yankee: No
+2024-10-14 17:45:52.304139 Papa: No
+2024-10-14 17:45:52.304279 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:45:52.336688 Quebec: Hotel, Foxtrot, November and Tango, sending you 4
+2024-10-14 17:45:52.343736 Quebec: Zulu, sending you 3
+2024-10-14 17:45:52.348339 Papa: Yankee, sending you 4
+2024-10-14 17:45:52.350110 Tango: Hotel, sending you 2
+2024-10-14 17:45:52.351709 Yankee: Papa, sending you 5
+2024-10-14 17:45:52.354461 Papa: Alpha, sending you 3
+2024-10-14 17:45:52.355473 Zulu: Hotel and Quebec, sending you 4
+2024-10-14 17:45:52.357628 Tango: Quebec, sending you 4
+2024-10-14 17:45:52.359213 Alpha: Yankee, sending you 5
+2024-10-14 17:45:52.361190 Mike: Yankee and Papa, sending you 5
+2024-10-14 17:45:52.361784 Hotel: Quebec, sending you 4
+2024-10-14 17:45:52.364491 Yankee: Alpha and Mike, sending you 2
+2024-10-14 17:45:52.365890 Foxtrot: Same as last round
+2024-10-14 17:45:52.366768 November: Hotel, Quebec, Foxtrot and Zulu, sending you 3
+2024-10-14 17:45:52.368933 Papa: Mike, sending you 2
+2024-10-14 17:45:52.369772 Zulu: Foxtrot and November, sending you 5
+2024-10-14 17:45:52.370912 Tango: Foxtrot, sending you 3
+2024-10-14 17:45:52.372038 Alpha: Papa and Mike, sending you 6
+2024-10-14 17:45:52.373158 Mike: Alpha, sending you 6
+2024-10-14 17:45:52.374689 Hotel: Foxtrot, Zulu and Tango, sending you 2
+2024-10-14 17:45:52.376839 November: Tango, sending you 5
+2024-10-14 17:45:52.379123 Zulu: Tango, sending you 1
+2024-10-14 17:45:52.382051 Tango: November, sending you 6
+2024-10-14 17:45:52.383673 Alpha: Tango, sending you 2
+2024-10-14 17:45:52.384445 Hotel: November, sending you 3
+2024-10-14 17:45:52.387654 Tango: Zulu, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions

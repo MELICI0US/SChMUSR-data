@@ -1,0 +1,1916 @@
+ChatterBot Mike round 1
+ChatterBot Alpha round 1
+ChatterBot Yankee round 1
+ChatterBot November round 1
+ChatterBot Hotel round 1
+ChatterBot Delta round 1
+ChatterBot Foxtrot round 1
+ChatterBot Quebec round 1
+ChatterBot Papa round 1
+ChatterBot Oscar round 1
+randomSelections Alpha: {Alpha, Oscar, November} 
+2024-10-14 19:57:46.865986 Alpha: Can we be friends?
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:57:46.879979 Oscar: Yes
+2024-10-14 19:57:46.880145 November: Yes
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+randomSelections Delta: {Delta, Papa, Foxtrot, Yankee, Alpha, November} 
+2024-10-14 19:57:46.956237 Delta: Can we be friends?
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:57:46.967575 Papa: Yes
+2024-10-14 19:57:46.967771 Foxtrot: Yes
+2024-10-14 19:57:46.967961 Yankee: Yes
+2024-10-14 19:57:46.968683 Alpha: No
+2024-10-14 19:57:46.968906 November: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+randomSelections Hotel: {Hotel, Papa, Mike, Foxtrot, Oscar, Alpha} 
+2024-10-14 19:57:47.029695 Hotel: Friends?
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:57:47.042374 Papa: No
+2024-10-14 19:57:47.043122 Mike: Yes
+2024-10-14 19:57:47.043340 Foxtrot: No
+2024-10-14 19:57:47.043570 Oscar: No
+2024-10-14 19:57:47.043795 Alpha: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+randomSelections Quebec: {Quebec, Delta, Mike, Foxtrot, November, Hotel} 
+2024-10-14 19:57:47.123410 Quebec: We should group up
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:57:47.136947 Delta: No
+2024-10-14 19:57:47.137919 Mike: No
+2024-10-14 19:57:47.138236 Foxtrot: No
+2024-10-14 19:57:47.138722 November: No
+2024-10-14 19:57:47.139818 Hotel: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:57:47.208941 Hotel: Mike, Foxtrot and Oscar, sending you 2
+2024-10-14 19:57:47.210454 Alpha: November, sending you 7
+2024-10-14 19:57:47.211680 Oscar: Alpha, sending you 8
+2024-10-14 19:57:47.213659 Hotel: Alpha and Papa, sending you 4
+2024-10-14 19:57:47.215184 Yankee: Alpha, sending you 3
+2024-10-14 19:57:47.215512 Quebec: November, sending you 1
+2024-10-14 19:57:47.215895 Alpha: Oscar, sending you 2
+2024-10-14 19:57:47.216269 Papa: Alpha and Delta, sending you 4
+2024-10-14 19:57:47.217691 Oscar: November, sending you 7
+2024-10-14 19:57:47.219269 Yankee: November, sending you 1
+2024-10-14 19:57:47.219571 Quebec: Hotel and Delta, sending you 2
+2024-10-14 19:57:47.219860 Delta: Yankee and Papa, sending you 4
+2024-10-14 19:57:47.221467 Papa: Yankee and Foxtrot, sending you 3
+2024-10-14 19:57:47.222671 Foxtrot: Alpha, sending you 1
+2024-10-14 19:57:47.226154 Yankee: Delta, sending you 2
+2024-10-14 19:57:47.226523 Delta: November and Foxtrot, sending you 3
+2024-10-14 19:57:47.227757 Mike: Alpha, Foxtrot, Papa and Oscar, sending you 1
+2024-10-14 19:57:47.228235 Papa: November, sending you 1
+2024-10-14 19:57:47.229912 Foxtrot: Yankee and November, sending you 4
+2024-10-14 19:57:47.230418 November: Alpha, sending you 10
+2024-10-14 19:57:47.230822 Yankee: Papa, sending you 5
+2024-10-14 19:57:47.232300 Mike: Hotel, sending you 4
+2024-10-14 19:57:47.233723 Foxtrot: Papa, sending you 6
+2024-10-14 19:57:47.234825 November: Oscar, sending you 9
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+ChatterBot Mike round 2
+ChatterBot Alpha round 2
+2024-10-14 19:57:48.248630 Mike: Friends?
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 19:57:48.284344 Hotel: No
+2024-10-14 19:57:48.284973 Quebec: No
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee round 2
+ChatterBot November round 2
+ChatterBot Hotel round 2
+ChatterBot Delta round 2
+ChatterBot Foxtrot round 2
+ChatterBot Quebec round 2
+2024-10-14 19:57:48.350535 Alpha: We should group up
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:48.391654 November: Yes
+2024-10-14 19:57:48.392255 Oscar: No
+2024-10-14 19:57:48.392372 Yankee: No
+2024-10-14 19:57:48.392476 Delta: No
+2024-10-14 19:57:48.392571 Foxtrot: No
+2024-10-14 19:57:48.392676 Papa: No
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa round 2
+ChatterBot Oscar round 2
+2024-10-14 19:57:48.834258 Papa: Can we be friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:57:48.859638 Foxtrot: Yes
+2024-10-14 19:57:48.859839 Yankee: No
+2024-10-14 19:57:48.859968 Delta: No
+2024-10-14 19:57:48.860828 Mike: Yes
+2024-10-14 19:57:48.861111 Hotel: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:57:48.980878 Oscar: We should add Mike and Hotel
+2024-10-14 19:57:48.989475 Alpha: No
+2024-10-14 19:57:48.990191 November: No
+2024-10-14 19:57:49.009102 Yankee: We should drop Alpha and November
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:49.023108 Delta: Yes
+2024-10-14 19:57:49.023272 Foxtrot: Yes
+2024-10-14 19:57:49.023840 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 19:57:49.066706 Oscar: Mike and Hotel we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:57:49.076220 Mike: No
+2024-10-14 19:57:49.076376 Hotel: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+chatterbot Mike submitting transactions
+2024-10-14 19:57:49.113822 Alpha: Yankee, Delta, Foxtrot and Papa, sending you 1
+2024-10-14 19:57:49.839694 Hotel: Sending you each 7
+2024-10-14 19:57:49.840007 November: Alpha and Oscar, sending you 4
+2024-10-14 19:57:49.840433 Delta: Yankee and Quebec, sending you 4
+2024-10-14 19:57:49.840727 Papa: Mike, sending you 2
+2024-10-14 19:57:49.841492 Alpha: November, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 19:57:49.845131 November: Yankee, Delta and Foxtrot, sending you 3
+2024-10-14 19:57:49.845397 Delta: Foxtrot, sending you 1
+2024-10-14 19:57:50.086824 Papa: Yankee, Hotel and Delta, sending you 3
+2024-10-14 19:57:50.087274 Alpha: Oscar, sending you 2
+2024-10-14 19:57:50.087636 Yankee: Mike, Hotel, Delta, Foxtrot and Papa, sending you 3
+2024-10-14 19:57:50.088470 Delta: Papa, sending you 5
+2024-10-14 19:57:50.088861 November: Papa, sending you 2
+chatterbot Delta submitting transactions
+2024-10-14 19:57:50.180697 Papa: Foxtrot, sending you 4
+2024-10-14 19:57:50.181054 Oscar: Alpha, sending you 3
+2024-10-14 19:57:50.181844 Mike: Sending you 6
+chatterbot Oscar submitting transactions
+2024-10-14 19:57:50.281890 Oscar: November, sending you 11
+2024-10-14 19:57:50.283029 Foxtrot: Mike, Yankee, Hotel, Delta and Papa, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Mike round 3
+ChatterBot Alpha round 3
+ChatterBot Yankee round 3
+ChatterBot November round 3
+ChatterBot Hotel round 3
+ChatterBot Delta round 3
+ChatterBot Foxtrot round 3
+ChatterBot Quebec round 3
+ChatterBot Papa round 3
+2024-10-14 19:57:50.792041 Mike: We should add Foxtrot
+ChatterBot Hotel reevaluating
+2024-10-14 19:57:50.797436 Hotel: Yes
+2024-10-14 19:57:50.803043 Hotel: Group up?
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:57:50.826644 Foxtrot: Yes
+2024-10-14 19:57:50.826813 Yankee: Yes
+2024-10-14 19:57:50.826934 Delta: Yes
+2024-10-14 19:57:50.827040 Papa: Yes
+2024-10-14 19:57:50.827160 Mike: Yes
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar round 3
+2024-10-14 19:57:51.094318 November: Alpha and Oscar, sending you 4
+2024-10-14 19:57:51.095931 Hotel: I was attacked by Quebec
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:57:51.133175 Hotel: I'm keeping this round to protect myself
+2024-10-14 19:57:51.135495 Hotel: Ow
+2024-10-14 19:57:51.136006 Alpha: Yankee, Delta, Foxtrot and Papa, sending you 1
+2024-10-14 19:57:51.137224 November: Yankee, sending you 2
+2024-10-14 19:57:51.152008 Quebec: Mike, sending you 1
+2024-10-14 19:57:51.152510 Alpha: November, sending you 3
+2024-10-14 19:57:51.154221 November: Delta, Foxtrot and Papa, sending you 3
+2024-10-14 19:57:51.155419 Oscar: Alpha, sending you 4
+2024-10-14 19:57:51.190723 Quebec: Hotel, sending you 2
+2024-10-14 19:57:51.191376 Alpha: Oscar, sending you 2
+2024-10-14 19:57:51.192595 Oscar: November, sending you 11
+2024-10-14 19:57:51.239795 Mike: Yankee, Hotel, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:51.240806 Foxtrot: Mike, sending you 2
+2024-10-14 19:57:51.241291 Delta: Mike, sending you 2
+2024-10-14 19:57:51.302796 Foxtrot: Yankee, Hotel and Delta, sending you 3
+2024-10-14 19:57:51.303258 Delta: Yankee and Papa, sending you 4
+2024-10-14 19:57:51.362535 Foxtrot: Papa, sending you 4
+2024-10-14 19:57:51.362980 Delta: Hotel, sending you 1
+2024-10-14 19:57:51.417004 Delta: Foxtrot, sending you 3
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Mike round 4
+ChatterBot Alpha round 4
+ChatterBot Yankee round 4
+ChatterBot November round 4
+ChatterBot Hotel round 4
+ChatterBot Delta round 4
+ChatterBot Foxtrot round 4
+ChatterBot Quebec round 4
+ChatterBot Papa round 4
+2024-10-14 19:57:52.331699 November: We should add Hotel and Mike
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:52.364754 Alpha: No
+2024-10-14 19:57:52.364897 Oscar: Yes
+2024-10-14 19:57:52.365005 Yankee: Yes
+2024-10-14 19:57:52.365108 Delta: Yes
+2024-10-14 19:57:52.365229 Foxtrot: Yes
+2024-10-14 19:57:52.365355 Papa: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar round 4
+2024-10-14 19:57:52.718129 November: Hotel and Mike we want you to join our group
+2024-10-14 19:57:52.727203 Hotel: No
+2024-10-14 19:57:52.727396 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:52.808065 Oscar: We should add Mike and Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:52.836804 Alpha: Yes
+2024-10-14 19:57:52.836958 November: Yes
+2024-10-14 19:57:52.837059 Yankee: Yes
+2024-10-14 19:57:52.837164 Delta: Yes
+2024-10-14 19:57:52.837267 Foxtrot: Yes
+2024-10-14 19:57:52.837374 Papa: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:53.034673 Oscar: Mike and Hotel we want you to join our group
+2024-10-14 19:57:53.045718 Hotel: No
+2024-10-14 19:57:53.045954 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:53.122238 Mike: Yankee, Hotel and Foxtrot, sending you 1
+2024-10-14 19:57:53.125698 Yankee: Same as last round
+2024-10-14 19:57:53.126177 Delta: Mike and Hotel, sending you 1
+2024-10-14 19:57:53.127119 Quebec: Mike, sending you 1
+2024-10-14 19:57:53.127706 November: Mike, sending you 1
+2024-10-14 19:57:53.128232 Hotel: Mike, sending you 3
+2024-10-14 19:57:53.129682 Delta: Yankee and Foxtrot, sending you 2
+2024-10-14 19:57:53.131665 Quebec: Hotel, sending you 2
+2024-10-14 19:57:53.132969 November: Alpha, sending you 3
+2024-10-14 19:57:53.133375 Hotel: Yankee, Delta, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:53.133802 Delta: Papa, sending you 4
+2024-10-14 19:57:53.136884 November: Yankee, Hotel, Delta, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:53.138815 Oscar: Mike and Hotel, sending you 1
+2024-10-14 19:57:53.141694 November: Oscar, sending you 4
+2024-10-14 19:57:53.142203 November: I was attacked by Quebec
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:53.194421 November: Ow
+2024-10-14 19:57:53.213667 Hotel: Mike, Yankee, Foxtrot and Papa, sending you 3
+2024-10-14 19:57:53.216699 Mike: Yankee, Hotel, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:53.217752 Alpha: November, Hotel and Oscar, sending you 3
+2024-10-14 19:57:53.222661 Delta: Mike and Hotel, sending you 2
+2024-10-14 19:57:53.224681 Foxtrot: Mike, Yankee, Hotel, Delta and Papa, sending you 3
+2024-10-14 19:57:53.225664 Delta: Yankee and Foxtrot, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Mike round 5
+ChatterBot Alpha round 5
+ChatterBot Yankee round 5
+2024-10-14 19:57:54.373381 Alpha: We should replace Hotel with Mike
+ChatterBot Oscar reevaluating
+2024-10-14 19:57:54.386243 Oscar: No
+2024-10-14 19:57:54.387085 November: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November round 5
+ChatterBot Hotel round 5
+ChatterBot Delta round 5
+ChatterBot Foxtrot round 5
+ChatterBot Quebec round 5
+ChatterBot Papa round 5
+ChatterBot Oscar round 5
+2024-10-14 19:57:54.472020 Delta: Group up?
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:54.514944 November: No
+2024-10-14 19:57:54.515143 Alpha: Yes
+2024-10-14 19:57:54.515284 Hotel: No
+2024-10-14 19:57:54.515391 Oscar: Yes
+2024-10-14 19:57:54.515491 Mike: No
+2024-10-14 19:57:54.515588 Yankee: No
+2024-10-14 19:57:54.515695 Foxtrot: No
+2024-10-14 19:57:54.515810 Papa: No
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:54.781917 Hotel: We should add Alpha and Oscar
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:57:54.798024 Foxtrot: Yes
+2024-10-14 19:57:54.798147 Yankee: No
+2024-10-14 19:57:54.798248 Delta: Yes
+2024-10-14 19:57:54.798342 Papa: No
+2024-10-14 19:57:54.798443 Mike: Yes
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:57:54.889455 Alpha: We should drop Hotel
+ChatterBot November reevaluating
+2024-10-14 19:57:54.895834 Oscar: No
+2024-10-14 19:57:54.896376 November: Yes
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:54.912658 Quebec: Sending you 3
+2024-10-14 19:57:54.913679 Yankee: Same as last round
+2024-10-14 19:57:54.917196 November: We should drop Mike
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:54.962980 Alpha: Yes
+2024-10-14 19:57:54.963186 Oscar: No
+2024-10-14 19:57:54.963372 Yankee: No
+2024-10-14 19:57:54.963552 Hotel: No
+2024-10-14 19:57:54.963743 Delta: No
+2024-10-14 19:57:54.963944 Foxtrot: No
+2024-10-14 19:57:54.964619 Papa: No
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Oscar submitting transactions
+2024-10-14 19:57:55.277076 Mike: Yankee and Hotel, sending you 1
+2024-10-14 19:57:55.277732 Delta: Alpha, Yankee, November, Hotel, Foxtrot and Papa, sending you 1
+2024-10-14 19:57:55.295664 Foxtrot: Mike, Alpha, Yankee, November, Hotel, Delta and Papa, sending you 2
+2024-10-14 19:57:55.299654 Alpha: November, sending you 5
+2024-10-14 19:57:55.300089 Foxtrot: Oscar, sending you 1
+2024-10-14 19:57:55.305006 Alpha: Oscar, sending you 4
+2024-10-14 19:57:55.307755 Hotel: Mike, Yankee, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:55.310662 November: Alpha, sending you 4
+2024-10-14 19:57:55.314682 November: Yankee, Hotel, Delta, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:55.319692 November: Oscar, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Mike round 6
+ChatterBot Alpha round 6
+ChatterBot Yankee round 6
+ChatterBot November round 6
+ChatterBot Hotel round 6
+ChatterBot Delta round 6
+ChatterBot Foxtrot round 6
+ChatterBot Quebec round 6
+2024-10-14 19:57:56.246931 November: We should replace Hotel with Mike
+ChatterBot Delta reevaluating
+2024-10-14 19:57:56.275119 Alpha: No
+2024-10-14 19:57:56.275306 Oscar: No
+2024-10-14 19:57:56.275417 Yankee: No
+2024-10-14 19:57:56.275522 Delta: No
+2024-10-14 19:57:56.275630 Foxtrot: No
+2024-10-14 19:57:56.275748 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa round 6
+ChatterBot Oscar round 6
+2024-10-14 19:57:56.459515 Alpha: We should add Mike
+ChatterBot November reevaluating
+2024-10-14 19:57:56.467871 Oscar: Yes
+2024-10-14 19:57:56.467983 November: Yes
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:56.507894 November: Mike we want you to join our group
+2024-10-14 19:57:56.515413 Mike: Yes
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:56.550159 Quebec: I was attacked by Mike, Hotel and Delta
+2024-10-14 19:57:56.550418 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:57:56.550677 Quebec: Ow
+2024-10-14 19:57:56.553974 Yankee: Same as last round
+2024-10-14 19:57:56.554820 Mike: Yankee and Hotel, sending you 1
+2024-10-14 19:57:56.555869 Mike: I was attacked by Quebec
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:57:56.592385 Mike: Ow
+2024-10-14 19:57:56.620672 Alpha: November, sending you 4
+2024-10-14 19:57:56.624835 Alpha: Oscar, sending you 5
+2024-10-14 19:57:56.626787 November: Mike, Yankee, Delta, Foxtrot and Papa, sending you 2
+2024-10-14 19:57:56.631671 November: Alpha, sending you 4
+2024-10-14 19:57:56.634691 November: Oscar, sending you 5
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+ChatterBot Mike round 7
+ChatterBot Alpha round 7
+ChatterBot Yankee round 7
+ChatterBot November round 7
+ChatterBot Hotel round 7
+ChatterBot Delta round 7
+ChatterBot Foxtrot round 7
+ChatterBot Quebec round 7
+ChatterBot Papa round 7
+ChatterBot Oscar round 7
+2024-10-14 19:57:57.844347 Alpha: We should add Mike
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:57:57.869180 Oscar: Yes
+2024-10-14 19:57:57.869503 November: Yes
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:57:57.912632 November: We should add Hotel
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:57:57.942890 Mike: Yes
+2024-10-14 19:57:57.943016 Yankee: Yes
+2024-10-14 19:57:57.943121 Delta: Yes
+2024-10-14 19:57:57.943546 Foxtrot: Yes
+2024-10-14 19:57:57.943665 Papa: Yes
+2024-10-14 19:57:57.943853 Alpha: Yes
+2024-10-14 19:57:57.943995 Oscar: Yes
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:58.151911 November: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 19:57:58.155779 Hotel: No
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:58.178485 Quebec: I was attacked by Oscar
+2024-10-14 19:57:58.178666 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:57:58.178826 Quebec: Ow
+2024-10-14 19:57:58.181670 Yankee: Same as last round
+2024-10-14 19:57:58.182683 Mike: Alpha, Yankee, November, Hotel, Delta, Foxtrot, Papa and Oscar, sending you 1
+2024-10-14 19:57:58.186774 Alpha: Mike we want you to join our group
+2024-10-14 19:57:58.191580 Mike: Yes
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:58.207692 November: Alpha and Foxtrot, sending you 3
+2024-10-14 19:57:58.212663 November: Yankee, Hotel, Delta and Papa, sending you 2
+2024-10-14 19:57:58.217667 November: Oscar, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Mike round 8
+ChatterBot Alpha round 8
+ChatterBot Yankee round 8
+ChatterBot November round 8
+ChatterBot Hotel round 8
+ChatterBot Delta round 8
+ChatterBot Foxtrot round 8
+ChatterBot Quebec round 8
+ChatterBot Papa round 8
+ChatterBot Oscar round 8
+2024-10-14 19:57:59.428771 Hotel: We should add Alpha and Oscar
+2024-10-14 19:57:59.455572 Foxtrot: Yes
+2024-10-14 19:57:59.455844 Yankee: No
+2024-10-14 19:57:59.456053 Delta: No
+2024-10-14 19:57:59.456255 Papa: No
+2024-10-14 19:57:59.456444 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:57:59.548017 Hotel: We should add November and Oscar
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:57:59.562594 Foxtrot: No
+2024-10-14 19:57:59.562727 Yankee: No
+2024-10-14 19:57:59.562831 Delta: No
+2024-10-14 19:57:59.562932 Papa: No
+2024-10-14 19:57:59.563029 Mike: Yes
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:57:59.633743 November: We should drop Hotel
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:59.652820 Mike: No
+2024-10-14 19:57:59.652956 Yankee: No
+2024-10-14 19:57:59.653062 Delta: No
+2024-10-14 19:57:59.653148 Foxtrot: No
+2024-10-14 19:57:59.653235 Papa: No
+2024-10-14 19:57:59.653324 Alpha: Yes
+2024-10-14 19:57:59.653432 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:59.782524 Hotel: Alpha and Oscar we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:57:59.788749 Alpha: No
+2024-10-14 19:57:59.788889 Oscar: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:57:59.827799 Quebec: I was attacked by Alpha
+2024-10-14 19:57:59.827989 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:57:59.828136 Quebec: Ow
+2024-10-14 19:57:59.828400 Yankee: Same as last round
+2024-10-14 19:57:59.845033 Mike: Yankee, Hotel and Foxtrot, sending you 2
+2024-10-14 19:57:59.847678 Alpha: Oscar, sending you 1
+2024-10-14 19:57:59.850683 Mike: Delta and Papa, sending you 1
+chatterbot Quebec submitting transactions
+2024-10-14 19:57:59.856720 November: Mike, Yankee, Delta and Papa, sending you 2
+2024-10-14 19:57:59.862673 November: Alpha and Foxtrot, sending you 3
+2024-10-14 19:57:59.867672 November: Oscar, sending you 5
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Mike round 9
+ChatterBot Alpha round 9
+ChatterBot Yankee round 9
+ChatterBot November round 9
+ChatterBot Hotel round 9
+ChatterBot Delta round 9
+ChatterBot Foxtrot round 9
+ChatterBot Quebec round 9
+ChatterBot Papa round 9
+ChatterBot Oscar round 9
+2024-10-14 19:58:00.682057 Hotel: We should add Alpha and Oscar
+ChatterBot Mike reevaluating
+2024-10-14 19:58:00.699168 Foxtrot: No
+2024-10-14 19:58:00.699341 Yankee: No
+2024-10-14 19:58:00.699490 Delta: No
+2024-10-14 19:58:00.699635 Papa: No
+2024-10-14 19:58:00.699773 Mike: No
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:00.787663 Mike: We should add Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:00.810189 Foxtrot: No
+2024-10-14 19:58:00.810326 Yankee: No
+2024-10-14 19:58:00.810949 Delta: No
+2024-10-14 19:58:00.811067 Papa: No
+2024-10-14 19:58:00.811165 Hotel: Yes
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:58:00.915675 Alpha: November, sending you 4
+2024-10-14 19:58:00.916670 Hotel: Alpha and Oscar we want you to join our group
+2024-10-14 19:58:00.925724 Alpha: No
+2024-10-14 19:58:00.925922 Oscar: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:58:00.961601 Yankee: Same as last round
+2024-10-14 19:58:00.962136 Alpha: Oscar, sending you 5
+2024-10-14 19:58:00.962427 Quebec: I was attacked by Alpha
+2024-10-14 19:58:00.962579 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:58:00.962699 Quebec: Ow
+2024-10-14 19:58:00.966800 Mike: Oscar we want you to join our group
+2024-10-14 19:58:00.970203 Oscar: Yes
+ChatterBot Mike reevaluating
+2024-10-14 19:58:00.985763 November: Mike, Yankee, Delta and Papa, sending you 2
+2024-10-14 19:58:00.988668 November: Alpha and Foxtrot, sending you 3
+2024-10-14 19:58:00.992660 November: Oscar, sending you 5
+chatterbot November submitting transactions
+2024-10-14 19:58:01.022250 Mike: Yankee and Hotel, sending you 2
+2024-10-14 19:58:01.026685 Mike: Delta, Foxtrot, Papa and Oscar, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Mike round 10
+ChatterBot Alpha round 10
+ChatterBot Yankee round 10
+ChatterBot November round 10
+ChatterBot Hotel round 10
+ChatterBot Delta round 10
+ChatterBot Foxtrot round 10
+ChatterBot Quebec round 10
+ChatterBot Papa round 10
+ChatterBot Oscar round 10
+2024-10-14 19:58:02.154949 Hotel: We should add Alpha and Oscar
+ChatterBot Papa reevaluating
+2024-10-14 19:58:02.178063 Foxtrot: No
+2024-10-14 19:58:02.178264 Yankee: No
+2024-10-14 19:58:02.178437 Delta: No
+2024-10-14 19:58:02.178595 Papa: No
+2024-10-14 19:58:02.178796 Mike: No
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:02.310992 Mike: We should drop Papa
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:02.334454 Yankee: Yes
+2024-10-14 19:58:02.334628 Hotel: No
+2024-10-14 19:58:02.334779 Delta: No
+2024-10-14 19:58:02.334912 Foxtrot: No
+2024-10-14 19:58:02.335039 Oscar: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:58:02.456905 Alpha: November, sending you 4
+2024-10-14 19:58:02.461677 Alpha: Oscar, sending you 5
+2024-10-14 19:58:02.466722 November: Mike, Yankee, Delta and Papa, sending you 2
+2024-10-14 19:58:02.470664 November: Alpha and Foxtrot, sending you 3
+2024-10-14 19:58:02.472664 Yankee: Mike, sending you 3
+2024-10-14 19:58:02.475673 November: Oscar, sending you 5
+2024-10-14 19:58:02.476361 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Mike round 11
+ChatterBot Alpha round 11
+ChatterBot Yankee round 11
+ChatterBot November round 11
+ChatterBot Hotel round 11
+ChatterBot Delta round 11
+ChatterBot Foxtrot round 11
+ChatterBot Quebec round 11
+ChatterBot Papa round 11
+ChatterBot Oscar round 11
+2024-10-14 19:58:03.701355 Hotel: We should drop Papa
+ChatterBot Delta reevaluating
+2024-10-14 19:58:03.729548 Yankee: Yes
+2024-10-14 19:58:03.730025 Mike: Yes
+2024-10-14 19:58:03.730397 Delta: Yes
+2024-10-14 19:58:03.730731 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:58:03.850368 Quebec: I was attacked by Hotel
+2024-10-14 19:58:03.851525 Quebec: I'm keeping this round to protect myself
+2024-10-14 19:58:03.852091 Quebec: Ow
+2024-10-14 19:58:03.853579 Alpha: November, sending you 4
+2024-10-14 19:58:03.856675 Yankee: Mike, sending you 3
+2024-10-14 19:58:03.858442 November: Mike, Yankee, Hotel and Delta, sending you 2
+2024-10-14 19:58:03.862680 Mike: Yankee, Hotel, Delta and Foxtrot, sending you 2
+2024-10-14 19:58:03.863818 Alpha: Oscar, sending you 5
+2024-10-14 19:58:03.865506 Yankee: Hotel, Delta and Foxtrot, sending you 4
+2024-10-14 19:58:03.867701 November: Alpha, sending you 5
+2024-10-14 19:58:03.874685 November: Foxtrot, sending you 3
+2024-10-14 19:58:03.875650 November: I was attacked by Mike
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:03.919022 November: Ow
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Mike round 12
+ChatterBot Alpha round 12
+ChatterBot Yankee round 12
+ChatterBot November round 12
+ChatterBot Hotel round 12
+ChatterBot Delta round 12
+ChatterBot Foxtrot round 12
+ChatterBot Quebec round 12
+ChatterBot Papa round 12
+ChatterBot Oscar round 12
+2024-10-14 19:58:05.082703 Hotel: We should drop Papa
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:05.208733 Yankee: Yes
+2024-10-14 19:58:05.209089 Mike: Yes
+2024-10-14 19:58:05.209332 Delta: Yes
+2024-10-14 19:58:05.209589 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:58:05.331343 Yankee: Mike, Delta and Foxtrot, sending you 4
+2024-10-14 19:58:05.336251 Mike: Yankee, Hotel, Delta and Foxtrot, sending you 2
+2024-10-14 19:58:05.338901 November: Alpha, sending you 3
+2024-10-14 19:58:05.342143 Yankee: Hotel, sending you 3
+2024-10-14 19:58:05.344066 Alpha: November, sending you 4
+2024-10-14 19:58:05.347188 November: Yankee and Hotel, sending you 1
+2024-10-14 19:58:05.352671 Alpha: Oscar, sending you 5
+2024-10-14 19:58:05.354556 November: Delta and Foxtrot, sending you 2
+2024-10-14 19:58:05.357299 November: I was attacked by Hotel
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:05.425027 November: Ow
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot November submitting transactions
+ChatterBot Mike round 13
+ChatterBot Alpha round 13
+ChatterBot Yankee round 13
+ChatterBot November round 13
+ChatterBot Hotel round 13
+ChatterBot Delta round 13
+ChatterBot Foxtrot round 13
+ChatterBot Quebec round 13
+ChatterBot Papa round 13
+ChatterBot Oscar round 13
+2024-10-14 19:58:06.343414 November: We should add Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:06.370723 Mike: Yes
+2024-10-14 19:58:06.370891 Alpha: Yes
+2024-10-14 19:58:06.371057 Yankee: No
+2024-10-14 19:58:06.371188 Hotel: No
+2024-10-14 19:58:06.371320 Delta: No
+2024-10-14 19:58:06.371430 Foxtrot: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 19:58:06.690356 Yankee: I was attacked by Oscar
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:06.705581 Yankee: I'm keeping this round to protect myself
+2024-10-14 19:58:06.706458 Yankee: Ow
+2024-10-14 19:58:06.710656 Alpha: November, sending you 4
+2024-10-14 19:58:06.711824 Hotel: We should drop Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:06.727859 Yankee: Yes
+2024-10-14 19:58:06.728022 Mike: Yes
+2024-10-14 19:58:06.728150 Delta: Yes
+2024-10-14 19:58:06.728268 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:06.786966 Mike: We should drop Oscar
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:06.804036 Yankee: Yes
+2024-10-14 19:58:06.804213 Hotel: Yes
+2024-10-14 19:58:06.804382 Delta: Yes
+2024-10-14 19:58:06.804901 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:06.869813 Alpha: Oscar, sending you 5
+2024-10-14 19:58:06.874489 November: Alpha, sending you 4
+2024-10-14 19:58:06.881671 November: Yankee, sending you 2
+2024-10-14 19:58:06.887995 November: Delta and Foxtrot, sending you 3
+2024-10-14 19:58:06.891655 Mike: Same as last round
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Mike round 14
+ChatterBot Alpha round 14
+ChatterBot Yankee round 14
+ChatterBot November round 14
+ChatterBot Hotel round 14
+ChatterBot Delta round 14
+ChatterBot Foxtrot round 14
+ChatterBot Quebec round 14
+ChatterBot Papa round 14
+ChatterBot Oscar round 14
+2024-10-14 19:58:07.998946 Alpha: We should drop November
+2024-10-14 19:58:08.003527 Oscar: No
+ChatterBot Alpha reevaluating
+2024-10-14 19:58:08.008578 Hotel: We should drop Papa
+2024-10-14 19:58:08.027229 Yankee: Yes
+2024-10-14 19:58:08.027530 Mike: Yes
+2024-10-14 19:58:08.027811 Delta: Yes
+2024-10-14 19:58:08.027977 Foxtrot: Yes
+2024-10-14 19:58:08.097694 Mike: Yankee, Delta and Foxtrot, sending you 1
+2024-10-14 19:58:08.106675 November: I was attacked by Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:08.116816 November: I'm keeping this round to protect myself
+2024-10-14 19:58:08.118006 November: Ow
+2024-10-14 19:58:08.123681 Yankee: Mike, Hotel and Foxtrot, sending you 2
+2024-10-14 19:58:08.128681 Yankee: Delta, sending you 3
+2024-10-14 19:58:08.157695 Alpha: Sending you 9
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Mike round 15
+ChatterBot Alpha round 15
+ChatterBot Yankee round 15
+ChatterBot November round 15
+ChatterBot Hotel round 15
+ChatterBot Delta round 15
+ChatterBot Foxtrot round 15
+ChatterBot Quebec round 15
+ChatterBot Papa round 15
+ChatterBot Oscar round 15
+2024-10-14 19:58:09.439680 Alpha: We should add Papa
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.449022 Oscar: No
+ChatterBot Alpha reevaluating
+2024-10-14 19:58:09.462028 November: We should add Mike
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.475255 Alpha: Yes
+2024-10-14 19:58:09.475755 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:58:09.550710 Delta: We should drop Papa
+2024-10-14 19:58:09.581361 Yankee: Yes
+2024-10-14 19:58:09.581590 Mike: Yes
+2024-10-14 19:58:09.581788 Hotel: Yes
+2024-10-14 19:58:09.581971 Foxtrot: Yes
+2024-10-14 19:58:09.656011 November: Mike we want you to join our group
+2024-10-14 19:58:09.660786 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.676852 November: We should add Delta
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.687741 Alpha: No
+2024-10-14 19:58:09.687940 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:58:09.714745 Alpha: We should add Foxtrot
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.721381 Oscar: Yes
+ChatterBot Alpha reevaluating
+2024-10-14 19:58:09.730068 November: We should add Papa
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.743676 Alpha: No
+2024-10-14 19:58:09.743839 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:58:09.777128 November: We should add Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:09.793276 Alpha: No
+2024-10-14 19:58:09.793440 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot November reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot November reevaluating
+2024-10-14 19:58:09.812031 Yankee: Mike, sending you 3
+2024-10-14 19:58:09.812566 Mike: Sending you each 2
+2024-10-14 19:58:09.814683 Yankee: Hotel, Delta and Foxtrot, sending you 4
+2024-10-14 19:58:09.819747 Alpha: Foxtrot we want you to join our group
+2024-10-14 19:58:09.825904 Foxtrot: No
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 19:58:09.869031 Alpha: Foxtrot, sending you 4
+2024-10-14 19:58:09.873670 Alpha: Oscar, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Mike round 16
+ChatterBot Alpha round 16
+ChatterBot Yankee round 16
+ChatterBot November round 16
+ChatterBot Hotel round 16
+ChatterBot Delta round 16
+ChatterBot Foxtrot round 16
+ChatterBot Quebec round 16
+ChatterBot Papa round 16
+ChatterBot Oscar round 16
+2024-10-14 19:58:10.981096 Papa: We should group up
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:11.002401 Alpha: Yes
+2024-10-14 19:58:11.002591 Oscar: No
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:58:11.057546 Hotel: We should drop Papa
+2024-10-14 19:58:11.085959 Yankee: Yes
+2024-10-14 19:58:11.086921 Mike: Yes
+2024-10-14 19:58:11.087091 Delta: Yes
+2024-10-14 19:58:11.087259 Foxtrot: Yes
+2024-10-14 19:58:11.214212 Alpha: We should drop Foxtrot
+2024-10-14 19:58:11.223772 Oscar: Yes
+ChatterBot Alpha reevaluating
+2024-10-14 19:58:11.235286 Alpha: We should replace Foxtrot with Papa
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:11.246263 Oscar: No
+ChatterBot Alpha reevaluating
+2024-10-14 19:58:11.258742 November: I was attacked by Hotel
+2024-10-14 19:58:11.259122 November: I'm keeping this round to protect myself
+2024-10-14 19:58:11.259342 November: Ow
+2024-10-14 19:58:11.264942 Yankee: Mike, sending you 3
+2024-10-14 19:58:11.267269 Alpha: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 19:58:11.276102 Papa: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:58:11.296878 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Mike submitting transactions
+2024-10-14 19:58:11.330252 Alpha: Papa, sending you 4
+2024-10-14 19:58:11.335683 Alpha: Oscar, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Mike round 17
+ChatterBot Alpha round 17
+ChatterBot Yankee round 17
+ChatterBot November round 17
+ChatterBot Hotel round 17
+ChatterBot Delta round 17
+ChatterBot Foxtrot round 17
+ChatterBot Quebec round 17
+ChatterBot Papa round 17
+ChatterBot Oscar round 17
+2024-10-14 19:58:12.679968 Alpha: We should drop Oscar
+ChatterBot Papa reevaluating
+2024-10-14 19:58:12.685345 Papa: Yes
+2024-10-14 19:58:12.692844 Delta: We should drop Papa
+2024-10-14 19:58:12.713405 Yankee: Yes
+2024-10-14 19:58:12.713574 Mike: Yes
+2024-10-14 19:58:12.713711 Hotel: Yes
+2024-10-14 19:58:12.714779 Foxtrot: Yes
+2024-10-14 19:58:12.817713 Mike: Sending you each 2
+2024-10-14 19:58:12.820435 Yankee: Mike, sending you 3
+2024-10-14 19:58:12.827083 Yankee: Hotel, Delta and Foxtrot, sending you 4
+2024-10-14 19:58:12.835699 Alpha: Sending you 9
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Mike round 18
+ChatterBot Alpha round 18
+ChatterBot Yankee round 18
+ChatterBot November round 18
+ChatterBot Hotel round 18
+ChatterBot Delta round 18
+ChatterBot Foxtrot round 18
+ChatterBot Quebec round 18
+ChatterBot Papa round 18
+ChatterBot Oscar round 18
+2024-10-14 19:58:14.010659 Hotel: We should drop Papa
+2024-10-14 19:58:14.037726 Yankee: Yes
+2024-10-14 19:58:14.037933 Mike: Yes
+2024-10-14 19:58:14.038093 Delta: Yes
+2024-10-14 19:58:14.038251 Foxtrot: Yes
+2024-10-14 19:58:14.137703 Alpha: Same as last round
+2024-10-14 19:58:14.139301 Mike: Same as last round
+2024-10-14 19:58:14.145289 Yankee: Mike, sending you 3
+2024-10-14 19:58:14.152704 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Mike round 19
+ChatterBot Alpha round 19
+ChatterBot Yankee round 19
+ChatterBot November round 19
+ChatterBot Hotel round 19
+ChatterBot Delta round 19
+ChatterBot Foxtrot round 19
+ChatterBot Quebec round 19
+ChatterBot Papa round 19
+ChatterBot Oscar round 19
+2024-10-14 19:58:15.361147 Delta: We should drop Papa
+2024-10-14 19:58:15.386681 Yankee: Yes
+2024-10-14 19:58:15.386902 Mike: Yes
+2024-10-14 19:58:15.387565 Hotel: Yes
+2024-10-14 19:58:15.387756 Foxtrot: Yes
+2024-10-14 19:58:15.622246 Yankee: Mike, sending you 3
+2024-10-14 19:58:15.626653 Alpha: Same as last round
+2024-10-14 19:58:15.627729 Mike: Same as last round
+2024-10-14 19:58:15.631863 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+ChatterBot Mike round 20
+ChatterBot Alpha round 20
+ChatterBot Yankee round 20
+ChatterBot November round 20
+ChatterBot Hotel round 20
+ChatterBot Delta round 20
+ChatterBot Foxtrot round 20
+ChatterBot Quebec round 20
+ChatterBot Papa round 20
+ChatterBot Oscar round 20
+2024-10-14 19:58:16.713826 Hotel: We should drop Papa
+2024-10-14 19:58:16.729932 Yankee: Yes
+2024-10-14 19:58:16.730171 Mike: Yes
+2024-10-14 19:58:16.730339 Delta: Yes
+2024-10-14 19:58:16.730504 Foxtrot: Yes
+2024-10-14 19:58:16.800443 Alpha: I was attacked by Hotel
+ChatterBot Papa reevaluating
+2024-10-14 19:58:16.808068 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:58:16.809265 Alpha: Ow
+2024-10-14 19:58:16.814696 Yankee: Mike, sending you 3
+2024-10-14 19:58:16.817700 Mike: Same as last round
+2024-10-14 19:58:16.821674 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Mike round 21
+ChatterBot Alpha round 21
+ChatterBot Yankee round 21
+ChatterBot November round 21
+ChatterBot Hotel round 21
+ChatterBot Delta round 21
+ChatterBot Foxtrot round 21
+ChatterBot Quebec round 21
+ChatterBot Papa round 21
+ChatterBot Oscar round 21
+2024-10-14 19:58:18.122287 Delta: We should drop Papa
+2024-10-14 19:58:18.139314 Yankee: Yes
+2024-10-14 19:58:18.139656 Mike: Yes
+2024-10-14 19:58:18.139832 Hotel: Yes
+2024-10-14 19:58:18.140948 Foxtrot: Yes
+2024-10-14 19:58:18.241973 Alpha: I was attacked by Hotel
+ChatterBot Papa reevaluating
+2024-10-14 19:58:18.247651 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:58:18.248455 Alpha: Ow
+2024-10-14 19:58:18.252940 Yankee: Mike, sending you 3
+2024-10-14 19:58:18.260688 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Mike round 22
+ChatterBot Alpha round 22
+ChatterBot Yankee round 22
+ChatterBot November round 22
+ChatterBot Hotel round 22
+ChatterBot Delta round 22
+ChatterBot Foxtrot round 22
+ChatterBot Quebec round 22
+ChatterBot Papa round 22
+ChatterBot Oscar round 22
+2024-10-14 19:58:19.465288 Hotel: We should drop Papa
+2024-10-14 19:58:19.488280 Yankee: Yes
+2024-10-14 19:58:19.488504 Mike: Yes
+2024-10-14 19:58:19.488725 Delta: Yes
+2024-10-14 19:58:19.488972 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:19.578448 Alpha: I was attacked by Mike
+2024-10-14 19:58:19.579508 Alpha: I'm keeping this round to protect myself
+2024-10-14 19:58:19.580303 Alpha: Ow
+2024-10-14 19:58:19.587748 Yankee: Mike, sending you 3
+2024-10-14 19:58:19.591691 Mike: Sending you each 2
+2024-10-14 19:58:19.599558 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Mike round 23
+ChatterBot Alpha round 23
+ChatterBot Yankee round 23
+ChatterBot November round 23
+ChatterBot Hotel round 23
+ChatterBot Delta round 23
+ChatterBot Foxtrot round 23
+ChatterBot Quebec round 23
+ChatterBot Papa round 23
+ChatterBot Oscar round 23
+2024-10-14 19:58:20.828744 Delta: We should drop Papa
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:20.852256 Yankee: Yes
+2024-10-14 19:58:20.852557 Mike: Yes
+2024-10-14 19:58:20.852770 Hotel: Yes
+2024-10-14 19:58:20.853390 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:20.956551 Yankee: Mike, sending you 3
+2024-10-14 19:58:20.963807 Yankee: Hotel, Delta and Foxtrot, sending you 4
+2024-10-14 19:58:20.968707 Mike: Same as last round
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot November submitting transactions
+ChatterBot Mike round 24
+ChatterBot Alpha round 24
+ChatterBot Yankee round 24
+ChatterBot November round 24
+ChatterBot Hotel round 24
+ChatterBot Delta round 24
+ChatterBot Foxtrot round 24
+ChatterBot Quebec round 24
+ChatterBot Papa round 24
+ChatterBot Oscar round 24
+2024-10-14 19:58:22.173847 Hotel: We should drop Papa
+2024-10-14 19:58:22.193814 Yankee: Yes
+2024-10-14 19:58:22.194047 Mike: Yes
+2024-10-14 19:58:22.194226 Delta: Yes
+2024-10-14 19:58:22.194385 Foxtrot: Yes
+2024-10-14 19:58:22.298941 Mike: Same as last round
+2024-10-14 19:58:22.304204 Yankee: Mike, sending you 3
+2024-10-14 19:58:22.651061 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot November submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Mike round 25
+ChatterBot Alpha round 25
+ChatterBot Yankee round 25
+ChatterBot November round 25
+ChatterBot Hotel round 25
+ChatterBot Delta round 25
+ChatterBot Foxtrot round 25
+ChatterBot Quebec round 25
+ChatterBot Papa round 25
+ChatterBot Oscar round 25
+2024-10-14 19:58:23.800869 Delta: We should drop Papa
+2024-10-14 19:58:23.824072 Yankee: Yes
+2024-10-14 19:58:23.824333 Mike: Yes
+2024-10-14 19:58:23.824588 Hotel: Yes
+2024-10-14 19:58:23.824796 Foxtrot: Yes
+2024-10-14 19:58:23.937575 Yankee: Mike, sending you 3
+2024-10-14 19:58:23.944976 Mike: Same as last round
+2024-10-14 19:58:23.949162 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Mike round 26
+ChatterBot Alpha round 26
+ChatterBot Yankee round 26
+ChatterBot November round 26
+ChatterBot Hotel round 26
+ChatterBot Delta round 26
+ChatterBot Foxtrot round 26
+ChatterBot Quebec round 26
+ChatterBot Papa round 26
+ChatterBot Oscar round 26
+2024-10-14 19:58:25.982214 Hotel: We should drop Papa
+2024-10-14 19:58:25.997947 Yankee: Yes
+2024-10-14 19:58:25.998132 Mike: Yes
+2024-10-14 19:58:25.998276 Delta: Yes
+2024-10-14 19:58:25.998415 Foxtrot: Yes
+2024-10-14 19:58:26.068110 Yankee: Mike, sending you 3
+2024-10-14 19:58:26.073080 Mike: Same as last round
+2024-10-14 19:58:26.077548 Yankee: Hotel, Delta and Foxtrot, sending you 4
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Mike round 27
+ChatterBot Alpha round 27
+ChatterBot Yankee round 27
+ChatterBot November round 27
+ChatterBot Hotel round 27
+ChatterBot Delta round 27
+ChatterBot Foxtrot round 27
+ChatterBot Quebec round 27
+ChatterBot Papa round 27
+ChatterBot Oscar round 27
+2024-10-14 19:58:27.321287 Hotel: We should drop Delta and Papa
+ChatterBot Mike reevaluating
+2024-10-14 19:58:27.335759 Mike: Yes
+2024-10-14 19:58:27.335956 Yankee: No
+2024-10-14 19:58:27.336100 Foxtrot: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:58:27.386816 Delta: We should drop Papa
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:27.412122 Yankee: Yes
+2024-10-14 19:58:27.413219 Mike: Yes
+2024-10-14 19:58:27.413416 Hotel: Yes
+2024-10-14 19:58:27.413632 Foxtrot: Yes
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:58:27.499458 Hotel: We should drop Mike and Papa
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:27.513762 Yankee: Yes
+2024-10-14 19:58:27.513925 Delta: Yes
+2024-10-14 19:58:27.514041 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:58:27.573123 Mike: We should drop Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:58:27.591370 Yankee: No
+2024-10-14 19:58:27.591537 Delta: No
+2024-10-14 19:58:27.591669 Foxtrot: No
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 19:58:27.668691 Mike: Same as last round
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Mike round 28
+ChatterBot Alpha round 28
+ChatterBot Yankee round 28
+ChatterBot November round 28
+ChatterBot Hotel round 28
+ChatterBot Delta round 28
+ChatterBot Foxtrot round 28
+ChatterBot Quebec round 28
+ChatterBot Papa round 28
+ChatterBot Oscar round 28
+2024-10-14 19:58:28.995825 Yankee: We should drop Mike
+2024-10-14 19:58:29.009401 Hotel: Yes
+2024-10-14 19:58:29.009875 Delta: Yes
+2024-10-14 19:58:29.010260 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:29.056827 Hotel: We should drop Mike and Papa
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:29.068878 Yankee: Yes
+2024-10-14 19:58:29.069206 Delta: Yes
+2024-10-14 19:58:29.069478 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:29.115676 Mike: Same as last round
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Mike round 29
+ChatterBot Alpha round 29
+ChatterBot Yankee round 29
+ChatterBot November round 29
+ChatterBot Hotel round 29
+ChatterBot Delta round 29
+ChatterBot Foxtrot round 29
+ChatterBot Quebec round 29
+ChatterBot Papa round 29
+ChatterBot Oscar round 29
+2024-10-14 19:58:30.185018 Yankee: We should drop Mike
+2024-10-14 19:58:30.196453 Hotel: Yes
+2024-10-14 19:58:30.196630 Delta: Yes
+2024-10-14 19:58:30.196761 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:30.228544 Hotel: We should drop Mike and Papa
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:30.239244 Yankee: Yes
+2024-10-14 19:58:30.239383 Delta: Yes
+2024-10-14 19:58:30.239473 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:30.376310 Mike: Same as last round
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Mike round 30
+ChatterBot Alpha round 30
+ChatterBot Yankee round 30
+ChatterBot November round 30
+ChatterBot Hotel round 30
+ChatterBot Delta round 30
+ChatterBot Foxtrot round 30
+ChatterBot Quebec round 30
+ChatterBot Papa round 30
+ChatterBot Oscar round 30
+2024-10-14 19:58:31.458191 Yankee: We should drop Mike
+2024-10-14 19:58:31.468114 Hotel: Yes
+2024-10-14 19:58:31.468310 Delta: Yes
+2024-10-14 19:58:31.468459 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:31.499651 Hotel: We should drop Mike and Papa
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:31.506448 Yankee: Yes
+2024-10-14 19:58:31.506567 Delta: Yes
+2024-10-14 19:58:31.506667 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:58:31.545710 Mike: Same as last round
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions

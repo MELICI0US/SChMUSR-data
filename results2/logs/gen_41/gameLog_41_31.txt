@@ -1,0 +1,1753 @@
+ChatterBot Yankee round 1
+ChatterBot Victor round 1
+ChatterBot Zulu round 1
+ChatterBot Bravo round 1
+ChatterBot Hotel round 1
+ChatterBot Kilo round 1
+ChatterBot Delta round 1
+ChatterBot Golf round 1
+ChatterBot Oscar round 1
+ChatterBot Foxtrot round 1
+randomSelections Yankee: {Yankee, Delta, Kilo, Golf, Oscar} 
+2024-10-14 17:31:16.212573 Yankee: Friends?
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:16.222347 Delta: Yes
+2024-10-14 17:31:16.222501 Kilo: Yes
+2024-10-14 17:31:16.223018 Golf: Yes
+2024-10-14 17:31:16.223119 Oscar: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+randomSelections Hotel: {Hotel, Kilo, Yankee, Zulu, Golf} 
+2024-10-14 17:31:16.248110 Hotel: Can we be friends?
+ChatterBot Kilo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 17:31:16.253558 Kilo: No
+2024-10-14 17:31:16.253678 Yankee: No
+2024-10-14 17:31:16.253776 Zulu: Yes
+2024-10-14 17:31:16.253863 Golf: No
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Bravo: {Bravo, Golf, Zulu} 
+2024-10-14 17:31:16.276499 Bravo: Friends?
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:16.280200 Golf: No
+2024-10-14 17:31:16.280351 Zulu: No
+ChatterBot Zulu reevaluating
+ChatterBot Golf reevaluating
+randomSelections Foxtrot: {Foxtrot, Hotel, Delta} 
+2024-10-14 17:31:16.291471 Foxtrot: We should group up
+ChatterBot Delta reevaluating
+2024-10-14 17:31:16.297789 Hotel: No
+2024-10-14 17:31:16.297981 Delta: No
+ChatterBot Delta reevaluating
+randomSelections Victor: {Victor, Oscar, Kilo} 
+2024-10-14 17:31:16.359651 Victor: Group up?
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:16.364446 Oscar: No
+2024-10-14 17:31:16.365341 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:16.392094 Delta: Yankee and Oscar, sending you 1
+2024-10-14 17:31:16.392902 Hotel: Yankee and Kilo, sending you 3
+2024-10-14 17:31:16.394313 Bravo: Zulu and Golf, sending you 2
+2024-10-14 17:31:16.395057 Zulu: Yankee and Hotel, sending you 5
+2024-10-14 17:31:16.396327 Foxtrot: Sending you each 2
+2024-10-14 17:31:16.397 Yankee: Kilo and Delta, sending you 2
+2024-10-14 17:31:16.398776 Golf: Yankee, Kilo and Delta, sending you 1
+2024-10-14 17:31:16.399725 Delta: Kilo, sending you 4
+2024-10-14 17:31:16.400741 Hotel: Zulu and Golf, sending you 2
+2024-10-14 17:31:16.401397 Zulu: Kilo, sending you 3
+2024-10-14 17:31:16.402703 Victor: Kilo, sending you 4
+2024-10-14 17:31:16.403344 Yankee: Golf and Oscar, sending you 3
+2024-10-14 17:31:16.404687 Golf: Oscar, sending you 2
+2024-10-14 17:31:16.405950 Delta: Golf, sending you 2
+2024-10-14 17:31:16.406766 Oscar: Yankee, sending you 5
+2024-10-14 17:31:16.408187 Zulu: Golf, sending you 6
+2024-10-14 17:31:16.408925 Victor: Oscar, sending you 9
+2024-10-14 17:31:16.412757 Oscar: Kilo, sending you 1
+2024-10-14 17:31:16.420652 Kilo: Yankee and Delta, sending you 3
+2024-10-14 17:31:16.422260 Oscar: Delta and Golf, sending you 3
+2024-10-14 17:31:16.436704 Kilo: Golf, sending you 2
+2024-10-14 17:31:16.443314 Kilo: Oscar, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 2
+ChatterBot Victor round 2
+2024-10-14 17:31:17.242297 Victor: Group up?
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:17.256063 Bravo: Yes
+2024-10-14 17:31:17.260826 Bravo: We should group up
+2024-10-14 17:31:17.265662 Victor: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Zulu round 2
+ChatterBot Bravo round 2
+ChatterBot Hotel round 2
+2024-10-14 17:31:17.286599 Yankee: Group up?
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:17.359969 Victor: No
+2024-10-14 17:31:17.360256 Kilo: No
+2024-10-14 17:31:17.361066 Delta: No
+2024-10-14 17:31:17.361296 Golf: No
+2024-10-14 17:31:17.361480 Oscar: No
+2024-10-14 17:31:17.361686 Zulu: Yes
+2024-10-14 17:31:17.361880 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo round 2
+ChatterBot Delta round 2
+ChatterBot Golf round 2
+ChatterBot Oscar round 2
+ChatterBot Foxtrot round 2
+2024-10-14 17:31:18.047350 Delta: We should add Victor
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:18.063958 Yankee: Yes
+2024-10-14 17:31:18.064143 Kilo: No
+2024-10-14 17:31:18.064268 Golf: No
+2024-10-14 17:31:18.064381 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:18.140409 Foxtrot: Friends?
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:18.144878 Bravo: Yes
+2024-10-14 17:31:18.148857 Delta: We should add Victor and Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:18.165798 Yankee: Yes
+2024-10-14 17:31:18.165938 Kilo: No
+2024-10-14 17:31:18.166071 Golf: No
+2024-10-14 17:31:18.166660 Oscar: No
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:18.237164 Victor: Sending you 13
+2024-10-14 17:31:18.422946 Hotel: Zulu, sending you 6
+2024-10-14 17:31:18.423777 Zulu: Hotel, sending you 15
+2024-10-14 17:31:18.424869 Golf: Yankee, sending you 2
+2024-10-14 17:31:18.426395 Delta: Victor we want you to join our group
+2024-10-14 17:31:18.434047 Victor: No
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:18.472393 Oscar: Victor we want you to join our group
+2024-10-14 17:31:18.480082 Victor: No
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:18.516781 Hotel: Foxtrot, sending you 4
+2024-10-14 17:31:18.517501 Golf: Kilo, Delta and Oscar, sending you 1
+2024-10-14 17:31:18.519766 Foxtrot: Sending you 2
+2024-10-14 17:31:18.520055 Bravo: Sending you 2
+2024-10-14 17:31:18.535186 Yankee: Victor, Delta and Golf, sending you 1
+2024-10-14 17:31:18.540661 Yankee: Zulu and Oscar, sending you 3
+2024-10-14 17:31:18.544192 Oscar: Yankee, Delta and Golf, sending you 2
+2024-10-14 17:31:18.544821 Yankee: Hotel and Kilo, sending you 2
+2024-10-14 17:31:18.546316 Kilo: Yankee, sending you 3
+2024-10-14 17:31:18.548117 Oscar: Victor and Kilo, sending you 3
+2024-10-14 17:31:18.548757 Delta: Yankee, sending you 2
+2024-10-14 17:31:18.550657 Kilo: Delta, sending you 5
+2024-10-14 17:31:18.553070 Delta: Kilo and Oscar, sending you 4
+2024-10-14 17:31:18.554803 Kilo: Golf and Oscar, sending you 2
+2024-10-14 17:31:18.557936 Delta: Golf, sending you 1
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Yankee round 3
+ChatterBot Victor round 3
+ChatterBot Zulu round 3
+ChatterBot Bravo round 3
+ChatterBot Hotel round 3
+ChatterBot Kilo round 3
+ChatterBot Delta round 3
+ChatterBot Golf round 3
+ChatterBot Oscar round 3
+ChatterBot Foxtrot round 3
+2024-10-14 17:31:19.767486 Bravo: We should add Victor
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:19.773337 Foxtrot: Yes
+2024-10-14 17:31:19.814036 Bravo: Victor we want you to join our group
+2024-10-14 17:31:19.819541 Victor: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:19.841076 Zulu: Yankee, sending you 6
+2024-10-14 17:31:19.842947 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:19.844654 Foxtrot: Victor we want you to join our group
+2024-10-14 17:31:19.850452 Victor: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:19.859850 Victor: Yankee, sending you 3
+2024-10-14 17:31:19.860208 Yankee: Kilo, Golf and Oscar, sending you 3
+2024-10-14 17:31:19.860656 Zulu: Hotel, sending you 13
+2024-10-14 17:31:19.861451 Kilo: Delta, sending you 4
+2024-10-14 17:31:19.863342 Victor: Kilo and Delta, sending you 1
+2024-10-14 17:31:19.863701 Delta: Yankee, sending you 2
+2024-10-14 17:31:19.864107 Yankee: Delta, sending you 2
+2024-10-14 17:31:19.865062 Hotel: Zulu, sending you 6
+2024-10-14 17:31:19.865441 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:19.865907 Golf: Yankee, Kilo and Delta, sending you 1
+2024-10-14 17:31:19.866783 Bravo: Victor and Foxtrot, sending you 2
+2024-10-14 17:31:19.867112 Kilo: Golf, sending you 2
+2024-10-14 17:31:19.867707 Victor: Oscar, sending you 8
+2024-10-14 17:31:19.868673 Delta: Kilo, sending you 5
+2024-10-14 17:31:19.869276 Hotel: Foxtrot, sending you 2
+2024-10-14 17:31:19.870697 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:19.871003 Golf: Oscar, sending you 2
+2024-10-14 17:31:19.873862 Delta: Golf, sending you 1
+2024-10-14 17:31:19.877058 Delta: Oscar, sending you 3
+2024-10-14 17:31:19.888658 Foxtrot: Victor, sending you 2
+2024-10-14 17:31:19.893664 Foxtrot: Bravo, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Yankee round 4
+ChatterBot Victor round 4
+ChatterBot Zulu round 4
+ChatterBot Bravo round 4
+ChatterBot Hotel round 4
+ChatterBot Kilo round 4
+ChatterBot Delta round 4
+ChatterBot Golf round 4
+ChatterBot Oscar round 4
+ChatterBot Foxtrot round 4
+2024-10-14 17:31:21.078675 Hotel: Zulu, sending you 5
+2024-10-14 17:31:21.079661 Zulu: Yankee, sending you 3
+2024-10-14 17:31:21.082669 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:21.083086 Hotel: Foxtrot, sending you 2
+2024-10-14 17:31:21.083328 Zulu: Hotel, sending you 16
+2024-10-14 17:31:21.086846 Kilo: Delta, sending you 4
+2024-10-14 17:31:21.088668 Yankee: Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:21.091689 Kilo: Golf, sending you 2
+2024-10-14 17:31:21.092491 Yankee: Golf, sending you 2
+2024-10-14 17:31:21.092895 Delta: Yankee, sending you 2
+2024-10-14 17:31:21.094701 Victor: Yankee, sending you 2
+2024-10-14 17:31:21.095678 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:21.096680 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:21.098673 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:21.099687 Bravo: Victor and Foxtrot, sending you 2
+2024-10-14 17:31:21.100035 Victor: Kilo and Delta, sending you 1
+2024-10-14 17:31:21.102122 Delta: Kilo, sending you 4
+2024-10-14 17:31:21.102663 Victor: Oscar, sending you 9
+2024-10-14 17:31:21.103695 Golf: Yankee, sending you 2
+2024-10-14 17:31:21.105724 Foxtrot: Victor, sending you 2
+2024-10-14 17:31:21.106057 Delta: Oscar, sending you 3
+2024-10-14 17:31:21.107715 Golf: Kilo, Delta and Oscar, sending you 1
+2024-10-14 17:31:21.110671 Foxtrot: Bravo, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 5
+ChatterBot Victor round 5
+ChatterBot Zulu round 5
+2024-10-14 17:31:22.229229 Yankee: We should add Victor
+2024-10-14 17:31:22.247419 Delta: Yes
+2024-10-14 17:31:22.247632 Kilo: No
+2024-10-14 17:31:22.247811 Golf: No
+2024-10-14 17:31:22.247937 Oscar: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo round 5
+ChatterBot Hotel round 5
+ChatterBot Kilo round 5
+ChatterBot Delta round 5
+ChatterBot Golf round 5
+ChatterBot Oscar round 5
+ChatterBot Foxtrot round 5
+2024-10-14 17:31:22.320753 Kilo: We should replace Golf with Victor
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:22.330120 Yankee: Yes
+2024-10-14 17:31:22.330240 Delta: No
+2024-10-14 17:31:22.330338 Oscar: No
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:22.365853 Hotel: We should add Bravo
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:22.372156 Zulu: Yes
+2024-10-14 17:31:22.372294 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:22.390620 Hotel: Bravo we want you to join our group
+2024-10-14 17:31:22.393617 Bravo: No
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:22.402377 Victor: Bravo, sending you 7
+2024-10-14 17:31:22.402639 Kilo: Victor we want you to join our group
+2024-10-14 17:31:22.405575 Victor: No
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:22.417964 Victor: Foxtrot, sending you 6
+2024-10-14 17:31:22.420667 Delta: Yankee and Oscar, sending you 2
+2024-10-14 17:31:22.421146 Bravo: Victor and Foxtrot, sending you 2
+2024-10-14 17:31:22.421427 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:22.422668 Golf: Yankee, sending you 2
+2024-10-14 17:31:22.425665 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:22.426690 Yankee: Victor we want you to join our group
+ChatterBot Victor reevaluating
+2024-10-14 17:31:22.431435 Victor: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:22.445015 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:22.445514 Golf: Kilo, Delta and Oscar, sending you 1
+2024-10-14 17:31:22.445959 Delta: Kilo, sending you 5
+2024-10-14 17:31:22.449705 Hotel: Zulu, sending you 5
+2024-10-14 17:31:22.449998 Foxtrot: Zulu, sending you 2
+2024-10-14 17:31:22.450666 Zulu: Bravo, sending you 1
+2024-10-14 17:31:22.452691 Hotel: Bravo and Foxtrot, sending you 1
+2024-10-14 17:31:22.454665 Foxtrot: Bravo and Hotel, sending you 3
+2024-10-14 17:31:22.454932 Zulu: Hotel, sending you 18
+2024-10-14 17:31:22.463663 Victor: Sorry, I'm actually sending you 0
+2024-10-14 17:31:22.463969 Victor: Sorry, I'm actually sending you 0
+2024-10-14 17:31:22.466663 Victor: Yankee and Delta, sending you 2
+2024-10-14 17:31:22.471674 Victor: Kilo, sending you 1
+2024-10-14 17:31:22.476650 Victor: Oscar, sending you 8
+2024-10-14 17:31:22.477044 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:22.478674 Yankee: Victor, sending you 2
+2024-10-14 17:31:22.481676 Kilo: Victor, sending you 2
+2024-10-14 17:31:22.482685 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:22.484665 Kilo: Delta, sending you 4
+2024-10-14 17:31:22.487676 Yankee: Oscar, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 6
+ChatterBot Victor round 6
+ChatterBot Zulu round 6
+ChatterBot Bravo round 6
+ChatterBot Hotel round 6
+ChatterBot Kilo round 6
+ChatterBot Delta round 6
+ChatterBot Golf round 6
+ChatterBot Oscar round 6
+ChatterBot Foxtrot round 6
+2024-10-14 17:31:23.517496 Oscar: We should drop Golf
+2024-10-14 17:31:23.527164 Victor: Yes
+2024-10-14 17:31:23.527326 Kilo: Yes
+2024-10-14 17:31:23.527482 Delta: No
+2024-10-14 17:31:23.527600 Yankee: Yes
+2024-10-14 17:31:23.562126 Yankee: Victor, sending you 2
+2024-10-14 17:31:23.562450 Victor: Yankee, sending you 3
+2024-10-14 17:31:23.564696 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:23.566137 Victor: Kilo and Delta, sending you 2
+2024-10-14 17:31:23.566753 Bravo: Victor and Foxtrot, sending you 2
+2024-10-14 17:31:23.567164 Delta: Yankee, sending you 3
+2024-10-14 17:31:23.567670 Hotel: Zulu, sending you 4
+2024-10-14 17:31:23.567984 Zulu: Bravo, sending you 1
+2024-10-14 17:31:23.568655 Yankee: Oscar, sending you 4
+2024-10-14 17:31:23.570676 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:23.571675 Victor: Oscar, sending you 6
+2024-10-14 17:31:23.572148 Hotel: Bravo, sending you 1
+2024-10-14 17:31:23.572685 Zulu: Hotel, sending you 16
+2024-10-14 17:31:23.573672 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:23.574680 Delta: Kilo, sending you 4
+2024-10-14 17:31:23.575336 Foxtrot: Zulu, sending you 2
+2024-10-14 17:31:23.575736 Hotel: Foxtrot, sending you 2
+2024-10-14 17:31:23.577681 Zulu: Foxtrot, sending you 2
+2024-10-14 17:31:23.578717 Kilo: Victor, sending you 2
+2024-10-14 17:31:23.579231 Delta: Oscar, sending you 2
+2024-10-14 17:31:23.582729 Foxtrot: Bravo and Hotel, sending you 3
+2024-10-14 17:31:23.583093 Golf: Yankee, Kilo and Delta, sending you 1
+2024-10-14 17:31:23.583582 Kilo: Delta, sending you 4
+2024-10-14 17:31:23.585241 Oscar: Sending you each 3
+2024-10-14 17:31:23.585932 Golf: Oscar, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 7
+ChatterBot Victor round 7
+ChatterBot Zulu round 7
+ChatterBot Bravo round 7
+ChatterBot Hotel round 7
+ChatterBot Kilo round 7
+ChatterBot Delta round 7
+ChatterBot Golf round 7
+ChatterBot Oscar round 7
+ChatterBot Foxtrot round 7
+2024-10-14 17:31:24.818652 Bravo: Victor and Foxtrot, sending you 2
+2024-10-14 17:31:24.824678 Yankee: Victor, sending you 2
+2024-10-14 17:31:24.828658 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:24.830668 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:24.831069 Zulu: Bravo, sending you 1
+2024-10-14 17:31:24.831674 Foxtrot: Zulu, sending you 2
+2024-10-14 17:31:24.832049 Delta: Yankee, sending you 3
+2024-10-14 17:31:24.833674 Yankee: Oscar, sending you 4
+2024-10-14 17:31:24.834677 Victor: Delta, sending you 1
+2024-10-14 17:31:24.835124 Zulu: Hotel, sending you 15
+2024-10-14 17:31:24.835493 Foxtrot: Bravo and Hotel, sending you 3
+2024-10-14 17:31:24.835994 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:24.836699 Oscar: Same as last round
+2024-10-14 17:31:24.837679 Zulu: Foxtrot, sending you 3
+2024-10-14 17:31:24.838682 Victor: Oscar, sending you 6
+2024-10-14 17:31:24.839138 Hotel: Zulu, sending you 4
+2024-10-14 17:31:24.839679 Delta: Kilo, sending you 4
+2024-10-14 17:31:24.840657 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:24.841687 Hotel: Foxtrot, sending you 3
+2024-10-14 17:31:24.843978 Kilo: Victor, sending you 2
+2024-10-14 17:31:24.844649 Delta: Oscar, sending you 2
+2024-10-14 17:31:24.846665 Golf: Yankee, Kilo and Delta, sending you 1
+2024-10-14 17:31:24.848698 Kilo: Delta, sending you 4
+2024-10-14 17:31:24.849666 Golf: Oscar, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 8
+ChatterBot Victor round 8
+ChatterBot Zulu round 8
+ChatterBot Bravo round 8
+ChatterBot Hotel round 8
+ChatterBot Kilo round 8
+ChatterBot Delta round 8
+ChatterBot Golf round 8
+ChatterBot Oscar round 8
+ChatterBot Foxtrot round 8
+2024-10-14 17:31:26.101841 Golf: We should add Victor
+2024-10-14 17:31:26.111422 Yankee: Yes
+2024-10-14 17:31:26.111573 Delta: Yes
+2024-10-14 17:31:26.111700 Kilo: Yes
+2024-10-14 17:31:26.111874 Oscar: Yes
+2024-10-14 17:31:26.151266 Victor: We should drop Delta
+2024-10-14 17:31:26.158278 Yankee: No
+2024-10-14 17:31:26.158389 Kilo: No
+2024-10-14 17:31:26.158471 Oscar: No
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Victor reevaluating
+2024-10-14 17:31:26.182221 Golf: Victor we want you to join our group
+ChatterBot Victor reevaluating
+2024-10-14 17:31:26.185344 Victor: No
+2024-10-14 17:31:26.198245 Bravo: Zulu, sending you 1
+2024-10-14 17:31:26.200653 Zulu: Bravo, sending you 1
+2024-10-14 17:31:26.200972 Foxtrot: Zulu, sending you 2
+2024-10-14 17:31:26.201979 Bravo: Hotel and Foxtrot, sending you 2
+2024-10-14 17:31:26.202681 Hotel: Zulu and Foxtrot, sending you 3
+2024-10-14 17:31:26.203178 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:26.204666 Zulu: Hotel, sending you 15
+2024-10-14 17:31:26.205668 Foxtrot: Bravo, sending you 3
+2024-10-14 17:31:26.206697 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:26.207686 Zulu: Foxtrot, sending you 3
+2024-10-14 17:31:26.210689 Foxtrot: Hotel, sending you 4
+2024-10-14 17:31:26.211680 Oscar: Same as last round
+2024-10-14 17:31:26.212756 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:26.217827 Kilo: Victor, sending you 2
+2024-10-14 17:31:26.220677 Golf: Sending you each 1
+2024-10-14 17:31:26.221133 Kilo: Delta, sending you 4
+2024-10-14 17:31:26.229668 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:26.233661 Victor: Delta, sending you 2
+2024-10-14 17:31:26.237714 Victor: Oscar, sending you 5
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Yankee round 9
+ChatterBot Victor round 9
+ChatterBot Zulu round 9
+ChatterBot Bravo round 9
+ChatterBot Hotel round 9
+ChatterBot Kilo round 9
+ChatterBot Delta round 9
+ChatterBot Golf round 9
+ChatterBot Oscar round 9
+ChatterBot Foxtrot round 9
+2024-10-14 17:31:27.445894 Victor: Yankee and Delta, sending you 2
+2024-10-14 17:31:27.448668 Bravo: Zulu, sending you 1
+2024-10-14 17:31:27.449681 Hotel: I was attacked by Yankee
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:27.464330 Hotel: I'm keeping this round to protect myself
+2024-10-14 17:31:27.465890 Hotel: Ow
+2024-10-14 17:31:27.466243 Victor: Kilo, sending you 3
+2024-10-14 17:31:27.466948 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:27.470691 Kilo: Victor, sending you 2
+2024-10-14 17:31:27.471195 Delta: Yankee, sending you 2
+2024-10-14 17:31:27.472403 Yankee: Victor, sending you 2
+2024-10-14 17:31:27.472846 Oscar: Same as last round
+2024-10-14 17:31:27.473327 Victor: Oscar, sending you 6
+2024-10-14 17:31:27.474209 Golf: Same as last round
+2024-10-14 17:31:27.474765 Kilo: Delta, sending you 4
+2024-10-14 17:31:27.475679 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:27.476895 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:27.478677 Yankee: Oscar, sending you 4
+2024-10-14 17:31:27.481725 Delta: Kilo, sending you 4
+2024-10-14 17:31:27.486671 Zulu: Bravo, sending you 1
+2024-10-14 17:31:27.487088 Delta: Oscar, sending you 3
+2024-10-14 17:31:27.489709 Zulu: Hotel, sending you 14
+2024-10-14 17:31:27.492675 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:27.494690 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:27.498688 Foxtrot: Bravo and Hotel, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 10
+ChatterBot Victor round 10
+ChatterBot Zulu round 10
+ChatterBot Bravo round 10
+ChatterBot Hotel round 10
+ChatterBot Kilo round 10
+ChatterBot Delta round 10
+ChatterBot Golf round 10
+ChatterBot Oscar round 10
+ChatterBot Foxtrot round 10
+2024-10-14 17:31:28.608674 Yankee: Victor, sending you 2
+2024-10-14 17:31:28.609658 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:28.613669 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:28.614693 Victor: Delta, sending you 2
+2024-10-14 17:31:28.616703 Zulu: Bravo, sending you 2
+2024-10-14 17:31:28.618700 Yankee: Oscar, sending you 4
+2024-10-14 17:31:28.619686 Victor: Oscar, sending you 5
+2024-10-14 17:31:28.621669 Zulu: Hotel, sending you 13
+2024-10-14 17:31:28.622726 Golf: Same as last round
+2024-10-14 17:31:28.623736 Bravo: Zulu, sending you 1
+2024-10-14 17:31:28.625708 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:28.626104 Delta: Yankee, sending you 2
+2024-10-14 17:31:28.627254 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:28.627739 Oscar: Same as last round
+2024-10-14 17:31:28.628679 Bravo: Hotel and Foxtrot, sending you 2
+2024-10-14 17:31:28.630681 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:28.632383 Kilo: Victor, sending you 2
+2024-10-14 17:31:28.633681 Delta: Kilo, sending you 4
+2024-10-14 17:31:28.637279 Kilo: Delta, sending you 4
+2024-10-14 17:31:28.637908 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:28.638310 Delta: Oscar, sending you 3
+2024-10-14 17:31:28.642653 Foxtrot: Bravo and Hotel, sending you 3
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 11
+ChatterBot Victor round 11
+ChatterBot Zulu round 11
+ChatterBot Bravo round 11
+ChatterBot Hotel round 11
+ChatterBot Kilo round 11
+ChatterBot Delta round 11
+ChatterBot Golf round 11
+ChatterBot Oscar round 11
+ChatterBot Foxtrot round 11
+2024-10-14 17:31:29.883074 Bravo: We should drop Zulu
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:29.897442 Hotel: No
+2024-10-14 17:31:29.897738 Foxtrot: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:29.941846 Foxtrot: We should drop Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:29.949667 Hotel: Yes
+2024-10-14 17:31:29.949874 Zulu: No
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:29.968182 Yankee: Victor, sending you 2
+2024-10-14 17:31:29.969185 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:29.974152 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:29.975434 Victor: Delta, sending you 2
+2024-10-14 17:31:29.976059 Kilo: Yankee and Oscar, sending you 3
+2024-10-14 17:31:29.977550 Delta: Yankee, sending you 2
+2024-10-14 17:31:29.979664 Yankee: Oscar, sending you 4
+2024-10-14 17:31:29.980699 Victor: Oscar, sending you 5
+2024-10-14 17:31:29.983645 Kilo: Victor, sending you 2
+2024-10-14 17:31:29.984406 Delta: Victor and Golf, sending you 1
+2024-10-14 17:31:29.986707 Oscar: Same as last round
+2024-10-14 17:31:29.988678 Kilo: Delta, sending you 4
+2024-10-14 17:31:29.989320 Delta: Kilo, sending you 4
+2024-10-14 17:31:29.990679 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:29.991256 Zulu: Yankee, sending you 19
+2024-10-14 17:31:29.997211 Golf: Same as last round
+2024-10-14 17:31:29.998153 Bravo: Hotel, sending you 3
+2024-10-14 17:31:29.999710 Delta: Oscar, sending you 3
+2024-10-14 17:31:30.000593 Foxtrot: Hotel, sending you 5
+2024-10-14 17:31:30.003016 Hotel: Sorry, I'm actually sending you 0
+2024-10-14 17:31:30.008513 Bravo: Foxtrot, sending you 2
+2024-10-14 17:31:30.012682 Hotel: Foxtrot, sending you 3
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Yankee round 12
+ChatterBot Victor round 12
+ChatterBot Zulu round 12
+ChatterBot Bravo round 12
+ChatterBot Hotel round 12
+2024-10-14 17:31:31.134259 Bravo: We should add Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:31.141748 Hotel: Yes
+2024-10-14 17:31:31.141927 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:31.154382 Foxtrot: We should add Bravo
+2024-10-14 17:31:31.154631 Hotel: We should add Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:31.161016 Hotel: Yes
+2024-10-14 17:31:31.161609 Zulu: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:31.167742 Zulu: Yes
+2024-10-14 17:31:31.167879 Foxtrot: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo round 12
+ChatterBot Delta round 12
+ChatterBot Golf round 12
+ChatterBot Oscar round 12
+ChatterBot Foxtrot round 12
+2024-10-14 17:31:31.201506 Bravo: Zulu we want you to join our group
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:31.204198 Zulu: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:31.212473 Foxtrot: We should add Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:31.217562 Hotel: Yes
+2024-10-14 17:31:31.217697 Zulu: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:31.241445 Hotel: Bravo we want you to join our group
+2024-10-14 17:31:31.243950 Bravo: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:31.251112 Foxtrot: Bravo we want you to join our group
+2024-10-14 17:31:31.253853 Bravo: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:31.261098 Delta: We should drop Golf
+2024-10-14 17:31:31.270510 Victor: Yes
+2024-10-14 17:31:31.270662 Kilo: Yes
+2024-10-14 17:31:31.270775 Yankee: Yes
+2024-10-14 17:31:31.270881 Oscar: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:31:31.308680 Bravo: Zulu, sending you 1
+2024-10-14 17:31:31.309181 Yankee: Victor, sending you 2
+2024-10-14 17:31:31.309783 Kilo: Sending you each 3
+2024-10-14 17:31:31.310416 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:31.311278 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:31.311886 Zulu: Bravo, sending you 2
+2024-10-14 17:31:31.312313 Bravo: Hotel and Foxtrot, sending you 2
+2024-10-14 17:31:31.312745 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:31.314658 Victor: Delta, sending you 2
+2024-10-14 17:31:31.315995 Golf: Delta, sending you 2
+2024-10-14 17:31:31.316655 Zulu: Hotel, sending you 13
+2024-10-14 17:31:31.317704 Yankee: Oscar, sending you 4
+2024-10-14 17:31:31.319657 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:31.320682 Victor: Oscar, sending you 5
+2024-10-14 17:31:31.328661 Oscar: Same as last round
+2024-10-14 17:31:31.329661 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:31.330667 Delta: Yankee and Oscar, sending you 3
+2024-10-14 17:31:31.334647 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:31.334976 Delta: Victor, sending you 1
+2024-10-14 17:31:31.335669 Hotel: Zulu and Bravo, sending you 2
+2024-10-14 17:31:31.338656 Delta: Kilo, sending you 4
+2024-10-14 17:31:31.339651 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:31.339997 Hotel: Foxtrot, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Yankee round 13
+ChatterBot Victor round 13
+ChatterBot Zulu round 13
+ChatterBot Bravo round 13
+ChatterBot Hotel round 13
+ChatterBot Kilo round 13
+ChatterBot Delta round 13
+ChatterBot Golf round 13
+ChatterBot Oscar round 13
+ChatterBot Foxtrot round 13
+2024-10-14 17:31:32.533671 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:32.537659 Victor: Delta, sending you 2
+2024-10-14 17:31:32.541703 Zulu: Bravo, sending you 2
+2024-10-14 17:31:32.542296 Victor: Oscar, sending you 5
+2024-10-14 17:31:32.545688 Yankee: Victor, sending you 2
+2024-10-14 17:31:32.546399 Zulu: Hotel, sending you 13
+2024-10-14 17:31:32.546897 Kilo: Same as last round
+2024-10-14 17:31:32.547638 Delta: Yankee and Oscar, sending you 3
+2024-10-14 17:31:32.548155 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:32.550682 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:32.551499 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:32.552190 Hotel: Zulu and Bravo, sending you 2
+2024-10-14 17:31:32.552898 Delta: Victor, sending you 1
+2024-10-14 17:31:32.553545 Bravo: Zulu, sending you 1
+2024-10-14 17:31:32.554076 Golf: Delta, sending you 2
+2024-10-14 17:31:32.554824 Oscar: Same as last round
+2024-10-14 17:31:32.555516 Yankee: Oscar, sending you 4
+2024-10-14 17:31:32.556132 Delta: Kilo, sending you 4
+2024-10-14 17:31:32.557671 Hotel: Foxtrot, sending you 3
+2024-10-14 17:31:32.558179 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:32.558574 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:32.563684 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:32.566671 Foxtrot: Hotel, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Yankee round 14
+ChatterBot Victor round 14
+ChatterBot Zulu round 14
+ChatterBot Bravo round 14
+ChatterBot Hotel round 14
+ChatterBot Kilo round 14
+ChatterBot Delta round 14
+ChatterBot Golf round 14
+ChatterBot Oscar round 14
+ChatterBot Foxtrot round 14
+2024-10-14 17:31:33.835673 Zulu: Bravo, sending you 3
+2024-10-14 17:31:33.838100 Victor: Yankee and Kilo, sending you 3
+2024-10-14 17:31:33.839040 Yankee: Victor, sending you 2
+2024-10-14 17:31:33.840662 Zulu: Hotel, sending you 12
+2024-10-14 17:31:33.842681 Victor: Delta, sending you 2
+2024-10-14 17:31:33.843832 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:33.844889 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:33.845931 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:33.846638 Hotel: Zulu and Bravo, sending you 2
+2024-10-14 17:31:33.847219 Kilo: Same as last round
+2024-10-14 17:31:33.848670 Victor: Oscar, sending you 5
+2024-10-14 17:31:33.850088 Delta: Victor, sending you 2
+2024-10-14 17:31:33.850785 Yankee: Oscar, sending you 4
+2024-10-14 17:31:33.851358 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:33.851772 Hotel: Foxtrot, sending you 3
+2024-10-14 17:31:33.852171 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:33.852728 Bravo: Zulu, sending you 1
+2024-10-14 17:31:33.855661 Oscar: Same as last round
+2024-10-14 17:31:33.856211 Golf: Delta, sending you 2
+2024-10-14 17:31:33.856732 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:33.857080 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:33.860709 Foxtrot: Hotel, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Yankee round 15
+ChatterBot Victor round 15
+ChatterBot Zulu round 15
+ChatterBot Bravo round 15
+ChatterBot Hotel round 15
+ChatterBot Kilo round 15
+ChatterBot Delta round 15
+ChatterBot Golf round 15
+ChatterBot Oscar round 15
+ChatterBot Foxtrot round 15
+2024-10-14 17:31:35.026686 Yankee: Victor, sending you 2
+2024-10-14 17:31:35.028209 Hotel: Zulu and Bravo, sending you 2
+2024-10-14 17:31:35.031698 Hotel: Foxtrot, sending you 3
+2024-10-14 17:31:35.032683 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:35.035671 Yankee: Oscar, sending you 4
+2024-10-14 17:31:35.037678 Bravo: Zulu, sending you 1
+2024-10-14 17:31:35.039686 Victor: Yankee, sending you 3
+2024-10-14 17:31:35.041707 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:35.043685 Oscar: Same as last round
+2024-10-14 17:31:35.045120 Victor: Kilo and Oscar, sending you 4
+2024-10-14 17:31:35.046206 Kilo: Same as last round
+2024-10-14 17:31:35.048160 Zulu: Bravo, sending you 3
+2024-10-14 17:31:35.048980 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:35.049890 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:35.051337 Victor: Delta, sending you 2
+2024-10-14 17:31:35.052696 Zulu: Hotel, sending you 12
+2024-10-14 17:31:35.053133 Delta: Victor, sending you 2
+2024-10-14 17:31:35.053791 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:35.055698 Golf: Delta, sending you 2
+2024-10-14 17:31:35.057670 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:35.058747 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:35.064112 Foxtrot: Hotel, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Yankee round 16
+ChatterBot Victor round 16
+ChatterBot Zulu round 16
+ChatterBot Bravo round 16
+ChatterBot Hotel round 16
+ChatterBot Kilo round 16
+ChatterBot Delta round 16
+ChatterBot Golf round 16
+ChatterBot Oscar round 16
+ChatterBot Foxtrot round 16
+2024-10-14 17:31:36.295686 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:36.298676 Bravo: Zulu, sending you 1
+2024-10-14 17:31:36.300220 Hotel: Zulu and Bravo, sending you 2
+2024-10-14 17:31:36.300974 Golf: Delta, sending you 2
+2024-10-14 17:31:36.302294 Oscar: Same as last round
+2024-10-14 17:31:36.303985 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:36.304723 Yankee: Victor, sending you 2
+2024-10-14 17:31:36.305845 Hotel: Foxtrot, sending you 3
+2024-10-14 17:31:36.308731 Yankee: Kilo and Delta, sending you 3
+2024-10-14 17:31:36.310957 Kilo: Same as last round
+2024-10-14 17:31:36.312400 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:36.313016 Victor: Yankee, sending you 3
+2024-10-14 17:31:36.314110 Zulu: Bravo, sending you 3
+2024-10-14 17:31:36.315483 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:36.316521 Yankee: Oscar, sending you 4
+2024-10-14 17:31:36.317797 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:36.318348 Victor: Kilo and Oscar, sending you 4
+2024-10-14 17:31:36.319813 Delta: Victor, sending you 2
+2024-10-14 17:31:36.320943 Zulu: Hotel, sending you 12
+2024-10-14 17:31:36.323368 Foxtrot: Hotel, sending you 4
+2024-10-14 17:31:36.324119 Victor: Delta, sending you 2
+2024-10-14 17:31:36.325682 Zulu: Foxtrot, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Yankee round 17
+ChatterBot Victor round 17
+ChatterBot Zulu round 17
+ChatterBot Bravo round 17
+ChatterBot Hotel round 17
+ChatterBot Kilo round 17
+ChatterBot Delta round 17
+ChatterBot Golf round 17
+ChatterBot Oscar round 17
+ChatterBot Foxtrot round 17
+2024-10-14 17:31:37.556697 Victor: Yankee, sending you 3
+2024-10-14 17:31:37.559680 Bravo: Zulu, sending you 1
+2024-10-14 17:31:37.561692 Hotel: Zulu, sending you 2
+2024-10-14 17:31:37.562229 Victor: Kilo and Oscar, sending you 4
+2024-10-14 17:31:37.564678 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:37.565554 Hotel: Bravo and Foxtrot, sending you 3
+2024-10-14 17:31:37.566207 Kilo: Same as last round
+2024-10-14 17:31:37.567132 Victor: Delta, sending you 2
+2024-10-14 17:31:37.568477 Yankee: Victor, Kilo and Delta, sending you 3
+2024-10-14 17:31:37.569243 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:37.569959 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:37.570925 Zulu: Bravo, sending you 3
+2024-10-14 17:31:37.571499 Oscar: Same as last round
+2024-10-14 17:31:37.572118 Yankee: Oscar, sending you 4
+2024-10-14 17:31:37.572987 Delta: Victor, sending you 2
+2024-10-14 17:31:37.574658 Golf: Delta, sending you 2
+2024-10-14 17:31:37.575372 Zulu: Hotel, sending you 12
+2024-10-14 17:31:37.576258 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:37.579686 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:37.581861 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:37.586669 Foxtrot: Hotel, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 18
+ChatterBot Victor round 18
+ChatterBot Zulu round 18
+ChatterBot Bravo round 18
+ChatterBot Hotel round 18
+ChatterBot Kilo round 18
+ChatterBot Delta round 18
+ChatterBot Golf round 18
+ChatterBot Oscar round 18
+ChatterBot Foxtrot round 18
+2024-10-14 17:31:38.757684 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:38.759061 Zulu: Bravo, sending you 3
+2024-10-14 17:31:38.760991 Yankee: Victor, Kilo and Delta, sending you 3
+2024-10-14 17:31:38.761831 Bravo: Zulu, sending you 1
+2024-10-14 17:31:38.762513 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:38.764054 Golf: Delta, sending you 2
+2024-10-14 17:31:38.765490 Zulu: Hotel, sending you 12
+2024-10-14 17:31:38.766047 Yankee: Oscar, sending you 4
+2024-10-14 17:31:38.767153 Kilo: Same as last round
+2024-10-14 17:31:38.768343 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:38.768832 Delta: Victor, sending you 2
+2024-10-14 17:31:38.769835 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:38.771684 Hotel: Zulu, sending you 2
+2024-10-14 17:31:38.772907 Victor: Yankee, sending you 3
+2024-10-14 17:31:38.773744 Oscar: Same as last round
+2024-10-14 17:31:38.775681 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:38.776692 Hotel: Bravo and Foxtrot, sending you 3
+2024-10-14 17:31:38.778689 Victor: Kilo and Oscar, sending you 4
+2024-10-14 17:31:38.779964 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:38.783957 Foxtrot: Hotel, sending you 4
+2024-10-14 17:31:38.784672 Victor: Delta, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 19
+ChatterBot Victor round 19
+ChatterBot Zulu round 19
+ChatterBot Bravo round 19
+ChatterBot Hotel round 19
+ChatterBot Kilo round 19
+ChatterBot Delta round 19
+ChatterBot Golf round 19
+ChatterBot Oscar round 19
+ChatterBot Foxtrot round 19
+2024-10-14 17:31:39.956702 Bravo: Zulu, sending you 1
+2024-10-14 17:31:39.957989 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:39.958709 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:39.960677 Victor: Yankee, Kilo and Delta, sending you 3
+2024-10-14 17:31:39.961816 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:39.963317 Zulu: Bravo, sending you 3
+2024-10-14 17:31:39.964322 Bravo: Hotel, sending you 4
+2024-10-14 17:31:39.965313 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:39.966904 Delta: Victor, sending you 2
+2024-10-14 17:31:39.968267 Oscar: Same as last round
+2024-10-14 17:31:39.969780 Yankee: Victor, Kilo and Delta, sending you 3
+2024-10-14 17:31:39.970846 Victor: Oscar, sending you 4
+2024-10-14 17:31:39.972218 Golf: Delta, sending you 2
+2024-10-14 17:31:39.973498 Hotel: Zulu and Bravo, sending you 2
+2024-10-14 17:31:39.974274 Zulu: Hotel, sending you 12
+2024-10-14 17:31:39.975708 Bravo: Foxtrot, sending you 3
+2024-10-14 17:31:39.976416 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:39.977270 Kilo: Same as last round
+2024-10-14 17:31:39.979220 Yankee: Oscar, sending you 4
+2024-10-14 17:31:39.980490 Hotel: Foxtrot, sending you 4
+2024-10-14 17:31:39.982017 Zulu: Foxtrot, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Yankee round 20
+ChatterBot Victor round 20
+ChatterBot Zulu round 20
+ChatterBot Bravo round 20
+ChatterBot Hotel round 20
+ChatterBot Kilo round 20
+ChatterBot Delta round 20
+ChatterBot Golf round 20
+ChatterBot Oscar round 20
+ChatterBot Foxtrot round 20
+2024-10-14 17:31:41.413246 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:41.415773 Kilo: Same as last round
+2024-10-14 17:31:41.417349 Yankee: Victor, Kilo and Delta, sending you 3
+2024-10-14 17:31:41.419134 Bravo: Zulu, sending you 1
+2024-10-14 17:31:41.420514 Zulu: Bravo, sending you 3
+2024-10-14 17:31:41.421876 Hotel: Zulu, sending you 2
+2024-10-14 17:31:41.423396 Victor: Yankee, Kilo and Delta, sending you 3
+2024-10-14 17:31:41.425743 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:41.427254 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:41.429803 Delta: Victor, sending you 2
+2024-10-14 17:31:41.432770 Yankee: Oscar, sending you 4
+2024-10-14 17:31:41.436008 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:41.437329 Zulu: Hotel, sending you 12
+2024-10-14 17:31:41.438966 Hotel: Bravo and Foxtrot, sending you 3
+2024-10-14 17:31:41.440591 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:41.442278 Victor: Oscar, sending you 4
+2024-10-14 17:31:41.444815 Golf: Delta, sending you 2
+2024-10-14 17:31:41.447746 Oscar: Yankee, Victor and Kilo, sending you 3
+2024-10-14 17:31:41.451602 Zulu: Foxtrot, sending you 4
+2024-10-14 17:31:41.452939 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:41.454764 Oscar: Delta, sending you 1
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 21
+ChatterBot Victor round 21
+ChatterBot Zulu round 21
+ChatterBot Bravo round 21
+ChatterBot Hotel round 21
+ChatterBot Kilo round 21
+ChatterBot Delta round 21
+ChatterBot Golf round 21
+ChatterBot Oscar round 21
+ChatterBot Foxtrot round 21
+2024-10-14 17:31:42.505419 Victor: We should drop Oscar
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:42.519514 Yankee: No
+2024-10-14 17:31:42.519758 Kilo: Yes
+2024-10-14 17:31:42.519923 Delta: No
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:42.568179 Delta: We should add Golf
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:42.591118 Victor: No
+2024-10-14 17:31:42.591360 Kilo: No
+2024-10-14 17:31:42.592209 Yankee: Yes
+2024-10-14 17:31:42.592499 Oscar: No
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:42.676673 Zulu: I was attacked by Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:42.693247 Zulu: I'm keeping this round to protect myself
+2024-10-14 17:31:42.695834 Zulu: Ow
+2024-10-14 17:31:42.700109 Victor: We should drop Kilo
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:42.713586 Yankee: No
+2024-10-14 17:31:42.713739 Delta: No
+2024-10-14 17:31:42.713869 Oscar: No
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:31:42.765817 Kilo: We should drop Victor
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:42.782397 Yankee: No
+2024-10-14 17:31:42.782608 Delta: No
+2024-10-14 17:31:42.782836 Oscar: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:31:42.837730 Golf: Yankee, Kilo and Oscar, sending you 1
+2024-10-14 17:31:42.843697 Golf: Delta, sending you 2
+2024-10-14 17:31:42.846470 Yankee: Golf we want you to join our group
+2024-10-14 17:31:42.851639 Golf: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:42.876428 Bravo: Zulu, sending you 1
+2024-10-14 17:31:42.879694 Kilo: Golf we want you to join our group
+2024-10-14 17:31:42.885716 Golf: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:42.919737 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:42.921265 Bravo: Hotel, sending you 4
+2024-10-14 17:31:42.922664 Hotel: Zulu, sending you 1
+2024-10-14 17:31:42.924775 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:42.940465 Bravo: Foxtrot, sending you 3
+2024-10-14 17:31:42.942443 Hotel: Bravo and Foxtrot, sending you 3
+2024-10-14 17:31:42.944844 Delta: Golf we want you to join our group
+2024-10-14 17:31:42.952678 Golf: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:42.986582 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:42.994087 Oscar: Golf we want you to join our group
+2024-10-14 17:31:43.000665 Golf: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:43.056673 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:43.059485 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:43.061669 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:43.066083 Delta: Victor, sending you 2
+2024-10-14 17:31:43.067341 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:43.073656 Yankee: Golf, sending you 1
+2024-10-14 17:31:43.075291 Kilo: Yankee, Delta and Oscar, sending you 3
+2024-10-14 17:31:43.079655 Kilo: Victor, sending you 2
+2024-10-14 17:31:43.084664 Kilo: Golf, sending you 1
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Yankee round 22
+ChatterBot Victor round 22
+ChatterBot Zulu round 22
+ChatterBot Bravo round 22
+ChatterBot Hotel round 22
+ChatterBot Kilo round 22
+ChatterBot Delta round 22
+ChatterBot Golf round 22
+ChatterBot Oscar round 22
+ChatterBot Foxtrot round 22
+2024-10-14 17:31:44.104797 Hotel: We should add Golf
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:44.117305 Zulu: No
+2024-10-14 17:31:44.117472 Bravo: No
+2024-10-14 17:31:44.117632 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:44.192681 Golf: Sending you each 1
+2024-10-14 17:31:44.195153 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:44.196290 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:44.196988 Zulu: Hotel, sending you 1
+2024-10-14 17:31:44.198083 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:44.198809 Kilo: Yankee, Delta and Oscar, sending you 3
+2024-10-14 17:31:44.199840 Yankee: Golf, sending you 1
+2024-10-14 17:31:44.201045 Bravo: Zulu, sending you 1
+2024-10-14 17:31:44.201564 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:44.202703 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:44.203987 Kilo: Victor, sending you 2
+2024-10-14 17:31:44.204937 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:44.206345 Bravo: Hotel, sending you 4
+2024-10-14 17:31:44.207116 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:44.209672 Kilo: Golf, sending you 1
+2024-10-14 17:31:44.210513 Bravo: Foxtrot, sending you 3
+2024-10-14 17:31:44.211100 Delta: Victor, sending you 2
+2024-10-14 17:31:44.214153 Hotel: Zulu, sending you 2
+2024-10-14 17:31:44.219691 Hotel: Bravo, sending you 3
+2024-10-14 17:31:44.224215 Hotel: Foxtrot, sending you 4
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 23
+ChatterBot Victor round 23
+ChatterBot Zulu round 23
+ChatterBot Bravo round 23
+ChatterBot Hotel round 23
+ChatterBot Kilo round 23
+ChatterBot Delta round 23
+ChatterBot Golf round 23
+ChatterBot Oscar round 23
+ChatterBot Foxtrot round 23
+2024-10-14 17:31:45.405049 Bravo: We should add Golf
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:45.415868 Zulu: Yes
+2024-10-14 17:31:45.416042 Hotel: Yes
+2024-10-14 17:31:45.416170 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:45.463265 Bravo: Golf we want you to join our group
+2024-10-14 17:31:45.467656 Golf: No
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:31:45.485668 Golf: Same as last round
+2024-10-14 17:31:45.488366 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:45.491436 Foxtrot: Golf we want you to join our group
+2024-10-14 17:31:45.498118 Golf: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:45.521473 Hotel: Golf we want you to join our group
+2024-10-14 17:31:45.526914 Golf: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:45.641038 Yankee: Golf, sending you 1
+2024-10-14 17:31:45.644801 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:45.646804 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:45.649564 Bravo: Zulu and Golf, sending you 1
+2024-10-14 17:31:45.654336 Zulu: Golf we want you to join our group
+2024-10-14 17:31:45.681702 Golf: No
+ChatterBot Zulu reevaluating
+2024-10-14 17:31:45.696657 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:45.698663 Delta: Victor, sending you 2
+2024-10-14 17:31:45.700326 Bravo: Hotel, sending you 3
+2024-10-14 17:31:45.702259 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:45.703788 Foxtrot: Zulu and Golf, sending you 1
+2024-10-14 17:31:45.705268 Hotel: Zulu, sending you 2
+2024-10-14 17:31:45.706300 Bravo: Foxtrot, sending you 2
+2024-10-14 17:31:45.709096 Hotel: Bravo, sending you 3
+2024-10-14 17:31:45.710103 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:45.712667 Hotel: Foxtrot, sending you 4
+2024-10-14 17:31:45.714025 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:45.727686 Zulu: Bravo, sending you 3
+2024-10-14 17:31:45.734675 Zulu: Hotel, sending you 11
+2024-10-14 17:31:45.741675 Zulu: Foxtrot, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Yankee round 24
+ChatterBot Victor round 24
+ChatterBot Zulu round 24
+ChatterBot Bravo round 24
+ChatterBot Hotel round 24
+ChatterBot Kilo round 24
+ChatterBot Delta round 24
+ChatterBot Golf round 24
+ChatterBot Oscar round 24
+ChatterBot Foxtrot round 24
+2024-10-14 17:31:46.722057 Golf: Yankee, Victor and Kilo, sending you 1
+2024-10-14 17:31:46.723885 Bravo: Zulu, sending you 1
+2024-10-14 17:31:46.726160 Foxtrot: Zulu and Golf, sending you 1
+2024-10-14 17:31:46.727324 Zulu: Bravo, sending you 3
+2024-10-14 17:31:46.728098 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:46.728977 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:46.730448 Golf: Oscar, sending you 2
+2024-10-14 17:31:46.731303 Foxtrot: Bravo, sending you 2
+2024-10-14 17:31:46.732441 Bravo: Hotel, sending you 3
+2024-10-14 17:31:46.732892 Zulu: Hotel, sending you 11
+2024-10-14 17:31:46.733353 Delta: Victor, sending you 2
+2024-10-14 17:31:46.734733 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:46.735475 Yankee: Golf, sending you 1
+2024-10-14 17:31:46.737041 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:46.740219 Hotel: Zulu, sending you 2
+2024-10-14 17:31:46.741674 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:46.742179 Bravo: Golf and Foxtrot, sending you 2
+2024-10-14 17:31:46.742685 Zulu: Foxtrot, sending you 5
+2024-10-14 17:31:46.744128 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:46.745055 Hotel: Bravo, sending you 3
+2024-10-14 17:31:46.748663 Hotel: Foxtrot, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Yankee round 25
+ChatterBot Victor round 25
+ChatterBot Zulu round 25
+ChatterBot Bravo round 25
+ChatterBot Hotel round 25
+ChatterBot Kilo round 25
+ChatterBot Delta round 25
+ChatterBot Golf round 25
+ChatterBot Oscar round 25
+ChatterBot Foxtrot round 25
+2024-10-14 17:31:47.861673 Delta: Yankee and Kilo, sending you 3
+2024-10-14 17:31:47.862815 Yankee: Kilo, Delta and Oscar, sending you 1
+2024-10-14 17:31:47.864347 Hotel: Zulu, sending you 2
+2024-10-14 17:31:47.865694 Foxtrot: Zulu, sending you 1
+2024-10-14 17:31:47.866701 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:47.867806 Delta: Victor and Oscar, sending you 2
+2024-10-14 17:31:47.869195 Golf: Yankee, Victor and Kilo, sending you 1
+2024-10-14 17:31:47.870090 Foxtrot: Bravo and Golf, sending you 2
+2024-10-14 17:31:47.870560 Hotel: Bravo, sending you 3
+2024-10-14 17:31:47.871067 Bravo: Zulu, sending you 1
+2024-10-14 17:31:47.871556 Zulu: Bravo, sending you 3
+2024-10-14 17:31:47.872703 Delta: Golf, sending you 1
+2024-10-14 17:31:47.875227 Golf: Oscar, sending you 2
+2024-10-14 17:31:47.877023 Foxtrot: Hotel, sending you 3
+2024-10-14 17:31:47.878482 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:47.880050 Hotel: Foxtrot, sending you 4
+2024-10-14 17:31:47.881482 Bravo: Hotel, sending you 3
+2024-10-14 17:31:47.882214 Zulu: Hotel, sending you 11
+2024-10-14 17:31:47.883680 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:47.885105 Bravo: Golf and Foxtrot, sending you 2
+2024-10-14 17:31:47.887681 Zulu: Foxtrot, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Yankee round 26
+ChatterBot Victor round 26
+ChatterBot Zulu round 26
+ChatterBot Bravo round 26
+ChatterBot Hotel round 26
+ChatterBot Kilo round 26
+ChatterBot Delta round 26
+ChatterBot Golf round 26
+ChatterBot Oscar round 26
+ChatterBot Foxtrot round 26
+2024-10-14 17:31:49.107719 Kilo: We should drop Oscar and Golf
+ChatterBot Victor reevaluating
+2024-10-14 17:31:49.122837 Victor: No
+2024-10-14 17:31:49.123017 Yankee: No
+2024-10-14 17:31:49.123214 Delta: No
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:49.160994 Foxtrot: We should drop Zulu
+2024-10-14 17:31:49.172895 Bravo: Yes
+2024-10-14 17:31:49.173046 Hotel: Yes
+2024-10-14 17:31:49.173179 Golf: Yes
+2024-10-14 17:31:49.209768 Zulu: I was attacked by Yankee
+2024-10-14 17:31:49.210079 Zulu: I'm keeping this round to protect myself
+2024-10-14 17:31:49.210365 Zulu: Ow
+2024-10-14 17:31:49.212924 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:49.215200 Oscar: Yankee, Delta and Golf, sending you 2
+2024-10-14 17:31:49.218385 Yankee: Golf, sending you 1
+2024-10-14 17:31:49.221393 Oscar: Victor and Kilo, sending you 3
+2024-10-14 17:31:49.228202 Golf: Yankee, Victor and Delta, sending you 1
+2024-10-14 17:31:49.231491 Hotel: Bravo and Foxtrot, sending you 5
+2024-10-14 17:31:49.233163 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:49.236803 Golf: Oscar, sending you 2
+2024-10-14 17:31:49.240653 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:49.245017 Foxtrot: Bravo and Golf, sending you 2
+2024-10-14 17:31:49.246585 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:49.248316 Delta: Victor, sending you 2
+2024-10-14 17:31:49.251662 Foxtrot: Hotel, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 27
+ChatterBot Victor round 27
+ChatterBot Zulu round 27
+ChatterBot Bravo round 27
+ChatterBot Hotel round 27
+ChatterBot Kilo round 27
+ChatterBot Delta round 27
+ChatterBot Golf round 27
+ChatterBot Oscar round 27
+ChatterBot Foxtrot round 27
+2024-10-14 17:31:50.367681 Delta: Yankee and Kilo, sending you 3
+2024-10-14 17:31:50.373475 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:50.375420 Hotel: Bravo and Foxtrot, sending you 5
+2024-10-14 17:31:50.377829 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:50.381796 Delta: Victor and Oscar, sending you 2
+2024-10-14 17:31:50.384915 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:50.387252 Yankee: Golf, sending you 1
+2024-10-14 17:31:50.389596 Golf: Yankee, Victor and Delta, sending you 1
+2024-10-14 17:31:50.392638 Foxtrot: Sending you each 2
+2024-10-14 17:31:50.393456 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:50.395171 Delta: Golf, sending you 1
+2024-10-14 17:31:50.397905 Golf: Oscar, sending you 2
+2024-10-14 17:31:50.399476 Oscar: Kilo, Delta and Golf, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Yankee round 28
+ChatterBot Victor round 28
+ChatterBot Zulu round 28
+ChatterBot Bravo round 28
+ChatterBot Hotel round 28
+ChatterBot Kilo round 28
+ChatterBot Delta round 28
+ChatterBot Golf round 28
+ChatterBot Oscar round 28
+ChatterBot Foxtrot round 28
+2024-10-14 17:31:51.701678 Bravo: Hotel and Foxtrot, sending you 3
+2024-10-14 17:31:51.704624 Delta: Yankee and Kilo, sending you 3
+2024-10-14 17:31:51.709812 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:51.713129 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:51.717057 Delta: Victor and Oscar, sending you 2
+2024-10-14 17:31:51.718277 Hotel: Bravo and Foxtrot, sending you 5
+2024-10-14 17:31:51.720297 Foxtrot: Bravo and Hotel, sending you 2
+2024-10-14 17:31:51.721592 Oscar: Kilo, Delta and Golf, sending you 2
+2024-10-14 17:31:51.723400 Yankee: Golf, sending you 1
+2024-10-14 17:31:51.724595 Golf: Yankee, Victor and Delta, sending you 1
+2024-10-14 17:31:51.726154 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:51.728626 Delta: Golf, sending you 1
+2024-10-14 17:31:51.730713 Golf: Oscar, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Yankee round 29
+ChatterBot Victor round 29
+ChatterBot Zulu round 29
+ChatterBot Bravo round 29
+ChatterBot Hotel round 29
+ChatterBot Kilo round 29
+ChatterBot Delta round 29
+ChatterBot Golf round 29
+ChatterBot Oscar round 29
+ChatterBot Foxtrot round 29
+2024-10-14 17:31:52.985108 Kilo: We should drop Yankee and Golf
+ChatterBot Victor reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:53.007424 Victor: No
+2024-10-14 17:31:53.007574 Delta: No
+2024-10-14 17:31:53.007722 Oscar: No
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+2024-10-14 17:31:53.046947 Bravo: Hotel, sending you 2
+2024-10-14 17:31:53.047920 Delta: Yankee and Kilo, sending you 3
+2024-10-14 17:31:53.052687 Bravo: Foxtrot, sending you 3
+2024-10-14 17:31:53.054693 Delta: Victor and Oscar, sending you 2
+2024-10-14 17:31:53.057262 Golf: Sending you each 1
+2024-10-14 17:31:53.060523 Foxtrot: Bravo and Hotel, sending you 2
+2024-10-14 17:31:53.061810 Yankee: Victor, Kilo, Delta and Oscar, sending you 3
+2024-10-14 17:31:53.066963 Delta: Golf, sending you 1
+2024-10-14 17:31:53.071498 Yankee: Golf, sending you 1
+2024-10-14 17:31:53.075307 Kilo: Yankee, Victor, Delta and Oscar, sending you 3
+2024-10-14 17:31:53.080375 Hotel: Bravo and Foxtrot, sending you 5
+2024-10-14 17:31:53.081910 Oscar: Yankee and Victor, sending you 3
+2024-10-14 17:31:53.092054 Oscar: Kilo, Delta and Golf, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 30
+ChatterBot Victor round 30
+ChatterBot Zulu round 30
+ChatterBot Bravo round 30
+ChatterBot Hotel round 30
+ChatterBot Kilo round 30
+ChatterBot Delta round 30
+ChatterBot Golf round 30
+ChatterBot Oscar round 30
+ChatterBot Foxtrot round 30
+2024-10-14 17:31:54.226839 Victor: We should drop Kilo and Golf
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:54.238280 Yankee: No
+2024-10-14 17:31:54.238435 Delta: No
+2024-10-14 17:31:54.238563 Oscar: Yes
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:31:54.274138 Kilo: We should drop Delta and Golf
+ChatterBot Victor reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:54.284826 Victor: No
+2024-10-14 17:31:54.284949 Yankee: No
+2024-10-14 17:31:54.285037 Oscar: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:54.314494 Delta: We should drop Golf
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:31:54.327998 Victor: Yes
+2024-10-14 17:31:54.328158 Kilo: Yes
+2024-10-14 17:31:54.328284 Yankee: Yes
+2024-10-14 17:31:54.328400 Oscar: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:54.476396 Bravo: Hotel, sending you 2
+2024-10-14 17:31:54.482663 Bravo: Foxtrot, sending you 3
+2024-10-14 17:31:54.483419 Golf: Yankee, Victor and Delta, sending you 1
+2024-10-14 17:31:54.487072 Hotel: Bravo and Foxtrot, sending you 5
+2024-10-14 17:31:54.488495 Kilo: We should drop Oscar and Golf
+ChatterBot Victor reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:54.501937 Victor: No
+2024-10-14 17:31:54.502237 Yankee: No
+2024-10-14 17:31:54.502451 Delta: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:31:54.540523 Foxtrot: Bravo and Hotel, sending you 2
+2024-10-14 17:31:54.541809 Golf: Oscar, sending you 2
+2024-10-14 17:31:54.559684 Delta: Yankee, Kilo and Oscar, sending you 3
+2024-10-14 17:31:54.564166 Oscar: Sending you each 4
+2024-10-14 17:31:54.567669 Delta: Victor, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions

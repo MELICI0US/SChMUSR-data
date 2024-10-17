@@ -1,0 +1,1554 @@
+ChatterBot Hotel round 1
+ChatterBot Delta round 1
+randomSelections Hotel: {Hotel, Lima} 
+2024-10-14 17:44:24.953001 Hotel: Friends?
+ChatterBot Quebec round 1
+ChatterBot Juliett round 1
+ChatterBot November round 1
+ChatterBot Whiskey round 1
+ChatterBot Foxtrot round 1
+ChatterBot X-ray round 1
+ChatterBot Lima round 1
+ChatterBot Lima reevaluating
+2024-10-14 17:44:24.959634 Lima: Yes
+ChatterBot Uniform round 1
+randomSelections Delta: {Delta, Uniform, Whiskey, X-ray} 
+2024-10-14 17:44:24.966703 Delta: Group up?
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:24.977393 Uniform: Yes
+2024-10-14 17:44:24.977563 Whiskey: Yes
+2024-10-14 17:44:24.978187 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Juliett: {Juliett, Foxtrot, November} 
+2024-10-14 17:44:25.004133 Juliett: Group up?
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:25.010701 Foxtrot: Yes
+2024-10-14 17:44:25.010861 November: Yes
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Quebec: {Quebec, Foxtrot, November, Delta} 
+2024-10-14 17:44:25.025202 Quebec: Friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:25.030411 Foxtrot: No
+2024-10-14 17:44:25.030599 November: No
+2024-10-14 17:44:25.030734 Delta: No
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:25.058674 Delta: Whiskey, sending you 3
+2024-10-14 17:44:25.061771 Juliett: November, sending you 16
+2024-10-14 17:44:25.062689 Delta: X-ray, sending you 2
+2024-10-14 17:44:25.063696 Hotel: Sending you 19
+2024-10-14 17:44:25.063912 Quebec: Delta, November and Foxtrot, sending you 4
+2024-10-14 17:44:25.064133 Foxtrot: Juliett, sending you 14
+2024-10-14 17:44:25.065667 X-ray: Delta, sending you 2
+2024-10-14 17:44:25.066713 Juliett: Foxtrot, sending you 3
+2024-10-14 17:44:25.067500 Delta: Uniform, sending you 4
+2024-10-14 17:44:25.067906 Foxtrot: November, sending you 5
+2024-10-14 17:44:25.068219 Whiskey: Delta, sending you 4
+2024-10-14 17:44:25.068694 X-ray: Whiskey and Uniform, sending you 6
+2024-10-14 17:44:25.070651 Whiskey: X-ray, sending you 3
+2024-10-14 17:44:25.071674 Uniform: Delta, sending you 3
+2024-10-14 17:44:25.074690 Uniform: Whiskey and X-ray, sending you 5
+2024-10-14 17:44:25.075699 Whiskey: Uniform, sending you 6
+2024-10-14 17:44:25.075969 November: Juliett, sending you 11
+2024-10-14 17:44:25.077187 Lima: Sending you 14
+2024-10-14 17:44:25.079652 November: Foxtrot, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 2
+ChatterBot Delta round 2
+ChatterBot Quebec round 2
+ChatterBot Juliett round 2
+ChatterBot November round 2
+ChatterBot Whiskey round 2
+ChatterBot Foxtrot round 2
+ChatterBot X-ray round 2
+ChatterBot Lima round 2
+ChatterBot Uniform round 2
+2024-10-14 17:44:26.593315 November: We should add Quebec
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:26.602491 Juliett: No
+2024-10-14 17:44:26.602680 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:26.622638 Whiskey: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:26.641924 Delta: Yes
+2024-10-14 17:44:26.642184 Uniform: Yes
+2024-10-14 17:44:26.642354 X-ray: No
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:26.710287 Quebec: We should replace Delta with Juliett
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:26.718565 November: Yes
+2024-10-14 17:44:26.718687 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:26.741294 November: Quebec we want you to join our group
+2024-10-14 17:44:26.745331 Quebec: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:26.758135 Whiskey: Quebec we want you to join our group
+2024-10-14 17:44:26.762023 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:26.777890 Quebec: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:26.782737 Juliett: Yes
+2024-10-14 17:44:26.794022 Foxtrot: Quebec we want you to join our group
+2024-10-14 17:44:26.798132 Quebec: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:26.810185 Uniform: Quebec we want you to join our group
+2024-10-14 17:44:26.814404 Quebec: No
+ChatterBot Delta reevaluating
+2024-10-14 17:44:26.830587 X-ray: Delta and Whiskey, sending you 4
+2024-10-14 17:44:26.857777 Lima: Same as last round
+2024-10-14 17:44:26.857997 Hotel: Same as last round
+2024-10-14 17:44:26.858173 X-ray: Uniform, sending you 6
+2024-10-14 17:44:26.858429 November: Quebec, sending you 2
+2024-10-14 17:44:26.858670 Whiskey: Delta, sending you 3
+2024-10-14 17:44:26.859309 Delta: Quebec we want you to join our group
+2024-10-14 17:44:26.863061 Quebec: No
+2024-10-14 17:44:26.877799 Juliett: Quebec we want you to join our group
+2024-10-14 17:44:26.881425 Quebec: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:26.892897 November: Juliett, sending you 9
+2024-10-14 17:44:26.893539 Whiskey: Quebec, sending you 2
+2024-10-14 17:44:26.908774 Quebec: Sending you each 4
+2024-10-14 17:44:26.909571 November: Foxtrot, sending you 3
+2024-10-14 17:44:26.909932 Foxtrot: Quebec, sending you 7
+2024-10-14 17:44:26.910306 Uniform: Delta, sending you 3
+2024-10-14 17:44:26.911293 Whiskey: X-ray and Uniform, sending you 4
+2024-10-14 17:44:27.018875 Foxtrot: Juliett and November, sending you 6
+2024-10-14 17:44:27.019772 Uniform: Quebec, sending you 2
+2024-10-14 17:44:27.020483 Delta: Quebec, X-ray and Uniform, sending you 2
+2024-10-14 17:44:27.047838 Uniform: Whiskey and X-ray, sending you 4
+2024-10-14 17:44:27.048296 Delta: Whiskey, sending you 3
+chatterbot Foxtrot submitting transactions
+2024-10-14 17:44:27.062185 Juliett: Quebec, sending you 4
+2024-10-14 17:44:27.069508 Juliett: November, sending you 7
+2024-10-14 17:44:27.073134 Juliett: Foxtrot, sending you 8
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Hotel round 3
+ChatterBot Delta round 3
+ChatterBot Quebec round 3
+ChatterBot Juliett round 3
+ChatterBot November round 3
+ChatterBot Whiskey round 3
+ChatterBot Foxtrot round 3
+ChatterBot X-ray round 3
+ChatterBot Lima round 3
+ChatterBot Uniform round 3
+2024-10-14 17:44:27.995032 Delta: We should drop Quebec
+2024-10-14 17:44:28.004181 Uniform: Yes
+2024-10-14 17:44:28.004347 Whiskey: No
+2024-10-14 17:44:28.004481 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:28.037102 Juliett: Quebec, sending you 4
+2024-10-14 17:44:28.037656 Quebec: Same as last round
+2024-10-14 17:44:28.039692 Hotel: Same as last round
+2024-10-14 17:44:28.040087 Juliett: November, sending you 8
+2024-10-14 17:44:28.043711 Juliett: Foxtrot, sending you 7
+2024-10-14 17:44:28.045932 November: Quebec, sending you 2
+2024-10-14 17:44:28.046676 X-ray: Delta, sending you 3
+2024-10-14 17:44:28.048702 Delta: Sending you each 3
+2024-10-14 17:44:28.049545 November: Juliett, sending you 8
+2024-10-14 17:44:28.051678 X-ray: Whiskey, sending you 5
+2024-10-14 17:44:28.052065 Uniform: Delta, sending you 3
+2024-10-14 17:44:28.053780 Whiskey: Hotel and Lima, sending you 1
+2024-10-14 17:44:28.054910 November: Foxtrot, sending you 4
+2024-10-14 17:44:28.055430 Lima: Same as last round
+2024-10-14 17:44:28.055718 Uniform: Quebec, sending you 2
+2024-10-14 17:44:28.056070 X-ray: Uniform, sending you 6
+2024-10-14 17:44:28.056790 Foxtrot: Quebec and November, sending you 6
+2024-10-14 17:44:28.058753 Whiskey: Delta, sending you 3
+2024-10-14 17:44:28.059698 Uniform: Whiskey and X-ray, sending you 4
+2024-10-14 17:44:28.061858 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:28.062405 Whiskey: X-ray and Uniform, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Hotel round 4
+ChatterBot Delta round 4
+ChatterBot Quebec round 4
+ChatterBot Juliett round 4
+ChatterBot November round 4
+ChatterBot Whiskey round 4
+ChatterBot Foxtrot round 4
+ChatterBot X-ray round 4
+ChatterBot Lima round 4
+ChatterBot Uniform round 4
+2024-10-14 17:44:29.208670 Juliett: Quebec, sending you 4
+2024-10-14 17:44:29.210026 Hotel: Same as last round
+2024-10-14 17:44:29.210326 Quebec: Same as last round
+2024-10-14 17:44:29.210686 Delta: Same as last round
+2024-10-14 17:44:29.212678 Juliett: November, sending you 8
+2024-10-14 17:44:29.217026 Juliett: Foxtrot, sending you 7
+2024-10-14 17:44:29.217412 November: Quebec, sending you 2
+2024-10-14 17:44:29.217778 Foxtrot: Quebec and November, sending you 6
+2024-10-14 17:44:29.222044 November: Juliett, sending you 8
+2024-10-14 17:44:29.222674 Whiskey: Hotel and Lima, sending you 1
+2024-10-14 17:44:29.223684 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:29.226691 November: Foxtrot, sending you 4
+2024-10-14 17:44:29.227336 Lima: Same as last round
+2024-10-14 17:44:29.228154 Whiskey: Delta and Uniform, sending you 3
+2024-10-14 17:44:29.228679 X-ray: Delta, sending you 4
+2024-10-14 17:44:29.231271 Whiskey: X-ray, sending you 5
+2024-10-14 17:44:29.233007 Uniform: Hotel, sending you 2
+2024-10-14 17:44:29.233516 X-ray: Whiskey and Uniform, sending you 5
+2024-10-14 17:44:29.235927 Uniform: Delta and Whiskey, sending you 3
+2024-10-14 17:44:29.240851 Uniform: X-ray, sending you 4
+2024-10-14 17:44:29.245675 Uniform: Lima, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 5
+ChatterBot Delta round 5
+ChatterBot Quebec round 5
+ChatterBot Juliett round 5
+ChatterBot November round 5
+ChatterBot Whiskey round 5
+ChatterBot Foxtrot round 5
+ChatterBot X-ray round 5
+ChatterBot Lima round 5
+ChatterBot Uniform round 5
+2024-10-14 17:44:30.266775 Uniform: We should drop Hotel and Lima
+2024-10-14 17:44:30.276310 Delta: Yes
+2024-10-14 17:44:30.276473 Whiskey: No
+2024-10-14 17:44:30.276601 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:30.305766 Juliett: Quebec, sending you 4
+2024-10-14 17:44:30.306046 Hotel: Same as last round
+2024-10-14 17:44:30.309663 Juliett: November, sending you 8
+2024-10-14 17:44:30.310060 X-ray: Delta, sending you 4
+2024-10-14 17:44:30.310666 November: Quebec, sending you 3
+2024-10-14 17:44:30.311009 Quebec: Same as last round
+2024-10-14 17:44:30.311271 Delta: Same as last round
+2024-10-14 17:44:30.311495 Foxtrot: Quebec and November, sending you 6
+2024-10-14 17:44:30.311719 Lima: Same as last round
+2024-10-14 17:44:30.312657 X-ray: Whiskey and Uniform, sending you 5
+2024-10-14 17:44:30.313849 Juliett: Foxtrot, sending you 7
+2024-10-14 17:44:30.314172 November: Juliett, sending you 7
+2024-10-14 17:44:30.314672 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:30.317671 November: Foxtrot, sending you 4
+2024-10-14 17:44:30.332655 Whiskey: Delta and Uniform, sending you 2
+2024-10-14 17:44:30.335872 Whiskey: X-ray, sending you 3
+2024-10-14 17:44:30.339661 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:30.342664 Uniform: X-ray, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 6
+ChatterBot Delta round 6
+ChatterBot Quebec round 6
+ChatterBot Juliett round 6
+ChatterBot November round 6
+ChatterBot Whiskey round 6
+ChatterBot Foxtrot round 6
+ChatterBot X-ray round 6
+ChatterBot Lima round 6
+ChatterBot Uniform round 6
+2024-10-14 17:44:31.493421 Whiskey: We should add Foxtrot
+2024-10-14 17:44:31.501822 Delta: No
+2024-10-14 17:44:31.502002 Uniform: No
+2024-10-14 17:44:31.502138 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:31.545836 Whiskey: We should add November
+2024-10-14 17:44:31.552474 Delta: No
+2024-10-14 17:44:31.552609 Uniform: No
+2024-10-14 17:44:31.552735 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:31.573503 Delta: Same as last round
+2024-10-14 17:44:31.576700 Quebec: Sending you each 3
+2024-10-14 17:44:31.578721 Hotel: Same as last round
+2024-10-14 17:44:31.583663 X-ray: Delta, sending you 4
+2024-10-14 17:44:31.584672 Juliett: Quebec, sending you 4
+2024-10-14 17:44:31.586700 Foxtrot: Quebec and November, sending you 5
+2024-10-14 17:44:31.588665 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:31.588968 X-ray: Whiskey and Uniform, sending you 5
+2024-10-14 17:44:31.589723 Juliett: November, sending you 7
+2024-10-14 17:44:31.590262 Foxtrot: Juliett, sending you 6
+2024-10-14 17:44:31.592695 Uniform: X-ray, sending you 5
+2024-10-14 17:44:31.593480 November: Quebec, sending you 3
+2024-10-14 17:44:31.594275 Lima: Same as last round
+2024-10-14 17:44:31.594795 Juliett: Foxtrot, sending you 5
+2024-10-14 17:44:31.595483 Juliett: I was attacked by Whiskey
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:31.620937 Juliett: Ow
+2024-10-14 17:44:31.645682 Quebec: Same as last round
+2024-10-14 17:44:31.646699 Foxtrot: Quebec and November, sending you 6
+2024-10-14 17:44:31.651657 Foxtrot: Juliett, sending you 7
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 7
+ChatterBot Delta round 7
+ChatterBot Quebec round 7
+ChatterBot Juliett round 7
+ChatterBot November round 7
+ChatterBot Whiskey round 7
+ChatterBot Foxtrot round 7
+ChatterBot X-ray round 7
+ChatterBot Lima round 7
+ChatterBot Uniform round 7
+2024-10-14 17:44:32.869918 Whiskey: We should add Quebec
+2024-10-14 17:44:32.878499 Delta: No
+2024-10-14 17:44:32.878657 Uniform: No
+2024-10-14 17:44:32.878822 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:32.910931 Hotel: Same as last round
+2024-10-14 17:44:32.912681 Quebec: Juliett and November, sending you 3
+2024-10-14 17:44:32.913704 Whiskey: Quebec we want you to join our group
+2024-10-14 17:44:32.917343 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:32.929998 Quebec: Foxtrot, sending you 4
+2024-10-14 17:44:32.930322 X-ray: Delta, sending you 4
+2024-10-14 17:44:32.930877 Foxtrot: Quebec and November, sending you 5
+2024-10-14 17:44:32.933663 X-ray: Whiskey and Uniform, sending you 5
+2024-10-14 17:44:32.934017 Juliett: Quebec, sending you 4
+2024-10-14 17:44:32.934299 Lima: Same as last round
+2024-10-14 17:44:32.934684 Delta: Same as last round
+2024-10-14 17:44:32.935673 Foxtrot: Juliett, sending you 6
+2024-10-14 17:44:32.936678 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:32.938724 Juliett: November and Foxtrot, sending you 5
+2024-10-14 17:44:32.940713 Uniform: X-ray, sending you 5
+2024-10-14 17:44:32.956663 Whiskey: Delta, Quebec, X-ray and Uniform, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Hotel round 8
+ChatterBot Delta round 8
+ChatterBot Quebec round 8
+ChatterBot Juliett round 8
+ChatterBot November round 8
+ChatterBot Whiskey round 8
+ChatterBot Foxtrot round 8
+ChatterBot X-ray round 8
+ChatterBot Lima round 8
+ChatterBot Uniform round 8
+2024-10-14 17:44:34.121821 Whiskey: We should drop Quebec
+2024-10-14 17:44:34.135204 Delta: Yes
+2024-10-14 17:44:34.135428 Uniform: Yes
+2024-10-14 17:44:34.135611 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:34.169675 Juliett: Quebec, sending you 3
+2024-10-14 17:44:34.170693 Quebec: Juliett and Foxtrot, sending you 3
+2024-10-14 17:44:34.171287 Hotel: Sending you 1
+2024-10-14 17:44:34.171528 Hotel: I was attacked by Whiskey
+ChatterBot Lima reevaluating
+2024-10-14 17:44:34.175039 Hotel: Ow
+2024-10-14 17:44:34.175457 Lima: We should add Delta
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:34.179059 Hotel: Yes
+ChatterBot Lima reevaluating
+2024-10-14 17:44:34.182103 Foxtrot: Quebec, sending you 4
+2024-10-14 17:44:34.182553 Delta: Same as last round
+2024-10-14 17:44:34.183350 X-ray: Delta and Whiskey, sending you 4
+2024-10-14 17:44:34.183788 Juliett: November and Foxtrot, sending you 4
+2024-10-14 17:44:34.184108 Quebec: November, sending you 2
+2024-10-14 17:44:34.184802 Foxtrot: Juliett, sending you 6
+2024-10-14 17:44:34.187667 X-ray: Uniform, sending you 6
+2024-10-14 17:44:34.188689 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:34.189267 Foxtrot: November, sending you 5
+2024-10-14 17:44:34.192746 Lima: Delta we want you to join our group
+2024-10-14 17:44:34.195347 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:34.201606 Uniform: X-ray, sending you 5
+2024-10-14 17:44:34.215695 Hotel: Sorry, I'm actually sending you 0
+2024-10-14 17:44:34.232666 Lima: Hotel, sending you 6
+2024-10-14 17:44:34.235658 Lima: Delta, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Hotel round 9
+ChatterBot Delta round 9
+ChatterBot Quebec round 9
+ChatterBot Juliett round 9
+ChatterBot November round 9
+ChatterBot Whiskey round 9
+ChatterBot Foxtrot round 9
+ChatterBot X-ray round 9
+ChatterBot Lima round 9
+ChatterBot Uniform round 9
+2024-10-14 17:44:35.384815 Whiskey: We should drop Quebec
+2024-10-14 17:44:35.391190 Delta: Yes
+2024-10-14 17:44:35.391330 Uniform: Yes
+2024-10-14 17:44:35.391438 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:35.414668 Juliett: Quebec, sending you 5
+2024-10-14 17:44:35.416663 Delta: Same as last round
+2024-10-14 17:44:35.417683 Juliett: November, sending you 8
+2024-10-14 17:44:35.421921 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:35.422663 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:35.423654 Foxtrot: Quebec and November, sending you 6
+2024-10-14 17:44:35.425659 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:35.426037 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:35.426663 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:35.428673 Uniform: X-ray, sending you 5
+2024-10-14 17:44:35.434678 Lima: Hotel, sending you 10
+2024-10-14 17:44:35.435980 X-ray: Delta and Whiskey, sending you 4
+2024-10-14 17:44:35.438877 X-ray: Uniform, sending you 6
+2024-10-14 17:44:35.439673 Lima: Delta, sending you 4
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 10
+ChatterBot Delta round 10
+ChatterBot Quebec round 10
+ChatterBot Juliett round 10
+ChatterBot November round 10
+ChatterBot Whiskey round 10
+ChatterBot Foxtrot round 10
+ChatterBot X-ray round 10
+ChatterBot Lima round 10
+ChatterBot Uniform round 10
+2024-10-14 17:44:36.641155 Whiskey: We should replace Quebec with November
+2024-10-14 17:44:36.650029 Delta: No
+2024-10-14 17:44:36.650248 Uniform: No
+2024-10-14 17:44:36.650438 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:36.686668 Delta: Same as last round
+2024-10-14 17:44:36.691819 Whiskey: We should drop Quebec
+2024-10-14 17:44:36.699656 Delta: Yes
+2024-10-14 17:44:36.699837 Uniform: Yes
+2024-10-14 17:44:36.699966 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:36.727683 Foxtrot: Quebec and November, sending you 4
+2024-10-14 17:44:36.728254 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:36.729667 Lima: Hotel, sending you 10
+2024-10-14 17:44:36.729989 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:36.730384 Juliett: Quebec, sending you 5
+2024-10-14 17:44:36.730724 X-ray: Delta, sending you 5
+2024-10-14 17:44:36.731828 Foxtrot: Juliett, sending you 5
+2024-10-14 17:44:36.732185 Uniform: X-ray, sending you 5
+2024-10-14 17:44:36.732723 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:36.734660 Lima: Delta, sending you 4
+2024-10-14 17:44:36.735656 Juliett: November, sending you 8
+2024-10-14 17:44:36.736138 X-ray: Whiskey, sending you 3
+2024-10-14 17:44:36.739694 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:36.740212 X-ray: Uniform, sending you 6
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 11
+ChatterBot Delta round 11
+ChatterBot Quebec round 11
+ChatterBot Juliett round 11
+ChatterBot November round 11
+ChatterBot Whiskey round 11
+ChatterBot Foxtrot round 11
+ChatterBot X-ray round 11
+ChatterBot Lima round 11
+ChatterBot Uniform round 11
+2024-10-14 17:44:37.817819 Whiskey: We should replace Quebec with Lima
+2024-10-14 17:44:37.831140 Delta: No
+2024-10-14 17:44:37.831408 Uniform: No
+2024-10-14 17:44:37.831765 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:37.903777 Whiskey: Lima we want you to join our group
+2024-10-14 17:44:37.909809 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:44:37.933654 Juliett: Quebec, sending you 5
+2024-10-14 17:44:37.934185 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:37.934696 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:37.935006 Lima: Hotel, sending you 14
+2024-10-14 17:44:37.935232 X-ray: Delta, sending you 5
+2024-10-14 17:44:37.938656 Juliett: November, sending you 8
+2024-10-14 17:44:37.939023 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:37.939420 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:37.940073 Whiskey: We should drop Quebec
+ChatterBot Delta reevaluating
+2024-10-14 17:44:37.948606 Delta: Yes
+2024-10-14 17:44:37.948747 Uniform: Yes
+2024-10-14 17:44:37.948899 X-ray: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:37.976387 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:37.976898 X-ray: Whiskey, sending you 3
+2024-10-14 17:44:37.977775 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:37.978219 Foxtrot: November, sending you 6
+2024-10-14 17:44:37.978640 Foxtrot: I was attacked by Whiskey
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:37.988698 Foxtrot: Ow
+2024-10-14 17:44:37.989383 Uniform: X-ray, sending you 5
+2024-10-14 17:44:37.989754 X-ray: Uniform, sending you 6
+2024-10-14 17:44:38.001673 Delta: Same as last round
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Hotel round 12
+ChatterBot Delta round 12
+ChatterBot Quebec round 12
+ChatterBot Juliett round 12
+ChatterBot November round 12
+ChatterBot Whiskey round 12
+ChatterBot Foxtrot round 12
+ChatterBot X-ray round 12
+ChatterBot Lima round 12
+ChatterBot Uniform round 12
+2024-10-14 17:44:39.062762 Lima: We should group up
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:39.095563 Whiskey: No
+2024-10-14 17:44:39.095806 Delta: No
+2024-10-14 17:44:39.096005 X-ray: No
+2024-10-14 17:44:39.096191 Uniform: Yes
+2024-10-14 17:44:39.096437 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.205119 Hotel: We should add Uniform
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.210460 X-ray: We should add Lima
+2024-10-14 17:44:39.210594 Lima: Yes
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:39.225999 Delta: Yes
+2024-10-14 17:44:39.226129 Uniform: Yes
+2024-10-14 17:44:39.226231 Whiskey: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:39.280508 Whiskey: We should replace Quebec with Lima
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:39.290840 Delta: Yes
+2024-10-14 17:44:39.290991 Uniform: Yes
+2024-10-14 17:44:39.291122 X-ray: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:39.325673 Juliett: Quebec, sending you 5
+2024-10-14 17:44:39.326697 Whiskey: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.333425 Lima: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:39.354156 Delta: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.359721 Lima: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:39.378634 X-ray: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.384361 Lima: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:39.401172 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:39.402135 Hotel: Uniform we want you to join our group
+2024-10-14 17:44:39.405089 Uniform: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.411892 Juliett: November, sending you 8
+2024-10-14 17:44:39.412259 Uniform: Hotel and Lima we want you to join our group
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:39.420216 Hotel: No
+2024-10-14 17:44:39.420385 Lima: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:39.453417 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:39.453910 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:39.456659 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:39.461711 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:39.465694 Foxtrot: November, sending you 6
+2024-10-14 17:44:39.466975 Uniform: Delta and Whiskey, sending you 4
+2024-10-14 17:44:39.467524 Hotel: Sending you 11
+2024-10-14 17:44:39.469667 Delta: Whiskey, Lima and Uniform, sending you 2
+2024-10-14 17:44:39.470221 X-ray: Delta, sending you 4
+2024-10-14 17:44:39.470743 Uniform: X-ray, sending you 5
+2024-10-14 17:44:39.474184 Delta: X-ray, sending you 3
+2024-10-14 17:44:39.474841 X-ray: Whiskey, sending you 3
+2024-10-14 17:44:39.475340 Lima: Hotel, sending you 8
+2024-10-14 17:44:39.477696 X-ray: Lima, sending you 1
+2024-10-14 17:44:39.479678 Lima: Whiskey, X-ray and Uniform, sending you 2
+2024-10-14 17:44:39.483657 X-ray: Uniform, sending you 6
+2024-10-14 17:44:39.490690 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 17:44:39.494857 Whiskey: X-ray, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Hotel round 13
+ChatterBot Delta round 13
+ChatterBot Quebec round 13
+ChatterBot Juliett round 13
+ChatterBot November round 13
+ChatterBot Whiskey round 13
+ChatterBot Foxtrot round 13
+ChatterBot X-ray round 13
+ChatterBot Lima round 13
+ChatterBot Uniform round 13
+2024-10-14 17:44:40.361675 Hotel: Sending you 13
+2024-10-14 17:44:40.362710 Delta: Whiskey, Lima and Uniform, sending you 2
+2024-10-14 17:44:40.367689 Delta: X-ray, sending you 3
+2024-10-14 17:44:40.368679 Lima: Hotel, sending you 7
+2024-10-14 17:44:40.370289 Juliett: Quebec and Foxtrot, sending you 6
+2024-10-14 17:44:40.371175 Quebec: Sending you each 1
+2024-10-14 17:44:40.372457 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:40.373916 Whiskey: Delta, X-ray and Uniform, sending you 4
+2024-10-14 17:44:40.375045 Lima: Delta, Whiskey and X-ray, sending you 2
+2024-10-14 17:44:40.375823 Juliett: November, sending you 7
+2024-10-14 17:44:40.378677 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:40.380631 Uniform: Delta and Whiskey, sending you 3
+2024-10-14 17:44:40.381568 Lima: Uniform, sending you 1
+2024-10-14 17:44:40.383594 X-ray: Delta, sending you 4
+2024-10-14 17:44:40.384504 Foxtrot: November, sending you 6
+2024-10-14 17:44:40.386408 Uniform: X-ray, sending you 5
+2024-10-14 17:44:40.387292 X-ray: Whiskey, sending you 3
+2024-10-14 17:44:40.390686 X-ray: Lima, sending you 2
+2024-10-14 17:44:40.391962 Uniform: Lima, sending you 2
+2024-10-14 17:44:40.394671 X-ray: Uniform, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 14
+ChatterBot Delta round 14
+ChatterBot Quebec round 14
+ChatterBot Juliett round 14
+ChatterBot November round 14
+ChatterBot Whiskey round 14
+ChatterBot Foxtrot round 14
+ChatterBot X-ray round 14
+ChatterBot Lima round 14
+ChatterBot Uniform round 14
+2024-10-14 17:44:41.460668 X-ray: Delta and Whiskey, sending you 4
+2024-10-14 17:44:41.461666 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:41.462237 Uniform: Delta and Whiskey, sending you 3
+2024-10-14 17:44:41.462822 Hotel: Sending you 14
+2024-10-14 17:44:41.463240 Juliett: Quebec, sending you 2
+2024-10-14 17:44:41.463997 Delta: Whiskey, Lima and Uniform, sending you 2
+2024-10-14 17:44:41.464644 Lima: Hotel, sending you 7
+2024-10-14 17:44:41.465130 X-ray: Lima, sending you 1
+2024-10-14 17:44:41.465695 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:41.466679 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:41.467375 Juliett: November and Foxtrot, sending you 3
+2024-10-14 17:44:41.467902 Uniform: X-ray, sending you 5
+2024-10-14 17:44:41.468482 Delta: X-ray, sending you 3
+2024-10-14 17:44:41.468878 Lima: Delta, X-ray and Uniform, sending you 2
+2024-10-14 17:44:41.469310 Whiskey: Delta, X-ray and Uniform, sending you 2
+2024-10-14 17:44:41.469670 Whiskey: I was attacked by Quebec
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:41.484927 Whiskey: Ow
+2024-10-14 17:44:41.485881 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:41.490686 Foxtrot: November, sending you 6
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot November submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 15
+ChatterBot Delta round 15
+ChatterBot Quebec round 15
+ChatterBot Juliett round 15
+ChatterBot November round 15
+ChatterBot Whiskey round 15
+ChatterBot Foxtrot round 15
+ChatterBot X-ray round 15
+ChatterBot Lima round 15
+ChatterBot Uniform round 15
+2024-10-14 17:44:42.746686 Hotel: Sending you 15
+2024-10-14 17:44:42.747749 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:42.752172 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:42.760675 Juliett: Quebec, sending you 4
+2024-10-14 17:44:42.762155 Delta: Whiskey, Lima and Uniform, sending you 2
+2024-10-14 17:44:42.764653 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:42.765993 Whiskey: Delta, X-ray and Uniform, sending you 2
+2024-10-14 17:44:42.766432 Whiskey: I was attacked by Juliett
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:42.778992 Whiskey: Ow
+2024-10-14 17:44:42.780158 Juliett: November, sending you 7
+2024-10-14 17:44:42.780644 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:42.784701 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:42.785250 Juliett: I was attacked by Whiskey
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:42.796395 Juliett: Ow
+2024-10-14 17:44:42.801667 Uniform: Delta, Whiskey and Lima, sending you 3
+2024-10-14 17:44:42.806694 Uniform: X-ray, sending you 4
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 16
+ChatterBot Delta round 16
+ChatterBot Quebec round 16
+ChatterBot Juliett round 16
+ChatterBot November round 16
+ChatterBot Whiskey round 16
+ChatterBot Foxtrot round 16
+ChatterBot X-ray round 16
+ChatterBot Lima round 16
+ChatterBot Uniform round 16
+2024-10-14 17:44:43.991659 Whiskey: We should add Hotel
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:44.011349 Delta: Yes
+2024-10-14 17:44:44.011482 X-ray: No
+2024-10-14 17:44:44.011593 Uniform: Yes
+2024-10-14 17:44:44.011712 Lima: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:44.083670 Juliett: Quebec, sending you 5
+2024-10-14 17:44:44.085672 Hotel: Same as last round
+2024-10-14 17:44:44.086679 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:44.089675 Juliett: November, sending you 7
+2024-10-14 17:44:44.090131 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:44.092648 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:44.093661 Whiskey: Delta, X-ray and Uniform, sending you 4
+2024-10-14 17:44:44.094201 Foxtrot: November, sending you 6
+2024-10-14 17:44:44.094720 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:44.097866 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:44.098707 Delta: Whiskey, Lima and Uniform, sending you 2
+2024-10-14 17:44:44.101677 Delta: X-ray, sending you 3
+2024-10-14 17:44:44.102659 Uniform: Delta, Whiskey and Lima, sending you 3
+2024-10-14 17:44:44.106734 Uniform: X-ray, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 17
+ChatterBot Delta round 17
+ChatterBot Quebec round 17
+ChatterBot Juliett round 17
+ChatterBot November round 17
+ChatterBot Whiskey round 17
+ChatterBot Foxtrot round 17
+ChatterBot X-ray round 17
+2024-10-14 17:44:45.350765 Delta: We should add Hotel
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:45.364325 Whiskey: Yes
+2024-10-14 17:44:45.364462 X-ray: Yes
+2024-10-14 17:44:45.364596 Uniform: Yes
+2024-10-14 17:44:45.364705 Lima: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima round 17
+ChatterBot Uniform round 17
+2024-10-14 17:44:45.437875 Delta: Hotel we want you to join our group
+2024-10-14 17:44:45.442250 Hotel: No
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:45.556444 Whiskey: Hotel we want you to join our group
+2024-10-14 17:44:45.569483 Hotel: No
+2024-10-14 17:44:45.589573 Hotel: Sending you 16
+2024-10-14 17:44:45.590089 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:45.593653 Juliett: Quebec, sending you 5
+2024-10-14 17:44:45.594578 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:45.595472 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:45.596668 Delta: Hotel, sending you 1
+2024-10-14 17:44:45.597411 Juliett: November, sending you 7
+2024-10-14 17:44:45.599076 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:45.600722 Delta: Whiskey, X-ray, Lima and Uniform, sending you 2
+2024-10-14 17:44:45.602777 Juliett: Foxtrot, sending you 6
+2024-10-14 17:44:45.604306 Foxtrot: November, sending you 6
+2024-10-14 17:44:45.607678 Whiskey: Hotel, sending you 1
+2024-10-14 17:44:45.608998 Uniform: Delta, Whiskey and Lima, sending you 3
+2024-10-14 17:44:45.611693 Whiskey: Delta and X-ray, sending you 3
+2024-10-14 17:44:45.613667 Uniform: X-ray, sending you 4
+2024-10-14 17:44:45.617890 Whiskey: Lima, sending you 2
+2024-10-14 17:44:45.621674 Whiskey: Uniform, sending you 4
+chatterbot Juliett submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 18
+ChatterBot Delta round 18
+ChatterBot Quebec round 18
+ChatterBot Juliett round 18
+ChatterBot November round 18
+ChatterBot Whiskey round 18
+ChatterBot Foxtrot round 18
+ChatterBot X-ray round 18
+ChatterBot Lima round 18
+ChatterBot Uniform round 18
+2024-10-14 17:44:46.489479 X-ray: We should add Hotel
+2024-10-14 17:44:46.502284 Whiskey: Yes
+2024-10-14 17:44:46.502427 Delta: Yes
+2024-10-14 17:44:46.502533 Uniform: Yes
+2024-10-14 17:44:46.502645 Lima: Yes
+2024-10-14 17:44:46.554183 X-ray: Hotel we want you to join our group
+2024-10-14 17:44:46.560511 Hotel: No
+2024-10-14 17:44:46.575360 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:46.578660 Hotel: Sending you 17
+2024-10-14 17:44:46.579660 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:46.580816 Juliett: Sending you each 2
+2024-10-14 17:44:46.581939 Whiskey: Delta, X-ray and Uniform, sending you 2
+2024-10-14 17:44:46.583995 Delta: Hotel, sending you 1
+2024-10-14 17:44:46.587669 Whiskey: Lima, sending you 1
+2024-10-14 17:44:46.588656 Delta: Whiskey, X-ray, Lima and Uniform, sending you 2
+2024-10-14 17:44:46.592664 Foxtrot: Quebec and November, sending you 2
+2024-10-14 17:44:46.596668 Foxtrot: Juliett, sending you 3
+2024-10-14 17:44:46.597696 Uniform: Delta, Whiskey and Lima, sending you 3
+2024-10-14 17:44:46.601655 Uniform: X-ray, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Hotel round 19
+ChatterBot Delta round 19
+ChatterBot Quebec round 19
+ChatterBot Juliett round 19
+ChatterBot November round 19
+ChatterBot Whiskey round 19
+ChatterBot Foxtrot round 19
+ChatterBot X-ray round 19
+ChatterBot Lima round 19
+ChatterBot Uniform round 19
+2024-10-14 17:44:47.761440 Hotel: Group up?
+2024-10-14 17:44:47.780971 Whiskey: Yes
+2024-10-14 17:44:47.781195 Delta: Yes
+2024-10-14 17:44:47.781372 X-ray: Yes
+2024-10-14 17:44:47.781539 Uniform: Yes
+2024-10-14 17:44:47.781708 Lima: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:47.916673 Quebec: Juliett and November, sending you 4
+2024-10-14 17:44:47.921162 X-ray: We should drop Lima
+2024-10-14 17:44:48.011379 Delta: No
+2024-10-14 17:44:48.011689 Uniform: No
+2024-10-14 17:44:48.011900 Whiskey: No
+2024-10-14 17:44:48.075665 Quebec: Foxtrot, sending you 3
+2024-10-14 17:44:48.076834 Whiskey: I was attacked by Juliett and Foxtrot
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:48.107681 Whiskey: Ow
+2024-10-14 17:44:48.110232 Juliett: Quebec and Foxtrot, sending you 5
+2024-10-14 17:44:48.111813 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:48.115685 Juliett: November, sending you 7
+2024-10-14 17:44:48.118242 Juliett: I was attacked by Whiskey
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:48.145004 Juliett: Ow
+2024-10-14 17:44:48.150681 Uniform: Delta, Whiskey and Lima, sending you 3
+2024-10-14 17:44:48.157671 Uniform: X-ray, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 20
+ChatterBot Delta round 20
+ChatterBot Quebec round 20
+ChatterBot Juliett round 20
+ChatterBot November round 20
+ChatterBot Whiskey round 20
+ChatterBot Foxtrot round 20
+ChatterBot X-ray round 20
+ChatterBot Lima round 20
+ChatterBot Uniform round 20
+2024-10-14 17:44:49.307227 Whiskey: We should add November
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:49.342444 Delta: No
+2024-10-14 17:44:49.343164 X-ray: No
+2024-10-14 17:44:49.343341 Uniform: No
+2024-10-14 17:44:49.343507 Hotel: No
+2024-10-14 17:44:49.343744 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+chatterbot November submitting transactions
+2024-10-14 17:44:49.588654 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:49.591657 Foxtrot: Juliett and November, sending you 6
+2024-10-14 17:44:49.592999 Foxtrot: I was attacked by Whiskey
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:49.604706 Foxtrot: Ow
+2024-10-14 17:44:49.609695 Whiskey: Hotel, sending you 1
+2024-10-14 17:44:49.611300 Uniform: Hotel and Lima, sending you 2
+2024-10-14 17:44:49.613671 Whiskey: Delta, Lima and Uniform, sending you 2
+2024-10-14 17:44:49.615677 Uniform: Delta, Whiskey and X-ray, sending you 3
+2024-10-14 17:44:49.618747 Whiskey: X-ray, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Hotel round 21
+ChatterBot Delta round 21
+ChatterBot Quebec round 21
+ChatterBot Juliett round 21
+ChatterBot November round 21
+ChatterBot Whiskey round 21
+ChatterBot Foxtrot round 21
+ChatterBot X-ray round 21
+ChatterBot Lima round 21
+ChatterBot Uniform round 21
+2024-10-14 17:44:50.838234 Whiskey: Hotel, Delta, Lima and Uniform, sending you 1
+2024-10-14 17:44:50.839690 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:50.842664 Whiskey: X-ray, sending you 2
+2024-10-14 17:44:50.844720 Foxtrot: Juliett and November, sending you 6
+2024-10-14 17:44:50.847691 Uniform: Hotel and Lima, sending you 2
+2024-10-14 17:44:50.850646 Uniform: Delta, Whiskey and X-ray, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 22
+ChatterBot Delta round 22
+ChatterBot Quebec round 22
+ChatterBot Juliett round 22
+ChatterBot November round 22
+ChatterBot Whiskey round 22
+ChatterBot Foxtrot round 22
+ChatterBot X-ray round 22
+ChatterBot Lima round 22
+ChatterBot Uniform round 22
+2024-10-14 17:44:51.985764 X-ray: We should replace Whiskey with Hotel
+2024-10-14 17:44:52.000090 Delta: No
+2024-10-14 17:44:52.000226 Uniform: No
+2024-10-14 17:44:52.000329 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:44:52.080664 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:52.082670 Whiskey: Delta, X-ray and Uniform, sending you 2
+2024-10-14 17:44:52.085052 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:52.089674 Whiskey: Lima, sending you 1
+2024-10-14 17:44:52.091561 Foxtrot: November, sending you 6
+2024-10-14 17:44:52.092905 Uniform: Hotel, Whiskey and Lima, sending you 2
+2024-10-14 17:44:52.098301 Uniform: Delta, sending you 3
+2024-10-14 17:44:52.103691 Uniform: X-ray, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 23
+ChatterBot Delta round 23
+ChatterBot Quebec round 23
+ChatterBot Juliett round 23
+ChatterBot November round 23
+ChatterBot Whiskey round 23
+ChatterBot Foxtrot round 23
+ChatterBot X-ray round 23
+ChatterBot Lima round 23
+ChatterBot Uniform round 23
+2024-10-14 17:44:53.156658 Whiskey: Hotel, sending you 1
+2024-10-14 17:44:53.160998 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:53.162709 Whiskey: Delta, X-ray, Lima and Uniform, sending you 3
+2024-10-14 17:44:53.164994 Uniform: Hotel, Whiskey and Lima, sending you 2
+2024-10-14 17:44:53.167155 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:53.171080 Uniform: Delta, sending you 3
+2024-10-14 17:44:53.172767 Foxtrot: November, sending you 6
+2024-10-14 17:44:53.175681 Uniform: X-ray, sending you 4
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Hotel round 24
+ChatterBot Delta round 24
+ChatterBot Quebec round 24
+ChatterBot Juliett round 24
+ChatterBot November round 24
+ChatterBot Whiskey round 24
+ChatterBot Foxtrot round 24
+ChatterBot X-ray round 24
+ChatterBot Lima round 24
+ChatterBot Uniform round 24
+2024-10-14 17:44:54.296743 Juliett: We should add Hotel
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:54.314627 November: Yes
+2024-10-14 17:44:54.314872 Quebec: No
+2024-10-14 17:44:54.315070 Foxtrot: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:54.369783 Juliett: Hotel we want you to join our group
+2024-10-14 17:44:54.374404 Hotel: No
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:54.394687 Foxtrot: Quebec, sending you 5
+2024-10-14 17:44:54.396483 Whiskey: Hotel and Lima, sending you 2
+2024-10-14 17:44:54.397555 Uniform: Hotel and Lima, sending you 2
+2024-10-14 17:44:54.400755 Foxtrot: Juliett, sending you 7
+2024-10-14 17:44:54.401545 Whiskey: Delta, X-ray and Uniform, sending you 3
+2024-10-14 17:44:54.403264 November: Hotel we want you to join our group
+2024-10-14 17:44:54.406633 Hotel: No
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:54.422507 Uniform: Delta, Whiskey and X-ray, sending you 3
+2024-10-14 17:44:54.430692 Foxtrot: Hotel we want you to join our group
+2024-10-14 17:44:54.436331 Hotel: No
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:54.462874 Foxtrot: We should drop Hotel
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:54.486723 November: Yes
+2024-10-14 17:44:54.487463 Quebec: Yes
+2024-10-14 17:44:54.487755 Juliett: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Hotel round 25
+ChatterBot Delta round 25
+ChatterBot Quebec round 25
+ChatterBot Juliett round 25
+ChatterBot November round 25
+ChatterBot Whiskey round 25
+ChatterBot Foxtrot round 25
+ChatterBot X-ray round 25
+ChatterBot Lima round 25
+ChatterBot Uniform round 25
+2024-10-14 17:44:55.471158 Foxtrot: We should drop Quebec and Hotel
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:55.481365 Juliett: Yes
+2024-10-14 17:44:55.481571 November: No
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:55.507045 Whiskey: Hotel and Lima, sending you 2
+2024-10-14 17:44:55.509951 Uniform: Hotel and Lima, sending you 2
+2024-10-14 17:44:55.513256 November: We should drop Quebec
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:55.524892 Juliett: Yes
+2024-10-14 17:44:55.525141 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:55.546355 Whiskey: Delta, X-ray and Uniform, sending you 3
+2024-10-14 17:44:55.549531 Uniform: Delta, Whiskey and X-ray, sending you 3
+2024-10-14 17:44:55.575656 Foxtrot: Juliett, sending you 9
+2024-10-14 17:44:55.581680 Foxtrot: November, sending you 8
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 26
+ChatterBot Delta round 26
+ChatterBot Quebec round 26
+ChatterBot Juliett round 26
+ChatterBot November round 26
+ChatterBot Whiskey round 26
+ChatterBot Foxtrot round 26
+ChatterBot X-ray round 26
+ChatterBot Lima round 26
+ChatterBot Uniform round 26
+2024-10-14 17:44:56.735351 November: We should drop Quebec
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:56.742689 Juliett: Yes
+2024-10-14 17:44:56.742890 Foxtrot: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:56.769692 Whiskey: Hotel, Delta and Lima, sending you 1
+2024-10-14 17:44:56.773780 Foxtrot: Juliett, sending you 8
+2024-10-14 17:44:56.774449 Uniform: Hotel and Lima, sending you 2
+2024-10-14 17:44:56.776666 Whiskey: X-ray and Uniform, sending you 2
+2024-10-14 17:44:56.777681 Foxtrot: November, sending you 7
+2024-10-14 17:44:56.779687 Uniform: Delta, Whiskey and X-ray, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+ChatterBot Hotel round 27
+ChatterBot Delta round 27
+ChatterBot Quebec round 27
+ChatterBot Juliett round 27
+ChatterBot November round 27
+ChatterBot Whiskey round 27
+ChatterBot Foxtrot round 27
+ChatterBot X-ray round 27
+ChatterBot Lima round 27
+ChatterBot Uniform round 27
+2024-10-14 17:44:57.963239 November: We should drop Quebec
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:57.969639 Juliett: Yes
+2024-10-14 17:44:57.969772 Foxtrot: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:57.983777 Foxtrot: Juliett, sending you 9
+2024-10-14 17:44:57.987674 Foxtrot: November, sending you 8
+2024-10-14 17:44:57.988160 Foxtrot: I was attacked by Whiskey
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:44:57.995554 Foxtrot: Ow
+2024-10-14 17:44:58.000852 Whiskey: Hotel and Lima, sending you 2
+2024-10-14 17:44:58.002639 Uniform: Hotel, Whiskey and Lima, sending you 2
+2024-10-14 17:44:58.005682 Uniform: Delta, sending you 3
+2024-10-14 17:44:58.007192 Whiskey: Delta, X-ray and Uniform, sending you 3
+2024-10-14 17:44:58.009733 Uniform: X-ray, sending you 4
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Hotel round 28
+ChatterBot Delta round 28
+ChatterBot Quebec round 28
+ChatterBot Juliett round 28
+ChatterBot November round 28
+ChatterBot Whiskey round 28
+ChatterBot Foxtrot round 28
+ChatterBot X-ray round 28
+ChatterBot Lima round 28
+ChatterBot Uniform round 28
+2024-10-14 17:44:59.096572 X-ray: We should replace Delta with Hotel
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:59.110532 Whiskey: No
+2024-10-14 17:44:59.110724 Lima: No
+2024-10-14 17:44:59.111356 Uniform: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:59.147481 Juliett: We should drop Quebec
+ChatterBot November reevaluating
+2024-10-14 17:44:59.153196 Foxtrot: Yes
+2024-10-14 17:44:59.153330 November: Yes
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:44:59.179680 Uniform: Hotel and Lima, sending you 2
+2024-10-14 17:44:59.183660 Foxtrot: Sending you each 9
+2024-10-14 17:44:59.184699 Uniform: Delta, Whiskey and X-ray, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Hotel round 29
+ChatterBot Delta round 29
+ChatterBot Quebec round 29
+ChatterBot Juliett round 29
+ChatterBot November round 29
+ChatterBot Whiskey round 29
+ChatterBot Foxtrot round 29
+ChatterBot X-ray round 29
+ChatterBot Lima round 29
+ChatterBot Uniform round 29
+2024-10-14 17:45:00.391806 X-ray: We should replace Whiskey with Hotel
+2024-10-14 17:45:00.403845 Delta: No
+2024-10-14 17:45:00.404765 Uniform: No
+2024-10-14 17:45:00.404914 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:45:00.439882 November: We should drop Quebec
+ChatterBot Juliett reevaluating
+2024-10-14 17:45:00.447003 Juliett: Yes
+2024-10-14 17:45:00.447233 Foxtrot: Yes
+ChatterBot Juliett reevaluating
+2024-10-14 17:45:00.477687 Foxtrot: Juliett, sending you 9
+2024-10-14 17:45:00.480949 Whiskey: Hotel, Delta and Lima, sending you 1
+2024-10-14 17:45:00.483380 Foxtrot: November, sending you 8
+2024-10-14 17:45:00.484292 Foxtrot: I was attacked by Whiskey
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:45:00.491579 Foxtrot: Ow
+2024-10-14 17:45:00.493044 Uniform: Hotel, Whiskey and Lima, sending you 2
+2024-10-14 17:45:00.496185 Whiskey: X-ray and Uniform, sending you 2
+2024-10-14 17:45:00.500654 Uniform: Delta, sending you 3
+2024-10-14 17:45:00.506657 Uniform: X-ray, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Hotel round 30
+ChatterBot Delta round 30
+ChatterBot Quebec round 30
+ChatterBot Juliett round 30
+ChatterBot November round 30
+ChatterBot Whiskey round 30
+ChatterBot Foxtrot round 30
+ChatterBot X-ray round 30
+ChatterBot Lima round 30
+ChatterBot Uniform round 30
+2024-10-14 17:45:01.471084 X-ray: We should replace Delta with Hotel
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:45:01.485344 Whiskey: No
+2024-10-14 17:45:01.486104 Lima: No
+2024-10-14 17:45:01.486342 Uniform: No
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:45:01.555302 Whiskey: We should add Quebec
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:45:01.583949 Delta: No
+2024-10-14 17:45:01.584153 X-ray: No
+2024-10-14 17:45:01.584319 Uniform: Yes
+2024-10-14 17:45:01.584767 Hotel: No
+2024-10-14 17:45:01.584959 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:45:01.873944 November: We should drop Quebec
+ChatterBot Juliett reevaluating
+2024-10-14 17:45:01.884397 Juliett: Yes
+2024-10-14 17:45:01.884733 Foxtrot: Yes
+ChatterBot November reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:45:01.918692 Whiskey: Delta, X-ray and Uniform, sending you 1
+2024-10-14 17:45:01.922988 Foxtrot: Sending you each 8
+2024-10-14 17:45:01.924731 Foxtrot: I was attacked by Whiskey
+ChatterBot Juliett reevaluating
+ChatterBot November reevaluating
+2024-10-14 17:45:01.939336 Foxtrot: Ow
+2024-10-14 17:45:01.943728 Uniform: Hotel, Whiskey and Lima, sending you 2
+2024-10-14 17:45:01.952913 Uniform: Delta, sending you 3
+2024-10-14 17:45:01.968818 Uniform: X-ray, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions

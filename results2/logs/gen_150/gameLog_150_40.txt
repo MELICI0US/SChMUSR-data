@@ -1,0 +1,2185 @@
+ChatterBot Oscar round 1
+ChatterBot Foxtrot round 1
+ChatterBot Mike round 1
+ChatterBot Yankee round 1
+ChatterBot Lima round 1
+ChatterBot Tango round 1
+ChatterBot Whiskey round 1
+ChatterBot Papa round 1
+ChatterBot Kilo round 1
+ChatterBot Juliett round 1
+randomSelections Oscar: {Oscar, Mike, Whiskey} 
+2024-10-14 19:05:22.302483 Oscar: Friends?
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:22.309158 Mike: Yes
+2024-10-14 19:05:22.309344 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+randomSelections Papa: {Papa, Yankee, Kilo, Oscar, Whiskey, Tango} 
+2024-10-14 19:05:22.319863 Papa: Group up?
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:22.334826 Yankee: Yes
+2024-10-14 19:05:22.334996 Kilo: Yes
+2024-10-14 19:05:22.335171 Oscar: No
+2024-10-14 19:05:22.335353 Whiskey: No
+2024-10-14 19:05:22.335540 Tango: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Foxtrot: {Foxtrot, Lima, Papa, Oscar, Whiskey, Yankee} 
+2024-10-14 19:05:22.478715 Foxtrot: Group up?
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:22.491323 Lima: Yes
+2024-10-14 19:05:22.491906 Papa: No
+2024-10-14 19:05:22.492209 Oscar: No
+2024-10-14 19:05:22.492475 Whiskey: No
+2024-10-14 19:05:22.492784 Yankee: No
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Juliett: {Juliett, Yankee, Tango, Whiskey, Papa, Kilo} 
+2024-10-14 19:05:22.552462 Juliett: Can we be friends?
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:22.562775 Yankee: No
+2024-10-14 19:05:22.563051 Tango: No
+2024-10-14 19:05:22.563248 Whiskey: No
+2024-10-14 19:05:22.563483 Papa: No
+2024-10-14 19:05:22.563706 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:22.624659 Juliett: Yankee, Tango and Kilo, sending you 2
+2024-10-14 19:05:22.625677 Oscar: Mike, sending you 3
+2024-10-14 19:05:22.627102 Kilo: Oscar and Papa, sending you 4
+2024-10-14 19:05:22.628670 Mike: Sending you each 8
+2024-10-14 19:05:22.628988 Juliett: Whiskey, sending you 1
+2024-10-14 19:05:22.629278 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:22.629689 Kilo: Yankee and Whiskey, sending you 2
+2024-10-14 19:05:22.630684 Papa: Oscar, Yankee and Whiskey, sending you 1
+2024-10-14 19:05:22.632667 Lima: Oscar, sending you 3
+2024-10-14 19:05:22.633028 Juliett: Papa, sending you 9
+2024-10-14 19:05:22.633350 Foxtrot: Oscar, sending you 3
+2024-10-14 19:05:22.633660 Kilo: Tango, sending you 1
+2024-10-14 19:05:22.634006 Papa: Tango, sending you 4
+2024-10-14 19:05:22.636862 Whiskey: Oscar, sending you 8
+2024-10-14 19:05:22.637084 Lima: Foxtrot and Yankee, sending you 2
+2024-10-14 19:05:22.637307 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:22.637709 Papa: Kilo, sending you 6
+2024-10-14 19:05:22.639660 Tango: Oscar, sending you 1
+2024-10-14 19:05:22.640670 Whiskey: Mike, sending you 7
+2024-10-14 19:05:22.640885 Lima: Papa, sending you 4
+2024-10-14 19:05:22.641678 Foxtrot: Whiskey, sending you 2
+2024-10-14 19:05:22.642670 Yankee: Oscar and Papa, sending you 4
+2024-10-14 19:05:22.644961 Tango: Yankee and Kilo, sending you 3
+2024-10-14 19:05:22.646664 Foxtrot: Papa, sending you 5
+2024-10-14 19:05:22.647034 Yankee: Tango, sending you 3
+2024-10-14 19:05:22.647677 Tango: Papa, sending you 4
+2024-10-14 19:05:22.650671 Yankee: Whiskey and Kilo, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Oscar round 2
+ChatterBot Foxtrot round 2
+ChatterBot Mike round 2
+ChatterBot Yankee round 2
+ChatterBot Lima round 2
+2024-10-14 19:05:25.342459 Foxtrot: Friends?
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:25.376533 Lima: No
+2024-10-14 19:05:25.376736 Oscar: No
+2024-10-14 19:05:25.376899 Mike: No
+2024-10-14 19:05:25.377039 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango round 2
+ChatterBot Whiskey round 2
+ChatterBot Papa round 2
+ChatterBot Kilo round 2
+ChatterBot Juliett round 2
+2024-10-14 19:05:25.574657 Yankee: We would work well together
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:25.596515 Tango: No
+2024-10-14 19:05:25.596814 Papa: Yes
+2024-10-14 19:05:25.597055 Kilo: No
+2024-10-14 19:05:25.597274 Juliett: Yes
+2024-10-14 19:05:25.598142 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:25.772289 Whiskey: We should add Foxtrot and Lima
+2024-10-14 19:05:25.784915 Oscar: No
+2024-10-14 19:05:25.785145 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:25.950518 Oscar: Mike, sending you 5
+2024-10-14 19:05:25.951311 Foxtrot: Oscar, Mike and Whiskey, sending you 2
+2024-10-14 19:05:25.951754 Juliett: We should drop Whiskey
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:25.966390 Tango: Yes
+2024-10-14 19:05:25.967030 Yankee: Yes
+2024-10-14 19:05:25.967166 Papa: Yes
+2024-10-14 19:05:25.967284 Kilo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:26.031607 Oscar: Whiskey, sending you 6
+2024-10-14 19:05:26.032339 Foxtrot: Lima, sending you 8
+2024-10-14 19:05:26.055156 Mike: Oscar, sending you 6
+2024-10-14 19:05:26.055835 Lima: Foxtrot, sending you 10
+2024-10-14 19:05:26.056163 Kilo: Yankee, Tango and Juliett, sending you 3
+2024-10-14 19:05:26.174068 Kilo: Papa, sending you 4
+2024-10-14 19:05:26.174780 Whiskey: Oscar and Mike, sending you 3
+2024-10-14 19:05:26.175777 Mike: Whiskey, sending you 9
+2024-10-14 19:05:26.176148 Lima: Juliett, sending you 3
+2024-10-14 19:05:26.216845 Juliett: Foxtrot, Yankee, Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:05:26.218374 Papa: Foxtrot, Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:26.219086 Whiskey: Yankee, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:26.220366 Yankee: Lima, Kilo and Juliett, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-14 19:05:26.223321 Whiskey: Tango, sending you 1
+2024-10-14 19:05:26.260831 Papa: Juliett, sending you 3
+2024-10-14 19:05:26.262217 Yankee: Tango, sending you 4
+2024-10-14 19:05:26.288027 Yankee: Papa, sending you 2
+2024-10-14 19:05:26.317332 Tango: Yankee and Papa, sending you 4
+chatterbot Yankee submitting transactions
+2024-10-14 19:05:26.324727 Tango: Lima, sending you 1
+2024-10-14 19:05:26.337043 Tango: Kilo, sending you 2
+2024-10-14 19:05:26.350086 Tango: Juliett, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Oscar round 3
+ChatterBot Foxtrot round 3
+ChatterBot Mike round 3
+ChatterBot Yankee round 3
+ChatterBot Lima round 3
+ChatterBot Tango round 3
+ChatterBot Whiskey round 3
+ChatterBot Papa round 3
+2024-10-14 19:05:27.246119 Foxtrot: Let's form a team
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:27.265414 Papa: No
+2024-10-14 19:05:27.265605 Yankee: No
+2024-10-14 19:05:27.265801 Tango: Yes
+2024-10-14 19:05:27.265965 Kilo: Yes
+2024-10-14 19:05:27.266118 Juliett: Yes
+2024-10-14 19:05:27.266259 Lima: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:27.395425 Tango: We should add Foxtrot
+2024-10-14 19:05:27.395743 Kilo: We should add Foxtrot and Lima
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:27.411988 Yankee: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:27.419602 Papa: Yes
+ChatterBot Papa reevaluating
+2024-10-14 19:05:27.447237 Kilo: Yes
+2024-10-14 19:05:27.448826 Juliett: Yes
+2024-10-14 19:05:27.482627 Lima: Yes
+2024-10-14 19:05:27.482968 Yankee: Yes
+2024-10-14 19:05:27.483148 Tango: Yes
+2024-10-14 19:05:27.483299 Papa: Yes
+2024-10-14 19:05:27.483473 Juliett: Yes
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo round 3
+ChatterBot Juliett round 3
+2024-10-14 19:05:27.761982 Kilo: Foxtrot and Lima we want you to join our group
+2024-10-14 19:05:27.768167 Foxtrot: Yes
+2024-10-14 19:05:27.768342 Lima: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:27.813679 Kilo: We should add Foxtrot and Lima
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:27.831178 Tango: Yes
+2024-10-14 19:05:27.831460 Yankee: Yes
+2024-10-14 19:05:27.831658 Papa: Yes
+2024-10-14 19:05:27.831858 Juliett: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:27.897871 Tango: Foxtrot we want you to join our group
+2024-10-14 19:05:27.901970 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:05:27.931682 Foxtrot: Yankee, Tango, Papa and Juliett, sending you 2
+2024-10-14 19:05:27.932354 Mike: Sending you each 9
+2024-10-14 19:05:27.932715 Lima: Foxtrot, sending you 6
+2024-10-14 19:05:27.933742 Oscar: Mike, sending you 5
+2024-10-14 19:05:27.936694 Foxtrot: Lima, sending you 5
+2024-10-14 19:05:27.937695 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:27.938673 Lima: Yankee, Papa and Juliett, sending you 2
+2024-10-14 19:05:27.939695 Juliett: Yankee, Lima and Tango, sending you 3
+2024-10-14 19:05:27.941673 Foxtrot: Kilo, sending you 1
+2024-10-14 19:05:27.942981 Tango: Foxtrot and Lima, sending you 1
+2024-10-14 19:05:27.943535 Lima: Tango and Kilo, sending you 1
+2024-10-14 19:05:27.944012 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:27.944884 Papa: Foxtrot, Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:27.945700 Juliett: Papa, sending you 5
+2024-10-14 19:05:27.946026 Tango: Yankee, Papa, Kilo and Juliett, sending you 3
+2024-10-14 19:05:27.948897 Whiskey: Mike, sending you 8
+2024-10-14 19:05:27.950996 Papa: Juliett, sending you 3
+2024-10-14 19:05:27.951469 Juliett: Kilo, sending you 4
+2024-10-14 19:05:27.951849 Kilo: Foxtrot and Lima, sending you 1
+2024-10-14 19:05:27.956669 Kilo: Yankee, sending you 3
+2024-10-14 19:05:27.958686 Yankee: Lima, sending you 1
+2024-10-14 19:05:27.959681 Kilo: Tango and Juliett, sending you 2
+2024-10-14 19:05:27.962808 Yankee: Tango, sending you 5
+2024-10-14 19:05:27.963694 Kilo: Papa, sending you 4
+2024-10-14 19:05:27.965676 Yankee: Papa, Kilo and Juliett, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 4
+ChatterBot Foxtrot round 4
+ChatterBot Mike round 4
+ChatterBot Yankee round 4
+ChatterBot Lima round 4
+ChatterBot Tango round 4
+ChatterBot Whiskey round 4
+ChatterBot Papa round 4
+ChatterBot Kilo round 4
+ChatterBot Juliett round 4
+2024-10-14 19:05:29.070 Foxtrot: We should drop Yankee
+2024-10-14 19:05:29.087342 Lima: No
+2024-10-14 19:05:29.087511 Tango: No
+2024-10-14 19:05:29.088240 Papa: No
+2024-10-14 19:05:29.088370 Kilo: No
+2024-10-14 19:05:29.088488 Juliett: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:29.172660 Mike: Oscar, sending you 8
+2024-10-14 19:05:29.173888 Yankee: Foxtrot, sending you 1
+2024-10-14 19:05:29.174664 Oscar: Mike, sending you 5
+2024-10-14 19:05:29.176662 Mike: Whiskey, sending you 10
+2024-10-14 19:05:29.177686 Yankee: Lima and Papa, sending you 2
+2024-10-14 19:05:29.179655 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:29.180669 Papa: Foxtrot, Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:29.181298 Lima: Foxtrot, sending you 5
+2024-10-14 19:05:29.182678 Tango: Foxtrot and Kilo, sending you 2
+2024-10-14 19:05:29.183680 Yankee: Tango, sending you 4
+2024-10-14 19:05:29.184808 Papa: Juliett, sending you 3
+2024-10-14 19:05:29.185419 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:29.185759 Lima: Yankee, Tango, Papa and Juliett, sending you 2
+2024-10-14 19:05:29.186726 Kilo: Foxtrot and Lima, sending you 1
+2024-10-14 19:05:29.187656 Foxtrot: Yankee, sending you 1
+2024-10-14 19:05:29.188110 Tango: Yankee, Papa and Juliett, sending you 3
+2024-10-14 19:05:29.189673 Yankee: Kilo and Juliett, sending you 3
+2024-10-14 19:05:29.190851 Kilo: Yankee and Tango, sending you 2
+2024-10-14 19:05:29.191468 Whiskey: Mike, sending you 8
+2024-10-14 19:05:29.191825 Lima: Kilo, sending you 1
+2024-10-14 19:05:29.192815 Foxtrot: Lima, sending you 5
+2024-10-14 19:05:29.193438 Tango: Lima, sending you 1
+2024-10-14 19:05:29.194542 Juliett: Foxtrot, sending you 1
+2024-10-14 19:05:29.195389 Kilo: Papa, sending you 4
+2024-10-14 19:05:29.197663 Foxtrot: Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:29.199192 Juliett: Yankee, Tango and Papa, sending you 4
+2024-10-14 19:05:29.200150 Kilo: Juliett, sending you 3
+2024-10-14 19:05:29.204674 Juliett: Lima and Kilo, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 5
+ChatterBot Foxtrot round 5
+ChatterBot Mike round 5
+ChatterBot Yankee round 5
+ChatterBot Lima round 5
+ChatterBot Tango round 5
+ChatterBot Whiskey round 5
+ChatterBot Papa round 5
+ChatterBot Kilo round 5
+ChatterBot Juliett round 5
+2024-10-14 19:05:30.394671 Oscar: Mike, sending you 5
+2024-10-14 19:05:30.397808 Tango: Foxtrot and Kilo, sending you 2
+2024-10-14 19:05:30.398649 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:30.399020 Lima: Foxtrot, sending you 5
+2024-10-14 19:05:30.401655 Tango: Yankee, Papa and Juliett, sending you 3
+2024-10-14 19:05:30.403667 Lima: Yankee, Tango, Papa and Juliett, sending you 2
+2024-10-14 19:05:30.404171 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:30.407216 Tango: Lima, sending you 1
+2024-10-14 19:05:30.407681 Whiskey: Mike, sending you 8
+2024-10-14 19:05:30.407910 Yankee: Lima, sending you 2
+2024-10-14 19:05:30.408654 Lima: Kilo, sending you 1
+2024-10-14 19:05:30.409889 Kilo: Foxtrot, Yankee, Lima, Tango and Juliett, sending you 2
+2024-10-14 19:05:30.410666 Papa: Foxtrot, Yankee and Tango, sending you 2
+2024-10-14 19:05:30.411799 Yankee: Tango, sending you 4
+2024-10-14 19:05:30.412678 Foxtrot: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:30.413728 Mike: Oscar, sending you 8
+2024-10-14 19:05:30.414043 Kilo: Papa, sending you 3
+2024-10-14 19:05:30.414682 Papa: Lima, sending you 1
+2024-10-14 19:05:30.415995 Yankee: Papa, Kilo and Juliett, sending you 3
+2024-10-14 19:05:30.417106 Juliett: Foxtrot, sending you 2
+2024-10-14 19:05:30.418688 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:30.419502 Mike: Whiskey, sending you 10
+2024-10-14 19:05:30.419932 Papa: Kilo and Juliett, sending you 3
+2024-10-14 19:05:30.422703 Juliett: Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:05:30.425652 Juliett: Tango and Papa, sending you 4
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 6
+ChatterBot Foxtrot round 6
+ChatterBot Mike round 6
+ChatterBot Yankee round 6
+ChatterBot Lima round 6
+ChatterBot Tango round 6
+ChatterBot Whiskey round 6
+ChatterBot Papa round 6
+ChatterBot Kilo round 6
+ChatterBot Juliett round 6
+2024-10-14 19:05:31.683711 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:31.684591 Oscar: Mike, sending you 5
+2024-10-14 19:05:31.685488 Tango: Foxtrot, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:31.687688 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:31.689071 Lima: Yankee, Papa and Kilo, sending you 2
+2024-10-14 19:05:31.690107 Tango: Yankee and Juliett, sending you 3
+2024-10-14 19:05:31.691804 Yankee: Lima, sending you 2
+2024-10-14 19:05:31.693808 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:31.694305 Lima: Tango, sending you 1
+2024-10-14 19:05:31.697105 Yankee: Tango, sending you 4
+2024-10-14 19:05:31.697838 Whiskey: Mike, sending you 8
+2024-10-14 19:05:31.698249 Mike: Oscar, sending you 8
+2024-10-14 19:05:31.699447 Foxtrot: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:31.700465 Lima: Juliett, sending you 3
+2024-10-14 19:05:31.702196 Papa: Foxtrot, Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:31.703782 Kilo: Foxtrot, Yankee, Lima, Tango and Juliett, sending you 2
+2024-10-14 19:05:31.704461 Yankee: Papa, Kilo and Juliett, sending you 3
+2024-10-14 19:05:31.705642 Mike: Whiskey, sending you 10
+2024-10-14 19:05:31.705958 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:31.706693 Juliett: Foxtrot, sending you 1
+2024-10-14 19:05:31.707841 Kilo: Papa, sending you 3
+2024-10-14 19:05:31.708709 Papa: Juliett, sending you 3
+2024-10-14 19:05:31.710670 Juliett: Yankee, Tango and Papa, sending you 4
+2024-10-14 19:05:31.716706 Juliett: Lima and Kilo, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 7
+ChatterBot Foxtrot round 7
+ChatterBot Mike round 7
+ChatterBot Yankee round 7
+ChatterBot Lima round 7
+ChatterBot Tango round 7
+ChatterBot Whiskey round 7
+ChatterBot Papa round 7
+ChatterBot Kilo round 7
+ChatterBot Juliett round 7
+2024-10-14 19:05:32.951673 Oscar: Mike, sending you 5
+2024-10-14 19:05:32.952832 Yankee: Foxtrot, sending you 1
+2024-10-14 19:05:32.956712 Yankee: Lima and Kilo, sending you 2
+2024-10-14 19:05:32.958666 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:32.959070 Foxtrot: Yankee, sending you 1
+2024-10-14 19:05:32.960346 Tango: Foxtrot, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:32.961061 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:32.961381 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:32.962338 Kilo: Foxtrot, Yankee, Lima, Tango and Juliett, sending you 2
+2024-10-14 19:05:32.962869 Yankee: Tango, sending you 4
+2024-10-14 19:05:32.964158 Tango: Yankee and Juliett, sending you 3
+2024-10-14 19:05:32.964857 Whiskey: Mike, sending you 8
+2024-10-14 19:05:32.965219 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:32.966360 Lima: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:32.967142 Mike: Oscar, sending you 7
+2024-10-14 19:05:32.967687 Kilo: Papa, sending you 3
+2024-10-14 19:05:32.968720 Yankee: Papa and Juliett, sending you 3
+2024-10-14 19:05:32.969319 Foxtrot: Tango, Kilo and Juliett, sending you 2
+2024-10-14 19:05:32.970689 Mike: Whiskey, sending you 10
+2024-10-14 19:05:32.974681 Foxtrot: Papa, sending you 3
+2024-10-14 19:05:32.976297 Juliett: Foxtrot, sending you 2
+2024-10-14 19:05:32.981680 Juliett: Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:05:32.987752 Juliett: Tango and Papa, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 8
+ChatterBot Foxtrot round 8
+ChatterBot Mike round 8
+ChatterBot Yankee round 8
+ChatterBot Lima round 8
+ChatterBot Tango round 8
+ChatterBot Whiskey round 8
+ChatterBot Papa round 8
+ChatterBot Kilo round 8
+2024-10-14 19:05:34.058641 Whiskey: We should add Kilo
+2024-10-14 19:05:34.066265 Oscar: No
+2024-10-14 19:05:34.066430 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Juliett round 8
+2024-10-14 19:05:34.091859 Foxtrot: We should drop Papa
+2024-10-14 19:05:34.108482 Yankee: No
+2024-10-14 19:05:34.108654 Lima: No
+2024-10-14 19:05:34.108792 Tango: No
+2024-10-14 19:05:34.108898 Kilo: No
+2024-10-14 19:05:34.108998 Juliett: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:34.235362 Whiskey: We should add Yankee
+2024-10-14 19:05:34.245444 Oscar: No
+2024-10-14 19:05:34.245597 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:34.268119 Foxtrot: We should drop Yankee
+2024-10-14 19:05:34.287273 Lima: No
+2024-10-14 19:05:34.287427 Tango: No
+2024-10-14 19:05:34.287542 Papa: No
+2024-10-14 19:05:34.287688 Kilo: No
+2024-10-14 19:05:34.287852 Juliett: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:34.395877 Mike: I was attacked by Papa
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:34.401788 Mike: I'm keeping this round to protect myself
+2024-10-14 19:05:34.402264 Mike: Ow
+2024-10-14 19:05:34.404689 Papa: Foxtrot, Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:34.406521 Lima: Foxtrot and Juliett, sending you 3
+2024-10-14 19:05:34.408260 Yankee: Foxtrot, sending you 1
+2024-10-14 19:05:34.409566 Tango: Foxtrot, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:34.410345 Papa: Juliett, sending you 3
+2024-10-14 19:05:34.411689 Lima: Yankee, Tango, Papa and Kilo, sending you 2
+2024-10-14 19:05:34.412580 Yankee: Lima and Papa, sending you 2
+2024-10-14 19:05:34.413979 Tango: Yankee and Juliett, sending you 3
+2024-10-14 19:05:34.415971 Juliett: Foxtrot, sending you 2
+2024-10-14 19:05:34.417680 Yankee: Tango, sending you 4
+2024-10-14 19:05:34.419678 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:34.421689 Juliett: Yankee and Tango, sending you 4
+2024-10-14 19:05:34.423502 Yankee: Kilo and Juliett, sending you 3
+2024-10-14 19:05:34.425524 Whiskey: Mike, sending you 8
+2024-10-14 19:05:34.426106 Kilo: Foxtrot, Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:05:34.428147 Juliett: Lima, Papa and Kilo, sending you 3
+2024-10-14 19:05:34.430665 Kilo: Juliett, sending you 3
+2024-10-14 19:05:34.432179 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:34.433683 Oscar: Mike, sending you 4
+2024-10-14 19:05:34.434698 Foxtrot: Tango, Papa and Kilo, sending you 3
+2024-10-14 19:05:34.437691 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:34.439718 Foxtrot: Juliett, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Oscar round 9
+ChatterBot Foxtrot round 9
+ChatterBot Mike round 9
+ChatterBot Yankee round 9
+ChatterBot Lima round 9
+ChatterBot Tango round 9
+ChatterBot Whiskey round 9
+ChatterBot Papa round 9
+ChatterBot Kilo round 9
+ChatterBot Juliett round 9
+2024-10-14 19:05:35.582854 Foxtrot: We should replace Papa with Yankee
+2024-10-14 19:05:35.598939 Lima: No
+2024-10-14 19:05:35.599732 Tango: No
+2024-10-14 19:05:35.599922 Kilo: No
+2024-10-14 19:05:35.600077 Juliett: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:35.696695 Yankee: Foxtrot, sending you 1
+2024-10-14 19:05:35.700912 Foxtrot: Yankee we want you to join our group
+2024-10-14 19:05:35.704312 Yankee: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:35.721312 Yankee: Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:35.725675 Oscar: Mike, sending you 5
+2024-10-14 19:05:35.725993 Whiskey: Oscar, sending you 8
+2024-10-14 19:05:35.726819 Yankee: Tango, sending you 5
+2024-10-14 19:05:35.728472 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:35.730079 Tango: Foxtrot, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:35.731682 Kilo: Foxtrot, Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:05:35.733580 Juliett: Foxtrot, sending you 1
+2024-10-14 19:05:35.734691 Papa: Foxtrot, Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:35.736114 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:35.736502 Whiskey: Mike, sending you 7
+2024-10-14 19:05:35.736978 Yankee: Juliett, sending you 3
+2024-10-14 19:05:35.738340 Lima: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:35.739602 Tango: Yankee and Juliett, sending you 3
+2024-10-14 19:05:35.740466 Kilo: Juliett, sending you 3
+2024-10-14 19:05:35.741967 Juliett: Yankee, Tango and Papa, sending you 4
+2024-10-14 19:05:35.743416 Papa: Juliett, sending you 3
+2024-10-14 19:05:35.747673 Juliett: Lima and Kilo, sending you 3
+2024-10-14 19:05:35.754688 Foxtrot: Yankee, sending you 1
+2024-10-14 19:05:35.759667 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:35.762666 Foxtrot: Tango, Kilo and Juliett, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 10
+ChatterBot Foxtrot round 10
+ChatterBot Mike round 10
+ChatterBot Yankee round 10
+ChatterBot Lima round 10
+ChatterBot Tango round 10
+ChatterBot Whiskey round 10
+ChatterBot Papa round 10
+ChatterBot Kilo round 10
+ChatterBot Juliett round 10
+2024-10-14 19:05:36.804800 Foxtrot: We should replace Juliett with Papa
+2024-10-14 19:05:36.819153 Yankee: No
+2024-10-14 19:05:36.819310 Lima: No
+2024-10-14 19:05:36.819427 Tango: No
+2024-10-14 19:05:36.819537 Kilo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:36.909944 Yankee: Foxtrot, sending you 1
+2024-10-14 19:05:36.912743 Whiskey: Oscar, sending you 1
+2024-10-14 19:05:36.916015 Yankee: Lima and Kilo, sending you 2
+2024-10-14 19:05:36.918164 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:36.920156 Tango: Foxtrot, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:36.921948 Oscar: Mike, sending you 6
+2024-10-14 19:05:36.922451 Yankee: Tango, sending you 4
+2024-10-14 19:05:36.924307 Kilo: Foxtrot, Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:05:36.926204 Lima: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:36.928192 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:36.928676 Tango: Yankee and Juliett, sending you 3
+2024-10-14 19:05:36.930247 Foxtrot: Yankee and Juliett, sending you 2
+2024-10-14 19:05:36.931553 Juliett: Foxtrot, sending you 2
+2024-10-14 19:05:36.933383 Yankee: Papa and Juliett, sending you 3
+2024-10-14 19:05:36.934707 Kilo: Juliett, sending you 3
+2024-10-14 19:05:36.937325 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:36.938143 Juliett: Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:05:36.940983 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:05:36.944119 Juliett: Tango and Papa, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Oscar round 11
+ChatterBot Foxtrot round 11
+ChatterBot Mike round 11
+ChatterBot Yankee round 11
+ChatterBot Lima round 11
+ChatterBot Tango round 11
+ChatterBot Whiskey round 11
+ChatterBot Papa round 11
+ChatterBot Kilo round 11
+ChatterBot Juliett round 11
+2024-10-14 19:05:38.117387 Foxtrot: We should replace Juliett with Papa
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:38.138924 Yankee: No
+2024-10-14 19:05:38.139115 Lima: No
+2024-10-14 19:05:38.139264 Tango: No
+2024-10-14 19:05:38.139410 Kilo: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:38.247037 Foxtrot: Papa we want you to join our group
+2024-10-14 19:05:38.250486 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:38.266532 Whiskey: We should drop Mike
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:38.269788 Oscar: No
+2024-10-14 19:05:38.272731 Oscar: We should replace Whiskey with Juliett
+2024-10-14 19:05:38.276582 Mike: No
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:38.280505 Juliett: We should drop Lima and Papa
+2024-10-14 19:05:38.291813 Yankee: No
+2024-10-14 19:05:38.291966 Tango: Yes
+2024-10-14 19:05:38.292074 Kilo: No
+2024-10-14 19:05:38.292176 Foxtrot: No
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:38.342223 Oscar: We should replace Mike with Juliett
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:38.345757 Whiskey: No
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:38.349132 Whiskey: We should group up
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:38.358260 Oscar: No
+2024-10-14 19:05:38.358401 Papa: No
+2024-10-14 19:05:38.358592 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:38.387389 Tango: We should drop Foxtrot and Papa
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:38.400533 Yankee: No
+2024-10-14 19:05:38.400695 Kilo: No
+2024-10-14 19:05:38.400817 Juliett: No
+2024-10-14 19:05:38.400920 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:38.553134 Papa: Yankee, Lima, Tango, Kilo and Juliett, sending you 2
+2024-10-14 19:05:38.556227 Yankee: Foxtrot, sending you 1
+2024-10-14 19:05:38.562759 Yankee: Lima and Kilo, sending you 2
+2024-10-14 19:05:38.567698 Yankee: Tango, sending you 5
+2024-10-14 19:05:38.569547 Whiskey: Oscar, sending you 7
+2024-10-14 19:05:38.572688 Yankee: Juliett, sending you 3
+2024-10-14 19:05:38.574692 Whiskey: Foxtrot and Papa, sending you 4
+2024-10-14 19:05:38.578884 Foxtrot: Yankee, Papa and Kilo, sending you 3
+2024-10-14 19:05:38.581693 Oscar: Mike, sending you 6
+2024-10-14 19:05:38.583008 Kilo: Foxtrot, sending you 2
+2024-10-14 19:05:38.583867 Foxtrot: Lima, sending you 5
+2024-10-14 19:05:38.586678 Oscar: Whiskey, sending you 8
+2024-10-14 19:05:38.587779 Kilo: Yankee, Tango and Juliett, sending you 3
+2024-10-14 19:05:38.589668 Tango: Foxtrot and Kilo, sending you 3
+2024-10-14 19:05:38.594662 Tango: Yankee and Juliett, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Oscar round 12
+ChatterBot Foxtrot round 12
+ChatterBot Mike round 12
+ChatterBot Yankee round 12
+ChatterBot Lima round 12
+ChatterBot Tango round 12
+ChatterBot Whiskey round 12
+ChatterBot Papa round 12
+ChatterBot Kilo round 12
+ChatterBot Juliett round 12
+2024-10-14 19:05:39.837941 Kilo: We should add Lima and Papa
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:39.857164 Juliett: No
+2024-10-14 19:05:39.857341 Yankee: Yes
+2024-10-14 19:05:39.857489 Tango: Yes
+2024-10-14 19:05:39.858023 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:39.916866 Foxtrot: We should add Tango
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:39.927527 Yankee: Yes
+2024-10-14 19:05:39.927644 Lima: Yes
+2024-10-14 19:05:39.927757 Papa: Yes
+2024-10-14 19:05:39.927858 Kilo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:39.987103 Oscar: We should replace Mike with Juliett
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:39.990307 Whiskey: No
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:40.010104 Kilo: Lima and Papa we want you to join our group
+2024-10-14 19:05:40.017590 Papa: Yes
+2024-10-14 19:05:40.017744 Lima: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:40.060223 Foxtrot: We should replace Yankee with Tango
+2024-10-14 19:05:40.073761 Kilo: No
+2024-10-14 19:05:40.073915 Lima: No
+2024-10-14 19:05:40.074044 Papa: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:40.109481 Tango: Lima and Papa we want you to join our group
+2024-10-14 19:05:40.118454 Papa: Yes
+2024-10-14 19:05:40.118684 Lima: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:40.159671 Papa: Sending you each 2
+2024-10-14 19:05:40.161588 Papa: I was attacked by Kilo
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:40.184097 Papa: Ow
+2024-10-14 19:05:40.186649 Whiskey: I was attacked by Yankee and Papa
+ChatterBot Oscar reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:40.197189 Whiskey: Ow
+chatterbot Lima submitting transactions
+2024-10-14 19:05:40.198877 Yankee: Papa we want you to join our group
+2024-10-14 19:05:40.202466 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:40.222888 Mike: Sending you each 1
+2024-10-14 19:05:40.224111 Oscar: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:40.228380 Juliett: No
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:40.235235 Foxtrot: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:05:40.239700 Tango: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:40.264276 Yankee: Foxtrot and Lima, sending you 2
+2024-10-14 19:05:40.270076 Yankee: Tango, sending you 5
+2024-10-14 19:05:40.273706 Yankee: Papa and Kilo, sending you 3
+2024-10-14 19:05:40.277661 Oscar: Whiskey, sending you 8
+2024-10-14 19:05:40.289663 Foxtrot: Yankee, sending you 2
+2024-10-14 19:05:40.292689 Foxtrot: Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:05:40.295714 Tango: Foxtrot, Lima, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:40.298702 Kilo: Foxtrot, Yankee, Lima, Tango, Papa and Juliett, sending you 2
+2024-10-14 19:05:40.302690 Tango: Yankee, sending you 4
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 13
+ChatterBot Foxtrot round 13
+ChatterBot Mike round 13
+ChatterBot Yankee round 13
+ChatterBot Lima round 13
+ChatterBot Tango round 13
+ChatterBot Whiskey round 13
+ChatterBot Papa round 13
+ChatterBot Kilo round 13
+ChatterBot Juliett round 13
+2024-10-14 19:05:41.421323 Oscar: We should replace Juliett with Mike
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:41.425316 Whiskey: Yes
+2024-10-14 19:05:41.432820 Yankee: We should add Juliett
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:41.449973 Foxtrot: No
+2024-10-14 19:05:41.450162 Lima: Yes
+2024-10-14 19:05:41.450277 Tango: Yes
+2024-10-14 19:05:41.450386 Papa: Yes
+2024-10-14 19:05:41.450501 Kilo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:05:41.546008 Juliett: We should add Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:41.559939 Foxtrot: Yes
+2024-10-14 19:05:41.560068 Yankee: Yes
+2024-10-14 19:05:41.560168 Lima: Yes
+2024-10-14 19:05:41.560284 Tango: Yes
+2024-10-14 19:05:41.560387 Kilo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:41.639085 Oscar: Mike we want you to join our group
+2024-10-14 19:05:41.641992 Mike: Yes
+2024-10-14 19:05:41.648447 Yankee: Juliett we want you to join our group
+2024-10-14 19:05:41.652453 Juliett: Yes
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:41.685865 Juliett: Papa we want you to join our group
+2024-10-14 19:05:41.708444 Papa: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:41.801546 Tango: I was attacked by Whiskey
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:41.826558 Tango: I'm keeping this round to protect myself
+2024-10-14 19:05:41.830083 Tango: Ow
+2024-10-14 19:05:41.831020 Mike: Oscar, sending you 3
+2024-10-14 19:05:41.831967 Whiskey: I was attacked by Kilo
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:05:41.839261 Whiskey: Ow
+2024-10-14 19:05:41.850741 Foxtrot: Yankee, sending you 2
+2024-10-14 19:05:41.857704 Foxtrot: Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:05:41.862680 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:05:41.865115 Yankee: Foxtrot and Juliett, sending you 2
+chatterbot Mike submitting transactions
+2024-10-14 19:05:41.868909 Kilo: Tango, sending you 3
+2024-10-14 19:05:41.872027 Mike: Sending you each 4
+2024-10-14 19:05:41.873307 Oscar: Mike, sending you 6
+2024-10-14 19:05:41.874632 Yankee: Lima, sending you 1
+2024-10-14 19:05:41.878848 Oscar: Whiskey, sending you 9
+2024-10-14 19:05:41.881951 Yankee: Tango, sending you 4
+2024-10-14 19:05:41.889679 Yankee: Papa and Kilo, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Oscar round 14
+ChatterBot Foxtrot round 14
+ChatterBot Mike round 14
+ChatterBot Yankee round 14
+ChatterBot Lima round 14
+ChatterBot Tango round 14
+ChatterBot Whiskey round 14
+ChatterBot Papa round 14
+ChatterBot Kilo round 14
+ChatterBot Juliett round 14
+2024-10-14 19:05:43.071535 Oscar: We should add Juliett
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:43.080057 Mike: No
+2024-10-14 19:05:43.080197 Whiskey: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:43.102487 Papa: Friends?
+2024-10-14 19:05:43.108771 Lima: No
+2024-10-14 19:05:43.137994 Foxtrot: We should drop Yankee
+ChatterBot Papa reevaluating
+2024-10-14 19:05:43.153513 Lima: No
+2024-10-14 19:05:43.153658 Tango: No
+2024-10-14 19:05:43.153783 Papa: No
+2024-10-14 19:05:43.153896 Kilo: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:05:43.211833 Oscar: We should add Yankee
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:43.219922 Mike: No
+2024-10-14 19:05:43.220076 Whiskey: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:43.236940 Yankee: We should drop Juliett
+ChatterBot Papa reevaluating
+2024-10-14 19:05:43.255336 Foxtrot: Yes
+2024-10-14 19:05:43.256257 Lima: No
+2024-10-14 19:05:43.256399 Tango: No
+2024-10-14 19:05:43.256495 Papa: Yes
+2024-10-14 19:05:43.256602 Kilo: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:05:43.342007 Oscar: Yankee we want you to join our group
+2024-10-14 19:05:43.345549 Yankee: No
+ChatterBot Oscar reevaluating
+2024-10-14 19:05:43.355218 Kilo: Foxtrot and Yankee, sending you 2
+2024-10-14 19:05:43.356677 Mike: Oscar, sending you 5
+2024-10-14 19:05:43.357160 Lima: Foxtrot, Yankee and Kilo, sending you 1
+2024-10-14 19:05:43.358354 Tango: I was attacked by Whiskey
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:43.375721 Tango: I'm keeping this round to protect myself
+2024-10-14 19:05:43.377452 Tango: Ow
+2024-10-14 19:05:43.377879 Mike: Whiskey, sending you 4
+2024-10-14 19:05:43.378996 Oscar: Juliett we want you to join our group
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:43.383332 Juliett: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Mike submitting transactions
+2024-10-14 19:05:43.396275 Papa: Sending you 5
+2024-10-14 19:05:43.403656 Whiskey: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:43.409701 Yankee: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:43.424274 Kilo: Sorry, I'm actually sending you 0
+2024-10-14 19:05:43.428177 Lima: Foxtrot, sending you 3
+2024-10-14 19:05:43.430902 Kilo: Foxtrot, Yankee and Tango, sending you 3
+2024-10-14 19:05:43.433389 Foxtrot: Lima and Kilo, sending you 4
+2024-10-14 19:05:43.435692 Lima: Yankee, Tango, Kilo and Juliett, sending you 1
+2024-10-14 19:05:43.438358 Kilo: Lima and Juliett, sending you 2
+2024-10-14 19:05:43.440903 Foxtrot: Tango and Papa, sending you 3
+2024-10-14 19:05:43.456688 Oscar: Mike, sending you 7
+2024-10-14 19:05:43.463514 Oscar: Whiskey, sending you 10
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Oscar round 15
+ChatterBot Foxtrot round 15
+ChatterBot Mike round 15
+ChatterBot Yankee round 15
+ChatterBot Lima round 15
+ChatterBot Tango round 15
+ChatterBot Whiskey round 15
+ChatterBot Papa round 15
+ChatterBot Kilo round 15
+ChatterBot Juliett round 15
+2024-10-14 19:05:44.529965 Juliett: We should replace Yankee with Papa
+2024-10-14 19:05:44.555074 Foxtrot: Yes
+2024-10-14 19:05:44.555933 Lima: No
+2024-10-14 19:05:44.556246 Tango: No
+2024-10-14 19:05:44.556627 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:44.663760 Juliett: Papa we want you to join our group
+2024-10-14 19:05:44.670609 Papa: No
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:44.698567 Lima: Foxtrot, sending you 3
+2024-10-14 19:05:44.701348 Oscar: Mike, sending you 7
+2024-10-14 19:05:44.701828 Foxtrot: Lima and Kilo, sending you 4
+2024-10-14 19:05:44.702338 Mike: Sending you each 5
+2024-10-14 19:05:44.703495 Papa: Foxtrot, Tango and Kilo, sending you 2
+2024-10-14 19:05:44.704086 Lima: Yankee, Tango, Kilo and Juliett, sending you 2
+2024-10-14 19:05:44.708691 Oscar: Whiskey, sending you 10
+2024-10-14 19:05:44.709839 Foxtrot: Tango and Papa, sending you 3
+2024-10-14 19:05:44.712224 Papa: Lima, sending you 1
+2024-10-14 19:05:44.738467 Kilo: Foxtrot, sending you 3
+2024-10-14 19:05:44.752348 Kilo: Yankee, Lima, Tango, Papa and Juliett, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Oscar round 16
+ChatterBot Foxtrot round 16
+ChatterBot Mike round 16
+ChatterBot Yankee round 16
+ChatterBot Lima round 16
+ChatterBot Tango round 16
+ChatterBot Whiskey round 16
+ChatterBot Papa round 16
+ChatterBot Kilo round 16
+ChatterBot Juliett round 16
+2024-10-14 19:05:45.802892 Tango: We should replace Juliett with Papa
+ChatterBot Lima reevaluating
+2024-10-14 19:05:45.831093 Foxtrot: Yes
+2024-10-14 19:05:45.831306 Yankee: Yes
+2024-10-14 19:05:45.831481 Lima: Yes
+2024-10-14 19:05:45.831642 Kilo: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:46.013714 Oscar: We should drop Yankee
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:46.024480 Mike: Yes
+2024-10-14 19:05:46.024692 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:46.048279 Lima: Papa we want you to join our group
+2024-10-14 19:05:46.055517 Papa: No
+ChatterBot Tango reevaluating
+2024-10-14 19:05:46.088818 Mike: Sending you each 6
+2024-10-14 19:05:46.089942 Oscar: Mike, sending you 7
+2024-10-14 19:05:46.090347 Kilo: Foxtrot, sending you 3
+2024-10-14 19:05:46.093711 Foxtrot: Lima and Kilo, sending you 4
+2024-10-14 19:05:46.095911 Oscar: Whiskey, sending you 8
+2024-10-14 19:05:46.102106 Kilo: Yankee, Lima, Tango, Papa and Juliett, sending you 2
+2024-10-14 19:05:46.105652 Tango: Foxtrot and Kilo, sending you 3
+2024-10-14 19:05:46.107755 Foxtrot: Tango and Papa, sending you 3
+2024-10-14 19:05:46.109571 Lima: Foxtrot and Papa, sending you 4
+2024-10-14 19:05:46.115687 Tango: Lima, Papa and Juliett, sending you 2
+2024-10-14 19:05:46.117903 Lima: Yankee, sending you 2
+2024-10-14 19:05:46.121865 Lima: Tango, sending you 1
+2024-10-14 19:05:46.128668 Lima: Kilo, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Oscar round 17
+ChatterBot Foxtrot round 17
+ChatterBot Mike round 17
+ChatterBot Yankee round 17
+ChatterBot Lima round 17
+ChatterBot Tango round 17
+ChatterBot Whiskey round 17
+ChatterBot Papa round 17
+ChatterBot Kilo round 17
+ChatterBot Juliett round 17
+2024-10-14 19:05:47.376948 Oscar: We should add Foxtrot
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:47.394631 Mike: No
+2024-10-14 19:05:47.396772 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:47.471004 Yankee: We should drop Foxtrot
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:47.497063 Lima: No
+2024-10-14 19:05:47.497374 Tango: No
+2024-10-14 19:05:47.497561 Papa: Yes
+2024-10-14 19:05:47.497730 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:47.568496 Oscar: Foxtrot we want you to join our group
+2024-10-14 19:05:47.573430 Foxtrot: No
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:47.610852 Lima: We should drop Papa
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:47.626304 Foxtrot: No
+2024-10-14 19:05:47.626568 Yankee: No
+2024-10-14 19:05:47.626795 Tango: Yes
+2024-10-14 19:05:47.627485 Kilo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:47.697747 Mike: Oscar, sending you 6
+2024-10-14 19:05:47.698655 Foxtrot: I was attacked by Papa
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:47.719493 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 19:05:47.721916 Foxtrot: Ow
+2024-10-14 19:05:47.722976 Juliett: Tango and Kilo, sending you 1
+2024-10-14 19:05:47.724381 Mike: Whiskey, sending you 5
+2024-10-14 19:05:47.745220 Oscar: Mike, sending you 9
+2024-10-14 19:05:47.782810 Oscar: Whiskey, sending you 8
+2024-10-14 19:05:47.824530 Papa: Sending you 5
+2024-10-14 19:05:47.825728 Kilo: Foxtrot, sending you 4
+2024-10-14 19:05:47.826925 Tango: Foxtrot, Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:05:47.869263 Kilo: Yankee, Lima and Tango, sending you 3
+2024-10-14 19:05:47.871418 Lima: Foxtrot, sending you 6
+2024-10-14 19:05:47.872751 Tango: Juliett, sending you 2
+2024-10-14 19:05:47.905918 Lima: Yankee, sending you 2
+2024-10-14 19:05:47.935480 Lima: Tango and Kilo, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Oscar round 18
+ChatterBot Foxtrot round 18
+ChatterBot Mike round 18
+ChatterBot Yankee round 18
+ChatterBot Lima round 18
+ChatterBot Tango round 18
+ChatterBot Whiskey round 18
+ChatterBot Papa round 18
+ChatterBot Kilo round 18
+ChatterBot Juliett round 18
+2024-10-14 19:05:48.703890 Whiskey: We should replace Yankee with Foxtrot
+2024-10-14 19:05:48.719543 Oscar: Yes
+2024-10-14 19:05:48.720827 Mike: No
+2024-10-14 19:05:48.762324 Kilo: We should replace Foxtrot with Papa
+2024-10-14 19:05:48.776606 Lima: No
+2024-10-14 19:05:48.776814 Tango: No
+2024-10-14 19:05:48.777347 Yankee: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:48.851557 Whiskey: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:48.856700 Foxtrot: No
+2024-10-14 19:05:48.876716 Kilo: Papa we want you to join our group
+2024-10-14 19:05:48.885942 Papa: No
+ChatterBot Tango reevaluating
+2024-10-14 19:05:49.817690 Mike: Sending you each 6
+2024-10-14 19:05:49.826804 Oscar: Mike, sending you 9
+2024-10-14 19:05:49.828927 Kilo: Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:05:49.832379 Foxtrot: Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:49.835493 Papa: Same as last round
+2024-10-14 19:05:49.836915 Lima: Foxtrot, Tango and Kilo, sending you 4
+2024-10-14 19:05:49.839797 Juliett: Yankee, Lima and Kilo, sending you 1
+chatterbot Tango submitting transactions
+2024-10-14 19:05:49.844230 Oscar: Whiskey, sending you 8
+2024-10-14 19:05:49.845540 Foxtrot: Papa, sending you 1
+2024-10-14 19:05:49.849231 Lima: Yankee, sending you 2
+2024-10-14 19:05:49.852128 Juliett: Tango, sending you 2
+2024-10-14 19:05:49.855725 Tango: Foxtrot, Yankee and Lima, sending you 3
+2024-10-14 19:05:49.960044 Tango: Kilo, sending you 5
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Oscar round 19
+ChatterBot Foxtrot round 19
+ChatterBot Mike round 19
+ChatterBot Yankee round 19
+ChatterBot Lima round 19
+ChatterBot Tango round 19
+ChatterBot Whiskey round 19
+ChatterBot Papa round 19
+ChatterBot Kilo round 19
+ChatterBot Juliett round 19
+2024-10-14 19:05:52.027776 Foxtrot: We should add Juliett
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:52.047752 Lima: No
+2024-10-14 19:05:52.047913 Tango: Yes
+2024-10-14 19:05:52.048020 Papa: Yes
+2024-10-14 19:05:52.048126 Kilo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:52.286280 Yankee: We should add Juliett
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:52.311149 Lima: Yes
+2024-10-14 19:05:52.311464 Tango: Yes
+2024-10-14 19:05:52.312164 Papa: Yes
+2024-10-14 19:05:52.312377 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:52.422376 Whiskey: We should replace Yankee with Foxtrot
+2024-10-14 19:05:52.433714 Oscar: Yes
+2024-10-14 19:05:52.434009 Mike: No
+2024-10-14 19:05:52.461989 Yankee: Juliett we want you to join our group
+2024-10-14 19:05:52.471482 Juliett: No
+ChatterBot Lima reevaluating
+2024-10-14 19:05:52.502305 Whiskey: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:52.509803 Foxtrot: No
+2024-10-14 19:05:52.523598 Oscar: I was attacked by Kilo
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:52.537976 Oscar: I'm keeping this round to protect myself
+2024-10-14 19:05:52.540287 Oscar: Ow
+2024-10-14 19:05:52.552865 Kilo: Foxtrot and Juliett, sending you 2
+2024-10-14 19:05:52.558121 Tango: Foxtrot and Kilo, sending you 3
+2024-10-14 19:05:52.562207 Papa: Sending you 6
+2024-10-14 19:05:52.562948 Foxtrot: Juliett we want you to join our group
+2024-10-14 19:05:52.570173 Juliett: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:52.591715 Kilo: Yankee, sending you 1
+2024-10-14 19:05:52.596071 Tango: Yankee and Juliett, sending you 2
+2024-10-14 19:05:52.599873 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:52.600792 Juliett: Yankee and Lima, sending you 1
+2024-10-14 19:05:52.604784 Kilo: Lima and Tango, sending you 3
+2024-10-14 19:05:52.608210 Yankee: Lima, Kilo and Juliett, sending you 1
+2024-10-14 19:05:52.611019 Tango: Lima, sending you 4
+2024-10-14 19:05:52.613092 Mike: Oscar, sending you 5
+2024-10-14 19:05:52.613654 Lima: Yankee and Juliett, sending you 2
+2024-10-14 19:05:52.615661 Juliett: Tango, sending you 3
+2024-10-14 19:05:52.617450 Yankee: Tango, sending you 2
+2024-10-14 19:05:52.618695 Mike: Whiskey, sending you 6
+2024-10-14 19:05:52.619111 Lima: Tango and Kilo, sending you 3
+2024-10-14 19:05:52.691160 Juliett: Kilo, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 19:05:52.704661 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:52.725439 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:05:52.846073 Foxtrot: Papa and Juliett, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Oscar round 20
+ChatterBot Foxtrot round 20
+ChatterBot Mike round 20
+ChatterBot Yankee round 20
+ChatterBot Lima round 20
+ChatterBot Tango round 20
+ChatterBot Whiskey round 20
+ChatterBot Papa round 20
+ChatterBot Kilo round 20
+ChatterBot Juliett round 20
+2024-10-14 19:05:53.611071 Whiskey: We should replace Yankee with Foxtrot
+2024-10-14 19:05:53.619768 Oscar: Yes
+2024-10-14 19:05:53.620547 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:05:53.711842 Whiskey: Foxtrot we want you to join our group
+2024-10-14 19:05:53.720257 Foxtrot: No
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:53.739335 Papa: I was attacked by Kilo
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:53.747949 Papa: Ow
+2024-10-14 19:05:53.750281 Mike: Oscar, sending you 7
+2024-10-14 19:05:53.752114 Tango: Foxtrot, Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:05:53.757152 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:53.762522 Yankee: Lima and Kilo, sending you 2
+2024-10-14 19:05:53.767564 Kilo: Foxtrot, Lima and Tango, sending you 3
+2024-10-14 19:05:53.772784 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:53.778320 Oscar: Mike, sending you 7
+2024-10-14 19:05:53.780736 Mike: Whiskey, sending you 8
+2024-10-14 19:05:53.782207 Tango: Yankee, sending you 2
+2024-10-14 19:05:53.787704 Lima: Yankee and Juliett, sending you 2
+2024-10-14 19:05:53.792787 Yankee: Tango, sending you 4
+2024-10-14 19:05:53.797503 Kilo: Yankee and Juliett, sending you 2
+2024-10-14 19:05:53.802102 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:05:53.806670 Oscar: Whiskey, sending you 6
+2024-10-14 19:05:53.808702 Lima: Tango and Kilo, sending you 3
+2024-10-14 19:05:53.813102 Yankee: Juliett, sending you 1
+2024-10-14 19:05:53.817485 Foxtrot: Papa and Juliett, sending you 2
+2024-10-14 19:05:53.821857 Juliett: Foxtrot, sending you 1
+2024-10-14 19:05:53.858871 Juliett: Yankee and Lima, sending you 2
+2024-10-14 19:05:53.881647 Juliett: Tango and Kilo, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Oscar round 21
+ChatterBot Foxtrot round 21
+ChatterBot Mike round 21
+ChatterBot Yankee round 21
+ChatterBot Lima round 21
+ChatterBot Tango round 21
+ChatterBot Whiskey round 21
+ChatterBot Papa round 21
+ChatterBot Kilo round 21
+ChatterBot Juliett round 21
+2024-10-14 19:05:54.942803 Whiskey: We should replace Yankee with Foxtrot
+2024-10-14 19:05:54.953196 Oscar: No
+2024-10-14 19:05:54.953368 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:54.972382 Oscar: We should drop Foxtrot
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:54.979677 Mike: Yes
+2024-10-14 19:05:54.979822 Whiskey: No
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:54.996521 Kilo: We should drop Yankee
+2024-10-14 19:05:55.012242 Foxtrot: Yes
+2024-10-14 19:05:55.012998 Lima: No
+2024-10-14 19:05:55.013128 Tango: No
+2024-10-14 19:05:55.013252 Juliett: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:55.110788 Papa: Foxtrot, sending you 4
+2024-10-14 19:05:55.117154 Tango: Foxtrot, Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:05:55.121845 Juliett: Foxtrot, sending you 1
+2024-10-14 19:05:55.126679 Whiskey: Foxtrot we want you to join our group
+2024-10-14 19:05:55.133738 Foxtrot: No
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:55.152835 Oscar: I was attacked by Papa
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:05:55.166798 Oscar: I'm keeping this round to protect myself
+2024-10-14 19:05:55.169090 Oscar: Ow
+2024-10-14 19:05:55.171144 Papa: Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:55.176592 Tango: Yankee, sending you 2
+2024-10-14 19:05:55.181256 Juliett: Yankee and Lima, sending you 2
+2024-10-14 19:05:55.185348 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:55.189637 Yankee: Lima and Kilo, sending you 3
+2024-10-14 19:05:55.193565 Kilo: Foxtrot, Lima and Tango, sending you 3
+2024-10-14 19:05:55.197397 Papa: Juliett, sending you 1
+2024-10-14 19:05:55.202553 Lima: Foxtrot, sending you 4
+2024-10-14 19:05:55.205135 Juliett: Tango, sending you 4
+2024-10-14 19:05:55.208669 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:05:55.210740 Yankee: Tango, sending you 4
+2024-10-14 19:05:55.213465 Kilo: Yankee and Juliett, sending you 2
+2024-10-14 19:05:55.215920 Lima: Yankee and Juliett, sending you 2
+2024-10-14 19:05:55.219975 Juliett: Kilo, sending you 3
+2024-10-14 19:05:55.223585 Foxtrot: Papa and Juliett, sending you 2
+2024-10-14 19:05:55.227253 Yankee: Juliett, sending you 2
+chatterbot Papa submitting transactions
+2024-10-14 19:05:55.230502 Lima: Tango and Kilo, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Oscar round 22
+ChatterBot Foxtrot round 22
+ChatterBot Mike round 22
+ChatterBot Yankee round 22
+ChatterBot Lima round 22
+ChatterBot Tango round 22
+ChatterBot Whiskey round 22
+ChatterBot Papa round 22
+ChatterBot Kilo round 22
+ChatterBot Juliett round 22
+2024-10-14 19:05:56.322817 Juliett: We should add Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:56.340995 Foxtrot: No
+2024-10-14 19:05:56.341188 Yankee: Yes
+2024-10-14 19:05:56.341731 Lima: Yes
+2024-10-14 19:05:56.341855 Tango: Yes
+2024-10-14 19:05:56.341964 Kilo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:56.621780 Juliett: We should replace Foxtrot with Papa
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:05:56.651506 Tango: No
+2024-10-14 19:05:56.652480 Yankee: No
+2024-10-14 19:05:56.652718 Kilo: Yes
+2024-10-14 19:05:56.652934 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:56.973334 Juliett: Papa we want you to join our group
+2024-10-14 19:05:56.981858 Papa: Yes
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:57.112088 Papa: Foxtrot, sending you 4
+2024-10-14 19:05:57.116796 Foxtrot: Yankee and Papa, sending you 2
+2024-10-14 19:05:57.120496 Lima: Foxtrot, Tango and Kilo, sending you 3
+2024-10-14 19:05:57.125842 Yankee: Lima and Juliett, sending you 3
+2024-10-14 19:05:57.129264 Papa: Yankee, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:57.134622 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:57.137668 Lima: Yankee and Juliett, sending you 2
+2024-10-14 19:05:57.141029 Yankee: Tango and Kilo, sending you 4
+2024-10-14 19:05:57.143968 Tango: Yankee, Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:05:57.146689 Papa: Juliett, sending you 1
+2024-10-14 19:05:57.151092 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:05:57.155386 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:05:57.160682 Lima: Papa, sending you 1
+2024-10-14 19:05:57.165760 Yankee: Papa, sending you 1
+2024-10-14 19:05:57.169704 Tango: Papa, sending you 2
+chatterbot Lima submitting transactions
+2024-10-14 19:05:57.174760 Kilo: Tango, sending you 3
+2024-10-14 19:05:57.181126 Juliett: Yankee, sending you 2
+2024-10-14 19:05:57.235278 Juliett: Lima and Kilo, sending you 3
+2024-10-14 19:05:57.278512 Juliett: Tango, sending you 4
+chatterbot Yankee submitting transactions
+2024-10-14 19:05:57.308059 Juliett: Papa, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 23
+ChatterBot Foxtrot round 23
+ChatterBot Mike round 23
+ChatterBot Yankee round 23
+ChatterBot Lima round 23
+ChatterBot Tango round 23
+ChatterBot Whiskey round 23
+ChatterBot Papa round 23
+ChatterBot Kilo round 23
+ChatterBot Juliett round 23
+2024-10-14 19:05:58.452940 Foxtrot: We should replace Yankee with Juliett
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 19:05:58.467688 Lima: No
+2024-10-14 19:05:58.467851 Tango: No
+2024-10-14 19:05:58.467988 Papa: No
+2024-10-14 19:05:58.468982 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:05:58.543404 Yankee: We should add Foxtrot
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:58.560715 Tango: Yes
+2024-10-14 19:05:58.560899 Papa: Yes
+2024-10-14 19:05:58.561019 Kilo: Yes
+2024-10-14 19:05:58.561135 Juliett: Yes
+2024-10-14 19:05:58.561258 Lima: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 19:05:58.807142 Yankee: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:58.855634 Foxtrot: No
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:58.964574 Juliett: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:58.975890 Foxtrot: No
+ChatterBot Yankee reevaluating
+2024-10-14 19:05:59.005019 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:05:59.010601 Lima: Foxtrot and Tango, sending you 3
+2024-10-14 19:05:59.016131 Oscar: Mike, sending you 6
+2024-10-14 19:05:59.017575 Foxtrot: Juliett we want you to join our group
+2024-10-14 19:05:59.025449 Juliett: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:05:59.050303 Tango: Juliett, sending you 4
+2024-10-14 19:05:59.057420 Papa: Foxtrot and Juliett, sending you 3
+2024-10-14 19:05:59.063995 Lima: Yankee, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:05:59.074755 Oscar: Whiskey, sending you 7
+2024-10-14 19:05:59.085631 Papa: Yankee, sending you 1
+2024-10-14 19:05:59.092330 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:05:59.098645 Juliett: Foxtrot, sending you 1
+2024-10-14 19:05:59.105900 Papa: Lima, Tango and Kilo, sending you 2
+2024-10-14 19:05:59.110088 Kilo: Tango, sending you 3
+2024-10-14 19:05:59.116742 Juliett: Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:05:59.123448 Yankee: Foxtrot and Papa, sending you 1
+2024-10-14 19:05:59.129664 Foxtrot: Lima, sending you 4
+2024-10-14 19:05:59.134397 Juliett: Tango and Papa, sending you 4
+2024-10-14 19:05:59.140597 Yankee: Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:05:59.145490 Foxtrot: Tango and Kilo, sending you 3
+chatterbot Whiskey submitting transactions
+2024-10-14 19:05:59.177126 Yankee: Tango, sending you 4
+2024-10-14 19:05:59.184175 Foxtrot: Papa and Juliett, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Oscar round 24
+ChatterBot Foxtrot round 24
+ChatterBot Mike round 24
+ChatterBot Yankee round 24
+ChatterBot Lima round 24
+ChatterBot Tango round 24
+ChatterBot Whiskey round 24
+ChatterBot Papa round 24
+ChatterBot Kilo round 24
+ChatterBot Juliett round 24
+2024-10-14 19:06:00.895084 Oscar: Mike, sending you 6
+2024-10-14 19:06:01.001589 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:06:01.006520 Oscar: Whiskey, sending you 7
+2024-10-14 19:06:01.007771 Juliett: Foxtrot, sending you 1
+2024-10-14 19:06:01.012486 Lima: Foxtrot and Tango, sending you 3
+2024-10-14 19:06:01.017271 Yankee: Foxtrot and Papa, sending you 1
+2024-10-14 19:06:01.021873 Foxtrot: Lima, sending you 4
+2024-10-14 19:06:01.025262 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:01.030441 Kilo: Tango, sending you 3
+2024-10-14 19:06:01.035197 Juliett: Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:06:01.040535 Lima: Yankee, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:06:01.046014 Yankee: Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:06:01.051463 Foxtrot: Tango, Papa and Kilo, sending you 3
+2024-10-14 19:06:01.054593 Tango: Juliett, sending you 4
+2024-10-14 19:06:01.058780 Juliett: Tango, sending you 5
+2024-10-14 19:06:01.065473 Yankee: Tango, sending you 4
+2024-10-14 19:06:01.072186 Foxtrot: Juliett, sending you 1
+2024-10-14 19:06:01.076609 Juliett: Papa, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Oscar round 25
+ChatterBot Foxtrot round 25
+ChatterBot Mike round 25
+ChatterBot Yankee round 25
+ChatterBot Lima round 25
+ChatterBot Tango round 25
+ChatterBot Whiskey round 25
+ChatterBot Papa round 25
+ChatterBot Kilo round 25
+ChatterBot Juliett round 25
+2024-10-14 19:06:02.668256 Lima: Foxtrot and Tango, sending you 3
+2024-10-14 19:06:02.674012 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:06:02.676449 Yankee: Foxtrot and Papa, sending you 1
+2024-10-14 19:06:02.679522 Papa: Foxtrot, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:06:02.682325 Oscar: Mike, sending you 5
+2024-10-14 19:06:02.683787 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:02.688601 Juliett: Foxtrot, sending you 2
+2024-10-14 19:06:02.691301 Foxtrot: Lima, sending you 4
+2024-10-14 19:06:02.695267 Lima: Yankee, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:06:02.699070 Kilo: Tango, sending you 3
+2024-10-14 19:06:02.702566 Yankee: Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:06:02.707652 Papa: Yankee, sending you 1
+2024-10-14 19:06:02.711856 Oscar: Whiskey, sending you 7
+2024-10-14 19:06:02.712530 Tango: Juliett, sending you 4
+2024-10-14 19:06:02.717728 Juliett: Yankee, Lima, Papa and Kilo, sending you 3
+2024-10-14 19:06:02.720233 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:06:02.722304 Yankee: Tango, sending you 4
+2024-10-14 19:06:02.728896 Papa: Juliett, sending you 4
+2024-10-14 19:06:02.732710 Juliett: Tango, sending you 5
+2024-10-14 19:06:02.738742 Foxtrot: Papa and Juliett, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 26
+ChatterBot Foxtrot round 26
+ChatterBot Mike round 26
+ChatterBot Yankee round 26
+ChatterBot Lima round 26
+ChatterBot Tango round 26
+ChatterBot Whiskey round 26
+ChatterBot Papa round 26
+ChatterBot Kilo round 26
+ChatterBot Juliett round 26
+2024-10-14 19:06:04.046034 Foxtrot: We should replace Kilo with Yankee
+2024-10-14 19:06:04.067892 Lima: No
+2024-10-14 19:06:04.068248 Tango: No
+2024-10-14 19:06:04.068516 Papa: No
+2024-10-14 19:06:04.069340 Juliett: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:06:04.402674 Lima: Foxtrot and Tango, sending you 3
+2024-10-14 19:06:04.411920 Oscar: Mike, sending you 6
+2024-10-14 19:06:04.414634 Juliett: Foxtrot, sending you 2
+2024-10-14 19:06:04.423314 Yankee: Foxtrot and Papa, sending you 1
+2024-10-14 19:06:04.430822 Papa: Foxtrot, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:06:04.439955 Lima: Yankee, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:06:04.448301 Oscar: Whiskey, sending you 7
+2024-10-14 19:06:04.451291 Juliett: Yankee, Lima, Papa and Kilo, sending you 3
+2024-10-14 19:06:04.458963 Yankee: Lima, Kilo and Juliett, sending you 3
+2024-10-14 19:06:04.467364 Papa: Yankee, sending you 1
+2024-10-14 19:06:04.475317 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:06:04.483148 Foxtrot: Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:06:04.488998 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:04.497296 Juliett: Tango, sending you 5
+chatterbot Oscar submitting transactions
+2024-10-14 19:06:04.504441 Yankee: Tango, sending you 4
+2024-10-14 19:06:04.512758 Papa: Juliett, sending you 4
+2024-10-14 19:06:04.519886 Kilo: Tango, sending you 3
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:06:04.527381 Foxtrot: Juliett, sending you 2
+2024-10-14 19:06:04.533555 Tango: Juliett, sending you 4
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Oscar round 27
+ChatterBot Foxtrot round 27
+ChatterBot Mike round 27
+ChatterBot Yankee round 27
+ChatterBot Lima round 27
+ChatterBot Tango round 27
+ChatterBot Whiskey round 27
+ChatterBot Papa round 27
+ChatterBot Kilo round 27
+ChatterBot Juliett round 27
+2024-10-14 19:06:05.785645 Yankee: We should drop Foxtrot
+2024-10-14 19:06:05.803838 Tango: No
+2024-10-14 19:06:05.804057 Papa: No
+2024-10-14 19:06:05.804239 Kilo: No
+2024-10-14 19:06:05.804407 Juliett: No
+2024-10-14 19:06:05.804627 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:06:05.968686 Juliett: Foxtrot, sending you 1
+2024-10-14 19:06:05.976510 Lima: Foxtrot, sending you 4
+2024-10-14 19:06:05.984916 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:05.991551 Juliett: Yankee, Lima and Kilo, sending you 3
+2024-10-14 19:06:05.998363 Lima: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:06:06.004176 Tango: Juliett, sending you 4
+2024-10-14 19:06:06.010390 Foxtrot: Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:06:06.016530 Kilo: Foxtrot, Yankee, Lima, Papa and Juliett, sending you 2
+2024-10-14 19:06:06.024097 Oscar: Mike, sending you 6
+2024-10-14 19:06:06.026408 Papa: Foxtrot, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:06:06.034164 Juliett: Tango, sending you 5
+2024-10-14 19:06:06.042120 Foxtrot: Juliett, sending you 2
+2024-10-14 19:06:06.046075 Kilo: Tango, sending you 3
+2024-10-14 19:06:06.052760 Oscar: Whiskey, sending you 7
+2024-10-14 19:06:06.055175 Papa: Yankee, sending you 1
+2024-10-14 19:06:06.061604 Yankee: Foxtrot, sending you 1
+2024-10-14 19:06:06.066697 Juliett: Papa, sending you 4
+2024-10-14 19:06:06.074799 Papa: Juliett, sending you 4
+chatterbot Juliett submitting transactions
+2024-10-14 19:06:06.083259 Yankee: Lima and Kilo, sending you 3
+2024-10-14 19:06:06.173565 Yankee: Tango and Juliett, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Oscar round 28
+ChatterBot Foxtrot round 28
+ChatterBot Mike round 28
+ChatterBot Yankee round 28
+ChatterBot Lima round 28
+ChatterBot Tango round 28
+ChatterBot Whiskey round 28
+ChatterBot Papa round 28
+ChatterBot Kilo round 28
+ChatterBot Juliett round 28
+2024-10-14 19:06:07.157755 Foxtrot: We should replace Tango with Yankee
+2024-10-14 19:06:07.180721 Lima: No
+2024-10-14 19:06:07.180878 Papa: No
+2024-10-14 19:06:07.181006 Kilo: No
+2024-10-14 19:06:07.181119 Juliett: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:06:07.277160 Yankee: We should add Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:06:07.301185 Foxtrot: Yes
+2024-10-14 19:06:07.301380 Lima: Yes
+2024-10-14 19:06:07.301516 Tango: Yes
+2024-10-14 19:06:07.301699 Kilo: Yes
+2024-10-14 19:06:07.302394 Juliett: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:06:07.430386 Yankee: We should replace Foxtrot with Papa
+2024-10-14 19:06:07.525691 Tango: No
+2024-10-14 19:06:07.526025 Kilo: No
+2024-10-14 19:06:07.526237 Juliett: No
+2024-10-14 19:06:07.526384 Lima: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:06:07.704501 Kilo: Foxtrot, Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:06:07.709985 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:07.715736 Oscar: Mike, sending you 5
+2024-10-14 19:06:07.717649 Lima: Foxtrot, sending you 4
+2024-10-14 19:06:07.721208 Yankee: Papa we want you to join our group
+2024-10-14 19:06:07.727859 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:06:07.754239 Kilo: Juliett, sending you 3
+2024-10-14 19:06:07.759440 Tango: Juliett, sending you 4
+2024-10-14 19:06:07.771055 Oscar: Whiskey, sending you 7
+2024-10-14 19:06:07.779555 Lima: Yankee, Tango, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:06:07.787538 Juliett: Foxtrot and Lima, sending you 2
+2024-10-14 19:06:07.822079 Juliett: Yankee and Kilo, sending you 3
+2024-10-14 19:06:07.836257 Foxtrot: Yankee, sending you 2
+2024-10-14 19:06:07.845520 Juliett: Tango, sending you 5
+2024-10-14 19:06:07.855629 Foxtrot: Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:06:07.863624 Yankee: Lima and Kilo, sending you 3
+2024-10-14 19:06:07.871558 Juliett: Papa, sending you 4
+2024-10-14 19:06:07.882552 Yankee: Tango and Juliett, sending you 4
+chatterbot Juliett submitting transactions
+2024-10-14 19:06:07.982930 Yankee: Papa, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Oscar round 29
+ChatterBot Foxtrot round 29
+ChatterBot Mike round 29
+ChatterBot Yankee round 29
+ChatterBot Lima round 29
+ChatterBot Tango round 29
+ChatterBot Whiskey round 29
+ChatterBot Papa round 29
+ChatterBot Kilo round 29
+ChatterBot Juliett round 29
+2024-10-14 19:06:08.944925 Foxtrot: We should replace Yankee with Juliett
+2024-10-14 19:06:08.966245 Lima: No
+2024-10-14 19:06:08.966455 Tango: No
+2024-10-14 19:06:08.966631 Papa: No
+2024-10-14 19:06:08.966784 Kilo: No
+2024-10-14 19:06:09.085920 Foxtrot: Juliett we want you to join our group
+2024-10-14 19:06:09.096205 Juliett: Yes
+2024-10-14 19:06:09.324184 Yankee: Lima and Kilo, sending you 3
+2024-10-14 19:06:09.332663 Lima: Foxtrot and Tango, sending you 3
+2024-10-14 19:06:09.342080 Oscar: Mike, sending you 3
+2024-10-14 19:06:09.344620 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:09.355414 Yankee: Tango and Juliett, sending you 4
+2024-10-14 19:06:09.363246 Lima: Yankee, Papa, Kilo and Juliett, sending you 2
+2024-10-14 19:06:09.372145 Oscar: Whiskey, sending you 4
+2024-10-14 19:06:09.375092 Foxtrot: Lima, sending you 4
+2024-10-14 19:06:09.382451 Juliett: Foxtrot, sending you 1
+2024-10-14 19:06:09.388986 Tango: Juliett, sending you 4
+2024-10-14 19:06:09.396400 Papa: Foxtrot, Lima, Tango and Kilo, sending you 2
+2024-10-14 19:06:09.402846 Kilo: Foxtrot, Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:06:09.409078 Yankee: Papa, sending you 1
+2024-10-14 19:06:09.415295 Foxtrot: Tango and Kilo, sending you 3
+2024-10-14 19:06:09.421628 Juliett: Yankee, Lima, Papa and Kilo, sending you 3
+2024-10-14 19:06:09.428986 Papa: Yankee, sending you 1
+2024-10-14 19:06:09.434929 Kilo: Juliett, sending you 3
+2024-10-14 19:06:09.440099 Foxtrot: Papa and Juliett, sending you 2
+chatterbot Juliett submitting transactions
+2024-10-14 19:06:09.443323 Juliett: Tango, sending you 6
+2024-10-14 19:06:09.447968 Papa: Juliett, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 30
+ChatterBot Foxtrot round 30
+ChatterBot Mike round 30
+ChatterBot Yankee round 30
+ChatterBot Lima round 30
+ChatterBot Tango round 30
+ChatterBot Whiskey round 30
+ChatterBot Papa round 30
+ChatterBot Kilo round 30
+ChatterBot Juliett round 30
+2024-10-14 19:06:10.310394 Oscar: We should replace Foxtrot with Juliett
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:06:10.321088 Mike: No
+2024-10-14 19:06:10.321657 Whiskey: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:06:10.379398 Yankee: We should add Foxtrot
+2024-10-14 19:06:10.404004 Tango: Yes
+2024-10-14 19:06:10.404269 Papa: Yes
+2024-10-14 19:06:10.404455 Kilo: Yes
+2024-10-14 19:06:10.404625 Juliett: Yes
+2024-10-14 19:06:10.404796 Lima: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:06:10.524121 Oscar: We should replace Foxtrot with Lima
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:06:10.530516 Mike: No
+2024-10-14 19:06:10.530711 Whiskey: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:06:10.549676 Foxtrot: Lima, Tango, Papa and Kilo, sending you 3
+2024-10-14 19:06:10.554260 Yankee: Foxtrot we want you to join our group
+2024-10-14 19:06:10.562217 Foxtrot: No
+ChatterBot Yankee reevaluating
+2024-10-14 19:06:10.598602 Foxtrot: Juliett, sending you 2
+2024-10-14 19:06:10.604129 Juliett: Foxtrot and Lima, sending you 2
+2024-10-14 19:06:10.610950 Papa: Foxtrot, Tango and Juliett, sending you 2
+2024-10-14 19:06:10.614600 Kilo: Foxtrot, Yankee, Lima, Tango and Papa, sending you 2
+2024-10-14 19:06:10.619596 Tango: Foxtrot, Yankee, Lima, Papa and Kilo, sending you 2
+2024-10-14 19:06:10.628177 Lima: Foxtrot, sending you 4
+2024-10-14 19:06:10.632236 Juliett: Yankee and Kilo, sending you 3
+2024-10-14 19:06:10.639648 Papa: Yankee, Lima and Kilo, sending you 1
+2024-10-14 19:06:10.644221 Papa: I was attacked by Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:06:10.754209 Papa: Ow
+2024-10-14 19:06:10.757748 Oscar: Mike, sending you 6
+2024-10-14 19:06:10.765043 Oscar: Whiskey, sending you 5
+2024-10-14 19:06:10.790727 Yankee: Foxtrot and Papa, sending you 1
+2024-10-14 19:06:10.798676 Yankee: Lima, Tango and Kilo, sending you 3
+2024-10-14 19:06:10.804673 Yankee: Juliett, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions

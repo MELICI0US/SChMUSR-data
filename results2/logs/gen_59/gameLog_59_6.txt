@@ -1,0 +1,1693 @@
+ChatterBot Quebec round 1
+ChatterBot Hotel round 1
+ChatterBot Oscar round 1
+ChatterBot Bravo round 1
+ChatterBot Yankee round 1
+ChatterBot Whiskey round 1
+ChatterBot Romeo round 1
+ChatterBot Charlie round 1
+ChatterBot Foxtrot round 1
+ChatterBot Delta round 1
+randomSelections Hotel: {Hotel, Bravo, Yankee, Foxtrot} 
+2024-10-14 17:45:57.704903 Hotel: We would work well together
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:57.720798 Bravo: Yes
+2024-10-14 17:45:57.721054 Yankee: Yes
+2024-10-14 17:45:57.721263 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+randomSelections Charlie: {Charlie, Quebec, Foxtrot, Yankee, Whiskey, Oscar} 
+2024-10-14 17:45:57.823895 Charlie: Group up?
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:45:57.840801 Quebec: Yes
+2024-10-14 17:45:57.841142 Foxtrot: No
+2024-10-14 17:45:57.842237 Yankee: No
+2024-10-14 17:45:57.842627 Whiskey: Yes
+2024-10-14 17:45:57.842963 Oscar: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Romeo: {Romeo, Charlie, Hotel, Oscar, Quebec, Bravo} 
+2024-10-14 17:45:57.905195 Romeo: We should group up
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:45:57.915518 Charlie: No
+2024-10-14 17:45:57.915763 Hotel: No
+2024-10-14 17:45:57.916755 Oscar: No
+2024-10-14 17:45:57.916950 Quebec: No
+2024-10-14 17:45:57.917187 Bravo: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+randomSelections Delta: {Delta, Oscar, Hotel} 
+2024-10-14 17:45:57.957250 Delta: Group up?
+ChatterBot Oscar reevaluating
+2024-10-14 17:45:57.960465 Oscar: No
+2024-10-14 17:45:57.961224 Hotel: No
+ChatterBot Oscar reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 17:45:57.987829 Yankee: Hotel, sending you 5
+2024-10-14 17:45:57.991306 Charlie: Quebec and Whiskey, sending you 4
+2024-10-14 17:45:57.991750 Delta: Hotel, sending you 10
+2024-10-14 17:45:57.992064 Yankee: Bravo, sending you 4
+2024-10-14 17:45:57.996051 Yankee: Foxtrot, sending you 6
+2024-10-14 17:45:57.997152 Charlie: Oscar, sending you 1
+2024-10-14 17:45:57.997523 Delta: Oscar, sending you 9
+2024-10-14 17:45:57.998780 Oscar: Quebec, Charlie and Foxtrot, sending you 3
+2024-10-14 17:45:57.999214 Bravo: Hotel and Yankee, sending you 6
+2024-10-14 17:45:58.005915 Hotel: Bravo, sending you 6
+2024-10-14 17:45:58.006854 Charlie: Yankee, sending you 3
+2024-10-14 17:45:58.007269 Quebec: Oscar, sending you 1
+2024-10-14 17:45:58.007610 Oscar: Yankee, sending you 2
+2024-10-14 17:45:58.008342 Romeo: Quebec, Hotel, Bravo and Charlie, sending you 3
+2024-10-14 17:45:58.008708 Bravo: Foxtrot, sending you 2
+2024-10-14 17:45:58.020012 Charlie: Foxtrot, sending you 2
+2024-10-14 17:45:58.021006 Quebec: Yankee, Whiskey and Foxtrot, sending you 3
+2024-10-14 17:45:58.021347 Whiskey: Quebec, sending you 3
+2024-10-14 17:45:58.021594 Hotel: Yankee, sending you 7
+2024-10-14 17:45:58.021826 Oscar: Whiskey, sending you 1
+2024-10-14 17:45:58.022637 Foxtrot: Hotel, sending you 3
+2024-10-14 17:45:58.022931 Romeo: Oscar, sending you 4
+2024-10-14 17:45:58.029275 Quebec: Charlie, sending you 6
+2024-10-14 17:45:58.030159 Whiskey: Yankee and Foxtrot, sending you 1
+2024-10-14 17:45:58.030984 Foxtrot: Bravo, sending you 6
+2024-10-14 17:45:58.031285 Hotel: Foxtrot, sending you 5
+2024-10-14 17:45:58.034357 Foxtrot: Yankee, sending you 7
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Quebec round 2
+ChatterBot Hotel round 2
+ChatterBot Oscar round 2
+2024-10-14 17:45:59.116779 Quebec: Let's form a team
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:45:59.159767 Whiskey: No
+2024-10-14 17:45:59.159935 Charlie: No
+2024-10-14 17:45:59.160053 Oscar: Yes
+2024-10-14 17:45:59.160155 Romeo: No
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:45:59.333956 Charlie: We would work well together
+ChatterBot Romeo reevaluating
+2024-10-14 17:45:59.347556 Romeo: No
+ChatterBot Charlie reevaluating
+ChatterBot Bravo round 2
+ChatterBot Yankee round 2
+ChatterBot Whiskey round 2
+ChatterBot Romeo round 2
+ChatterBot Charlie round 2
+ChatterBot Foxtrot round 2
+ChatterBot Delta round 2
+2024-10-14 17:45:59.370714 Hotel: We should add Delta
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:45:59.381655 Bravo: No
+2024-10-14 17:45:59.382266 Yankee: No
+2024-10-14 17:45:59.382410 Foxtrot: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:45:59.433325 Romeo: Let's form a team
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:45:59.454648 Oscar: Yes
+2024-10-14 17:45:59.454850 Quebec: No
+2024-10-14 17:45:59.454969 Whiskey: No
+2024-10-14 17:45:59.455079 Charlie: No
+2024-10-14 17:45:59.455202 Delta: No
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:45:59.600553 Delta: Can we be friends?
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:45:59.623549 Quebec: Yes
+2024-10-14 17:45:59.623697 Charlie: Yes
+2024-10-14 17:45:59.623798 Oscar: Yes
+2024-10-14 17:45:59.623892 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:45:59.745585 Charlie: Let's form a team
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:45:59.785156 Oscar: Yes
+2024-10-14 17:45:59.785389 Quebec: Yes
+2024-10-14 17:45:59.785542 Whiskey: No
+2024-10-14 17:45:59.786132 Romeo: No
+2024-10-14 17:45:59.786287 Delta: No
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:00.230253 Oscar: Quebec and Charlie, sending you 2
+2024-10-14 17:46:00.231660 Bravo: Romeo we want you to join our group
+2024-10-14 17:46:00.239145 Romeo: No
+ChatterBot Hotel reevaluating
+chatterbot Bravo submitting transactions
+2024-10-14 17:46:00.257584 Oscar: Romeo, sending you 3
+2024-10-14 17:46:00.414832 Romeo: Quebec, sending you 4
+2024-10-14 17:46:00.415631 Quebec: Oscar, Whiskey, Romeo and Charlie, sending you 4
+2024-10-14 17:46:00.415907 Yankee: Hotel and Foxtrot, sending you 6
+2024-10-14 17:46:00.416184 Charlie: Quebec, sending you 7
+2024-10-14 17:46:00.416964 Whiskey: Quebec and Charlie, sending you 2
+2024-10-14 17:46:00.417181 Oscar: Delta, sending you 5
+2024-10-14 17:46:00.417432 Delta: Quebec, Oscar and Charlie, sending you 5
+2024-10-14 17:46:00.417662 Foxtrot: Quebec and Hotel, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 17:46:00.418675 Romeo: Oscar, Whiskey, Charlie and Delta, sending you 3
+2024-10-14 17:46:00.419012 Yankee: Bravo, sending you 4
+2024-10-14 17:46:00.452609 Quebec: Delta, sending you 1
+2024-10-14 17:46:00.453270 Charlie: Oscar and Romeo, sending you 4
+2024-10-14 17:46:00.454124 Delta: Romeo, sending you 4
+2024-10-14 17:46:00.454468 Foxtrot: Bravo, Whiskey and Charlie, sending you 2
+2024-10-14 17:46:00.454820 Whiskey: Oscar, sending you 1
+2024-10-14 17:46:00.455427 Bravo: Hotel, sending you 6
+2024-10-14 17:46:00.532039 Charlie: Whiskey and Delta, sending you 2
+2024-10-14 17:46:00.532805 Foxtrot: Yankee, sending you 4
+2024-10-14 17:46:00.533108 Hotel: Bravo, sending you 8
+2024-10-14 17:46:00.533377 Bravo: Yankee and Romeo, sending you 4
+chatterbot Delta submitting transactions
+2024-10-14 17:46:00.560367 Hotel: Yankee, sending you 7
+2024-10-14 17:46:00.560712 Bravo: Foxtrot, sending you 5
+2024-10-14 17:46:00.820320 Hotel: Foxtrot, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Quebec round 3
+ChatterBot Hotel round 3
+ChatterBot Oscar round 3
+ChatterBot Bravo round 3
+ChatterBot Yankee round 3
+ChatterBot Whiskey round 3
+ChatterBot Romeo round 3
+ChatterBot Charlie round 3
+ChatterBot Foxtrot round 3
+ChatterBot Delta round 3
+2024-10-14 17:46:01.538106 Whiskey: We should add Delta
+2024-10-14 17:46:01.555954 Quebec: Yes
+2024-10-14 17:46:01.556565 Charlie: Yes
+2024-10-14 17:46:01.556743 Oscar: Yes
+2024-10-14 17:46:01.556918 Romeo: Yes
+2024-10-14 17:46:01.623508 Whiskey: Delta we want you to join our group
+2024-10-14 17:46:01.628200 Delta: No
+2024-10-14 17:46:01.659574 Oscar: Quebec, Romeo and Charlie, sending you 2
+2024-10-14 17:46:01.660364 Hotel: Bravo, sending you 7
+2024-10-14 17:46:01.660670 Romeo: Quebec and Charlie, sending you 4
+2024-10-14 17:46:01.661008 Bravo: Hotel, sending you 8
+2024-10-14 17:46:01.661755 Yankee: Hotel, sending you 7
+2024-10-14 17:46:01.662011 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:01.662365 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:01.662621 Charlie: Quebec, sending you 5
+2024-10-14 17:46:01.663267 Delta: Quebec, sending you 4
+2024-10-14 17:46:01.684698 Oscar: Whiskey, sending you 1
+2024-10-14 17:46:01.685586 Hotel: Yankee, sending you 8
+2024-10-14 17:46:01.686031 Bravo: Yankee, sending you 6
+2024-10-14 17:46:01.687057 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:01.687533 Romeo: Oscar and Delta, sending you 3
+2024-10-14 17:46:01.688072 Quebec: Charlie, sending you 5
+2024-10-14 17:46:01.689189 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:01.689572 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:01.690434 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:01.690850 Whiskey: Quebec, sending you 2
+2024-10-14 17:46:01.691838 Oscar: Delta, sending you 5
+2024-10-14 17:46:01.692340 Hotel: Foxtrot, sending you 5
+2024-10-14 17:46:01.692767 Bravo: Foxtrot, sending you 5
+2024-10-14 17:46:01.693696 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:01.694133 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:01.704670 Whiskey: Oscar, Romeo and Charlie, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Quebec round 4
+ChatterBot Hotel round 4
+ChatterBot Oscar round 4
+ChatterBot Bravo round 4
+ChatterBot Yankee round 4
+ChatterBot Whiskey round 4
+ChatterBot Romeo round 4
+ChatterBot Charlie round 4
+ChatterBot Foxtrot round 4
+ChatterBot Delta round 4
+2024-10-14 17:46:02.861708 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:02.865692 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:02.867793 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:02.870666 Yankee: Hotel, sending you 7
+2024-10-14 17:46:02.873689 Quebec: Charlie, sending you 5
+2024-10-14 17:46:02.874778 Oscar: Quebec and Romeo, sending you 2
+2024-10-14 17:46:02.876282 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:02.876773 Whiskey: Sending you each 1
+2024-10-14 17:46:02.880683 Oscar: Whiskey, sending you 1
+2024-10-14 17:46:02.881437 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:02.882676 Bravo: Hotel, sending you 7
+2024-10-14 17:46:02.883254 Romeo: Quebec, Oscar and Delta, sending you 3
+2024-10-14 17:46:02.883934 Charlie: Quebec, sending you 5
+2024-10-14 17:46:02.885312 Delta: Quebec, sending you 4
+2024-10-14 17:46:02.886198 Oscar: Charlie, sending you 3
+2024-10-14 17:46:02.887913 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:02.888465 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:02.889921 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:02.890924 Charlie: Oscar and Whiskey, sending you 3
+2024-10-14 17:46:02.892445 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:02.893220 Oscar: Delta, sending you 4
+2024-10-14 17:46:02.894816 Romeo: Charlie, sending you 5
+2024-10-14 17:46:02.896397 Charlie: Romeo and Delta, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Quebec round 5
+ChatterBot Hotel round 5
+ChatterBot Oscar round 5
+ChatterBot Bravo round 5
+ChatterBot Yankee round 5
+ChatterBot Whiskey round 5
+ChatterBot Romeo round 5
+ChatterBot Charlie round 5
+ChatterBot Foxtrot round 5
+ChatterBot Delta round 5
+2024-10-14 17:46:03.962670 Oscar: Quebec, Whiskey, Romeo and Charlie, sending you 2
+2024-10-14 17:46:03.964709 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:03.966334 Charlie: Quebec, sending you 5
+2024-10-14 17:46:03.967085 Oscar: Delta, sending you 4
+2024-10-14 17:46:03.969663 Quebec: Charlie, sending you 5
+2024-10-14 17:46:03.971246 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:03.972304 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:03.972827 Whiskey: Same as last round
+2024-10-14 17:46:03.974712 Bravo: Hotel, sending you 7
+2024-10-14 17:46:03.975241 Yankee: Hotel, sending you 7
+2024-10-14 17:46:03.975747 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:03.977063 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:03.977537 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:03.978667 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:03.980678 Yankee: Bravo, sending you 5
+2024-10-14 17:46:03.981669 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:03.982688 Delta: Quebec, sending you 4
+2024-10-14 17:46:03.983668 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:03.984667 Yankee: Foxtrot, sending you 6
+2024-10-14 17:46:03.986706 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:03.987122 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:03.991692 Romeo: Charlie and Delta, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Quebec round 6
+ChatterBot Hotel round 6
+ChatterBot Oscar round 6
+ChatterBot Bravo round 6
+ChatterBot Yankee round 6
+ChatterBot Whiskey round 6
+ChatterBot Romeo round 6
+ChatterBot Charlie round 6
+ChatterBot Foxtrot round 6
+ChatterBot Delta round 6
+2024-10-14 17:46:05.175674 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:05.178680 Quebec: Charlie, sending you 5
+2024-10-14 17:46:05.181660 Yankee: Hotel, sending you 7
+2024-10-14 17:46:05.182022 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:05.183685 Whiskey: Same as last round
+2024-10-14 17:46:05.184702 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:05.187053 Yankee: Bravo, sending you 5
+2024-10-14 17:46:05.187672 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:05.188663 Delta: Quebec, sending you 4
+2024-10-14 17:46:05.189672 Yankee: Foxtrot, sending you 6
+2024-10-14 17:46:05.191693 Bravo: Hotel, sending you 7
+2024-10-14 17:46:05.192688 Oscar: Quebec, Whiskey and Romeo, sending you 2
+2024-10-14 17:46:05.193459 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:05.193785 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:05.195690 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:05.196352 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:05.196723 Oscar: Charlie and Delta, sending you 3
+2024-10-14 17:46:05.197289 Charlie: Quebec, sending you 5
+2024-10-14 17:46:05.201513 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:05.202199 Charlie: Oscar and Whiskey, sending you 3
+2024-10-14 17:46:05.205656 Romeo: Charlie and Delta, sending you 4
+2024-10-14 17:46:05.206207 Charlie: Romeo and Delta, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Quebec round 7
+ChatterBot Hotel round 7
+ChatterBot Oscar round 7
+ChatterBot Bravo round 7
+ChatterBot Yankee round 7
+ChatterBot Whiskey round 7
+ChatterBot Romeo round 7
+ChatterBot Charlie round 7
+ChatterBot Foxtrot round 7
+ChatterBot Delta round 7
+2024-10-14 17:46:06.494703 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:06.499806 Quebec: Charlie, sending you 5
+2024-10-14 17:46:06.500905 Yankee: Hotel, sending you 6
+2024-10-14 17:46:06.501650 Oscar: Quebec, Whiskey and Romeo, sending you 2
+2024-10-14 17:46:06.503677 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:06.505708 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:06.507111 Oscar: Charlie and Delta, sending you 3
+2024-10-14 17:46:06.508092 Bravo: Hotel, sending you 7
+2024-10-14 17:46:06.508607 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:06.508997 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:06.510302 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:06.510884 Whiskey: Quebec, sending you 2
+2024-10-14 17:46:06.513195 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:06.513885 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:06.514570 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:06.516773 Charlie: Quebec, sending you 5
+2024-10-14 17:46:06.519369 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:06.520847 Delta: Quebec, sending you 4
+2024-10-14 17:46:06.522282 Romeo: Charlie and Delta, sending you 4
+2024-10-14 17:46:06.523026 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:06.525691 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:06.528724 Charlie: Whiskey, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Quebec round 8
+ChatterBot Hotel round 8
+ChatterBot Oscar round 8
+ChatterBot Bravo round 8
+ChatterBot Yankee round 8
+ChatterBot Whiskey round 8
+ChatterBot Romeo round 8
+ChatterBot Charlie round 8
+ChatterBot Foxtrot round 8
+ChatterBot Delta round 8
+2024-10-14 17:46:07.757999 Yankee: We should add Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:07.766904 Hotel: No
+2024-10-14 17:46:07.767094 Bravo: No
+2024-10-14 17:46:07.767855 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:46:07.793218 Bravo: We should add Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:07.800268 Hotel: No
+2024-10-14 17:46:07.800399 Yankee: No
+2024-10-14 17:46:07.800520 Foxtrot: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:46:07.837654 Oscar: Quebec, Romeo and Charlie, sending you 2
+2024-10-14 17:46:07.842686 Oscar: Whiskey, sending you 1
+2024-10-14 17:46:07.846687 Oscar: Delta, sending you 3
+2024-10-14 17:46:07.848674 Whiskey: Quebec, sending you 2
+2024-10-14 17:46:07.849699 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:07.852692 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:07.853258 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:07.853672 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:07.854701 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:07.856681 Yankee: Hotel, sending you 6
+2024-10-14 17:46:07.857084 Bravo: Hotel, sending you 7
+2024-10-14 17:46:07.857454 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:07.857984 Charlie: Quebec, sending you 5
+2024-10-14 17:46:07.859652 Quebec: Charlie, sending you 5
+2024-10-14 17:46:07.860138 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:07.860473 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:07.860842 Romeo: Charlie and Delta, sending you 4
+2024-10-14 17:46:07.861721 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:07.867124 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:07.867704 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:07.868685 Delta: Quebec and Romeo, sending you 3
+2024-10-14 17:46:07.871684 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:07.873668 Delta: Oscar and Charlie, sending you 4
+2024-10-14 17:46:07.874070 Delta: I was attacked by Yankee
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:07.886598 Delta: Ow
+2024-10-14 17:46:07.913687 Oscar: Quebec, Whiskey and Romeo, sending you 2
+2024-10-14 17:46:07.921171 Oscar: Charlie and Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Quebec round 9
+ChatterBot Hotel round 9
+ChatterBot Oscar round 9
+ChatterBot Bravo round 9
+ChatterBot Yankee round 9
+ChatterBot Whiskey round 9
+ChatterBot Romeo round 9
+ChatterBot Charlie round 9
+ChatterBot Foxtrot round 9
+ChatterBot Delta round 9
+2024-10-14 17:46:09.116691 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:09.120841 Quebec: Charlie, sending you 5
+2024-10-14 17:46:09.124782 Bravo: Hotel, sending you 6
+2024-10-14 17:46:09.129663 Oscar: Quebec, Romeo and Charlie, sending you 2
+2024-10-14 17:46:09.130334 Bravo: Yankee and Foxtrot, sending you 5
+2024-10-14 17:46:09.131700 Yankee: Hotel, sending you 6
+2024-10-14 17:46:09.133722 Whiskey: Quebec, sending you 2
+2024-10-14 17:46:09.134995 Bravo: Whiskey, sending you 3
+2024-10-14 17:46:09.135532 Oscar: Whiskey, sending you 1
+2024-10-14 17:46:09.136347 Hotel: Bravo and Yankee, sending you 6
+2024-10-14 17:46:09.136755 Charlie: Quebec, sending you 5
+2024-10-14 17:46:09.137930 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:09.138450 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:09.138889 Romeo: Quebec, Oscar, Whiskey and Delta, sending you 3
+2024-10-14 17:46:09.139541 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:09.140259 Oscar: Delta, sending you 3
+2024-10-14 17:46:09.141165 Hotel: Whiskey, sending you 3
+2024-10-14 17:46:09.141571 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:09.142853 Delta: Quebec, sending you 2
+2024-10-14 17:46:09.143519 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:09.144199 Romeo: Charlie, sending you 4
+2024-10-14 17:46:09.144842 Hotel: Foxtrot, sending you 5
+2024-10-14 17:46:09.145852 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:09.147656 Delta: Oscar, Romeo and Charlie, sending you 3
+2024-10-14 17:46:09.148102 Delta: I was attacked by Yankee
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:09.158176 Delta: Ow
+2024-10-14 17:46:09.181675 Oscar: Quebec, Whiskey and Romeo, sending you 2
+2024-10-14 17:46:09.185660 Oscar: Charlie and Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Quebec round 10
+ChatterBot Hotel round 10
+ChatterBot Oscar round 10
+ChatterBot Bravo round 10
+ChatterBot Yankee round 10
+ChatterBot Whiskey round 10
+ChatterBot Romeo round 10
+ChatterBot Charlie round 10
+ChatterBot Foxtrot round 10
+ChatterBot Delta round 10
+2024-10-14 17:46:10.425343 Hotel: We should drop Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:10.433579 Bravo: Yes
+2024-10-14 17:46:10.433771 Yankee: Yes
+2024-10-14 17:46:10.433922 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:10.462124 Foxtrot: We should add Charlie
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:46:10.469236 Hotel: Yes
+2024-10-14 17:46:10.469376 Bravo: Yes
+2024-10-14 17:46:10.469497 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:10.503129 Foxtrot: Charlie we want you to join our group
+2024-10-14 17:46:10.507955 Charlie: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:46:10.528885 Whiskey: Quebec, sending you 2
+2024-10-14 17:46:10.529937 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:10.531345 Oscar: Quebec and Romeo, sending you 2
+2024-10-14 17:46:10.533039 Romeo: Quebec, Oscar, Whiskey and Delta, sending you 3
+2024-10-14 17:46:10.534170 Quebec: Charlie, sending you 5
+2024-10-14 17:46:10.534820 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:10.535856 Bravo: Hotel, sending you 7
+2024-10-14 17:46:10.536274 Charlie: Quebec, sending you 5
+2024-10-14 17:46:10.536781 Yankee: Hotel, sending you 6
+2024-10-14 17:46:10.537301 Oscar: Whiskey, sending you 1
+2024-10-14 17:46:10.537936 Delta: Quebec and Romeo, sending you 2
+2024-10-14 17:46:10.539020 Romeo: Charlie, sending you 4
+2024-10-14 17:46:10.539793 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:10.540795 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:10.541707 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:10.542062 Oscar: Charlie and Delta, sending you 3
+2024-10-14 17:46:10.542592 Delta: Oscar and Charlie, sending you 3
+2024-10-14 17:46:10.542933 Delta: I was attacked by Yankee
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:10.554535 Delta: Ow
+2024-10-14 17:46:10.559829 Romeo: We should drop Whiskey
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:10.572525 Delta: Yes
+2024-10-14 17:46:10.572661 Quebec: No
+2024-10-14 17:46:10.572766 Charlie: Yes
+2024-10-14 17:46:10.572945 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:10.611723 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:10.612235 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:10.614655 Foxtrot: Yankee, sending you 6
+2024-10-14 17:46:10.615706 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:10.634767 Charlie: Sorry, I'm actually sending you 0
+2024-10-14 17:46:10.635274 Romeo: Sorry, I'm actually sending you 0
+2024-10-14 17:46:10.637732 Oscar: Sorry, I'm actually sending you 0
+2024-10-14 17:46:10.638145 Charlie: Quebec, Romeo and Delta, sending you 5
+2024-10-14 17:46:10.640088 Romeo: Sending you each 4
+2024-10-14 17:46:10.641649 Quebec: Sorry, I'm actually sending you 0
+2024-10-14 17:46:10.642658 Oscar: Sending you each 3
+2024-10-14 17:46:10.644671 Quebec: Oscar, Romeo and Delta, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Quebec round 11
+ChatterBot Hotel round 11
+ChatterBot Oscar round 11
+ChatterBot Bravo round 11
+ChatterBot Yankee round 11
+ChatterBot Whiskey round 11
+ChatterBot Romeo round 11
+ChatterBot Charlie round 11
+ChatterBot Foxtrot round 11
+ChatterBot Delta round 11
+2024-10-14 17:46:11.848361 Romeo: We should add Whiskey
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:46:11.859658 Delta: No
+2024-10-14 17:46:11.859849 Quebec: Yes
+2024-10-14 17:46:11.859976 Charlie: Yes
+2024-10-14 17:46:11.860102 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:11.919088 Foxtrot: We should add Oscar
+ChatterBot Bravo reevaluating
+2024-10-14 17:46:11.931518 Hotel: No
+2024-10-14 17:46:11.931763 Bravo: Yes
+2024-10-14 17:46:11.931963 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:11.956553 Quebec: Whiskey we want you to join our group
+2024-10-14 17:46:11.961044 Whiskey: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:11.978975 Delta: We should replace Oscar with Whiskey
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:46:11.990701 Quebec: No
+2024-10-14 17:46:11.990907 Romeo: No
+2024-10-14 17:46:11.991065 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:12.024696 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:12.025687 Charlie: Whiskey we want you to join our group
+2024-10-14 17:46:12.028170 Whiskey: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:12.038824 Oscar: Whiskey we want you to join our group
+2024-10-14 17:46:12.041289 Whiskey: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:12.052426 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:12.055654 Bravo: Hotel, sending you 7
+2024-10-14 17:46:12.056029 Whiskey: Quebec, sending you 2
+2024-10-14 17:46:12.056974 Yankee: Hotel, sending you 6
+2024-10-14 17:46:12.057323 Romeo: Whiskey we want you to join our group
+2024-10-14 17:46:12.059287 Whiskey: Yes
+ChatterBot Delta reevaluating
+2024-10-14 17:46:12.069131 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:12.069529 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:12.070043 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:12.072649 Oscar: Quebec, Romeo and Delta, sending you 2
+2024-10-14 17:46:12.073318 Foxtrot: Hotel, sending you 6
+2024-10-14 17:46:12.076666 Oscar: Whiskey, sending you 1
+2024-10-14 17:46:12.077755 Delta: Whiskey we want you to join our group
+2024-10-14 17:46:12.079877 Whiskey: Yes
+ChatterBot Delta reevaluating
+2024-10-14 17:46:12.087315 Foxtrot: Bravo and Yankee, sending you 5
+2024-10-14 17:46:12.087827 Oscar: Charlie, sending you 3
+2024-10-14 17:46:12.089671 Romeo: Quebec, Oscar, Whiskey and Delta, sending you 3
+2024-10-14 17:46:12.091666 Quebec: Oscar, Whiskey, Romeo and Delta, sending you 3
+2024-10-14 17:46:12.095660 Romeo: Charlie, sending you 4
+2024-10-14 17:46:12.096664 Quebec: Charlie, sending you 5
+2024-10-14 17:46:12.114667 Delta: Quebec, Romeo and Charlie, sending you 5
+2024-10-14 17:46:12.119663 Delta: Whiskey, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Quebec round 12
+ChatterBot Hotel round 12
+ChatterBot Oscar round 12
+ChatterBot Bravo round 12
+ChatterBot Yankee round 12
+ChatterBot Whiskey round 12
+ChatterBot Romeo round 12
+ChatterBot Charlie round 12
+ChatterBot Foxtrot round 12
+ChatterBot Delta round 12
+2024-10-14 17:46:13.330015 Delta: We should add Oscar
+2024-10-14 17:46:13.339808 Quebec: Yes
+2024-10-14 17:46:13.339986 Whiskey: Yes
+2024-10-14 17:46:13.340101 Romeo: Yes
+2024-10-14 17:46:13.340209 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:13.374674 Whiskey: Sending you each 1
+2024-10-14 17:46:13.376662 Delta: Oscar we want you to join our group
+2024-10-14 17:46:13.381710 Oscar: Yes
+ChatterBot Delta reevaluating
+2024-10-14 17:46:13.397652 Yankee: Hotel, sending you 7
+2024-10-14 17:46:13.398670 Romeo: Quebec, Oscar, Whiskey and Charlie, sending you 3
+2024-10-14 17:46:13.399529 Bravo: Hotel, sending you 7
+2024-10-14 17:46:13.400108 Charlie: Quebec, Oscar, Romeo and Delta, sending you 1
+2024-10-14 17:46:13.401411 Charlie: I was attacked by Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:13.415405 Charlie: Ow
+2024-10-14 17:46:13.416332 Foxtrot: Hotel, sending you 6
+2024-10-14 17:46:13.417285 Hotel: Bravo and Yankee, sending you 7
+2024-10-14 17:46:13.417733 Yankee: Bravo, sending you 5
+2024-10-14 17:46:13.418290 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:13.420660 Hotel: Foxtrot, sending you 6
+2024-10-14 17:46:13.421121 Yankee: Foxtrot, sending you 6
+2024-10-14 17:46:13.421541 Yankee: I was attacked by Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:13.430589 Yankee: Ow
+2024-10-14 17:46:13.431317 Foxtrot: We should add Quebec
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:46:13.440348 Hotel: No
+2024-10-14 17:46:13.440474 Bravo: Yes
+2024-10-14 17:46:13.440620 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:13.482767 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:13.484667 Yankee: Hotel and Foxtrot, sending you 6
+2024-10-14 17:46:13.491801 Delta: Quebec, Oscar, Romeo and Charlie, sending you 4
+2024-10-14 17:46:13.497705 Delta: Whiskey, sending you 3
+2024-10-14 17:46:13.498840 Hotel: Quebec, sending you 3
+2024-10-14 17:46:13.503681 Hotel: Bravo and Yankee, sending you 6
+2024-10-14 17:46:13.506677 Hotel: Foxtrot, sending you 5
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Quebec round 13
+ChatterBot Hotel round 13
+ChatterBot Oscar round 13
+ChatterBot Bravo round 13
+ChatterBot Yankee round 13
+ChatterBot Whiskey round 13
+ChatterBot Romeo round 13
+ChatterBot Charlie round 13
+ChatterBot Foxtrot round 13
+ChatterBot Delta round 13
+2024-10-14 17:46:14.734717 Hotel: We should drop Quebec
+ChatterBot Bravo reevaluating
+2024-10-14 17:46:14.740952 Bravo: Yes
+2024-10-14 17:46:14.741105 Yankee: Yes
+2024-10-14 17:46:14.741239 Foxtrot: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:46:14.785837 Romeo: Quebec, Oscar, Whiskey and Charlie, sending you 3
+2024-10-14 17:46:14.787200 Yankee: Hotel, sending you 7
+2024-10-14 17:46:14.788045 Charlie: Quebec, sending you 3
+2024-10-14 17:46:14.789922 Whiskey: Sending you each 1
+2024-10-14 17:46:14.791263 Bravo: Hotel, sending you 7
+2024-10-14 17:46:14.792016 Romeo: Delta, sending you 4
+2024-10-14 17:46:14.793876 Foxtrot: Hotel and Bravo, sending you 5
+2024-10-14 17:46:14.794415 Yankee: Bravo and Foxtrot, sending you 5
+2024-10-14 17:46:14.794945 Yankee: I was attacked by Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:14.805900 Yankee: Ow
+2024-10-14 17:46:14.807342 Charlie: Oscar, Romeo and Delta, sending you 2
+2024-10-14 17:46:14.810698 Delta: Quebec, Oscar, Romeo and Charlie, sending you 4
+2024-10-14 17:46:14.812950 Charlie: Whiskey, sending you 1
+2024-10-14 17:46:14.815674 Delta: Whiskey, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Quebec round 14
+ChatterBot Hotel round 14
+ChatterBot Oscar round 14
+ChatterBot Bravo round 14
+ChatterBot Yankee round 14
+ChatterBot Whiskey round 14
+ChatterBot Romeo round 14
+ChatterBot Charlie round 14
+ChatterBot Foxtrot round 14
+ChatterBot Delta round 14
+2024-10-14 17:46:15.889950 Delta: We should drop Whiskey
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:15.900276 Quebec: No
+2024-10-14 17:46:15.900435 Charlie: No
+2024-10-14 17:46:15.900548 Oscar: No
+2024-10-14 17:46:15.900672 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:15.956882 Yankee: Hotel and Foxtrot, sending you 5
+2024-10-14 17:46:15.957706 Whiskey: Same as last round
+2024-10-14 17:46:15.959059 Bravo: Hotel, sending you 7
+2024-10-14 17:46:15.961686 Yankee: Bravo, sending you 4
+2024-10-14 17:46:15.962601 Yankee: I was attacked by Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:15.970202 Yankee: Ow
+2024-10-14 17:46:15.971148 Romeo: Quebec, Oscar, Whiskey and Charlie, sending you 3
+2024-10-14 17:46:15.975668 Charlie: Quebec, Romeo and Delta, sending you 3
+2024-10-14 17:46:15.976898 Romeo: Delta, sending you 4
+2024-10-14 17:46:15.977888 Delta: Quebec, Oscar, Romeo and Charlie, sending you 4
+2024-10-14 17:46:15.980661 Charlie: Oscar and Whiskey, sending you 2
+2024-10-14 17:46:15.981672 Delta: Whiskey, sending you 3
+2024-10-14 17:46:15.995676 Foxtrot: Hotel, sending you 6
+2024-10-14 17:46:15.999659 Foxtrot: Bravo and Yankee, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Quebec round 15
+ChatterBot Hotel round 15
+ChatterBot Oscar round 15
+ChatterBot Bravo round 15
+ChatterBot Yankee round 15
+ChatterBot Whiskey round 15
+ChatterBot Romeo round 15
+ChatterBot Charlie round 15
+ChatterBot Foxtrot round 15
+ChatterBot Delta round 15
+2024-10-14 17:46:16.853681 Whiskey: Same as last round
+2024-10-14 17:46:16.856677 Bravo: Hotel, sending you 6
+2024-10-14 17:46:16.859691 Romeo: Quebec, Oscar, Whiskey and Charlie, sending you 3
+2024-10-14 17:46:16.860934 Bravo: Yankee and Foxtrot, sending you 5
+2024-10-14 17:46:16.862710 Charlie: Quebec, sending you 4
+2024-10-14 17:46:16.863664 Yankee: Hotel, sending you 5
+2024-10-14 17:46:16.864206 Bravo: Charlie, sending you 3
+2024-10-14 17:46:16.864678 Romeo: Delta, sending you 4
+2024-10-14 17:46:16.865977 Charlie: Oscar, Romeo and Delta, sending you 3
+2024-10-14 17:46:16.866963 Yankee: Bravo and Foxtrot, sending you 4
+2024-10-14 17:46:16.867511 Yankee: I was attacked by Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:16.877671 Yankee: Ow
+2024-10-14 17:46:16.878792 Foxtrot: We should add Charlie
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:46:16.886756 Hotel: No
+2024-10-14 17:46:16.886924 Bravo: Yes
+2024-10-14 17:46:16.887078 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:16.909137 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:16.914670 Delta: Quebec, Oscar, Romeo and Charlie, sending you 3
+2024-10-14 17:46:16.918681 Delta: Whiskey, sending you 1
+2024-10-14 17:46:16.919557 Delta: I was attacked by Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:16.934252 Delta: Ow
+2024-10-14 17:46:16.935343 Bravo: Sorry, I'm actually sending you 0
+2024-10-14 17:46:16.938689 Yankee: Hotel, Bravo and Foxtrot, sending you 4
+2024-10-14 17:46:16.939761 Bravo: Hotel, sending you 7
+2024-10-14 17:46:16.945657 Bravo: Yankee and Foxtrot, sending you 6
+2024-10-14 17:46:16.950676 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:16.951135 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:16.967694 Charlie: Quebec, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Quebec round 16
+ChatterBot Hotel round 16
+ChatterBot Oscar round 16
+ChatterBot Bravo round 16
+ChatterBot Yankee round 16
+ChatterBot Whiskey round 16
+ChatterBot Romeo round 16
+ChatterBot Charlie round 16
+ChatterBot Foxtrot round 16
+ChatterBot Delta round 16
+2024-10-14 17:46:18.219879 Delta: We should drop Whiskey
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:18.236176 Quebec: No
+2024-10-14 17:46:18.236381 Charlie: No
+2024-10-14 17:46:18.236571 Oscar: No
+2024-10-14 17:46:18.236751 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:18.283227 Whiskey: Sending you each 1
+2024-10-14 17:46:18.285667 Romeo: Quebec, Oscar, Whiskey and Delta, sending you 3
+2024-10-14 17:46:18.287177 Charlie: Quebec, Romeo and Delta, sending you 4
+2024-10-14 17:46:18.288684 Yankee: Same as last round
+2024-10-14 17:46:18.289432 Yankee: I was attacked by Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:18.297838 Yankee: Ow
+2024-10-14 17:46:18.299285 Romeo: Charlie, sending you 4
+2024-10-14 17:46:18.300201 Charlie: Oscar, sending you 3
+2024-10-14 17:46:18.303659 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:18.307667 Delta: Quebec, Romeo and Charlie, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Quebec round 17
+ChatterBot Hotel round 17
+ChatterBot Oscar round 17
+ChatterBot Bravo round 17
+ChatterBot Yankee round 17
+ChatterBot Whiskey round 17
+ChatterBot Romeo round 17
+ChatterBot Charlie round 17
+ChatterBot Foxtrot round 17
+ChatterBot Delta round 17
+2024-10-14 17:46:19.235676 Yankee: Same as last round
+2024-10-14 17:46:19.246175 Whiskey: Same as last round
+2024-10-14 17:46:19.250651 Romeo: Quebec, Oscar, Whiskey and Delta, sending you 3
+2024-10-14 17:46:19.252695 Charlie: Quebec, Romeo and Delta, sending you 4
+2024-10-14 17:46:19.254660 Delta: Quebec, sending you 3
+2024-10-14 17:46:19.256044 Romeo: Charlie, sending you 4
+2024-10-14 17:46:19.256841 Romeo: I was attacked by Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:19.271498 Romeo: Ow
+2024-10-14 17:46:19.279413 Delta: We should drop Romeo
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:46:19.292178 Quebec: No
+2024-10-14 17:46:19.292427 Oscar: No
+2024-10-14 17:46:19.292611 Whiskey: No
+2024-10-14 17:46:19.292753 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:46:19.339698 Delta: We should add Romeo
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:46:19.353589 Quebec: Yes
+2024-10-14 17:46:19.353734 Oscar: Yes
+2024-10-14 17:46:19.353840 Whiskey: Yes
+2024-10-14 17:46:19.353939 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:46:19.406653 Delta: Romeo we want you to join our group
+2024-10-14 17:46:19.409448 Romeo: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:19.423115 Delta: We should replace Whiskey with Romeo
+ChatterBot Quebec reevaluating
+2024-10-14 17:46:19.435078 Quebec: No
+2024-10-14 17:46:19.435263 Oscar: No
+2024-10-14 17:46:19.435408 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:46:19.461681 Charlie: Quebec, sending you 5
+2024-10-14 17:46:19.467698 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:19.471664 Charlie: Whiskey, sending you 2
+2024-10-14 17:46:19.473016 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:19.473331 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:19.483662 Delta: Sorry, I'm actually sending you 0
+2024-10-14 17:46:19.488660 Delta: Quebec, Romeo and Charlie, sending you 5
+2024-10-14 17:46:19.491664 Delta: Oscar, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Quebec round 18
+ChatterBot Hotel round 18
+ChatterBot Oscar round 18
+ChatterBot Bravo round 18
+ChatterBot Yankee round 18
+ChatterBot Whiskey round 18
+ChatterBot Romeo round 18
+ChatterBot Charlie round 18
+ChatterBot Foxtrot round 18
+ChatterBot Delta round 18
+2024-10-14 17:46:20.720686 Whiskey: Sending you each 1
+2024-10-14 17:46:20.722907 Yankee: Same as last round
+2024-10-14 17:46:20.723878 Yankee: I was attacked by Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:20.732205 Yankee: Ow
+2024-10-14 17:46:20.732988 Charlie: Quebec, sending you 5
+2024-10-14 17:46:20.735075 Delta: Quebec, Romeo and Charlie, sending you 5
+2024-10-14 17:46:20.739188 Romeo: Quebec, Oscar, Whiskey and Delta, sending you 3
+2024-10-14 17:46:20.741732 Charlie: Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:20.743032 Delta: Oscar, sending you 4
+2024-10-14 17:46:20.745271 Romeo: Charlie, sending you 4
+2024-10-14 17:46:20.747877 Charlie: Whiskey, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Quebec round 19
+ChatterBot Hotel round 19
+ChatterBot Oscar round 19
+ChatterBot Bravo round 19
+ChatterBot Yankee round 19
+ChatterBot Whiskey round 19
+ChatterBot Romeo round 19
+ChatterBot Charlie round 19
+ChatterBot Foxtrot round 19
+ChatterBot Delta round 19
+2024-10-14 17:46:21.939351 Delta: We should add Whiskey
+ChatterBot Quebec reevaluating
+2024-10-14 17:46:21.948185 Quebec: Yes
+2024-10-14 17:46:21.948335 Charlie: Yes
+2024-10-14 17:46:21.948446 Oscar: Yes
+2024-10-14 17:46:21.948556 Romeo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:46:22.002654 Delta: Whiskey we want you to join our group
+2024-10-14 17:46:22.006880 Whiskey: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:22.020685 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:22.022754 Yankee: Hotel, sending you 6
+2024-10-14 17:46:22.023475 Whiskey: Same as last round
+2024-10-14 17:46:22.025175 Charlie: Quebec, Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:22.026312 Yankee: Bravo, sending you 5
+2024-10-14 17:46:22.027255 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:22.028686 Charlie: Whiskey, sending you 3
+2024-10-14 17:46:22.031668 Yankee: Foxtrot, sending you 4
+2024-10-14 17:46:22.032895 Romeo: Charlie and Delta, sending you 4
+2024-10-14 17:46:22.051699 Delta: Quebec, Oscar, Romeo and Charlie, sending you 4
+2024-10-14 17:46:22.055707 Delta: Whiskey, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Quebec round 20
+ChatterBot Hotel round 20
+ChatterBot Oscar round 20
+ChatterBot Bravo round 20
+ChatterBot Yankee round 20
+ChatterBot Whiskey round 20
+ChatterBot Romeo round 20
+ChatterBot Charlie round 20
+ChatterBot Foxtrot round 20
+ChatterBot Delta round 20
+2024-10-14 17:46:23.225027 Delta: We should drop Quebec
+2024-10-14 17:46:23.245307 Oscar: No
+2024-10-14 17:46:23.245784 Whiskey: No
+2024-10-14 17:46:23.246057 Romeo: No
+2024-10-14 17:46:23.246315 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:46:23.318662 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:23.322309 Charlie: Quebec, Oscar, Romeo and Delta, sending you 4
+2024-10-14 17:46:23.324256 Yankee: Hotel and Bravo, sending you 5
+2024-10-14 17:46:23.325193 Whiskey: Same as last round
+2024-10-14 17:46:23.327763 Romeo: Whiskey, sending you 2
+2024-10-14 17:46:23.331531 Charlie: Whiskey, sending you 3
+2024-10-14 17:46:23.334071 Yankee: Foxtrot, sending you 4
+2024-10-14 17:46:23.336211 Romeo: Charlie and Delta, sending you 4
+2024-10-14 17:46:23.340664 Delta: Quebec, Oscar, Romeo and Charlie, sending you 4
+2024-10-14 17:46:23.347906 Delta: Whiskey, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Quebec round 21
+ChatterBot Hotel round 21
+ChatterBot Oscar round 21
+ChatterBot Bravo round 21
+ChatterBot Yankee round 21
+ChatterBot Whiskey round 21
+ChatterBot Romeo round 21
+ChatterBot Charlie round 21
+ChatterBot Foxtrot round 21
+ChatterBot Delta round 21
+2024-10-14 17:46:24.405677 Delta: Quebec, Oscar, Whiskey and Romeo, sending you 2
+2024-10-14 17:46:24.409191 Romeo: Quebec and Oscar, sending you 3
+2024-10-14 17:46:24.411850 Yankee: Hotel and Bravo, sending you 5
+2024-10-14 17:46:24.414010 Delta: Charlie, sending you 4
+2024-10-14 17:46:24.415716 Delta: I was attacked by Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:24.431957 Delta: Ow
+2024-10-14 17:46:24.434367 Yankee: Foxtrot, sending you 4
+2024-10-14 17:46:24.458659 Whiskey: Same as last round
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Quebec round 22
+ChatterBot Hotel round 22
+ChatterBot Oscar round 22
+ChatterBot Bravo round 22
+ChatterBot Yankee round 22
+ChatterBot Whiskey round 22
+ChatterBot Romeo round 22
+ChatterBot Charlie round 22
+ChatterBot Foxtrot round 22
+ChatterBot Delta round 22
+2024-10-14 17:46:25.689825 Yankee: Sending you each 5
+2024-10-14 17:46:25.707104 Whiskey: Same as last round
+2024-10-14 17:46:25.711362 Delta: Quebec, Oscar and Whiskey, sending you 1
+2024-10-14 17:46:25.718825 Delta: Romeo and Charlie, sending you 2
+2024-10-14 17:46:25.723129 Delta: I was attacked by Yankee
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:25.748768 Delta: Ow
+2024-10-14 17:46:25.771654 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:25.772683 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:25.773985 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:25.774631 Whiskey: Sorry, I'm actually sending you 0
+2024-10-14 17:46:25.775605 Whiskey: Sorry, I'm actually sending you 0
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Quebec round 23
+ChatterBot Hotel round 23
+ChatterBot Oscar round 23
+ChatterBot Bravo round 23
+ChatterBot Yankee round 23
+ChatterBot Whiskey round 23
+ChatterBot Romeo round 23
+ChatterBot Charlie round 23
+ChatterBot Foxtrot round 23
+ChatterBot Delta round 23
+2024-10-14 17:46:26.711697 Whiskey: Sending you each 1
+2024-10-14 17:46:26.714651 Delta: Quebec, Oscar, Whiskey and Romeo, sending you 2
+2024-10-14 17:46:26.716133 Yankee: Hotel, sending you 5
+2024-10-14 17:46:26.718656 Delta: Charlie, sending you 4
+2024-10-14 17:46:26.720667 Yankee: Bravo and Foxtrot, sending you 4
+2024-10-14 17:46:26.721290 Yankee: I was attacked by Whiskey
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:46:26.729311 Yankee: Ow
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Quebec round 24
+ChatterBot Hotel round 24
+ChatterBot Oscar round 24
+ChatterBot Bravo round 24
+ChatterBot Yankee round 24
+ChatterBot Whiskey round 24
+ChatterBot Romeo round 24
+ChatterBot Charlie round 24
+ChatterBot Foxtrot round 24
+ChatterBot Delta round 24
+2024-10-14 17:46:27.859223 Romeo: We should drop Quebec
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:46:27.871181 Delta: Yes
+2024-10-14 17:46:27.871335 Oscar: No
+2024-10-14 17:46:27.871461 Whiskey: Yes
+2024-10-14 17:46:27.871580 Charlie: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:27.946684 Yankee: Hotel, sending you 5
+2024-10-14 17:46:27.950675 Yankee: Bravo and Foxtrot, sending you 4
+2024-10-14 17:46:27.959672 Delta: Oscar, Romeo and Charlie, sending you 4
+2024-10-14 17:46:27.963681 Delta: Whiskey, sending you 3
+2024-10-14 17:46:27.969706 Whiskey: Oscar, Charlie and Delta, sending you 1
+2024-10-14 17:46:27.974683 Whiskey: Romeo, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Quebec round 25
+ChatterBot Hotel round 25
+ChatterBot Oscar round 25
+ChatterBot Bravo round 25
+ChatterBot Yankee round 25
+ChatterBot Whiskey round 25
+ChatterBot Romeo round 25
+ChatterBot Charlie round 25
+ChatterBot Foxtrot round 25
+ChatterBot Delta round 25
+2024-10-14 17:46:29.004691 Oscar: We should drop Quebec
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:29.015973 Delta: Yes
+2024-10-14 17:46:29.016167 Whiskey: Yes
+2024-10-14 17:46:29.016300 Romeo: Yes
+2024-10-14 17:46:29.016416 Charlie: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:29.097665 Yankee: Hotel and Bravo, sending you 5
+2024-10-14 17:46:29.100135 Delta: Sending you each 4
+2024-10-14 17:46:29.103671 Whiskey: Oscar, Charlie and Delta, sending you 1
+2024-10-14 17:46:29.106227 Yankee: Foxtrot, sending you 4
+2024-10-14 17:46:29.110669 Whiskey: Romeo, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Quebec round 26
+ChatterBot Hotel round 26
+ChatterBot Oscar round 26
+ChatterBot Bravo round 26
+ChatterBot Yankee round 26
+ChatterBot Whiskey round 26
+ChatterBot Romeo round 26
+ChatterBot Charlie round 26
+ChatterBot Foxtrot round 26
+ChatterBot Delta round 26
+2024-10-14 17:46:30.365400 Oscar: We should drop Quebec
+2024-10-14 17:46:30.387953 Delta: Yes
+2024-10-14 17:46:30.388189 Whiskey: Yes
+2024-10-14 17:46:30.388374 Romeo: Yes
+2024-10-14 17:46:30.388541 Charlie: Yes
+2024-10-14 17:46:30.487002 Whiskey: Oscar, Charlie and Delta, sending you 1
+2024-10-14 17:46:30.535298 Delta: Oscar and Romeo, sending you 5
+2024-10-14 17:46:30.536548 Yankee: Hotel and Bravo, sending you 5
+2024-10-14 17:46:30.542166 Whiskey: Romeo, sending you 2
+2024-10-14 17:46:30.544397 Delta: Whiskey and Charlie, sending you 4
+2024-10-14 17:46:30.548066 Yankee: Foxtrot, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Quebec round 27
+ChatterBot Hotel round 27
+ChatterBot Oscar round 27
+ChatterBot Bravo round 27
+ChatterBot Yankee round 27
+ChatterBot Whiskey round 27
+ChatterBot Romeo round 27
+ChatterBot Charlie round 27
+ChatterBot Foxtrot round 27
+ChatterBot Delta round 27
+2024-10-14 17:46:31.438961 Charlie: We should drop Quebec
+2024-10-14 17:46:31.451235 Delta: Yes
+2024-10-14 17:46:31.451396 Oscar: Yes
+2024-10-14 17:46:31.451513 Whiskey: Yes
+2024-10-14 17:46:31.451628 Romeo: Yes
+2024-10-14 17:46:31.511683 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:31.516848 Yankee: Hotel and Bravo, sending you 6
+2024-10-14 17:46:31.520716 Whiskey: Oscar, Charlie and Delta, sending you 1
+2024-10-14 17:46:31.524544 Delta: Whiskey, sending you 3
+2024-10-14 17:46:31.527784 Yankee: Foxtrot, sending you 5
+2024-10-14 17:46:31.530813 Whiskey: Romeo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Quebec round 28
+ChatterBot Hotel round 28
+ChatterBot Oscar round 28
+ChatterBot Bravo round 28
+ChatterBot Yankee round 28
+ChatterBot Whiskey round 28
+ChatterBot Romeo round 28
+ChatterBot Charlie round 28
+ChatterBot Foxtrot round 28
+ChatterBot Delta round 28
+2024-10-14 17:46:32.650675 Charlie: We should drop Quebec
+2024-10-14 17:46:32.671542 Delta: Yes
+2024-10-14 17:46:32.671768 Oscar: Yes
+2024-10-14 17:46:32.671936 Whiskey: Yes
+2024-10-14 17:46:32.672091 Romeo: Yes
+2024-10-14 17:46:32.749696 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:32.753656 Yankee: Hotel and Bravo, sending you 6
+2024-10-14 17:46:32.755241 Delta: Whiskey, sending you 4
+2024-10-14 17:46:32.759670 Yankee: Foxtrot, sending you 5
+2024-10-14 17:46:32.762688 Whiskey: Oscar, Charlie and Delta, sending you 1
+2024-10-14 17:46:32.769683 Whiskey: Romeo, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Quebec round 29
+ChatterBot Hotel round 29
+ChatterBot Oscar round 29
+ChatterBot Bravo round 29
+ChatterBot Yankee round 29
+ChatterBot Whiskey round 29
+ChatterBot Romeo round 29
+ChatterBot Charlie round 29
+ChatterBot Foxtrot round 29
+ChatterBot Delta round 29
+2024-10-14 17:46:33.824216 Oscar: We should drop Quebec
+2024-10-14 17:46:33.839518 Delta: Yes
+2024-10-14 17:46:33.839733 Whiskey: Yes
+2024-10-14 17:46:33.840366 Romeo: No
+2024-10-14 17:46:33.840508 Charlie: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:46:33.912680 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:33.916949 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:33.920010 Yankee: Hotel and Bravo, sending you 6
+2024-10-14 17:46:33.922664 Whiskey: Delta, sending you 2
+2024-10-14 17:46:33.925495 Delta: Whiskey, sending you 4
+2024-10-14 17:46:33.928530 Yankee: Foxtrot, sending you 5
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Quebec round 30
+ChatterBot Hotel round 30
+ChatterBot Oscar round 30
+ChatterBot Bravo round 30
+ChatterBot Yankee round 30
+ChatterBot Whiskey round 30
+ChatterBot Romeo round 30
+ChatterBot Charlie round 30
+ChatterBot Foxtrot round 30
+ChatterBot Delta round 30
+2024-10-14 17:46:35.289343 Charlie: We should drop Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:35.311269 Delta: Yes
+2024-10-14 17:46:35.311530 Oscar: Yes
+2024-10-14 17:46:35.311732 Whiskey: Yes
+2024-10-14 17:46:35.311905 Romeo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 17:46:35.393968 Delta: Oscar, Romeo and Charlie, sending you 5
+2024-10-14 17:46:35.395795 Whiskey: Oscar, Romeo and Charlie, sending you 1
+2024-10-14 17:46:35.400197 Delta: Whiskey, sending you 4
+2024-10-14 17:46:35.404233 Whiskey: Delta, sending you 2
+2024-10-14 17:46:35.412 Yankee: Sending you each 6
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions

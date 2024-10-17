@@ -1,0 +1,1515 @@
+ChatterBot Yankee round 1
+ChatterBot Tango round 1
+ChatterBot Hotel round 1
+ChatterBot Charlie round 1
+ChatterBot Whiskey round 1
+ChatterBot Quebec round 1
+ChatterBot Lima round 1
+ChatterBot Juliett round 1
+ChatterBot Romeo round 1
+ChatterBot Bravo round 1
+randomSelections Charlie: {Charlie, Yankee, Juliett, Whiskey} 
+2024-10-14 17:31:15.830555 Charlie: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:15.856005 Yankee: Yes
+2024-10-14 17:31:15.856291 Juliett: Yes
+2024-10-14 17:31:15.856490 Whiskey: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+randomSelections Hotel: {Hotel, Yankee, Lima} 
+2024-10-14 17:31:15.890909 Hotel: Group up?
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:15.893895 Yankee: No
+2024-10-14 17:31:15.894013 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+randomSelections Quebec: {Quebec, Lima, Tango, Hotel, Yankee, Juliett} 
+2024-10-14 17:31:15.901756 Quebec: We would work well together
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:31:15.908233 Lima: No
+2024-10-14 17:31:15.908817 Tango: Yes
+2024-10-14 17:31:15.908968 Hotel: No
+2024-10-14 17:31:15.909101 Yankee: No
+2024-10-14 17:31:15.909243 Juliett: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+randomSelections Romeo: {Romeo, Lima, Quebec, Hotel, Whiskey} 
+2024-10-14 17:31:16.016964 Romeo: Group up?
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:16.025184 Lima: No
+2024-10-14 17:31:16.025496 Quebec: No
+2024-10-14 17:31:16.025717 Hotel: No
+2024-10-14 17:31:16.025950 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+randomSelections Bravo: {Bravo, Lima, Tango, Romeo, Whiskey} 
+2024-10-14 17:31:16.066052 Bravo: We would work well together
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:16.074706 Lima: No
+2024-10-14 17:31:16.075261 Tango: No
+2024-10-14 17:31:16.076264 Romeo: No
+2024-10-14 17:31:16.076707 Whiskey: No
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:31:16.127409 Quebec: Yankee and Tango, sending you 3
+2024-10-14 17:31:16.127893 Yankee: Charlie and Whiskey, sending you 3
+2024-10-14 17:31:16.128405 Romeo: Hotel, sending you 3
+2024-10-14 17:31:16.131997 Bravo: Tango, sending you 3
+2024-10-14 17:31:16.132376 Quebec: Hotel, sending you 4
+2024-10-14 17:31:16.134228 Yankee: Juliett, sending you 6
+2024-10-14 17:31:16.134683 Juliett: Yankee, sending you 1
+2024-10-14 17:31:16.135205 Hotel: Sending you each 4
+2024-10-14 17:31:16.136479 Romeo: Quebec and Lima, sending you 1
+2024-10-14 17:31:16.136951 Bravo: Whiskey, sending you 1
+2024-10-14 17:31:16.137392 Quebec: Juliett, sending you 2
+2024-10-14 17:31:16.140690 Charlie: Yankee, Whiskey and Juliett, sending you 2
+2024-10-14 17:31:16.141200 Bravo: Lima and Romeo, sending you 2
+2024-10-14 17:31:16.145702 Lima: Yankee, sending you 4
+2024-10-14 17:31:16.146780 Tango: Yankee, sending you 5
+2024-10-14 17:31:16.149097 Whiskey: Yankee, sending you 5
+2024-10-14 17:31:16.150073 Lima: Hotel, sending you 8
+2024-10-14 17:31:16.151090 Tango: Quebec, Lima and Juliett, sending you 2
+2024-10-14 17:31:16.151645 Whiskey: Charlie and Juliett, sending you 4
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Yankee round 2
+ChatterBot Tango round 2
+ChatterBot Hotel round 2
+2024-10-14 17:31:17.248080 Yankee: We should add Tango and Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:17.304519 Charlie: No
+2024-10-14 17:31:17.304773 Juliett: No
+2024-10-14 17:31:17.304981 Whiskey: No
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:31:17.452192 Juliett: We would work well together
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:17.464129 Quebec: No
+ChatterBot Juliett reevaluating
+2024-10-14 17:31:17.475635 Quebec: We should group up
+ChatterBot Tango reevaluating
+2024-10-14 17:31:17.480608 Tango: Yes
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:17.492582 Tango: We should group up
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:17.516486 Quebec: No
+2024-10-14 17:31:17.516625 Bravo: No
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie round 2
+ChatterBot Whiskey round 2
+2024-10-14 17:31:17.555032 Hotel: Can we be friends?
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:17.582558 Lima: No
+2024-10-14 17:31:17.582766 Tango: Yes
+2024-10-14 17:31:17.582887 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec round 2
+ChatterBot Lima round 2
+ChatterBot Juliett round 2
+ChatterBot Romeo round 2
+ChatterBot Bravo round 2
+2024-10-14 17:31:17.762562 Yankee: We should add Hotel and Lima
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:17.787957 Charlie: No
+2024-10-14 17:31:17.788970 Juliett: No
+2024-10-14 17:31:17.789147 Whiskey: No
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 17:31:17.894853 Romeo: We should group up
+2024-10-14 17:31:17.902417 Bravo: No
+2024-10-14 17:31:17.931126 Quebec: We should drop Yankee and Juliett
+ChatterBot Lima reevaluating
+2024-10-14 17:31:17.951084 Hotel: Yes
+2024-10-14 17:31:17.951255 Lima: Yes
+2024-10-14 17:31:17.951371 Tango: Yes
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:17.991 Hotel: Quebec and Lima, sending you 3
+2024-10-14 17:31:18.195182 Tango: Quebec, sending you 6
+2024-10-14 17:31:18.195942 Yankee: Tango, sending you 7
+2024-10-14 17:31:18.196228 Charlie: Yankee, sending you 3
+2024-10-14 17:31:18.196591 Whiskey: Yankee, sending you 6
+2024-10-14 17:31:18.409304 Tango: Bravo, sending you 5
+2024-10-14 17:31:18.410012 Yankee: Quebec, sending you 5
+2024-10-14 17:31:18.410461 Whiskey: Charlie, sending you 5
+2024-10-14 17:31:18.411510 Charlie: Whiskey, sending you 2
+2024-10-14 17:31:18.412014 Romeo: Sending you 5
+2024-10-14 17:31:18.412404 Juliett: Yankee, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 17:31:18.461405 Charlie: Juliett, sending you 1
+2024-10-14 17:31:18.462595 Lima: Tango, sending you 4
+chatterbot Romeo submitting transactions
+2024-10-14 17:31:18.484675 Lima: Hotel, sending you 6
+2024-10-14 17:31:18.485092 Quebec: Tango, sending you 9
+2024-10-14 17:31:18.493692 Lima: Quebec, sending you 2
+2024-10-14 17:31:18.494905 Quebec: Hotel, sending you 2
+chatterbot Charlie submitting transactions
+2024-10-14 17:31:18.503501 Quebec: Lima, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Yankee round 3
+ChatterBot Tango round 3
+ChatterBot Hotel round 3
+ChatterBot Charlie round 3
+ChatterBot Whiskey round 3
+ChatterBot Quebec round 3
+ChatterBot Lima round 3
+ChatterBot Juliett round 3
+ChatterBot Romeo round 3
+ChatterBot Bravo round 3
+2024-10-14 17:31:19.353238 Hotel: We should drop Tango and Quebec
+ChatterBot Lima reevaluating
+2024-10-14 17:31:19.359770 Lima: Yes
+2024-10-14 17:31:19.366723 Lima: We should group up
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:19.395027 Hotel: No
+2024-10-14 17:31:19.395292 Romeo: No
+2024-10-14 17:31:19.395471 Bravo: No
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:19.489167 Quebec: We should add Yankee
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:19.505827 Hotel: No
+2024-10-14 17:31:19.505979 Lima: No
+2024-10-14 17:31:19.506153 Tango: Yes
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:19.605675 Romeo: We should add Hotel and Lima
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:19.615209 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-14 17:31:19.634351 Whiskey: We should drop Juliett
+2024-10-14 17:31:19.672561 Charlie: Yes
+2024-10-14 17:31:19.672871 Yankee: Yes
+2024-10-14 17:31:19.753235 Quebec: Yankee we want you to join our group
+2024-10-14 17:31:19.766155 Yankee: No
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:19.839440 Yankee: Charlie, sending you 4
+2024-10-14 17:31:19.840502 Tango: Yankee, sending you 4
+2024-10-14 17:31:19.842530 Lima: Yankee we want you to join our group
+2024-10-14 17:31:19.855077 Yankee: No
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:19.887473 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:19.887782 Tango: Quebec, sending you 5
+2024-10-14 17:31:19.888565 Juliett: Yankee, sending you 1
+2024-10-14 17:31:19.888873 Charlie: Yankee, sending you 3
+2024-10-14 17:31:19.889141 Bravo: Sending you 12
+2024-10-14 17:31:19.890683 Quebec: Yankee, sending you 3
+2024-10-14 17:31:19.891897 Whiskey: Yankee, sending you 7
+2024-10-14 17:31:19.892336 Tango: Lima, sending you 2
+2024-10-14 17:31:19.892752 Charlie: Whiskey, sending you 2
+2024-10-14 17:31:19.893878 Romeo: Same as last round
+2024-10-14 17:31:19.894162 Quebec: Tango, sending you 5
+2024-10-14 17:31:19.894675 Whiskey: Charlie, sending you 6
+2024-10-14 17:31:19.897690 Quebec: Hotel and Lima, sending you 2
+2024-10-14 17:31:19.910697 Lima: Tango and Quebec, sending you 3
+2024-10-14 17:31:19.913821 Lima: Hotel, sending you 6
+2024-10-14 17:31:19.916663 Hotel: Same as last round
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Yankee round 4
+ChatterBot Tango round 4
+ChatterBot Hotel round 4
+ChatterBot Charlie round 4
+ChatterBot Whiskey round 4
+2024-10-14 17:31:20.752062 Hotel: We should add Tango and Quebec
+2024-10-14 17:31:20.756737 Lima: Yes
+ChatterBot Quebec round 4
+ChatterBot Lima round 4
+ChatterBot Juliett round 4
+ChatterBot Romeo round 4
+ChatterBot Bravo round 4
+2024-10-14 17:31:20.772551 Tango: We should drop Yankee
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:20.785179 Hotel: Yes
+2024-10-14 17:31:20.785316 Lima: Yes
+2024-10-14 17:31:20.785408 Quebec: Yes
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:20.884891 Hotel: Tango and Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:20.903850 Tango: Yes
+2024-10-14 17:31:20.904115 Quebec: Yes
+ChatterBot Lima reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:20.978695 Yankee: Charlie, sending you 4
+2024-10-14 17:31:20.981664 Charlie: Yankee, sending you 3
+2024-10-14 17:31:20.983650 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:20.985669 Charlie: Whiskey, sending you 2
+2024-10-14 17:31:20.987952 Juliett: Yankee, sending you 1
+2024-10-14 17:31:20.992029 Romeo: Same as last round
+2024-10-14 17:31:20.992666 Hotel: Tango, sending you 1
+2024-10-14 17:31:20.993672 Tango: Hotel, sending you 1
+2024-10-14 17:31:20.995880 Hotel: Quebec and Lima, sending you 3
+2024-10-14 17:31:20.996651 Quebec: Tango, sending you 6
+2024-10-14 17:31:20.998657 Tango: Quebec, sending you 7
+2024-10-14 17:31:21.000189 Whiskey: Yankee, sending you 7
+2024-10-14 17:31:21.000699 Quebec: Hotel and Lima, sending you 3
+2024-10-14 17:31:21.003950 Tango: Lima, sending you 3
+2024-10-14 17:31:21.004407 Whiskey: Charlie, sending you 6
+2024-10-14 17:31:21.008107 Lima: Tango and Quebec, sending you 3
+2024-10-14 17:31:21.010660 Lima: Hotel, sending you 6
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Yankee round 5
+ChatterBot Tango round 5
+ChatterBot Hotel round 5
+ChatterBot Charlie round 5
+ChatterBot Whiskey round 5
+ChatterBot Quebec round 5
+ChatterBot Lima round 5
+ChatterBot Juliett round 5
+ChatterBot Romeo round 5
+ChatterBot Bravo round 5
+2024-10-14 17:31:22.171583 Romeo: We should add Juliett
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:22.175946 Bravo: No
+ChatterBot Romeo reevaluating
+2024-10-14 17:31:22.190662 Whiskey: Yankee, sending you 6
+2024-10-14 17:31:22.193669 Whiskey: Charlie, sending you 5
+2024-10-14 17:31:22.196683 Charlie: Yankee, sending you 3
+2024-10-14 17:31:22.199659 Tango: Hotel, sending you 1
+2024-10-14 17:31:22.200156 Yankee: Charlie, sending you 4
+2024-10-14 17:31:22.200836 Charlie: Whiskey, sending you 2
+2024-10-14 17:31:22.201668 Romeo: Same as last round
+2024-10-14 17:31:22.202687 Tango: Quebec, sending you 7
+2024-10-14 17:31:22.204050 Hotel: Tango, sending you 1
+2024-10-14 17:31:22.204674 Quebec: Tango, sending you 6
+2024-10-14 17:31:22.205674 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:22.205957 Tango: Lima, sending you 3
+2024-10-14 17:31:22.206674 Hotel: Quebec and Lima, sending you 3
+2024-10-14 17:31:22.207667 Juliett: Yankee, sending you 1
+2024-10-14 17:31:22.208679 Bravo: Sending you 12
+2024-10-14 17:31:22.209705 Quebec: Hotel and Lima, sending you 3
+2024-10-14 17:31:22.211670 Lima: Tango, sending you 4
+2024-10-14 17:31:22.215671 Lima: Hotel, sending you 5
+2024-10-14 17:31:22.219663 Lima: Quebec, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Yankee round 6
+ChatterBot Tango round 6
+ChatterBot Hotel round 6
+ChatterBot Charlie round 6
+ChatterBot Whiskey round 6
+ChatterBot Quebec round 6
+ChatterBot Lima round 6
+ChatterBot Juliett round 6
+ChatterBot Romeo round 6
+ChatterBot Bravo round 6
+2024-10-14 17:31:23.463663 Tango: Hotel, sending you 1
+2024-10-14 17:31:23.464687 Hotel: Tango, sending you 1
+2024-10-14 17:31:23.467656 Tango: Quebec, sending you 7
+2024-10-14 17:31:23.468682 Yankee: Charlie, sending you 4
+2024-10-14 17:31:23.469692 Hotel: Quebec and Lima, sending you 3
+2024-10-14 17:31:23.472456 Tango: Lima, sending you 3
+2024-10-14 17:31:23.473045 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:23.473436 Lima: Tango, sending you 4
+2024-10-14 17:31:23.474691 Juliett: Yankee, sending you 1
+2024-10-14 17:31:23.475679 Quebec: Tango, sending you 6
+2024-10-14 17:31:23.478694 Lima: Hotel, sending you 5
+2024-10-14 17:31:23.479699 Quebec: Hotel and Lima, sending you 3
+2024-10-14 17:31:23.481706 Romeo: Same as last round
+2024-10-14 17:31:23.482689 Lima: Quebec, sending you 3
+2024-10-14 17:31:23.484659 Whiskey: Yankee, sending you 6
+2024-10-14 17:31:23.484996 Bravo: Same as last round
+2024-10-14 17:31:23.485689 Charlie: Sending you each 2
+2024-10-14 17:31:23.489660 Whiskey: Charlie, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Yankee round 7
+ChatterBot Tango round 7
+ChatterBot Hotel round 7
+ChatterBot Charlie round 7
+ChatterBot Whiskey round 7
+ChatterBot Quebec round 7
+ChatterBot Lima round 7
+ChatterBot Juliett round 7
+ChatterBot Romeo round 7
+ChatterBot Bravo round 7
+2024-10-14 17:31:24.728994 Whiskey: Yankee, sending you 6
+2024-10-14 17:31:24.729529 Charlie: Same as last round
+2024-10-14 17:31:24.729995 Tango: Hotel, sending you 1
+2024-10-14 17:31:24.733703 Whiskey: Charlie, sending you 4
+2024-10-14 17:31:24.734108 Tango: Quebec, sending you 7
+2024-10-14 17:31:24.735680 Lima: Sending you each 4
+2024-10-14 17:31:24.738662 Romeo: Same as last round
+2024-10-14 17:31:24.739738 Tango: Lima, sending you 3
+2024-10-14 17:31:24.740311 Quebec: Tango, sending you 6
+2024-10-14 17:31:24.741994 Juliett: Yankee, sending you 1
+2024-10-14 17:31:24.744721 Quebec: Hotel and Lima, sending you 3
+2024-10-14 17:31:24.747692 Hotel: Tango, sending you 1
+2024-10-14 17:31:24.750990 Yankee: Charlie, sending you 4
+2024-10-14 17:31:24.751688 Hotel: Quebec and Lima, sending you 3
+2024-10-14 17:31:24.753687 Yankee: Whiskey, sending you 8
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Yankee round 8
+ChatterBot Tango round 8
+ChatterBot Hotel round 8
+ChatterBot Charlie round 8
+ChatterBot Whiskey round 8
+ChatterBot Quebec round 8
+ChatterBot Lima round 8
+ChatterBot Juliett round 8
+ChatterBot Romeo round 8
+ChatterBot Bravo round 8
+2024-10-14 17:31:25.988676 Tango: Hotel, sending you 1
+2024-10-14 17:31:25.991576 Juliett: Yankee, sending you 1
+2024-10-14 17:31:25.992007 Whiskey: Yankee, sending you 5
+2024-10-14 17:31:25.992285 Tango: Quebec, sending you 7
+2024-10-14 17:31:25.993656 Charlie: Same as last round
+2024-10-14 17:31:25.995704 Tango: Lima, sending you 3
+2024-10-14 17:31:25.996725 Whiskey: Charlie, sending you 4
+2024-10-14 17:31:25.997632 Hotel: Tango, sending you 2
+2024-10-14 17:31:25.998107 Quebec: Tango, sending you 6
+2024-10-14 17:31:26.000677 Yankee: Charlie, sending you 4
+2024-10-14 17:31:26.001076 Lima: Same as last round
+2024-10-14 17:31:26.001501 Hotel: Quebec, sending you 4
+2024-10-14 17:31:26.001928 Romeo: Same as last round
+2024-10-14 17:31:26.002210 Quebec: Hotel and Lima, sending you 3
+2024-10-14 17:31:26.003899 Bravo: Sending you 12
+2024-10-14 17:31:26.004203 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:26.006676 Hotel: Lima, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 9
+ChatterBot Tango round 9
+ChatterBot Hotel round 9
+ChatterBot Charlie round 9
+ChatterBot Whiskey round 9
+ChatterBot Quebec round 9
+ChatterBot Lima round 9
+ChatterBot Juliett round 9
+ChatterBot Romeo round 9
+ChatterBot Bravo round 9
+2024-10-14 17:31:27.183691 Charlie: Same as last round
+2024-10-14 17:31:27.184199 Quebec: Tango, sending you 6
+2024-10-14 17:31:27.189749 Quebec: Hotel and Lima, sending you 3
+2024-10-14 17:31:27.191685 Tango: Hotel, sending you 2
+2024-10-14 17:31:27.192691 Romeo: Same as last round
+2024-10-14 17:31:27.193106 Juliett: Yankee, sending you 1
+2024-10-14 17:31:27.194188 Yankee: Charlie, sending you 4
+2024-10-14 17:31:27.194735 Tango: Quebec, sending you 6
+2024-10-14 17:31:27.195714 Lima: Same as last round
+2024-10-14 17:31:27.197701 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:27.198715 Tango: Lima, sending you 3
+2024-10-14 17:31:27.199567 Hotel: Tango, sending you 2
+2024-10-14 17:31:27.201694 Whiskey: Sending you each 5
+2024-10-14 17:31:27.203679 Hotel: Quebec, sending you 4
+2024-10-14 17:31:27.208667 Hotel: Lima, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Yankee round 10
+ChatterBot Tango round 10
+ChatterBot Hotel round 10
+ChatterBot Charlie round 10
+ChatterBot Whiskey round 10
+ChatterBot Quebec round 10
+ChatterBot Lima round 10
+ChatterBot Juliett round 10
+ChatterBot Romeo round 10
+ChatterBot Bravo round 10
+2024-10-14 17:31:28.158674 Hotel: Tango, sending you 2
+2024-10-14 17:31:28.160660 Romeo: I was attacked by Bravo
+ChatterBot Bravo reevaluating
+2024-10-14 17:31:28.164920 Romeo: I'm keeping this round to protect myself
+2024-10-14 17:31:28.165115 Romeo: Ow
+2024-10-14 17:31:28.165337 Hotel: Quebec, sending you 4
+2024-10-14 17:31:28.168657 Hotel: Lima, sending you 3
+2024-10-14 17:31:28.169049 Tango: Hotel, sending you 2
+2024-10-14 17:31:28.169375 Yankee: Charlie, sending you 4
+2024-10-14 17:31:28.169664 Quebec: Tango, sending you 5
+2024-10-14 17:31:28.171683 Whiskey: Same as last round
+2024-10-14 17:31:28.171992 Tango: Quebec, sending you 6
+2024-10-14 17:31:28.172674 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:28.173663 Charlie: Same as last round
+2024-10-14 17:31:28.173961 Quebec: Hotel, sending you 4
+2024-10-14 17:31:28.174711 Juliett: Yankee, sending you 1
+2024-10-14 17:31:28.175493 Lima: Same as last round
+2024-10-14 17:31:28.175989 Tango: Lima, sending you 3
+2024-10-14 17:31:28.176697 Quebec: Lima, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Yankee round 11
+ChatterBot Tango round 11
+ChatterBot Hotel round 11
+ChatterBot Charlie round 11
+ChatterBot Whiskey round 11
+ChatterBot Quebec round 11
+ChatterBot Lima round 11
+ChatterBot Juliett round 11
+ChatterBot Romeo round 11
+ChatterBot Bravo round 11
+2024-10-14 17:31:29.441453 Quebec: We should add Romeo
+ChatterBot Lima reevaluating
+2024-10-14 17:31:29.455767 Hotel: No
+2024-10-14 17:31:29.455957 Lima: Yes
+2024-10-14 17:31:29.456129 Tango: No
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:29.504355 Quebec: Romeo we want you to join our group
+2024-10-14 17:31:29.506947 Romeo: No
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:29.521679 Charlie: Same as last round
+2024-10-14 17:31:29.522653 Tango: Hotel, sending you 2
+2024-10-14 17:31:29.523396 Yankee: Charlie, sending you 4
+2024-10-14 17:31:29.523751 Whiskey: Yankee, sending you 4
+2024-10-14 17:31:29.524972 Lima: Romeo we want you to join our group
+2024-10-14 17:31:29.528314 Romeo: No
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:29.544233 Tango: Quebec, sending you 6
+2024-10-14 17:31:29.545059 Yankee: Whiskey, sending you 8
+2024-10-14 17:31:29.545571 Whiskey: Charlie, sending you 5
+2024-10-14 17:31:29.548658 Tango: Lima, sending you 3
+2024-10-14 17:31:29.549657 Juliett: Yankee, sending you 1
+2024-10-14 17:31:29.564658 Hotel: Tango and Lima, sending you 3
+2024-10-14 17:31:29.567665 Hotel: Quebec, sending you 4
+2024-10-14 17:31:29.578035 Quebec: Tango, sending you 4
+2024-10-14 17:31:29.581679 Quebec: Hotel and Lima, sending you 2
+2024-10-14 17:31:29.586674 Quebec: Romeo, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Yankee round 12
+ChatterBot Tango round 12
+ChatterBot Hotel round 12
+ChatterBot Charlie round 12
+ChatterBot Whiskey round 12
+ChatterBot Quebec round 12
+ChatterBot Lima round 12
+ChatterBot Juliett round 12
+ChatterBot Romeo round 12
+ChatterBot Bravo round 12
+2024-10-14 17:31:30.688313 Lima: We should add Romeo
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:30.705956 Hotel: No
+2024-10-14 17:31:30.706177 Tango: No
+2024-10-14 17:31:30.706376 Quebec: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:31:30.759029 Quebec: We should drop Lima and Romeo
+2024-10-14 17:31:30.765005 Tango: No
+2024-10-14 17:31:30.765159 Hotel: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:30.778774 Yankee: I was attacked by Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:31:30.785433 Yankee: I'm keeping this round to protect myself
+2024-10-14 17:31:30.785908 Yankee: Ow
+2024-10-14 17:31:30.786142 Tango: Hotel, sending you 2
+2024-10-14 17:31:30.786877 Quebec: We should drop Lima
+2024-10-14 17:31:30.795088 Tango: No
+2024-10-14 17:31:30.795199 Hotel: No
+2024-10-14 17:31:30.795308 Romeo: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:30.822091 Tango: Quebec, sending you 6
+2024-10-14 17:31:30.822636 Bravo: I was attacked by Quebec
+2024-10-14 17:31:30.822811 Bravo: I'm keeping this round to protect myself
+2024-10-14 17:31:30.822972 Bravo: Ow
+2024-10-14 17:31:30.825660 Hotel: Tango, sending you 3
+2024-10-14 17:31:30.826694 Tango: Lima, sending you 3
+2024-10-14 17:31:30.827363 Juliett: Yankee, sending you 1
+2024-10-14 17:31:30.830664 Hotel: Quebec and Lima, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Yankee round 13
+ChatterBot Tango round 13
+ChatterBot Hotel round 13
+ChatterBot Charlie round 13
+ChatterBot Whiskey round 13
+ChatterBot Quebec round 13
+ChatterBot Lima round 13
+ChatterBot Juliett round 13
+ChatterBot Romeo round 13
+ChatterBot Bravo round 13
+2024-10-14 17:31:32.096675 Tango: Hotel and Lima, sending you 2
+2024-10-14 17:31:32.098115 Hotel: Tango, sending you 3
+2024-10-14 17:31:32.100673 Tango: Quebec, sending you 7
+2024-10-14 17:31:32.101662 Yankee: Charlie, sending you 3
+2024-10-14 17:31:32.102668 Hotel: Quebec and Lima, sending you 4
+2024-10-14 17:31:32.104100 Charlie: Same as last round
+2024-10-14 17:31:32.105661 Yankee: Whiskey, sending you 4
+2024-10-14 17:31:32.108663 Quebec: Tango, sending you 4
+2024-10-14 17:31:32.112665 Quebec: Hotel, sending you 3
+2024-10-14 17:31:32.115693 Quebec: Lima, sending you 2
+2024-10-14 17:31:32.118655 Juliett: Yankee, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 14
+ChatterBot Tango round 14
+ChatterBot Hotel round 14
+ChatterBot Charlie round 14
+ChatterBot Whiskey round 14
+ChatterBot Quebec round 14
+ChatterBot Lima round 14
+ChatterBot Juliett round 14
+ChatterBot Romeo round 14
+ChatterBot Bravo round 14
+2024-10-14 17:31:33.323 Quebec: We should drop Romeo
+2024-10-14 17:31:33.343565 Hotel: Yes
+2024-10-14 17:31:33.344354 Lima: Yes
+2024-10-14 17:31:33.344691 Tango: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:33.403663 Charlie: Same as last round
+2024-10-14 17:31:33.404697 Yankee: Charlie, sending you 5
+2024-10-14 17:31:33.406351 Tango: Hotel, sending you 3
+2024-10-14 17:31:33.408030 Hotel: Tango and Lima, sending you 4
+2024-10-14 17:31:33.411545 Bravo: I was attacked by Quebec
+2024-10-14 17:31:33.412153 Bravo: I'm keeping this round to protect myself
+2024-10-14 17:31:33.412694 Bravo: Ow
+2024-10-14 17:31:33.413907 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:33.414698 Tango: Quebec, sending you 6
+2024-10-14 17:31:33.416549 Hotel: Quebec, sending you 5
+2024-10-14 17:31:33.417684 Juliett: Yankee, sending you 1
+2024-10-14 17:31:33.419153 Tango: Lima, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Yankee round 15
+ChatterBot Tango round 15
+ChatterBot Hotel round 15
+ChatterBot Charlie round 15
+ChatterBot Whiskey round 15
+ChatterBot Quebec round 15
+ChatterBot Lima round 15
+ChatterBot Juliett round 15
+ChatterBot Romeo round 15
+ChatterBot Bravo round 15
+2024-10-14 17:31:34.559740 Quebec: We should drop Romeo
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:34.574805 Hotel: Yes
+2024-10-14 17:31:34.575115 Lima: Yes
+2024-10-14 17:31:34.575346 Tango: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:34.618682 Yankee: Charlie, sending you 5
+2024-10-14 17:31:34.620681 Charlie: Same as last round
+2024-10-14 17:31:34.621232 Tango: Hotel, sending you 3
+2024-10-14 17:31:34.622044 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:34.624664 Tango: Quebec, sending you 6
+2024-10-14 17:31:34.628667 Tango: Lima, sending you 2
+2024-10-14 17:31:34.635692 Romeo: Sending you 5
+2024-10-14 17:31:34.637916 Juliett: Yankee, sending you 1
+2024-10-14 17:31:34.643663 Hotel: Tango, sending you 4
+2024-10-14 17:31:34.652357 Hotel: Quebec, sending you 5
+2024-10-14 17:31:34.655668 Hotel: Lima, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 16
+ChatterBot Tango round 16
+ChatterBot Hotel round 16
+ChatterBot Charlie round 16
+ChatterBot Whiskey round 16
+ChatterBot Quebec round 16
+ChatterBot Lima round 16
+ChatterBot Juliett round 16
+ChatterBot Romeo round 16
+ChatterBot Bravo round 16
+2024-10-14 17:31:35.747256 Charlie: We should add Juliett
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:31:35.754973 Whiskey: Yes
+2024-10-14 17:31:35.755135 Yankee: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:35.788855 Charlie: Juliett we want you to join our group
+2024-10-14 17:31:35.791729 Juliett: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:35.802267 Quebec: We should drop Romeo
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:35.815086 Hotel: Yes
+2024-10-14 17:31:35.815289 Lima: Yes
+2024-10-14 17:31:35.815492 Tango: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:35.871885 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:35.877557 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:35.893211 Yankee: Juliett we want you to join our group
+2024-10-14 17:31:35.898420 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:35.916665 Romeo: Same as last round
+2024-10-14 17:31:35.917701 Charlie: Yankee, sending you 2
+2024-10-14 17:31:35.918367 Juliett: Yankee, sending you 1
+2024-10-14 17:31:35.918702 Tango: Hotel, sending you 3
+2024-10-14 17:31:35.920664 Charlie: Whiskey, sending you 1
+2024-10-14 17:31:35.923685 Tango: Quebec, sending you 6
+2024-10-14 17:31:35.926787 Yankee: Charlie, sending you 4
+2024-10-14 17:31:35.929978 Tango: Lima, sending you 2
+2024-10-14 17:31:35.931158 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:35.936042 Yankee: Juliett, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Yankee round 17
+ChatterBot Tango round 17
+ChatterBot Hotel round 17
+ChatterBot Charlie round 17
+ChatterBot Whiskey round 17
+ChatterBot Quebec round 17
+ChatterBot Lima round 17
+ChatterBot Juliett round 17
+ChatterBot Romeo round 17
+ChatterBot Bravo round 17
+2024-10-14 17:31:37.077382 Whiskey: We should add Juliett
+2024-10-14 17:31:37.086551 Charlie: Yes
+2024-10-14 17:31:37.086798 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:37.131379 Tango: We should drop Lima
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:37.138681 Quebec: Yes
+2024-10-14 17:31:37.138907 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:37.159046 Yankee: Charlie, sending you 4
+2024-10-14 17:31:37.159915 Quebec: We should drop Lima and Romeo
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:37.167245 Tango: Yes
+2024-10-14 17:31:37.167406 Hotel: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:37.184532 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:37.185784 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:37.189459 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:37.202442 Yankee: Juliett, sending you 1
+2024-10-14 17:31:37.203101 Tango: Hotel, sending you 4
+2024-10-14 17:31:37.204947 Juliett: Yankee, sending you 1
+2024-10-14 17:31:37.205692 Charlie: Sending you each 1
+2024-10-14 17:31:37.207941 Tango: Quebec, sending you 7
+2024-10-14 17:31:37.221678 Quebec: Tango, sending you 7
+2024-10-14 17:31:37.224042 Hotel: Same as last round
+2024-10-14 17:31:37.225459 Quebec: Hotel, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Yankee round 18
+ChatterBot Tango round 18
+ChatterBot Hotel round 18
+ChatterBot Charlie round 18
+ChatterBot Whiskey round 18
+ChatterBot Quebec round 18
+ChatterBot Lima round 18
+ChatterBot Juliett round 18
+ChatterBot Romeo round 18
+ChatterBot Bravo round 18
+2024-10-14 17:31:38.317901 Whiskey: We should add Juliett
+2024-10-14 17:31:38.326999 Charlie: Yes
+2024-10-14 17:31:38.327165 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:38.369649 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:38.376224 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:38.396528 Charlie: Same as last round
+2024-10-14 17:31:38.397186 Yankee: Charlie, sending you 4
+2024-10-14 17:31:38.397760 Hotel: Same as last round
+2024-10-14 17:31:38.398366 Romeo: Tango and Hotel, sending you 1
+2024-10-14 17:31:38.399469 Lima: Sending you each 1
+2024-10-14 17:31:38.400169 Tango: Hotel, sending you 4
+2024-10-14 17:31:38.400564 Quebec: Tango, sending you 7
+2024-10-14 17:31:38.400939 Juliett: Yankee, sending you 1
+2024-10-14 17:31:38.402245 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:38.402758 Romeo: Quebec, sending you 3
+2024-10-14 17:31:38.403669 Tango: Quebec, sending you 7
+2024-10-14 17:31:38.404998 Quebec: Hotel, sending you 5
+2024-10-14 17:31:38.405731 Yankee: Juliett, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Yankee round 19
+ChatterBot Tango round 19
+ChatterBot Hotel round 19
+ChatterBot Charlie round 19
+ChatterBot Whiskey round 19
+ChatterBot Quebec round 19
+ChatterBot Lima round 19
+ChatterBot Juliett round 19
+ChatterBot Romeo round 19
+ChatterBot Bravo round 19
+2024-10-14 17:31:39.560976 Whiskey: We should add Juliett
+2024-10-14 17:31:39.574979 Charlie: Yes
+2024-10-14 17:31:39.575375 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:39.654715 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:39.662375 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:39.678579 Tango: Hotel, sending you 4
+2024-10-14 17:31:39.681668 Charlie: Same as last round
+2024-10-14 17:31:39.682878 Quebec: Tango, sending you 7
+2024-10-14 17:31:39.686116 Lima: Tango and Hotel, sending you 2
+2024-10-14 17:31:39.686758 Tango: Quebec, sending you 7
+2024-10-14 17:31:39.687089 Yankee: Charlie, sending you 4
+2024-10-14 17:31:39.687521 Hotel: Same as last round
+2024-10-14 17:31:39.689648 Quebec: Hotel, sending you 5
+2024-10-14 17:31:39.690953 Lima: Quebec, sending you 1
+2024-10-14 17:31:39.691657 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:39.693659 Juliett: Charlie, sending you 1
+2024-10-14 17:31:39.694666 Yankee: Juliett, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Yankee round 20
+ChatterBot Tango round 20
+ChatterBot Hotel round 20
+ChatterBot Charlie round 20
+ChatterBot Whiskey round 20
+ChatterBot Quebec round 20
+ChatterBot Lima round 20
+ChatterBot Juliett round 20
+ChatterBot Romeo round 20
+ChatterBot Bravo round 20
+2024-10-14 17:31:40.873059 Whiskey: We should add Juliett
+2024-10-14 17:31:40.887133 Charlie: Yes
+2024-10-14 17:31:40.887425 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:40.935669 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:40.939571 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:40.954781 Romeo: Juliett, sending you 2
+2024-10-14 17:31:40.955160 Yankee: Charlie, sending you 4
+2024-10-14 17:31:40.955937 Charlie: Same as last round
+2024-10-14 17:31:40.956767 Quebec: Tango, sending you 7
+2024-10-14 17:31:40.957256 Tango: Hotel, sending you 4
+2024-10-14 17:31:40.957638 Hotel: Tango, sending you 5
+2024-10-14 17:31:40.957957 Lima: Tango and Quebec, sending you 2
+2024-10-14 17:31:40.959343 Juliett: Charlie, sending you 1
+2024-10-14 17:31:40.959814 Romeo: Bravo, sending you 3
+2024-10-14 17:31:40.960091 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:40.960432 Tango: Quebec, sending you 7
+2024-10-14 17:31:40.960797 Quebec: Hotel, sending you 5
+2024-10-14 17:31:40.962681 Hotel: Quebec, sending you 4
+2024-10-14 17:31:40.963597 Yankee: Juliett, sending you 1
+2024-10-14 17:31:40.965026 Lima: Hotel, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Yankee round 21
+ChatterBot Tango round 21
+ChatterBot Hotel round 21
+ChatterBot Charlie round 21
+ChatterBot Whiskey round 21
+ChatterBot Quebec round 21
+ChatterBot Lima round 21
+ChatterBot Juliett round 21
+ChatterBot Romeo round 21
+ChatterBot Bravo round 21
+2024-10-14 17:31:42.265177 Whiskey: We should add Juliett
+2024-10-14 17:31:42.273391 Charlie: Yes
+2024-10-14 17:31:42.273582 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:42.301480 Quebec: We should add Bravo
+2024-10-14 17:31:42.309054 Tango: No
+2024-10-14 17:31:42.309258 Hotel: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:42.408708 Charlie: Same as last round
+2024-10-14 17:31:42.409404 Tango: Hotel, sending you 4
+2024-10-14 17:31:42.416451 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:42.445315 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:42.479782 Tango: Quebec, sending you 7
+2024-10-14 17:31:42.481607 Tango: I was attacked by Bravo
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:31:42.504886 Tango: Ow
+2024-10-14 17:31:42.507272 Yankee: Charlie, sending you 4
+2024-10-14 17:31:42.524488 Lima: Tango and Hotel, sending you 3
+2024-10-14 17:31:42.525508 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:42.526986 Juliett: Charlie, sending you 1
+2024-10-14 17:31:42.528738 Lima: Quebec, sending you 2
+2024-10-14 17:31:42.530772 Yankee: Juliett, sending you 1
+2024-10-14 17:31:42.545671 Quebec: Tango, sending you 7
+2024-10-14 17:31:42.549931 Quebec: Hotel, sending you 5
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Yankee round 22
+ChatterBot Tango round 22
+ChatterBot Hotel round 22
+ChatterBot Charlie round 22
+ChatterBot Whiskey round 22
+ChatterBot Quebec round 22
+ChatterBot Lima round 22
+ChatterBot Juliett round 22
+ChatterBot Romeo round 22
+2024-10-14 17:31:43.619620 Hotel: We should add Lima
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:31:43.629865 Quebec: Yes
+2024-10-14 17:31:43.630061 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:43.656264 Whiskey: We should add Juliett
+2024-10-14 17:31:43.665564 Charlie: Yes
+2024-10-14 17:31:43.665752 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo round 22
+2024-10-14 17:31:43.708756 Hotel: Lima we want you to join our group
+2024-10-14 17:31:43.716312 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:43.745994 Quebec: Lima we want you to join our group
+2024-10-14 17:31:43.750844 Lima: Yes
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:43.764627 Tango: Lima we want you to join our group
+2024-10-14 17:31:43.768925 Lima: Yes
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:43.786210 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:43.792014 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:43.807632 Yankee: Charlie, sending you 4
+2024-10-14 17:31:43.811883 Hotel: Tango and Quebec, sending you 4
+2024-10-14 17:31:43.813364 Lima: Tango and Hotel, sending you 3
+2024-10-14 17:31:43.814375 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:43.815602 Juliett: Charlie, sending you 1
+2024-10-14 17:31:43.816290 Charlie: Same as last round
+2024-10-14 17:31:43.817069 Lima: Quebec, sending you 2
+2024-10-14 17:31:43.818626 Hotel: Lima, sending you 3
+2024-10-14 17:31:43.819262 Yankee: Juliett, sending you 1
+2024-10-14 17:31:43.823728 Tango: Hotel, sending you 4
+2024-10-14 17:31:43.829247 Tango: Quebec, sending you 6
+2024-10-14 17:31:43.835018 Tango: Lima, sending you 1
+2024-10-14 17:31:43.847674 Quebec: Tango and Hotel, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Yankee round 23
+ChatterBot Tango round 23
+ChatterBot Hotel round 23
+ChatterBot Charlie round 23
+ChatterBot Whiskey round 23
+ChatterBot Quebec round 23
+ChatterBot Lima round 23
+ChatterBot Juliett round 23
+ChatterBot Romeo round 23
+ChatterBot Bravo round 23
+2024-10-14 17:31:45.019733 Whiskey: We should add Juliett
+2024-10-14 17:31:45.028197 Charlie: Yes
+2024-10-14 17:31:45.028398 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:45.067738 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:45.072965 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:45.089963 Yankee: I was attacked by Bravo
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:45.105492 Yankee: I'm keeping this round to protect myself
+2024-10-14 17:31:45.107265 Yankee: Ow
+2024-10-14 17:31:45.107678 Hotel: Tango, sending you 4
+2024-10-14 17:31:45.109913 Lima: Tango and Quebec, sending you 3
+2024-10-14 17:31:45.110611 Tango: Hotel, sending you 4
+2024-10-14 17:31:45.112458 Quebec: Tango, sending you 4
+2024-10-14 17:31:45.113917 Hotel: Quebec, sending you 5
+2024-10-14 17:31:45.114712 Lima: Hotel, sending you 4
+2024-10-14 17:31:45.116681 Tango: Quebec, sending you 5
+2024-10-14 17:31:45.117782 Quebec: Hotel, sending you 3
+2024-10-14 17:31:45.119527 Hotel: Lima, sending you 2
+2024-10-14 17:31:45.121677 Tango: Lima, sending you 2
+2024-10-14 17:31:45.123711 Quebec: Lima, sending you 2
+2024-10-14 17:31:45.127675 Juliett: Charlie, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Yankee round 24
+ChatterBot Tango round 24
+ChatterBot Hotel round 24
+ChatterBot Charlie round 24
+ChatterBot Whiskey round 24
+ChatterBot Quebec round 24
+ChatterBot Lima round 24
+ChatterBot Juliett round 24
+ChatterBot Romeo round 24
+ChatterBot Bravo round 24
+2024-10-14 17:31:46.335115 Whiskey: We should add Juliett
+2024-10-14 17:31:46.346319 Charlie: Yes
+2024-10-14 17:31:46.346605 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:46.413700 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:46.420629 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:46.438490 Yankee: I was attacked by Bravo
+ChatterBot Charlie reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:46.454960 Yankee: I'm keeping this round to protect myself
+2024-10-14 17:31:46.456611 Yankee: Ow
+2024-10-14 17:31:46.457082 Hotel: Tango, sending you 4
+2024-10-14 17:31:46.458930 Quebec: Tango, sending you 6
+2024-10-14 17:31:46.459732 Tango: Hotel, sending you 4
+2024-10-14 17:31:46.460313 Romeo: Tango and Lima, sending you 1
+2024-10-14 17:31:46.461174 Lima: Tango and Hotel, sending you 4
+2024-10-14 17:31:46.463037 Tango: Quebec, sending you 5
+2024-10-14 17:31:46.464147 Hotel: Quebec, sending you 5
+2024-10-14 17:31:46.465448 Quebec: Hotel, sending you 4
+2024-10-14 17:31:46.466435 Romeo: Quebec, sending you 3
+2024-10-14 17:31:46.467481 Lima: Quebec, sending you 3
+2024-10-14 17:31:46.468415 Tango: Lima, sending you 2
+2024-10-14 17:31:46.469907 Hotel: Lima, sending you 3
+2024-10-14 17:31:46.471215 Quebec: Lima, sending you 2
+2024-10-14 17:31:46.477665 Juliett: Charlie, sending you 1
+2024-10-14 17:31:46.483682 Charlie: Same as last round
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Yankee round 25
+ChatterBot Tango round 25
+ChatterBot Hotel round 25
+ChatterBot Charlie round 25
+ChatterBot Whiskey round 25
+ChatterBot Quebec round 25
+ChatterBot Lima round 25
+ChatterBot Juliett round 25
+ChatterBot Romeo round 25
+ChatterBot Bravo round 25
+2024-10-14 17:31:47.483658 Whiskey: We should add Juliett
+2024-10-14 17:31:47.494986 Charlie: Yes
+2024-10-14 17:31:47.495190 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:47.533721 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:47.540779 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:47.563124 Tango: Hotel, sending you 4
+2024-10-14 17:31:47.565658 Lima: Sending you each 4
+2024-10-14 17:31:47.566673 Charlie: Same as last round
+2024-10-14 17:31:47.568376 Quebec: Tango, sending you 6
+2024-10-14 17:31:47.569481 Tango: Quebec, sending you 5
+2024-10-14 17:31:47.572545 Juliett: Charlie, sending you 1
+2024-10-14 17:31:47.573845 Hotel: Tango, sending you 4
+2024-10-14 17:31:47.576291 Yankee: Charlie, sending you 4
+2024-10-14 17:31:47.577422 Quebec: Hotel, sending you 4
+2024-10-14 17:31:47.579685 Tango: Lima, sending you 2
+2024-10-14 17:31:47.581881 Hotel: Quebec, sending you 5
+2024-10-14 17:31:47.584344 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:47.585703 Quebec: Lima, sending you 2
+2024-10-14 17:31:47.588185 Hotel: Lima, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Yankee round 26
+ChatterBot Tango round 26
+ChatterBot Hotel round 26
+ChatterBot Charlie round 26
+ChatterBot Whiskey round 26
+ChatterBot Quebec round 26
+ChatterBot Lima round 26
+ChatterBot Juliett round 26
+ChatterBot Romeo round 26
+ChatterBot Bravo round 26
+2024-10-14 17:31:48.810726 Whiskey: We should add Juliett
+2024-10-14 17:31:48.824875 Charlie: Yes
+2024-10-14 17:31:48.825680 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:48.905668 Charlie: Same as last round
+2024-10-14 17:31:48.907652 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:48.912156 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:48.929685 Juliett: Charlie, sending you 1
+2024-10-14 17:31:48.931147 Hotel: Tango, sending you 4
+2024-10-14 17:31:48.932996 Quebec: Tango, sending you 5
+2024-10-14 17:31:48.935225 Lima: Same as last round
+2024-10-14 17:31:48.936259 Yankee: Charlie, sending you 4
+2024-10-14 17:31:48.937930 Tango: Hotel, sending you 4
+2024-10-14 17:31:48.939450 Hotel: Quebec, sending you 5
+2024-10-14 17:31:48.940624 Quebec: Hotel, sending you 4
+2024-10-14 17:31:48.942103 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:48.943432 Tango: Quebec, sending you 5
+2024-10-14 17:31:48.945389 Hotel: Lima, sending you 3
+2024-10-14 17:31:48.947382 Quebec: Lima, sending you 3
+2024-10-14 17:31:48.950109 Yankee: Juliett, sending you 1
+2024-10-14 17:31:48.952395 Tango: Lima, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Yankee round 27
+ChatterBot Tango round 27
+ChatterBot Hotel round 27
+ChatterBot Charlie round 27
+ChatterBot Whiskey round 27
+ChatterBot Quebec round 27
+ChatterBot Lima round 27
+ChatterBot Juliett round 27
+ChatterBot Romeo round 27
+ChatterBot Bravo round 27
+2024-10-14 17:31:50.118119 Whiskey: We should add Juliett
+2024-10-14 17:31:50.131012 Charlie: Yes
+2024-10-14 17:31:50.131194 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:50.165674 Hotel: Tango, sending you 4
+2024-10-14 17:31:50.170699 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:50.176700 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:50.189795 Hotel: Quebec, sending you 5
+2024-10-14 17:31:50.192202 Yankee: Charlie, sending you 4
+2024-10-14 17:31:50.195665 Hotel: Lima, sending you 3
+2024-10-14 17:31:50.197280 Tango: Hotel, sending you 4
+2024-10-14 17:31:50.199854 Romeo: Tango and Lima, sending you 1
+2024-10-14 17:31:50.200653 Charlie: Same as last round
+2024-10-14 17:31:50.202482 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:50.203838 Lima: Same as last round
+2024-10-14 17:31:50.205722 Juliett: Charlie, sending you 1
+2024-10-14 17:31:50.206610 Quebec: Tango, sending you 5
+2024-10-14 17:31:50.208345 Tango: Quebec, sending you 5
+2024-10-14 17:31:50.209593 Romeo: Quebec, sending you 3
+2024-10-14 17:31:50.211335 Yankee: Juliett, sending you 1
+2024-10-14 17:31:50.211911 Quebec: Hotel, sending you 4
+2024-10-14 17:31:50.214591 Tango: Lima, sending you 2
+2024-10-14 17:31:50.216970 Quebec: Lima, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Yankee round 28
+ChatterBot Tango round 28
+ChatterBot Hotel round 28
+ChatterBot Charlie round 28
+ChatterBot Whiskey round 28
+ChatterBot Quebec round 28
+ChatterBot Lima round 28
+ChatterBot Juliett round 28
+ChatterBot Romeo round 28
+ChatterBot Bravo round 28
+2024-10-14 17:31:51.335036 Quebec: We should add Charlie
+2024-10-14 17:31:51.347770 Hotel: No
+2024-10-14 17:31:51.347942 Lima: No
+2024-10-14 17:31:51.348071 Tango: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:51.419712 Whiskey: We should add Juliett
+2024-10-14 17:31:51.432892 Charlie: Yes
+2024-10-14 17:31:51.434046 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:51.473945 Quebec: We should add Whiskey
+2024-10-14 17:31:51.487422 Hotel: No
+2024-10-14 17:31:51.487585 Lima: No
+2024-10-14 17:31:51.487725 Tango: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 17:31:51.551683 Charlie: Same as last round
+2024-10-14 17:31:51.554684 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:51.561874 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:51.583162 Lima: Same as last round
+2024-10-14 17:31:51.585661 Hotel: Tango, sending you 4
+2024-10-14 17:31:51.588471 Yankee: Charlie, sending you 4
+2024-10-14 17:31:51.590434 Tango: Hotel, sending you 4
+2024-10-14 17:31:51.593465 Juliett: Charlie, sending you 1
+2024-10-14 17:31:51.595655 Hotel: Quebec, sending you 5
+2024-10-14 17:31:51.598487 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:51.600529 Tango: Quebec, sending you 5
+2024-10-14 17:31:51.603251 Hotel: Lima, sending you 3
+2024-10-14 17:31:51.606200 Yankee: Juliett, sending you 1
+2024-10-14 17:31:51.608170 Tango: Lima, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Yankee round 29
+ChatterBot Tango round 29
+ChatterBot Hotel round 29
+ChatterBot Charlie round 29
+ChatterBot Whiskey round 29
+ChatterBot Quebec round 29
+ChatterBot Lima round 29
+ChatterBot Juliett round 29
+ChatterBot Romeo round 29
+ChatterBot Bravo round 29
+2024-10-14 17:31:52.620406 Whiskey: We should add Juliett
+2024-10-14 17:31:52.630345 Charlie: Yes
+2024-10-14 17:31:52.630522 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:52.677654 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:52.682092 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:52.694443 Yankee: Charlie, sending you 4
+2024-10-14 17:31:52.697696 Lima: Same as last round
+2024-10-14 17:31:52.698944 Tango: Hotel, sending you 4
+2024-10-14 17:31:52.700322 Quebec: Tango, sending you 5
+2024-10-14 17:31:52.701233 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:52.701877 Juliett: Charlie, sending you 1
+2024-10-14 17:31:52.702708 Hotel: Tango and Quebec, sending you 4
+2024-10-14 17:31:52.704169 Charlie: Same as last round
+2024-10-14 17:31:52.704998 Romeo: Tango, sending you 2
+2024-10-14 17:31:52.705977 Tango: Quebec, sending you 5
+2024-10-14 17:31:52.707309 Quebec: Hotel, sending you 4
+2024-10-14 17:31:52.708139 Yankee: Juliett, sending you 1
+2024-10-14 17:31:52.708808 Hotel: Lima, sending you 3
+2024-10-14 17:31:52.709688 Romeo: Quebec, sending you 3
+2024-10-14 17:31:52.711734 Tango: Lima, sending you 2
+2024-10-14 17:31:52.713177 Quebec: Lima, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Yankee round 30
+ChatterBot Tango round 30
+ChatterBot Hotel round 30
+ChatterBot Charlie round 30
+ChatterBot Whiskey round 30
+ChatterBot Quebec round 30
+ChatterBot Lima round 30
+ChatterBot Juliett round 30
+ChatterBot Romeo round 30
+ChatterBot Bravo round 30
+2024-10-14 17:31:53.904385 Whiskey: We should add Juliett
+2024-10-14 17:31:53.913643 Charlie: Yes
+2024-10-14 17:31:53.913823 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:53.943673 Whiskey: Juliett we want you to join our group
+2024-10-14 17:31:53.948560 Juliett: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:31:53.969679 Yankee: Charlie, sending you 4
+2024-10-14 17:31:53.970401 Charlie: Same as last round
+2024-10-14 17:31:53.971118 Quebec: Tango, sending you 5
+2024-10-14 17:31:53.972695 Lima: Same as last round
+2024-10-14 17:31:53.973506 Juliett: Charlie, sending you 1
+2024-10-14 17:31:53.974289 Romeo: Sending you 5
+2024-10-14 17:31:53.975062 Hotel: Tango and Quebec, sending you 4
+2024-10-14 17:31:53.975968 Tango: Hotel, sending you 4
+2024-10-14 17:31:53.976735 Yankee: Whiskey, sending you 7
+2024-10-14 17:31:53.977660 Quebec: Hotel, sending you 4
+2024-10-14 17:31:53.980695 Hotel: Lima, sending you 3
+2024-10-14 17:31:53.981569 Yankee: Juliett, sending you 1
+2024-10-14 17:31:53.982659 Tango: Quebec, sending you 5
+2024-10-14 17:31:53.983455 Quebec: Lima, sending you 3
+2024-10-14 17:31:53.987712 Tango: Lima, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions

@@ -1,0 +1,1931 @@
+ChatterBot Papa round 1
+ChatterBot Kilo round 1
+ChatterBot Tango round 1
+ChatterBot Foxtrot round 1
+ChatterBot Romeo round 1
+ChatterBot X-ray round 1
+ChatterBot Delta round 1
+ChatterBot Yankee round 1
+ChatterBot Lima round 1
+ChatterBot Charlie round 1
+randomSelections Romeo: {Romeo, Lima, Tango} 
+2024-10-14 17:50:09.304391 Romeo: We would work well together
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:09.310449 Lima: Yes
+2024-10-14 17:50:09.310593 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+randomSelections Kilo: {Kilo, Lima, Tango} 
+2024-10-14 17:50:09.324340 Kilo: Friends?
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:09.330182 Lima: No
+2024-10-14 17:50:09.330550 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+randomSelections Papa: {Papa, Kilo, X-ray, Romeo, Delta, Foxtrot} 
+2024-10-14 17:50:09.346435 Papa: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:50:09.359155 Kilo: No
+2024-10-14 17:50:09.359526 X-ray: Yes
+2024-10-14 17:50:09.359675 Romeo: No
+2024-10-14 17:50:09.360456 Delta: Yes
+2024-10-14 17:50:09.360778 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+randomSelections Yankee: {Yankee, Tango, X-ray, Papa, Lima, Delta} 
+2024-10-14 17:50:09.417428 Yankee: Friends?
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:50:09.428232 Tango: No
+2024-10-14 17:50:09.428418 X-ray: No
+2024-10-14 17:50:09.428623 Papa: No
+2024-10-14 17:50:09.428782 Lima: No
+2024-10-14 17:50:09.428972 Delta: No
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+randomSelections Charlie: {Charlie, X-ray, Kilo, Delta, Tango, Papa} 
+2024-10-14 17:50:09.478112 Charlie: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:09.484969 X-ray: No
+2024-10-14 17:50:09.485100 Kilo: No
+2024-10-14 17:50:09.485219 Delta: No
+2024-10-14 17:50:09.485387 Tango: No
+2024-10-14 17:50:09.485510 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:09.535669 Charlie: Papa, sending you 1
+2024-10-14 17:50:09.535969 Lima: Tango, sending you 5
+2024-10-14 17:50:09.538753 Yankee: Papa, sending you 1
+2024-10-14 17:50:09.541068 Foxtrot: Papa, Romeo and X-ray, sending you 2
+2024-10-14 17:50:09.541416 X-ray: Papa and Kilo, sending you 3
+2024-10-14 17:50:09.542462 Charlie: Kilo, sending you 2
+2024-10-14 17:50:09.542755 Lima: Romeo, sending you 6
+2024-10-14 17:50:09.543041 Papa: Kilo, sending you 6
+2024-10-14 17:50:09.543317 Romeo: Tango, sending you 9
+2024-10-14 17:50:09.543553 Yankee: Tango and Delta, sending you 4
+2024-10-14 17:50:09.546573 Foxtrot: Kilo, sending you 3
+2024-10-14 17:50:09.546913 X-ray: Romeo, sending you 1
+2024-10-14 17:50:09.547232 Tango: Romeo, sending you 5
+2024-10-14 17:50:09.547481 Kilo: Tango and Lima, sending you 9
+2024-10-14 17:50:09.548413 Romeo: Lima, sending you 7
+2024-10-14 17:50:09.548714 Charlie: Tango and X-ray, sending you 4
+2024-10-14 17:50:09.549048 Papa: Foxtrot, sending you 3
+2024-10-14 17:50:09.549337 Yankee: X-ray, sending you 2
+2024-10-14 17:50:09.550509 X-ray: Delta, sending you 2
+2024-10-14 17:50:09.554780 Foxtrot: Delta, sending you 5
+2024-10-14 17:50:09.555195 Tango: Lima, sending you 6
+2024-10-14 17:50:09.556086 Delta: Papa, sending you 6
+2024-10-14 17:50:09.556535 Yankee: Lima, sending you 3
+2024-10-14 17:50:09.556943 Charlie: Delta, sending you 3
+2024-10-14 17:50:09.557286 Papa: Romeo, sending you 2
+2024-10-14 17:50:09.558711 Delta: X-ray, sending you 3
+2024-10-14 17:50:09.564696 Papa: X-ray, sending you 5
+2024-10-14 17:50:09.576940 Papa: Delta, sending you 4
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 2
+ChatterBot Kilo round 2
+ChatterBot Tango round 2
+ChatterBot Foxtrot round 2
+ChatterBot Romeo round 2
+ChatterBot X-ray round 2
+2024-10-14 17:50:12.373904 Papa: Friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:50:12.420752 Foxtrot: No
+2024-10-14 17:50:12.421343 X-ray: Yes
+2024-10-14 17:50:12.421488 Delta: No
+2024-10-14 17:50:12.421623 Yankee: No
+2024-10-14 17:50:12.421754 Charlie: No
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta round 2
+ChatterBot Yankee round 2
+2024-10-14 17:50:12.731631 Tango: We should add Kilo
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:12.746011 Romeo: No
+2024-10-14 17:50:12.746151 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima round 2
+2024-10-14 17:50:12.771196 Kilo: We should group up
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:50:12.796935 Papa: Yes
+2024-10-14 17:50:12.797081 Foxtrot: Yes
+2024-10-14 17:50:12.797195 X-ray: Yes
+2024-10-14 17:50:12.797298 Delta: Yes
+2024-10-14 17:50:12.797413 Yankee: Yes
+2024-10-14 17:50:12.797531 Charlie: No
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie round 2
+2024-10-14 17:50:12.953521 Lima: We should drop Tango
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:12.956807 Romeo: No
+ChatterBot Lima reevaluating
+2024-10-14 17:50:12.960717 Lima: We should add Kilo and Yankee
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:12.966502 Romeo: No
+2024-10-14 17:50:12.966621 Tango: Yes
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:12.979620 Tango: We should add Kilo and Charlie
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:12.985693 Romeo: Yes
+2024-10-14 17:50:12.985797 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:13.003713 Charlie: Let's form a team
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:50:13.019051 Kilo: Yes
+2024-10-14 17:50:13.019802 Papa: Yes
+2024-10-14 17:50:13.019925 Foxtrot: Yes
+2024-10-14 17:50:13.020045 X-ray: No
+2024-10-14 17:50:13.020191 Delta: Yes
+2024-10-14 17:50:13.020341 Yankee: No
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:50:13.192645 Lima: We should add Kilo
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:13.199863 Romeo: Yes
+2024-10-14 17:50:13.200128 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:13.216121 Lima: Kilo we want you to join our group
+2024-10-14 17:50:13.219857 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:13.231617 Kilo: Papa, sending you 5
+2024-10-14 17:50:13.236534 Yankee: Papa, Foxtrot, X-ray and Delta, sending you 3
+2024-10-14 17:50:13.238137 Tango: Kilo and Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:13.244648 Kilo: No
+2024-10-14 17:50:13.245587 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:13.271086 Kilo: Foxtrot and X-ray, sending you 4
+2024-10-14 17:50:13.272121 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:13.272490 Charlie: Papa and Foxtrot, sending you 3
+2024-10-14 17:50:13.272885 X-ray: Papa, Foxtrot, Delta and Charlie, sending you 2
+2024-10-14 17:50:13.284148 Papa: Kilo, sending you 1
+2024-10-14 17:50:13.284987 Delta: X-ray, sending you 1
+2024-10-14 17:50:13.285360 Tango: Kilo we want you to join our group
+2024-10-14 17:50:13.288605 Kilo: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:13.298859 Kilo: Delta, sending you 2
+2024-10-14 17:50:13.299252 Charlie: Kilo, X-ray, Delta and Yankee, sending you 2
+2024-10-14 17:50:13.300015 Foxtrot: Papa, sending you 8
+2024-10-14 17:50:13.300408 X-ray: Yankee, sending you 1
+2024-10-14 17:50:13.300754 Papa: Foxtrot, Yankee and Charlie, sending you 3
+2024-10-14 17:50:13.322239 Kilo: Yankee, sending you 1
+2024-10-14 17:50:13.323286 Foxtrot: Kilo, X-ray, Delta, Yankee and Charlie, sending you 1
+2024-10-14 17:50:13.323667 Papa: X-ray, sending you 4
+2024-10-14 17:50:13.324439 Romeo: Kilo and Yankee we want you to join our group
+2024-10-14 17:50:13.329693 Kilo: No
+2024-10-14 17:50:13.329826 Yankee: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:13.356315 Kilo: Charlie, sending you 3
+2024-10-14 17:50:13.356848 Papa: Delta, sending you 6
+2024-10-14 17:50:13.361892 Lima: We should drop Yankee
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:13.375309 Kilo: No
+2024-10-14 17:50:13.375526 Tango: Yes
+2024-10-14 17:50:13.376166 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:13.446689 Tango: Kilo and Romeo, sending you 4
+chatterbot Kilo submitting transactions
+2024-10-14 17:50:13.449659 Tango: Lima, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 3
+ChatterBot Kilo round 3
+ChatterBot Tango round 3
+ChatterBot Foxtrot round 3
+ChatterBot Romeo round 3
+ChatterBot X-ray round 3
+ChatterBot Delta round 3
+ChatterBot Yankee round 3
+2024-10-14 17:50:14.425408 Romeo: We should add Kilo
+ChatterBot Lima reevaluating
+2024-10-14 17:50:14.430426 Lima: Yes
+2024-10-14 17:50:14.430580 Tango: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima round 3
+ChatterBot Charlie round 3
+2024-10-14 17:50:14.445745 Yankee: We should add Kilo
+ChatterBot X-ray reevaluating
+2024-10-14 17:50:14.456150 Papa: Yes
+2024-10-14 17:50:14.456300 Foxtrot: Yes
+2024-10-14 17:50:14.456428 X-ray: Yes
+2024-10-14 17:50:14.456952 Delta: Yes
+2024-10-14 17:50:14.457106 Charlie: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:50:14.513997 Romeo: Kilo we want you to join our group
+2024-10-14 17:50:14.516062 Kilo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 17:50:14.528413 Yankee: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:14.532843 Kilo: No
+ChatterBot X-ray reevaluating
+2024-10-14 17:50:14.547112 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:14.553726 Kilo: Yes
+2024-10-14 17:50:14.553912 Tango: Yes
+2024-10-14 17:50:14.554053 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:14.647660 Delta: Papa, sending you 3
+chatterbot Lima submitting transactions
+2024-10-14 17:50:14.650678 Tango: Kilo, sending you 3
+2024-10-14 17:50:14.651686 Delta: Kilo, Foxtrot, X-ray and Charlie, sending you 1
+2024-10-14 17:50:14.653510 Papa: Kilo, X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:14.655151 Foxtrot: Papa and Kilo, sending you 3
+2024-10-14 17:50:14.656035 Romeo: Kilo, sending you 3
+2024-10-14 17:50:14.656590 Tango: Romeo and Lima, sending you 4
+2024-10-14 17:50:14.657857 Delta: Yankee, sending you 2
+2024-10-14 17:50:14.659506 Papa: Foxtrot and Delta, sending you 4
+2024-10-14 17:50:14.660673 Foxtrot: X-ray, Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:14.662045 Romeo: Tango, sending you 6
+2024-10-14 17:50:14.664667 X-ray: Papa, sending you 3
+2024-10-14 17:50:14.665933 Charlie: Papa and Kilo, sending you 3
+2024-10-14 17:50:14.667694 Romeo: Lima, sending you 7
+2024-10-14 17:50:14.669275 X-ray: Kilo, Foxtrot, Delta and Yankee, sending you 1
+2024-10-14 17:50:14.670347 Yankee: Papa and Delta, sending you 3
+2024-10-14 17:50:14.671765 Charlie: Foxtrot, X-ray, Delta and Yankee, sending you 2
+2024-10-14 17:50:14.674697 X-ray: Charlie, sending you 2
+2024-10-14 17:50:14.676358 Yankee: Kilo, Foxtrot, X-ray and Charlie, sending you 2
+2024-10-14 17:50:14.678187 Kilo: Tango, sending you 6
+2024-10-14 17:50:14.681715 Kilo: Romeo, sending you 5
+2024-10-14 17:50:14.685692 Kilo: Lima, sending you 8
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 4
+ChatterBot Kilo round 4
+ChatterBot Tango round 4
+ChatterBot Foxtrot round 4
+ChatterBot Romeo round 4
+ChatterBot X-ray round 4
+ChatterBot Delta round 4
+ChatterBot Yankee round 4
+ChatterBot Lima round 4
+ChatterBot Charlie round 4
+2024-10-14 17:50:15.812805 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:15.820319 Kilo: Yes
+2024-10-14 17:50:15.820579 Tango: Yes
+2024-10-14 17:50:15.821551 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:15.844553 Romeo: Kilo, sending you 4
+2024-10-14 17:50:15.845051 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:15.847679 Romeo: Tango and Lima, sending you 6
+2024-10-14 17:50:15.849208 Tango: Kilo, sending you 3
+2024-10-14 17:50:15.850303 Foxtrot: Kilo, X-ray, Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:15.851746 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:15.852668 Papa: Kilo, X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:15.853953 Charlie: Papa and X-ray, sending you 3
+2024-10-14 17:50:15.854563 X-ray: Papa, Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:15.854983 Tango: Romeo and Lima, sending you 4
+2024-10-14 17:50:15.855707 Delta: X-ray, sending you 1
+2024-10-14 17:50:15.858140 Papa: Foxtrot and Delta, sending you 4
+2024-10-14 17:50:15.859226 Charlie: Kilo, Foxtrot, Delta and Yankee, sending you 2
+2024-10-14 17:50:15.860150 X-ray: Foxtrot, sending you 1
+2024-10-14 17:50:15.867660 Kilo: Tango, sending you 6
+2024-10-14 17:50:15.868875 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:15.872656 Kilo: Romeo, sending you 5
+2024-10-14 17:50:15.872975 Yankee: X-ray, sending you 2
+2024-10-14 17:50:15.875646 Kilo: Lima, sending you 8
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Papa round 5
+ChatterBot Kilo round 5
+ChatterBot Tango round 5
+ChatterBot Foxtrot round 5
+ChatterBot Romeo round 5
+ChatterBot X-ray round 5
+ChatterBot Delta round 5
+ChatterBot Yankee round 5
+ChatterBot Lima round 5
+ChatterBot Charlie round 5
+2024-10-14 17:50:17.095802 Lima: We should drop Yankee
+2024-10-14 17:50:17.101832 Kilo: Yes
+2024-10-14 17:50:17.102002 Tango: Yes
+2024-10-14 17:50:17.102129 Romeo: Yes
+2024-10-14 17:50:17.119691 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:17.122674 Papa: Kilo, X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:17.123669 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:17.124072 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:17.124934 Kilo: Lima, sending you 7
+2024-10-14 17:50:17.125382 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:17.125978 Delta: Papa, Foxtrot, X-ray and Yankee, sending you 2
+2024-10-14 17:50:17.126437 Tango: Kilo, sending you 3
+2024-10-14 17:50:17.126792 Papa: Foxtrot and Delta, sending you 4
+2024-10-14 17:50:17.127203 Romeo: Lima, sending you 6
+2024-10-14 17:50:17.128674 X-ray: Delta, sending you 1
+2024-10-14 17:50:17.129064 Foxtrot: Kilo, X-ray, Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:17.129679 Tango: Romeo and Lima, sending you 4
+2024-10-14 17:50:17.130966 Delta: Charlie, sending you 1
+2024-10-14 17:50:17.131348 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:17.134677 Yankee: X-ray, sending you 2
+2024-10-14 17:50:17.135164 Charlie: Papa and X-ray, sending you 3
+2024-10-14 17:50:17.137689 Charlie: Kilo, Foxtrot, Delta and Yankee, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 6
+ChatterBot Kilo round 6
+ChatterBot Tango round 6
+ChatterBot Foxtrot round 6
+ChatterBot Romeo round 6
+ChatterBot X-ray round 6
+ChatterBot Delta round 6
+ChatterBot Yankee round 6
+ChatterBot Lima round 6
+ChatterBot Charlie round 6
+2024-10-14 17:50:18.267284 Lima: We should drop Yankee
+2024-10-14 17:50:18.273272 Kilo: Yes
+2024-10-14 17:50:18.273441 Tango: Yes
+2024-10-14 17:50:18.273577 Romeo: Yes
+2024-10-14 17:50:18.295645 Papa: Kilo, sending you 2
+2024-10-14 17:50:18.296172 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:18.296475 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:18.297673 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:18.298014 Yankee: Papa, X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:18.298376 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:18.298727 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:18.299688 Kilo: Lima, sending you 7
+2024-10-14 17:50:18.300673 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:18.301144 Foxtrot: Kilo, X-ray, Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:18.301689 Romeo: Lima, sending you 6
+2024-10-14 17:50:18.302040 Delta: X-ray, sending you 1
+2024-10-14 17:50:18.302679 Yankee: Foxtrot, sending you 2
+2024-10-14 17:50:18.303451 Tango: Lima, sending you 3
+2024-10-14 17:50:18.303794 X-ray: Papa, Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:18.304184 Papa: X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:18.304693 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:18.307664 Papa: Delta, sending you 4
+2024-10-14 17:50:18.308681 X-ray: Foxtrot, sending you 1
+2024-10-14 17:50:18.310005 Charlie: Foxtrot, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 7
+ChatterBot Kilo round 7
+ChatterBot Tango round 7
+ChatterBot Foxtrot round 7
+ChatterBot Romeo round 7
+ChatterBot X-ray round 7
+ChatterBot Delta round 7
+ChatterBot Yankee round 7
+ChatterBot Lima round 7
+ChatterBot Charlie round 7
+2024-10-14 17:50:19.524579 Lima: We should drop Yankee
+2024-10-14 17:50:19.530511 Kilo: Yes
+2024-10-14 17:50:19.530687 Tango: Yes
+2024-10-14 17:50:19.530843 Romeo: Yes
+2024-10-14 17:50:19.550671 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:19.551796 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:19.552375 Papa: Kilo, sending you 2
+2024-10-14 17:50:19.552992 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:19.553352 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:19.553727 Yankee: Papa, X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:19.555201 Tango: Lima, sending you 3
+2024-10-14 17:50:19.556663 X-ray: Delta, sending you 1
+2024-10-14 17:50:19.557680 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:19.559060 Kilo: Lima, sending you 7
+2024-10-14 17:50:19.559444 Yankee: Foxtrot, sending you 2
+2024-10-14 17:50:19.559881 Foxtrot: X-ray, sending you 1
+2024-10-14 17:50:19.563692 Papa: X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:19.564274 Foxtrot: Delta, Yankee and Charlie, sending you 3
+2024-10-14 17:50:19.564677 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:19.568716 Papa: Delta, sending you 4
+2024-10-14 17:50:19.569682 Delta: X-ray, sending you 1
+2024-10-14 17:50:19.570151 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:19.570695 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:19.573667 Romeo: Lima, sending you 6
+2024-10-14 17:50:19.574698 Charlie: Foxtrot, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 8
+ChatterBot Kilo round 8
+ChatterBot Tango round 8
+ChatterBot Foxtrot round 8
+ChatterBot Romeo round 8
+ChatterBot X-ray round 8
+ChatterBot Delta round 8
+ChatterBot Yankee round 8
+ChatterBot Lima round 8
+ChatterBot Charlie round 8
+2024-10-14 17:50:20.836050 Lima: We should drop Yankee
+2024-10-14 17:50:20.844231 Kilo: Yes
+2024-10-14 17:50:20.845155 Tango: Yes
+2024-10-14 17:50:20.845415 Romeo: Yes
+2024-10-14 17:50:20.872658 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:20.875436 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:20.876534 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:20.879074 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:20.880570 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:20.882529 Papa: Kilo, sending you 2
+2024-10-14 17:50:20.884079 Yankee: Papa, X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:20.886341 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:20.887447 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:20.889273 Foxtrot: X-ray and Charlie, sending you 2
+2024-10-14 17:50:20.890099 Kilo: Lima, sending you 7
+2024-10-14 17:50:20.891695 X-ray: Delta, sending you 1
+2024-10-14 17:50:20.892896 Delta: X-ray, sending you 1
+2024-10-14 17:50:20.894606 Romeo: Lima, sending you 6
+2024-10-14 17:50:20.895424 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:20.898043 Yankee: Foxtrot, sending you 2
+2024-10-14 17:50:20.899985 Tango: Lima, sending you 3
+2024-10-14 17:50:20.900933 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:20.902334 Foxtrot: Delta and Yankee, sending you 3
+2024-10-14 17:50:20.904561 Papa: X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:20.909685 Papa: Delta, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Papa round 9
+ChatterBot Kilo round 9
+ChatterBot Tango round 9
+ChatterBot Foxtrot round 9
+ChatterBot Romeo round 9
+ChatterBot X-ray round 9
+ChatterBot Delta round 9
+ChatterBot Yankee round 9
+ChatterBot Lima round 9
+ChatterBot Charlie round 9
+2024-10-14 17:50:22.076373 Lima: We should drop Yankee
+2024-10-14 17:50:22.081577 Kilo: Yes
+2024-10-14 17:50:22.081724 Tango: Yes
+2024-10-14 17:50:22.081839 Romeo: Yes
+2024-10-14 17:50:22.101682 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:22.103146 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:22.103707 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:22.104140 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:22.104727 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:22.105331 Papa: Kilo, sending you 2
+2024-10-14 17:50:22.106412 Delta: X-ray, sending you 1
+2024-10-14 17:50:22.107455 X-ray: Delta, sending you 1
+2024-10-14 17:50:22.108981 Kilo: Lima, sending you 7
+2024-10-14 17:50:22.109549 Foxtrot: X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:22.110406 Tango: Lima, sending you 3
+2024-10-14 17:50:22.110934 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:22.112687 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:22.113184 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:22.114673 Foxtrot: Charlie, sending you 1
+2024-10-14 17:50:22.116059 Papa: X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:22.116624 Romeo: Lima, sending you 6
+2024-10-14 17:50:22.117031 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:22.117708 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:22.119419 Papa: Delta, sending you 4
+2024-10-14 17:50:22.120394 Yankee: X-ray, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 10
+ChatterBot Kilo round 10
+ChatterBot Tango round 10
+ChatterBot Foxtrot round 10
+ChatterBot Romeo round 10
+ChatterBot X-ray round 10
+ChatterBot Delta round 10
+ChatterBot Yankee round 10
+ChatterBot Lima round 10
+ChatterBot Charlie round 10
+2024-10-14 17:50:23.300880 Lima: We should drop Yankee
+2024-10-14 17:50:23.309198 Kilo: Yes
+2024-10-14 17:50:23.309441 Tango: Yes
+2024-10-14 17:50:23.309603 Romeo: Yes
+2024-10-14 17:50:23.332897 Papa: Kilo, sending you 2
+2024-10-14 17:50:23.336689 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:23.338058 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:23.338810 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:23.339465 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:23.340217 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:23.341245 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:23.342103 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:23.342935 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:23.343597 X-ray: Delta, sending you 1
+2024-10-14 17:50:23.344740 Foxtrot: X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:23.345487 Yankee: X-ray, sending you 2
+2024-10-14 17:50:23.346307 Kilo: Lima, sending you 7
+2024-10-14 17:50:23.347532 Romeo: Lima, sending you 6
+2024-10-14 17:50:23.347933 Papa: X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:23.348469 Delta: X-ray, sending you 1
+2024-10-14 17:50:23.348960 Tango: Lima, sending you 3
+2024-10-14 17:50:23.349666 Foxtrot: Charlie, sending you 1
+2024-10-14 17:50:23.350914 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:23.351667 Papa: Delta, sending you 4
+2024-10-14 17:50:23.355995 Charlie: Foxtrot, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 11
+ChatterBot Kilo round 11
+ChatterBot Tango round 11
+ChatterBot Foxtrot round 11
+ChatterBot Romeo round 11
+ChatterBot X-ray round 11
+ChatterBot Delta round 11
+ChatterBot Yankee round 11
+ChatterBot Lima round 11
+ChatterBot Charlie round 11
+2024-10-14 17:50:24.515977 Lima: We should drop Yankee
+2024-10-14 17:50:24.530928 Kilo: Yes
+2024-10-14 17:50:24.531139 Tango: Yes
+2024-10-14 17:50:24.531391 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:24.564683 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:24.566152 Papa: Kilo, sending you 2
+2024-10-14 17:50:24.567035 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:24.567725 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:24.568727 Delta: X-ray, sending you 1
+2024-10-14 17:50:24.571661 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:24.572413 Romeo: Lima, sending you 6
+2024-10-14 17:50:24.572978 Foxtrot: X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:24.574052 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:24.574509 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:24.575145 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:24.576671 Papa: X-ray, Yankee and Charlie, sending you 3
+2024-10-14 17:50:24.577659 Foxtrot: Charlie, sending you 1
+2024-10-14 17:50:24.578670 Tango: Lima, sending you 3
+2024-10-14 17:50:24.579241 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:24.579920 Yankee: X-ray, sending you 2
+2024-10-14 17:50:24.580995 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:24.581678 Papa: Delta, sending you 4
+2024-10-14 17:50:24.583716 X-ray: Delta, sending you 1
+2024-10-14 17:50:24.586154 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:24.591694 Kilo: Lima, sending you 7
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Papa round 12
+ChatterBot Kilo round 12
+ChatterBot Tango round 12
+ChatterBot Foxtrot round 12
+ChatterBot Romeo round 12
+ChatterBot X-ray round 12
+ChatterBot Delta round 12
+ChatterBot Yankee round 12
+ChatterBot Lima round 12
+ChatterBot Charlie round 12
+2024-10-14 17:50:25.588662 Papa: Kilo, sending you 2
+2024-10-14 17:50:25.589617 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:25.590393 Lima: We should drop Yankee
+2024-10-14 17:50:25.597214 Kilo: Yes
+2024-10-14 17:50:25.597425 Tango: Yes
+2024-10-14 17:50:25.597597 Romeo: Yes
+2024-10-14 17:50:25.623560 Romeo: Lima, sending you 6
+2024-10-14 17:50:25.624115 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:25.627672 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:25.628327 Papa: X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:25.629007 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:25.629649 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:25.630800 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:25.631348 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:25.631890 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:25.632584 Yankee: X-ray, sending you 2
+2024-10-14 17:50:25.633236 Papa: Yankee, sending you 4
+2024-10-14 17:50:25.634044 Tango: Lima, sending you 3
+2024-10-14 17:50:25.635485 X-ray: Delta, sending you 1
+2024-10-14 17:50:25.636229 Foxtrot: X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:25.636716 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:25.637264 Kilo: Lima, sending you 7
+2024-10-14 17:50:25.637677 Delta: X-ray, sending you 1
+2024-10-14 17:50:25.639671 Foxtrot: Charlie, sending you 1
+2024-10-14 17:50:25.640690 Charlie: Foxtrot, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 13
+ChatterBot Kilo round 13
+ChatterBot Tango round 13
+ChatterBot Foxtrot round 13
+ChatterBot Romeo round 13
+ChatterBot X-ray round 13
+ChatterBot Delta round 13
+ChatterBot Yankee round 13
+ChatterBot Lima round 13
+ChatterBot Charlie round 13
+2024-10-14 17:50:26.795945 Lima: We should drop Yankee
+2024-10-14 17:50:26.806443 Kilo: Yes
+2024-10-14 17:50:26.806793 Tango: Yes
+2024-10-14 17:50:26.807119 Romeo: Yes
+2024-10-14 17:50:26.840027 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:26.840896 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:26.842044 Papa: Kilo, sending you 2
+2024-10-14 17:50:26.842982 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:26.843514 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:26.844024 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:26.844456 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:26.845494 Delta: X-ray, sending you 1
+2024-10-14 17:50:26.846036 Foxtrot: X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:26.846660 Romeo: Lima, sending you 6
+2024-10-14 17:50:26.847073 Tango: Lima, sending you 3
+2024-10-14 17:50:26.847681 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:26.848671 Kilo: Lima, sending you 7
+2024-10-14 17:50:26.849208 X-ray: Delta, sending you 1
+2024-10-14 17:50:26.850643 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:26.851481 Foxtrot: Charlie, sending you 1
+2024-10-14 17:50:26.852484 Papa: X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:26.853715 Yankee: X-ray, sending you 2
+2024-10-14 17:50:26.857683 Papa: Yankee, sending you 4
+2024-10-14 17:50:26.859691 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:26.863895 Charlie: Foxtrot, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 14
+ChatterBot Kilo round 14
+ChatterBot Tango round 14
+ChatterBot Foxtrot round 14
+ChatterBot Romeo round 14
+ChatterBot X-ray round 14
+ChatterBot Delta round 14
+ChatterBot Yankee round 14
+ChatterBot Lima round 14
+ChatterBot Charlie round 14
+2024-10-14 17:50:28.134901 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:28.145865 Kilo: Yes
+2024-10-14 17:50:28.146119 Tango: Yes
+2024-10-14 17:50:28.146368 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:28.175655 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:28.176479 Papa: Kilo, sending you 2
+2024-10-14 17:50:28.178351 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:28.179239 Foxtrot: Papa, sending you 4
+2024-10-14 17:50:28.180912 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:28.181703 Romeo: Lima, sending you 6
+2024-10-14 17:50:28.182838 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:28.183874 Delta: X-ray, sending you 1
+2024-10-14 17:50:28.186094 Foxtrot: X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:28.187605 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:28.188932 Tango: Lima, sending you 3
+2024-10-14 17:50:28.190773 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:28.192111 Papa: X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:28.194601 Foxtrot: Charlie, sending you 1
+2024-10-14 17:50:28.196779 Yankee: X-ray, sending you 2
+2024-10-14 17:50:28.198209 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:28.200335 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:28.201365 Papa: Yankee, sending you 4
+2024-10-14 17:50:28.203698 X-ray: Delta, sending you 1
+2024-10-14 17:50:28.205870 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:28.209671 Kilo: Lima, sending you 7
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Papa round 15
+ChatterBot Kilo round 15
+ChatterBot Tango round 15
+ChatterBot Foxtrot round 15
+ChatterBot Romeo round 15
+ChatterBot X-ray round 15
+ChatterBot Delta round 15
+ChatterBot Yankee round 15
+ChatterBot Lima round 15
+ChatterBot Charlie round 15
+2024-10-14 17:50:29.389690 Papa: Kilo, sending you 2
+2024-10-14 17:50:29.392016 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:29.400744 Kilo: Yes
+2024-10-14 17:50:29.400997 Tango: Yes
+2024-10-14 17:50:29.401169 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:29.433608 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:29.435675 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:29.437401 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:29.439591 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:29.440609 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:29.442543 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:29.443715 Papa: X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:29.445786 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:29.446567 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:29.448588 Delta: X-ray, sending you 1
+2024-10-14 17:50:29.450575 X-ray: Delta, sending you 1
+2024-10-14 17:50:29.452936 Romeo: Lima, sending you 6
+2024-10-14 17:50:29.454112 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:29.456446 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:29.458311 Tango: Lima, sending you 3
+2024-10-14 17:50:29.459468 Papa: Yankee, sending you 4
+2024-10-14 17:50:29.461432 Yankee: X-ray, sending you 2
+2024-10-14 17:50:29.465669 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:29.469686 Kilo: Lima, sending you 7
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 16
+ChatterBot Kilo round 16
+ChatterBot Tango round 16
+ChatterBot Foxtrot round 16
+ChatterBot Romeo round 16
+ChatterBot X-ray round 16
+ChatterBot Delta round 16
+ChatterBot Yankee round 16
+ChatterBot Lima round 16
+ChatterBot Charlie round 16
+2024-10-14 17:50:30.478062 Kilo: We should add Charlie
+ChatterBot Lima reevaluating
+2024-10-14 17:50:30.485094 Lima: Yes
+2024-10-14 17:50:30.485277 Tango: No
+2024-10-14 17:50:30.485418 Romeo: No
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:30.516894 Kilo: We should add X-ray
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:30.522978 Lima: Yes
+2024-10-14 17:50:30.523151 Tango: Yes
+2024-10-14 17:50:30.523269 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:30.553023 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:30.554584 Papa: Kilo, sending you 2
+2024-10-14 17:50:30.555850 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:30.557531 Tango: X-ray we want you to join our group
+2024-10-14 17:50:30.561732 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:30.578828 Lima: We should replace Yankee with X-ray
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:30.588883 Kilo: Yes
+2024-10-14 17:50:30.589076 Tango: Yes
+2024-10-14 17:50:30.589195 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:30.613456 X-ray: Delta, sending you 1
+2024-10-14 17:50:30.615669 Papa: Foxtrot, sending you 5
+2024-10-14 17:50:30.618162 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:30.620111 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:30.622388 Papa: X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:30.624767 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:30.626723 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:30.628914 Romeo: Kilo, sending you 6
+2024-10-14 17:50:30.629972 Delta: X-ray, sending you 1
+2024-10-14 17:50:30.631973 Lima: X-ray we want you to join our group
+2024-10-14 17:50:30.636363 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:30.649308 Papa: Yankee, sending you 4
+2024-10-14 17:50:30.651350 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:30.652405 Yankee: X-ray, sending you 2
+2024-10-14 17:50:30.653588 Romeo: Tango and Lima, sending you 5
+2024-10-14 17:50:30.655346 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:30.663905 Kilo: Yes
+2024-10-14 17:50:30.664076 Tango: Yes
+2024-10-14 17:50:30.664207 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:30.712682 Kilo: Tango and Romeo, sending you 6
+2024-10-14 17:50:30.717667 Kilo: Lima, sending you 7
+2024-10-14 17:50:30.721659 Tango: Kilo, sending you 4
+2024-10-14 17:50:30.725121 Tango: Romeo and Lima, sending you 3
+2024-10-14 17:50:30.728681 Tango: X-ray, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 17
+ChatterBot Kilo round 17
+ChatterBot Tango round 17
+ChatterBot Foxtrot round 17
+2024-10-14 17:50:31.663683 Kilo: We should add X-ray
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:31.671517 Lima: Yes
+2024-10-14 17:50:31.671723 Tango: Yes
+2024-10-14 17:50:31.671882 Romeo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo round 17
+ChatterBot X-ray round 17
+ChatterBot Delta round 17
+ChatterBot Yankee round 17
+ChatterBot Lima round 17
+ChatterBot Charlie round 17
+2024-10-14 17:50:31.715752 Papa: We should drop Kilo
+2024-10-14 17:50:31.730160 Foxtrot: Yes
+2024-10-14 17:50:31.730330 X-ray: Yes
+2024-10-14 17:50:31.730453 Delta: Yes
+2024-10-14 17:50:31.730568 Yankee: Yes
+2024-10-14 17:50:31.730699 Charlie: Yes
+2024-10-14 17:50:31.781407 Lima: We should replace Yankee with X-ray
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:31.787680 Kilo: No
+2024-10-14 17:50:31.787864 Tango: No
+2024-10-14 17:50:31.787999 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:31.826261 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:31.869391 Kilo: Yes
+2024-10-14 17:50:31.869652 Tango: Yes
+2024-10-14 17:50:31.869833 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:31.988300 Tango: We should replace X-ray with Charlie
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:32.001917 Lima: No
+2024-10-14 17:50:32.002227 Kilo: No
+2024-10-14 17:50:32.002568 Romeo: No
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:32.083447 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:32.086483 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:32.090151 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:32.094360 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:32.099867 Papa: Sending you each 4
+2024-10-14 17:50:32.102337 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:32.104989 Tango: We should drop X-ray
+ChatterBot Lima reevaluating
+2024-10-14 17:50:32.114659 Lima: Yes
+2024-10-14 17:50:32.115167 Kilo: Yes
+2024-10-14 17:50:32.116446 Romeo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:32.166338 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:32.172309 Yankee: X-ray, sending you 2
+2024-10-14 17:50:32.178340 Delta: X-ray, sending you 1
+2024-10-14 17:50:32.182110 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:32.184917 X-ray: Delta, sending you 1
+2024-10-14 17:50:32.187500 Romeo: Kilo, sending you 6
+chatterbot Foxtrot submitting transactions
+2024-10-14 17:50:32.196001 Romeo: Tango and Lima, sending you 5
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 18
+ChatterBot Kilo round 18
+ChatterBot Tango round 18
+ChatterBot Foxtrot round 18
+ChatterBot Romeo round 18
+ChatterBot X-ray round 18
+ChatterBot Delta round 18
+ChatterBot Yankee round 18
+ChatterBot Lima round 18
+ChatterBot Charlie round 18
+2024-10-14 17:50:33.116396 Tango: We should drop X-ray
+ChatterBot Lima reevaluating
+2024-10-14 17:50:33.124240 Lima: Yes
+2024-10-14 17:50:33.124402 Kilo: Yes
+2024-10-14 17:50:33.124528 Romeo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:33.147628 Kilo: We should add Charlie
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:33.154921 Lima: No
+2024-10-14 17:50:33.155117 Tango: No
+2024-10-14 17:50:33.155267 Romeo: No
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:33.177680 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:33.178676 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:33.179606 Romeo: Kilo, sending you 6
+2024-10-14 17:50:33.180261 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:33.181001 Papa: Same as last round
+2024-10-14 17:50:33.182006 Kilo: We should drop Tango
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:33.187871 Romeo: Yes
+2024-10-14 17:50:33.187981 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:33.198914 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:33.200195 X-ray: Delta, sending you 1
+2024-10-14 17:50:33.201848 Delta: X-ray, sending you 1
+2024-10-14 17:50:33.205664 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:33.207736 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:33.212654 Yankee: X-ray, sending you 2
+2024-10-14 17:50:33.215014 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:33.221648 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:33.225664 Tango: Lima, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Papa round 19
+ChatterBot Kilo round 19
+ChatterBot Tango round 19
+ChatterBot Foxtrot round 19
+ChatterBot Romeo round 19
+ChatterBot X-ray round 19
+ChatterBot Delta round 19
+ChatterBot Yankee round 19
+ChatterBot Lima round 19
+ChatterBot Charlie round 19
+2024-10-14 17:50:34.376654 Papa: Same as last round
+2024-10-14 17:50:34.377827 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:34.378644 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:34.380037 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:34.381648 Tango: Lima, sending you 3
+2024-10-14 17:50:34.382666 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:34.383319 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:34.385655 Delta: X-ray, sending you 1
+2024-10-14 17:50:34.386925 Romeo: Lima, sending you 6
+2024-10-14 17:50:34.388668 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:34.389440 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:34.391652 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:34.392657 Yankee: X-ray, sending you 2
+2024-10-14 17:50:34.395660 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:34.400669 X-ray: Delta, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 20
+ChatterBot Kilo round 20
+ChatterBot Tango round 20
+ChatterBot Foxtrot round 20
+ChatterBot Romeo round 20
+ChatterBot X-ray round 20
+ChatterBot Delta round 20
+ChatterBot Yankee round 20
+ChatterBot Lima round 20
+ChatterBot Charlie round 20
+2024-10-14 17:50:35.692746 Kilo: We should drop Romeo
+2024-10-14 17:50:35.700088 Lima: No
+2024-10-14 17:50:35.700252 Tango: No
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:35.718794 Tango: We should drop Kilo
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:35.725356 Romeo: No
+2024-10-14 17:50:35.725511 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:50:35.739667 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:35.741266 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:35.744170 Tango: We should drop Lima
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:35.750016 Kilo: No
+2024-10-14 17:50:35.750219 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:35.764084 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:35.766065 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:35.769774 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:35.772755 Papa: Same as last round
+2024-10-14 17:50:35.775896 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:35.777857 X-ray: Delta, sending you 1
+2024-10-14 17:50:35.780279 Delta: X-ray, sending you 1
+2024-10-14 17:50:35.782535 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:35.785323 Yankee: X-ray, sending you 2
+2024-10-14 17:50:35.800685 Romeo: Sending you each 8
+2024-10-14 17:50:35.803837 Tango: Romeo, sending you 6
+2024-10-14 17:50:35.807652 Tango: Lima, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 21
+ChatterBot Kilo round 21
+ChatterBot Tango round 21
+ChatterBot Foxtrot round 21
+ChatterBot Romeo round 21
+ChatterBot X-ray round 21
+ChatterBot Delta round 21
+ChatterBot Yankee round 21
+ChatterBot Lima round 21
+ChatterBot Charlie round 21
+2024-10-14 17:50:36.978908 Tango: We should add Kilo
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:36.986550 Romeo: Yes
+2024-10-14 17:50:36.986748 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:37.002685 Romeo: We should add Tango
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:50:37.010065 Kilo: Yes
+2024-10-14 17:50:37.010234 Lima: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:37.162246 Tango: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:37.167712 Kilo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:37.180724 Papa: Same as last round
+2024-10-14 17:50:37.185794 Romeo: Tango we want you to join our group
+2024-10-14 17:50:37.191496 Tango: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:37.203164 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:50:37.215263 Kilo: Yes
+2024-10-14 17:50:37.215930 Tango: Yes
+2024-10-14 17:50:37.216260 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:37.246963 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:37.251775 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:37.256150 Tango: Kilo, sending you 5
+2024-10-14 17:50:37.260065 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:37.263635 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:37.268576 Charlie: Foxtrot, sending you 2
+2024-10-14 17:50:37.273283 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:37.276820 Yankee: X-ray, sending you 2
+2024-10-14 17:50:37.281091 Tango: Romeo, sending you 4
+2024-10-14 17:50:37.283973 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:37.289766 X-ray: Delta, sending you 1
+2024-10-14 17:50:37.294809 Delta: X-ray, sending you 1
+2024-10-14 17:50:37.300350 Tango: Lima, sending you 2
+2024-10-14 17:50:37.322664 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:37.329663 Romeo: Lima, sending you 6
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Papa round 22
+ChatterBot Kilo round 22
+ChatterBot Tango round 22
+ChatterBot Foxtrot round 22
+ChatterBot Romeo round 22
+ChatterBot X-ray round 22
+ChatterBot Delta round 22
+ChatterBot Yankee round 22
+ChatterBot Lima round 22
+ChatterBot Charlie round 22
+2024-10-14 17:50:38.343680 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:38.346076 Papa: Same as last round
+2024-10-14 17:50:38.347513 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:38.349212 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:38.360335 Kilo: Yes
+2024-10-14 17:50:38.360559 Tango: Yes
+2024-10-14 17:50:38.360742 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:38.395435 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:38.396750 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:38.398951 Tango: Lima, sending you 3
+2024-10-14 17:50:38.400608 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:38.402478 Romeo: Lima, sending you 6
+2024-10-14 17:50:38.403430 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:38.405282 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:38.406843 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:38.408947 Yankee: X-ray, sending you 2
+2024-10-14 17:50:38.410945 Delta: X-ray, sending you 1
+2024-10-14 17:50:38.413368 X-ray: Delta, sending you 1
+2024-10-14 17:50:38.414769 Charlie: Foxtrot, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 23
+ChatterBot Kilo round 23
+ChatterBot Tango round 23
+ChatterBot Foxtrot round 23
+ChatterBot Romeo round 23
+ChatterBot X-ray round 23
+ChatterBot Delta round 23
+ChatterBot Yankee round 23
+ChatterBot Lima round 23
+ChatterBot Charlie round 23
+2024-10-14 17:50:39.616432 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:39.624989 Kilo: Yes
+2024-10-14 17:50:39.625205 Tango: Yes
+2024-10-14 17:50:39.625357 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:39.651664 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:39.653128 Papa: Same as last round
+2024-10-14 17:50:39.655672 Romeo: Lima, sending you 6
+2024-10-14 17:50:39.659696 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:39.661404 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:39.663671 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:39.664798 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:39.665717 Delta: X-ray, sending you 1
+2024-10-14 17:50:39.666660 Yankee: X-ray, sending you 2
+2024-10-14 17:50:39.667552 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:39.668984 X-ray: Delta, sending you 1
+2024-10-14 17:50:39.670657 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:39.672967 Charlie: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:39.674647 Tango: Lima, sending you 3
+2024-10-14 17:50:39.676838 Charlie: Foxtrot, sending you 2
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Papa round 24
+ChatterBot Kilo round 24
+ChatterBot Tango round 24
+ChatterBot Foxtrot round 24
+ChatterBot Romeo round 24
+ChatterBot X-ray round 24
+ChatterBot Delta round 24
+ChatterBot Yankee round 24
+ChatterBot Lima round 24
+ChatterBot Charlie round 24
+2024-10-14 17:50:40.893851 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:40.903279 Kilo: Yes
+2024-10-14 17:50:40.903447 Tango: Yes
+2024-10-14 17:50:40.903580 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:40.925344 Foxtrot: We should drop Delta
+ChatterBot Papa reevaluating
+2024-10-14 17:50:40.933972 Papa: Yes
+2024-10-14 17:50:40.934108 X-ray: No
+2024-10-14 17:50:40.934214 Yankee: No
+2024-10-14 17:50:40.934317 Charlie: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:50:40.970523 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:40.972690 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:40.975056 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:40.977062 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:40.980047 Papa: We should drop Foxtrot
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:40.995727 X-ray: Yes
+2024-10-14 17:50:40.995921 Delta: No
+2024-10-14 17:50:40.996081 Yankee: Yes
+2024-10-14 17:50:40.996221 Charlie: No
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:41.060699 Romeo: Lima, sending you 6
+2024-10-14 17:50:41.061950 Tango: Lima, sending you 3
+2024-10-14 17:50:41.080677 Foxtrot: Papa, X-ray, Delta and Yankee, sending you 3
+2024-10-14 17:50:41.083801 Delta: Sorry, I'm actually sending you 0
+2024-10-14 17:50:41.084677 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:41.089231 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:41.091602 Delta: Papa, sending you 3
+2024-10-14 17:50:41.093604 Papa: Sending you each 5
+2024-10-14 17:50:41.095219 X-ray: Delta, sending you 1
+2024-10-14 17:50:41.098158 Delta: X-ray, Yankee and Charlie, sending you 2
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 25
+ChatterBot Kilo round 25
+ChatterBot Tango round 25
+ChatterBot Foxtrot round 25
+ChatterBot Romeo round 25
+ChatterBot X-ray round 25
+ChatterBot Delta round 25
+ChatterBot Yankee round 25
+ChatterBot Lima round 25
+ChatterBot Charlie round 25
+2024-10-14 17:50:42.356087 X-ray: We should drop Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:50:42.375119 Foxtrot: Yes
+2024-10-14 17:50:42.375430 Delta: Yes
+2024-10-14 17:50:42.375703 Yankee: No
+2024-10-14 17:50:42.375973 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:42.466385 Delta: We should replace Papa with Foxtrot
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:50:42.486090 X-ray: Yes
+2024-10-14 17:50:42.486844 Yankee: Yes
+2024-10-14 17:50:42.486992 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:42.534231 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:42.548064 Kilo: Yes
+2024-10-14 17:50:42.548300 Tango: Yes
+2024-10-14 17:50:42.548507 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:42.611116 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:42.613746 Papa: Same as last round
+2024-10-14 17:50:42.615789 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:42.617916 Tango: Lima, sending you 3
+2024-10-14 17:50:42.621477 Romeo: Lima, sending you 6
+2024-10-14 17:50:42.628972 X-ray: Foxtrot, sending you 3
+2024-10-14 17:50:42.633680 X-ray: Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:42.635832 Foxtrot: X-ray and Yankee, sending you 4
+2024-10-14 17:50:42.637980 Delta: Papa, sending you 3
+2024-10-14 17:50:42.641706 Foxtrot: Delta and Charlie, sending you 3
+2024-10-14 17:50:42.644671 Delta: X-ray, Yankee and Charlie, sending you 2
+2024-10-14 17:50:42.646636 Yankee: Foxtrot and Charlie, sending you 4
+2024-10-14 17:50:42.652688 Yankee: X-ray and Delta, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 26
+ChatterBot Kilo round 26
+ChatterBot Tango round 26
+ChatterBot Foxtrot round 26
+ChatterBot Romeo round 26
+ChatterBot X-ray round 26
+ChatterBot Delta round 26
+ChatterBot Yankee round 26
+ChatterBot Lima round 26
+ChatterBot Charlie round 26
+2024-10-14 17:50:43.750880 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:43.834004 Kilo: Yes
+2024-10-14 17:50:43.835721 Tango: Yes
+2024-10-14 17:50:43.845116 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:44.268974 Papa: X-ray, sending you 4
+2024-10-14 17:50:44.271629 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:44.274222 Foxtrot: X-ray and Yankee, sending you 4
+2024-10-14 17:50:44.276689 Delta: Papa, sending you 3
+2024-10-14 17:50:44.279653 Yankee: Foxtrot and Charlie, sending you 4
+2024-10-14 17:50:44.281582 X-ray: Foxtrot, sending you 3
+2024-10-14 17:50:44.283621 Romeo: Kilo and Tango, sending you 5
+chatterbot Foxtrot submitting transactions
+2024-10-14 17:50:44.285856 Papa: Delta and Yankee, sending you 5
+2024-10-14 17:50:44.286949 Tango: Lima, sending you 3
+2024-10-14 17:50:44.289402 Foxtrot: Delta and Charlie, sending you 3
+2024-10-14 17:50:44.292080 Delta: X-ray, Yankee and Charlie, sending you 2
+2024-10-14 17:50:44.294537 Yankee: X-ray and Delta, sending you 3
+2024-10-14 17:50:44.297567 X-ray: Delta, Yankee and Charlie, sending you 2
+2024-10-14 17:50:44.300073 Romeo: Lima, sending you 6
+2024-10-14 17:50:44.302653 Papa: Charlie, sending you 6
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 27
+ChatterBot Kilo round 27
+ChatterBot Tango round 27
+ChatterBot Foxtrot round 27
+ChatterBot Romeo round 27
+ChatterBot X-ray round 27
+ChatterBot Delta round 27
+ChatterBot Yankee round 27
+ChatterBot Lima round 27
+ChatterBot Charlie round 27
+2024-10-14 17:50:44.955854 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:44.965898 Kilo: Yes
+2024-10-14 17:50:44.966199 Tango: Yes
+2024-10-14 17:50:44.966446 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:44.997705 Foxtrot: X-ray, sending you 4
+2024-10-14 17:50:44.998673 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:44.999891 Yankee: Foxtrot and Charlie, sending you 4
+2024-10-14 17:50:45.000696 X-ray: Foxtrot, Delta and Yankee, sending you 2
+2024-10-14 17:50:45.001466 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:45.002621 Papa: X-ray and Yankee, sending you 4
+2024-10-14 17:50:45.003427 Foxtrot: Delta, sending you 3
+2024-10-14 17:50:45.004237 Tango: Lima, sending you 3
+2024-10-14 17:50:45.005349 X-ray: Charlie, sending you 3
+2024-10-14 17:50:45.006096 Yankee: X-ray and Delta, sending you 3
+2024-10-14 17:50:45.006941 Romeo: Lima, sending you 6
+2024-10-14 17:50:45.008116 Papa: Delta and Charlie, sending you 6
+2024-10-14 17:50:45.008881 Foxtrot: Yankee, sending you 5
+2024-10-14 17:50:45.009636 Delta: Papa, sending you 3
+2024-10-14 17:50:45.012737 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:45.014669 Delta: X-ray, Yankee and Charlie, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 28
+ChatterBot Kilo round 28
+ChatterBot Tango round 28
+ChatterBot Foxtrot round 28
+ChatterBot Romeo round 28
+ChatterBot X-ray round 28
+ChatterBot Delta round 28
+ChatterBot Yankee round 28
+ChatterBot Lima round 28
+ChatterBot Charlie round 28
+2024-10-14 17:50:46.149298 Delta: We should replace Papa with Foxtrot
+2024-10-14 17:50:46.158740 X-ray: Yes
+2024-10-14 17:50:46.158887 Yankee: Yes
+2024-10-14 17:50:46.159 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:50:46.187064 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:46.200572 Kilo: Yes
+2024-10-14 17:50:46.200880 Tango: Yes
+2024-10-14 17:50:46.201104 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:46.227659 Yankee: Foxtrot and Charlie, sending you 4
+2024-10-14 17:50:46.229633 Papa: X-ray and Yankee, sending you 4
+2024-10-14 17:50:46.230859 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:46.234143 Delta: Foxtrot we want you to join our group
+2024-10-14 17:50:46.238761 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:50:46.250238 Yankee: X-ray and Delta, sending you 3
+2024-10-14 17:50:46.252447 Papa: Delta and Charlie, sending you 6
+2024-10-14 17:50:46.254802 Tango: Lima, sending you 3
+2024-10-14 17:50:46.257261 Foxtrot: X-ray, sending you 4
+2024-10-14 17:50:46.259009 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:46.261709 X-ray: Foxtrot, Delta and Yankee, sending you 2
+2024-10-14 17:50:46.263110 Foxtrot: Delta, sending you 3
+2024-10-14 17:50:46.264661 Romeo: Lima, sending you 6
+2024-10-14 17:50:46.266681 X-ray: Charlie, sending you 3
+2024-10-14 17:50:46.267783 Foxtrot: Yankee, sending you 5
+2024-10-14 17:50:46.272655 Foxtrot: Charlie, sending you 2
+2024-10-14 17:50:46.285679 Delta: Foxtrot, X-ray and Charlie, sending you 2
+2024-10-14 17:50:46.288734 Delta: Yankee, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 29
+ChatterBot Kilo round 29
+ChatterBot Tango round 29
+ChatterBot Foxtrot round 29
+ChatterBot Romeo round 29
+ChatterBot X-ray round 29
+ChatterBot Delta round 29
+ChatterBot Yankee round 29
+ChatterBot Lima round 29
+ChatterBot Charlie round 29
+2024-10-14 17:50:47.449662 Papa: We should replace X-ray with Foxtrot
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 17:50:47.458920 Delta: Yes
+2024-10-14 17:50:47.459105 Yankee: No
+2024-10-14 17:50:47.459237 Charlie: No
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:50:47.493462 Delta: We should replace X-ray with Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:47.502912 Foxtrot: Yes
+2024-10-14 17:50:47.503055 Yankee: No
+2024-10-14 17:50:47.503165 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:50:47.526056 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:47.533167 Kilo: Yes
+2024-10-14 17:50:47.533407 Tango: Yes
+2024-10-14 17:50:47.533600 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:47.553961 Delta: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 17:50:47.558477 Papa: Yes
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:50:47.568434 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:47.569861 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:47.571662 Foxtrot: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 17:50:47.575850 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:50:47.586979 X-ray: Foxtrot, Delta and Yankee, sending you 2
+2024-10-14 17:50:47.588402 Tango: Lima, sending you 3
+2024-10-14 17:50:47.589548 Romeo: Lima, sending you 6
+2024-10-14 17:50:47.591667 Yankee: Papa, Foxtrot, Delta and Charlie, sending you 3
+2024-10-14 17:50:47.592863 X-ray: Charlie, sending you 3
+2024-10-14 17:50:47.597697 Yankee: X-ray, sending you 2
+2024-10-14 17:50:47.613670 Papa: X-ray and Yankee, sending you 4
+2024-10-14 17:50:47.616670 Foxtrot: Papa, Delta and Charlie, sending you 3
+2024-10-14 17:50:47.617680 Papa: Delta and Charlie, sending you 6
+2024-10-14 17:50:47.620668 Foxtrot: Yankee, sending you 5
+2024-10-14 17:50:47.621261 Delta: Papa, sending you 3
+2024-10-14 17:50:47.625669 Delta: Foxtrot, Yankee and Charlie, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 30
+ChatterBot Kilo round 30
+ChatterBot Tango round 30
+ChatterBot Foxtrot round 30
+ChatterBot Romeo round 30
+ChatterBot X-ray round 30
+ChatterBot Delta round 30
+ChatterBot Yankee round 30
+ChatterBot Lima round 30
+ChatterBot Charlie round 30
+2024-10-14 17:50:48.844398 Papa: We should add Foxtrot
+ChatterBot X-ray reevaluating
+2024-10-14 17:50:48.856634 X-ray: Yes
+2024-10-14 17:50:48.856799 Delta: Yes
+2024-10-14 17:50:48.856913 Yankee: Yes
+2024-10-14 17:50:48.857029 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:50:48.895983 Lima: We should drop Yankee
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:48.902535 Kilo: Yes
+2024-10-14 17:50:48.902781 Tango: Yes
+2024-10-14 17:50:48.902931 Romeo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:50:48.920929 Papa: Foxtrot we want you to join our group
+2024-10-14 17:50:48.924106 Foxtrot: No
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:50:48.938692 Romeo: Kilo and Tango, sending you 5
+2024-10-14 17:50:48.940303 Tango: Kilo and Romeo, sending you 4
+2024-10-14 17:50:48.944672 Romeo: Lima, sending you 6
+2024-10-14 17:50:48.945872 Tango: Lima, sending you 3
+2024-10-14 17:50:48.947154 Papa: Foxtrot and X-ray, sending you 3
+2024-10-14 17:50:48.949666 Yankee: Papa, sending you 2
+2024-10-14 17:50:48.951686 Papa: Delta and Charlie, sending you 5
+2024-10-14 17:50:48.953783 Foxtrot: Papa, sending you 2
+2024-10-14 17:50:48.954919 Delta: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:48.956554 Yankee: Foxtrot, X-ray, Delta and Charlie, sending you 3
+2024-10-14 17:50:48.958176 Papa: Yankee, sending you 4
+2024-10-14 17:50:48.959931 Foxtrot: Delta and Charlie, sending you 3
+2024-10-14 17:50:48.961164 Delta: X-ray, sending you 1
+2024-10-14 17:50:48.964687 X-ray: Papa, Foxtrot, Yankee and Charlie, sending you 2
+2024-10-14 17:50:48.967570 Foxtrot: Yankee, sending you 6
+2024-10-14 17:50:48.971679 X-ray: Delta, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions

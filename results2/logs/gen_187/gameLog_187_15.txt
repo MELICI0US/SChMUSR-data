@@ -1,0 +1,2619 @@
+ChatterBot Romeo round 1
+ChatterBot Charlie round 1
+ChatterBot Echo round 1
+ChatterBot Mike round 1
+ChatterBot Bravo round 1
+ChatterBot Yankee round 1
+ChatterBot Papa round 1
+ChatterBot Tango round 1
+ChatterBot Lima round 1
+ChatterBot X-ray round 1
+randomSelections Echo: {Echo} 
+randomSelections Tango: {Tango} 
+randomSelections Lima: {Lima, Papa, X-ray, Tango, Yankee, Bravo, Romeo} 
+2024-10-14 19:46:02.369818 Lima: Friends?
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:02.382298 Papa: Yes
+2024-10-14 19:46:02.382452 X-ray: Yes
+2024-10-14 19:46:02.382556 Tango: No
+2024-10-14 19:46:02.382691 Yankee: Yes
+2024-10-14 19:46:02.382804 Bravo: Yes
+2024-10-14 19:46:02.382911 Romeo: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Charlie: {Charlie, Bravo, Lima, Echo, Romeo, Papa} 
+2024-10-14 19:46:02.528772 Charlie: Let's form a team
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:02.542073 Bravo: No
+2024-10-14 19:46:02.542793 Lima: No
+2024-10-14 19:46:02.543412 Echo: No
+2024-10-14 19:46:02.543649 Romeo: No
+2024-10-14 19:46:02.544900 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+randomSelections Mike: {Mike, Charlie, Romeo, Lima, Bravo, X-ray, Echo, Papa} 
+2024-10-14 19:46:02.590483 Mike: Can we be friends?
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:02.605263 Charlie: No
+2024-10-14 19:46:02.605781 Romeo: No
+2024-10-14 19:46:02.606084 Lima: No
+2024-10-14 19:46:02.606565 Bravo: No
+2024-10-14 19:46:02.607997 X-ray: No
+2024-10-14 19:46:02.608335 Echo: No
+2024-10-14 19:46:02.608639 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:02.761941 Mike: Romeo, Charlie, Echo and X-ray, sending you 2
+2024-10-14 19:46:02.762438 Yankee: Bravo, sending you 5
+2024-10-14 19:46:02.763228 Lima: Romeo, Bravo, Yankee and Papa, sending you 2
+2024-10-14 19:46:02.765189 Mike: Bravo, Papa and Lima, sending you 3
+2024-10-14 19:46:02.767318 Bravo: Romeo, sending you 3
+2024-10-14 19:46:02.768239 Romeo: Bravo and Papa, sending you 1
+2024-10-14 19:46:02.768692 Yankee: Lima, sending you 1
+2024-10-14 19:46:02.769045 Lima: Tango and X-ray, sending you 3
+2024-10-14 19:46:02.769930 Papa: Bravo and X-ray, sending you 2
+2024-10-14 19:46:02.773617 Bravo: Yankee, Papa and X-ray, sending you 2
+2024-10-14 19:46:02.774116 Romeo: Yankee and Lima, sending you 2
+2024-10-14 19:46:02.774725 Papa: Yankee and Lima, sending you 1
+2024-10-14 19:46:02.777452 X-ray: Romeo, Tango and Lima, sending you 1
+2024-10-14 19:46:02.777899 Bravo: Tango, sending you 1
+2024-10-14 19:46:02.778355 Romeo: Tango and X-ray, sending you 3
+2024-10-14 19:46:02.781810 X-ray: Bravo, sending you 4
+2024-10-14 19:46:02.783215 Bravo: Lima, sending you 5
+2024-10-14 19:46:02.785664 X-ray: Yankee and Papa, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 2
+ChatterBot Charlie round 2
+ChatterBot Echo round 2
+ChatterBot Mike round 2
+ChatterBot Bravo round 2
+ChatterBot Yankee round 2
+ChatterBot Papa round 2
+ChatterBot Tango round 2
+ChatterBot Lima round 2
+ChatterBot X-ray round 2
+2024-10-14 19:46:04.537950 Mike: Friends?
+ChatterBot Echo reevaluating
+2024-10-14 19:46:04.542820 Echo: Yes
+2024-10-14 19:46:04.556995 Papa: We should replace Tango with Mike
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:04.599963 Romeo: Yes
+2024-10-14 19:46:04.600158 Bravo: Yes
+2024-10-14 19:46:04.600343 Yankee: Yes
+2024-10-14 19:46:04.600505 Lima: Yes
+2024-10-14 19:46:04.601102 X-ray: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:04.908016 Charlie: We should group up
+2024-10-14 19:46:04.913533 Mike: No
+2024-10-14 19:46:04.927386 Papa: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:46:04.933801 Mike: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:04.965171 Mike: We would work well together
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:04.998328 Papa: Yes
+2024-10-14 19:46:04.998565 Romeo: Yes
+2024-10-14 19:46:04.999028 Bravo: Yes
+2024-10-14 19:46:04.999762 Yankee: Yes
+2024-10-14 19:46:04.999941 Lima: Yes
+2024-10-14 19:46:05.000173 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+chatterbot Echo submitting transactions
+2024-10-14 19:46:05.646471 Lima: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:46:05.655969 Mike: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Papa submitting transactions
+2024-10-14 19:46:05.834853 Papa: Romeo and Yankee, sending you 1
+2024-10-14 19:46:05.835418 Tango: Sending you 11
+2024-10-14 19:46:05.836477 Echo: Sending you 6
+2024-10-14 19:46:05.836742 Bravo: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:46:05.842418 Mike: Yes
+2024-10-14 19:46:05.869976 Charlie: Sending you 4
+2024-10-14 19:46:05.870238 X-ray: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:46:05.875496 Mike: Yes
+2024-10-14 19:46:05.901638 Romeo: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:46:05.906952 Mike: Yes
+2024-10-14 19:46:05.934157 Yankee: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 19:46:05.939696 Mike: Yes
+2024-10-14 19:46:05.966978 Papa: Mike, Bravo, Lima and X-ray, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+2024-10-14 19:46:06.010539 Yankee: Romeo, sending you 4
+2024-10-14 19:46:06.011150 Bravo: Romeo, Papa and Lima, sending you 2
+2024-10-14 19:46:06.012463 Romeo: Mike, Bravo and Lima, sending you 3
+2024-10-14 19:46:06.013343 Lima: Romeo, Yankee, Papa and X-ray, sending you 2
+2024-10-14 19:46:06.014588 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:06.015051 Yankee: Mike and Papa, sending you 2
+2024-10-14 19:46:06.021091 Bravo: Mike, Yankee and X-ray, sending you 3
+2024-10-14 19:46:06.021636 Romeo: Yankee and X-ray, sending you 2
+2024-10-14 19:46:06.022951 Lima: Mike and Bravo, sending you 3
+2024-10-14 19:46:06.023506 Yankee: Bravo, Lima and X-ray, sending you 3
+2024-10-14 19:46:06.024459 X-ray: Yankee, sending you 1
+2024-10-14 19:46:06.025116 Mike: Sending you each 3
+2024-10-14 19:46:06.027648 Romeo: Papa, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 3
+ChatterBot Charlie round 3
+ChatterBot Echo round 3
+ChatterBot Mike round 3
+ChatterBot Bravo round 3
+ChatterBot Yankee round 3
+ChatterBot Papa round 3
+ChatterBot Tango round 3
+ChatterBot Lima round 3
+ChatterBot X-ray round 3
+2024-10-14 19:46:06.776139 Echo: We should replace Mike with Charlie
+2024-10-14 19:46:06.802680 Tango: Can we be friends?
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:06.923941 Romeo: Yes
+2024-10-14 19:46:06.924925 Mike: No
+2024-10-14 19:46:06.925251 Bravo: No
+2024-10-14 19:46:06.925570 Yankee: Yes
+2024-10-14 19:46:06.925947 Papa: Yes
+2024-10-14 19:46:06.926749 Lima: No
+2024-10-14 19:46:06.927087 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:07.201595 Yankee: We should add Tango
+2024-10-14 19:46:07.202030 X-ray: We should add Tango
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:07.228163 Papa: Yes
+ChatterBot Papa reevaluating
+2024-10-14 19:46:07.233079 Romeo: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:07.237743 Mike: No
+2024-10-14 19:46:07.242077 Bravo: No
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:07.250701 Lima: No
+2024-10-14 19:46:07.255250 X-ray: Yes
+2024-10-14 19:46:07.255489 Papa: Yes
+2024-10-14 19:46:07.255675 Romeo: Yes
+2024-10-14 19:46:07.255835 Mike: No
+2024-10-14 19:46:07.256025 Bravo: No
+2024-10-14 19:46:07.256568 Yankee: Yes
+2024-10-14 19:46:07.256691 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:07.539412 Echo: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 19:46:07.543765 Charlie: Yes
+2024-10-14 19:46:07.550057 Charlie: We should replace Mike with Echo
+2024-10-14 19:46:07.551408 Yankee: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:07.568764 Tango: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:07.670047 Romeo: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:07.676505 Tango: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:07.706423 X-ray: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:07.712229 Tango: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:07.740670 Papa: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:07.746791 Tango: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:07.776322 Charlie: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:46:07.781792 Echo: No
+ChatterBot Charlie reevaluating
+2024-10-14 19:46:07.893177 Bravo: Romeo, Mike, Papa and Lima, sending you 2
+2024-10-14 19:46:07.894549 Mike: Same as last round
+2024-10-14 19:46:07.896030 Lima: Romeo, Yankee, Papa and X-ray, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 19:46:07.919323 Bravo: Yankee, sending you 4
+2024-10-14 19:46:07.920889 Lima: Mike and Bravo, sending you 3
+2024-10-14 19:46:07.922166 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:07.922839 Tango: Romeo and Lima, sending you 3
+2024-10-14 19:46:07.923215 Papa: Romeo and Yankee, sending you 2
+2024-10-14 19:46:07.924293 Romeo: Mike, Bravo, Yankee, Lima and X-ray, sending you 2
+2024-10-14 19:46:07.924843 Bravo: X-ray, sending you 3
+2024-10-14 19:46:07.947119 Tango: Mike, Bravo, Yankee and X-ray, sending you 2
+2024-10-14 19:46:07.948250 X-ray: Yankee, sending you 1
+2024-10-14 19:46:07.949288 Papa: Mike, Bravo, Lima and X-ray, sending you 3
+2024-10-14 19:46:07.949803 Romeo: Papa, sending you 1
+2024-10-14 19:46:07.953815 Tango: Papa, sending you 1
+2024-10-14 19:46:07.955033 Papa: Tango, sending you 1
+2024-10-14 19:46:07.955777 Romeo: Tango, sending you 3
+2024-10-14 19:46:07.956821 Yankee: Romeo, Bravo and Lima, sending you 3
+2024-10-14 19:46:07.960681 Yankee: Mike, Papa, Tango and X-ray, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Romeo round 4
+ChatterBot Charlie round 4
+ChatterBot Echo round 4
+ChatterBot Mike round 4
+ChatterBot Bravo round 4
+ChatterBot Yankee round 4
+ChatterBot Papa round 4
+ChatterBot Tango round 4
+ChatterBot Lima round 4
+ChatterBot X-ray round 4
+2024-10-14 19:46:08.625119 Mike: We should add Tango
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:08.660387 Papa: Yes
+2024-10-14 19:46:08.660601 Romeo: Yes
+2024-10-14 19:46:08.661086 Bravo: Yes
+2024-10-14 19:46:08.661264 Yankee: Yes
+2024-10-14 19:46:08.661424 Lima: No
+2024-10-14 19:46:08.661582 X-ray: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:08.832616 Mike: Tango we want you to join our group
+2024-10-14 19:46:08.835886 Tango: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Echo submitting transactions
+2024-10-14 19:46:08.864138 Romeo: Mike, Bravo, Yankee, Lima and X-ray, sending you 2
+2024-10-14 19:46:08.865043 Bravo: Tango we want you to join our group
+2024-10-14 19:46:08.871483 Tango: Yes
+ChatterBot Lima reevaluating
+2024-10-14 19:46:08.898882 Romeo: Papa, sending you 1
+2024-10-14 19:46:08.901830 Romeo: Tango, sending you 3
+2024-10-14 19:46:08.902672 Tango: Romeo, sending you 3
+2024-10-14 19:46:08.903173 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:08.904106 Yankee: Romeo, Mike, Bravo and Lima, sending you 3
+2024-10-14 19:46:08.905809 Tango: Mike, Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:08.906690 Yankee: Papa and X-ray, sending you 2
+2024-10-14 19:46:08.910678 Yankee: Tango, sending you 1
+2024-10-14 19:46:08.912688 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+chatterbot Mike submitting transactions
+2024-10-14 19:46:08.917690 Papa: Romeo and Yankee, sending you 2
+2024-10-14 19:46:08.918737 X-ray: Yankee, sending you 1
+2024-10-14 19:46:08.920096 Lima: Romeo, Yankee, Papa and X-ray, sending you 2
+2024-10-14 19:46:08.920791 Bravo: Romeo, Mike, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:08.922053 Papa: Mike, Bravo, Lima and X-ray, sending you 3
+2024-10-14 19:46:08.923649 Lima: Mike and Bravo, sending you 3
+2024-10-14 19:46:08.924698 Bravo: Yankee, sending you 4
+2024-10-14 19:46:08.926097 Papa: Tango, sending you 1
+2024-10-14 19:46:08.930675 Bravo: Tango, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 5
+ChatterBot Charlie round 5
+ChatterBot Echo round 5
+ChatterBot Mike round 5
+ChatterBot Bravo round 5
+ChatterBot Yankee round 5
+ChatterBot Papa round 5
+ChatterBot Tango round 5
+ChatterBot Lima round 5
+ChatterBot X-ray round 5
+2024-10-14 19:46:10.102292 Lima: We should add Tango
+2024-10-14 19:46:10.120179 Papa: Yes
+2024-10-14 19:46:10.120326 Romeo: Yes
+2024-10-14 19:46:10.120437 Mike: Yes
+2024-10-14 19:46:10.120544 Bravo: Yes
+2024-10-14 19:46:10.120664 Yankee: Yes
+2024-10-14 19:46:10.120772 X-ray: Yes
+2024-10-14 19:46:10.212358 Lima: Tango we want you to join our group
+2024-10-14 19:46:10.215725 Tango: Yes
+2024-10-14 19:46:10.233871 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:10.234399 Romeo: Sending you each 2
+2024-10-14 19:46:10.237676 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:10.238811 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:10.239502 Tango: Romeo, sending you 4
+2024-10-14 19:46:10.240123 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:10.240896 Papa: Romeo and Yankee, sending you 2
+2024-10-14 19:46:10.242662 X-ray: Yankee, sending you 1
+2024-10-14 19:46:10.243704 Bravo: Yankee, sending you 3
+2024-10-14 19:46:10.245045 Tango: Mike, sending you 1
+2024-10-14 19:46:10.245749 Yankee: Mike, sending you 3
+2024-10-14 19:46:10.246456 Papa: Mike, Bravo, Lima and X-ray, sending you 3
+2024-10-14 19:46:10.249681 Tango: Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:10.251082 Yankee: Bravo, sending you 4
+2024-10-14 19:46:10.251931 Lima: Sending you each 2
+2024-10-14 19:46:10.252693 Papa: Tango, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 6
+ChatterBot Charlie round 6
+ChatterBot Echo round 6
+ChatterBot Mike round 6
+ChatterBot Bravo round 6
+ChatterBot Yankee round 6
+ChatterBot Papa round 6
+ChatterBot Tango round 6
+ChatterBot Lima round 6
+ChatterBot X-ray round 6
+2024-10-14 19:46:11.256046 Romeo: Same as last round
+2024-10-14 19:46:11.264655 Tango: Romeo, sending you 3
+2024-10-14 19:46:11.265692 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:11.266674 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:11.267552 Lima: Same as last round
+2024-10-14 19:46:11.268523 Charlie: Sending you 15
+2024-10-14 19:46:11.269652 Tango: Mike, Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:11.270261 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:11.270913 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:11.271680 Yankee: Mike, sending you 3
+2024-10-14 19:46:11.272669 Papa: Romeo and Yankee, sending you 2
+2024-10-14 19:46:11.273671 Bravo: Yankee, sending you 3
+2024-10-14 19:46:11.275672 X-ray: Yankee, sending you 1
+2024-10-14 19:46:11.276300 Yankee: Bravo, sending you 4
+2024-10-14 19:46:11.276939 Papa: Mike, Bravo, Lima and X-ray, sending you 3
+2024-10-14 19:46:11.280677 Papa: Tango, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 7
+ChatterBot Charlie round 7
+ChatterBot Echo round 7
+ChatterBot Mike round 7
+ChatterBot Bravo round 7
+ChatterBot Yankee round 7
+ChatterBot Papa round 7
+ChatterBot Tango round 7
+ChatterBot Lima round 7
+ChatterBot X-ray round 7
+2024-10-14 19:46:12.539675 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:12.542690 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:12.545664 Yankee: Mike, sending you 3
+2024-10-14 19:46:12.546563 Echo: Sending you 5
+2024-10-14 19:46:12.547708 Tango: Romeo, sending you 3
+2024-10-14 19:46:12.550704 Yankee: Bravo, sending you 4
+2024-10-14 19:46:12.552462 Romeo: Same as last round
+2024-10-14 19:46:12.553693 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:12.555621 Tango: Mike, Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:12.556902 Papa: Romeo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:12.561041 Bravo: Yankee, sending you 3
+2024-10-14 19:46:12.565362 Lima: Same as last round
+2024-10-14 19:46:12.571246 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:12.573442 Papa: Mike, Bravo and X-ray, sending you 3
+2024-10-14 19:46:12.576666 X-ray: Yankee, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 8
+ChatterBot Charlie round 8
+ChatterBot Echo round 8
+ChatterBot Mike round 8
+ChatterBot Bravo round 8
+ChatterBot Yankee round 8
+ChatterBot Papa round 8
+ChatterBot Tango round 8
+ChatterBot Lima round 8
+ChatterBot X-ray round 8
+2024-10-14 19:46:13.457663 Charlie: Sending you 17
+2024-10-14 19:46:13.462684 Lima: Same as last round
+2024-10-14 19:46:13.466683 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:13.467810 Echo: Sending you 6
+2024-10-14 19:46:13.468208 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:13.469905 Romeo: Same as last round
+2024-10-14 19:46:13.471289 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:13.472110 Yankee: Mike, sending you 3
+2024-10-14 19:46:13.473305 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:13.474696 Papa: Romeo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:13.475737 Bravo: Yankee, sending you 3
+2024-10-14 19:46:13.477057 Yankee: Bravo, sending you 4
+2024-10-14 19:46:13.478345 Tango: Romeo, sending you 3
+2024-10-14 19:46:13.479351 Papa: Mike, Bravo and X-ray, sending you 3
+2024-10-14 19:46:13.480883 X-ray: Yankee, sending you 1
+2024-10-14 19:46:13.483701 Tango: Mike, Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Romeo round 9
+ChatterBot Charlie round 9
+ChatterBot Echo round 9
+ChatterBot Mike round 9
+ChatterBot Bravo round 9
+ChatterBot Yankee round 9
+ChatterBot Papa round 9
+ChatterBot Tango round 9
+ChatterBot Lima round 9
+ChatterBot X-ray round 9
+2024-10-14 19:46:14.707692 Romeo: Same as last round
+2024-10-14 19:46:14.709552 Charlie: Same as last round
+2024-10-14 19:46:14.715668 Echo: Sending you 5
+2024-10-14 19:46:14.716034 Lima: Same as last round
+2024-10-14 19:46:14.717063 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:14.718223 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:14.721694 Papa: Romeo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:14.722898 Bravo: Yankee, sending you 3
+2024-10-14 19:46:14.724189 Yankee: Mike, sending you 3
+2024-10-14 19:46:14.725593 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:14.726527 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:14.727763 Papa: Mike, Bravo and X-ray, sending you 3
+2024-10-14 19:46:14.728480 Yankee: Bravo, sending you 4
+2024-10-14 19:46:14.730685 X-ray: Yankee, sending you 1
+2024-10-14 19:46:14.734672 Tango: Romeo, Bravo, Yankee and Lima, sending you 3
+2024-10-14 19:46:14.740693 Tango: Papa, sending you 2
+2024-10-14 19:46:14.744660 Tango: X-ray, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 10
+ChatterBot Charlie round 10
+ChatterBot Echo round 10
+ChatterBot Mike round 10
+ChatterBot Bravo round 10
+ChatterBot Yankee round 10
+ChatterBot Papa round 10
+ChatterBot Tango round 10
+ChatterBot Lima round 10
+ChatterBot X-ray round 10
+2024-10-14 19:46:15.992666 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:15.994462 Charlie: Same as last round
+2024-10-14 19:46:15.997124 Tango: Romeo, Bravo, Yankee and Lima, sending you 3
+2024-10-14 19:46:15.998469 Yankee: Mike, sending you 3
+2024-10-14 19:46:16.000444 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:16.002011 Echo: Sending you 4
+2024-10-14 19:46:16.002327 Lima: Same as last round
+2024-10-14 19:46:16.003997 Tango: Papa, sending you 2
+2024-10-14 19:46:16.004745 Yankee: Bravo, sending you 4
+2024-10-14 19:46:16.005486 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:16.006709 Romeo: Same as last round
+2024-10-14 19:46:16.008515 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:16.009666 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:16.011060 Tango: X-ray, sending you 1
+2024-10-14 19:46:16.012152 Papa: Mike, sending you 4
+2024-10-14 19:46:16.014667 X-ray: Yankee, sending you 1
+2024-10-14 19:46:16.016197 Bravo: Yankee, sending you 3
+2024-10-14 19:46:16.017677 Papa: X-ray, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Romeo round 11
+ChatterBot Charlie round 11
+ChatterBot Echo round 11
+ChatterBot Mike round 11
+ChatterBot Bravo round 11
+ChatterBot Yankee round 11
+ChatterBot Papa round 11
+ChatterBot Tango round 11
+ChatterBot Lima round 11
+ChatterBot X-ray round 11
+2024-10-14 19:46:17.350728 Romeo: Same as last round
+2024-10-14 19:46:17.355203 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:17.358992 Echo: Sending you 3
+2024-10-14 19:46:17.359667 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:17.364858 Tango: Romeo, Bravo, Yankee and Lima, sending you 3
+2024-10-14 19:46:17.366912 Charlie: Same as last round
+2024-10-14 19:46:17.367337 Papa: Romeo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:17.369395 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:17.371498 Lima: Same as last round
+2024-10-14 19:46:17.373680 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:17.375486 Yankee: Mike, sending you 3
+2024-10-14 19:46:17.377236 Tango: Papa, sending you 2
+2024-10-14 19:46:17.379530 Papa: Mike, Bravo and X-ray, sending you 3
+2024-10-14 19:46:17.382298 X-ray: Yankee, sending you 1
+2024-10-14 19:46:17.383581 Bravo: Yankee, sending you 3
+2024-10-14 19:46:17.384878 Yankee: Bravo, sending you 4
+2024-10-14 19:46:17.385910 Tango: X-ray, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Romeo round 12
+ChatterBot Charlie round 12
+ChatterBot Echo round 12
+ChatterBot Mike round 12
+ChatterBot Bravo round 12
+ChatterBot Yankee round 12
+ChatterBot Papa round 12
+ChatterBot Tango round 12
+ChatterBot Lima round 12
+ChatterBot X-ray round 12
+2024-10-14 19:46:18.529672 Echo: Same as last round
+2024-10-14 19:46:18.530713 Romeo: Same as last round
+2024-10-14 19:46:18.532288 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:18.534049 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:18.536033 Charlie: Same as last round
+2024-10-14 19:46:18.536368 Tango: Romeo, Bravo, Yankee and Lima, sending you 3
+2024-10-14 19:46:18.537859 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:18.539284 Lima: Same as last round
+2024-10-14 19:46:18.541127 Bravo: Yankee, sending you 3
+2024-10-14 19:46:18.542179 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:18.545786 Tango: Papa, sending you 2
+2024-10-14 19:46:18.547499 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:18.549797 Papa: Mike, sending you 4
+2024-10-14 19:46:18.550987 Yankee: Mike, sending you 3
+2024-10-14 19:46:18.553294 Tango: X-ray, sending you 1
+2024-10-14 19:46:18.557827 X-ray: Yankee, sending you 1
+2024-10-14 19:46:18.559037 Papa: X-ray, sending you 3
+2024-10-14 19:46:18.560215 Yankee: Bravo, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 13
+ChatterBot Charlie round 13
+ChatterBot Echo round 13
+ChatterBot Mike round 13
+ChatterBot Bravo round 13
+ChatterBot Yankee round 13
+ChatterBot Papa round 13
+ChatterBot Tango round 13
+ChatterBot Lima round 13
+ChatterBot X-ray round 13
+2024-10-14 19:46:19.715706 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:19.717943 Charlie: Same as last round
+2024-10-14 19:46:19.718710 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:19.720476 Echo: Same as last round
+2024-10-14 19:46:19.720891 Papa: Romeo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:19.722651 Yankee: Mike, sending you 3
+2024-10-14 19:46:19.724049 Romeo: Same as last round
+2024-10-14 19:46:19.725430 Papa: Mike, Bravo and X-ray, sending you 3
+2024-10-14 19:46:19.727492 Yankee: Bravo, sending you 4
+2024-10-14 19:46:19.730604 Lima: Same as last round
+2024-10-14 19:46:19.732915 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:19.735502 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:19.738676 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:19.741252 X-ray: Yankee, sending you 1
+2024-10-14 19:46:19.743249 Bravo: Yankee, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 14
+ChatterBot Charlie round 14
+ChatterBot Echo round 14
+ChatterBot Mike round 14
+ChatterBot Bravo round 14
+ChatterBot Yankee round 14
+ChatterBot Papa round 14
+ChatterBot Tango round 14
+ChatterBot Lima round 14
+ChatterBot X-ray round 14
+2024-10-14 19:46:21.016454 Charlie: Same as last round
+2024-10-14 19:46:21.016955 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:21.022539 Lima: Same as last round
+2024-10-14 19:46:21.026512 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:21.030562 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:21.034557 Echo: Sending you 2
+2024-10-14 19:46:21.035017 Bravo: Yankee, sending you 3
+2024-10-14 19:46:21.038741 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:21.042492 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:21.045579 Papa: Mike, sending you 4
+2024-10-14 19:46:21.047131 Romeo: Same as last round
+2024-10-14 19:46:21.048199 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:21.049275 Yankee: Mike, sending you 3
+2024-10-14 19:46:21.051681 Papa: X-ray, sending you 3
+2024-10-14 19:46:21.053063 X-ray: Yankee, sending you 1
+2024-10-14 19:46:21.054776 Yankee: Bravo, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Romeo round 15
+ChatterBot Charlie round 15
+ChatterBot Echo round 15
+ChatterBot Mike round 15
+ChatterBot Bravo round 15
+ChatterBot Yankee round 15
+ChatterBot Papa round 15
+ChatterBot Tango round 15
+ChatterBot Lima round 15
+ChatterBot X-ray round 15
+2024-10-14 19:46:22.377209 Charlie: Same as last round
+2024-10-14 19:46:22.422303 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:22.425093 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:22.428180 Romeo: Same as last round
+2024-10-14 19:46:22.430500 Lima: Same as last round
+2024-10-14 19:46:22.433008 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:22.435225 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:22.438144 Echo: Same as last round
+2024-10-14 19:46:22.438498 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:22.440981 Yankee: Mike, sending you 3
+2024-10-14 19:46:22.443581 Papa: Mike, sending you 4
+2024-10-14 19:46:22.445899 Bravo: Yankee, sending you 3
+2024-10-14 19:46:22.448145 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:22.450919 Yankee: Bravo, sending you 4
+2024-10-14 19:46:22.454339 Papa: X-ray, sending you 3
+2024-10-14 19:46:22.457970 X-ray: Yankee, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 16
+ChatterBot Charlie round 16
+ChatterBot Echo round 16
+ChatterBot Mike round 16
+ChatterBot Bravo round 16
+ChatterBot Yankee round 16
+ChatterBot Papa round 16
+ChatterBot Tango round 16
+2024-10-14 19:46:23.471798 Charlie: We should add Mike
+2024-10-14 19:46:23.476028 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot Lima round 16
+ChatterBot X-ray round 16
+2024-10-14 19:46:23.547006 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:23.550265 Echo: Same as last round
+2024-10-14 19:46:23.550731 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:23.555050 Romeo: Same as last round
+2024-10-14 19:46:23.558376 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:23.562540 Charlie: Same as last round
+2024-10-14 19:46:23.563104 Papa: Mike, sending you 4
+2024-10-14 19:46:23.567713 Bravo: Yankee, sending you 3
+2024-10-14 19:46:23.571091 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:23.575409 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:23.579378 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:23.583578 Lima: Same as last round
+2024-10-14 19:46:23.587013 Papa: X-ray, sending you 3
+2024-10-14 19:46:23.592019 X-ray: Yankee, sending you 1
+2024-10-14 19:46:23.595051 Yankee: Mike, sending you 3
+2024-10-14 19:46:23.600728 Yankee: Bravo, sending you 4
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 17
+ChatterBot Charlie round 17
+ChatterBot Echo round 17
+ChatterBot Mike round 17
+ChatterBot Bravo round 17
+ChatterBot Yankee round 17
+ChatterBot Papa round 17
+ChatterBot Tango round 17
+ChatterBot Lima round 17
+ChatterBot X-ray round 17
+2024-10-14 19:46:24.763513 Echo: Same as last round
+2024-10-14 19:46:24.764152 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:24.768282 Charlie: Same as last round
+2024-10-14 19:46:24.768670 Romeo: Same as last round
+2024-10-14 19:46:24.771628 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:24.774719 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:24.778290 Lima: Same as last round
+2024-10-14 19:46:24.782464 Yankee: Mike, sending you 3
+2024-10-14 19:46:24.786965 Papa: Mike, sending you 4
+2024-10-14 19:46:24.791300 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:24.795877 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:24.800199 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:24.804547 Yankee: Bravo, sending you 4
+2024-10-14 19:46:24.808246 Papa: X-ray, sending you 3
+2024-10-14 19:46:24.812594 X-ray: Yankee, sending you 1
+2024-10-14 19:46:24.816174 Bravo: Yankee, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 18
+ChatterBot Charlie round 18
+ChatterBot Echo round 18
+ChatterBot Mike round 18
+ChatterBot Bravo round 18
+ChatterBot Yankee round 18
+ChatterBot Papa round 18
+ChatterBot Tango round 18
+ChatterBot Lima round 18
+ChatterBot X-ray round 18
+2024-10-14 19:46:26.169694 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:26.174096 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:26.178225 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:26.181020 Echo: Same as last round
+2024-10-14 19:46:26.181489 Charlie: Same as last round
+2024-10-14 19:46:26.181953 Lima: Romeo, Mike, Bravo, Tango and X-ray, sending you 1
+2024-10-14 19:46:26.185095 Romeo: Same as last round
+2024-10-14 19:46:26.187461 Papa: Mike, sending you 4
+2024-10-14 19:46:26.189805 Yankee: Mike, sending you 3
+2024-10-14 19:46:26.192160 Mike: Romeo, Bravo, Yankee, Papa, Lima and X-ray, sending you 3
+2024-10-14 19:46:26.195490 Bravo: Yankee, sending you 3
+2024-10-14 19:46:26.197887 Papa: X-ray, sending you 3
+2024-10-14 19:46:26.200585 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:26.203999 Yankee: Bravo, sending you 4
+2024-10-14 19:46:26.205911 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:26.208537 X-ray: Yankee, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 19
+ChatterBot Charlie round 19
+ChatterBot Echo round 19
+ChatterBot Mike round 19
+ChatterBot Bravo round 19
+ChatterBot Yankee round 19
+ChatterBot Papa round 19
+ChatterBot Tango round 19
+ChatterBot Lima round 19
+ChatterBot X-ray round 19
+2024-10-14 19:46:27.357227 Tango: We should drop Mike
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:27.391191 Lima: No
+2024-10-14 19:46:27.391395 Papa: No
+2024-10-14 19:46:27.391583 X-ray: No
+2024-10-14 19:46:27.391783 Yankee: No
+2024-10-14 19:46:27.391951 Bravo: No
+2024-10-14 19:46:27.392108 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:27.575669 Romeo: Same as last round
+2024-10-14 19:46:27.577747 X-ray: We should drop Tango
+ChatterBot Lima reevaluating
+2024-10-14 19:46:27.604309 Papa: No
+2024-10-14 19:46:27.604478 Romeo: No
+2024-10-14 19:46:27.604623 Mike: No
+2024-10-14 19:46:27.604758 Bravo: No
+2024-10-14 19:46:27.604903 Yankee: No
+2024-10-14 19:46:27.605023 Lima: No
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:27.724714 Charlie: I was attacked by Lima
+2024-10-14 19:46:27.725008 Charlie: I'm keeping this round to protect myself
+2024-10-14 19:46:27.725255 Charlie: Ow
+2024-10-14 19:46:27.730754 Lima: We should drop X-ray
+ChatterBot Mike reevaluating
+2024-10-14 19:46:27.757031 Romeo: Yes
+2024-10-14 19:46:27.757322 Mike: Yes
+2024-10-14 19:46:27.758024 Bravo: Yes
+2024-10-14 19:46:27.758242 Yankee: Yes
+2024-10-14 19:46:27.758453 Papa: Yes
+2024-10-14 19:46:27.758723 Tango: Yes
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 19:46:27.953697 X-ray: We should drop Yankee
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:27.975889 Romeo: No
+2024-10-14 19:46:27.976061 Mike: No
+2024-10-14 19:46:27.976558 Bravo: No
+2024-10-14 19:46:27.976672 Papa: No
+2024-10-14 19:46:27.976767 Tango: No
+2024-10-14 19:46:27.976862 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:28.256735 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:28.260622 Papa: Romeo, Bravo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:28.265934 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 19:46:28.272227 Tango: We should drop Papa
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:28.295278 Romeo: No
+2024-10-14 19:46:28.296049 Mike: No
+2024-10-14 19:46:28.296250 Bravo: No
+2024-10-14 19:46:28.296467 Yankee: No
+2024-10-14 19:46:28.296592 Lima: No
+2024-10-14 19:46:28.296820 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:28.453650 Yankee: Mike, sending you 3
+2024-10-14 19:46:28.459411 Tango: We should replace Mike with Papa
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:28.491078 Romeo: No
+2024-10-14 19:46:28.491264 Bravo: No
+2024-10-14 19:46:28.491422 Yankee: No
+2024-10-14 19:46:28.491566 Lima: No
+2024-10-14 19:46:28.491732 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:28.643550 Papa: Mike, sending you 4
+2024-10-14 19:46:28.648423 Bravo: Yankee, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 19:46:28.653902 Yankee: Bravo, sending you 4
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 19:46:28.662182 X-ray: We should drop Romeo
+ChatterBot Tango reevaluating
+2024-10-14 19:46:28.694221 Mike: No
+2024-10-14 19:46:28.694447 Bravo: No
+2024-10-14 19:46:28.695011 Yankee: No
+2024-10-14 19:46:28.695156 Papa: No
+2024-10-14 19:46:28.695304 Tango: No
+2024-10-14 19:46:28.695459 Lima: No
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:28.881602 Papa: X-ray, sending you 3
+2024-10-14 19:46:28.883844 Lima: Romeo, Yankee, Papa and Tango, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+2024-10-14 19:46:28.887788 X-ray: We should drop Lima
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:28.925764 Romeo: No
+2024-10-14 19:46:28.926460 Mike: No
+2024-10-14 19:46:28.926677 Bravo: No
+2024-10-14 19:46:28.926897 Yankee: No
+2024-10-14 19:46:28.927129 Papa: No
+2024-10-14 19:46:28.927287 Tango: No
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:29.138046 Lima: Mike and Bravo, sending you 3
+2024-10-14 19:46:29.139750 Mike: Sending you each 3
+chatterbot Romeo submitting transactions
+2024-10-14 19:46:29.152067 Tango: Papa we want you to join our group
+2024-10-14 19:46:29.185794 Papa: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:29.308857 Tango: We should replace Yankee with Papa
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:29.339811 Romeo: No
+2024-10-14 19:46:29.340075 Mike: No
+2024-10-14 19:46:29.340277 Bravo: No
+2024-10-14 19:46:29.341088 Lima: No
+2024-10-14 19:46:29.341317 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Mike submitting transactions
+2024-10-14 19:46:29.514309 Tango: We should add Papa
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:29.556559 Romeo: Yes
+2024-10-14 19:46:29.556793 Mike: Yes
+2024-10-14 19:46:29.557024 Bravo: Yes
+2024-10-14 19:46:29.557241 Yankee: Yes
+2024-10-14 19:46:29.557437 Lima: Yes
+2024-10-14 19:46:29.557654 X-ray: Yes
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:29.860983 Romeo: Sorry, I'm actually sending you 0
+2024-10-14 19:46:29.863674 X-ray: Romeo, Mike, Bravo, Papa and Lima, sending you 2
+2024-10-14 19:46:29.867819 Romeo: Mike, sending you 4
+2024-10-14 19:46:29.871649 X-ray: Yankee, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 20
+ChatterBot Charlie round 20
+ChatterBot Echo round 20
+ChatterBot Mike round 20
+ChatterBot Bravo round 20
+ChatterBot Yankee round 20
+ChatterBot Papa round 20
+ChatterBot Tango round 20
+ChatterBot Lima round 20
+ChatterBot X-ray round 20
+2024-10-14 19:46:31.016447 Tango: We should replace Lima with Mike
+2024-10-14 19:46:31.033851 Romeo: No
+2024-10-14 19:46:31.034589 Bravo: No
+2024-10-14 19:46:31.034746 Yankee: No
+2024-10-14 19:46:31.034924 Papa: No
+2024-10-14 19:46:31.035034 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:31.166410 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:31.171301 Romeo: Mike and Bravo, sending you 3
+2024-10-14 19:46:31.175197 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:31.180424 Papa: Romeo, Yankee, Tango and Lima, sending you 2
+2024-10-14 19:46:31.185415 Mike: Same as last round
+2024-10-14 19:46:31.189319 Lima: Romeo, Yankee, Papa and Tango, sending you 2
+2024-10-14 19:46:31.193261 Yankee: Mike, sending you 3
+2024-10-14 19:46:31.198431 Romeo: Yankee, Papa, Tango and Lima, sending you 2
+2024-10-14 19:46:31.202014 Bravo: Yankee, sending you 3
+2024-10-14 19:46:31.207251 Papa: Mike, Bravo and X-ray, sending you 3
+2024-10-14 19:46:31.212450 Lima: Mike and Bravo, sending you 3
+2024-10-14 19:46:31.216022 Tango: Romeo, Bravo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:31.220107 Yankee: Bravo, sending you 4
+2024-10-14 19:46:31.225094 X-ray: Romeo, Mike, Bravo, Yankee and Papa, sending you 2
+2024-10-14 19:46:31.293881 X-ray: Lima, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 21
+ChatterBot Charlie round 21
+ChatterBot Echo round 21
+ChatterBot Mike round 21
+ChatterBot Bravo round 21
+ChatterBot Yankee round 21
+ChatterBot Papa round 21
+ChatterBot Tango round 21
+ChatterBot Lima round 21
+ChatterBot X-ray round 21
+2024-10-14 19:46:32.557867 Tango: We should add Mike
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:32.592640 Lima: Yes
+2024-10-14 19:46:32.593976 Papa: Yes
+2024-10-14 19:46:32.594362 X-ray: Yes
+2024-10-14 19:46:32.594582 Yankee: Yes
+2024-10-14 19:46:32.594832 Bravo: Yes
+2024-10-14 19:46:32.595219 Romeo: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:32.862465 Yankee: We should drop X-ray
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:32.902306 Lima: Yes
+2024-10-14 19:46:32.902535 Romeo: Yes
+2024-10-14 19:46:32.902734 Mike: Yes
+2024-10-14 19:46:32.902914 Bravo: Yes
+2024-10-14 19:46:32.903078 Papa: Yes
+2024-10-14 19:46:32.903705 Tango: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 19:46:33.073391 Tango: We should replace Bravo with Mike
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:33.091941 Romeo: No
+2024-10-14 19:46:33.092101 Yankee: No
+2024-10-14 19:46:33.092223 Papa: No
+2024-10-14 19:46:33.092324 Lima: No
+2024-10-14 19:46:33.092412 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:33.194837 Tango: We should replace Lima with Mike
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:33.214754 Romeo: No
+2024-10-14 19:46:33.214887 Bravo: No
+2024-10-14 19:46:33.214998 Yankee: No
+2024-10-14 19:46:33.215466 Papa: No
+2024-10-14 19:46:33.215555 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:33.315774 Tango: We should replace X-ray with Mike
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:33.336846 Romeo: Yes
+2024-10-14 19:46:33.336995 Bravo: No
+2024-10-14 19:46:33.337099 Yankee: Yes
+2024-10-14 19:46:33.337208 Papa: No
+2024-10-14 19:46:33.337302 Lima: Yes
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 19:46:33.453608 Mike: Same as last round
+2024-10-14 19:46:33.454945 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:33.460076 Romeo: Mike, sending you 4
+2024-10-14 19:46:33.461336 Lima: Romeo, Yankee, Papa and Tango, sending you 2
+2024-10-14 19:46:33.465955 Tango: Mike we want you to join our group
+2024-10-14 19:46:33.491980 Mike: Yes
+ChatterBot Tango reevaluating
+2024-10-14 19:46:33.640283 Bravo: Yankee, sending you 3
+2024-10-14 19:46:33.646326 Romeo: Bravo, Yankee, Papa, Tango and Lima, sending you 2
+2024-10-14 19:46:33.650076 Lima: Mike and Bravo, sending you 3
+chatterbot Echo submitting transactions
+2024-10-14 19:46:33.654070 X-ray: Romeo, Mike, Bravo, Yankee and Papa, sending you 2
+2024-10-14 19:46:33.661685 X-ray: Lima, sending you 1
+2024-10-14 19:46:33.664488 Papa: Romeo, Yankee, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:33.694369 Yankee: Romeo, Mike, Bravo, Tango and Lima, sending you 3
+2024-10-14 19:46:33.696989 Papa: Mike, sending you 4
+chatterbot Charlie submitting transactions
+2024-10-14 19:46:33.702818 Yankee: Papa, sending you 2
+2024-10-14 19:46:33.734258 Tango: Romeo, Bravo, Yankee and Papa, sending you 3
+2024-10-14 19:46:33.739751 Papa: Bravo, sending you 3
+2024-10-14 19:46:33.747243 Tango: Mike, sending you 2
+2024-10-14 19:46:33.800534 Tango: X-ray, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 22
+ChatterBot Charlie round 22
+ChatterBot Echo round 22
+ChatterBot Mike round 22
+ChatterBot Bravo round 22
+ChatterBot Yankee round 22
+ChatterBot Papa round 22
+ChatterBot Tango round 22
+ChatterBot Lima round 22
+ChatterBot X-ray round 22
+2024-10-14 19:46:34.936205 Tango: We should replace Papa with Lima
+2024-10-14 19:46:34.958821 Romeo: No
+2024-10-14 19:46:34.959567 Mike: No
+2024-10-14 19:46:34.959735 Bravo: No
+2024-10-14 19:46:34.959908 Yankee: No
+2024-10-14 19:46:34.960137 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:35.080684 Tango: We should add Lima
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:35.111674 X-ray: Yes
+2024-10-14 19:46:35.112382 Romeo: Yes
+2024-10-14 19:46:35.112573 Mike: Yes
+2024-10-14 19:46:35.112876 Bravo: Yes
+2024-10-14 19:46:35.113099 Yankee: Yes
+2024-10-14 19:46:35.113446 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:35.268354 Tango: We should replace Bravo with Lima
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:35.291111 Romeo: No
+2024-10-14 19:46:35.292013 Mike: No
+2024-10-14 19:46:35.292129 Yankee: No
+2024-10-14 19:46:35.292227 Papa: No
+2024-10-14 19:46:35.292319 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:35.447555 Romeo: Mike and Bravo, sending you 3
+2024-10-14 19:46:35.451800 Mike: Same as last round
+2024-10-14 19:46:35.455567 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:35.461129 Lima: Romeo, Yankee, Papa and Tango, sending you 2
+2024-10-14 19:46:35.464267 Tango: Lima we want you to join our group
+2024-10-14 19:46:35.473032 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:35.511922 Romeo: Yankee, Papa, Tango and Lima, sending you 2
+2024-10-14 19:46:35.514126 Bravo: Yankee, sending you 3
+2024-10-14 19:46:35.518253 Lima: Mike and Bravo, sending you 3
+chatterbot Bravo submitting transactions
+2024-10-14 19:46:35.520362 X-ray: Romeo, Mike, Bravo, Yankee and Papa, sending you 2
+2024-10-14 19:46:35.522330 Papa: Romeo, Yankee, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:35.526757 X-ray: Lima, sending you 1
+2024-10-14 19:46:35.528841 Papa: Mike, sending you 4
+2024-10-14 19:46:35.587117 Papa: Bravo, sending you 3
+2024-10-14 19:46:35.606236 Yankee: Romeo, Mike, Bravo, Tango and Lima, sending you 3
+2024-10-14 19:46:35.659725 Yankee: Papa, sending you 2
+2024-10-14 19:46:35.664548 Tango: Romeo, Mike, Yankee, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:35.675139 Tango: Bravo, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 23
+ChatterBot Charlie round 23
+ChatterBot Echo round 23
+ChatterBot Mike round 23
+ChatterBot Bravo round 23
+ChatterBot Yankee round 23
+ChatterBot Papa round 23
+ChatterBot Tango round 23
+ChatterBot Lima round 23
+ChatterBot X-ray round 23
+2024-10-14 19:46:36.455713 Tango: We should drop Bravo
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:36.480836 Romeo: No
+2024-10-14 19:46:36.481019 Mike: No
+2024-10-14 19:46:36.481152 Yankee: No
+2024-10-14 19:46:36.482152 Papa: No
+2024-10-14 19:46:36.482268 Lima: No
+2024-10-14 19:46:36.482371 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:36.699422 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:36.705679 Tango: We should drop Romeo
+ChatterBot Papa reevaluating
+2024-10-14 19:46:36.737540 X-ray: No
+2024-10-14 19:46:36.737753 Mike: No
+2024-10-14 19:46:36.737915 Bravo: No
+2024-10-14 19:46:36.738441 Yankee: No
+2024-10-14 19:46:36.738595 Papa: No
+2024-10-14 19:46:36.738744 Lima: No
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:36.879964 Bravo: Yankee, sending you 3
+2024-10-14 19:46:36.882834 Lima: Romeo, Yankee, Papa and Tango, sending you 2
+chatterbot Bravo submitting transactions
+2024-10-14 19:46:36.884329 Romeo: Mike, sending you 4
+2024-10-14 19:46:36.884949 Mike: Same as last round
+2024-10-14 19:46:36.885991 X-ray: Romeo, Mike, Bravo, Yankee and Papa, sending you 2
+2024-10-14 19:46:36.889389 Lima: Mike and Bravo, sending you 3
+2024-10-14 19:46:36.893511 Tango: We should drop Papa
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:36.915729 Romeo: No
+2024-10-14 19:46:36.916231 Mike: No
+2024-10-14 19:46:36.916379 Bravo: No
+2024-10-14 19:46:36.916518 Yankee: No
+2024-10-14 19:46:36.916659 Lima: No
+2024-10-14 19:46:36.916786 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:37.176517 Yankee: We should add X-ray
+ChatterBot Tango reevaluating
+2024-10-14 19:46:37.208921 Lima: Yes
+2024-10-14 19:46:37.225500 Romeo: Yes
+2024-10-14 19:46:37.225748 Mike: Yes
+2024-10-14 19:46:37.226043 Bravo: Yes
+2024-10-14 19:46:37.226494 Papa: Yes
+2024-10-14 19:46:37.227713 Tango: Yes
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:37.481423 X-ray: Lima, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 19:46:37.486020 Mike: We should replace Tango with X-ray
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:37.519498 Romeo: No
+2024-10-14 19:46:37.519768 Bravo: No
+2024-10-14 19:46:37.519966 Yankee: No
+2024-10-14 19:46:37.520123 Papa: No
+2024-10-14 19:46:37.520258 Lima: Yes
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:37.711992 Yankee: X-ray we want you to join our group
+2024-10-14 19:46:37.721254 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:37.764582 Papa: Romeo, Yankee, Tango, Lima and X-ray, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 19:46:37.771635 Tango: We should drop Yankee
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:37.796024 X-ray: No
+2024-10-14 19:46:37.796242 Romeo: No
+2024-10-14 19:46:37.796385 Mike: No
+2024-10-14 19:46:37.797104 Bravo: No
+2024-10-14 19:46:37.797248 Papa: No
+2024-10-14 19:46:37.797366 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:37.951775 Papa: Mike, sending you 4
+chatterbot Lima submitting transactions
+2024-10-14 19:46:37.959027 Mike: X-ray we want you to join our group
+2024-10-14 19:46:37.966528 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+chatterbot Yankee submitting transactions
+2024-10-14 19:46:37.990578 Tango: We should drop Mike
+2024-10-14 19:46:38.008168 Lima: No
+2024-10-14 19:46:38.008330 Papa: No
+2024-10-14 19:46:38.008450 X-ray: No
+2024-10-14 19:46:38.008566 Yankee: No
+2024-10-14 19:46:38.008681 Bravo: No
+2024-10-14 19:46:38.008805 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:38.306793 Papa: Bravo, sending you 3
+chatterbot Papa submitting transactions
+2024-10-14 19:46:38.312403 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:38.318032 Lima: X-ray we want you to join our group
+2024-10-14 19:46:38.327465 X-ray: Yes
+2024-10-14 19:46:38.367155 Tango: We should drop X-ray
+2024-10-14 19:46:38.405567 Lima: Yes
+2024-10-14 19:46:38.405908 Romeo: Yes
+2024-10-14 19:46:38.406238 Mike: Yes
+2024-10-14 19:46:38.406536 Bravo: Yes
+2024-10-14 19:46:38.407433 Yankee: Yes
+2024-10-14 19:46:38.407778 Papa: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:38.603906 Mike: Sorry, I'm actually sending you 0
+2024-10-14 19:46:38.604818 Yankee: Mike, sending you 3
+chatterbot Mike submitting transactions
+2024-10-14 19:46:38.628833 Mike: Sending you each 3
+2024-10-14 19:46:38.633931 Tango: We should drop Lima
+2024-10-14 19:46:38.669830 X-ray: No
+2024-10-14 19:46:38.670109 Romeo: No
+2024-10-14 19:46:38.670300 Mike: No
+2024-10-14 19:46:38.670993 Bravo: No
+2024-10-14 19:46:38.671182 Yankee: No
+2024-10-14 19:46:38.671364 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:38.906271 Yankee: Bravo, sending you 4
+2024-10-14 19:46:38.915858 Lima: Sorry, I'm actually sending you 0
+2024-10-14 19:46:38.920210 Romeo: We should drop Tango
+ChatterBot Lima reevaluating
+2024-10-14 19:46:38.957825 Papa: No
+2024-10-14 19:46:38.958041 Mike: Yes
+2024-10-14 19:46:38.958201 Bravo: No
+2024-10-14 19:46:38.958365 Yankee: No
+2024-10-14 19:46:38.958515 Lima: No
+2024-10-14 19:46:38.959015 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 19:46:39.219191 Romeo: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:39.227596 Tango: No
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:39.303475 Romeo: We should replace X-ray with Tango
+ChatterBot Lima reevaluating
+2024-10-14 19:46:39.439502 Mike: No
+2024-10-14 19:46:39.439826 Bravo: No
+2024-10-14 19:46:39.440110 Yankee: No
+2024-10-14 19:46:39.440796 Papa: No
+2024-10-14 19:46:39.441108 Lima: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Lima submitting transactions
+2024-10-14 19:46:39.674763 Tango: Romeo, Mike, Yankee, Papa and Lima, sending you 3
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 24
+ChatterBot Charlie round 24
+ChatterBot Echo round 24
+ChatterBot Mike round 24
+ChatterBot Bravo round 24
+ChatterBot Yankee round 24
+ChatterBot Papa round 24
+ChatterBot Tango round 24
+ChatterBot Lima round 24
+ChatterBot X-ray round 24
+chatterbot Tango submitting transactions
+2024-10-14 19:46:39.930889 Lima: We should replace Tango with X-ray
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:39.951816 Mike: Yes
+2024-10-14 19:46:39.952063 Romeo: Yes
+2024-10-14 19:46:39.952257 Bravo: No
+2024-10-14 19:46:39.952456 Yankee: No
+2024-10-14 19:46:39.952636 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:40.153436 Lima: X-ray we want you to join our group
+2024-10-14 19:46:40.165895 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:40.200651 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:40.209682 X-ray: Romeo, Mike, Bravo, Yankee and Papa, sending you 2
+2024-10-14 19:46:40.217286 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:40.226443 Tango: Romeo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:40.232035 Mike: Same as last round
+2024-10-14 19:46:40.238851 Papa: Romeo, Yankee, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:40.248686 Yankee: Mike, sending you 3
+2024-10-14 19:46:40.255793 X-ray: Lima, sending you 1
+2024-10-14 19:46:40.261660 Bravo: Yankee, sending you 3
+2024-10-14 19:46:40.269023 Tango: Mike, sending you 2
+2024-10-14 19:46:40.275501 Mike: Romeo did not give me 4 like they said
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:40.298732 Tango: X-ray, sending you 1
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+2024-10-14 19:46:40.310125 Romeo: We should drop Tango
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 19:46:40.348725 Papa: No
+2024-10-14 19:46:40.348960 Mike: Yes
+2024-10-14 19:46:40.349164 Bravo: No
+2024-10-14 19:46:40.349418 Yankee: No
+2024-10-14 19:46:40.349638 Lima: No
+2024-10-14 19:46:40.350317 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 25
+ChatterBot Charlie round 25
+ChatterBot Echo round 25
+ChatterBot Mike round 25
+ChatterBot Bravo round 25
+ChatterBot Yankee round 25
+ChatterBot Papa round 25
+ChatterBot Tango round 25
+ChatterBot Lima round 25
+ChatterBot X-ray round 25
+2024-10-14 19:46:40.854765 Tango: We should replace Mike with Bravo
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:40.879244 Romeo: No
+2024-10-14 19:46:40.879903 Yankee: No
+2024-10-14 19:46:40.880140 Papa: No
+2024-10-14 19:46:40.880293 Lima: No
+2024-10-14 19:46:40.880453 X-ray: No
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:41.100053 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:41.109396 Mike: Same as last round
+2024-10-14 19:46:41.116878 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:41.125935 Romeo: Same as last round
+2024-10-14 19:46:41.135671 Bravo: Yankee, sending you 3
+2024-10-14 19:46:41.145425 Yankee: Mike, sending you 3
+2024-10-14 19:46:41.154169 Tango: Romeo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:41.160894 Yankee: Bravo, sending you 4
+2024-10-14 19:46:41.170701 Tango: Mike, sending you 2
+2024-10-14 19:46:41.192839 Tango: X-ray, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 26
+ChatterBot Charlie round 26
+ChatterBot Echo round 26
+ChatterBot Mike round 26
+ChatterBot Bravo round 26
+ChatterBot Yankee round 26
+ChatterBot Papa round 26
+ChatterBot Tango round 26
+ChatterBot Lima round 26
+ChatterBot X-ray round 26
+2024-10-14 19:46:42.547273 Tango: We should replace Mike with Bravo
+2024-10-14 19:46:42.566179 Romeo: No
+2024-10-14 19:46:42.566375 Yankee: No
+2024-10-14 19:46:42.566503 Papa: No
+2024-10-14 19:46:42.567057 Lima: No
+2024-10-14 19:46:42.567169 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:42.690280 Tango: Bravo we want you to join our group
+2024-10-14 19:46:42.697568 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:42.723987 Lima: We should replace Tango with X-ray
+2024-10-14 19:46:42.744909 Mike: Yes
+2024-10-14 19:46:42.745137 Romeo: No
+2024-10-14 19:46:42.745304 Bravo: No
+2024-10-14 19:46:42.745457 Yankee: No
+2024-10-14 19:46:42.745640 Papa: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:43.079931 Mike: Same as last round
+2024-10-14 19:46:43.087503 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:43.092629 Bravo: Romeo, Mike, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:43.096484 Lima: X-ray we want you to join our group
+2024-10-14 19:46:43.103043 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:43.129170 Romeo: We should add Tango
+ChatterBot Lima reevaluating
+2024-10-14 19:46:43.150818 Papa: Yes
+2024-10-14 19:46:43.151090 Mike: No
+2024-10-14 19:46:43.151373 Bravo: Yes
+2024-10-14 19:46:43.152087 Yankee: Yes
+2024-10-14 19:46:43.152344 Lima: Yes
+2024-10-14 19:46:43.152627 X-ray: No
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+chatterbot Mike submitting transactions
+2024-10-14 19:46:43.335244 Yankee: Mike, sending you 3
+2024-10-14 19:46:43.345072 Bravo: Yankee, sending you 3
+2024-10-14 19:46:43.354763 Yankee: Bravo, sending you 4
+chatterbot X-ray submitting transactions
+2024-10-14 19:46:43.363638 Romeo: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:43.374961 Tango: No
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:43.433723 Tango: Sorry, I'm actually sending you 0
+2024-10-14 19:46:43.470391 Tango: Mike, sending you 2
+2024-10-14 19:46:43.491658 Tango: X-ray, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 27
+ChatterBot Charlie round 27
+ChatterBot Echo round 27
+ChatterBot Mike round 27
+ChatterBot Bravo round 27
+ChatterBot Yankee round 27
+ChatterBot Papa round 27
+ChatterBot Tango round 27
+ChatterBot Lima round 27
+ChatterBot X-ray round 27
+2024-10-14 19:46:44.489310 Tango: We should replace Romeo with Bravo
+ChatterBot Lima reevaluating
+2024-10-14 19:46:44.520415 Mike: No
+2024-10-14 19:46:44.520718 Yankee: No
+2024-10-14 19:46:44.520887 Papa: No
+2024-10-14 19:46:44.521058 Lima: No
+2024-10-14 19:46:44.521236 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:44.869029 Bravo: Romeo, Mike, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:44.876300 Romeo: Same as last round
+2024-10-14 19:46:44.882403 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:44.887332 Mike: Same as last round
+2024-10-14 19:46:44.892012 Bravo: Yankee, sending you 4
+2024-10-14 19:46:44.900054 Yankee: Mike, sending you 3
+2024-10-14 19:46:44.905969 Tango: Romeo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:44.908793 Bravo: Tango, sending you 1
+2024-10-14 19:46:44.914839 Yankee: Bravo, sending you 4
+2024-10-14 19:46:44.919568 Tango: Mike, sending you 2
+2024-10-14 19:46:45.062560 Tango: X-ray, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 28
+ChatterBot Charlie round 28
+ChatterBot Echo round 28
+ChatterBot Mike round 28
+ChatterBot Bravo round 28
+ChatterBot Yankee round 28
+ChatterBot Papa round 28
+ChatterBot Tango round 28
+ChatterBot Lima round 28
+ChatterBot X-ray round 28
+2024-10-14 19:46:45.929139 Tango: We should replace Mike with Bravo
+ChatterBot Lima reevaluating
+2024-10-14 19:46:45.962797 Romeo: No
+2024-10-14 19:46:45.963129 Yankee: No
+2024-10-14 19:46:45.963405 Papa: No
+2024-10-14 19:46:45.963660 Lima: No
+2024-10-14 19:46:45.963822 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:46.117060 Tango: We should replace Romeo with Bravo
+ChatterBot Lima reevaluating
+2024-10-14 19:46:46.144139 Mike: No
+2024-10-14 19:46:46.144380 Yankee: No
+2024-10-14 19:46:46.144521 Papa: No
+2024-10-14 19:46:46.144683 Lima: No
+2024-10-14 19:46:46.144808 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:46.293104 Mike: Same as last round
+2024-10-14 19:46:46.297882 Tango: Bravo we want you to join our group
+2024-10-14 19:46:46.303959 Bravo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:46.329516 Lima: We should replace Tango with X-ray
+2024-10-14 19:46:46.349025 Mike: Yes
+2024-10-14 19:46:46.349583 Romeo: No
+2024-10-14 19:46:46.349742 Bravo: No
+2024-10-14 19:46:46.349862 Yankee: No
+2024-10-14 19:46:46.349977 Papa: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:46.500203 Yankee: Romeo, Papa, Tango, Lima and X-ray, sending you 2
+2024-10-14 19:46:46.509449 Bravo: Romeo, Mike, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:46.517242 Romeo: We should drop Tango
+2024-10-14 19:46:46.538090 Papa: No
+2024-10-14 19:46:46.538291 Mike: Yes
+2024-10-14 19:46:46.538467 Bravo: No
+2024-10-14 19:46:46.538623 Yankee: No
+2024-10-14 19:46:46.538778 Lima: No
+2024-10-14 19:46:46.538913 X-ray: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:46.851040 Yankee: Mike, sending you 3
+2024-10-14 19:46:46.865166 Bravo: Yankee, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 19:46:46.879795 Yankee: Bravo, sending you 4
+2024-10-14 19:46:46.893586 Tango: Romeo, Yankee, Papa and Lima, sending you 3
+2024-10-14 19:46:46.903139 Bravo: Tango, sending you 1
+chatterbot X-ray submitting transactions
+2024-10-14 19:46:46.916228 Tango: Mike, sending you 2
+2024-10-14 19:46:46.925540 Romeo: Same as last round
+2024-10-14 19:46:46.942592 Tango: X-ray, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 29
+ChatterBot Charlie round 29
+ChatterBot Echo round 29
+ChatterBot Mike round 29
+ChatterBot Bravo round 29
+ChatterBot Yankee round 29
+ChatterBot Papa round 29
+ChatterBot Tango round 29
+ChatterBot Lima round 29
+ChatterBot X-ray round 29
+2024-10-14 19:46:47.781912 Tango: We should replace Mike with Bravo
+ChatterBot Lima reevaluating
+2024-10-14 19:46:47.798558 Romeo: No
+2024-10-14 19:46:47.798741 Yankee: No
+2024-10-14 19:46:47.798856 Papa: No
+2024-10-14 19:46:47.798962 Lima: No
+2024-10-14 19:46:47.799079 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:47.881837 Tango: We should replace Romeo with Bravo
+ChatterBot Lima reevaluating
+2024-10-14 19:46:47.897524 Mike: No
+2024-10-14 19:46:47.897749 Yankee: No
+2024-10-14 19:46:47.898737 Papa: No
+2024-10-14 19:46:47.898908 Lima: No
+2024-10-14 19:46:47.899070 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:47.986673 Tango: We should replace X-ray with Bravo
+ChatterBot Lima reevaluating
+2024-10-14 19:46:48.010363 Romeo: No
+2024-10-14 19:46:48.010552 Mike: No
+2024-10-14 19:46:48.010716 Yankee: No
+2024-10-14 19:46:48.010867 Papa: No
+2024-10-14 19:46:48.011010 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:48.163385 Tango: We should replace Yankee with Bravo
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:48.260845 Romeo: No
+2024-10-14 19:46:48.261176 Mike: No
+2024-10-14 19:46:48.261634 Papa: No
+2024-10-14 19:46:48.262338 Lima: No
+2024-10-14 19:46:48.262658 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:48.371425 Lima: We should replace Tango with X-ray
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:48.405648 Mike: Yes
+2024-10-14 19:46:48.406020 Romeo: Yes
+2024-10-14 19:46:48.407346 Bravo: No
+2024-10-14 19:46:48.407557 Yankee: No
+2024-10-14 19:46:48.407797 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:48.534445 Mike: Same as last round
+2024-10-14 19:46:48.537469 Bravo: Romeo, Mike, Papa, Lima and X-ray, sending you 2
+2024-10-14 19:46:48.540194 Lima: X-ray we want you to join our group
+2024-10-14 19:46:48.545223 X-ray: Yes
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:48.565399 Yankee: We should add Tango
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 19:46:48.596852 Papa: Yes
+2024-10-14 19:46:48.597130 Romeo: No
+2024-10-14 19:46:48.597320 Mike: No
+2024-10-14 19:46:48.597514 Bravo: Yes
+2024-10-14 19:46:48.597710 Lima: No
+2024-10-14 19:46:48.597901 X-ray: No
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:48.793704 Bravo: Yankee, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 19:46:48.800696 Bravo: Tango, sending you 1
+2024-10-14 19:46:48.807866 Yankee: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:48.820001 Tango: No
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:48.852140 Tango: We should replace Lima with Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:48.870218 Romeo: No
+2024-10-14 19:46:48.870389 Mike: No
+2024-10-14 19:46:48.870519 Yankee: No
+2024-10-14 19:46:48.870634 Papa: No
+2024-10-14 19:46:48.871077 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:48.960626 Romeo: We should drop Tango
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 19:46:48.983077 Papa: No
+2024-10-14 19:46:48.983278 Mike: Yes
+2024-10-14 19:46:48.983399 Bravo: No
+2024-10-14 19:46:48.983561 Yankee: No
+2024-10-14 19:46:48.983680 Lima: Yes
+2024-10-14 19:46:48.983806 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Charlie submitting transactions
+2024-10-14 19:46:49.116699 Romeo: Mike, sending you 4
+2024-10-14 19:46:49.123691 Romeo: Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Romeo round 30
+ChatterBot Charlie round 30
+ChatterBot Echo round 30
+ChatterBot Mike round 30
+ChatterBot Bravo round 30
+ChatterBot Yankee round 30
+ChatterBot Papa round 30
+ChatterBot Tango round 30
+ChatterBot Lima round 30
+ChatterBot X-ray round 30
+2024-10-14 19:46:50.383155 Yankee: We should add Tango
+ChatterBot Papa reevaluating
+2024-10-14 19:46:50.400787 Papa: Yes
+2024-10-14 19:46:50.400952 Romeo: No
+2024-10-14 19:46:50.401078 Mike: No
+2024-10-14 19:46:50.401201 Bravo: Yes
+2024-10-14 19:46:50.401323 Lima: Yes
+2024-10-14 19:46:50.401448 X-ray: No
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:50.509927 Lima: We should replace Tango with X-ray
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:50.522801 Mike: Yes
+2024-10-14 19:46:50.522955 Romeo: Yes
+2024-10-14 19:46:50.523066 Bravo: No
+2024-10-14 19:46:50.523174 Yankee: Yes
+2024-10-14 19:46:50.523275 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:50.600666 Yankee: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 19:46:50.605735 Tango: No
+ChatterBot Papa reevaluating
+2024-10-14 19:46:50.623451 Tango: We should replace X-ray with Mike
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:50.636667 Romeo: No
+2024-10-14 19:46:50.636867 Bravo: No
+2024-10-14 19:46:50.636987 Yankee: No
+2024-10-14 19:46:50.637075 Papa: No
+2024-10-14 19:46:50.637172 Lima: No
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:46:50.757248 Mike: Same as last round
+2024-10-14 19:46:50.759231 Tango: We should replace Bravo with Mike
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:50.774286 Romeo: No
+2024-10-14 19:46:50.774569 Yankee: No
+2024-10-14 19:46:50.774806 Papa: No
+2024-10-14 19:46:50.774960 Lima: No
+2024-10-14 19:46:50.775096 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 19:46:50.852213 Bravo: Romeo, Mike, Papa, Lima and X-ray, sending you 2
+chatterbot Mike submitting transactions
+2024-10-14 19:46:50.858677 Tango: Mike we want you to join our group
+2024-10-14 19:46:50.863617 Mike: No
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 19:46:50.885294 Bravo: Yankee, sending you 4
+2024-10-14 19:46:50.892660 Bravo: Tango, sending you 1
+2024-10-14 19:46:50.905655 Romeo: Mike, sending you 4
+2024-10-14 19:46:50.909655 Romeo: Bravo, Yankee, Papa, Lima and X-ray, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions

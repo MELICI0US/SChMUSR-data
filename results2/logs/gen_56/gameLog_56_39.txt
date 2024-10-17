@@ -1,0 +1,1881 @@
+ChatterBot Alpha round 1
+ChatterBot India round 1
+ChatterBot Lima round 1
+ChatterBot Foxtrot round 1
+ChatterBot Uniform round 1
+ChatterBot Delta round 1
+ChatterBot Whiskey round 1
+ChatterBot Bravo round 1
+ChatterBot Hotel round 1
+ChatterBot Romeo round 1
+randomSelections Bravo: {Bravo, Foxtrot, India, Uniform} 
+2024-10-14 17:43:39.763115 Bravo: Group up?
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:43:39.773250 Foxtrot: Yes
+2024-10-14 17:43:39.773442 India: Yes
+2024-10-14 17:43:39.773596 Uniform: Yes
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+randomSelections Romeo: {Romeo, Lima, India, Bravo, Alpha, Whiskey} 
+2024-10-14 17:43:39.802096 Romeo: We would work well together
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:39.814940 Lima: Yes
+2024-10-14 17:43:39.815644 India: No
+2024-10-14 17:43:39.815868 Bravo: No
+2024-10-14 17:43:39.816 Alpha: Yes
+2024-10-14 17:43:39.816137 Whiskey: Yes
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+randomSelections Hotel: {Hotel, Bravo, Romeo, Whiskey, Uniform, India} 
+2024-10-14 17:43:39.890878 Hotel: Let's form a team
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:43:39.898507 Bravo: No
+2024-10-14 17:43:39.898684 Romeo: No
+2024-10-14 17:43:39.898820 Whiskey: No
+2024-10-14 17:43:39.899480 Uniform: No
+2024-10-14 17:43:39.899685 India: No
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+randomSelections Delta: {Delta, India, Romeo, Alpha, Whiskey, Hotel} 
+2024-10-14 17:43:39.951423 Delta: Group up?
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:39.959967 India: No
+2024-10-14 17:43:39.960125 Romeo: No
+2024-10-14 17:43:39.960272 Alpha: No
+2024-10-14 17:43:39.960405 Whiskey: No
+2024-10-14 17:43:39.960546 Hotel: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:40.013677 Hotel: Uniform, sending you 3
+2024-10-14 17:43:40.016683 Bravo: India, sending you 3
+2024-10-14 17:43:40.016956 Hotel: Whiskey, sending you 4
+2024-10-14 17:43:40.018686 Foxtrot: India, Uniform and Bravo, sending you 5
+2024-10-14 17:43:40.019680 Hotel: Bravo, sending you 2
+2024-10-14 17:43:40.020688 Whiskey: Alpha and Lima, sending you 4
+2024-10-14 17:43:40.020985 Uniform: India, sending you 3
+2024-10-14 17:43:40.021681 Romeo: Alpha and India, sending you 2
+2024-10-14 17:43:40.022083 Bravo: Foxtrot and Uniform, sending you 4
+2024-10-14 17:43:40.023662 Delta: Alpha, sending you 4
+2024-10-14 17:43:40.024001 Whiskey: India, sending you 6
+2024-10-14 17:43:40.024274 Uniform: Foxtrot and Bravo, sending you 7
+2024-10-14 17:43:40.024680 Hotel: Romeo, sending you 1
+2024-10-14 17:43:40.024978 Lima: Alpha, sending you 4
+2024-10-14 17:43:40.025707 Romeo: Lima and Whiskey, sending you 5
+2024-10-14 17:43:40.027649 Delta: India, sending you 1
+2024-10-14 17:43:40.027915 Whiskey: Bravo and Romeo, sending you 2
+2024-10-14 17:43:40.028147 Lima: India, sending you 3
+2024-10-14 17:43:40.029662 India: Foxtrot and Uniform, sending you 5
+2024-10-14 17:43:40.029950 Romeo: Bravo, sending you 3
+2024-10-14 17:43:40.030522 Alpha: India, Whiskey and Bravo, sending you 2
+2024-10-14 17:43:40.030831 Lima: Whiskey and Romeo, sending you 2
+2024-10-14 17:43:40.031695 Delta: Whiskey and Hotel, sending you 2
+2024-10-14 17:43:40.033715 Alpha: Lima, sending you 1
+2024-10-14 17:43:40.034683 India: Bravo, sending you 8
+2024-10-14 17:43:40.034974 Lima: Bravo, sending you 1
+2024-10-14 17:43:40.035257 Delta: Romeo, sending you 5
+2024-10-14 17:43:40.036721 Alpha: Romeo, sending you 3
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 2
+ChatterBot India round 2
+ChatterBot Lima round 2
+ChatterBot Foxtrot round 2
+ChatterBot Uniform round 2
+ChatterBot Delta round 2
+ChatterBot Whiskey round 2
+ChatterBot Bravo round 2
+ChatterBot Hotel round 2
+ChatterBot Romeo round 2
+2024-10-14 17:43:41.784717 Alpha: Can we be friends?
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:41.800549 Lima: No
+2024-10-14 17:43:41.800791 Delta: Yes
+2024-10-14 17:43:41.801413 Whiskey: Yes
+2024-10-14 17:43:41.801556 Romeo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:41.936492 Foxtrot: We should add Hotel
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:43:41.948648 Bravo: No
+2024-10-14 17:43:41.949010 India: No
+2024-10-14 17:43:41.949232 Uniform: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:43:41.986455 India: Can we be friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:42.022359 Foxtrot: No
+2024-10-14 17:43:42.022856 Uniform: No
+2024-10-14 17:43:42.023248 Bravo: No
+2024-10-14 17:43:42.023474 Alpha: No
+2024-10-14 17:43:42.024401 Lima: No
+2024-10-14 17:43:42.024787 Delta: No
+2024-10-14 17:43:42.025016 Whiskey: No
+2024-10-14 17:43:42.025380 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:42.310669 Hotel: We should group up
+ChatterBot Delta reevaluating
+2024-10-14 17:43:42.315623 Delta: No
+2024-10-14 17:43:42.324136 Delta: We should replace Hotel with Lima
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:43:42.341042 Alpha: Yes
+2024-10-14 17:43:42.341212 Whiskey: Yes
+2024-10-14 17:43:42.341375 Romeo: Yes
+2024-10-14 17:43:42.342164 India: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:42.491657 Foxtrot: We should add Delta
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:43:42.512510 Bravo: No
+2024-10-14 17:43:42.512843 India: Yes
+2024-10-14 17:43:42.513647 Uniform: No
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:43:42.585252 Bravo: Hotel we want you to join our group
+2024-10-14 17:43:42.591663 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:43:42.613539 Alpha: Lima, Delta and Whiskey, sending you 4
+2024-10-14 17:43:42.614752 Delta: Lima we want you to join our group
+2024-10-14 17:43:42.620082 Lima: No
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:42.641895 Uniform: Hotel we want you to join our group
+2024-10-14 17:43:42.645267 Hotel: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:43:42.659966 Alpha: Romeo, sending you 1
+2024-10-14 17:43:42.660422 Lima: Alpha and Delta, sending you 2
+2024-10-14 17:43:42.662857 Hotel: Sending you 10
+2024-10-14 17:43:42.663186 India: Alpha, Lima, Uniform, Delta, Bravo and Romeo, sending you 2
+2024-10-14 17:43:42.664661 Romeo: Alpha, Lima and Delta, sending you 5
+2024-10-14 17:43:42.666129 Lima: Whiskey and Romeo, sending you 4
+2024-10-14 17:43:42.668700 India: Foxtrot and Whiskey, sending you 3
+2024-10-14 17:43:42.669736 Romeo: Whiskey, sending you 4
+2024-10-14 17:43:42.678683 Bravo: India, sending you 4
+2024-10-14 17:43:42.681697 Bravo: Foxtrot and Uniform, sending you 3
+2024-10-14 17:43:42.682668 Whiskey: Alpha, Lima and Delta, sending you 4
+2024-10-14 17:43:42.683679 Delta: Alpha and Lima, sending you 4
+2024-10-14 17:43:42.685970 Uniform: India, Foxtrot and Bravo, sending you 5
+2024-10-14 17:43:42.686373 Foxtrot: India and Uniform, sending you 5
+2024-10-14 17:43:42.686717 Whiskey: Romeo, sending you 6
+2024-10-14 17:43:42.689136 Delta: India, Whiskey and Romeo, sending you 3
+2024-10-14 17:43:42.690759 Uniform: Hotel, sending you 4
+2024-10-14 17:43:42.691126 Foxtrot: Bravo, sending you 6
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Alpha round 3
+ChatterBot India round 3
+ChatterBot Lima round 3
+ChatterBot Foxtrot round 3
+ChatterBot Uniform round 3
+ChatterBot Delta round 3
+ChatterBot Whiskey round 3
+2024-10-14 17:43:43.864671 Foxtrot: We should add Hotel
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:43:43.875284 Bravo: Yes
+2024-10-14 17:43:43.875433 India: No
+2024-10-14 17:43:43.875559 Uniform: No
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo round 3
+2024-10-14 17:43:43.910428 Delta: We should replace India with Hotel
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:43.919619 Alpha: No
+2024-10-14 17:43:43.919779 Lima: No
+2024-10-14 17:43:43.919901 Whiskey: No
+2024-10-14 17:43:43.920011 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:43.955472 Whiskey: We should add Hotel and India
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:43.966419 Alpha: No
+2024-10-14 17:43:43.966589 Lima: No
+2024-10-14 17:43:43.966753 Delta: No
+2024-10-14 17:43:43.966924 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel round 3
+ChatterBot Romeo round 3
+2024-10-14 17:43:44.032381 Delta: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:44.036129 Hotel: No
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:44.051052 Hotel: Group up?
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:43:44.062411 Bravo: Yes
+2024-10-14 17:43:44.062583 India: Yes
+2024-10-14 17:43:44.063232 Foxtrot: Yes
+2024-10-14 17:43:44.063395 Uniform: Yes
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:44.106174 Bravo: We should add Hotel
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:43:44.113755 Foxtrot: Yes
+2024-10-14 17:43:44.113888 India: Yes
+2024-10-14 17:43:44.113986 Uniform: Yes
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:43:44.149685 Bravo: Hotel we want you to join our group
+2024-10-14 17:43:44.152988 Hotel: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 17:43:44.167447 Foxtrot: Hotel we want you to join our group
+2024-10-14 17:43:44.170963 Hotel: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 17:43:44.185674 Whiskey: Alpha and Romeo, sending you 5
+2024-10-14 17:43:44.186688 Lima: Alpha and Whiskey, sending you 3
+2024-10-14 17:43:44.187923 Delta: Alpha, Lima, Whiskey and Romeo, sending you 3
+2024-10-14 17:43:44.188388 Hotel: India and Foxtrot, sending you 2
+2024-10-14 17:43:44.188832 India: Foxtrot, Uniform and Bravo, sending you 5
+2024-10-14 17:43:44.189259 Uniform: India, Foxtrot and Bravo, sending you 5
+2024-10-14 17:43:44.189626 Alpha: Lima, sending you 3
+2024-10-14 17:43:44.190036 Romeo: Alpha, sending you 4
+2024-10-14 17:43:44.191010 Whiskey: Lima and Delta, sending you 4
+2024-10-14 17:43:44.191689 Hotel: Uniform, sending you 5
+2024-10-14 17:43:44.192684 Lima: Delta, sending you 2
+2024-10-14 17:43:44.194142 Delta: Hotel, sending you 5
+2024-10-14 17:43:44.194709 India: Hotel, sending you 3
+2024-10-14 17:43:44.195264 Uniform: Hotel, sending you 4
+2024-10-14 17:43:44.195844 Alpha: Delta, Whiskey and Romeo, sending you 4
+2024-10-14 17:43:44.196405 Romeo: Lima, Delta and Whiskey, sending you 5
+2024-10-14 17:43:44.196941 Foxtrot: India, Uniform and Bravo, sending you 5
+2024-10-14 17:43:44.198114 Hotel: Bravo, sending you 1
+2024-10-14 17:43:44.198685 Lima: Romeo, sending you 4
+2024-10-14 17:43:44.202739 Foxtrot: Hotel, sending you 2
+2024-10-14 17:43:44.208685 Bravo: India, sending you 4
+2024-10-14 17:43:44.212690 Bravo: Foxtrot, Uniform and Hotel, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 4
+ChatterBot India round 4
+ChatterBot Lima round 4
+ChatterBot Foxtrot round 4
+ChatterBot Uniform round 4
+ChatterBot Delta round 4
+ChatterBot Whiskey round 4
+ChatterBot Bravo round 4
+ChatterBot Hotel round 4
+ChatterBot Romeo round 4
+2024-10-14 17:43:45.241688 India: Foxtrot, Uniform and Bravo, sending you 5
+2024-10-14 17:43:45.244677 India: Hotel, sending you 3
+2024-10-14 17:43:45.248665 Delta: Alpha, Lima and Whiskey, sending you 4
+2024-10-14 17:43:45.249957 Romeo: Alpha, sending you 4
+2024-10-14 17:43:45.252664 Whiskey: Alpha and Romeo, sending you 5
+2024-10-14 17:43:45.253079 Uniform: India, Foxtrot and Bravo, sending you 5
+2024-10-14 17:43:45.253444 Delta: Romeo, sending you 5
+2024-10-14 17:43:45.254240 Romeo: Lima, Delta and Whiskey, sending you 5
+2024-10-14 17:43:45.254592 Bravo: India, sending you 4
+2024-10-14 17:43:45.256670 Foxtrot: Sending you each 1
+2024-10-14 17:43:45.257089 Whiskey: Lima and Delta, sending you 4
+2024-10-14 17:43:45.257476 Uniform: Hotel, sending you 4
+2024-10-14 17:43:45.259700 Bravo: Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 17:43:45.260194 Hotel: India, Foxtrot and Bravo, sending you 2
+2024-10-14 17:43:45.261038 Alpha: Lima, sending you 3
+2024-10-14 17:43:45.262667 Lima: Sending you each 3
+2024-10-14 17:43:45.263661 Alpha: Delta and Romeo, sending you 4
+2024-10-14 17:43:45.264659 Hotel: Uniform, sending you 4
+2024-10-14 17:43:45.266693 Alpha: Whiskey, sending you 5
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 5
+ChatterBot India round 5
+ChatterBot Lima round 5
+ChatterBot Foxtrot round 5
+ChatterBot Uniform round 5
+ChatterBot Delta round 5
+ChatterBot Whiskey round 5
+ChatterBot Bravo round 5
+ChatterBot Hotel round 5
+ChatterBot Romeo round 5
+2024-10-14 17:43:46.480522 Delta: We should add India
+2024-10-14 17:43:46.489257 Alpha: No
+2024-10-14 17:43:46.489416 Lima: No
+2024-10-14 17:43:46.489537 Whiskey: No
+2024-10-14 17:43:46.489661 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:43:46.531654 India: Foxtrot, Uniform and Bravo, sending you 5
+2024-10-14 17:43:46.533035 Alpha: Lima, Delta and Romeo, sending you 4
+2024-10-14 17:43:46.533596 Lima: Same as last round
+2024-10-14 17:43:46.534661 India: Hotel, sending you 3
+2024-10-14 17:43:46.535722 Alpha: Whiskey, sending you 5
+2024-10-14 17:43:46.540685 Romeo: Alpha, Lima and Delta, sending you 3
+2024-10-14 17:43:46.542658 Foxtrot: India and Uniform, sending you 4
+2024-10-14 17:43:46.542989 Uniform: India, Foxtrot and Bravo, sending you 5
+2024-10-14 17:43:46.543729 Whiskey: Alpha and Romeo, sending you 4
+2024-10-14 17:43:46.544693 Romeo: Whiskey, sending you 4
+2024-10-14 17:43:46.547659 Foxtrot: Bravo, sending you 5
+2024-10-14 17:43:46.547989 Uniform: Hotel, sending you 4
+2024-10-14 17:43:46.548290 Whiskey: Lima and Delta, sending you 3
+2024-10-14 17:43:46.550703 Foxtrot: Hotel, sending you 3
+2024-10-14 17:43:46.552915 Bravo: India and Foxtrot, sending you 4
+2024-10-14 17:43:46.555670 Bravo: Uniform and Hotel, sending you 3
+2024-10-14 17:43:46.558686 Hotel: India and Foxtrot, sending you 2
+2024-10-14 17:43:46.563687 Hotel: Uniform and Bravo, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Alpha round 6
+ChatterBot India round 6
+ChatterBot Lima round 6
+ChatterBot Foxtrot round 6
+ChatterBot Uniform round 6
+ChatterBot Delta round 6
+ChatterBot Whiskey round 6
+ChatterBot Bravo round 6
+ChatterBot Hotel round 6
+ChatterBot Romeo round 6
+2024-10-14 17:43:47.627536 Delta: We should add Uniform
+2024-10-14 17:43:47.638087 Alpha: No
+2024-10-14 17:43:47.638284 Lima: No
+2024-10-14 17:43:47.638452 Whiskey: No
+2024-10-14 17:43:47.638601 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:43:47.685671 India: Foxtrot, Uniform and Bravo, sending you 5
+2024-10-14 17:43:47.688668 Uniform: India, Foxtrot and Bravo, sending you 5
+2024-10-14 17:43:47.689089 Alpha: Lima and Romeo, sending you 4
+2024-10-14 17:43:47.690355 India: Hotel, sending you 3
+2024-10-14 17:43:47.690839 Lima: Alpha and Whiskey, sending you 3
+2024-10-14 17:43:47.691669 Foxtrot: Uniform, sending you 1
+2024-10-14 17:43:47.692031 Foxtrot: I was attacked by Whiskey and Romeo
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:47.704002 Foxtrot: Ow
+2024-10-14 17:43:47.704928 Alpha: Delta, sending you 3
+2024-10-14 17:43:47.705443 Lima: Delta, sending you 2
+2024-10-14 17:43:47.705913 Whiskey: Alpha and Romeo, sending you 4
+2024-10-14 17:43:47.708674 Alpha: Whiskey, sending you 6
+2024-10-14 17:43:47.709064 Romeo: Alpha, Lima and Delta, sending you 3
+2024-10-14 17:43:47.709425 Lima: Romeo, sending you 4
+2024-10-14 17:43:47.710428 Whiskey: Lima and Delta, sending you 3
+2024-10-14 17:43:47.710835 Delta: Alpha, sending you 5
+2024-10-14 17:43:47.712695 Romeo: Whiskey, sending you 4
+2024-10-14 17:43:47.714668 Delta: Lima, Whiskey and Romeo, sending you 4
+2024-10-14 17:43:47.735679 Bravo: India, Uniform and Hotel, sending you 3
+2024-10-14 17:43:47.740654 Bravo: Foxtrot, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 7
+ChatterBot India round 7
+ChatterBot Lima round 7
+ChatterBot Foxtrot round 7
+ChatterBot Uniform round 7
+ChatterBot Delta round 7
+ChatterBot Whiskey round 7
+ChatterBot Bravo round 7
+ChatterBot Hotel round 7
+ChatterBot Romeo round 7
+2024-10-14 17:43:48.916526 Foxtrot: I was attacked by Whiskey and Romeo
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:48.926928 Foxtrot: Ow
+2024-10-14 17:43:48.927761 Whiskey: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:48.944903 Whiskey: I'm keeping this round to protect myself
+2024-10-14 17:43:48.946379 Whiskey: Ow
+2024-10-14 17:43:48.946910 Delta: We should add Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:48.963773 Alpha: No
+2024-10-14 17:43:48.964032 Lima: No
+2024-10-14 17:43:48.964253 Whiskey: No
+2024-10-14 17:43:48.964433 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:43:49.030654 Romeo: Alpha, Lima and Whiskey, sending you 5
+2024-10-14 17:43:49.033672 India: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:49.034319 Romeo: Delta, sending you 4
+2024-10-14 17:43:49.036673 India: Uniform and Bravo, sending you 5
+2024-10-14 17:43:49.039681 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:49.040669 Uniform: India, Foxtrot and Bravo, sending you 5
+2024-10-14 17:43:49.044670 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:49.045671 Uniform: Hotel, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Alpha round 8
+ChatterBot India round 8
+ChatterBot Lima round 8
+ChatterBot Foxtrot round 8
+ChatterBot Uniform round 8
+ChatterBot Delta round 8
+ChatterBot Whiskey round 8
+ChatterBot Bravo round 8
+ChatterBot Hotel round 8
+ChatterBot Romeo round 8
+2024-10-14 17:43:50.202684 Lima: Same as last round
+2024-10-14 17:43:50.204692 Uniform: India, Bravo and Hotel, sending you 5
+2024-10-14 17:43:50.205694 India: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:50.208684 Uniform: Foxtrot, sending you 4
+2024-10-14 17:43:50.210722 India: Uniform and Bravo, sending you 5
+2024-10-14 17:43:50.213708 Foxtrot: India, Uniform and Hotel, sending you 3
+2024-10-14 17:43:50.214711 Whiskey: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:43:50.225696 Whiskey: I'm keeping this round to protect myself
+2024-10-14 17:43:50.227123 Whiskey: Ow
+2024-10-14 17:43:50.227555 Foxtrot: Bravo, sending you 4
+2024-10-14 17:43:50.232652 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:50.238012 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:50.245669 Romeo: Alpha, Lima and Delta, sending you 5
+2024-10-14 17:43:50.249734 Romeo: Whiskey, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 9
+ChatterBot India round 9
+ChatterBot Lima round 9
+ChatterBot Foxtrot round 9
+ChatterBot Uniform round 9
+ChatterBot Delta round 9
+ChatterBot Whiskey round 9
+ChatterBot Bravo round 9
+ChatterBot Hotel round 9
+ChatterBot Romeo round 9
+2024-10-14 17:43:51.530662 Foxtrot: India, sending you 4
+2024-10-14 17:43:51.531681 India: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:51.533688 Foxtrot: Uniform and Hotel, sending you 3
+2024-10-14 17:43:51.534679 India: Uniform and Bravo, sending you 5
+2024-10-14 17:43:51.535651 Lima: Alpha and Delta, sending you 3
+2024-10-14 17:43:51.536682 Foxtrot: Bravo, sending you 5
+2024-10-14 17:43:51.537660 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:51.538710 Lima: Whiskey, sending you 2
+2024-10-14 17:43:51.543083 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:51.543646 Lima: Romeo, sending you 4
+2024-10-14 17:43:51.549670 Uniform: India, Bravo and Hotel, sending you 5
+2024-10-14 17:43:51.552650 Romeo: Alpha, Lima and Delta, sending you 2
+2024-10-14 17:43:51.553270 Uniform: Foxtrot, sending you 4
+2024-10-14 17:43:51.557004 Romeo: Whiskey, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 10
+ChatterBot India round 10
+ChatterBot Lima round 10
+ChatterBot Foxtrot round 10
+ChatterBot Uniform round 10
+ChatterBot Delta round 10
+ChatterBot Whiskey round 10
+ChatterBot Bravo round 10
+ChatterBot Hotel round 10
+ChatterBot Romeo round 10
+2024-10-14 17:43:52.763672 Foxtrot: I was attacked by Romeo
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:52.776552 Foxtrot: Ow
+2024-10-14 17:43:52.777445 Romeo: Alpha, Lima and Delta, sending you 3
+2024-10-14 17:43:52.780685 Romeo: Whiskey, sending you 1
+2024-10-14 17:43:52.781681 Lima: Alpha, sending you 4
+2024-10-14 17:43:52.785697 Lima: Delta and Romeo, sending you 3
+2024-10-14 17:43:52.788666 Lima: Whiskey, sending you 2
+2024-10-14 17:43:52.796663 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:52.800663 Uniform: India, Bravo and Hotel, sending you 5
+2024-10-14 17:43:52.801139 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:52.803677 India: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:52.805664 Uniform: Foxtrot, sending you 4
+2024-10-14 17:43:52.808673 India: Uniform and Bravo, sending you 5
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 11
+ChatterBot India round 11
+ChatterBot Lima round 11
+ChatterBot Foxtrot round 11
+ChatterBot Uniform round 11
+ChatterBot Delta round 11
+ChatterBot Whiskey round 11
+ChatterBot Bravo round 11
+ChatterBot Hotel round 11
+ChatterBot Romeo round 11
+2024-10-14 17:43:54.023424 Lima: We should drop Whiskey
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:43:54.032868 Alpha: No
+2024-10-14 17:43:54.033033 Delta: No
+2024-10-14 17:43:54.033155 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:43:54.071646 Lima: Alpha, sending you 4
+2024-10-14 17:43:54.072677 Foxtrot: I was attacked by Romeo
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:54.086424 Foxtrot: Ow
+2024-10-14 17:43:54.087527 Lima: Delta and Romeo, sending you 3
+2024-10-14 17:43:54.089678 Romeo: Alpha, Lima and Delta, sending you 5
+2024-10-14 17:43:54.091665 Lima: Whiskey, sending you 2
+2024-10-14 17:43:54.092658 Romeo: Whiskey, sending you 4
+2024-10-14 17:43:54.104675 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:54.107677 Bravo: Foxtrot and Hotel, sending you 4
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Alpha round 12
+ChatterBot India round 12
+ChatterBot Lima round 12
+ChatterBot Foxtrot round 12
+ChatterBot Uniform round 12
+ChatterBot Delta round 12
+ChatterBot Whiskey round 12
+ChatterBot Bravo round 12
+ChatterBot Hotel round 12
+ChatterBot Romeo round 12
+2024-10-14 17:43:55.231075 Romeo: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:55.247880 Romeo: I'm keeping this round to protect myself
+2024-10-14 17:43:55.249811 Romeo: Ow
+2024-10-14 17:43:55.254685 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:55.259816 Alpha: We should drop Lima
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:55.275778 Delta: No
+2024-10-14 17:43:55.276358 Whiskey: No
+2024-10-14 17:43:55.276676 Romeo: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:55.315871 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:55.338678 Whiskey: Delta and Romeo, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 13
+ChatterBot India round 13
+ChatterBot Lima round 13
+ChatterBot Foxtrot round 13
+ChatterBot Uniform round 13
+ChatterBot Delta round 13
+ChatterBot Whiskey round 13
+ChatterBot Bravo round 13
+ChatterBot Hotel round 13
+ChatterBot Romeo round 13
+2024-10-14 17:43:56.403688 Whiskey: Alpha, Lima and Delta, sending you 1
+2024-10-14 17:43:56.406068 Foxtrot: India and Uniform, sending you 2
+2024-10-14 17:43:56.407668 Romeo: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:56.419073 Romeo: I'm keeping this round to protect myself
+2024-10-14 17:43:56.420081 Romeo: Ow
+2024-10-14 17:43:56.420430 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:56.421009 Foxtrot: Bravo and Hotel, sending you 3
+2024-10-14 17:43:56.425669 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:56.443292 Whiskey: Alpha, Lima and Romeo, sending you 1
+2024-10-14 17:43:56.446656 Whiskey: Delta, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 14
+ChatterBot India round 14
+ChatterBot Lima round 14
+ChatterBot Foxtrot round 14
+ChatterBot Uniform round 14
+ChatterBot Delta round 14
+ChatterBot Whiskey round 14
+ChatterBot Bravo round 14
+ChatterBot Hotel round 14
+ChatterBot Romeo round 14
+2024-10-14 17:43:57.605069 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:57.608671 Foxtrot: Bravo, sending you 1
+2024-10-14 17:43:57.610685 Bravo: Foxtrot and Hotel, sending you 4
+2024-10-14 17:43:57.617686 Whiskey: Alpha, Delta and Romeo, sending you 1
+2024-10-14 17:43:57.620655 Whiskey: Lima, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 15
+ChatterBot India round 15
+ChatterBot Lima round 15
+ChatterBot Foxtrot round 15
+ChatterBot Uniform round 15
+ChatterBot Delta round 15
+ChatterBot Whiskey round 15
+ChatterBot Bravo round 15
+ChatterBot Hotel round 15
+ChatterBot Romeo round 15
+2024-10-14 17:43:58.732034 Delta: We should replace India with Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:43:58.751492 Alpha: No
+2024-10-14 17:43:58.752062 Lima: No
+2024-10-14 17:43:58.752511 Whiskey: No
+2024-10-14 17:43:58.753656 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:43:58.841684 Foxtrot: India and Uniform, sending you 2
+2024-10-14 17:43:58.844673 Romeo: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:58.857542 Romeo: I'm keeping this round to protect myself
+2024-10-14 17:43:58.858796 Romeo: Ow
+2024-10-14 17:43:58.859285 Foxtrot: Bravo and Hotel, sending you 3
+2024-10-14 17:43:58.865707 Bravo: India and Uniform, sending you 3
+2024-10-14 17:43:58.868139 Delta: Foxtrot we want you to join our group
+2024-10-14 17:43:58.872063 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:43:58.890570 Bravo: Foxtrot and Hotel, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Alpha round 16
+ChatterBot India round 16
+ChatterBot Lima round 16
+ChatterBot Foxtrot round 16
+ChatterBot Uniform round 16
+ChatterBot Delta round 16
+ChatterBot Whiskey round 16
+ChatterBot Bravo round 16
+ChatterBot Hotel round 16
+ChatterBot Romeo round 16
+2024-10-14 17:43:59.934975 Bravo: We should add Lima
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:43:59.990922 India: No
+2024-10-14 17:43:59.991207 Foxtrot: No
+2024-10-14 17:43:59.991431 Uniform: No
+2024-10-14 17:43:59.991633 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:00.136794 Foxtrot: We should drop Uniform
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:00.144863 India: No
+2024-10-14 17:44:00.146068 Bravo: No
+2024-10-14 17:44:00.146525 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:00.195642 Bravo: We should drop Foxtrot
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:00.209111 India: Yes
+2024-10-14 17:44:00.209300 Uniform: No
+2024-10-14 17:44:00.209607 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:00.258185 Foxtrot: India and Uniform, sending you 2
+2024-10-14 17:44:00.261688 Foxtrot: Bravo and Hotel, sending you 3
+2024-10-14 17:44:00.274671 Bravo: India and Uniform, sending you 3
+2024-10-14 17:44:00.277682 Bravo: Hotel, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 17
+ChatterBot India round 17
+ChatterBot Lima round 17
+ChatterBot Foxtrot round 17
+ChatterBot Uniform round 17
+ChatterBot Delta round 17
+ChatterBot Whiskey round 17
+ChatterBot Bravo round 17
+ChatterBot Hotel round 17
+ChatterBot Romeo round 17
+2024-10-14 17:44:01.314987 Delta: We should replace India with Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.331158 Alpha: No
+2024-10-14 17:44:01.331359 Lima: No
+2024-10-14 17:44:01.331526 Whiskey: No
+2024-10-14 17:44:01.331708 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.390402 India: We should drop Foxtrot
+2024-10-14 17:44:01.420232 Bravo: Yes
+2024-10-14 17:44:01.420449 Uniform: No
+2024-10-14 17:44:01.420630 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:01.546922 Foxtrot: We should drop Hotel
+ChatterBot India reevaluating
+2024-10-14 17:44:01.563719 Bravo: No
+2024-10-14 17:44:01.564076 India: No
+2024-10-14 17:44:01.564289 Uniform: No
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:01.618872 Delta: We should replace India with Bravo
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.645930 Alpha: No
+2024-10-14 17:44:01.646455 Lima: No
+2024-10-14 17:44:01.646806 Whiskey: No
+2024-10-14 17:44:01.647095 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.727790 Whiskey: We should drop Romeo
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:44:01.737810 Alpha: No
+2024-10-14 17:44:01.737934 Lima: Yes
+2024-10-14 17:44:01.738043 Delta: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:01.770082 Romeo: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.791234 Romeo: I'm keeping this round to protect myself
+2024-10-14 17:44:01.794786 Romeo: Ow
+2024-10-14 17:44:01.795098 Delta: We should replace India with Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.815007 Alpha: No
+2024-10-14 17:44:01.815180 Lima: No
+2024-10-14 17:44:01.815294 Whiskey: No
+2024-10-14 17:44:01.815430 Romeo: No
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:01.871384 Bravo: India and Uniform, sending you 3
+2024-10-14 17:44:01.876737 Bravo: Hotel, sending you 5
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Alpha round 18
+ChatterBot India round 18
+ChatterBot Lima round 18
+ChatterBot Foxtrot round 18
+ChatterBot Uniform round 18
+ChatterBot Delta round 18
+ChatterBot Whiskey round 18
+ChatterBot Bravo round 18
+ChatterBot Hotel round 18
+ChatterBot Romeo round 18
+2024-10-14 17:44:02.988373 Delta: We should group up
+ChatterBot India reevaluating
+2024-10-14 17:44:03.006190 India: Yes
+2024-10-14 17:44:03.006753 Uniform: No
+2024-10-14 17:44:03.007024 Bravo: No
+2024-10-14 17:44:03.007732 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:03.130963 Bravo: We should add Delta
+ChatterBot India reevaluating
+2024-10-14 17:44:03.153855 India: Yes
+2024-10-14 17:44:03.154219 Uniform: No
+2024-10-14 17:44:03.154618 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:03.224431 India: We should replace Foxtrot with Delta
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:03.239668 Bravo: No
+2024-10-14 17:44:03.239806 Uniform: No
+2024-10-14 17:44:03.239903 Hotel: No
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:03.271667 Uniform: We should drop Foxtrot
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:03.283312 Bravo: Yes
+2024-10-14 17:44:03.283448 India: Yes
+2024-10-14 17:44:03.283552 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:03.325691 India: Delta we want you to join our group
+2024-10-14 17:44:03.329731 Delta: Yes
+ChatterBot India reevaluating
+2024-10-14 17:44:03.354671 Foxtrot: India, sending you 1
+2024-10-14 17:44:03.355969 Bravo: India, sending you 2
+2024-10-14 17:44:03.358662 Foxtrot: Uniform and Hotel, sending you 3
+2024-10-14 17:44:03.360129 Bravo: Uniform, sending you 3
+2024-10-14 17:44:03.362680 Foxtrot: Bravo, sending you 4
+2024-10-14 17:44:03.364675 Bravo: Hotel, sending you 5
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 19
+ChatterBot India round 19
+ChatterBot Lima round 19
+ChatterBot Foxtrot round 19
+ChatterBot Uniform round 19
+ChatterBot Delta round 19
+ChatterBot Whiskey round 19
+ChatterBot Bravo round 19
+ChatterBot Hotel round 19
+ChatterBot Romeo round 19
+2024-10-14 17:44:04.448609 India: We should replace Foxtrot with Delta
+2024-10-14 17:44:04.469877 Bravo: No
+2024-10-14 17:44:04.470085 Uniform: No
+2024-10-14 17:44:04.470261 Hotel: No
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:04.506574 Bravo: We should add Delta
+2024-10-14 17:44:04.516496 India: Yes
+2024-10-14 17:44:04.517457 Uniform: No
+2024-10-14 17:44:04.517574 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:04.576746 Whiskey: We should replace Romeo with Foxtrot
+ChatterBot Alpha reevaluating
+2024-10-14 17:44:04.588081 Alpha: No
+2024-10-14 17:44:04.588267 Lima: No
+2024-10-14 17:44:04.588409 Delta: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 17:44:04.641605 India: Delta we want you to join our group
+2024-10-14 17:44:04.646114 Delta: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:04.663125 Hotel: We should drop Foxtrot
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:04.675296 Bravo: Yes
+2024-10-14 17:44:04.675526 India: Yes
+2024-10-14 17:44:04.675649 Uniform: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:04.711798 Foxtrot: I was attacked by Uniform
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:04.738445 Foxtrot: Ow
+2024-10-14 17:44:04.742454 Whiskey: We should drop Alpha and Romeo
+2024-10-14 17:44:04.755358 Lima: No
+2024-10-14 17:44:04.755601 Delta: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:04.788724 Romeo: I was attacked by Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:04.818875 Romeo: I'm keeping this round to protect myself
+2024-10-14 17:44:04.821364 Romeo: Ow
+2024-10-14 17:44:04.830410 Whiskey: We should drop Delta and Romeo
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:04.842635 Alpha: No
+2024-10-14 17:44:04.842847 Lima: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 17:44:04.887938 Bravo: India, sending you 2
+2024-10-14 17:44:04.889793 Whiskey: We should drop Romeo
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:44:04.904820 Alpha: No
+2024-10-14 17:44:04.904976 Lima: No
+2024-10-14 17:44:04.905111 Delta: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:04.956546 Bravo: Uniform, sending you 3
+2024-10-14 17:44:04.968265 Bravo: Hotel, sending you 5
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 20
+ChatterBot India round 20
+ChatterBot Lima round 20
+ChatterBot Foxtrot round 20
+ChatterBot Uniform round 20
+ChatterBot Delta round 20
+ChatterBot Whiskey round 20
+ChatterBot Bravo round 20
+ChatterBot Hotel round 20
+2024-10-14 17:44:06.064366 India: We should replace Foxtrot with Delta
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:06.089099 Bravo: Yes
+2024-10-14 17:44:06.089288 Uniform: No
+2024-10-14 17:44:06.089452 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo round 20
+2024-10-14 17:44:06.188326 Bravo: We should add Delta
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:06.208098 India: Yes
+2024-10-14 17:44:06.208252 Uniform: No
+2024-10-14 17:44:06.208392 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:06.250596 Alpha: We should drop Whiskey
+ChatterBot Lima reevaluating
+2024-10-14 17:44:06.260915 Lima: Yes
+2024-10-14 17:44:06.261078 Delta: Yes
+2024-10-14 17:44:06.261196 Romeo: No
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 17:44:06.307095 India: Delta we want you to join our group
+2024-10-14 17:44:06.310405 Delta: Yes
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 17:44:06.324030 Hotel: Delta we want you to join our group
+2024-10-14 17:44:06.327118 Delta: Yes
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:06.342600 Uniform: We should drop Foxtrot
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:06.352003 Bravo: Yes
+2024-10-14 17:44:06.352830 India: Yes
+2024-10-14 17:44:06.352942 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:06.410654 Bravo: India, sending you 2
+2024-10-14 17:44:06.413660 Bravo: Uniform, sending you 3
+2024-10-14 17:44:06.417647 Bravo: Hotel, sending you 5
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 21
+ChatterBot India round 21
+ChatterBot Lima round 21
+ChatterBot Foxtrot round 21
+ChatterBot Uniform round 21
+ChatterBot Delta round 21
+ChatterBot Whiskey round 21
+ChatterBot Bravo round 21
+ChatterBot Hotel round 21
+ChatterBot Romeo round 21
+2024-10-14 17:44:07.599357 Bravo: We should add Delta
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.612359 India: Yes
+2024-10-14 17:44:07.612528 Uniform: No
+2024-10-14 17:44:07.612674 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.658119 India: We should replace Foxtrot with Delta
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.668720 Bravo: Yes
+2024-10-14 17:44:07.668861 Uniform: No
+2024-10-14 17:44:07.668955 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.712144 Uniform: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.722247 Bravo: Yes
+2024-10-14 17:44:07.722431 India: Yes
+2024-10-14 17:44:07.722533 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.748667 Bravo: Delta we want you to join our group
+2024-10-14 17:44:07.751813 Delta: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.764401 Romeo: We should drop Whiskey
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 17:44:07.772818 Lima: Yes
+2024-10-14 17:44:07.773004 Alpha: Yes
+2024-10-14 17:44:07.773110 Delta: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:44:07.798172 India: Delta we want you to join our group
+2024-10-14 17:44:07.800752 Delta: Yes
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.811793 Whiskey: We should drop Delta
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:44:07.820231 Alpha: No
+2024-10-14 17:44:07.820355 Lima: No
+2024-10-14 17:44:07.820445 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:44:07.847311 Hotel: Delta we want you to join our group
+2024-10-14 17:44:07.850784 Delta: Yes
+2024-10-14 17:44:07.865655 Foxtrot: India and Hotel, sending you 2
+2024-10-14 17:44:07.866682 Bravo: India and Delta, sending you 2
+2024-10-14 17:44:07.869662 Foxtrot: Uniform, sending you 1
+2024-10-14 17:44:07.870324 Bravo: Uniform, sending you 3
+2024-10-14 17:44:07.872659 Foxtrot: Bravo, sending you 3
+2024-10-14 17:44:07.873344 Foxtrot: I was attacked by Uniform
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:07.895869 Foxtrot: Ow
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 22
+ChatterBot India round 22
+ChatterBot Lima round 22
+ChatterBot Foxtrot round 22
+ChatterBot Uniform round 22
+ChatterBot Delta round 22
+ChatterBot Whiskey round 22
+ChatterBot Bravo round 22
+ChatterBot Hotel round 22
+ChatterBot Romeo round 22
+2024-10-14 17:44:09.002600 India: We should replace Foxtrot with Delta
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:09.014859 Bravo: Yes
+2024-10-14 17:44:09.015344 Uniform: No
+2024-10-14 17:44:09.015496 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:09.079071 Lima: We should drop Alpha and Whiskey
+2024-10-14 17:44:09.086797 Delta: Yes
+2024-10-14 17:44:09.086944 Romeo: Yes
+2024-10-14 17:44:09.101110 India: Delta we want you to join our group
+2024-10-14 17:44:09.104976 Delta: Yes
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:09.118237 Whiskey: We should drop Alpha
+2024-10-14 17:44:09.129267 Lima: Yes
+2024-10-14 17:44:09.129438 Delta: Yes
+2024-10-14 17:44:09.129533 Romeo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:44:09.166777 Uniform: We should drop Foxtrot
+ChatterBot India reevaluating
+2024-10-14 17:44:09.178197 Bravo: Yes
+2024-10-14 17:44:09.178377 India: Yes
+2024-10-14 17:44:09.178496 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:44:09.207015 Hotel: Delta we want you to join our group
+2024-10-14 17:44:09.211498 Delta: Yes
+ChatterBot India reevaluating
+2024-10-14 17:44:09.225862 Foxtrot: India, Uniform and Hotel, sending you 1
+2024-10-14 17:44:09.228680 Foxtrot: Bravo, sending you 2
+2024-10-14 17:44:09.229353 Foxtrot: I was attacked by Uniform
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:09.244814 Foxtrot: Ow
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Alpha round 23
+ChatterBot India round 23
+ChatterBot Lima round 23
+ChatterBot Foxtrot round 23
+ChatterBot Uniform round 23
+ChatterBot Delta round 23
+ChatterBot Whiskey round 23
+ChatterBot Bravo round 23
+ChatterBot Hotel round 23
+ChatterBot Romeo round 23
+2024-10-14 17:44:10.253300 Uniform: We should replace Foxtrot with Delta
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:10.273964 Bravo: Yes
+2024-10-14 17:44:10.274292 India: Yes
+2024-10-14 17:44:10.275680 Hotel: Yes
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:10.380672 Foxtrot: Friends?
+ChatterBot Delta reevaluating
+2024-10-14 17:44:10.386357 Delta: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:10.418453 Lima: We should drop Alpha and Whiskey
+ChatterBot Delta reevaluating
+2024-10-14 17:44:10.430002 Delta: Yes
+2024-10-14 17:44:10.430170 Romeo: Yes
+ChatterBot Delta reevaluating
+2024-10-14 17:44:10.452335 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:10.457469 Delta: No
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:44:10.500098 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:10.507915 Delta: No
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:10.530153 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:10.539074 Delta: No
+ChatterBot Uniform reevaluating
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Alpha round 24
+ChatterBot India round 24
+ChatterBot Lima round 24
+ChatterBot Foxtrot round 24
+ChatterBot Uniform round 24
+ChatterBot Delta round 24
+ChatterBot Whiskey round 24
+ChatterBot Bravo round 24
+ChatterBot Hotel round 24
+ChatterBot Romeo round 24
+2024-10-14 17:44:11.680243 India: We should replace Foxtrot with Delta
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:11.703954 Bravo: Yes
+2024-10-14 17:44:11.704288 Uniform: Yes
+2024-10-14 17:44:11.705203 Hotel: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:11.795094 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:11.805082 Delta: No
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:11.822717 Lima: We should drop Alpha and Whiskey
+ChatterBot Delta reevaluating
+2024-10-14 17:44:11.834127 Delta: Yes
+2024-10-14 17:44:11.834262 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:44:11.854836 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:11.860610 Delta: No
+ChatterBot Uniform reevaluating
+2024-10-14 17:44:11.889671 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:11.898547 Delta: No
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Alpha round 25
+ChatterBot India round 25
+ChatterBot Lima round 25
+ChatterBot Foxtrot round 25
+ChatterBot Uniform round 25
+ChatterBot Delta round 25
+ChatterBot Whiskey round 25
+ChatterBot Bravo round 25
+ChatterBot Hotel round 25
+ChatterBot Romeo round 25
+2024-10-14 17:44:13.242932 India: We should replace Foxtrot with Delta
+2024-10-14 17:44:13.266529 Bravo: Yes
+2024-10-14 17:44:13.266920 Uniform: Yes
+2024-10-14 17:44:13.267996 Hotel: Yes
+2024-10-14 17:44:13.376710 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:13.384944 Delta: No
+2024-10-14 17:44:13.402853 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:13.409766 Delta: No
+2024-10-14 17:44:13.429675 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:13.438632 Delta: No
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 26
+ChatterBot India round 26
+ChatterBot Lima round 26
+ChatterBot Foxtrot round 26
+ChatterBot Uniform round 26
+ChatterBot Delta round 26
+ChatterBot Whiskey round 26
+ChatterBot Bravo round 26
+ChatterBot Hotel round 26
+ChatterBot Romeo round 26
+2024-10-14 17:44:14.822250 India: We should replace Foxtrot with Delta
+2024-10-14 17:44:14.844267 Bravo: Yes
+2024-10-14 17:44:14.845188 Uniform: Yes
+2024-10-14 17:44:14.845430 Hotel: Yes
+2024-10-14 17:44:14.927975 Foxtrot: We should replace Delta with Lima
+2024-10-14 17:44:14.960949 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:14.968856 Delta: No
+2024-10-14 17:44:14.990799 Foxtrot: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 17:44:14.999211 Lima: No
+2024-10-14 17:44:15.003805 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:15.011318 Delta: No
+2024-10-14 17:44:15.034050 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:15.043919 Delta: No
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Alpha round 27
+ChatterBot India round 27
+ChatterBot Lima round 27
+ChatterBot Foxtrot round 27
+ChatterBot Uniform round 27
+ChatterBot Delta round 27
+ChatterBot Whiskey round 27
+ChatterBot Bravo round 27
+ChatterBot Hotel round 27
+ChatterBot Romeo round 27
+2024-10-14 17:44:16.291549 India: We should replace Foxtrot with Delta
+2024-10-14 17:44:16.320864 Bravo: Yes
+2024-10-14 17:44:16.321198 Uniform: Yes
+2024-10-14 17:44:16.321829 Hotel: Yes
+2024-10-14 17:44:16.428586 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:16.436739 Delta: No
+2024-10-14 17:44:16.461108 Romeo: We should drop Delta
+ChatterBot Lima reevaluating
+2024-10-14 17:44:16.468813 Lima: Yes
+2024-10-14 17:44:16.473992 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:16.481384 Delta: No
+2024-10-14 17:44:16.499272 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:16.506186 Delta: No
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Alpha round 28
+ChatterBot India round 28
+ChatterBot Lima round 28
+ChatterBot Foxtrot round 28
+ChatterBot Uniform round 28
+ChatterBot Delta round 28
+ChatterBot Whiskey round 28
+ChatterBot Bravo round 28
+ChatterBot Hotel round 28
+ChatterBot Romeo round 28
+2024-10-14 17:44:17.817476 Foxtrot: We should replace Lima with Delta
+2024-10-14 17:44:17.822730 Uniform: We should replace Foxtrot with Delta
+2024-10-14 17:44:17.835 Bravo: Yes
+2024-10-14 17:44:17.835185 India: Yes
+2024-10-14 17:44:17.835361 Hotel: Yes
+2024-10-14 17:44:17.895893 Foxtrot: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:17.900336 Delta: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:44:17.904426 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:17.909839 Delta: No
+2024-10-14 17:44:17.924171 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:17.928433 Delta: No
+2024-10-14 17:44:17.941366 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:17.945454 Delta: No
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 29
+ChatterBot India round 29
+ChatterBot Lima round 29
+ChatterBot Foxtrot round 29
+ChatterBot Uniform round 29
+ChatterBot Delta round 29
+ChatterBot Whiskey round 29
+ChatterBot Bravo round 29
+ChatterBot Hotel round 29
+ChatterBot Romeo round 29
+2024-10-14 17:44:19.124759 India: We should replace Foxtrot with Delta
+2024-10-14 17:44:19.135930 Bravo: Yes
+2024-10-14 17:44:19.136124 Uniform: Yes
+2024-10-14 17:44:19.136260 Hotel: Yes
+2024-10-14 17:44:19.195492 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:19.199690 Delta: No
+2024-10-14 17:44:19.212361 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:19.215838 Delta: No
+2024-10-14 17:44:19.227971 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:19.231162 Delta: No
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+ChatterBot Alpha round 30
+ChatterBot India round 30
+ChatterBot Lima round 30
+ChatterBot Foxtrot round 30
+ChatterBot Uniform round 30
+ChatterBot Delta round 30
+ChatterBot Whiskey round 30
+ChatterBot Bravo round 30
+ChatterBot Hotel round 30
+ChatterBot Romeo round 30
+2024-10-14 17:44:20.310883 India: We should replace Foxtrot with Delta
+2024-10-14 17:44:20.326250 Bravo: Yes
+2024-10-14 17:44:20.326475 Uniform: Yes
+2024-10-14 17:44:20.326653 Hotel: Yes
+2024-10-14 17:44:20.384828 India: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:20.389229 Delta: No
+2024-10-14 17:44:20.401589 Uniform: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:20.405494 Delta: No
+2024-10-14 17:44:20.418089 Hotel: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 17:44:20.421597 Delta: No
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions

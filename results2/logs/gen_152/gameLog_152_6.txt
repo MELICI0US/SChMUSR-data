@@ -1,0 +1,4711 @@
+ChatterBot Foxtrot round 1
+ChatterBot Zulu round 1
+ChatterBot Alpha round 1
+ChatterBot Hotel round 1
+ChatterBot Echo round 1
+ChatterBot India round 1
+ChatterBot Whiskey round 1
+ChatterBot Oscar round 1
+ChatterBot Papa round 1
+ChatterBot Charlie round 1
+randomSelections Foxtrot: {Foxtrot, India, Hotel} 
+2024-10-14 19:07:29.668102 Foxtrot: Friends?
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:29.689381 India: Yes
+2024-10-14 19:07:29.689641 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+randomSelections Oscar: {Oscar, Charlie, Hotel, Foxtrot, Echo, Whiskey} 
+2024-10-14 19:07:29.708392 Oscar: Friends?
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:29.721885 Charlie: Yes
+2024-10-14 19:07:29.722024 Hotel: No
+2024-10-14 19:07:29.722196 Foxtrot: No
+2024-10-14 19:07:29.722317 Echo: Yes
+2024-10-14 19:07:29.722424 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+randomSelections Alpha: {Alpha, Foxtrot, India, Hotel, Oscar, Echo} 
+2024-10-14 19:07:29.764872 Alpha: We should group up
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:29.771619 Foxtrot: No
+2024-10-14 19:07:29.771758 India: No
+2024-10-14 19:07:29.771863 Hotel: No
+2024-10-14 19:07:29.771960 Oscar: No
+2024-10-14 19:07:29.772052 Echo: No
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+randomSelections Zulu: {Zulu, Whiskey, Papa, Oscar, Echo, Alpha} 
+2024-10-14 19:07:29.815551 Zulu: Let's form a team
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:29.823289 Whiskey: No
+2024-10-14 19:07:29.823456 Papa: Yes
+2024-10-14 19:07:29.823912 Oscar: No
+2024-10-14 19:07:29.824031 Echo: No
+2024-10-14 19:07:29.824152 Alpha: No
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:29.955444 Zulu: Alpha, sending you 1
+2024-10-14 19:07:29.957152 Hotel: Sending you each 6
+2024-10-14 19:07:29.958016 Echo: Foxtrot and Whiskey, sending you 3
+2024-10-14 19:07:29.959479 Oscar: Foxtrot and Hotel, sending you 3
+2024-10-14 19:07:29.961458 Alpha: Foxtrot, sending you 6
+2024-10-14 19:07:29.962802 Whiskey: Foxtrot, sending you 4
+2024-10-14 19:07:29.964421 Foxtrot: Hotel, sending you 8
+2024-10-14 19:07:29.965315 Zulu: Echo, sending you 4
+2024-10-14 19:07:29.966862 Echo: Hotel, sending you 1
+2024-10-14 19:07:29.968579 India: Foxtrot, sending you 10
+2024-10-14 19:07:29.969197 Papa: Zulu, sending you 3
+2024-10-14 19:07:29.970039 Oscar: Echo, sending you 5
+2024-10-14 19:07:29.971121 Alpha: Hotel and Echo, sending you 1
+2024-10-14 19:07:29.972072 Charlie: Hotel, Echo and Oscar, sending you 1
+2024-10-14 19:07:29.973443 Whiskey: Hotel and Charlie, sending you 2
+2024-10-14 19:07:29.974081 Foxtrot: India, sending you 6
+2024-10-14 19:07:29.974726 Zulu: Whiskey and Oscar, sending you 3
+2024-10-14 19:07:29.976110 Echo: Oscar, sending you 6
+2024-10-14 19:07:29.976928 India: Hotel, sending you 7
+2024-10-14 19:07:29.977812 Oscar: Whiskey, sending you 2
+2024-10-14 19:07:29.978765 Papa: Alpha, sending you 6
+2024-10-14 19:07:29.980072 Alpha: India and Oscar, sending you 2
+2024-10-14 19:07:29.981009 Charlie: Whiskey, sending you 3
+2024-10-14 19:07:29.982697 Whiskey: Echo and Oscar, sending you 5
+2024-10-14 19:07:29.984523 Zulu: Papa, sending you 2
+2024-10-14 19:07:29.985412 Echo: Charlie, sending you 4
+2024-10-14 19:07:29.987038 Oscar: Charlie, sending you 4
+2024-10-14 19:07:29.987927 Papa: Whiskey and Oscar, sending you 4
+chatterbot India submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 2
+ChatterBot Zulu round 2
+ChatterBot Alpha round 2
+ChatterBot Hotel round 2
+ChatterBot Echo round 2
+2024-10-14 19:07:31.176157 Alpha: Let's form a team
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:31.220546 Zulu: No
+2024-10-14 19:07:31.221143 Papa: No
+2024-10-14 19:07:31.221304 Whiskey: No
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:31.326932 Papa: We should group up
+ChatterBot Zulu reevaluating
+2024-10-14 19:07:31.334263 Zulu: Yes
+ChatterBot Papa reevaluating
+ChatterBot India round 2
+2024-10-14 19:07:31.362600 Foxtrot: We should add Alpha
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:31.373973 India: Yes
+2024-10-14 19:07:31.374218 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey round 2
+ChatterBot Oscar round 2
+ChatterBot Papa round 2
+ChatterBot Charlie round 2
+2024-10-14 19:07:31.410275 Hotel: Let's form a team
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:31.443892 Foxtrot: Yes
+2024-10-14 19:07:31.444073 India: No
+2024-10-14 19:07:31.444214 Echo: No
+2024-10-14 19:07:31.444385 Whiskey: No
+2024-10-14 19:07:31.444547 Oscar: No
+2024-10-14 19:07:31.445128 Charlie: No
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:07:31.615658 India: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:31.619047 Alpha: No
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:07:31.629399 Alpha: We should group up
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:31.648070 Whiskey: Yes
+2024-10-14 19:07:31.648304 Echo: Yes
+2024-10-14 19:07:31.648461 Oscar: Yes
+2024-10-14 19:07:31.649125 Charlie: No
+2024-10-14 19:07:31.649242 Zulu: No
+2024-10-14 19:07:31.649359 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:32.163513 Zulu: Sending you 9
+2024-10-14 19:07:32.163911 Oscar: Zulu, Alpha, Echo, Whiskey and Papa, sending you 3
+chatterbot Alpha submitting transactions
+2024-10-14 19:07:32.698092 Oscar: Charlie, sending you 2
+2024-10-14 19:07:32.702227 Papa: Zulu, sending you 11
+2024-10-14 19:07:32.704128 Whiskey: Zulu, Echo, Papa and Charlie, sending you 4
+2024-10-14 19:07:32.705377 Foxtrot: Hotel, sending you 4
+2024-10-14 19:07:32.706412 Hotel: Foxtrot, Echo, India, Whiskey and Oscar, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 19:07:32.710109 Papa: Alpha, sending you 6
+2024-10-14 19:07:32.710550 Whiskey: Oscar, sending you 1
+2024-10-14 19:07:32.711768 Foxtrot: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:32.713459 Echo: Zulu, sending you 3
+2024-10-14 19:07:32.715390 Alpha: Zulu, sending you 3
+2024-10-14 19:07:32.716621 Hotel: Charlie, sending you 2
+2024-10-14 19:07:32.717286 Charlie: Echo and Oscar, sending you 7
+2024-10-14 19:07:32.718526 India: Foxtrot, sending you 7
+2024-10-14 19:07:32.719226 Foxtrot: India, sending you 5
+2024-10-14 19:07:32.720291 Echo: Alpha, Papa and Charlie, sending you 2
+2024-10-14 19:07:32.721438 Alpha: Echo, Whiskey and Oscar, sending you 2
+2024-10-14 19:07:33.054907 Charlie: Whiskey, sending you 4
+2024-10-14 19:07:33.055752 India: Alpha, sending you 5
+2024-10-14 19:07:33.056045 Foxtrot: Charlie, sending you 1
+2024-10-14 19:07:33.056383 Echo: Whiskey and Oscar, sending you 4
+2024-10-14 19:07:33.056749 Alpha: Papa, sending you 7
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 19:07:33.070235 India: Hotel, sending you 6
+ChatterBot Foxtrot round 3
+ChatterBot Zulu round 3
+ChatterBot Alpha round 3
+ChatterBot Hotel round 3
+ChatterBot Echo round 3
+ChatterBot India round 3
+ChatterBot Whiskey round 3
+ChatterBot Oscar round 3
+ChatterBot Papa round 3
+ChatterBot Charlie round 3
+2024-10-14 19:07:33.479157 Whiskey: We should drop Zulu
+ChatterBot Echo reevaluating
+2024-10-14 19:07:33.516685 Echo: No
+2024-10-14 19:07:33.517064 Oscar: No
+2024-10-14 19:07:33.517454 Charlie: Yes
+2024-10-14 19:07:33.517833 Alpha: No
+2024-10-14 19:07:33.518577 Papa: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:33.712442 Zulu: Alpha, Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:33.713721 Oscar: Zulu, sending you 2
+2024-10-14 19:07:33.714116 Foxtrot: Hotel, sending you 4
+2024-10-14 19:07:33.714520 India: Foxtrot, sending you 7
+2024-10-14 19:07:33.715314 Hotel: Foxtrot, India, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:33.715845 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:33.716233 Alpha: Zulu, Echo and Whiskey, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 19:07:33.717575 Zulu: Papa, sending you 4
+2024-10-14 19:07:33.717981 Oscar: Alpha, Echo, Whiskey, Papa and Charlie, sending you 3
+2024-10-14 19:07:33.732406 Foxtrot: Echo, Oscar and Charlie, sending you 2
+2024-10-14 19:07:33.732918 India: Alpha, sending you 5
+2024-10-14 19:07:33.733650 Hotel: Echo, sending you 2
+2024-10-14 19:07:33.733991 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:33.734363 Alpha: Oscar, sending you 3
+2024-10-14 19:07:33.735245 Zulu: Charlie, sending you 2
+2024-10-14 19:07:33.833196 Foxtrot: India, sending you 6
+2024-10-14 19:07:33.833746 India: Hotel, sending you 6
+2024-10-14 19:07:33.834128 Alpha: Papa, sending you 6
+2024-10-14 19:07:33.834961 Echo: Zulu, Alpha and Papa, sending you 2
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:07:33.911783 Foxtrot: Whiskey, sending you 3
+2024-10-14 19:07:33.912852 Charlie: Foxtrot, sending you 1
+2024-10-14 19:07:33.913392 Alpha: Charlie, sending you 1
+2024-10-14 19:07:33.914339 Echo: Whiskey and Charlie, sending you 4
+2024-10-14 19:07:33.914834 Whiskey: Alpha and Papa, sending you 2
+2024-10-14 19:07:33.950197 Charlie: Hotel, sending you 2
+2024-10-14 19:07:33.951233 Echo: Oscar, sending you 3
+2024-10-14 19:07:33.951689 Whiskey: Echo and Charlie, sending you 5
+2024-10-14 19:07:33.988474 Charlie: Echo, Whiskey and Oscar, sending you 5
+2024-10-14 19:07:33.989395 Whiskey: Oscar, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Foxtrot round 4
+ChatterBot Zulu round 4
+ChatterBot Alpha round 4
+ChatterBot Hotel round 4
+ChatterBot Echo round 4
+ChatterBot India round 4
+ChatterBot Whiskey round 4
+ChatterBot Oscar round 4
+ChatterBot Papa round 4
+ChatterBot Charlie round 4
+2024-10-14 19:07:34.825034 Echo: We should add Hotel
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:34.867491 Whiskey: Yes
+2024-10-14 19:07:34.867886 Oscar: Yes
+2024-10-14 19:07:34.868201 Charlie: No
+2024-10-14 19:07:34.868459 Zulu: No
+2024-10-14 19:07:34.869161 Alpha: No
+2024-10-14 19:07:34.869473 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:35.106371 Echo: Hotel we want you to join our group
+2024-10-14 19:07:35.110957 Hotel: No
+ChatterBot Echo reevaluating
+2024-10-14 19:07:35.139079 Hotel: Foxtrot, India, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:35.139524 Foxtrot: Hotel, sending you 4
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:07:35.766480 Charlie: Foxtrot, sending you 2
+2024-10-14 19:07:35.767106 Zulu: Alpha, Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:35.768249 Hotel: Echo, sending you 2
+2024-10-14 19:07:35.768787 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:35.769785 Oscar: Zulu, sending you 2
+2024-10-14 19:07:35.770676 Whiskey: Foxtrot, sending you 3
+2024-10-14 19:07:35.771697 Alpha: Zulu, Whiskey and Charlie, sending you 2
+2024-10-14 19:07:35.773070 India: Foxtrot, sending you 7
+2024-10-14 19:07:35.773549 Foxtrot: Echo, Whiskey, Oscar and Charlie, sending you 2
+chatterbot Zulu submitting transactions
+2024-10-14 19:07:35.774927 Charlie: Hotel, sending you 3
+2024-10-14 19:07:35.775573 Zulu: Papa, sending you 4
+2024-10-14 19:07:35.777027 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:35.777714 Oscar: Alpha, Echo, Whiskey, Papa and Charlie, sending you 3
+2024-10-14 19:07:35.778749 Whiskey: Echo, sending you 5
+2024-10-14 19:07:35.779143 Alpha: Echo and Oscar, sending you 3
+2024-10-14 19:07:35.780605 India: Alpha, sending you 5
+2024-10-14 19:07:35.781127 Foxtrot: India, sending you 7
+2024-10-14 19:07:35.782309 Charlie: Echo and Oscar, sending you 4
+2024-10-14 19:07:35.783174 Zulu: Charlie, sending you 2
+2024-10-14 19:07:35.784709 Whiskey: Oscar and Charlie, sending you 4
+2024-10-14 19:07:35.785152 Alpha: Papa, sending you 4
+2024-10-14 19:07:35.786358 India: Hotel, sending you 6
+2024-10-14 19:07:35.788052 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:35.788478 Echo: Zulu, Oscar and Charlie, sending you 3
+2024-10-14 19:07:35.816195 Echo: Alpha and Papa, sending you 2
+2024-10-14 19:07:35.822981 Echo: Whiskey, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Foxtrot round 5
+ChatterBot Zulu round 5
+ChatterBot Alpha round 5
+ChatterBot Hotel round 5
+ChatterBot Echo round 5
+ChatterBot India round 5
+ChatterBot Whiskey round 5
+ChatterBot Oscar round 5
+ChatterBot Papa round 5
+ChatterBot Charlie round 5
+2024-10-14 19:07:36.792028 Oscar: Friends?
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 19:07:36.914543 Zulu: No
+2024-10-14 19:07:36.915042 Alpha: No
+2024-10-14 19:07:36.916236 Papa: No
+2024-10-14 19:07:36.916533 Echo: No
+2024-10-14 19:07:36.916841 Whiskey: No
+2024-10-14 19:07:36.917092 Charlie: No
+2024-10-14 19:07:36.917324 Foxtrot: No
+2024-10-14 19:07:36.917497 Hotel: No
+2024-10-14 19:07:36.918333 India: No
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:07:37.276682 Hotel: Foxtrot, India, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:37.280676 Hotel: Echo, sending you 2
+2024-10-14 19:07:37.281685 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:37.284686 India: Foxtrot, sending you 6
+2024-10-14 19:07:37.286698 Oscar: India, sending you 1
+2024-10-14 19:07:37.287864 Whiskey: Alpha, sending you 1
+2024-10-14 19:07:37.288696 Zulu: Alpha, Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:37.289666 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:37.290747 India: Hotel, sending you 4
+2024-10-14 19:07:37.291252 Whiskey: Echo, sending you 5
+2024-10-14 19:07:37.291717 Zulu: Papa, sending you 4
+2024-10-14 19:07:37.292687 Charlie: Foxtrot, sending you 2
+2024-10-14 19:07:37.293793 Alpha: Zulu, Echo and Oscar, sending you 3
+2024-10-14 19:07:37.294470 Foxtrot: Hotel, sending you 4
+2024-10-14 19:07:37.295058 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:37.295662 India: Echo, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:37.296127 Whiskey: Oscar and Charlie, sending you 4
+2024-10-14 19:07:37.296491 Echo: Zulu, Oscar and Charlie, sending you 3
+2024-10-14 19:07:37.297417 Zulu: Charlie, sending you 2
+2024-10-14 19:07:37.297914 Charlie: Hotel, sending you 3
+2024-10-14 19:07:37.298344 Alpha: Whiskey, sending you 2
+2024-10-14 19:07:37.298750 Foxtrot: Echo, Oscar and Charlie, sending you 2
+2024-10-14 19:07:37.299685 Whiskey: Papa, sending you 3
+2024-10-14 19:07:37.301678 Echo: Alpha and Papa, sending you 2
+2024-10-14 19:07:37.302303 Charlie: Echo and Oscar, sending you 4
+2024-10-14 19:07:37.303292 Alpha: Papa, sending you 4
+2024-10-14 19:07:37.303850 Foxtrot: India, sending you 6
+2024-10-14 19:07:37.306089 Echo: Whiskey, sending you 4
+2024-10-14 19:07:37.306701 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:37.307669 Alpha: Charlie, sending you 1
+2024-10-14 19:07:37.309089 Foxtrot: Whiskey, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Foxtrot round 6
+ChatterBot Zulu round 6
+ChatterBot Alpha round 6
+ChatterBot Hotel round 6
+ChatterBot Echo round 6
+ChatterBot India round 6
+ChatterBot Whiskey round 6
+ChatterBot Oscar round 6
+ChatterBot Papa round 6
+ChatterBot Charlie round 6
+2024-10-14 19:07:38.454162 Hotel: Let's form a team
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+2024-10-14 19:07:38.482783 Oscar: No
+2024-10-14 19:07:38.482949 Zulu: No
+2024-10-14 19:07:38.483078 Alpha: No
+2024-10-14 19:07:38.483205 Papa: No
+2024-10-14 19:07:38.483324 Echo: No
+2024-10-14 19:07:38.483442 Whiskey: No
+2024-10-14 19:07:38.483951 Charlie: No
+2024-10-14 19:07:38.484102 Foxtrot: No
+2024-10-14 19:07:38.484216 India: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:38.826456 Whiskey: We should replace Alpha with Zulu
+ChatterBot Oscar reevaluating
+2024-10-14 19:07:38.837200 Echo: No
+2024-10-14 19:07:38.837450 Oscar: No
+2024-10-14 19:07:38.837736 Papa: No
+2024-10-14 19:07:38.838650 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:07:38.895195 Alpha: Zulu, Echo and Oscar, sending you 3
+2024-10-14 19:07:38.897472 Foxtrot: Hotel, sending you 8
+2024-10-14 19:07:38.898035 Hotel: Foxtrot, Zulu, Alpha, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:38.900429 Whiskey: Zulu we want you to join our group
+2024-10-14 19:07:38.905445 Zulu: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:38.924794 Whiskey: We should replace Papa with Zulu
+2024-10-14 19:07:38.945406 Charlie: No
+2024-10-14 19:07:38.945684 Echo: No
+2024-10-14 19:07:38.945915 Oscar: No
+2024-10-14 19:07:38.946129 Alpha: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:39.011476 Foxtrot: India, sending you 7
+2024-10-14 19:07:39.012068 Alpha: Whiskey, sending you 2
+2024-10-14 19:07:39.013395 Hotel: Papa, sending you 1
+2024-10-14 19:07:39.014716 Charlie: Foxtrot and Hotel, sending you 2
+chatterbot Alpha submitting transactions
+2024-10-14 19:07:39.016304 Zulu: Alpha, Echo, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:39.017108 Alpha: Papa, sending you 4
+2024-10-14 19:07:39.018466 Echo: Zulu, Alpha and Papa, sending you 2
+2024-10-14 19:07:39.019179 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:39.020257 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:39.021748 Charlie: Zulu, Alpha and India, sending you 1
+2024-10-14 19:07:39.022492 India: Foxtrot, sending you 4
+2024-10-14 19:07:39.023819 Alpha: Charlie, sending you 1
+2024-10-14 19:07:39.026085 Zulu: Papa, sending you 4
+2024-10-14 19:07:39.027423 Echo: Whiskey, sending you 5
+2024-10-14 19:07:39.028745 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:39.029458 Oscar: India, sending you 1
+2024-10-14 19:07:39.031051 Charlie: Echo and Whiskey, sending you 4
+2024-10-14 19:07:39.031857 India: Zulu, Alpha, Echo, Whiskey and Oscar, sending you 2
+2024-10-14 19:07:39.033529 Echo: Oscar and Charlie, sending you 3
+2024-10-14 19:07:39.034888 Charlie: Oscar, sending you 3
+2024-10-14 19:07:39.036052 India: Hotel, sending you 3
+2024-10-14 19:07:39.042897 India: Papa, sending you 1
+2024-10-14 19:07:39.045749 Whiskey: Zulu and Oscar, sending you 3
+2024-10-14 19:07:39.051004 Whiskey: Alpha, sending you 2
+2024-10-14 19:07:39.057156 Whiskey: Echo, sending you 5
+2024-10-14 19:07:39.060978 Whiskey: Charlie, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Foxtrot round 7
+ChatterBot Zulu round 7
+ChatterBot Alpha round 7
+ChatterBot Hotel round 7
+ChatterBot Echo round 7
+ChatterBot India round 7
+ChatterBot Whiskey round 7
+ChatterBot Oscar round 7
+ChatterBot Papa round 7
+ChatterBot Charlie round 7
+2024-10-14 19:07:39.877537 Echo: We should add Hotel
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:39.922145 Whiskey: No
+2024-10-14 19:07:39.922482 Oscar: Yes
+2024-10-14 19:07:39.923299 Charlie: Yes
+2024-10-14 19:07:39.923585 Zulu: No
+2024-10-14 19:07:39.923836 Alpha: No
+2024-10-14 19:07:39.924055 Papa: No
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:40.098205 Alpha: We should add India
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:40.129448 Whiskey: No
+2024-10-14 19:07:40.129655 Echo: No
+2024-10-14 19:07:40.129865 Oscar: Yes
+2024-10-14 19:07:40.130042 Charlie: Yes
+2024-10-14 19:07:40.130221 Zulu: Yes
+2024-10-14 19:07:40.130793 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:40.403014 Echo: Hotel we want you to join our group
+2024-10-14 19:07:40.408330 Hotel: No
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:40.449686 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:40.451130 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 19:07:40.452254 Foxtrot: Hotel, sending you 4
+2024-10-14 19:07:40.452958 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:40.454050 Hotel: Foxtrot, India, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:40.454775 India: Foxtrot, sending you 5
+2024-10-14 19:07:40.456223 Oscar: India, sending you 1
+2024-10-14 19:07:40.456871 Charlie: Zulu and Hotel, sending you 2
+2024-10-14 19:07:40.457707 Foxtrot: Echo, sending you 1
+2024-10-14 19:07:40.459909 Hotel: Echo, sending you 2
+2024-10-14 19:07:40.461101 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:40.462600 Charlie: Echo, sending you 4
+2024-10-14 19:07:40.463933 India: Hotel, Oscar and Charlie, sending you 3
+2024-10-14 19:07:40.465475 Foxtrot: India, sending you 5
+2024-10-14 19:07:40.466695 Echo: Zulu, Alpha and Papa, sending you 2
+2024-10-14 19:07:40.468107 Zulu: Alpha, Echo, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:40.468840 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:40.470123 Whiskey: Hotel, sending you 3
+2024-10-14 19:07:40.470653 India: Echo and Whiskey, sending you 2
+2024-10-14 19:07:40.471561 Foxtrot: Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:40.472072 Echo: Whiskey, sending you 5
+2024-10-14 19:07:40.472660 Zulu: Papa, sending you 4
+2024-10-14 19:07:40.474235 Whiskey: Echo, sending you 5
+2024-10-14 19:07:40.475151 Alpha: Zulu, Echo and Oscar, sending you 3
+2024-10-14 19:07:40.476879 Charlie: Oscar, sending you 3
+2024-10-14 19:07:40.478438 Echo: Oscar and Charlie, sending you 3
+2024-10-14 19:07:40.479116 Whiskey: Oscar and Charlie, sending you 4
+2024-10-14 19:07:40.480704 Alpha: Whiskey, sending you 2
+2024-10-14 19:07:40.485764 Alpha: Papa, sending you 4
+2024-10-14 19:07:40.489662 Alpha: Charlie, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 8
+ChatterBot Zulu round 8
+ChatterBot Alpha round 8
+ChatterBot Hotel round 8
+ChatterBot Echo round 8
+ChatterBot India round 8
+ChatterBot Whiskey round 8
+ChatterBot Oscar round 8
+ChatterBot Papa round 8
+ChatterBot Charlie round 8
+2024-10-14 19:07:41.614689 Foxtrot: Hotel, sending you 4
+2024-10-14 19:07:41.619675 Foxtrot: Echo and Whiskey, sending you 2
+2024-10-14 19:07:41.620694 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:41.622131 Alpha: Zulu, Echo and Oscar, sending you 3
+2024-10-14 19:07:41.623680 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 19:07:41.624763 Foxtrot: India, sending you 5
+2024-10-14 19:07:41.625652 Echo: Zulu and Papa, sending you 2
+2024-10-14 19:07:41.627331 Zulu: Papa, sending you 3
+2024-10-14 19:07:41.628679 Alpha: Whiskey, sending you 2
+2024-10-14 19:07:41.629724 Charlie: Zulu and Hotel, sending you 2
+2024-10-14 19:07:41.631281 Foxtrot: Oscar and Charlie, sending you 3
+2024-10-14 19:07:41.632172 Echo: Alpha, Oscar and Charlie, sending you 3
+2024-10-14 19:07:41.633178 Hotel: Foxtrot, India, Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:07:41.634851 Whiskey: Hotel and Oscar, sending you 3
+2024-10-14 19:07:41.635440 Alpha: Papa, sending you 4
+2024-10-14 19:07:41.636441 Charlie: Echo, sending you 4
+2024-10-14 19:07:41.638043 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:41.638787 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:41.639924 Echo: Whiskey, sending you 4
+2024-10-14 19:07:41.641296 India: Foxtrot, sending you 4
+2024-10-14 19:07:41.642140 Hotel: Echo, sending you 2
+2024-10-14 19:07:41.642857 Alpha: Charlie, sending you 1
+2024-10-14 19:07:41.643732 Whiskey: Echo, sending you 5
+2024-10-14 19:07:41.644675 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:41.645911 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:41.647265 Oscar: India, sending you 1
+2024-10-14 19:07:41.648156 India: Alpha, Echo, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:07:41.649056 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:41.650057 Charlie: Oscar, sending you 3
+2024-10-14 19:07:41.653676 India: Hotel, sending you 3
+2024-10-14 19:07:41.658680 India: Whiskey, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Foxtrot round 9
+ChatterBot Zulu round 9
+ChatterBot Alpha round 9
+ChatterBot Hotel round 9
+ChatterBot Echo round 9
+ChatterBot India round 9
+ChatterBot Whiskey round 9
+ChatterBot Oscar round 9
+ChatterBot Papa round 9
+ChatterBot Charlie round 9
+2024-10-14 19:07:43.248158 Foxtrot: We should group up
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:43.278577 Oscar: Yes
+2024-10-14 19:07:43.278790 Zulu: Yes
+2024-10-14 19:07:43.278970 Alpha: No
+2024-10-14 19:07:43.279135 Papa: No
+2024-10-14 19:07:43.279289 Echo: No
+2024-10-14 19:07:43.279482 Whiskey: No
+2024-10-14 19:07:43.279700 Charlie: Yes
+2024-10-14 19:07:43.279940 Hotel: Yes
+2024-10-14 19:07:43.280569 India: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:43.551685 Foxtrot: Zulu, Whiskey and Charlie, sending you 2
+2024-10-14 19:07:43.553191 Echo: Zulu and Papa, sending you 2
+2024-10-14 19:07:43.555128 Whiskey: Zulu, sending you 2
+2024-10-14 19:07:43.555973 Alpha: Zulu, Echo, Oscar and Papa, sending you 3
+2024-10-14 19:07:43.557585 India: Foxtrot and Hotel, sending you 3
+2024-10-14 19:07:43.559886 Foxtrot: Alpha, Echo and Papa, sending you 1
+2024-10-14 19:07:43.562712 Echo: Alpha, Oscar and Charlie, sending you 3
+2024-10-14 19:07:43.564293 Whiskey: Echo, sending you 5
+2024-10-14 19:07:43.565800 Hotel: Foxtrot, Zulu, Alpha, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:43.567590 Alpha: Whiskey and Charlie, sending you 2
+2024-10-14 19:07:43.568537 India: Zulu, Alpha, Echo, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:07:43.570457 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:43.572301 Foxtrot: Hotel and Oscar, sending you 3
+2024-10-14 19:07:43.573392 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:43.574794 Echo: Whiskey, sending you 4
+2024-10-14 19:07:43.575643 Hotel: Papa, sending you 1
+2024-10-14 19:07:43.576813 Whiskey: Oscar and Papa, sending you 3
+2024-10-14 19:07:43.577235 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 19:07:43.578646 Oscar: India, sending you 1
+2024-10-14 19:07:43.579639 Foxtrot: India, sending you 4
+2024-10-14 19:07:43.581057 Zulu: Papa, sending you 3
+2024-10-14 19:07:43.581783 Papa: Zulu and Alpha, sending you 4
+2024-10-14 19:07:43.582785 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:43.583381 Charlie: Zulu and Hotel, sending you 2
+2024-10-14 19:07:43.586687 Papa: Echo, Whiskey and Oscar, sending you 3
+2024-10-14 19:07:43.587706 Charlie: Echo, sending you 4
+2024-10-14 19:07:43.592712 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:43.596671 Charlie: Oscar, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Foxtrot round 10
+ChatterBot Zulu round 10
+ChatterBot Alpha round 10
+ChatterBot Hotel round 10
+ChatterBot Echo round 10
+ChatterBot India round 10
+ChatterBot Whiskey round 10
+ChatterBot Oscar round 10
+ChatterBot Papa round 10
+ChatterBot Charlie round 10
+2024-10-14 19:07:44.909896 Alpha: Let's form a team
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:44.949561 Foxtrot: Yes
+2024-10-14 19:07:44.949868 Hotel: No
+2024-10-14 19:07:44.950131 India: No
+2024-10-14 19:07:44.950386 Echo: No
+2024-10-14 19:07:44.950672 Oscar: Yes
+2024-10-14 19:07:44.951620 Charlie: No
+2024-10-14 19:07:44.951879 Zulu: Yes
+2024-10-14 19:07:44.952151 Papa: No
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:45.287355 Whiskey: We should drop Papa
+2024-10-14 19:07:45.306094 Echo: No
+2024-10-14 19:07:45.306273 Oscar: No
+2024-10-14 19:07:45.306409 Charlie: Yes
+2024-10-14 19:07:45.306521 Zulu: No
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:45.379454 Foxtrot: We should drop Papa
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:45.414990 Hotel: Yes
+2024-10-14 19:07:45.415852 India: Yes
+2024-10-14 19:07:45.415989 Echo: No
+2024-10-14 19:07:45.416097 Whiskey: Yes
+2024-10-14 19:07:45.416212 Oscar: No
+2024-10-14 19:07:45.416324 Charlie: Yes
+2024-10-14 19:07:45.416434 Zulu: No
+2024-10-14 19:07:45.416545 Alpha: No
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:45.976574 Echo: Zulu and Papa, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 19:07:45.980675 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:45.983567 Echo: Alpha, Oscar and Charlie, sending you 3
+2024-10-14 19:07:45.985491 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:45.987357 Papa: Foxtrot, Hotel, Echo, Whiskey and Oscar, sending you 2
+2024-10-14 19:07:45.988279 Zulu: Papa, sending you 3
+2024-10-14 19:07:45.989587 Echo: Whiskey, sending you 4
+2024-10-14 19:07:45.991706 Oscar: India, sending you 1
+2024-10-14 19:07:45.993159 Papa: Zulu and Alpha, sending you 3
+2024-10-14 19:07:45.997152 Papa: Charlie, sending you 1
+2024-10-14 19:07:46.001702 India: Foxtrot and Hotel, sending you 3
+2024-10-14 19:07:46.003207 Hotel: Foxtrot, sending you 3
+2024-10-14 19:07:46.004387 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 19:07:46.005920 India: Zulu, Alpha, Echo, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:46.006787 Whiskey: Hotel and Oscar, sending you 3
+2024-10-14 19:07:46.007686 Alpha: Foxtrot and Hotel, sending you 1
+2024-10-14 19:07:46.009319 Hotel: Zulu, Alpha, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:46.010543 Charlie: Zulu and Hotel, sending you 2
+2024-10-14 19:07:46.012075 Whiskey: Echo, sending you 5
+2024-10-14 19:07:46.012965 Alpha: Zulu, India, Oscar and Charlie, sending you 2
+2024-10-14 19:07:46.014685 Charlie: Echo, sending you 4
+2024-10-14 19:07:46.015699 Foxtrot: Zulu, Alpha, Whiskey and Charlie, sending you 2
+2024-10-14 19:07:46.017200 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:46.019231 Alpha: Echo and Papa, sending you 3
+2024-10-14 19:07:46.019983 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:46.022101 Foxtrot: Hotel and Oscar, sending you 3
+2024-10-14 19:07:46.023684 Charlie: Oscar, sending you 3
+2024-10-14 19:07:46.026690 Foxtrot: Echo, sending you 1
+chatterbot Echo submitting transactions
+2024-10-14 19:07:46.031687 Foxtrot: India, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Foxtrot round 11
+ChatterBot Zulu round 11
+ChatterBot Alpha round 11
+ChatterBot Hotel round 11
+ChatterBot Echo round 11
+ChatterBot India round 11
+ChatterBot Whiskey round 11
+ChatterBot Oscar round 11
+ChatterBot Papa round 11
+ChatterBot Charlie round 11
+2024-10-14 19:07:47.360217 Whiskey: We should replace Hotel with Zulu
+2024-10-14 19:07:47.376339 Echo: Yes
+2024-10-14 19:07:47.376626 Oscar: No
+2024-10-14 19:07:47.377640 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:47.481617 Foxtrot: Zulu, Alpha, Whiskey and Charlie, sending you 2
+2024-10-14 19:07:47.483952 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:47.486559 Echo: Zulu and Papa, sending you 2
+2024-10-14 19:07:47.488349 Alpha: Zulu, Hotel, India, Oscar and Charlie, sending you 2
+2024-10-14 19:07:47.489933 Hotel: Foxtrot, sending you 3
+2024-10-14 19:07:47.492173 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:47.493838 India: Foxtrot, Zulu, Hotel and Oscar, sending you 3
+2024-10-14 19:07:47.496569 Foxtrot: Hotel and Oscar, sending you 3
+2024-10-14 19:07:47.498711 Zulu: Papa, sending you 3
+2024-10-14 19:07:47.500418 Echo: Alpha, Oscar and Charlie, sending you 3
+2024-10-14 19:07:47.504007 Alpha: Echo and Papa, sending you 3
+2024-10-14 19:07:47.506749 Hotel: Zulu, Alpha, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:47.508440 Oscar: India, sending you 1
+2024-10-14 19:07:47.515345 India: Alpha, Whiskey and Charlie, sending you 2
+2024-10-14 19:07:47.516474 Charlie: Foxtrot and Alpha, sending you 1
+2024-10-14 19:07:47.518358 Whiskey: Hotel, sending you 2
+2024-10-14 19:07:47.520031 Papa: Foxtrot, Hotel, Echo and Whiskey, sending you 2
+2024-10-14 19:07:47.521074 Foxtrot: Echo, sending you 1
+2024-10-14 19:07:47.526843 Echo: Whiskey, sending you 4
+2024-10-14 19:07:47.529868 Charlie: Zulu and Hotel, sending you 2
+2024-10-14 19:07:47.532298 Whiskey: Echo, sending you 5
+2024-10-14 19:07:47.533023 Papa: Zulu, Alpha and Oscar, sending you 3
+2024-10-14 19:07:47.537672 Foxtrot: India, sending you 4
+2024-10-14 19:07:47.538764 Charlie: Echo, sending you 4
+2024-10-14 19:07:47.541443 Whiskey: Oscar, sending you 3
+2024-10-14 19:07:47.666340 Charlie: Whiskey, sending you 5
+2024-10-14 19:07:47.670622 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:47.673182 Charlie: Oscar, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 12
+ChatterBot Zulu round 12
+ChatterBot Alpha round 12
+ChatterBot Hotel round 12
+ChatterBot Echo round 12
+ChatterBot India round 12
+ChatterBot Whiskey round 12
+ChatterBot Oscar round 12
+ChatterBot Papa round 12
+ChatterBot Charlie round 12
+2024-10-14 19:07:48.737925 Echo: We should add Hotel and India
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:48.778174 Whiskey: No
+2024-10-14 19:07:48.779266 Oscar: Yes
+2024-10-14 19:07:48.779505 Charlie: Yes
+2024-10-14 19:07:48.779727 Zulu: Yes
+2024-10-14 19:07:48.779990 Alpha: Yes
+2024-10-14 19:07:48.780261 Papa: Yes
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:49.129444 Papa: We should replace Whiskey with India
+ChatterBot Echo reevaluating
+2024-10-14 19:07:49.161964 Foxtrot: No
+2024-10-14 19:07:49.162126 Hotel: No
+2024-10-14 19:07:49.162668 Echo: No
+2024-10-14 19:07:49.162791 Oscar: No
+2024-10-14 19:07:49.162909 Charlie: No
+2024-10-14 19:07:49.163022 Zulu: No
+2024-10-14 19:07:49.163129 Alpha: Yes
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:49.574994 Whiskey: Zulu we want you to join our group
+2024-10-14 19:07:49.581416 Zulu: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:49.603165 Whiskey: We should replace Hotel with Foxtrot
+2024-10-14 19:07:49.618514 Echo: No
+2024-10-14 19:07:49.619531 Oscar: No
+2024-10-14 19:07:49.619809 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:49.677565 Papa: India we want you to join our group
+2024-10-14 19:07:49.686059 India: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:49.728875 Papa: We should group up
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:49.752670 Zulu: Yes
+2024-10-14 19:07:49.753377 Alpha: Yes
+2024-10-14 19:07:49.753525 Foxtrot: Yes
+2024-10-14 19:07:49.753655 Hotel: Yes
+2024-10-14 19:07:49.753774 India: No
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:49.880865 Whiskey: We should add Foxtrot and India
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:49.900383 Echo: No
+2024-10-14 19:07:49.900518 Oscar: Yes
+2024-10-14 19:07:49.900664 Charlie: Yes
+2024-10-14 19:07:49.900791 Hotel: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 19:07:49.986525 India: We should replace Whiskey with Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:50.022013 Foxtrot: Yes
+2024-10-14 19:07:50.022272 Hotel: Yes
+2024-10-14 19:07:50.022455 Echo: No
+2024-10-14 19:07:50.022982 Oscar: No
+2024-10-14 19:07:50.023161 Charlie: No
+2024-10-14 19:07:50.023300 Zulu: No
+2024-10-14 19:07:50.023447 Alpha: Yes
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:50.464010 Charlie: We should add Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:50.528707 Foxtrot: Yes
+2024-10-14 19:07:50.535645 Hotel: Yes
+2024-10-14 19:07:50.536039 India: Yes
+2024-10-14 19:07:50.536489 Echo: Yes
+2024-10-14 19:07:50.536786 Whiskey: No
+2024-10-14 19:07:50.537227 Oscar: Yes
+2024-10-14 19:07:50.538093 Zulu: Yes
+2024-10-14 19:07:50.538393 Alpha: Yes
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Charlie submitting transactions
+2024-10-14 19:07:50.952444 Alpha: Zulu, Hotel, India, Oscar and Charlie, sending you 2
+2024-10-14 19:07:50.956468 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:50.960075 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:07:50.964798 Hotel: Papa we want you to join our group
+2024-10-14 19:07:50.974014 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:51.033557 Charlie: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 19:07:51.045757 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:07:51.151162 India: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 19:07:51.197366 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:51.271034 Alpha: Echo and Papa, sending you 3
+2024-10-14 19:07:51.273976 Zulu: Papa, sending you 3
+2024-10-14 19:07:51.276518 Oscar: India, sending you 1
+2024-10-14 19:07:51.279436 Echo: Foxtrot and Hotel we want you to join our group
+2024-10-14 19:07:51.290856 Foxtrot: No
+2024-10-14 19:07:51.291150 Hotel: No
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:51.369818 Foxtrot: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 19:07:51.382860 Papa: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 19:07:51.482362 Hotel: Foxtrot, sending you 3
+2024-10-14 19:07:51.485344 India: Foxtrot, sending you 4
+2024-10-14 19:07:51.487358 Echo: Foxtrot and India we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:07:51.498885 Foxtrot: Yes
+2024-10-14 19:07:51.499058 India: No
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+chatterbot Papa submitting transactions
+chatterbot India submitting transactions
+2024-10-14 19:07:51.575936 Hotel: Zulu, Alpha, Echo, India, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:07:51.577644 India: Zulu, Alpha, Hotel and Oscar, sending you 3
+2024-10-14 19:07:51.610210 Whiskey: Foxtrot and India we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:07:51.622269 Foxtrot: No
+2024-10-14 19:07:51.622478 India: No
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:07:51.683787 Hotel: We should replace Alpha with Whiskey
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:51.720189 Foxtrot: No
+2024-10-14 19:07:51.720340 India: No
+2024-10-14 19:07:51.721051 Echo: No
+2024-10-14 19:07:51.721211 Oscar: No
+2024-10-14 19:07:51.721392 Charlie: No
+2024-10-14 19:07:51.721554 Zulu: No
+2024-10-14 19:07:51.721682 Papa: No
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:52.106643 India: Papa, sending you 1
+2024-10-14 19:07:52.114967 India: Charlie, sending you 2
+2024-10-14 19:07:52.264643 Whiskey: Zulu, sending you 2
+2024-10-14 19:07:52.267112 Echo: Zulu and Papa, sending you 2
+2024-10-14 19:07:52.272692 Papa: Foxtrot, sending you 1
+chatterbot Charlie submitting transactions
+2024-10-14 19:07:52.276158 Whiskey: Echo, sending you 5
+2024-10-14 19:07:52.277898 Echo: Alpha, Oscar and Charlie, sending you 3
+2024-10-14 19:07:52.280493 Papa: Zulu, Alpha, Echo and Oscar, sending you 3
+2024-10-14 19:07:52.284773 Foxtrot: Zulu, Alpha, Papa and Charlie, sending you 2
+2024-10-14 19:07:52.289404 Whiskey: Oscar, sending you 3
+2024-10-14 19:07:52.292899 Echo: Whiskey, sending you 4
+2024-10-14 19:07:52.298074 Papa: Hotel and Whiskey, sending you 2
+2024-10-14 19:07:52.302543 Foxtrot: Hotel and India, sending you 3
+2024-10-14 19:07:52.307579 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:52.318066 Foxtrot: Echo, sending you 1
+2024-10-14 19:07:52.330890 Foxtrot: Oscar, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 13
+ChatterBot Zulu round 13
+ChatterBot Alpha round 13
+ChatterBot Hotel round 13
+ChatterBot Echo round 13
+ChatterBot India round 13
+ChatterBot Whiskey round 13
+ChatterBot Oscar round 13
+ChatterBot Papa round 13
+ChatterBot Charlie round 13
+2024-10-14 19:07:54.396034 Whiskey: Zulu, sending you 2
+2024-10-14 19:07:54.410338 India: Foxtrot, Zulu, Alpha, Hotel and Oscar, sending you 3
+2024-10-14 19:07:54.413734 Whiskey: Echo, sending you 5
+2024-10-14 19:07:54.415261 Alpha: Foxtrot, sending you 1
+2024-10-14 19:07:54.417385 Hotel: Foxtrot, Zulu, Alpha, Echo, India, Papa and Charlie, sending you 2
+2024-10-14 19:07:54.419472 Foxtrot: Zulu, Alpha, Papa and Charlie, sending you 2
+2024-10-14 19:07:54.421566 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:54.425131 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:54.427634 Echo: Zulu and Papa, sending you 2
+2024-10-14 19:07:54.430512 India: Papa and Charlie, sending you 2
+2024-10-14 19:07:54.433257 Whiskey: Oscar, sending you 3
+2024-10-14 19:07:54.435690 Alpha: Zulu, Hotel, India, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:07:54.437746 Hotel: Oscar, sending you 3
+2024-10-14 19:07:54.439442 Foxtrot: Hotel and India, sending you 3
+2024-10-14 19:07:54.441642 Oscar: India, sending you 1
+2024-10-14 19:07:54.445635 Zulu: Papa, sending you 3
+2024-10-14 19:07:54.448507 Echo: Alpha, Oscar and Charlie, sending you 3
+2024-10-14 19:07:54.451384 Papa: Foxtrot and Hotel, sending you 3
+2024-10-14 19:07:54.452587 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:54.454232 Alpha: Echo, sending you 3
+2024-10-14 19:07:54.455763 Foxtrot: Echo, sending you 1
+2024-10-14 19:07:54.459351 Echo: Whiskey, sending you 4
+2024-10-14 19:07:54.462363 Papa: Zulu, sending you 4
+2024-10-14 19:07:54.464841 Foxtrot: Oscar, sending you 4
+2024-10-14 19:07:54.477547 Papa: Alpha, sending you 5
+2024-10-14 19:07:54.481910 Papa: India, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 14
+ChatterBot Zulu round 14
+ChatterBot Alpha round 14
+ChatterBot Hotel round 14
+ChatterBot Echo round 14
+ChatterBot India round 14
+ChatterBot Whiskey round 14
+ChatterBot Oscar round 14
+ChatterBot Papa round 14
+ChatterBot Charlie round 14
+2024-10-14 19:07:55.615582 India: We should add Whiskey
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:55.719794 Alpha: No
+2024-10-14 19:07:55.720104 Foxtrot: Yes
+2024-10-14 19:07:55.720338 Hotel: Yes
+2024-10-14 19:07:55.720559 Echo: Yes
+2024-10-14 19:07:55.720777 Oscar: Yes
+2024-10-14 19:07:55.720985 Charlie: Yes
+2024-10-14 19:07:55.723272 Zulu: Yes
+2024-10-14 19:07:55.723549 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 19:07:56.252248 Whiskey: Friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:07:56.298566 Foxtrot: Yes
+2024-10-14 19:07:56.298712 Zulu: Yes
+2024-10-14 19:07:56.298829 Hotel: No
+2024-10-14 19:07:56.298958 Echo: No
+2024-10-14 19:07:56.299093 India: Yes
+2024-10-14 19:07:56.299201 Oscar: Yes
+2024-10-14 19:07:56.299323 Papa: No
+2024-10-14 19:07:56.299442 Charlie: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:56.736276 India: Whiskey we want you to join our group
+2024-10-14 19:07:56.748730 Whiskey: No
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:07:56.809918 Hotel: We should replace Alpha with Whiskey
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:56.851655 Foxtrot: No
+2024-10-14 19:07:56.852039 India: No
+2024-10-14 19:07:56.852269 Echo: No
+2024-10-14 19:07:56.852519 Oscar: No
+2024-10-14 19:07:56.853289 Charlie: No
+2024-10-14 19:07:56.853513 Zulu: No
+2024-10-14 19:07:56.853745 Papa: No
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:57.187247 Foxtrot: Whiskey we want you to join our group
+2024-10-14 19:07:57.195516 Whiskey: No
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:07:57.228244 Hotel: Whiskey we want you to join our group
+2024-10-14 19:07:57.235816 Whiskey: Yes
+ChatterBot Echo reevaluating
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 19:07:57.292556 Whiskey: Foxtrot, Hotel and Papa, sending you 1
+2024-10-14 19:07:57.297983 Papa: Foxtrot and Hotel, sending you 2
+2024-10-14 19:07:57.302321 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+chatterbot India submitting transactions
+2024-10-14 19:07:57.308498 India: Foxtrot, Zulu, Alpha, Hotel and Oscar, sending you 3
+2024-10-14 19:07:57.314578 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:57.320020 Echo: Foxtrot and Hotel we want you to join our group
+2024-10-14 19:07:57.328621 Foxtrot: Yes
+2024-10-14 19:07:57.329341 Hotel: No
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:57.388125 Hotel: We should replace India with Whiskey
+2024-10-14 19:07:57.388906 Echo: We should add Hotel and India
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:57.421054 Papa: Yes
+2024-10-14 19:07:57.421304 Foxtrot: No
+2024-10-14 19:07:57.421489 Echo: Yes
+2024-10-14 19:07:57.421648 Oscar: No
+2024-10-14 19:07:57.422568 Charlie: No
+2024-10-14 19:07:57.422793 Zulu: No
+2024-10-14 19:07:57.422953 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:07:57.453785 Whiskey: Yes
+2024-10-14 19:07:57.454049 Oscar: Yes
+2024-10-14 19:07:57.454280 Charlie: Yes
+2024-10-14 19:07:57.454463 Zulu: Yes
+2024-10-14 19:07:57.454631 Alpha: Yes
+2024-10-14 19:07:57.454800 Papa: No
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:58.070995 Whiskey: Zulu, sending you 2
+2024-10-14 19:07:58.077058 Zulu: Papa, sending you 3
+2024-10-14 19:07:58.085749 India: Papa and Charlie, sending you 2
+2024-10-14 19:07:58.094432 Oscar: India, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 19:07:58.104362 Foxtrot: Zulu, Alpha, Papa and Charlie, sending you 2
+2024-10-14 19:07:58.112167 Whiskey: Echo, sending you 5
+2024-10-14 19:07:58.118537 Alpha: Whiskey we want you to join our group
+2024-10-14 19:07:58.126892 Whiskey: No
+ChatterBot Alpha reevaluating
+2024-10-14 19:07:58.159631 Foxtrot: Hotel, India and Oscar, sending you 3
+2024-10-14 19:07:58.167015 Whiskey: Oscar, sending you 3
+2024-10-14 19:07:58.173285 Foxtrot: Echo and Whiskey, sending you 1
+2024-10-14 19:07:58.230259 Whiskey: Charlie, sending you 4
+2024-10-14 19:07:58.272390 Hotel: Foxtrot, Zulu, Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:58.280499 Echo: Foxtrot, sending you 1
+2024-10-14 19:07:58.287162 Hotel: Oscar, sending you 3
+2024-10-14 19:07:58.293958 Echo: Zulu, Alpha, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:07:58.300488 Alpha: Foxtrot, Zulu, Hotel, Oscar and Charlie, sending you 2
+2024-10-14 19:07:58.307464 Echo: Whiskey and Charlie, sending you 3
+2024-10-14 19:07:58.314270 Alpha: Echo and Papa, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Foxtrot round 15
+ChatterBot Zulu round 15
+ChatterBot Alpha round 15
+ChatterBot Hotel round 15
+ChatterBot Echo round 15
+ChatterBot India round 15
+ChatterBot Whiskey round 15
+ChatterBot Oscar round 15
+ChatterBot Papa round 15
+ChatterBot Charlie round 15
+2024-10-14 19:07:59.177221 Whiskey: We should replace Hotel with Alpha
+ChatterBot Echo reevaluating
+2024-10-14 19:07:59.210182 Foxtrot: No
+2024-10-14 19:07:59.210449 Zulu: No
+2024-10-14 19:07:59.210642 Echo: No
+2024-10-14 19:07:59.210823 India: No
+2024-10-14 19:07:59.211008 Oscar: No
+2024-10-14 19:07:59.211184 Papa: No
+2024-10-14 19:07:59.211840 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 19:07:59.633193 Alpha: Foxtrot, Zulu, Hotel, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:07:59.636907 Foxtrot: Zulu, Alpha, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:59.642646 India: Foxtrot, Zulu, Alpha, Hotel and Oscar, sending you 3
+2024-10-14 19:07:59.648068 Echo: Foxtrot, sending you 1
+2024-10-14 19:07:59.653540 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:07:59.656949 Hotel: Foxtrot, Zulu, Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:59.660832 Alpha: Echo, sending you 3
+2024-10-14 19:07:59.666918 Foxtrot: Hotel, India and Oscar, sending you 3
+2024-10-14 19:07:59.671853 India: Papa and Charlie, sending you 2
+2024-10-14 19:07:59.681057 Echo: Zulu, Alpha, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:07:59.694941 Zulu: Papa, sending you 3
+2024-10-14 19:07:59.701322 Hotel: Oscar, sending you 3
+2024-10-14 19:07:59.708369 Whiskey: Foxtrot, Hotel and Papa, sending you 1
+2024-10-14 19:07:59.713809 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:07:59.720873 Alpha: Whiskey, sending you 1
+2024-10-14 19:07:59.726709 Echo: Whiskey and Charlie, sending you 3
+2024-10-14 19:07:59.731332 Whiskey: Zulu, sending you 2
+2024-10-14 19:07:59.736766 Oscar: India, sending you 1
+2024-10-14 19:07:59.742945 Whiskey: Echo and Charlie, sending you 5
+2024-10-14 19:07:59.797435 Whiskey: Oscar, sending you 3
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 16
+ChatterBot Zulu round 16
+ChatterBot Alpha round 16
+ChatterBot Hotel round 16
+ChatterBot Echo round 16
+ChatterBot India round 16
+ChatterBot Whiskey round 16
+ChatterBot Oscar round 16
+ChatterBot Papa round 16
+ChatterBot Charlie round 16
+2024-10-14 19:08:01.116891 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:01.124779 Foxtrot: Zulu, Alpha, Hotel, Echo, India, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:01.129860 Echo: Foxtrot, sending you 1
+2024-10-14 19:08:01.133205 Whiskey: Foxtrot, Hotel and Papa, sending you 1
+2024-10-14 19:08:01.137283 Alpha: Foxtrot, Zulu, Hotel, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:08:01.145818 India: Foxtrot, Zulu, Alpha, Hotel and Oscar, sending you 3
+2024-10-14 19:08:01.154809 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:08:01.163581 Oscar: India, sending you 1
+2024-10-14 19:08:01.173535 Foxtrot: Oscar, sending you 3
+2024-10-14 19:08:01.183369 Echo: Zulu, Alpha, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:01.191250 Whiskey: Zulu, sending you 2
+2024-10-14 19:08:01.199453 Alpha: Echo, sending you 3
+2024-10-14 19:08:01.207736 India: Papa and Charlie, sending you 2
+2024-10-14 19:08:01.214943 Hotel: Foxtrot, Zulu, Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:01.218548 Zulu: Papa, sending you 3
+2024-10-14 19:08:01.228153 Echo: Whiskey and Charlie, sending you 3
+2024-10-14 19:08:01.235267 Whiskey: Echo, sending you 4
+2024-10-14 19:08:01.243904 Alpha: Whiskey, sending you 1
+2024-10-14 19:08:01.253450 Hotel: Oscar, sending you 3
+2024-10-14 19:08:01.262581 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:01.317663 Whiskey: Charlie, sending you 5
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 17
+ChatterBot Zulu round 17
+ChatterBot Alpha round 17
+ChatterBot Hotel round 17
+ChatterBot Echo round 17
+ChatterBot India round 17
+ChatterBot Whiskey round 17
+ChatterBot Oscar round 17
+ChatterBot Papa round 17
+ChatterBot Charlie round 17
+2024-10-14 19:08:02.570811 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:08:02.578633 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:02.585360 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:02.592808 Hotel: Foxtrot, Zulu, Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:02.598342 Zulu: Papa, sending you 3
+2024-10-14 19:08:02.605859 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:02.611450 India: Foxtrot, sending you 4
+2024-10-14 19:08:02.619069 Oscar: India, sending you 1
+2024-10-14 19:08:02.624775 Alpha: Foxtrot, Zulu, Hotel, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:08:02.628429 Foxtrot: Zulu, Alpha, Hotel, Echo, India, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:02.636427 Echo: Foxtrot, sending you 1
+2024-10-14 19:08:02.643935 Hotel: Oscar, sending you 3
+2024-10-14 19:08:02.651894 Whiskey: Echo, sending you 4
+2024-10-14 19:08:02.662089 India: Zulu, Hotel and Oscar, sending you 3
+2024-10-14 19:08:02.673400 Alpha: Echo, sending you 3
+2024-10-14 19:08:02.679454 Foxtrot: Oscar, sending you 3
+2024-10-14 19:08:02.688319 Echo: Zulu, Alpha, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:02.694146 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:02.704382 India: Alpha, Papa and Charlie, sending you 2
+2024-10-14 19:08:02.714891 Alpha: Whiskey, sending you 1
+2024-10-14 19:08:02.719794 Echo: Whiskey and Charlie, sending you 3
+2024-10-14 19:08:02.728088 Whiskey: Charlie, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Foxtrot round 18
+ChatterBot Zulu round 18
+ChatterBot Alpha round 18
+ChatterBot Hotel round 18
+ChatterBot Echo round 18
+ChatterBot India round 18
+ChatterBot Whiskey round 18
+ChatterBot Oscar round 18
+ChatterBot Papa round 18
+ChatterBot Charlie round 18
+2024-10-14 19:08:04.099042 Whiskey: We should replace Hotel with Alpha
+2024-10-14 19:08:04.117378 Foxtrot: No
+2024-10-14 19:08:04.118031 Zulu: No
+2024-10-14 19:08:04.118193 Echo: No
+2024-10-14 19:08:04.118317 India: No
+2024-10-14 19:08:04.118437 Oscar: No
+2024-10-14 19:08:04.118551 Papa: No
+2024-10-14 19:08:04.118686 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:04.459151 Zulu: Foxtrot, Alpha, Hotel, Echo, India, Whiskey, Oscar and Charlie, sending you 2
+2024-10-14 19:08:04.471162 Alpha: Foxtrot, Zulu, Hotel, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:08:04.481502 India: Foxtrot, sending you 4
+2024-10-14 19:08:04.491569 Foxtrot: Zulu, Alpha, Hotel, Echo, India, Whiskey, Papa and Charlie, sending you 2
+chatterbot Papa submitting transactions
+2024-10-14 19:08:04.502844 Zulu: Papa, sending you 3
+2024-10-14 19:08:04.513644 Alpha: Echo, sending you 3
+2024-10-14 19:08:04.524304 India: Zulu, Hotel and Oscar, sending you 3
+2024-10-14 19:08:04.536472 Hotel: Foxtrot, Zulu, Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:04.547295 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:04.557456 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 1
+2024-10-14 19:08:04.567212 Foxtrot: Oscar, sending you 3
+2024-10-14 19:08:04.578584 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:04.591582 Alpha: Whiskey, sending you 1
+2024-10-14 19:08:04.598879 India: Alpha, Papa and Charlie, sending you 2
+2024-10-14 19:08:04.610425 Hotel: Oscar, sending you 3
+2024-10-14 19:08:04.620717 Whiskey: Zulu, Hotel and Oscar, sending you 2
+2024-10-14 19:08:04.630076 Echo: Alpha and Charlie, sending you 2
+2024-10-14 19:08:04.640199 Oscar: India, sending you 1
+2024-10-14 19:08:04.652017 Whiskey: Echo, sending you 4
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:04.662106 Echo: Whiskey, sending you 3
+2024-10-14 19:08:04.671103 Whiskey: Charlie, sending you 5
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Foxtrot round 19
+ChatterBot Zulu round 19
+ChatterBot Alpha round 19
+ChatterBot Hotel round 19
+ChatterBot Echo round 19
+ChatterBot India round 19
+ChatterBot Whiskey round 19
+ChatterBot Oscar round 19
+ChatterBot Papa round 19
+ChatterBot Charlie round 19
+2024-10-14 19:08:06.383706 Alpha: We should drop Whiskey
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:06.425914 Papa: No
+2024-10-14 19:08:06.426125 Foxtrot: Yes
+2024-10-14 19:08:06.426710 Hotel: No
+2024-10-14 19:08:06.426900 Echo: No
+2024-10-14 19:08:06.427074 Oscar: No
+2024-10-14 19:08:06.427281 Charlie: No
+2024-10-14 19:08:06.427465 Zulu: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:06.746481 Zulu: We should drop India
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:06.795363 Papa: Yes
+2024-10-14 19:08:06.795578 Foxtrot: Yes
+2024-10-14 19:08:06.795766 Hotel: Yes
+2024-10-14 19:08:06.795941 Echo: Yes
+2024-10-14 19:08:06.796108 Whiskey: Yes
+2024-10-14 19:08:06.796298 Oscar: Yes
+2024-10-14 19:08:06.796486 Charlie: Yes
+2024-10-14 19:08:06.796660 Alpha: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:07.274653 Hotel: We should drop Alpha
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:07.304874 Foxtrot: No
+2024-10-14 19:08:07.305116 Zulu: No
+2024-10-14 19:08:07.305395 Echo: No
+2024-10-14 19:08:07.305779 Whiskey: Yes
+2024-10-14 19:08:07.305996 Oscar: No
+2024-10-14 19:08:07.306242 Papa: Yes
+2024-10-14 19:08:07.307077 Charlie: Yes
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:07.584670 Papa: We should drop Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:07.619954 Foxtrot: No
+2024-10-14 19:08:07.620220 Zulu: No
+2024-10-14 19:08:07.620398 Alpha: No
+2024-10-14 19:08:07.620560 Echo: Yes
+2024-10-14 19:08:07.620736 Whiskey: No
+2024-10-14 19:08:07.620927 Oscar: No
+2024-10-14 19:08:07.621681 Charlie: No
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:08.074181 Zulu: Foxtrot, Alpha, Hotel, Echo, Whiskey and Charlie, sending you 2
+2024-10-14 19:08:08.082124 Charlie: We should drop India and Alpha
+ChatterBot Echo reevaluating
+2024-10-14 19:08:08.107945 Hotel: Yes
+2024-10-14 19:08:08.108589 Foxtrot: No
+2024-10-14 19:08:08.108725 Zulu: No
+2024-10-14 19:08:08.108836 Echo: No
+2024-10-14 19:08:08.108955 Whiskey: Yes
+2024-10-14 19:08:08.109144 Oscar: No
+2024-10-14 19:08:08.109273 Papa: Yes
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:08.465336 India: Foxtrot and Zulu, sending you 3
+2024-10-14 19:08:08.478509 Alpha: We should drop Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:08.508107 Foxtrot: No
+2024-10-14 19:08:08.508388 Zulu: No
+2024-10-14 19:08:08.509066 Hotel: No
+2024-10-14 19:08:08.509233 Whiskey: No
+2024-10-14 19:08:08.509406 Oscar: No
+2024-10-14 19:08:08.509545 Papa: No
+2024-10-14 19:08:08.509670 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:08.734563 Hotel: Foxtrot, Echo, Whiskey and Papa, sending you 2
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:08.740050 Zulu: Oscar, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:08:08.748102 Echo: We should drop Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:08.772856 Zulu: No
+2024-10-14 19:08:08.773039 Alpha: No
+2024-10-14 19:08:08.773710 Papa: No
+2024-10-14 19:08:08.773857 Whiskey: No
+2024-10-14 19:08:08.773986 Oscar: No
+2024-10-14 19:08:08.774126 Charlie: No
+2024-10-14 19:08:08.774237 Hotel: No
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:09.033959 India: Alpha, Hotel, Oscar and Charlie, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 19:08:09.045985 Hotel: Zulu, Oscar and Charlie, sending you 3
+2024-10-14 19:08:09.054478 Zulu: Papa, sending you 4
+2024-10-14 19:08:09.079100 Echo: We should drop Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:09.122213 Foxtrot: No
+2024-10-14 19:08:09.122519 Zulu: No
+2024-10-14 19:08:09.122740 Alpha: No
+2024-10-14 19:08:09.122907 Hotel: No
+2024-10-14 19:08:09.123072 Whiskey: No
+2024-10-14 19:08:09.123698 Oscar: No
+2024-10-14 19:08:09.123907 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:09.351534 India: Papa, sending you 1
+2024-10-14 19:08:09.361879 India: I was attacked by Echo
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:08:09.396239 India: Ow
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:08:09.423807 Foxtrot: We should drop Echo and India
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:09.602070 Alpha: Yes
+2024-10-14 19:08:09.603120 Zulu: No
+2024-10-14 19:08:09.603374 Hotel: No
+2024-10-14 19:08:09.603711 Whiskey: No
+2024-10-14 19:08:09.604594 Oscar: No
+2024-10-14 19:08:09.604958 Papa: No
+2024-10-14 19:08:09.605476 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:09.927001 Charlie: We should drop India and Echo
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:09.955686 Alpha: Yes
+2024-10-14 19:08:09.955865 Foxtrot: Yes
+2024-10-14 19:08:09.955998 Zulu: No
+2024-10-14 19:08:09.956117 Hotel: No
+2024-10-14 19:08:09.956236 Whiskey: No
+2024-10-14 19:08:09.956348 Oscar: No
+2024-10-14 19:08:09.956471 Papa: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:10.191528 Hotel: We should replace Echo with Alpha
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:10.231588 Foxtrot: Yes
+2024-10-14 19:08:10.232140 Zulu: No
+2024-10-14 19:08:10.232288 Whiskey: No
+2024-10-14 19:08:10.232427 Oscar: No
+2024-10-14 19:08:10.232568 Papa: Yes
+2024-10-14 19:08:10.232717 Charlie: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+chatterbot Echo submitting transactions
+2024-10-14 19:08:10.495800 Echo: Zulu, Alpha, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:10.588169 Echo: Whiskey, sending you 4
+2024-10-14 19:08:10.695123 Echo: Charlie, sending you 3
+2024-10-14 19:08:10.702748 Alpha: Foxtrot, Zulu, Hotel and Charlie, sending you 2
+2024-10-14 19:08:10.704844 Whiskey: Foxtrot and Alpha, sending you 1
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:10.713520 Alpha: Whiskey, sending you 1
+2024-10-14 19:08:10.871551 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Papa and Charlie, sending you 2
+2024-10-14 19:08:10.878867 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:10.882591 Foxtrot: Zulu, Alpha, Hotel, Oscar and Papa, sending you 3
+2024-10-14 19:08:10.887456 Alpha: Oscar, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:08:10.892595 Oscar: Whiskey, sending you 3
+2024-10-14 19:08:10.901305 Whiskey: Echo, sending you 4
+2024-10-14 19:08:10.909426 Foxtrot: Whiskey and Charlie, sending you 2
+2024-10-14 19:08:10.919655 Alpha: Papa, sending you 4
+2024-10-14 19:08:10.928507 Whiskey: Oscar, sending you 3
+chatterbot Papa submitting transactions
+2024-10-14 19:08:11.035772 Whiskey: Charlie, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Foxtrot round 20
+ChatterBot Zulu round 20
+ChatterBot Alpha round 20
+ChatterBot Hotel round 20
+ChatterBot Echo round 20
+ChatterBot India round 20
+ChatterBot Whiskey round 20
+ChatterBot Oscar round 20
+ChatterBot Papa round 20
+ChatterBot Charlie round 20
+chatterbot Oscar submitting transactions
+2024-10-14 19:08:11.538277 Whiskey: We should replace Hotel with Papa
+ChatterBot Echo reevaluating
+2024-10-14 19:08:11.559912 Foxtrot: No
+2024-10-14 19:08:11.560084 Zulu: No
+2024-10-14 19:08:11.560208 Alpha: No
+2024-10-14 19:08:11.560350 Echo: No
+2024-10-14 19:08:11.560473 Oscar: No
+2024-10-14 19:08:11.560593 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 19:08:11.696589 Papa: We should drop Alpha
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:11.722309 Hotel: Yes
+2024-10-14 19:08:11.722469 Foxtrot: No
+2024-10-14 19:08:11.722584 Zulu: No
+2024-10-14 19:08:11.722720 Echo: Yes
+2024-10-14 19:08:11.722820 Whiskey: No
+2024-10-14 19:08:11.722921 Oscar: No
+2024-10-14 19:08:11.723413 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:11.982719 Echo: We should replace Hotel with Foxtrot
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:12.096290 Whiskey: No
+2024-10-14 19:08:12.097248 Oscar: No
+2024-10-14 19:08:12.097754 Charlie: No
+2024-10-14 19:08:12.098305 Zulu: No
+2024-10-14 19:08:12.098727 Alpha: No
+2024-10-14 19:08:12.099708 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:12.265636 Whiskey: We should replace Alpha with Papa
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:12.299180 Foxtrot: No
+2024-10-14 19:08:12.300368 Zulu: No
+2024-10-14 19:08:12.300589 Hotel: Yes
+2024-10-14 19:08:12.300741 Echo: No
+2024-10-14 19:08:12.300961 Oscar: No
+2024-10-14 19:08:12.301280 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:12.462015 India: Foxtrot, Zulu, Alpha, Hotel, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:08:12.473256 Zulu: Foxtrot, Alpha, Hotel, Whiskey and Charlie, sending you 2
+2024-10-14 19:08:12.483759 Alpha: Foxtrot, Zulu, Hotel, Whiskey and Charlie, sending you 2
+2024-10-14 19:08:12.492182 Foxtrot: Zulu, Alpha, Hotel, Oscar and Charlie, sending you 3
+2024-10-14 19:08:12.502057 Papa: We should drop Hotel
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:12.528848 Foxtrot: No
+2024-10-14 19:08:12.529035 Zulu: No
+2024-10-14 19:08:12.529146 Alpha: No
+2024-10-14 19:08:12.529255 Echo: No
+2024-10-14 19:08:12.529361 Whiskey: No
+2024-10-14 19:08:12.529505 Oscar: No
+2024-10-14 19:08:12.530663 Charlie: No
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:12.744873 Echo: We should replace Alpha with Foxtrot
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:12.775405 Zulu: No
+2024-10-14 19:08:12.775577 Hotel: Yes
+2024-10-14 19:08:12.775745 Whiskey: Yes
+2024-10-14 19:08:12.775871 Oscar: No
+2024-10-14 19:08:12.775982 Papa: Yes
+2024-10-14 19:08:12.776089 Charlie: Yes
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:12.931789 Hotel: We should replace Alpha with Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:12.955534 Foxtrot: No
+2024-10-14 19:08:12.955750 Zulu: No
+2024-10-14 19:08:12.955931 Whiskey: Yes
+2024-10-14 19:08:12.956055 Oscar: Yes
+2024-10-14 19:08:12.956789 Papa: No
+2024-10-14 19:08:12.956913 Charlie: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:13.101467 Charlie: We should drop India and Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:13.129892 Hotel: Yes
+2024-10-14 19:08:13.130091 Foxtrot: No
+2024-10-14 19:08:13.130228 Zulu: No
+2024-10-14 19:08:13.130353 Echo: No
+2024-10-14 19:08:13.130514 Whiskey: No
+2024-10-14 19:08:13.132214 Oscar: Yes
+2024-10-14 19:08:13.132384 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:13.539361 Zulu: Echo, Oscar and Papa, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 19:08:13.554440 Echo: Foxtrot we want you to join our group
+2024-10-14 19:08:13.569125 Foxtrot: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:13.653170 Whiskey: Papa we want you to join our group
+2024-10-14 19:08:13.665479 Papa: Yes
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:13.694942 Hotel: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:08:13.707998 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:13.737337 Foxtrot: We should add Echo
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:13.764220 Alpha: No
+2024-10-14 19:08:13.764390 Zulu: Yes
+2024-10-14 19:08:13.764520 Hotel: Yes
+2024-10-14 19:08:13.764649 Whiskey: Yes
+2024-10-14 19:08:13.764761 Oscar: Yes
+2024-10-14 19:08:13.765400 Papa: Yes
+2024-10-14 19:08:13.765552 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:14.012160 Alpha: We should replace Whiskey with Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:14.043137 Foxtrot: No
+2024-10-14 19:08:14.043313 Zulu: No
+2024-10-14 19:08:14.043426 Hotel: No
+2024-10-14 19:08:14.043532 Oscar: No
+2024-10-14 19:08:14.043667 Papa: No
+2024-10-14 19:08:14.043784 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 19:08:14.220940 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:14.232949 Alpha: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:08:14.248568 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:14.292383 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:14.316395 Oscar: Foxtrot, Zulu, Alpha, Hotel, Echo, Papa and Charlie, sending you 2
+2024-10-14 19:08:14.323723 Whiskey: Echo, sending you 4
+2024-10-14 19:08:14.331724 Oscar: Whiskey, sending you 3
+2024-10-14 19:08:14.371572 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:14.377221 Alpha: Sorry, I'm actually sending you 0
+chatterbot Whiskey submitting transactions
+2024-10-14 19:08:14.432780 Whiskey: Charlie, sending you 5
+2024-10-14 19:08:14.440912 Alpha: Foxtrot, Zulu, Hotel, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:08:14.443538 Echo: Zulu, Oscar, Papa and Charlie, sending you 2
+chatterbot Papa submitting transactions
+2024-10-14 19:08:14.452691 Alpha: Echo, sending you 4
+2024-10-14 19:08:14.456878 Foxtrot: Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:14.466030 Echo: Hotel, sending you 1
+2024-10-14 19:08:14.678692 Echo: Whiskey, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Foxtrot round 21
+ChatterBot Zulu round 21
+ChatterBot Alpha round 21
+ChatterBot Hotel round 21
+ChatterBot Echo round 21
+ChatterBot India round 21
+ChatterBot Whiskey round 21
+ChatterBot Oscar round 21
+ChatterBot Papa round 21
+ChatterBot Charlie round 21
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:15.799157 Hotel: We should replace Alpha with Echo
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:15.883925 Foxtrot: No
+2024-10-14 19:08:15.885250 Zulu: No
+2024-10-14 19:08:15.885546 Whiskey: Yes
+2024-10-14 19:08:15.886355 Oscar: Yes
+2024-10-14 19:08:15.886624 Papa: Yes
+2024-10-14 19:08:15.887096 Charlie: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:16.144277 Hotel: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:08:16.162004 Echo: No
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:16.196629 Echo: We should replace Foxtrot with Alpha
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:16.221897 Zulu: No
+2024-10-14 19:08:16.222184 Hotel: No
+2024-10-14 19:08:16.222819 Whiskey: No
+2024-10-14 19:08:16.222942 Oscar: No
+2024-10-14 19:08:16.223056 Papa: No
+2024-10-14 19:08:16.223175 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:16.379928 Charlie: We should drop India and Alpha
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:16.409077 Hotel: Yes
+2024-10-14 19:08:16.409266 Foxtrot: No
+2024-10-14 19:08:16.409398 Zulu: No
+2024-10-14 19:08:16.409518 Echo: Yes
+2024-10-14 19:08:16.409644 Whiskey: Yes
+2024-10-14 19:08:16.409764 Oscar: Yes
+2024-10-14 19:08:16.409872 Papa: Yes
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:08:16.703104 Echo: We should replace Oscar with Alpha
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:16.750729 Foxtrot: No
+2024-10-14 19:08:16.750921 Zulu: No
+2024-10-14 19:08:16.751098 Hotel: No
+2024-10-14 19:08:16.751248 Whiskey: No
+2024-10-14 19:08:16.752096 Papa: No
+2024-10-14 19:08:16.752260 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:16.987806 India: I was attacked by Echo
+ChatterBot Oscar reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:08:17.197055 India: I'm keeping this round to protect myself
+2024-10-14 19:08:17.212968 India: Ow
+2024-10-14 19:08:17.213713 Alpha: We should replace Echo with Whiskey
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:17.242747 Foxtrot: Yes
+2024-10-14 19:08:17.243011 Zulu: No
+2024-10-14 19:08:17.243190 Hotel: No
+2024-10-14 19:08:17.243408 Oscar: No
+2024-10-14 19:08:17.244254 Papa: No
+2024-10-14 19:08:17.244510 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 19:08:17.548523 Oscar: We should drop Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:17.578117 Hotel: Yes
+2024-10-14 19:08:17.578311 Foxtrot: No
+2024-10-14 19:08:17.578453 Zulu: No
+2024-10-14 19:08:17.578604 Echo: Yes
+2024-10-14 19:08:17.578764 Whiskey: Yes
+2024-10-14 19:08:17.578914 Papa: Yes
+2024-10-14 19:08:17.579045 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 19:08:17.920992 Foxtrot: We should drop Echo
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 19:08:17.964852 Alpha: Yes
+2024-10-14 19:08:17.965136 Zulu: No
+2024-10-14 19:08:17.965937 Hotel: No
+2024-10-14 19:08:17.966139 Whiskey: No
+2024-10-14 19:08:17.966341 Oscar: No
+2024-10-14 19:08:17.966529 Papa: No
+2024-10-14 19:08:17.966707 Charlie: No
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Zulu submitting transactions
+2024-10-14 19:08:18.305486 Oscar: Foxtrot, Zulu, Papa and Charlie, sending you 2
+2024-10-14 19:08:18.316042 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:18.326872 Whiskey: Foxtrot and Papa, sending you 1
+chatterbot Oscar submitting transactions
+2024-10-14 19:08:18.339291 Oscar: Hotel, Echo and Whiskey, sending you 3
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:18.349817 Echo: Whiskey, sending you 4
+2024-10-14 19:08:18.361071 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:18.373185 Foxtrot: Zulu, Hotel and Oscar, sending you 3
+2024-10-14 19:08:18.385780 Echo: Charlie, sending you 3
+chatterbot Whiskey submitting transactions
+2024-10-14 19:08:18.398499 Whiskey: Echo, sending you 4
+2024-10-14 19:08:18.412075 Foxtrot: Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:18.419216 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:18.441237 Whiskey: Charlie, sending you 5
+chatterbot Papa submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 22
+ChatterBot Zulu round 22
+ChatterBot Alpha round 22
+ChatterBot Hotel round 22
+ChatterBot Echo round 22
+ChatterBot India round 22
+ChatterBot Whiskey round 22
+ChatterBot Oscar round 22
+ChatterBot Papa round 22
+ChatterBot Charlie round 22
+chatterbot Hotel submitting transactions
+2024-10-14 19:08:21.050090 Hotel: We should replace Alpha with Echo
+2024-10-14 19:08:21.086968 Foxtrot: No
+2024-10-14 19:08:21.087402 Zulu: No
+2024-10-14 19:08:21.088349 Whiskey: Yes
+2024-10-14 19:08:21.088768 Oscar: Yes
+2024-10-14 19:08:21.089303 Papa: Yes
+2024-10-14 19:08:21.089855 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:21.365536 Hotel: Echo we want you to join our group
+2024-10-14 19:08:21.382261 Echo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:21.429532 Papa: We should drop Alpha
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:21.471400 Hotel: Yes
+2024-10-14 19:08:21.471659 Foxtrot: No
+2024-10-14 19:08:21.471852 Zulu: No
+2024-10-14 19:08:21.472082 Echo: Yes
+2024-10-14 19:08:21.472262 Whiskey: Yes
+2024-10-14 19:08:21.472453 Oscar: Yes
+2024-10-14 19:08:21.472664 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:21.787776 Charlie: We should drop India and Alpha
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:21.832046 Hotel: Yes
+2024-10-14 19:08:21.832713 Foxtrot: No
+2024-10-14 19:08:21.832942 Zulu: No
+2024-10-14 19:08:21.833119 Echo: Yes
+2024-10-14 19:08:21.833296 Whiskey: Yes
+2024-10-14 19:08:21.833477 Oscar: Yes
+2024-10-14 19:08:21.833672 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:22.190142 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:22.204285 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:22.218957 Oscar: Foxtrot, Zulu, Papa and Charlie, sending you 2
+chatterbot India submitting transactions
+2024-10-14 19:08:22.234135 Echo: Whiskey, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 19:08:22.245668 Whiskey: Zulu and Hotel, sending you 2
+chatterbot Echo submitting transactions
+2024-10-14 19:08:22.258700 Oscar: Hotel, Echo and Whiskey, sending you 3
+2024-10-14 19:08:22.270114 Echo: Charlie, sending you 3
+2024-10-14 19:08:22.276899 Whiskey: Echo, sending you 4
+2024-10-14 19:08:22.287205 Foxtrot: Zulu, Hotel and Oscar, sending you 3
+2024-10-14 19:08:22.299333 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:22.313503 Foxtrot: Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 19:08:22.320724 Whiskey: Charlie, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 23
+ChatterBot Zulu round 23
+ChatterBot Alpha round 23
+ChatterBot Hotel round 23
+ChatterBot Echo round 23
+ChatterBot India round 23
+ChatterBot Whiskey round 23
+ChatterBot Oscar round 23
+ChatterBot Papa round 23
+ChatterBot Charlie round 23
+2024-10-14 19:08:23.740084 Hotel: We should replace Alpha with Echo
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:23.766168 Foxtrot: Yes
+2024-10-14 19:08:23.766816 Zulu: No
+2024-10-14 19:08:23.767005 Whiskey: Yes
+2024-10-14 19:08:23.767181 Oscar: Yes
+2024-10-14 19:08:23.767348 Papa: Yes
+2024-10-14 19:08:23.767556 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:23.949131 Hotel: Echo we want you to join our group
+2024-10-14 19:08:23.961732 Echo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:23.995174 Charlie: We should drop India and Alpha
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:24.022965 Hotel: Yes
+2024-10-14 19:08:24.023167 Foxtrot: No
+2024-10-14 19:08:24.023973 Zulu: No
+2024-10-14 19:08:24.024123 Echo: Yes
+2024-10-14 19:08:24.024241 Whiskey: Yes
+2024-10-14 19:08:24.024363 Oscar: Yes
+2024-10-14 19:08:24.024496 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:24.263829 Papa: We should drop Alpha
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:24.308336 Hotel: Yes
+2024-10-14 19:08:24.308661 Foxtrot: No
+2024-10-14 19:08:24.308959 Zulu: No
+2024-10-14 19:08:24.309731 Echo: Yes
+2024-10-14 19:08:24.309955 Whiskey: Yes
+2024-10-14 19:08:24.310164 Oscar: Yes
+2024-10-14 19:08:24.310384 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 19:08:24.842630 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:24.856239 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:24.869274 Oscar: Foxtrot, Zulu, Papa and Charlie, sending you 2
+2024-10-14 19:08:24.882234 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:24.894859 Echo: Whiskey, sending you 4
+2024-10-14 19:08:24.904729 Oscar: Hotel, Echo and Whiskey, sending you 3
+2024-10-14 19:08:24.915493 Foxtrot: Zulu, Hotel and Oscar, sending you 3
+2024-10-14 19:08:24.926434 Whiskey: Echo, sending you 4
+2024-10-14 19:08:24.932955 Echo: Charlie, sending you 3
+2024-10-14 19:08:24.945647 Foxtrot: Alpha, Echo, Whiskey, Papa and Charlie, sending you 2
+2024-10-14 19:08:24.960608 Whiskey: Oscar, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-14 19:08:25.021889 Whiskey: Charlie, sending you 5
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 24
+ChatterBot Zulu round 24
+ChatterBot Alpha round 24
+ChatterBot Hotel round 24
+ChatterBot Echo round 24
+ChatterBot India round 24
+ChatterBot Whiskey round 24
+ChatterBot Oscar round 24
+ChatterBot Papa round 24
+ChatterBot Charlie round 24
+2024-10-14 19:08:26.353886 Alpha: We should replace Papa with Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:26.393835 Foxtrot: No
+2024-10-14 19:08:26.394067 Zulu: No
+2024-10-14 19:08:26.394242 Hotel: No
+2024-10-14 19:08:26.394841 Whiskey: Yes
+2024-10-14 19:08:26.395003 Oscar: No
+2024-10-14 19:08:26.395156 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:26.594585 Hotel: We should replace Alpha with Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:26.622380 Foxtrot: Yes
+2024-10-14 19:08:26.622607 Zulu: No
+2024-10-14 19:08:26.622733 Whiskey: Yes
+2024-10-14 19:08:26.622842 Oscar: Yes
+2024-10-14 19:08:26.622945 Papa: Yes
+2024-10-14 19:08:26.623088 Charlie: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:26.948631 Charlie: We should drop India and Alpha
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:26.980046 Hotel: Yes
+2024-10-14 19:08:26.980374 Foxtrot: Yes
+2024-10-14 19:08:26.980654 Zulu: No
+2024-10-14 19:08:26.981083 Echo: Yes
+2024-10-14 19:08:26.981315 Whiskey: Yes
+2024-10-14 19:08:26.981622 Oscar: Yes
+2024-10-14 19:08:26.982407 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:27.211880 Hotel: Echo we want you to join our group
+2024-10-14 19:08:27.231597 Echo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 19:08:27.279520 Papa: We should drop Alpha
+2024-10-14 19:08:27.323290 Hotel: Yes
+2024-10-14 19:08:27.323581 Foxtrot: Yes
+2024-10-14 19:08:27.323805 Zulu: No
+2024-10-14 19:08:27.324022 Echo: Yes
+2024-10-14 19:08:27.324760 Whiskey: Yes
+2024-10-14 19:08:27.324979 Oscar: Yes
+2024-10-14 19:08:27.325194 Charlie: Yes
+2024-10-14 19:08:27.607181 Echo: Foxtrot, Zulu, Hotel and Papa, sending you 2
+2024-10-14 19:08:27.622884 Oscar: Foxtrot, Echo, Papa and Charlie, sending you 2
+2024-10-14 19:08:27.637903 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:27.649536 Echo: Whiskey, Oscar and Charlie, sending you 3
+2024-10-14 19:08:27.659225 Oscar: Zulu, Hotel and Whiskey, sending you 3
+chatterbot Zulu submitting transactions
+2024-10-14 19:08:27.669097 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:27.679690 Foxtrot: Zulu, Hotel, Echo, Oscar, Papa and Charlie, sending you 3
+2024-10-14 19:08:27.693211 Whiskey: Echo, sending you 4
+2024-10-14 19:08:27.703493 Foxtrot: Whiskey, sending you 1
+2024-10-14 19:08:27.714929 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:27.725693 Whiskey: Charlie, sending you 5
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 25
+ChatterBot Zulu round 25
+ChatterBot Alpha round 25
+ChatterBot Hotel round 25
+ChatterBot Echo round 25
+ChatterBot India round 25
+ChatterBot Whiskey round 25
+ChatterBot Oscar round 25
+ChatterBot Papa round 25
+ChatterBot Charlie round 25
+2024-10-14 19:08:28.969334 Hotel: We should replace Alpha with Echo
+2024-10-14 19:08:28.995810 Foxtrot: Yes
+2024-10-14 19:08:28.996022 Zulu: No
+2024-10-14 19:08:28.996172 Whiskey: Yes
+2024-10-14 19:08:28.996308 Oscar: Yes
+2024-10-14 19:08:28.996442 Papa: Yes
+2024-10-14 19:08:28.996577 Charlie: Yes
+2024-10-14 19:08:29.236916 Papa: We should drop Alpha
+2024-10-14 19:08:29.266797 Hotel: Yes
+2024-10-14 19:08:29.267123 Foxtrot: Yes
+2024-10-14 19:08:29.267365 Zulu: No
+2024-10-14 19:08:29.267610 Echo: Yes
+2024-10-14 19:08:29.267889 Whiskey: Yes
+2024-10-14 19:08:29.268466 Oscar: Yes
+2024-10-14 19:08:29.268664 Charlie: Yes
+2024-10-14 19:08:29.477960 Hotel: Echo we want you to join our group
+2024-10-14 19:08:29.487488 Echo: Yes
+2024-10-14 19:08:29.511149 Charlie: We should drop India and Alpha
+2024-10-14 19:08:29.532974 Hotel: Yes
+2024-10-14 19:08:29.533139 Foxtrot: Yes
+2024-10-14 19:08:29.533286 Zulu: No
+2024-10-14 19:08:29.533433 Echo: Yes
+2024-10-14 19:08:29.533568 Whiskey: Yes
+2024-10-14 19:08:29.533714 Oscar: Yes
+2024-10-14 19:08:29.533863 Papa: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:29.691668 Oscar: Foxtrot, Zulu, Papa and Charlie, sending you 2
+chatterbot Zulu submitting transactions
+2024-10-14 19:08:29.695140 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:29.697994 Foxtrot: Zulu, Hotel, Echo, Oscar and Papa, sending you 3
+2024-10-14 19:08:29.699663 Oscar: Hotel, Echo and Whiskey, sending you 3
+2024-10-14 19:08:29.702693 Echo: Whiskey, sending you 4
+2024-10-14 19:08:29.706800 Foxtrot: Whiskey and Charlie, sending you 2
+2024-10-14 19:08:29.710690 Echo: Charlie, sending you 3
+2024-10-14 19:08:29.714687 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:29.720683 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:29.726707 Whiskey: Echo, sending you 4
+2024-10-14 19:08:29.733673 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:29.737678 Whiskey: Charlie, sending you 5
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Foxtrot round 26
+ChatterBot Zulu round 26
+ChatterBot Alpha round 26
+ChatterBot Hotel round 26
+ChatterBot Echo round 26
+ChatterBot India round 26
+ChatterBot Whiskey round 26
+ChatterBot Oscar round 26
+ChatterBot Papa round 26
+ChatterBot Charlie round 26
+2024-10-14 19:08:30.683311 Hotel: We should replace Alpha with Echo
+2024-10-14 19:08:30.708275 Foxtrot: Yes
+2024-10-14 19:08:30.708534 Zulu: No
+2024-10-14 19:08:30.708756 Whiskey: Yes
+2024-10-14 19:08:30.708965 Oscar: Yes
+2024-10-14 19:08:30.709901 Papa: Yes
+2024-10-14 19:08:30.710092 Charlie: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:30.944139 Charlie: We should drop India and Alpha
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:30.970084 Hotel: Yes
+2024-10-14 19:08:30.971007 Foxtrot: Yes
+2024-10-14 19:08:30.971288 Zulu: No
+2024-10-14 19:08:30.971643 Echo: Yes
+2024-10-14 19:08:30.971999 Whiskey: Yes
+2024-10-14 19:08:30.972281 Oscar: Yes
+2024-10-14 19:08:30.972566 Papa: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:31.153834 Hotel: Echo we want you to join our group
+2024-10-14 19:08:31.160044 Echo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:31.182155 Papa: We should drop Alpha
+ChatterBot Zulu reevaluating
+2024-10-14 19:08:31.201909 Hotel: Yes
+2024-10-14 19:08:31.202062 Foxtrot: Yes
+2024-10-14 19:08:31.202208 Zulu: No
+2024-10-14 19:08:31.202339 Echo: Yes
+2024-10-14 19:08:31.202449 Whiskey: Yes
+2024-10-14 19:08:31.202576 Oscar: Yes
+2024-10-14 19:08:31.202716 Charlie: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 19:08:31.345721 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:31.354325 Foxtrot: Zulu, Hotel, Echo, Oscar, Papa and Charlie, sending you 3
+2024-10-14 19:08:31.362085 Echo: Whiskey, sending you 4
+2024-10-14 19:08:31.370232 Foxtrot: Whiskey, sending you 1
+2024-10-14 19:08:31.378821 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:31.386908 Oscar: Foxtrot, Zulu, Papa and Charlie, sending you 2
+2024-10-14 19:08:31.395775 Echo: Charlie, sending you 3
+2024-10-14 19:08:31.404178 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:31.411893 Oscar: Hotel, Echo and Whiskey, sending you 3
+2024-10-14 19:08:31.419100 Whiskey: Echo, sending you 4
+2024-10-14 19:08:31.429787 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:31.443685 Whiskey: Charlie, sending you 5
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 27
+ChatterBot Zulu round 27
+ChatterBot Alpha round 27
+ChatterBot Hotel round 27
+ChatterBot Echo round 27
+ChatterBot India round 27
+ChatterBot Whiskey round 27
+ChatterBot Oscar round 27
+ChatterBot Papa round 27
+ChatterBot Charlie round 27
+2024-10-14 19:08:32.231913 Hotel: We should replace Alpha with Echo
+ChatterBot Zulu reevaluating
+2024-10-14 19:08:32.252789 Foxtrot: Yes
+2024-10-14 19:08:32.252988 Zulu: No
+2024-10-14 19:08:32.253137 Whiskey: Yes
+2024-10-14 19:08:32.253272 Oscar: Yes
+2024-10-14 19:08:32.253404 Papa: Yes
+2024-10-14 19:08:32.253540 Charlie: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:32.356407 Alpha: We should replace Oscar with Echo
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:32.372948 Foxtrot: No
+2024-10-14 19:08:32.373113 Zulu: No
+2024-10-14 19:08:32.373217 Hotel: No
+2024-10-14 19:08:32.373309 Whiskey: No
+2024-10-14 19:08:32.373405 Papa: No
+2024-10-14 19:08:32.373495 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:32.491328 Hotel: Echo we want you to join our group
+2024-10-14 19:08:32.495593 Echo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:32.514428 Charlie: We should drop India and Alpha
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:32.532621 Hotel: Yes
+2024-10-14 19:08:32.532819 Foxtrot: Yes
+2024-10-14 19:08:32.532989 Zulu: Yes
+2024-10-14 19:08:32.533366 Echo: Yes
+2024-10-14 19:08:32.533485 Whiskey: Yes
+2024-10-14 19:08:32.533623 Oscar: Yes
+2024-10-14 19:08:32.533753 Papa: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:32.722495 Papa: We should drop Alpha
+ChatterBot Zulu reevaluating
+2024-10-14 19:08:32.783900 Hotel: Yes
+2024-10-14 19:08:32.784225 Foxtrot: Yes
+2024-10-14 19:08:32.784400 Zulu: Yes
+2024-10-14 19:08:32.784571 Echo: Yes
+2024-10-14 19:08:32.784710 Whiskey: Yes
+2024-10-14 19:08:32.784892 Oscar: Yes
+2024-10-14 19:08:32.785028 Charlie: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 19:08:32.951692 Echo: Foxtrot, Zulu, Hotel, Oscar and Papa, sending you 2
+2024-10-14 19:08:32.955313 Oscar: Foxtrot, Echo, Papa and Charlie, sending you 2
+2024-10-14 19:08:32.957994 Foxtrot: Zulu, Hotel, Echo, Oscar, Papa and Charlie, sending you 3
+2024-10-14 19:08:32.962554 Echo: Whiskey, sending you 4
+2024-10-14 19:08:32.965248 Oscar: Zulu, Hotel and Whiskey, sending you 3
+2024-10-14 19:08:32.967401 Foxtrot: Whiskey, sending you 1
+2024-10-14 19:08:32.970002 Echo: Charlie, sending you 3
+2024-10-14 19:08:32.973692 Whiskey: Foxtrot and Papa, sending you 1
+2024-10-14 19:08:32.981671 Whiskey: Zulu and Hotel, sending you 2
+2024-10-14 19:08:32.991695 Whiskey: Echo, sending you 4
+chatterbot Foxtrot submitting transactions
+2024-10-14 19:08:32.999677 Whiskey: Oscar, sending you 3
+2024-10-14 19:08:33.007681 Whiskey: Charlie, sending you 5
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Foxtrot round 28
+ChatterBot Zulu round 28
+ChatterBot Alpha round 28
+ChatterBot Hotel round 28
+ChatterBot Echo round 28
+ChatterBot India round 28
+ChatterBot Whiskey round 28
+ChatterBot Oscar round 28
+ChatterBot Papa round 28
+ChatterBot Charlie round 28
+2024-10-14 19:08:33.886150 Alpha: We should add India and Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:33.917003 Foxtrot: No
+2024-10-14 19:08:33.917242 Zulu: No
+2024-10-14 19:08:33.917419 Hotel: No
+2024-10-14 19:08:33.917585 Whiskey: No
+2024-10-14 19:08:33.917762 Oscar: No
+2024-10-14 19:08:33.917926 Papa: No
+2024-10-14 19:08:33.918086 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:34.120384 Foxtrot: We should drop Zulu
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.135233 Hotel: Yes
+2024-10-14 19:08:34.135411 Echo: Yes
+2024-10-14 19:08:34.135530 Whiskey: Yes
+2024-10-14 19:08:34.135646 Oscar: No
+2024-10-14 19:08:34.135758 Papa: No
+2024-10-14 19:08:34.135862 Charlie: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.248861 Oscar: We should drop Hotel
+2024-10-14 19:08:34.272994 Charlie: Yes
+2024-10-14 19:08:34.273191 Foxtrot: No
+2024-10-14 19:08:34.273323 Zulu: Yes
+2024-10-14 19:08:34.273447 Echo: No
+2024-10-14 19:08:34.273572 Whiskey: Yes
+2024-10-14 19:08:34.273706 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.387031 Echo: Foxtrot and Hotel, sending you 2
+2024-10-14 19:08:34.392286 Foxtrot: We should drop Zulu and Hotel
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.413176 Echo: No
+2024-10-14 19:08:34.413454 Whiskey: No
+2024-10-14 19:08:34.413622 Oscar: No
+2024-10-14 19:08:34.413767 Papa: No
+2024-10-14 19:08:34.413897 Charlie: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.496256 Whiskey: Zulu and Papa, sending you 2
+2024-10-14 19:08:34.498813 Echo: Whiskey, sending you 4
+2024-10-14 19:08:34.503823 Whiskey: Alpha, sending you 1
+2024-10-14 19:08:34.506011 Echo: Oscar, Papa and Charlie, sending you 3
+2024-10-14 19:08:34.509 Oscar: We should replace Hotel with Alpha
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:08:34.533227 Charlie: No
+2024-10-14 19:08:34.533437 Foxtrot: No
+2024-10-14 19:08:34.533580 Zulu: Yes
+2024-10-14 19:08:34.533724 Echo: No
+2024-10-14 19:08:34.533842 Whiskey: Yes
+2024-10-14 19:08:34.533965 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Charlie submitting transactions
+2024-10-14 19:08:34.678920 Echo: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.703710 Papa: Yes
+2024-10-14 19:08:34.703964 Hotel: Yes
+2024-10-14 19:08:34.704124 Whiskey: Yes
+2024-10-14 19:08:34.704280 Oscar: No
+2024-10-14 19:08:34.704439 Charlie: No
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:34.804686 Foxtrot: Hotel, Echo, Whiskey, Papa and Charlie, sending you 3
+2024-10-14 19:08:34.808712 Oscar: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:34.813519 Alpha: No
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:34.844818 Alpha: We should replace Zulu with Echo
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:34.861130 Foxtrot: Yes
+2024-10-14 19:08:34.861267 Hotel: Yes
+2024-10-14 19:08:34.861375 Whiskey: No
+2024-10-14 19:08:34.861483 Oscar: No
+2024-10-14 19:08:34.861577 Papa: Yes
+2024-10-14 19:08:34.861685 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:34.954826 Foxtrot: Oscar, sending you 4
+chatterbot Alpha submitting transactions
+2024-10-14 19:08:34.988705 Oscar: Sending you each 2
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 29
+ChatterBot Zulu round 29
+ChatterBot Alpha round 29
+ChatterBot Hotel round 29
+ChatterBot Echo round 29
+ChatterBot India round 29
+ChatterBot Whiskey round 29
+ChatterBot Oscar round 29
+chatterbot Hotel submitting transactions
+ChatterBot Papa round 29
+ChatterBot Charlie round 29
+2024-10-14 19:08:35.799064 Alpha: We should replace Zulu with Echo
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:35.824759 Foxtrot: Yes
+2024-10-14 19:08:35.825097 Hotel: No
+2024-10-14 19:08:35.825321 Whiskey: No
+2024-10-14 19:08:35.825532 Oscar: No
+2024-10-14 19:08:35.825738 Papa: No
+2024-10-14 19:08:35.825944 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:36.002306 Oscar: We should add Alpha
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:36.019649 Charlie: Yes
+2024-10-14 19:08:36.019931 Foxtrot: No
+2024-10-14 19:08:36.020138 Zulu: Yes
+2024-10-14 19:08:36.020356 Echo: No
+2024-10-14 19:08:36.020563 Whiskey: Yes
+2024-10-14 19:08:36.020789 Papa: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Papa submitting transactions
+2024-10-14 19:08:36.155830 Foxtrot: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:36.161625 Alpha: Yes
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:36.180736 India: We should drop Hotel
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:36.199299 Echo: Yes
+2024-10-14 19:08:36.199463 Foxtrot: No
+2024-10-14 19:08:36.199571 Whiskey: Yes
+2024-10-14 19:08:36.199707 Oscar: Yes
+2024-10-14 19:08:36.199831 Charlie: Yes
+2024-10-14 19:08:36.199955 Zulu: Yes
+2024-10-14 19:08:36.200081 Alpha: No
+2024-10-14 19:08:36.200186 Papa: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:36.372765 Papa: We should drop Foxtrot and Hotel
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:36.386120 Whiskey: Yes
+2024-10-14 19:08:36.386297 Echo: No
+2024-10-14 19:08:36.386411 Oscar: No
+2024-10-14 19:08:36.386528 Charlie: Yes
+2024-10-14 19:08:36.386641 Zulu: No
+2024-10-14 19:08:36.386756 Alpha: Yes
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 19:08:36.471744 Oscar: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:36.475139 Alpha: No
+ChatterBot Echo reevaluating
+2024-10-14 19:08:36.495773 Foxtrot: Alpha, Hotel, Whiskey and Papa, sending you 2
+2024-10-14 19:08:36.502693 Foxtrot: Echo and Oscar, sending you 4
+2024-10-14 19:08:36.505690 Oscar: Foxtrot, Zulu, Alpha and Charlie, sending you 1
+2024-10-14 19:08:36.508690 Foxtrot: Charlie, sending you 3
+2024-10-14 19:08:36.510407 Echo: Foxtrot, Zulu, Oscar, Papa and Charlie, sending you 2
+2024-10-14 19:08:36.512252 Oscar: Echo, Whiskey and Papa, sending you 2
+2024-10-14 19:08:36.515035 Echo: Alpha, sending you 1
+2024-10-14 19:08:36.522735 Echo: Whiskey, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Foxtrot round 30
+ChatterBot Zulu round 30
+ChatterBot Alpha round 30
+ChatterBot Hotel round 30
+ChatterBot Echo round 30
+ChatterBot India round 30
+ChatterBot Whiskey round 30
+ChatterBot Oscar round 30
+ChatterBot Papa round 30
+ChatterBot Charlie round 30
+2024-10-14 19:08:37.600239 Hotel: We should add Echo
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:37.624766 Alpha: Yes
+2024-10-14 19:08:37.625181 Foxtrot: Yes
+2024-10-14 19:08:37.625327 Zulu: Yes
+2024-10-14 19:08:37.625445 Whiskey: No
+2024-10-14 19:08:37.625558 Oscar: Yes
+2024-10-14 19:08:37.625677 Papa: Yes
+2024-10-14 19:08:37.625799 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:37.821804 Oscar: We should replace Zulu with Hotel
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:37.842054 Foxtrot: No
+2024-10-14 19:08:37.842243 Alpha: No
+2024-10-14 19:08:37.842361 Echo: No
+2024-10-14 19:08:37.842476 Whiskey: Yes
+2024-10-14 19:08:37.842588 Papa: No
+2024-10-14 19:08:37.842701 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:37.972664 Foxtrot: We should replace Hotel with Zulu
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:37.994435 Alpha: Yes
+2024-10-14 19:08:37.994690 Echo: Yes
+2024-10-14 19:08:37.994848 Whiskey: No
+2024-10-14 19:08:37.994985 Oscar: No
+2024-10-14 19:08:37.995087 Papa: No
+2024-10-14 19:08:37.995185 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:38.125082 Alpha: We should replace Hotel with Echo
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:38.145729 Foxtrot: Yes
+2024-10-14 19:08:38.145884 Zulu: Yes
+2024-10-14 19:08:38.146014 Whiskey: Yes
+2024-10-14 19:08:38.146114 Oscar: No
+2024-10-14 19:08:38.146208 Papa: Yes
+2024-10-14 19:08:38.146301 Charlie: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:38.280180 Zulu: We should drop Hotel
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 19:08:38.305590 Papa: Yes
+2024-10-14 19:08:38.305829 Foxtrot: Yes
+2024-10-14 19:08:38.305958 Alpha: Yes
+2024-10-14 19:08:38.306060 Echo: Yes
+2024-10-14 19:08:38.306161 Whiskey: No
+2024-10-14 19:08:38.306259 Oscar: No
+2024-10-14 19:08:38.306399 Charlie: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 19:08:38.479002 Hotel: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:08:38.484657 Echo: No
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:38.512864 Whiskey: We should replace Zulu with Foxtrot
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:38.529097 Echo: No
+2024-10-14 19:08:38.529298 Oscar: Yes
+2024-10-14 19:08:38.529405 Charlie: No
+2024-10-14 19:08:38.529516 Alpha: No
+2024-10-14 19:08:38.529634 Papa: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:38.616286 India: I was attacked by Hotel
+2024-10-14 19:08:38.616655 India: I'm keeping this round to protect myself
+2024-10-14 19:08:38.617158 India: Ow
+2024-10-14 19:08:38.618111 Foxtrot: Zulu we want you to join our group
+2024-10-14 19:08:38.622312 Zulu: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Zulu submitting transactions
+2024-10-14 19:08:38.646595 Papa: We should drop Zulu and Hotel
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:38.664523 Foxtrot: No
+2024-10-14 19:08:38.664758 Alpha: No
+2024-10-14 19:08:38.664882 Echo: No
+2024-10-14 19:08:38.664990 Whiskey: Yes
+2024-10-14 19:08:38.665097 Oscar: No
+2024-10-14 19:08:38.665201 Charlie: No
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 19:08:38.777907 Charlie: We should drop Hotel and India
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:38.799252 Papa: Yes
+2024-10-14 19:08:38.799424 Foxtrot: Yes
+2024-10-14 19:08:38.799534 Zulu: Yes
+2024-10-14 19:08:38.799679 Alpha: Yes
+2024-10-14 19:08:38.799785 Echo: Yes
+2024-10-14 19:08:38.799882 Whiskey: Yes
+2024-10-14 19:08:38.799979 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:38.989099 Alpha: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 19:08:38.993980 Echo: No
+ChatterBot Whiskey reevaluating
+2024-10-14 19:08:39.015663 Oscar: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 19:08:39.021077 Hotel: Yes
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:39.050912 Whiskey: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 19:08:39.058856 Hotel: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:39.092086 Papa: We should drop Foxtrot and Hotel
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 19:08:39.115012 Whiskey: No
+2024-10-14 19:08:39.115208 Echo: No
+2024-10-14 19:08:39.115332 Oscar: No
+2024-10-14 19:08:39.115545 Charlie: No
+2024-10-14 19:08:39.115716 Zulu: No
+2024-10-14 19:08:39.115886 Alpha: No
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 19:08:39.246730 Oscar: Foxtrot, Alpha, Hotel and Charlie, sending you 2
+2024-10-14 19:08:39.252707 Oscar: Echo, Whiskey and Papa, sending you 3
+2024-10-14 19:08:39.264705 Foxtrot: Zulu, Alpha, Whiskey and Papa, sending you 2
+2024-10-14 19:08:39.268692 Echo: Foxtrot, Zulu and Alpha, sending you 1
+2024-10-14 19:08:39.270696 Foxtrot: Echo, Oscar and Charlie, sending you 3
+2024-10-14 19:08:39.272971 Echo: Whiskey, Oscar, Papa and Charlie, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions

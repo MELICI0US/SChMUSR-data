@@ -1,0 +1,1784 @@
+ChatterBot Victor round 1
+ChatterBot Golf round 1
+ChatterBot Echo round 1
+ChatterBot Yankee round 1
+ChatterBot Foxtrot round 1
+ChatterBot Uniform round 1
+ChatterBot Papa round 1
+ChatterBot Whiskey round 1
+ChatterBot Hotel round 1
+ChatterBot November round 1
+randomSelections Golf: {Golf, Uniform, Foxtrot, Whiskey, Victor, Hotel} 
+2024-10-14 18:52:17.554370 Golf: Friends?
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:17.569124 Uniform: Yes
+2024-10-14 18:52:17.569286 Foxtrot: Yes
+2024-10-14 18:52:17.569388 Whiskey: Yes
+2024-10-14 18:52:17.569499 Victor: Yes
+2024-10-14 18:52:17.569631 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+randomSelections Echo: {Echo, Victor} 
+2024-10-14 18:52:17.637186 Echo: Group up?
+ChatterBot Victor reevaluating
+2024-10-14 18:52:17.639140 Victor: No
+randomSelections Yankee: {Yankee, Papa, Victor, Uniform, Echo, Foxtrot} 
+2024-10-14 18:52:17.643749 Yankee: Let's form a team
+ChatterBot Papa reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:17.654540 Papa: Yes
+2024-10-14 18:52:17.654694 Victor: No
+2024-10-14 18:52:17.654846 Uniform: No
+2024-10-14 18:52:17.654988 Echo: No
+2024-10-14 18:52:17.655503 Foxtrot: No
+ChatterBot Victor reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Uniform reevaluating
+randomSelections November: {November, Echo, Yankee, Whiskey, Uniform} 
+2024-10-14 18:52:17.702558 November: We should group up
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 18:52:17.708412 Echo: No
+2024-10-14 18:52:17.708552 Yankee: No
+2024-10-14 18:52:17.708702 Whiskey: No
+2024-10-14 18:52:17.708900 Uniform: No
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:17.761692 November: Echo, Yankee and Whiskey, sending you 5
+2024-10-14 18:52:17.764155 Echo: Sending you 12
+2024-10-14 18:52:17.765878 November: Uniform, sending you 1
+2024-10-14 18:52:17.766707 Foxtrot: Victor, Golf and Uniform, sending you 4
+2024-10-14 18:52:17.769494 Golf: Victor and Hotel, sending you 4
+2024-10-14 18:52:17.771385 Yankee: Victor, sending you 6
+2024-10-14 18:52:17.772886 Foxtrot: Whiskey and Hotel, sending you 2
+2024-10-14 18:52:17.773240 Uniform: Victor, Golf and Whiskey, sending you 4
+2024-10-14 18:52:17.773656 Victor: Golf, Foxtrot and Hotel, sending you 2
+2024-10-14 18:52:17.773995 Hotel: Victor, sending you 6
+2024-10-14 18:52:17.775297 Golf: Foxtrot, sending you 2
+2024-10-14 18:52:17.775672 Papa: Victor and Yankee, sending you 4
+2024-10-14 18:52:17.776113 Whiskey: Victor, sending you 3
+2024-10-14 18:52:17.781516 Victor: Uniform and Whiskey, sending you 4
+2024-10-14 18:52:17.781948 Yankee: Echo and Uniform, sending you 3
+2024-10-14 18:52:17.782410 Uniform: Foxtrot, sending you 1
+2024-10-14 18:52:17.783435 Hotel: Golf, sending you 2
+2024-10-14 18:52:17.783968 Papa: Echo, sending you 3
+2024-10-14 18:52:17.784955 Golf: Uniform, sending you 3
+2024-10-14 18:52:17.785346 Whiskey: Golf, sending you 1
+2024-10-14 18:52:17.793009 Yankee: Foxtrot and Papa, sending you 1
+2024-10-14 18:52:17.793948 Hotel: Foxtrot, sending you 4
+2024-10-14 18:52:17.794394 Papa: Foxtrot and Uniform, sending you 2
+2024-10-14 18:52:17.794866 Whiskey: Foxtrot, Uniform and Hotel, sending you 4
+2024-10-14 18:52:17.799752 Hotel: Whiskey, sending you 3
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 2
+ChatterBot Golf round 2
+ChatterBot Echo round 2
+ChatterBot Yankee round 2
+ChatterBot Foxtrot round 2
+ChatterBot Uniform round 2
+ChatterBot Papa round 2
+ChatterBot Whiskey round 2
+ChatterBot Hotel round 2
+ChatterBot November round 2
+2024-10-14 18:52:19.391431 Echo: Can we be friends?
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:19.399592 Yankee: Yes
+2024-10-14 18:52:19.400173 Papa: Yes
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:19.415123 Papa: Can we be friends?
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:19.423284 Echo: Yes
+2024-10-14 18:52:19.423433 Yankee: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:19.451830 Victor: We should add Echo
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:19.469075 Golf: No
+2024-10-14 18:52:19.469274 Uniform: No
+2024-10-14 18:52:19.469399 Foxtrot: Yes
+2024-10-14 18:52:19.469511 Whiskey: No
+2024-10-14 18:52:19.469650 Hotel: No
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:19.561784 Uniform: We should add Yankee and Papa
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:19.579332 Golf: No
+2024-10-14 18:52:19.579484 Foxtrot: No
+2024-10-14 18:52:19.579594 Whiskey: No
+2024-10-14 18:52:19.579710 Victor: No
+2024-10-14 18:52:19.579798 Hotel: No
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:19.766658 Victor: Echo we want you to join our group
+2024-10-14 18:52:19.771288 Echo: No
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:19.792661 Uniform: We should add Yankee
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:19.817158 Golf: No
+2024-10-14 18:52:19.817446 Foxtrot: No
+2024-10-14 18:52:19.818196 Whiskey: No
+2024-10-14 18:52:19.818574 Victor: No
+2024-10-14 18:52:19.818820 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:20.242397 Yankee: Sending you each 8
+2024-10-14 18:52:20.242644 Hotel: Victor and Foxtrot, sending you 3
+2024-10-14 18:52:20.243437 Echo: Sending you each 8
+2024-10-14 18:52:20.243733 Uniform: Yankee we want you to join our group
+2024-10-14 18:52:20.247592 Yankee: No
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+2024-10-14 18:52:20.267055 Hotel: Golf and Whiskey, sending you 4
+2024-10-14 18:52:20.485990 Victor: Golf, Foxtrot, Uniform and Whiskey, sending you 2
+2024-10-14 18:52:20.486490 Hotel: Uniform, sending you 1
+2024-10-14 18:52:20.487051 Papa: Echo, sending you 4
+2024-10-14 18:52:20.488220 Golf: Victor and Hotel, sending you 3
+2024-10-14 18:52:20.488800 Foxtrot: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:20.494365 Yankee: No
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:20.515196 Yankee: We should add Echo
+2024-10-14 18:52:20.522673 Papa: Yes
+2024-10-14 18:52:20.523434 November: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+2024-10-14 18:52:20.545623 Victor: Echo and Hotel, sending you 3
+2024-10-14 18:52:20.547423 Papa: Yankee, sending you 10
+2024-10-14 18:52:20.548052 Golf: Foxtrot and Uniform, sending you 4
+2024-10-14 18:52:20.549946 Whiskey: November we want you to join our group
+2024-10-14 18:52:20.555180 November: No
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 18:52:20.576738 Golf: Whiskey, sending you 2
+2024-10-14 18:52:20.699883 Uniform: We should drop Hotel
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:20.714030 Victor: No
+2024-10-14 18:52:20.714211 Golf: No
+2024-10-14 18:52:20.714338 Foxtrot: No
+2024-10-14 18:52:20.714501 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 18:52:20.831539 Uniform: Victor and Foxtrot, sending you 3
+2024-10-14 18:52:20.832049 Foxtrot: Victor, Golf and Uniform, sending you 3
+2024-10-14 18:52:20.832429 Whiskey: Victor, Uniform, Hotel and November, sending you 3
+2024-10-14 18:52:20.903550 Uniform: Golf, Yankee and Whiskey, sending you 2
+2024-10-14 18:52:20.904045 Foxtrot: Yankee, sending you 2
+2024-10-14 18:52:20.904801 Whiskey: Golf, sending you 1
+2024-10-14 18:52:20.921131 Uniform: Hotel, sending you 1
+2024-10-14 18:52:20.922162 Foxtrot: Whiskey and Hotel, sending you 4
+2024-10-14 18:52:20.922573 Whiskey: Foxtrot, sending you 2
+chatterbot November submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Victor round 3
+ChatterBot Golf round 3
+ChatterBot Echo round 3
+ChatterBot Yankee round 3
+ChatterBot Foxtrot round 3
+ChatterBot Uniform round 3
+ChatterBot Papa round 3
+ChatterBot Whiskey round 3
+ChatterBot Hotel round 3
+ChatterBot November round 3
+2024-10-14 18:52:21.816971 Echo: We should replace Yankee with November
+ChatterBot Papa reevaluating
+2024-10-14 18:52:21.820509 Papa: No
+ChatterBot Echo reevaluating
+2024-10-14 18:52:21.829132 Yankee: We should add Echo
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+2024-10-14 18:52:21.838638 Papa: Yes
+2024-10-14 18:52:21.842541 November: No
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:21.862993 November: Let's form a team
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:21.879019 Echo: No
+2024-10-14 18:52:21.879214 Yankee: Yes
+2024-10-14 18:52:21.879335 Papa: Yes
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 18:52:21.927796 Papa: We should add November
+ChatterBot Echo reevaluating
+2024-10-14 18:52:21.933424 Echo: Yes
+2024-10-14 18:52:21.933570 Yankee: Yes
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:21.946121 Yankee: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 18:52:21.949493 Echo: No
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:21.958122 Foxtrot: We should drop Yankee
+2024-10-14 18:52:21.972170 Golf: Yes
+2024-10-14 18:52:21.972373 Uniform: Yes
+2024-10-14 18:52:21.972549 Whiskey: Yes
+2024-10-14 18:52:21.972724 Victor: Yes
+2024-10-14 18:52:21.972884 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:22.039303 Victor: We should drop Echo
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:22.052805 Golf: Yes
+2024-10-14 18:52:22.052979 Uniform: Yes
+2024-10-14 18:52:22.053142 Foxtrot: Yes
+2024-10-14 18:52:22.053277 Whiskey: Yes
+2024-10-14 18:52:22.053429 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:22.120091 Whiskey: We should drop November
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:22.132428 Golf: Yes
+2024-10-14 18:52:22.132609 Uniform: Yes
+2024-10-14 18:52:22.132770 Foxtrot: Yes
+2024-10-14 18:52:22.132923 Victor: Yes
+2024-10-14 18:52:22.133388 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:22.196654 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:22.198692 Hotel: Victor, Golf and Foxtrot, sending you 3
+2024-10-14 18:52:22.200686 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:22.201856 Papa: November we want you to join our group
+ChatterBot November reevaluating
+2024-10-14 18:52:22.207408 November: Yes
+ChatterBot Echo reevaluating
+2024-10-14 18:52:22.221973 Hotel: Uniform, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-14 18:52:22.225683 Victor: Sending you each 3
+2024-10-14 18:52:22.226272 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:22.227170 Whiskey: Victor, sending you 4
+2024-10-14 18:52:22.227832 Hotel: Whiskey, sending you 5
+2024-10-14 18:52:22.228780 Yankee: Echo, sending you 5
+2024-10-14 18:52:22.229736 Echo: November we want you to join our group
+ChatterBot November reevaluating
+2024-10-14 18:52:22.233811 November: Yes
+ChatterBot Echo reevaluating
+2024-10-14 18:52:22.244352 Uniform: Hotel, sending you 1
+2024-10-14 18:52:22.245503 Whiskey: Golf, sending you 2
+2024-10-14 18:52:22.246557 Yankee: Papa, sending you 7
+2024-10-14 18:52:22.249854 Whiskey: Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:22.250688 Yankee: November, sending you 4
+2024-10-14 18:52:22.251691 Papa: Echo, sending you 6
+2024-10-14 18:52:22.255671 Papa: Yankee, sending you 7
+2024-10-14 18:52:22.259664 Papa: November, sending you 2
+2024-10-14 18:52:22.261662 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:22.265704 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:22.271024 November: Yankee, sending you 11
+2024-10-14 18:52:22.273689 November: Papa, sending you 5
+2024-10-14 18:52:22.276678 Echo: Papa, sending you 10
+2024-10-14 18:52:22.280686 Echo: November, sending you 6
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 4
+ChatterBot Golf round 4
+ChatterBot Echo round 4
+ChatterBot Yankee round 4
+ChatterBot Foxtrot round 4
+ChatterBot Uniform round 4
+ChatterBot Papa round 4
+ChatterBot Whiskey round 4
+ChatterBot Hotel round 4
+ChatterBot November round 4
+2024-10-14 18:52:23.251233 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:23.253924 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:23.256093 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:23.257648 Papa: Echo and Yankee, sending you 6
+2024-10-14 18:52:23.258998 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:23.260799 Uniform: Hotel, sending you 1
+2024-10-14 18:52:23.262002 Yankee: Echo, sending you 4
+2024-10-14 18:52:23.263256 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:23.265183 Papa: November, sending you 3
+2024-10-14 18:52:23.266174 Victor: Same as last round
+2024-10-14 18:52:23.268350 Yankee: Papa and November, sending you 6
+2024-10-14 18:52:23.268976 Whiskey: Sending you each 3
+2024-10-14 18:52:23.270371 Echo: Yankee, sending you 7
+2024-10-14 18:52:23.274050 Echo: Papa, sending you 9
+2024-10-14 18:52:23.274663 Hotel: Victor, sending you 5
+2024-10-14 18:52:23.278682 November: Echo, sending you 5
+2024-10-14 18:52:23.281059 Hotel: Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:23.283673 November: Yankee, sending you 7
+2024-10-14 18:52:23.286694 Hotel: Uniform, sending you 1
+2024-10-14 18:52:23.288661 November: Papa, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Victor submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Victor round 5
+ChatterBot Golf round 5
+ChatterBot Echo round 5
+ChatterBot Yankee round 5
+ChatterBot Foxtrot round 5
+ChatterBot Uniform round 5
+ChatterBot Papa round 5
+ChatterBot Whiskey round 5
+ChatterBot Hotel round 5
+ChatterBot November round 5
+2024-10-14 18:52:24.435676 Victor: Same as last round
+2024-10-14 18:52:24.442735 Papa: Echo, sending you 6
+2024-10-14 18:52:24.446146 Yankee: Echo, sending you 4
+2024-10-14 18:52:24.446659 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:24.447660 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:24.448227 Papa: Yankee, sending you 5
+2024-10-14 18:52:24.449670 Uniform: Hotel, sending you 1
+2024-10-14 18:52:24.450698 November: Echo and Papa, sending you 4
+2024-10-14 18:52:24.451102 Yankee: Papa and November, sending you 6
+2024-10-14 18:52:24.451463 Papa: November, sending you 4
+2024-10-14 18:52:24.451862 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:24.453392 Whiskey: Victor, sending you 4
+2024-10-14 18:52:24.454666 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:24.455213 Echo: Yankee, sending you 5
+2024-10-14 18:52:24.455690 November: Yankee, sending you 8
+2024-10-14 18:52:24.457379 Hotel: Victor, sending you 4
+2024-10-14 18:52:24.457930 Echo: Papa, sending you 7
+2024-10-14 18:52:24.458684 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:24.459276 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:24.460966 Hotel: Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:24.462704 Echo: November, sending you 4
+2024-10-14 18:52:24.464665 Hotel: Uniform, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Victor round 6
+ChatterBot Golf round 6
+ChatterBot Echo round 6
+ChatterBot Yankee round 6
+ChatterBot Foxtrot round 6
+ChatterBot Uniform round 6
+ChatterBot Papa round 6
+ChatterBot Whiskey round 6
+ChatterBot Hotel round 6
+ChatterBot November round 6
+2024-10-14 18:52:25.556691 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:25.558792 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:25.562681 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:25.563543 Uniform: Hotel, sending you 1
+2024-10-14 18:52:25.564319 November: Echo, sending you 4
+2024-10-14 18:52:25.565177 Echo: Yankee, sending you 5
+2024-10-14 18:52:25.566119 Whiskey: Victor, sending you 4
+2024-10-14 18:52:25.567099 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:25.568695 November: Yankee, sending you 7
+2024-10-14 18:52:25.569787 Hotel: Victor and Foxtrot, sending you 4
+2024-10-14 18:52:25.570873 Echo: Papa, sending you 7
+2024-10-14 18:52:25.571480 Papa: Echo and Yankee, sending you 6
+2024-10-14 18:52:25.572208 Victor: Same as last round
+2024-10-14 18:52:25.573331 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:25.574155 Yankee: Echo, sending you 4
+2024-10-14 18:52:25.574581 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:25.575331 November: Papa, sending you 5
+2024-10-14 18:52:25.576574 Echo: November, sending you 4
+2024-10-14 18:52:25.577096 Hotel: Golf and Whiskey, sending you 3
+2024-10-14 18:52:25.580025 Papa: November, sending you 3
+2024-10-14 18:52:25.583218 Yankee: Papa and November, sending you 6
+2024-10-14 18:52:25.585299 Hotel: Uniform, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Victor round 7
+ChatterBot Golf round 7
+ChatterBot Echo round 7
+ChatterBot Yankee round 7
+ChatterBot Foxtrot round 7
+ChatterBot Uniform round 7
+ChatterBot Papa round 7
+ChatterBot Whiskey round 7
+ChatterBot Hotel round 7
+ChatterBot November round 7
+2024-10-14 18:52:26.780120 Echo: We should drop Yankee
+2024-10-14 18:52:26.787015 Papa: No
+2024-10-14 18:52:26.787263 November: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 18:52:26.803693 Yankee: Echo, sending you 4
+2024-10-14 18:52:26.804452 Papa: Echo, sending you 6
+2024-10-14 18:52:26.805203 Victor: Same as last round
+2024-10-14 18:52:26.806082 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:26.806868 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:26.807681 Papa: Yankee, sending you 5
+2024-10-14 18:52:26.809333 Yankee: Papa and November, sending you 6
+2024-10-14 18:52:26.809976 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:26.811712 Uniform: Hotel, sending you 1
+2024-10-14 18:52:26.812509 Papa: November, sending you 4
+2024-10-14 18:52:26.815688 Whiskey: Victor, sending you 4
+2024-10-14 18:52:26.816490 Hotel: Victor and Foxtrot, sending you 4
+2024-10-14 18:52:26.818693 Echo: Yankee, sending you 5
+2024-10-14 18:52:26.820189 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:26.821182 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:26.822147 Hotel: Golf and Whiskey, sending you 3
+2024-10-14 18:52:26.823013 Echo: Papa, sending you 7
+2024-10-14 18:52:26.824724 November: Echo and Papa, sending you 3
+2024-10-14 18:52:26.825213 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:26.826108 Echo: November, sending you 4
+2024-10-14 18:52:26.827777 Hotel: Uniform, sending you 1
+2024-10-14 18:52:26.829771 November: Yankee, sending you 5
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Victor round 8
+ChatterBot Golf round 8
+ChatterBot Echo round 8
+ChatterBot Yankee round 8
+ChatterBot Foxtrot round 8
+ChatterBot Uniform round 8
+ChatterBot Papa round 8
+ChatterBot Whiskey round 8
+ChatterBot Hotel round 8
+ChatterBot November round 8
+2024-10-14 18:52:28.073689 Yankee: Echo and November, sending you 5
+2024-10-14 18:52:28.075692 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:28.076678 Foxtrot: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:28.077699 Yankee: Papa, sending you 6
+2024-10-14 18:52:28.080189 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:28.081694 Foxtrot: Golf, sending you 4
+2024-10-14 18:52:28.082518 Foxtrot: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:28.095511 Foxtrot: Ow
+2024-10-14 18:52:28.099556 Echo: Yankee, sending you 5
+2024-10-14 18:52:28.100158 Papa: Echo and Yankee, sending you 6
+2024-10-14 18:52:28.100727 November: Echo and Papa, sending you 5
+2024-10-14 18:52:28.102707 Echo: Papa, sending you 7
+2024-10-14 18:52:28.104722 November: Yankee, sending you 6
+2024-10-14 18:52:28.105662 Papa: November, sending you 3
+2024-10-14 18:52:28.106201 Echo: November, sending you 4
+2024-10-14 18:52:28.119689 Whiskey: Victor, Golf, Uniform and Hotel, sending you 2
+2024-10-14 18:52:28.123673 Victor: Golf, Foxtrot, Uniform and Whiskey, sending you 2
+2024-10-14 18:52:28.125734 Uniform: Victor, sending you 3
+2024-10-14 18:52:28.131681 Uniform: Golf, Foxtrot, Whiskey and Hotel, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Victor submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Victor round 9
+ChatterBot Golf round 9
+ChatterBot Echo round 9
+ChatterBot Yankee round 9
+ChatterBot Foxtrot round 9
+ChatterBot Uniform round 9
+2024-10-14 18:52:29.205261 Yankee: We should add Hotel
+2024-10-14 18:52:29.214601 November: No
+2024-10-14 18:52:29.215036 Echo: No
+2024-10-14 18:52:29.215399 Papa: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa round 9
+ChatterBot Whiskey round 9
+ChatterBot Hotel round 9
+ChatterBot November round 9
+2024-10-14 18:52:29.248173 Yankee: We should add Golf
+ChatterBot Echo reevaluating
+2024-10-14 18:52:29.254877 November: No
+2024-10-14 18:52:29.255160 Echo: No
+2024-10-14 18:52:29.255456 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:29.290678 Victor: Sending you each 3
+2024-10-14 18:52:29.300669 Echo: Yankee, sending you 5
+2024-10-14 18:52:29.303662 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:29.304402 Yankee: Echo and November, sending you 5
+2024-10-14 18:52:29.304856 Echo: Papa, sending you 7
+2024-10-14 18:52:29.306669 Papa: Echo, sending you 6
+2024-10-14 18:52:29.307695 November: I was attacked by Victor, Foxtrot, Uniform and Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:29.316218 November: I'm keeping this round to protect myself
+2024-10-14 18:52:29.317183 November: Ow
+2024-10-14 18:52:29.317913 Uniform: Hotel, sending you 1
+2024-10-14 18:52:29.319503 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:29.320436 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:29.322918 Echo: We should drop Papa
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:29.330320 Yankee: No
+2024-10-14 18:52:29.330545 November: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:29.352060 Foxtrot: Uniform, sending you 2
+2024-10-14 18:52:29.353186 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:29.355309 Whiskey: Sending you each 3
+2024-10-14 18:52:29.368839 Echo: Sorry, I'm actually sending you 0
+2024-10-14 18:52:29.372715 Echo: Yankee, sending you 7
+2024-10-14 18:52:29.376881 Echo: Papa, sending you 9
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Victor round 10
+ChatterBot Golf round 10
+ChatterBot Echo round 10
+ChatterBot Yankee round 10
+ChatterBot Foxtrot round 10
+ChatterBot Uniform round 10
+ChatterBot Papa round 10
+ChatterBot Whiskey round 10
+ChatterBot Hotel round 10
+ChatterBot November round 10
+2024-10-14 18:52:30.551381 Foxtrot: We should drop Hotel
+2024-10-14 18:52:30.559209 Uniform: No
+2024-10-14 18:52:30.559360 Victor: No
+2024-10-14 18:52:30.559466 Golf: No
+2024-10-14 18:52:30.559564 Whiskey: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:30.591654 Victor: Same as last round
+2024-10-14 18:52:30.592369 Echo: Yankee, sending you 7
+2024-10-14 18:52:30.593652 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:30.594336 Yankee: Echo and November, sending you 5
+2024-10-14 18:52:30.597668 Echo: Papa, sending you 9
+2024-10-14 18:52:30.598081 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:30.599111 Yankee: Papa, sending you 6
+2024-10-14 18:52:30.603679 Whiskey: Same as last round
+2024-10-14 18:52:30.609669 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:30.612666 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:30.613680 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:30.618143 Uniform: Hotel, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Victor submitting transactions
+ChatterBot Victor round 11
+ChatterBot Golf round 11
+ChatterBot Echo round 11
+ChatterBot Yankee round 11
+ChatterBot Foxtrot round 11
+ChatterBot Uniform round 11
+ChatterBot Papa round 11
+ChatterBot Whiskey round 11
+ChatterBot Hotel round 11
+ChatterBot November round 11
+2024-10-14 18:52:31.701317 Foxtrot: We should drop Victor
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:31.717129 Golf: No
+2024-10-14 18:52:31.717344 Uniform: No
+2024-10-14 18:52:31.717562 Whiskey: No
+2024-10-14 18:52:31.717787 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 18:52:31.773659 Echo: Yankee, sending you 7
+2024-10-14 18:52:31.774698 November: Sending you each 1
+2024-10-14 18:52:31.775674 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:31.776680 Whiskey: Same as last round
+2024-10-14 18:52:31.778108 Victor: Same as last round
+2024-10-14 18:52:31.778849 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:31.779567 Echo: Papa, sending you 9
+2024-10-14 18:52:31.780672 Yankee: November, sending you 4
+2024-10-14 18:52:31.781264 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:31.782856 Foxtrot: Uniform, sending you 3
+2024-10-14 18:52:31.785699 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:31.787648 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:31.791051 Uniform: Hotel, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Victor round 12
+ChatterBot Golf round 12
+ChatterBot Echo round 12
+ChatterBot Yankee round 12
+ChatterBot Foxtrot round 12
+ChatterBot Uniform round 12
+ChatterBot Papa round 12
+ChatterBot Whiskey round 12
+ChatterBot Hotel round 12
+ChatterBot November round 12
+2024-10-14 18:52:32.882052 Foxtrot: We should add Echo
+2024-10-14 18:52:32.891999 Golf: No
+2024-10-14 18:52:32.892174 Uniform: No
+2024-10-14 18:52:32.892307 Whiskey: No
+2024-10-14 18:52:32.892434 Victor: No
+2024-10-14 18:52:32.892551 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:32.965715 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:32.967874 Foxtrot: We should drop Hotel
+2024-10-14 18:52:32.977151 Uniform: No
+2024-10-14 18:52:32.977309 Victor: No
+2024-10-14 18:52:32.977434 Golf: No
+2024-10-14 18:52:32.977551 Whiskey: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:33.009935 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:33.012666 Whiskey: Same as last round
+2024-10-14 18:52:33.013453 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:33.014162 Echo: Yankee, sending you 6
+2024-10-14 18:52:33.014684 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:33.015171 Victor: Golf, Uniform and Whiskey, sending you 1
+2024-10-14 18:52:33.016318 November: Echo, sending you 2
+2024-10-14 18:52:33.017694 Echo: Papa, sending you 8
+2024-10-14 18:52:33.018659 Uniform: Hotel, sending you 1
+2024-10-14 18:52:33.019407 Yankee: November, sending you 4
+2024-10-14 18:52:33.019802 November: Yankee, sending you 4
+2024-10-14 18:52:33.020665 Victor: Foxtrot and Hotel, sending you 2
+2024-10-14 18:52:33.021406 Victor: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:33.034409 Victor: Ow
+2024-10-14 18:52:33.035687 Echo: November, sending you 2
+2024-10-14 18:52:33.036213 November: Papa, sending you 3
+2024-10-14 18:52:33.059661 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:33.063683 Foxtrot: Uniform, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 13
+ChatterBot Golf round 13
+ChatterBot Echo round 13
+ChatterBot Yankee round 13
+ChatterBot Foxtrot round 13
+ChatterBot Uniform round 13
+ChatterBot Papa round 13
+ChatterBot Whiskey round 13
+ChatterBot Hotel round 13
+ChatterBot November round 13
+2024-10-14 18:52:34.180226 Golf: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:34.190173 Victor: No
+2024-10-14 18:52:34.190317 Uniform: No
+2024-10-14 18:52:34.190437 Whiskey: No
+2024-10-14 18:52:34.190552 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 18:52:34.237302 Victor: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:34.250404 Victor: I'm keeping this round to protect myself
+2024-10-14 18:52:34.251520 Victor: Ow
+2024-10-14 18:52:34.254668 Echo: Yankee, sending you 7
+2024-10-14 18:52:34.257675 Echo: Papa, sending you 9
+2024-10-14 18:52:34.260046 Foxtrot: We should drop Uniform
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:34.270107 Victor: No
+2024-10-14 18:52:34.270263 Golf: No
+2024-10-14 18:52:34.270384 Whiskey: No
+2024-10-14 18:52:34.270499 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:34.310684 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:34.311406 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:34.312494 November: Echo, sending you 4
+2024-10-14 18:52:34.313677 Yankee: November, sending you 4
+2024-10-14 18:52:34.315670 Uniform: Hotel, sending you 1
+2024-10-14 18:52:34.318040 November: Yankee, sending you 7
+2024-10-14 18:52:34.320689 November: Papa, sending you 5
+2024-10-14 18:52:34.325651 Whiskey: Same as last round
+2024-10-14 18:52:34.333661 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:34.334672 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:34.338655 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:34.340052 Foxtrot: Uniform, sending you 3
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Victor round 14
+ChatterBot Golf round 14
+ChatterBot Echo round 14
+ChatterBot Yankee round 14
+ChatterBot Foxtrot round 14
+ChatterBot Uniform round 14
+ChatterBot Papa round 14
+ChatterBot Whiskey round 14
+ChatterBot Hotel round 14
+ChatterBot November round 14
+2024-10-14 18:52:35.556699 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:35.562178 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:35.563435 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:35.564563 Echo: Yankee, sending you 7
+2024-10-14 18:52:35.564919 Foxtrot: Victor, sending you 3
+2024-10-14 18:52:35.566810 Yankee: November, sending you 4
+2024-10-14 18:52:35.569073 Echo: Papa, sending you 9
+2024-10-14 18:52:35.569455 Foxtrot: Golf, Uniform, Whiskey and Hotel, sending you 4
+2024-10-14 18:52:35.570308 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:35.571664 Whiskey: Same as last round
+2024-10-14 18:52:35.572674 Victor: Golf, Foxtrot, Uniform and Hotel, sending you 2
+2024-10-14 18:52:35.575663 Uniform: Hotel, sending you 1
+2024-10-14 18:52:35.578675 Victor: Whiskey, sending you 3
+2024-10-14 18:52:35.581695 November: Echo, sending you 3
+2024-10-14 18:52:35.586664 November: Yankee and Papa, sending you 4
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Victor round 15
+ChatterBot Golf round 15
+ChatterBot Echo round 15
+ChatterBot Yankee round 15
+ChatterBot Foxtrot round 15
+ChatterBot Uniform round 15
+ChatterBot Papa round 15
+ChatterBot Whiskey round 15
+ChatterBot Hotel round 15
+ChatterBot November round 15
+2024-10-14 18:52:36.789518 Foxtrot: We should add Papa
+2024-10-14 18:52:36.882129 Golf: No
+2024-10-14 18:52:36.883244 Uniform: No
+2024-10-14 18:52:36.883694 Whiskey: No
+2024-10-14 18:52:36.884186 Victor: No
+2024-10-14 18:52:36.884441 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:36.990638 Foxtrot: We should drop Whiskey
+2024-10-14 18:52:37.007826 Victor: No
+2024-10-14 18:52:37.008625 Golf: No
+2024-10-14 18:52:37.008910 Uniform: No
+2024-10-14 18:52:37.009101 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 18:52:37.073682 Echo: Yankee, sending you 7
+2024-10-14 18:52:37.074312 Victor: Golf, Foxtrot and Hotel, sending you 2
+2024-10-14 18:52:37.075635 Whiskey: Same as last round
+2024-10-14 18:52:37.078032 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:37.078609 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:37.079742 November: Echo, sending you 3
+2024-10-14 18:52:37.081681 Foxtrot: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:37.085561 Yankee: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:37.109160 Yankee: We should add Golf
+ChatterBot Papa reevaluating
+2024-10-14 18:52:37.121223 November: No
+2024-10-14 18:52:37.122447 Echo: No
+2024-10-14 18:52:37.122659 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:37.164569 Victor: Uniform and Whiskey, sending you 3
+2024-10-14 18:52:37.166698 Uniform: Hotel, sending you 1
+2024-10-14 18:52:37.168777 November: Yankee and Papa, sending you 4
+2024-10-14 18:52:37.173695 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:37.178686 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:37.189790 Yankee: Echo and Papa, sending you 5
+2024-10-14 18:52:37.190698 Foxtrot: Sending you each 1
+2024-10-14 18:52:37.194673 Yankee: Hotel, sending you 2
+chatterbot Victor submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Victor round 16
+ChatterBot Golf round 16
+ChatterBot Echo round 16
+ChatterBot Yankee round 16
+ChatterBot Foxtrot round 16
+ChatterBot Uniform round 16
+ChatterBot Papa round 16
+ChatterBot Whiskey round 16
+ChatterBot Hotel round 16
+ChatterBot November round 16
+2024-10-14 18:52:38.344854 Golf: We should drop Foxtrot
+2024-10-14 18:52:38.357521 Victor: No
+2024-10-14 18:52:38.357763 Uniform: No
+2024-10-14 18:52:38.357952 Whiskey: No
+2024-10-14 18:52:38.358126 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 18:52:38.419656 Victor: Golf, Foxtrot, Uniform and Whiskey, sending you 3
+2024-10-14 18:52:38.421494 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:38.422349 Echo: Yankee, sending you 7
+2024-10-14 18:52:38.423522 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:38.425704 Victor: Hotel, sending you 2
+2024-10-14 18:52:38.426705 Yankee: November, sending you 4
+2024-10-14 18:52:38.427369 Echo: Papa, sending you 9
+2024-10-14 18:52:38.428675 Whiskey: Victor, sending you 4
+2024-10-14 18:52:38.431296 Uniform: Hotel, sending you 1
+2024-10-14 18:52:38.432898 November: Echo, sending you 3
+2024-10-14 18:52:38.435708 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:38.437210 Foxtrot: Victor, Uniform and Whiskey, sending you 1
+2024-10-14 18:52:38.439018 November: Yankee and Papa, sending you 5
+2024-10-14 18:52:38.439874 November: I was attacked by Hotel
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:38.449214 November: Ow
+2024-10-14 18:52:38.450436 Golf: Victor, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:38.452355 Foxtrot: Golf and Hotel, sending you 2
+2024-10-14 18:52:38.453715 Foxtrot: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:38.467238 Foxtrot: Ow
+2024-10-14 18:52:38.486697 Whiskey: Same as last round
+2024-10-14 18:52:38.490661 Victor: Foxtrot and Hotel, sending you 2
+2024-10-14 18:52:38.499681 Uniform: Foxtrot, sending you 2
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Victor round 17
+ChatterBot Golf round 17
+ChatterBot Echo round 17
+ChatterBot Yankee round 17
+ChatterBot Foxtrot round 17
+ChatterBot Uniform round 17
+ChatterBot Papa round 17
+2024-10-14 18:52:39.706464 Yankee: We should add Hotel
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:39.717391 November: No
+2024-10-14 18:52:39.717565 Echo: No
+2024-10-14 18:52:39.717744 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey round 17
+ChatterBot Hotel round 17
+ChatterBot November round 17
+2024-10-14 18:52:39.777221 Foxtrot: We should drop Hotel
+ChatterBot Golf reevaluating
+2024-10-14 18:52:39.787731 Uniform: No
+2024-10-14 18:52:39.787868 Victor: No
+2024-10-14 18:52:39.787976 Golf: No
+2024-10-14 18:52:39.788080 Whiskey: No
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:39.829645 Echo: Yankee, sending you 7
+2024-10-14 18:52:39.830844 Golf: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:39.845834 Victor: No
+2024-10-14 18:52:39.846036 Uniform: No
+2024-10-14 18:52:39.846205 Whiskey: No
+2024-10-14 18:52:39.846360 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 18:52:39.895728 Victor: Sending you each 3
+2024-10-14 18:52:39.897294 November: I was attacked by Victor, Uniform and Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:39.904489 November: I'm keeping this round to protect myself
+2024-10-14 18:52:39.905315 November: Ow
+2024-10-14 18:52:39.910711 Foxtrot: Victor, sending you 1
+2024-10-14 18:52:39.912638 Uniform: Victor, Golf and Whiskey, sending you 3
+2024-10-14 18:52:39.914028 Whiskey: Victor, sending you 4
+2024-10-14 18:52:39.915822 Foxtrot: Golf, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:39.917017 Uniform: Foxtrot and Hotel, sending you 2
+2024-10-14 18:52:39.920661 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:39.926991 Golf: Victor, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:39.930675 Golf: Whiskey, sending you 4
+2024-10-14 18:52:39.934659 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:39.938647 Yankee: November, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Victor round 18
+ChatterBot Golf round 18
+ChatterBot Echo round 18
+ChatterBot Yankee round 18
+ChatterBot Foxtrot round 18
+ChatterBot Uniform round 18
+ChatterBot Papa round 18
+ChatterBot Whiskey round 18
+ChatterBot Hotel round 18
+ChatterBot November round 18
+2024-10-14 18:52:41.196692 Echo: Yankee, sending you 7
+2024-10-14 18:52:41.198696 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:41.201205 Victor: Same as last round
+2024-10-14 18:52:41.202668 Echo: Papa, sending you 9
+2024-10-14 18:52:41.203355 November: Echo, sending you 1
+2024-10-14 18:52:41.205033 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:41.207706 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:41.209499 November: Yankee and Papa, sending you 3
+2024-10-14 18:52:41.210852 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:41.214403 Whiskey: Victor, sending you 4
+2024-10-14 18:52:41.217322 Foxtrot: Victor, Golf, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:41.221134 Yankee: November, sending you 4
+2024-10-14 18:52:41.223340 Uniform: Hotel, sending you 1
+2024-10-14 18:52:41.225314 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:41.227561 Foxtrot: Uniform, sending you 2
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Victor round 19
+ChatterBot Golf round 19
+ChatterBot Echo round 19
+ChatterBot Yankee round 19
+ChatterBot Foxtrot round 19
+ChatterBot Uniform round 19
+ChatterBot Papa round 19
+ChatterBot Whiskey round 19
+ChatterBot Hotel round 19
+ChatterBot November round 19
+2024-10-14 18:52:42.263811 Yankee: We should add Uniform
+ChatterBot Papa reevaluating
+2024-10-14 18:52:42.280650 November: No
+2024-10-14 18:52:42.280878 Echo: No
+2024-10-14 18:52:42.281130 Papa: No
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:42.368205 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:42.370707 Echo: Yankee, sending you 7
+2024-10-14 18:52:42.371441 Victor: Same as last round
+2024-10-14 18:52:42.373648 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:42.375891 Golf: Foxtrot, sending you 4
+2024-10-14 18:52:42.377175 Echo: Papa, sending you 9
+2024-10-14 18:52:42.378314 Whiskey: Victor, sending you 4
+2024-10-14 18:52:42.380996 Foxtrot: Sending you each 3
+2024-10-14 18:52:42.383870 November: Echo, sending you 1
+2024-10-14 18:52:42.384718 Uniform: Hotel, sending you 1
+2024-10-14 18:52:42.387068 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:42.389540 November: Yankee, sending you 3
+2024-10-14 18:52:42.392160 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:42.394907 November: Papa, sending you 2
+2024-10-14 18:52:42.397711 Yankee: November, sending you 4
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Victor round 20
+ChatterBot Golf round 20
+ChatterBot Echo round 20
+ChatterBot Yankee round 20
+ChatterBot Foxtrot round 20
+ChatterBot Uniform round 20
+ChatterBot Papa round 20
+ChatterBot Whiskey round 20
+ChatterBot Hotel round 20
+ChatterBot November round 20
+2024-10-14 18:52:43.549027 Victor: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:43.580053 Victor: I'm keeping this round to protect myself
+2024-10-14 18:52:43.585026 Victor: Ow
+2024-10-14 18:52:43.588694 Echo: Yankee, sending you 7
+2024-10-14 18:52:43.589709 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:43.591725 Golf: We should drop Foxtrot
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:43.610650 Victor: No
+2024-10-14 18:52:43.610986 Uniform: No
+2024-10-14 18:52:43.611900 Whiskey: No
+2024-10-14 18:52:43.612215 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:52:43.696411 November: Echo, sending you 2
+2024-10-14 18:52:43.698963 Echo: Papa, sending you 9
+2024-10-14 18:52:43.699768 Yankee: November, sending you 4
+2024-10-14 18:52:43.702101 November: Yankee and Papa, sending you 3
+2024-10-14 18:52:43.718068 Whiskey: Sending you each 3
+2024-10-14 18:52:43.725870 Foxtrot: Same as last round
+2024-10-14 18:52:43.729868 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:43.732278 Golf: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:43.734658 Uniform: Hotel, sending you 1
+2024-10-14 18:52:43.737662 Golf: Foxtrot, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Victor round 21
+ChatterBot Golf round 21
+ChatterBot Echo round 21
+ChatterBot Yankee round 21
+ChatterBot Foxtrot round 21
+ChatterBot Uniform round 21
+ChatterBot Papa round 21
+ChatterBot Whiskey round 21
+ChatterBot Hotel round 21
+ChatterBot November round 21
+2024-10-14 18:52:45.049672 Whiskey: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:45.070055 Whiskey: I'm keeping this round to protect myself
+2024-10-14 18:52:45.073809 Whiskey: Ow
+2024-10-14 18:52:45.075334 Echo: Yankee, sending you 7
+2024-10-14 18:52:45.078716 November: Echo, sending you 2
+2024-10-14 18:52:45.089218 Echo: Papa, sending you 9
+2024-10-14 18:52:45.091114 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:45.093540 Foxtrot: We should drop Hotel
+ChatterBot Uniform reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 18:52:45.116519 Uniform: No
+2024-10-14 18:52:45.116898 Victor: No
+2024-10-14 18:52:45.117135 Golf: No
+2024-10-14 18:52:45.117521 Whiskey: No
+ChatterBot Victor reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:52:45.185924 November: Yankee, sending you 5
+2024-10-14 18:52:45.187264 Yankee: November, sending you 4
+2024-10-14 18:52:45.192053 November: Papa, sending you 4
+2024-10-14 18:52:45.192815 November: I was attacked by Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:45.200655 November: Ow
+2024-10-14 18:52:45.208691 Victor: Golf, Foxtrot, Uniform and Whiskey, sending you 3
+2024-10-14 18:52:45.214660 Victor: Hotel, sending you 2
+2024-10-14 18:52:45.217650 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:45.222659 Uniform: Hotel, sending you 1
+2024-10-14 18:52:45.224736 Foxtrot: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:45.232670 Foxtrot: Golf, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Victor round 22
+ChatterBot Golf round 22
+ChatterBot Echo round 22
+ChatterBot Yankee round 22
+ChatterBot Foxtrot round 22
+ChatterBot Uniform round 22
+ChatterBot Papa round 22
+ChatterBot Whiskey round 22
+ChatterBot Hotel round 22
+ChatterBot November round 22
+2024-10-14 18:52:46.518665 Victor: Sending you each 3
+2024-10-14 18:52:46.523768 Foxtrot: Victor, Golf, Uniform and Hotel, sending you 4
+2024-10-14 18:52:46.528759 Echo: Yankee, sending you 7
+2024-10-14 18:52:46.530981 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:46.531890 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:46.534262 November: I was attacked by Foxtrot and Hotel
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:46.546332 November: I'm keeping this round to protect myself
+2024-10-14 18:52:46.548404 November: Ow
+2024-10-14 18:52:46.549734 Foxtrot: Whiskey, sending you 2
+2024-10-14 18:52:46.559147 Uniform: Hotel, sending you 1
+2024-10-14 18:52:46.563543 Whiskey: Sending you each 3
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Victor round 23
+ChatterBot Golf round 23
+ChatterBot Echo round 23
+ChatterBot Yankee round 23
+ChatterBot Foxtrot round 23
+ChatterBot Uniform round 23
+ChatterBot Papa round 23
+ChatterBot Whiskey round 23
+ChatterBot Hotel round 23
+ChatterBot November round 23
+2024-10-14 18:52:47.871656 Whiskey: Victor, sending you 4
+2024-10-14 18:52:47.877691 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:47.880658 Foxtrot: Victor, Golf, Uniform and Hotel, sending you 4
+2024-10-14 18:52:47.883041 Victor: Same as last round
+2024-10-14 18:52:47.884535 Echo: Yankee, sending you 7
+2024-10-14 18:52:47.885089 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:47.885867 Foxtrot: Whiskey, sending you 2
+2024-10-14 18:52:47.887691 November: Sending you each 1
+2024-10-14 18:52:47.888367 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:47.889681 Echo: Papa, sending you 9
+2024-10-14 18:52:47.890068 Yankee: November, sending you 4
+2024-10-14 18:52:47.893690 Uniform: Hotel, sending you 1
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Victor round 24
+ChatterBot Golf round 24
+ChatterBot Echo round 24
+ChatterBot Yankee round 24
+ChatterBot Foxtrot round 24
+ChatterBot Uniform round 24
+ChatterBot Papa round 24
+ChatterBot Whiskey round 24
+ChatterBot Hotel round 24
+ChatterBot November round 24
+2024-10-14 18:52:49.135658 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:49.140709 Yankee: November, sending you 4
+2024-10-14 18:52:49.141921 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:49.143368 Whiskey: Victor, sending you 4
+2024-10-14 18:52:49.145044 Echo: Yankee, sending you 7
+2024-10-14 18:52:49.145440 Foxtrot: Victor, Golf, Uniform and Hotel, sending you 4
+2024-10-14 18:52:49.146589 Victor: Same as last round
+2024-10-14 18:52:49.148049 Uniform: Hotel, sending you 1
+2024-10-14 18:52:49.149090 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:49.150185 Echo: Papa, sending you 9
+2024-10-14 18:52:49.150961 Foxtrot: Whiskey, sending you 3
+2024-10-14 18:52:49.152180 November: Echo, sending you 3
+2024-10-14 18:52:49.155668 November: Yankee and Papa, sending you 5
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Victor round 25
+ChatterBot Golf round 25
+ChatterBot Echo round 25
+ChatterBot Yankee round 25
+ChatterBot Foxtrot round 25
+ChatterBot Uniform round 25
+ChatterBot Papa round 25
+ChatterBot Whiskey round 25
+ChatterBot Hotel round 25
+ChatterBot November round 25
+2024-10-14 18:52:50.447703 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:50.448991 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:50.451687 Foxtrot: Victor, Golf, Uniform and Hotel, sending you 4
+2024-10-14 18:52:50.453566 Yankee: November, sending you 4
+2024-10-14 18:52:50.454809 Uniform: Hotel, sending you 1
+2024-10-14 18:52:50.456678 Victor: Same as last round
+2024-10-14 18:52:50.460823 Foxtrot: Whiskey, sending you 3
+2024-10-14 18:52:50.462763 Whiskey: Victor, sending you 4
+2024-10-14 18:52:50.464490 November: Echo, sending you 3
+2024-10-14 18:52:50.465364 Echo: Yankee, sending you 7
+2024-10-14 18:52:50.466661 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:50.468994 November: Yankee, sending you 7
+2024-10-14 18:52:50.470026 Echo: Papa, sending you 9
+2024-10-14 18:52:50.473683 November: Papa, sending you 6
+chatterbot November submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Victor round 26
+ChatterBot Golf round 26
+ChatterBot Echo round 26
+ChatterBot Yankee round 26
+ChatterBot Foxtrot round 26
+ChatterBot Uniform round 26
+ChatterBot Papa round 26
+ChatterBot Whiskey round 26
+ChatterBot Hotel round 26
+ChatterBot November round 26
+2024-10-14 18:52:51.682684 Whiskey: Victor, sending you 4
+2024-10-14 18:52:51.686321 Foxtrot: Victor, Golf, Uniform and Hotel, sending you 4
+2024-10-14 18:52:51.690957 Victor: Same as last round
+2024-10-14 18:52:51.694158 November: Echo, sending you 2
+2024-10-14 18:52:51.696385 Whiskey: Golf, Foxtrot, Uniform and Hotel, sending you 3
+2024-10-14 18:52:51.700371 Foxtrot: Whiskey, sending you 3
+2024-10-14 18:52:51.704577 November: Yankee, sending you 5
+2024-10-14 18:52:51.706903 Uniform: Victor, Golf, Foxtrot and Whiskey, sending you 3
+2024-10-14 18:52:51.709467 Echo: Yankee, sending you 7
+2024-10-14 18:52:51.710579 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:51.712483 November: Papa, sending you 4
+2024-10-14 18:52:51.713339 Uniform: Hotel, sending you 1
+2024-10-14 18:52:51.715811 Echo: Papa, sending you 9
+2024-10-14 18:52:51.716727 Yankee: November, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Victor round 27
+ChatterBot Golf round 27
+ChatterBot Echo round 27
+ChatterBot Yankee round 27
+ChatterBot Foxtrot round 27
+ChatterBot Uniform round 27
+ChatterBot Papa round 27
+ChatterBot Whiskey round 27
+ChatterBot Hotel round 27
+ChatterBot November round 27
+2024-10-14 18:52:52.781486 Yankee: We should add Golf
+ChatterBot Papa reevaluating
+2024-10-14 18:52:52.791123 November: No
+2024-10-14 18:52:52.791358 Echo: No
+2024-10-14 18:52:52.791518 Papa: No
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:52.838047 Echo: Yankee, sending you 7
+2024-10-14 18:52:52.839675 Foxtrot: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:52.842861 Echo: Papa, sending you 9
+2024-10-14 18:52:52.845027 Victor: Same as last round
+2024-10-14 18:52:52.847573 Foxtrot: Golf, sending you 4
+2024-10-14 18:52:52.851202 Foxtrot: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:52.868543 Foxtrot: Ow
+2024-10-14 18:52:52.870355 November: Echo, sending you 2
+2024-10-14 18:52:52.872138 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:52.874689 November: Yankee, sending you 5
+2024-10-14 18:52:52.879220 Yankee: November, sending you 4
+2024-10-14 18:52:52.881651 November: Papa, sending you 4
+2024-10-14 18:52:52.904661 Victor: Golf, Uniform and Hotel, sending you 1
+2024-10-14 18:52:52.908678 Victor: Foxtrot and Whiskey, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+ChatterBot Victor round 28
+ChatterBot Golf round 28
+ChatterBot Echo round 28
+ChatterBot Yankee round 28
+ChatterBot Foxtrot round 28
+ChatterBot Uniform round 28
+ChatterBot Papa round 28
+ChatterBot Whiskey round 28
+ChatterBot Hotel round 28
+ChatterBot November round 28
+2024-10-14 18:52:53.972113 Echo: We should replace Yankee with November
+2024-10-14 18:52:53.974850 Papa: No
+ChatterBot Echo reevaluating
+2024-10-14 18:52:53.989691 Foxtrot: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:53.994188 Victor: Sending you each 3
+2024-10-14 18:52:53.998202 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:54.000839 November: I was attacked by Victor, Foxtrot, Uniform and Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:54.016172 November: I'm keeping this round to protect myself
+2024-10-14 18:52:54.018434 November: Ow
+2024-10-14 18:52:54.021361 Foxtrot: Golf, sending you 5
+2024-10-14 18:52:54.025208 Foxtrot: I was attacked by November
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:54.047602 Foxtrot: Ow
+2024-10-14 18:52:54.049817 Uniform: We should add Yankee
+ChatterBot Golf reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:54.073792 Golf: No
+2024-10-14 18:52:54.074053 Foxtrot: No
+2024-10-14 18:52:54.074251 Whiskey: No
+2024-10-14 18:52:54.075063 Victor: No
+2024-10-14 18:52:54.075270 Hotel: No
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+2024-10-14 18:52:54.187796 Uniform: We should add Papa
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:52:54.201701 Golf: No
+2024-10-14 18:52:54.201898 Foxtrot: No
+2024-10-14 18:52:54.202067 Whiskey: No
+2024-10-14 18:52:54.202679 Victor: No
+2024-10-14 18:52:54.202897 Hotel: No
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Victor reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Victor reevaluating
+2024-10-14 18:52:54.280669 Echo: Yankee, sending you 6
+2024-10-14 18:52:54.286663 Echo: Papa, sending you 8
+2024-10-14 18:52:54.292097 Echo: November, sending you 2
+2024-10-14 18:52:54.297665 Foxtrot: Sending you each 3
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Victor round 29
+ChatterBot Golf round 29
+ChatterBot Echo round 29
+ChatterBot Yankee round 29
+ChatterBot Foxtrot round 29
+ChatterBot Uniform round 29
+ChatterBot Papa round 29
+ChatterBot Whiskey round 29
+ChatterBot Hotel round 29
+ChatterBot November round 29
+2024-10-14 18:52:55.514149 Yankee: We should add Hotel
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:55.523365 November: No
+2024-10-14 18:52:55.523531 Echo: No
+2024-10-14 18:52:55.523671 Papa: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:55.586683 Foxtrot: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:55.591246 Echo: Yankee, sending you 7
+2024-10-14 18:52:55.593508 Yankee: Echo and Papa, sending you 6
+2024-10-14 18:52:55.596101 Foxtrot: Golf, sending you 4
+2024-10-14 18:52:55.600309 Victor: Same as last round
+2024-10-14 18:52:55.605577 Echo: Papa, sending you 8
+2024-10-14 18:52:55.607828 Yankee: November, sending you 2
+2024-10-14 18:52:55.612674 Echo: November, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot November submitting transactions
+ChatterBot Victor round 30
+ChatterBot Golf round 30
+ChatterBot Echo round 30
+ChatterBot Yankee round 30
+ChatterBot Foxtrot round 30
+ChatterBot Uniform round 30
+ChatterBot Papa round 30
+ChatterBot Whiskey round 30
+ChatterBot Hotel round 30
+ChatterBot November round 30
+2024-10-14 18:52:56.966791 Echo: We should drop Yankee
+ChatterBot Papa reevaluating
+2024-10-14 18:52:56.974418 Papa: Yes
+2024-10-14 18:52:56.974649 November: No
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 18:52:56.994678 Foxtrot: Victor, Uniform, Whiskey and Hotel, sending you 3
+2024-10-14 18:52:57.002174 Echo: We should drop Papa
+2024-10-14 18:52:57.010757 Yankee: No
+2024-10-14 18:52:57.010957 November: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:52:57.032158 Victor: Same as last round
+2024-10-14 18:52:57.037580 Foxtrot: Golf, sending you 5
+2024-10-14 18:52:57.053692 Echo: Yankee, sending you 7
+2024-10-14 18:52:57.056062 Yankee: Echo, sending you 7
+2024-10-14 18:52:57.058659 Echo: Papa, sending you 8
+2024-10-14 18:52:57.061684 Yankee: Papa, sending you 6
+2024-10-14 18:52:57.063763 Echo: November, sending you 1
+2024-10-14 18:52:57.066656 Yankee: November, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Victor submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions

@@ -1,0 +1,1704 @@
+ChatterBot Oscar round 1
+ChatterBot Mike round 1
+ChatterBot Lima round 1
+ChatterBot Hotel round 1
+ChatterBot Whiskey round 1
+ChatterBot Delta round 1
+ChatterBot Foxtrot round 1
+ChatterBot India round 1
+ChatterBot Uniform round 1
+ChatterBot Tango round 1
+randomSelections Foxtrot: {Foxtrot, India, Uniform} 
+2024-10-14 17:41:59.297697 Foxtrot: Can we be friends?
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:41:59.303436 India: Yes
+2024-10-14 17:41:59.303842 Uniform: Yes
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+randomSelections Oscar: {Oscar, India, Uniform, Tango} 
+2024-10-14 17:41:59.316412 Oscar: Can we be friends?
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:41:59.324138 India: No
+2024-10-14 17:41:59.324427 Uniform: No
+2024-10-14 17:41:59.324722 Tango: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+randomSelections Hotel: {Hotel, Lima, Whiskey, India} 
+2024-10-14 17:41:59.351867 Hotel: Group up?
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:41:59.361579 Lima: Yes
+2024-10-14 17:41:59.361936 Whiskey: Yes
+2024-10-14 17:41:59.362191 India: No
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Delta: {Delta, Mike, Hotel, India, Tango, Lima} 
+2024-10-14 17:41:59.385821 Delta: We should group up
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:41:59.394282 Mike: Yes
+2024-10-14 17:41:59.394452 Hotel: No
+2024-10-14 17:41:59.394652 India: No
+2024-10-14 17:41:59.395585 Tango: No
+2024-10-14 17:41:59.395813 Lima: No
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:41:59.485005 Lima: Hotel, sending you 6
+2024-10-14 17:41:59.486531 Hotel: Lima and India, sending you 2
+2024-10-14 17:41:59.488278 Delta: Mike and Hotel, sending you 2
+2024-10-14 17:41:59.489886 Lima: Whiskey, sending you 5
+2024-10-14 17:41:59.490160 India: Foxtrot, sending you 6
+2024-10-14 17:41:59.490432 Mike: Lima and Delta, sending you 5
+2024-10-14 17:41:59.491192 Foxtrot: India, sending you 6
+2024-10-14 17:41:59.491436 Whiskey: Lima, sending you 3
+2024-10-14 17:41:59.491732 Hotel: Whiskey, sending you 4
+2024-10-14 17:41:59.494294 Delta: Lima, sending you 1
+2024-10-14 17:41:59.494736 Uniform: Foxtrot, sending you 12
+2024-10-14 17:41:59.495472 India: Uniform, sending you 10
+2024-10-14 17:41:59.495750 Lima: India, sending you 4
+2024-10-14 17:41:59.496065 Oscar: India, sending you 3
+2024-10-14 17:41:59.496344 Tango: Oscar, sending you 6
+2024-10-14 17:41:59.497214 Mike: Hotel and India, sending you 2
+2024-10-14 17:41:59.497568 Foxtrot: Uniform, sending you 7
+2024-10-14 17:41:59.497844 Whiskey: Hotel, sending you 4
+2024-10-14 17:41:59.498733 Uniform: India, sending you 6
+2024-10-14 17:41:59.499005 Oscar: Uniform and Tango, sending you 5
+2024-10-14 17:41:59.499685 Delta: India, sending you 3
+2024-10-14 17:41:59.500515 Mike: Tango, sending you 3
+2024-10-14 17:41:59.500898 Tango: India, sending you 7
+2024-10-14 17:41:59.502714 Whiskey: India, sending you 7
+2024-10-14 17:41:59.503826 Tango: Uniform, sending you 4
+2024-10-14 17:41:59.505476 Delta: Tango, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Oscar round 2
+ChatterBot Mike round 2
+ChatterBot Lima round 2
+ChatterBot Hotel round 2
+ChatterBot Whiskey round 2
+ChatterBot Delta round 2
+ChatterBot Foxtrot round 2
+ChatterBot India round 2
+ChatterBot Uniform round 2
+ChatterBot Tango round 2
+2024-10-14 17:42:00.938822 Oscar: We should group up
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:42:00.965118 Mike: Yes
+2024-10-14 17:42:00.965778 Delta: Yes
+2024-10-14 17:42:00.965934 Tango: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:42:01.043955 Delta: Let's form a team
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:42:01.079083 Mike: No
+2024-10-14 17:42:01.079252 Oscar: No
+2024-10-14 17:42:01.079405 Tango: No
+2024-10-14 17:42:01.079542 Lima: No
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:42:01.288429 India: Let's form a team
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:42:01.311014 Hotel: No
+2024-10-14 17:42:01.311737 Lima: No
+2024-10-14 17:42:01.312003 Whiskey: No
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:42:01.403013 Uniform: We should add Oscar and Tango
+ChatterBot India reevaluating
+2024-10-14 17:42:01.417626 Foxtrot: No
+2024-10-14 17:42:01.417820 India: Yes
+ChatterBot India reevaluating
+2024-10-14 17:42:01.482721 Whiskey: We should drop India
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:42:01.497825 Lima: Yes
+2024-10-14 17:42:01.498351 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 17:42:01.527300 Uniform: Oscar and Tango we want you to join our group
+2024-10-14 17:42:01.543277 Oscar: No
+2024-10-14 17:42:01.543478 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:01.654671 Oscar: Mike and Delta, sending you 3
+2024-10-14 17:42:01.694428 Mike: Oscar, sending you 3
+2024-10-14 17:42:01.695430 Tango: Oscar and Delta, sending you 4
+2024-10-14 17:42:01.695958 Hotel: Mike and Delta, sending you 2
+2024-10-14 17:42:01.696359 Delta: Oscar and Mike, sending you 4
+2024-10-14 17:42:01.697139 Lima: Mike, Hotel and Whiskey, sending you 4
+2024-10-14 17:42:01.697490 Oscar: Tango, sending you 5
+2024-10-14 17:42:01.697828 Whiskey: Sending you each 7
+2024-10-14 17:42:01.698643 Uniform: Oscar, sending you 4
+2024-10-14 17:42:01.699208 Mike: Delta, sending you 14
+2024-10-14 17:42:01.699601 Tango: Mike, sending you 3
+2024-10-14 17:42:01.700547 Hotel: Lima and Whiskey, sending you 3
+2024-10-14 17:42:01.700901 Delta: Tango, sending you 3
+2024-10-14 17:42:01.701200 Lima: Delta, sending you 3
+2024-10-14 17:42:01.754600 India: Oscar, sending you 4
+2024-10-14 17:42:01.755051 Mike: Tango, sending you 2
+2024-10-14 17:42:01.755391 Uniform: Foxtrot, sending you 5
+2024-10-14 17:42:01.756145 Foxtrot: India, sending you 4
+2024-10-14 17:42:01.756501 Tango: Foxtrot, India and Uniform, sending you 2
+2024-10-14 17:42:01.771022 India: Foxtrot, Uniform and Tango, sending you 5
+2024-10-14 17:42:01.772960 Uniform: India, sending you 6
+2024-10-14 17:42:01.773289 Foxtrot: Uniform, sending you 7
+2024-10-14 17:42:01.806877 Uniform: Tango, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Oscar round 3
+ChatterBot Mike round 3
+ChatterBot Lima round 3
+ChatterBot Hotel round 3
+ChatterBot Whiskey round 3
+2024-10-14 17:42:02.578594 Mike: We should add Lima
+ChatterBot Delta reevaluating
+2024-10-14 17:42:02.603081 Oscar: No
+2024-10-14 17:42:02.603668 Delta: Yes
+2024-10-14 17:42:02.603830 Tango: No
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta round 3
+ChatterBot Foxtrot round 3
+ChatterBot India round 3
+ChatterBot Uniform round 3
+ChatterBot Tango round 3
+2024-10-14 17:42:02.715219 Mike: We should add Hotel
+ChatterBot Delta reevaluating
+2024-10-14 17:42:02.740101 Oscar: No
+2024-10-14 17:42:02.740324 Delta: Yes
+2024-10-14 17:42:02.740500 Tango: No
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:42:02.849663 Oscar: Mike, sending you 4
+2024-10-14 17:42:02.850805 Mike: Oscar, sending you 5
+2024-10-14 17:42:02.852657 Hotel: Same as last round
+2024-10-14 17:42:02.852957 Lima: Hotel, sending you 7
+2024-10-14 17:42:02.853178 Oscar: Delta and Tango, sending you 5
+2024-10-14 17:42:02.854046 Whiskey: Same as last round
+2024-10-14 17:42:02.854393 Mike: Delta, sending you 8
+2024-10-14 17:42:02.854805 Tango: Oscar, sending you 4
+2024-10-14 17:42:02.855687 Lima: Whiskey, sending you 8
+2024-10-14 17:42:02.859189 Mike: Tango, sending you 6
+2024-10-14 17:42:02.859590 Tango: Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:02.862678 Delta: Oscar and Tango, sending you 5
+2024-10-14 17:42:02.862990 India: Oscar, sending you 3
+2024-10-14 17:42:02.863690 Tango: Foxtrot, sending you 1
+2024-10-14 17:42:02.864465 Uniform: Oscar and Tango, sending you 3
+2024-10-14 17:42:02.864803 Foxtrot: India, sending you 5
+2024-10-14 17:42:02.865991 India: Foxtrot and Tango, sending you 5
+2024-10-14 17:42:02.866680 Delta: Mike, sending you 4
+2024-10-14 17:42:02.868663 India: Uniform, sending you 6
+2024-10-14 17:42:02.869686 Uniform: Foxtrot, sending you 5
+2024-10-14 17:42:02.870229 Foxtrot: Uniform, sending you 7
+2024-10-14 17:42:02.873650 Uniform: India, sending you 7
+2024-10-14 17:42:02.874665 Foxtrot: Tango, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 4
+ChatterBot Mike round 4
+ChatterBot Lima round 4
+ChatterBot Hotel round 4
+ChatterBot Whiskey round 4
+ChatterBot Delta round 4
+ChatterBot Foxtrot round 4
+2024-10-14 17:42:04.006093 Oscar: Friends?
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 17:42:04.031093 Tango: Yes
+2024-10-14 17:42:04.031254 Mike: Yes
+2024-10-14 17:42:04.031368 Delta: No
+2024-10-14 17:42:04.031470 Foxtrot: No
+2024-10-14 17:42:04.031576 India: No
+2024-10-14 17:42:04.031689 Uniform: No
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:42:04.107216 Mike: Group up?
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:42:04.163336 Tango: Yes
+2024-10-14 17:42:04.163623 Delta: No
+2024-10-14 17:42:04.163756 Oscar: Yes
+2024-10-14 17:42:04.163986 Foxtrot: Yes
+2024-10-14 17:42:04.164100 India: Yes
+2024-10-14 17:42:04.164289 Uniform: Yes
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:42:04.183198 Uniform: We should add Mike and Delta
+ChatterBot Mike reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:04.284161 Tango: Yes
+2024-10-14 17:42:04.284457 Oscar: Yes
+2024-10-14 17:42:04.284702 Foxtrot: Yes
+2024-10-14 17:42:04.284820 India: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India round 4
+ChatterBot Uniform round 4
+ChatterBot Tango round 4
+2024-10-14 17:42:04.343288 India: We should add Mike and Delta
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 17:42:04.353471 Uniform: Yes
+2024-10-14 17:42:04.353926 Foxtrot: Yes
+2024-10-14 17:42:04.354039 Oscar: Yes
+2024-10-14 17:42:04.354146 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:04.406153 Foxtrot: Mike and Delta we want you to join our group
+2024-10-14 17:42:04.411207 Mike: Yes
+2024-10-14 17:42:04.411347 Delta: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:42:04.439878 India: Mike and Delta we want you to join our group
+2024-10-14 17:42:04.444925 Mike: Yes
+2024-10-14 17:42:04.445043 Delta: Yes
+2024-10-14 17:42:04.472907 Oscar: Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:04.473746 Uniform: Mike and Delta we want you to join our group
+2024-10-14 17:42:04.478511 Mike: Yes
+2024-10-14 17:42:04.478637 Delta: Yes
+2024-10-14 17:42:04.508963 Oscar: Foxtrot, sending you 1
+2024-10-14 17:42:04.509312 Mike: Oscar, sending you 5
+2024-10-14 17:42:04.509568 Whiskey: Lima, sending you 8
+2024-10-14 17:42:04.509794 Lima: Hotel, sending you 7
+2024-10-14 17:42:04.509991 Delta: Oscar, Mike and Tango, sending you 4
+2024-10-14 17:42:04.510262 Hotel: Same as last round
+2024-10-14 17:42:04.512674 Oscar: Tango, sending you 4
+2024-10-14 17:42:04.513165 Delta: Foxtrot and Uniform, sending you 2
+2024-10-14 17:42:04.513582 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:04.514457 Mike: Delta, sending you 7
+2024-10-14 17:42:04.514837 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:04.515103 Lima: Whiskey, sending you 8
+2024-10-14 17:42:04.515307 Foxtrot: India, sending you 6
+2024-10-14 17:42:04.516699 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:04.518663 Mike: Foxtrot, India and Uniform, sending you 1
+2024-10-14 17:42:04.519168 India: Oscar, Mike and Delta, sending you 2
+2024-10-14 17:42:04.520023 Uniform: Oscar, sending you 2
+2024-10-14 17:42:04.520689 Foxtrot: Uniform, sending you 7
+chatterbot Oscar submitting transactions
+2024-10-14 17:42:04.523675 Mike: Tango, sending you 4
+2024-10-14 17:42:04.524242 Uniform: Mike and Delta, sending you 1
+2024-10-14 17:42:04.524825 India: Foxtrot, sending you 4
+2024-10-14 17:42:04.528154 Uniform: Foxtrot, sending you 5
+2024-10-14 17:42:04.529678 India: Uniform, sending you 6
+2024-10-14 17:42:04.531684 Uniform: India, sending you 6
+2024-10-14 17:42:04.534655 India: Tango, sending you 3
+2024-10-14 17:42:04.536655 Uniform: Tango, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Oscar round 5
+ChatterBot Mike round 5
+ChatterBot Lima round 5
+ChatterBot Hotel round 5
+ChatterBot Whiskey round 5
+ChatterBot Delta round 5
+ChatterBot Foxtrot round 5
+ChatterBot India round 5
+ChatterBot Uniform round 5
+ChatterBot Tango round 5
+2024-10-14 17:42:05.574572 Delta: We should drop Foxtrot
+2024-10-14 17:42:05.593266 India: No
+2024-10-14 17:42:05.593459 Uniform: No
+2024-10-14 17:42:05.593961 Oscar: No
+2024-10-14 17:42:05.594111 Mike: No
+2024-10-14 17:42:05.594233 Tango: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:42:05.668313 India: We should drop Delta
+2024-10-14 17:42:05.680723 Foxtrot: No
+2024-10-14 17:42:05.680878 Uniform: No
+2024-10-14 17:42:05.680979 Oscar: No
+2024-10-14 17:42:05.681069 Mike: No
+2024-10-14 17:42:05.681151 Tango: No
+2024-10-14 17:42:05.743229 Lima: Hotel, sending you 7
+2024-10-14 17:42:05.746247 Lima: Whiskey, sending you 8
+2024-10-14 17:42:05.746689 Oscar: Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:05.747379 Uniform: Oscar and Delta, sending you 2
+2024-10-14 17:42:05.747882 Hotel: Same as last round
+2024-10-14 17:42:05.748162 Foxtrot: Delta and Tango, sending you 1
+2024-10-14 17:42:05.748694 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:05.749238 Mike: Oscar and Tango, sending you 4
+2024-10-14 17:42:05.749763 Whiskey: Lima, sending you 8
+2024-10-14 17:42:05.752006 Oscar: Foxtrot, sending you 1
+2024-10-14 17:42:05.752796 Uniform: Mike, sending you 1
+2024-10-14 17:42:05.753709 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:05.754391 Mike: Delta, sending you 6
+2024-10-14 17:42:05.755071 Foxtrot: India, sending you 5
+2024-10-14 17:42:05.756009 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:05.756690 Uniform: Foxtrot and India, sending you 5
+2024-10-14 17:42:05.758073 Oscar: Tango, sending you 4
+2024-10-14 17:42:05.758910 Foxtrot: Uniform, sending you 6
+2024-10-14 17:42:05.759712 India: Oscar, sending you 3
+2024-10-14 17:42:05.760222 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:05.761680 Uniform: Tango, sending you 3
+2024-10-14 17:42:05.762708 India: Mike, sending you 2
+2024-10-14 17:42:05.763696 Mike: India and Uniform, sending you 2
+2024-10-14 17:42:05.767703 India: Foxtrot and Uniform, sending you 5
+2024-10-14 17:42:05.771487 India: Tango, sending you 4
+2024-10-14 17:42:05.772435 Delta: Oscar, Mike and Tango, sending you 4
+2024-10-14 17:42:05.775693 Delta: India, sending you 3
+2024-10-14 17:42:05.779661 Delta: Uniform, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Oscar round 6
+ChatterBot Mike round 6
+ChatterBot Lima round 6
+ChatterBot Hotel round 6
+ChatterBot Whiskey round 6
+ChatterBot Delta round 6
+ChatterBot Foxtrot round 6
+ChatterBot India round 6
+ChatterBot Uniform round 6
+ChatterBot Tango round 6
+2024-10-14 17:42:06.973728 Whiskey: Lima, sending you 8
+2024-10-14 17:42:06.974964 Delta: Oscar, Mike and Tango, sending you 4
+2024-10-14 17:42:06.977679 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:06.978698 Lima: Hotel, sending you 7
+2024-10-14 17:42:06.979428 Oscar: Mike, India and Uniform, sending you 3
+2024-10-14 17:42:06.981090 Delta: India and Uniform, sending you 3
+2024-10-14 17:42:06.981682 Foxtrot: Oscar and Tango, sending you 1
+2024-10-14 17:42:06.982653 Lima: Whiskey, sending you 8
+2024-10-14 17:42:06.983694 Hotel: Same as last round
+2024-10-14 17:42:06.984151 Oscar: Delta and Tango, sending you 4
+2024-10-14 17:42:06.985122 Mike: Oscar and Tango, sending you 4
+2024-10-14 17:42:06.986906 Foxtrot: India, sending you 5
+2024-10-14 17:42:06.987792 India: Oscar and Mike, sending you 3
+2024-10-14 17:42:06.989208 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:06.992250 Mike: Delta, sending you 6
+2024-10-14 17:42:06.993116 India: Foxtrot and Tango, sending you 4
+2024-10-14 17:42:06.993577 Foxtrot: Uniform, sending you 6
+2024-10-14 17:42:06.994273 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:06.995911 Uniform: Oscar, Mike and Delta, sending you 2
+2024-10-14 17:42:06.996740 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:06.997667 India: Uniform, sending you 5
+2024-10-14 17:42:06.999699 Mike: India and Uniform, sending you 2
+2024-10-14 17:42:07.001663 Uniform: Foxtrot, sending you 5
+2024-10-14 17:42:07.005659 Uniform: India, sending you 4
+2024-10-14 17:42:07.008666 Uniform: Tango, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Oscar round 7
+ChatterBot Mike round 7
+ChatterBot Lima round 7
+ChatterBot Hotel round 7
+ChatterBot Whiskey round 7
+ChatterBot Delta round 7
+ChatterBot Foxtrot round 7
+ChatterBot India round 7
+ChatterBot Uniform round 7
+ChatterBot Tango round 7
+2024-10-14 17:42:07.895714 Lima: Hotel, sending you 7
+2024-10-14 17:42:07.898690 Mike: Oscar and Tango, sending you 4
+2024-10-14 17:42:07.899444 Lima: Whiskey, sending you 8
+2024-10-14 17:42:07.901737 Delta: Oscar, Mike and Tango, sending you 4
+2024-10-14 17:42:07.903715 Mike: Delta, sending you 5
+2024-10-14 17:42:07.904721 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:07.905737 Foxtrot: India, sending you 5
+2024-10-14 17:42:07.906692 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:07.907687 Delta: India, sending you 2
+2024-10-14 17:42:07.908441 Uniform: Oscar and Tango, sending you 3
+2024-10-14 17:42:07.909364 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:07.910300 Hotel: Same as last round
+2024-10-14 17:42:07.911386 Foxtrot: Uniform, sending you 6
+2024-10-14 17:42:07.912216 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:07.913038 Whiskey: Lima, sending you 8
+2024-10-14 17:42:07.913439 Delta: Uniform, sending you 3
+2024-10-14 17:42:07.913912 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:07.914503 Uniform: Mike and Delta, sending you 2
+2024-10-14 17:42:07.915133 Mike: India, sending you 3
+2024-10-14 17:42:07.916688 Foxtrot: Tango, sending you 2
+2024-10-14 17:42:07.917597 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:07.918062 India: Oscar and Mike, sending you 3
+2024-10-14 17:42:07.918660 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:07.919569 Mike: Uniform, sending you 2
+2024-10-14 17:42:07.920729 India: Foxtrot and Tango, sending you 4
+2024-10-14 17:42:07.925683 India: Uniform, sending you 5
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 8
+ChatterBot Mike round 8
+ChatterBot Lima round 8
+ChatterBot Hotel round 8
+ChatterBot Whiskey round 8
+ChatterBot Delta round 8
+ChatterBot Foxtrot round 8
+ChatterBot India round 8
+ChatterBot Uniform round 8
+ChatterBot Tango round 8
+2024-10-14 17:42:09.116676 Lima: Hotel, sending you 7
+2024-10-14 17:42:09.120675 Lima: Whiskey, sending you 8
+2024-10-14 17:42:09.123660 Mike: Oscar and Tango, sending you 4
+2024-10-14 17:42:09.126706 Whiskey: Lima, sending you 8
+2024-10-14 17:42:09.129021 Mike: Delta, sending you 5
+2024-10-14 17:42:09.129859 Delta: Oscar, Mike and Tango, sending you 4
+2024-10-14 17:42:09.130233 Uniform: Oscar and Tango, sending you 3
+2024-10-14 17:42:09.130800 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:09.131062 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:09.131686 Hotel: Same as last round
+2024-10-14 17:42:09.132655 Delta: India, sending you 2
+2024-10-14 17:42:09.133687 India: Oscar and Mike, sending you 3
+2024-10-14 17:42:09.134070 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:09.135011 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:09.135569 Uniform: Mike and Delta, sending you 2
+2024-10-14 17:42:09.136111 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:09.136718 Foxtrot: Oscar and Mike, sending you 1
+2024-10-14 17:42:09.137692 Delta: Uniform, sending you 3
+2024-10-14 17:42:09.138252 India: Foxtrot and Tango, sending you 4
+2024-10-14 17:42:09.138798 Mike: India, sending you 3
+2024-10-14 17:42:09.139878 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:09.141695 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:09.142365 Foxtrot: India, sending you 4
+2024-10-14 17:42:09.143003 India: Uniform, sending you 5
+2024-10-14 17:42:09.144695 Mike: Uniform, sending you 2
+2024-10-14 17:42:09.146712 Foxtrot: Uniform, sending you 5
+2024-10-14 17:42:09.152662 Foxtrot: Tango, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 9
+ChatterBot Mike round 9
+ChatterBot Lima round 9
+ChatterBot Hotel round 9
+ChatterBot Whiskey round 9
+ChatterBot Delta round 9
+ChatterBot Foxtrot round 9
+ChatterBot India round 9
+ChatterBot Uniform round 9
+ChatterBot Tango round 9
+2024-10-14 17:42:10.429675 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:10.430686 Hotel: Lima, sending you 2
+2024-10-14 17:42:10.434702 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:10.436419 Hotel: Whiskey, sending you 3
+2024-10-14 17:42:10.436960 Lima: Hotel, sending you 7
+2024-10-14 17:42:10.439684 Delta: Oscar, sending you 4
+2024-10-14 17:42:10.440805 Lima: Whiskey, sending you 8
+2024-10-14 17:42:10.441701 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:10.443713 Whiskey: Lima, sending you 8
+2024-10-14 17:42:10.444135 Foxtrot: Oscar and Mike, sending you 1
+2024-10-14 17:42:10.445881 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:10.446975 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:10.447597 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:10.448033 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:10.449820 Uniform: Oscar and Tango, sending you 3
+2024-10-14 17:42:10.450894 Foxtrot: India, sending you 4
+2024-10-14 17:42:10.452719 India: Oscar and Mike, sending you 3
+2024-10-14 17:42:10.453605 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:10.455379 Delta: India, sending you 2
+2024-10-14 17:42:10.457133 Uniform: Mike and Delta, sending you 2
+2024-10-14 17:42:10.458769 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:10.459827 India: Foxtrot and Tango, sending you 4
+2024-10-14 17:42:10.460409 Foxtrot: Uniform, sending you 5
+2024-10-14 17:42:10.462161 Delta: Uniform, sending you 3
+2024-10-14 17:42:10.464455 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:10.465530 India: Uniform, sending you 5
+2024-10-14 17:42:10.466691 Foxtrot: Tango, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Oscar round 10
+ChatterBot Mike round 10
+ChatterBot Lima round 10
+ChatterBot Hotel round 10
+ChatterBot Whiskey round 10
+ChatterBot Delta round 10
+ChatterBot Foxtrot round 10
+ChatterBot India round 10
+ChatterBot Uniform round 10
+ChatterBot Tango round 10
+2024-10-14 17:42:11.670777 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:11.671788 Lima: Hotel, sending you 7
+2024-10-14 17:42:11.672680 India: Oscar and Mike, sending you 3
+2024-10-14 17:42:11.673696 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:11.674667 Hotel: Sending you each 2
+2024-10-14 17:42:11.674944 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:11.676674 Lima: Whiskey, sending you 8
+2024-10-14 17:42:11.676923 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:11.677682 India: Foxtrot and Tango, sending you 4
+2024-10-14 17:42:11.678028 Uniform: Oscar and Tango, sending you 3
+2024-10-14 17:42:11.678645 Foxtrot: Oscar and Mike, sending you 1
+2024-10-14 17:42:11.679249 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:11.680606 Whiskey: Lima, sending you 8
+2024-10-14 17:42:11.681690 India: Uniform, sending you 5
+2024-10-14 17:42:11.682715 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:11.683985 Uniform: Mike and Delta, sending you 2
+2024-10-14 17:42:11.685093 Foxtrot: India, sending you 4
+2024-10-14 17:42:11.685971 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:11.686703 Delta: Mike, sending you 5
+2024-10-14 17:42:11.688130 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:11.689675 Foxtrot: Uniform, sending you 5
+2024-10-14 17:42:11.691229 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:11.693258 Delta: India, sending you 2
+2024-10-14 17:42:11.696477 Foxtrot: Tango, sending you 2
+2024-10-14 17:42:11.697692 Tango: Foxtrot, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 11
+ChatterBot Mike round 11
+ChatterBot Lima round 11
+ChatterBot Hotel round 11
+ChatterBot Whiskey round 11
+ChatterBot Delta round 11
+ChatterBot Foxtrot round 11
+ChatterBot India round 11
+ChatterBot Uniform round 11
+ChatterBot Tango round 11
+2024-10-14 17:42:12.816658 Hotel: Same as last round
+2024-10-14 17:42:12.817669 Uniform: Oscar and Tango, sending you 3
+2024-10-14 17:42:12.821666 Mike: Oscar, India and Uniform, sending you 3
+2024-10-14 17:42:12.823419 Uniform: Mike and Delta, sending you 2
+2024-10-14 17:42:12.825042 Whiskey: Lima, sending you 8
+2024-10-14 17:42:12.825464 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:12.827325 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:12.827992 Mike: Delta and Tango, sending you 4
+2024-10-14 17:42:12.829577 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:12.830586 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:12.831810 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:12.832063 Lima: Hotel, sending you 7
+2024-10-14 17:42:12.832287 Foxtrot: Oscar and Mike, sending you 1
+2024-10-14 17:42:12.833176 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:12.834193 India: Mike, sending you 3
+2024-10-14 17:42:12.834603 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:12.835320 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:12.836062 Lima: Whiskey, sending you 8
+2024-10-14 17:42:12.836723 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:12.837677 Foxtrot: India, sending you 4
+2024-10-14 17:42:12.839694 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:12.840724 Delta: India, sending you 2
+2024-10-14 17:42:12.841717 Foxtrot: Uniform, sending you 5
+2024-10-14 17:42:12.848020 Foxtrot: Tango, sending you 2
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Oscar round 12
+ChatterBot Mike round 12
+ChatterBot Lima round 12
+ChatterBot Hotel round 12
+ChatterBot Whiskey round 12
+ChatterBot Delta round 12
+ChatterBot Foxtrot round 12
+ChatterBot India round 12
+ChatterBot Uniform round 12
+ChatterBot Tango round 12
+2024-10-14 17:42:14.071718 Mike: Oscar, India and Uniform, sending you 3
+2024-10-14 17:42:14.074673 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:14.076114 Mike: Delta and Tango, sending you 4
+2024-10-14 17:42:14.077787 Whiskey: Lima, sending you 8
+2024-10-14 17:42:14.078223 Hotel: Same as last round
+2024-10-14 17:42:14.079676 Foxtrot: India, sending you 4
+2024-10-14 17:42:14.080999 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:14.082656 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:14.083523 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:14.084470 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:14.085681 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:14.086093 Lima: Hotel, sending you 7
+2024-10-14 17:42:14.086406 Foxtrot: Uniform, sending you 5
+2024-10-14 17:42:14.087259 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:14.088014 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:14.089477 Uniform: Oscar, Delta and Tango, sending you 3
+2024-10-14 17:42:14.090973 India: Mike, sending you 3
+2024-10-14 17:42:14.092147 Lima: Whiskey, sending you 8
+2024-10-14 17:42:14.092644 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:14.093720 Delta: India, sending you 2
+2024-10-14 17:42:14.096062 Uniform: Mike, sending you 1
+2024-10-14 17:42:14.097892 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:14.100685 Uniform: Foxtrot and India, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 13
+ChatterBot Mike round 13
+ChatterBot Lima round 13
+ChatterBot Hotel round 13
+ChatterBot Whiskey round 13
+ChatterBot Delta round 13
+ChatterBot Foxtrot round 13
+ChatterBot India round 13
+ChatterBot Uniform round 13
+ChatterBot Tango round 13
+2024-10-14 17:42:15.339677 Hotel: Same as last round
+2024-10-14 17:42:15.341089 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:15.343729 Uniform: Oscar, Delta and Tango, sending you 3
+2024-10-14 17:42:15.346720 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:15.349761 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:15.352594 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:15.355451 Lima: Hotel, sending you 7
+2024-10-14 17:42:15.356516 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:15.359276 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:15.360898 Uniform: Mike, sending you 1
+2024-10-14 17:42:15.363870 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:15.365833 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:15.368828 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:15.370067 Lima: Whiskey, sending you 8
+2024-10-14 17:42:15.370606 Whiskey: Lima, sending you 8
+2024-10-14 17:42:15.371711 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:15.373128 India: Mike, sending you 3
+2024-10-14 17:42:15.373887 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:15.375904 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:15.376915 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:15.378040 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:15.378433 Foxtrot: India and Uniform, sending you 4
+2024-10-14 17:42:15.380686 Delta: India, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Oscar round 14
+ChatterBot Mike round 14
+ChatterBot Lima round 14
+ChatterBot Hotel round 14
+ChatterBot Whiskey round 14
+ChatterBot Delta round 14
+ChatterBot Foxtrot round 14
+ChatterBot India round 14
+ChatterBot Uniform round 14
+ChatterBot Tango round 14
+2024-10-14 17:42:16.426752 Delta: We should replace India with Foxtrot
+2024-10-14 17:42:16.443082 Oscar: No
+2024-10-14 17:42:16.443248 Mike: No
+2024-10-14 17:42:16.443376 Tango: No
+2024-10-14 17:42:16.443485 Uniform: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:42:16.522773 Delta: Foxtrot we want you to join our group
+2024-10-14 17:42:16.526065 Foxtrot: Yes
+ChatterBot Delta reevaluating
+2024-10-14 17:42:16.542874 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:16.543963 Whiskey: Lima, sending you 8
+2024-10-14 17:42:16.544326 Hotel: Same as last round
+2024-10-14 17:42:16.546677 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:16.547858 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:16.549264 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:16.549604 Uniform: Oscar, Delta and Tango, sending you 3
+2024-10-14 17:42:16.550475 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:16.551423 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:16.552875 Lima: Hotel, sending you 7
+2024-10-14 17:42:16.553390 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:16.553967 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:16.555479 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:16.557820 Uniform: Mike, sending you 1
+2024-10-14 17:42:16.560693 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:16.562643 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:16.563887 India: Mike, sending you 3
+2024-10-14 17:42:16.564794 Lima: Whiskey, sending you 8
+2024-10-14 17:42:16.566205 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:16.568250 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:16.569548 Foxtrot: India and Uniform, sending you 4
+2024-10-14 17:42:16.573100 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:16.577682 Delta: Foxtrot, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Oscar round 15
+ChatterBot Mike round 15
+ChatterBot Lima round 15
+ChatterBot Hotel round 15
+ChatterBot Whiskey round 15
+ChatterBot Delta round 15
+ChatterBot Foxtrot round 15
+ChatterBot India round 15
+ChatterBot Uniform round 15
+ChatterBot Tango round 15
+2024-10-14 17:42:17.572709 Hotel: Same as last round
+2024-10-14 17:42:17.573677 Lima: Hotel, sending you 7
+2024-10-14 17:42:17.576694 Lima: Whiskey, sending you 8
+2024-10-14 17:42:17.580674 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:17.581995 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:17.585030 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:17.586 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:17.586964 Uniform: Oscar, Delta and Tango, sending you 3
+2024-10-14 17:42:17.588256 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:17.588896 Whiskey: Lima, sending you 8
+2024-10-14 17:42:17.589273 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:17.590809 Foxtrot: India and Uniform, sending you 4
+2024-10-14 17:42:17.591892 Uniform: Mike, sending you 1
+2024-10-14 17:42:17.592924 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:17.593272 Mike: Oscar, Delta, India and Tango, sending you 4
+2024-10-14 17:42:17.594219 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:17.595709 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:17.597704 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:17.598871 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:17.599799 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:17.600407 Delta: Foxtrot, sending you 2
+2024-10-14 17:42:17.603670 Mike: Uniform, sending you 2
+2024-10-14 17:42:17.604802 India: Mike, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Oscar round 16
+ChatterBot Mike round 16
+ChatterBot Lima round 16
+ChatterBot Hotel round 16
+ChatterBot Whiskey round 16
+ChatterBot Delta round 16
+ChatterBot Foxtrot round 16
+ChatterBot India round 16
+ChatterBot Uniform round 16
+ChatterBot Tango round 16
+2024-10-14 17:42:18.813670 Lima: Hotel, sending you 7
+2024-10-14 17:42:18.814710 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:18.817903 Mike: Oscar, Delta, India and Tango, sending you 4
+2024-10-14 17:42:18.819975 Lima: Whiskey, sending you 8
+2024-10-14 17:42:18.820606 Whiskey: Lima, sending you 8
+2024-10-14 17:42:18.821682 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:18.823299 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:18.825846 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:18.828488 Uniform: Oscar, Delta and Tango, sending you 3
+2024-10-14 17:42:18.831350 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:18.833456 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:18.835195 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:18.835978 Hotel: Same as last round
+2024-10-14 17:42:18.837270 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:18.839879 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:18.842716 Mike: Uniform, sending you 2
+2024-10-14 17:42:18.845244 Uniform: Mike, sending you 1
+2024-10-14 17:42:18.848619 India: Mike, sending you 3
+2024-10-14 17:42:18.850985 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:18.853368 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:18.856811 Uniform: Foxtrot and India, sending you 4
+2024-10-14 17:42:18.859387 Delta: Foxtrot, sending you 2
+2024-10-14 17:42:18.861535 Foxtrot: India and Uniform, sending you 4
+chatterbot Mike submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Oscar round 17
+ChatterBot Mike round 17
+ChatterBot Lima round 17
+ChatterBot Hotel round 17
+ChatterBot Whiskey round 17
+ChatterBot Delta round 17
+ChatterBot Foxtrot round 17
+ChatterBot India round 17
+ChatterBot Uniform round 17
+ChatterBot Tango round 17
+2024-10-14 17:42:20.201504 Lima: Hotel, sending you 7
+2024-10-14 17:42:20.203023 Mike: Oscar, Delta, India and Tango, sending you 4
+2024-10-14 17:42:20.207220 Uniform: Oscar, Delta, India and Tango, sending you 3
+2024-10-14 17:42:20.211159 Lima: Whiskey, sending you 8
+2024-10-14 17:42:20.212567 Whiskey: Lima, sending you 8
+2024-10-14 17:42:20.213463 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:20.217109 Uniform: Mike, sending you 2
+2024-10-14 17:42:20.224959 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:20.233166 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:20.237318 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:20.238606 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:20.244028 Hotel: Same as last round
+2024-10-14 17:42:20.245897 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:20.250837 Mike: Uniform, sending you 2
+2024-10-14 17:42:20.255931 Uniform: Foxtrot, sending you 4
+2024-10-14 17:42:20.261832 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:20.267462 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:20.271913 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:20.277997 India: Oscar, Foxtrot, Uniform and Tango, sending you 4
+2024-10-14 17:42:20.281342 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:20.286512 Foxtrot: India and Uniform, sending you 4
+2024-10-14 17:42:20.291334 Delta: Foxtrot, sending you 2
+2024-10-14 17:42:20.293884 India: Mike, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 18
+ChatterBot Mike round 18
+ChatterBot Lima round 18
+ChatterBot Hotel round 18
+ChatterBot Whiskey round 18
+ChatterBot Delta round 18
+ChatterBot Foxtrot round 18
+ChatterBot India round 18
+ChatterBot Uniform round 18
+ChatterBot Tango round 18
+2024-10-14 17:42:21.479331 India: We should add Delta
+2024-10-14 17:42:21.512713 Foxtrot: Yes
+2024-10-14 17:42:21.513051 Uniform: Yes
+2024-10-14 17:42:21.513302 Oscar: Yes
+2024-10-14 17:42:21.513538 Mike: Yes
+2024-10-14 17:42:21.513786 Tango: Yes
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:21.619428 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:21.626682 India: Delta we want you to join our group
+2024-10-14 17:42:21.634463 Delta: No
+ChatterBot India reevaluating
+2024-10-14 17:42:21.654034 Whiskey: Lima, sending you 8
+2024-10-14 17:42:21.655393 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:21.660887 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:21.666479 Mike: Foxtrot and Uniform, sending you 2
+2024-10-14 17:42:21.671800 Uniform: Oscar, Delta, India and Tango, sending you 3
+2024-10-14 17:42:21.677029 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:21.680002 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:21.680846 Hotel: Same as last round
+2024-10-14 17:42:21.682123 Lima: Hotel, sending you 7
+2024-10-14 17:42:21.682773 Foxtrot: Delta, sending you 1
+2024-10-14 17:42:21.686566 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:21.691678 Mike: India, sending you 3
+2024-10-14 17:42:21.694470 Uniform: Mike, sending you 2
+2024-10-14 17:42:21.697462 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:21.700771 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:21.703757 Lima: Whiskey, sending you 8
+2024-10-14 17:42:21.705246 Foxtrot: India and Uniform, sending you 4
+2024-10-14 17:42:21.707775 Uniform: Foxtrot, sending you 4
+2024-10-14 17:42:21.710033 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:21.712751 Delta: Foxtrot, sending you 2
+2024-10-14 17:42:21.722724 India: Oscar, Mike and Tango, sending you 3
+2024-10-14 17:42:21.729127 India: Delta, sending you 2
+2024-10-14 17:42:21.734757 India: Foxtrot and Uniform, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Oscar round 19
+ChatterBot Mike round 19
+ChatterBot Lima round 19
+ChatterBot Hotel round 19
+ChatterBot Whiskey round 19
+ChatterBot Delta round 19
+ChatterBot Foxtrot round 19
+ChatterBot India round 19
+ChatterBot Uniform round 19
+ChatterBot Tango round 19
+2024-10-14 17:42:22.950707 India: We should drop Foxtrot
+2024-10-14 17:42:22.974834 Delta: No
+2024-10-14 17:42:22.975969 Uniform: No
+2024-10-14 17:42:22.976225 Oscar: No
+2024-10-14 17:42:22.976433 Mike: No
+2024-10-14 17:42:22.976670 Tango: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:23.149653 Hotel: Same as last round
+2024-10-14 17:42:23.150667 Lima: Hotel, sending you 7
+2024-10-14 17:42:23.152222 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:23.157358 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:23.160667 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:23.165886 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:23.172001 Lima: Whiskey, sending you 8
+2024-10-14 17:42:23.172751 Foxtrot: Mike and Delta, sending you 1
+2024-10-14 17:42:23.177325 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:23.181012 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:23.184680 Whiskey: Lima, sending you 8
+2024-10-14 17:42:23.185308 Uniform: Oscar, Delta, India and Tango, sending you 3
+2024-10-14 17:42:23.189543 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:23.193288 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:23.196675 Foxtrot: India, sending you 3
+2024-10-14 17:42:23.201467 Delta: Foxtrot, sending you 2
+2024-10-14 17:42:23.204224 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:23.204827 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:23.208563 Uniform: Mike, sending you 2
+2024-10-14 17:42:23.212558 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:23.216502 Foxtrot: Uniform, sending you 4
+2024-10-14 17:42:23.221047 India: Oscar, Mike and Tango, sending you 3
+2024-10-14 17:42:23.224819 Uniform: Foxtrot, sending you 4
+chatterbot Uniform submitting transactions
+2024-10-14 17:42:23.229415 India: Delta, sending you 2
+2024-10-14 17:42:23.254122 India: Foxtrot and Uniform, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+ChatterBot Oscar round 20
+ChatterBot Mike round 20
+ChatterBot Lima round 20
+ChatterBot Hotel round 20
+ChatterBot Whiskey round 20
+ChatterBot Delta round 20
+ChatterBot Foxtrot round 20
+ChatterBot India round 20
+ChatterBot Uniform round 20
+ChatterBot Tango round 20
+2024-10-14 17:42:24.435710 India: We should drop Oscar
+2024-10-14 17:42:24.460662 Mike: No
+2024-10-14 17:42:24.460933 Delta: No
+2024-10-14 17:42:24.461188 Foxtrot: No
+2024-10-14 17:42:24.461422 Uniform: No
+2024-10-14 17:42:24.461630 Tango: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:24.578121 Hotel: Same as last round
+2024-10-14 17:42:24.579198 Whiskey: Lima, sending you 8
+2024-10-14 17:42:24.581422 Uniform: Oscar, Delta, India and Tango, sending you 3
+2024-10-14 17:42:24.588440 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:24.596387 Delta: Oscar and Uniform, sending you 4
+2024-10-14 17:42:24.600979 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:24.609958 Lima: Hotel, sending you 7
+2024-10-14 17:42:24.611032 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:24.618414 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:24.620148 Uniform: Mike, sending you 2
+2024-10-14 17:42:24.627293 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:24.635506 Delta: Mike and Tango, sending you 5
+2024-10-14 17:42:24.641145 Lima: Whiskey, sending you 8
+2024-10-14 17:42:24.642246 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:24.649505 Foxtrot: Mike and Delta, sending you 1
+2024-10-14 17:42:24.656661 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:24.667666 India: We should drop Tango
+2024-10-14 17:42:24.694446 Oscar: No
+2024-10-14 17:42:24.694713 Mike: No
+2024-10-14 17:42:24.694901 Delta: No
+2024-10-14 17:42:24.695695 Foxtrot: No
+2024-10-14 17:42:24.695865 Uniform: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:24.790142 Uniform: Foxtrot, sending you 4
+2024-10-14 17:42:24.793025 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:24.796189 Delta: Foxtrot, sending you 2
+2024-10-14 17:42:24.797467 Foxtrot: India, sending you 3
+2024-10-14 17:42:24.799976 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:24.804695 Foxtrot: Uniform, sending you 4
+2024-10-14 17:42:24.815685 India: Oscar, Mike and Tango, sending you 3
+2024-10-14 17:42:24.823652 India: Delta, sending you 2
+chatterbot Tango submitting transactions
+2024-10-14 17:42:24.830686 India: Foxtrot and Uniform, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+ChatterBot Oscar round 21
+ChatterBot Mike round 21
+ChatterBot Lima round 21
+ChatterBot Hotel round 21
+ChatterBot Whiskey round 21
+ChatterBot Delta round 21
+ChatterBot Foxtrot round 21
+ChatterBot India round 21
+ChatterBot Uniform round 21
+ChatterBot Tango round 21
+2024-10-14 17:42:26.000670 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:26.008664 India: Oscar, Mike and Tango, sending you 3
+2024-10-14 17:42:26.014723 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:26.019962 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:26.024477 Lima: Hotel, sending you 7
+2024-10-14 17:42:26.025352 Hotel: Same as last round
+2024-10-14 17:42:26.026175 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:26.029406 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:26.032546 India: Delta, sending you 2
+2024-10-14 17:42:26.035432 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:26.037992 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:26.041489 Whiskey: Lima, sending you 8
+2024-10-14 17:42:26.042207 Lima: Whiskey, sending you 8
+2024-10-14 17:42:26.043201 Delta: Mike, sending you 5
+2024-10-14 17:42:26.043958 Uniform: Oscar, Delta, India and Tango, sending you 3
+2024-10-14 17:42:26.046154 Foxtrot: Mike and Delta, sending you 1
+2024-10-14 17:42:26.047905 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:26.049879 India: Foxtrot and Uniform, sending you 4
+2024-10-14 17:42:26.051963 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:26.052313 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:26.053008 Uniform: Mike, sending you 2
+2024-10-14 17:42:26.054396 Foxtrot: India, sending you 3
+2024-10-14 17:42:26.056267 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:26.057829 Uniform: Foxtrot, sending you 4
+2024-10-14 17:42:26.059572 Foxtrot: Uniform, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 22
+ChatterBot Mike round 22
+ChatterBot Lima round 22
+ChatterBot Hotel round 22
+ChatterBot Whiskey round 22
+ChatterBot Delta round 22
+ChatterBot Foxtrot round 22
+ChatterBot India round 22
+ChatterBot Uniform round 22
+ChatterBot Tango round 22
+2024-10-14 17:42:27.220265 India: We should drop Mike
+2024-10-14 17:42:27.231938 Oscar: No
+2024-10-14 17:42:27.232115 Delta: No
+2024-10-14 17:42:27.232256 Foxtrot: No
+2024-10-14 17:42:27.232390 Uniform: No
+2024-10-14 17:42:27.232514 Tango: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:27.311693 Lima: Hotel, sending you 7
+2024-10-14 17:42:27.312598 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:27.318071 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:27.323797 Lima: Whiskey, sending you 8
+2024-10-14 17:42:27.324890 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:27.329878 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:27.334967 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:27.338771 Whiskey: Lima, sending you 8
+2024-10-14 17:42:27.339922 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:27.343924 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:27.346946 Hotel: Same as last round
+2024-10-14 17:42:27.347773 Uniform: Oscar, Delta, India and Tango, sending you 3
+2024-10-14 17:42:27.351451 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:27.354424 India: Oscar, Mike and Tango, sending you 3
+2024-10-14 17:42:27.356373 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:27.358555 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:27.359244 Foxtrot: Mike and Delta, sending you 1
+2024-10-14 17:42:27.360816 Delta: Mike, sending you 5
+2024-10-14 17:42:27.362660 Uniform: Mike, sending you 2
+2024-10-14 17:42:27.365337 India: Delta, sending you 2
+2024-10-14 17:42:27.368493 Foxtrot: India, sending you 3
+2024-10-14 17:42:27.371619 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:27.374104 Uniform: Foxtrot, sending you 4
+2024-10-14 17:42:27.376688 India: Foxtrot and Uniform, sending you 4
+2024-10-14 17:42:27.378801 Foxtrot: Uniform, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 23
+ChatterBot Mike round 23
+ChatterBot Lima round 23
+ChatterBot Hotel round 23
+ChatterBot Whiskey round 23
+ChatterBot Delta round 23
+ChatterBot Foxtrot round 23
+ChatterBot India round 23
+ChatterBot Uniform round 23
+ChatterBot Tango round 23
+2024-10-14 17:42:28.480856 India: We should drop Delta
+2024-10-14 17:42:28.501081 Foxtrot: No
+2024-10-14 17:42:28.501303 Uniform: No
+2024-10-14 17:42:28.501477 Oscar: No
+2024-10-14 17:42:28.501655 Mike: No
+2024-10-14 17:42:28.501843 Tango: No
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+2024-10-14 17:42:28.640938 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:28.647994 Lima: Hotel, sending you 7
+2024-10-14 17:42:28.649746 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:28.654280 Uniform: Sending you each 3
+2024-10-14 17:42:28.660594 Foxtrot: Oscar and Tango, sending you 2
+2024-10-14 17:42:28.666827 Mike: Oscar, Delta and Tango, sending you 4
+2024-10-14 17:42:28.672671 Hotel: Same as last round
+2024-10-14 17:42:28.674444 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:28.679917 Whiskey: Lima, sending you 8
+2024-10-14 17:42:28.681882 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:28.687881 Lima: Whiskey, sending you 8
+2024-10-14 17:42:28.689942 Delta: Mike, sending you 5
+2024-10-14 17:42:28.694490 Foxtrot: Mike and Delta, sending you 1
+2024-10-14 17:42:28.700834 Mike: Foxtrot, sending you 1
+2024-10-14 17:42:28.704931 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:28.710154 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:28.710864 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:28.712106 Foxtrot: India, sending you 3
+2024-10-14 17:42:28.713524 Mike: India and Uniform, sending you 3
+2024-10-14 17:42:28.715805 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:28.717861 Foxtrot: Uniform, sending you 4
+2024-10-14 17:42:28.723157 India: Delta, sending you 2
+2024-10-14 17:42:28.729042 India: Uniform, sending you 5
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 24
+ChatterBot Mike round 24
+ChatterBot Lima round 24
+ChatterBot Hotel round 24
+ChatterBot Whiskey round 24
+ChatterBot Delta round 24
+ChatterBot Foxtrot round 24
+ChatterBot India round 24
+ChatterBot Uniform round 24
+ChatterBot Tango round 24
+2024-10-14 17:42:29.873175 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:29.883874 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:29.892603 Whiskey: Lima, sending you 8
+2024-10-14 17:42:29.893853 Foxtrot: Oscar, Delta and Tango, sending you 2
+2024-10-14 17:42:29.901245 Hotel: Same as last round
+2024-10-14 17:42:29.903115 Lima: Hotel, sending you 7
+2024-10-14 17:42:29.903975 Mike: Oscar, India and Uniform, sending you 3
+2024-10-14 17:42:29.909696 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:29.915593 India: Delta, sending you 2
+2024-10-14 17:42:29.922531 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:29.930213 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:29.931296 Foxtrot: India, sending you 3
+2024-10-14 17:42:29.938034 Lima: Whiskey, sending you 8
+2024-10-14 17:42:29.939473 Mike: Delta and Tango, sending you 4
+2024-10-14 17:42:29.946128 Delta: Mike, sending you 5
+2024-10-14 17:42:29.950748 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:29.957703 Uniform: Same as last round
+2024-10-14 17:42:29.963625 India: Uniform, sending you 5
+2024-10-14 17:42:29.972007 Foxtrot: Uniform, sending you 4
+2024-10-14 17:42:29.978100 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:29.984016 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:29.987384 Tango: Foxtrot, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Oscar round 25
+ChatterBot Mike round 25
+ChatterBot Lima round 25
+ChatterBot Hotel round 25
+ChatterBot Whiskey round 25
+ChatterBot Delta round 25
+ChatterBot Foxtrot round 25
+ChatterBot India round 25
+ChatterBot Uniform round 25
+ChatterBot Tango round 25
+2024-10-14 17:42:30.828667 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:30.835066 Lima: Hotel, sending you 7
+2024-10-14 17:42:30.836215 Mike: Oscar, India and Uniform, sending you 3
+2024-10-14 17:42:30.839557 Whiskey: Lima, sending you 8
+2024-10-14 17:42:30.840372 India: Delta, sending you 2
+2024-10-14 17:42:30.843875 Foxtrot: Oscar, Delta and Tango, sending you 2
+2024-10-14 17:42:30.846903 Uniform: Same as last round
+2024-10-14 17:42:30.850217 Hotel: Same as last round
+2024-10-14 17:42:30.851054 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:30.852566 Lima: Whiskey, sending you 8
+2024-10-14 17:42:30.854275 Mike: Delta and Tango, sending you 4
+2024-10-14 17:42:30.858599 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:30.861630 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:30.862253 India: Uniform, sending you 5
+2024-10-14 17:42:30.865223 Foxtrot: India, sending you 3
+2024-10-14 17:42:30.868308 Delta: Mike, sending you 5
+2024-10-14 17:42:30.869429 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:30.873757 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:30.878704 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:30.883138 Foxtrot: Uniform, sending you 4
+2024-10-14 17:42:30.887566 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:30.890087 Tango: Foxtrot, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Oscar round 26
+ChatterBot Mike round 26
+ChatterBot Lima round 26
+ChatterBot Hotel round 26
+ChatterBot Whiskey round 26
+ChatterBot Delta round 26
+ChatterBot Foxtrot round 26
+ChatterBot India round 26
+ChatterBot Uniform round 26
+ChatterBot Tango round 26
+2024-10-14 17:42:31.999706 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:32.009174 Lima: Hotel, sending you 7
+2024-10-14 17:42:32.010726 Mike: Oscar, India and Uniform, sending you 3
+2024-10-14 17:42:32.017478 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:32.023126 Lima: Whiskey, sending you 8
+2024-10-14 17:42:32.024595 Mike: Delta and Tango, sending you 4
+2024-10-14 17:42:32.030673 Whiskey: Lima, sending you 8
+2024-10-14 17:42:32.031541 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:32.035305 Hotel: Same as last round
+2024-10-14 17:42:32.035901 Foxtrot: Oscar, Delta and Tango, sending you 2
+2024-10-14 17:42:32.040782 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:32.043094 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:32.047960 Uniform: Same as last round
+2024-10-14 17:42:32.052255 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:32.053279 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:32.056973 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:32.059722 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:32.063960 Delta: Mike, sending you 5
+2024-10-14 17:42:32.068192 India: Delta, sending you 2
+2024-10-14 17:42:32.074979 Foxtrot: India and Uniform, sending you 3
+2024-10-14 17:42:32.078904 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:32.081548 India: Uniform, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Oscar round 27
+ChatterBot Mike round 27
+ChatterBot Lima round 27
+ChatterBot Hotel round 27
+ChatterBot Whiskey round 27
+ChatterBot Delta round 27
+ChatterBot Foxtrot round 27
+ChatterBot India round 27
+ChatterBot Uniform round 27
+ChatterBot Tango round 27
+2024-10-14 17:42:33.319091 Whiskey: We should drop Hotel
+2024-10-14 17:42:33.324136 Lima: No
+ChatterBot Whiskey reevaluating
+2024-10-14 17:42:33.334686 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:33.341151 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:33.343998 Lima: Hotel, sending you 7
+2024-10-14 17:42:33.345501 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:33.349328 India: Delta, sending you 2
+2024-10-14 17:42:33.353377 Mike: Oscar, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:33.358089 Lima: Whiskey, sending you 8
+2024-10-14 17:42:33.358964 Uniform: Same as last round
+2024-10-14 17:42:33.364155 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:33.367007 Hotel: Same as last round
+2024-10-14 17:42:33.368426 India: Uniform, sending you 5
+2024-10-14 17:42:33.374440 Mike: Delta, sending you 5
+2024-10-14 17:42:33.380584 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:33.389255 Foxtrot: Oscar, Delta and Tango, sending you 2
+2024-10-14 17:42:33.397559 Delta: Mike, sending you 5
+2024-10-14 17:42:33.401803 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:33.408918 Whiskey: Lima, sending you 8
+2024-10-14 17:42:33.410109 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:33.415566 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:33.420436 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:33.422607 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:33.423974 Foxtrot: India and Uniform, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Oscar round 28
+ChatterBot Mike round 28
+ChatterBot Lima round 28
+ChatterBot Hotel round 28
+ChatterBot Whiskey round 28
+ChatterBot Delta round 28
+ChatterBot Foxtrot round 28
+ChatterBot India round 28
+ChatterBot Uniform round 28
+ChatterBot Tango round 28
+2024-10-14 17:42:34.529017 Oscar: We should drop India
+2024-10-14 17:42:34.543229 Delta: Yes
+2024-10-14 17:42:34.543399 Mike: No
+2024-10-14 17:42:34.543518 Tango: No
+2024-10-14 17:42:34.543633 Foxtrot: No
+2024-10-14 17:42:34.543744 Uniform: No
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 17:42:34.623379 Hotel: Same as last round
+2024-10-14 17:42:34.624086 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:34.625517 Lima: Hotel, sending you 7
+2024-10-14 17:42:34.628687 Delta: Mike, sending you 5
+2024-10-14 17:42:34.629799 Lima: Whiskey, sending you 8
+2024-10-14 17:42:34.633670 Foxtrot: Oscar, Delta and Tango, sending you 2
+2024-10-14 17:42:34.638027 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:34.641978 Whiskey: Lima, sending you 8
+2024-10-14 17:42:34.643656 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:34.648201 Mike: Oscar, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:34.650739 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:34.653908 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:34.655371 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:34.658788 Mike: Delta, sending you 5
+2024-10-14 17:42:34.660849 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:34.664169 Uniform: Same as last round
+2024-10-14 17:42:34.666737 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:34.672749 Foxtrot: India and Uniform, sending you 3
+2024-10-14 17:42:34.678371 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:34.684133 India: Delta, sending you 2
+2024-10-14 17:42:34.690629 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:34.698888 India: Uniform, sending you 5
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Oscar round 29
+ChatterBot Mike round 29
+ChatterBot Lima round 29
+ChatterBot Hotel round 29
+ChatterBot Whiskey round 29
+ChatterBot Delta round 29
+ChatterBot Foxtrot round 29
+ChatterBot India round 29
+ChatterBot Uniform round 29
+ChatterBot Tango round 29
+2024-10-14 17:42:35.910020 Hotel: Same as last round
+2024-10-14 17:42:35.912048 Uniform: Same as last round
+2024-10-14 17:42:35.920430 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:35.929283 Foxtrot: Oscar, Delta, India and Tango, sending you 2
+2024-10-14 17:42:35.937987 Mike: Oscar, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:35.943672 Lima: Hotel, sending you 7
+2024-10-14 17:42:35.945429 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:35.951498 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:35.959367 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:35.968417 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:35.976864 Whiskey: Lima, sending you 8
+2024-10-14 17:42:35.978852 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:35.986459 Mike: Delta, sending you 5
+2024-10-14 17:42:35.994109 Lima: Whiskey, sending you 8
+2024-10-14 17:42:35.995818 Delta: Mike, sending you 5
+2024-10-14 17:42:36.001806 Foxtrot: Uniform, sending you 4
+2024-10-14 17:42:36.009810 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:36.019555 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:36.021167 India: Delta, sending you 2
+2024-10-14 17:42:36.030080 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:36.038818 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:36.045996 India: Uniform, sending you 5
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Oscar round 30
+ChatterBot Mike round 30
+ChatterBot Lima round 30
+ChatterBot Hotel round 30
+ChatterBot Whiskey round 30
+ChatterBot Delta round 30
+ChatterBot Foxtrot round 30
+ChatterBot India round 30
+ChatterBot Uniform round 30
+ChatterBot Tango round 30
+2024-10-14 17:42:37.229050 Delta: Oscar, Uniform and Tango, sending you 4
+2024-10-14 17:42:37.234833 Hotel: Same as last round
+2024-10-14 17:42:37.238727 Delta: Mike, sending you 5
+2024-10-14 17:42:37.245207 Mike: Oscar, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:37.255831 Whiskey: Lima, sending you 8
+2024-10-14 17:42:37.257966 India: Oscar, Mike, Foxtrot and Tango, sending you 3
+2024-10-14 17:42:37.266692 Foxtrot: Oscar, Delta, India and Tango, sending you 2
+2024-10-14 17:42:37.275249 Tango: Oscar, Mike, Delta, India and Uniform, sending you 3
+2024-10-14 17:42:37.285033 Uniform: Same as last round
+2024-10-14 17:42:37.292285 Oscar: Mike, Delta, India, Uniform and Tango, sending you 3
+2024-10-14 17:42:37.302609 Delta: Foxtrot, sending you 3
+2024-10-14 17:42:37.310229 Mike: Delta, sending you 5
+2024-10-14 17:42:37.319330 Whiskey: Hotel, sending you 6
+2024-10-14 17:42:37.322488 India: Delta, sending you 2
+2024-10-14 17:42:37.331462 Lima: Hotel, sending you 7
+2024-10-14 17:42:37.332704 Foxtrot: Mike, sending you 1
+2024-10-14 17:42:37.342454 Tango: Foxtrot, sending you 2
+2024-10-14 17:42:37.352744 Oscar: Foxtrot, sending you 2
+2024-10-14 17:42:37.362632 Mike: Foxtrot, sending you 2
+2024-10-14 17:42:37.372506 India: Uniform, sending you 5
+2024-10-14 17:42:37.380568 Lima: Whiskey, sending you 8
+2024-10-14 17:42:37.382432 Foxtrot: Uniform, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions

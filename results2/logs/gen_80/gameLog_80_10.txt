@@ -1,0 +1,1491 @@
+ChatterBot Whiskey round 1
+ChatterBot Tango round 1
+ChatterBot X-ray round 1
+ChatterBot Echo round 1
+ChatterBot Yankee round 1
+ChatterBot Hotel round 1
+ChatterBot Alpha round 1
+ChatterBot Foxtrot round 1
+ChatterBot Bravo round 1
+randomSelections Echo: {Echo, Yankee, Bravo, Whiskey} 
+2024-10-14 18:02:37.353406 Echo: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:02:37.363685 Yankee: Yes
+2024-10-14 18:02:37.363842 Bravo: Yes
+2024-10-14 18:02:37.363987 Whiskey: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Foxtrot: {Foxtrot, Mike, Hotel, Yankee, Whiskey, Bravo} 
+2024-10-14 18:02:37.396086 Foxtrot: We should group up
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:37.405862 Hotel: Yes
+2024-10-14 18:02:37.406067 Yankee: No
+2024-10-14 18:02:37.406232 Whiskey: No
+2024-10-14 18:02:37.406392 Bravo: No
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+randomSelections Tango: {Tango, X-ray, Mike, Bravo, Echo, Hotel} 
+2024-10-14 18:02:37.501196 Tango: Group up?
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:02:37.512230 X-ray: Yes
+2024-10-14 18:02:37.512405 Bravo: No
+2024-10-14 18:02:37.512630 Echo: No
+2024-10-14 18:02:37.513495 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike round 1
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 18:02:37.578465 Mike: Yes
+2024-10-14 18:02:37.579465 Mike: No
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Alpha: {Alpha, X-ray, Hotel, Tango, Echo, Bravo} 
+2024-10-14 18:02:37.613594 Alpha: Group up?
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:37.625013 X-ray: No
+2024-10-14 18:02:37.625330 Hotel: No
+2024-10-14 18:02:37.626214 Tango: No
+2024-10-14 18:02:37.626523 Echo: No
+2024-10-14 18:02:37.626776 Bravo: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:02:37.718089 Foxtrot: Whiskey and Hotel, sending you 1
+2024-10-14 18:02:37.718646 Tango: X-ray and Hotel, sending you 2
+2024-10-14 18:02:37.719531 Bravo: Whiskey, sending you 2
+2024-10-14 18:02:37.719911 Whiskey: Echo and Bravo, sending you 4
+2024-10-14 18:02:37.720751 X-ray: Tango, sending you 3
+2024-10-14 18:02:37.725340 Echo: Whiskey, sending you 7
+2024-10-14 18:02:37.725772 Foxtrot: Yankee, sending you 3
+2024-10-14 18:02:37.726226 Hotel: Whiskey, Bravo and Mike, sending you 1
+2024-10-14 18:02:37.727267 Bravo: Yankee, sending you 3
+2024-10-14 18:02:37.727608 Tango: Echo, sending you 1
+2024-10-14 18:02:37.728769 Yankee: Whiskey and Bravo, sending you 5
+2024-10-14 18:02:37.729165 Mike: Whiskey, sending you 2
+2024-10-14 18:02:37.729588 Whiskey: Yankee, sending you 5
+2024-10-14 18:02:37.730417 Alpha: Tango and Hotel, sending you 4
+2024-10-14 18:02:37.730865 X-ray: Echo, Bravo and Mike, sending you 2
+2024-10-14 18:02:37.731431 Foxtrot: Bravo, sending you 2
+2024-10-14 18:02:37.732397 Echo: Yankee, sending you 6
+2024-10-14 18:02:37.732768 Hotel: Yankee, sending you 2
+2024-10-14 18:02:37.733594 Yankee: Echo, sending you 3
+2024-10-14 18:02:37.733982 Tango: Bravo and Mike, sending you 3
+2024-10-14 18:02:37.735005 Mike: Yankee, Foxtrot and Bravo, sending you 3
+2024-10-14 18:02:37.735414 Alpha: X-ray and Echo, sending you 2
+2024-10-14 18:02:37.736683 Foxtrot: Mike, sending you 4
+2024-10-14 18:02:37.737073 Echo: Bravo, sending you 2
+2024-10-14 18:02:37.738661 Alpha: Bravo, sending you 6
+2024-10-14 18:02:37.740298 Mike: Hotel, sending you 8
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Whiskey round 2
+ChatterBot Tango round 2
+ChatterBot X-ray round 2
+ChatterBot Echo round 2
+ChatterBot Yankee round 2
+ChatterBot Hotel round 2
+ChatterBot Alpha round 2
+2024-10-14 18:02:39.125682 Tango: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:02:39.135061 X-ray: Yes
+2024-10-14 18:02:39.135264 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot round 2
+2024-10-14 18:02:39.158982 Yankee: Friends?
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 18:02:39.234865 Whiskey: No
+2024-10-14 18:02:39.235137 Echo: No
+2024-10-14 18:02:39.235336 Bravo: No
+2024-10-14 18:02:39.235883 Hotel: No
+2024-10-14 18:02:39.236074 Foxtrot: No
+2024-10-14 18:02:39.236253 Mike: No
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo round 2
+ChatterBot Mike round 2
+2024-10-14 18:02:39.679483 Mike: Group up?
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 18:02:39.709085 Hotel: Yes
+2024-10-14 18:02:39.709894 Foxtrot: No
+2024-10-14 18:02:39.710075 Tango: No
+2024-10-14 18:02:39.710199 X-ray: Yes
+2024-10-14 18:02:39.710309 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 18:02:40.019984 Whiskey: Foxtrot we want you to join our group
+2024-10-14 18:02:40.045753 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:40.075210 Bravo: Friends?
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:02:40.133092 Yankee: Yes
+2024-10-14 18:02:40.133353 Whiskey: No
+2024-10-14 18:02:40.133515 Echo: No
+2024-10-14 18:02:40.133801 Hotel: No
+2024-10-14 18:02:40.133978 Foxtrot: No
+2024-10-14 18:02:40.134527 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 18:02:40.483690 Foxtrot: Sending you 6
+2024-10-14 18:02:40.483964 Echo: Whiskey, sending you 5
+chatterbot Mike submitting transactions
+2024-10-14 18:02:40.640518 Alpha: Tango, X-ray, Hotel and Foxtrot, sending you 4
+2024-10-14 18:02:40.641870 X-ray: Tango and Alpha, sending you 4
+2024-10-14 18:02:40.642972 Tango: X-ray, sending you 3
+2024-10-14 18:02:40.643506 Echo: Tango, sending you 2
+2024-10-14 18:02:40.644040 Mike: Tango and Foxtrot, sending you 5
+chatterbot Tango submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 18:02:40.676727 Alpha: Mike, sending you 2
+2024-10-14 18:02:40.678159 Tango: Hotel, Foxtrot and Mike, sending you 1
+2024-10-14 18:02:40.678812 X-ray: Hotel, sending you 1
+2024-10-14 18:02:40.679749 Echo: X-ray and Alpha, sending you 3
+2024-10-14 18:02:40.680252 Yankee: Whiskey and Echo, sending you 3
+2024-10-14 18:02:40.681427 Hotel: Tango and Foxtrot, sending you 2
+2024-10-14 18:02:40.682153 Mike: X-ray, sending you 4
+2024-10-14 18:02:40.683324 Bravo: Whiskey, Echo, Foxtrot and Mike, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 18:02:40.685136 Tango: Alpha, sending you 5
+2024-10-14 18:02:40.685769 Echo: Yankee, sending you 4
+chatterbot Alpha submitting transactions
+2024-10-14 18:02:40.688866 Yankee: Hotel, sending you 1
+2024-10-14 18:02:40.690255 Hotel: X-ray, sending you 1
+2024-10-14 18:02:40.691139 Mike: Hotel, sending you 3
+2024-10-14 18:02:40.692754 Bravo: Yankee, sending you 3
+2024-10-14 18:02:40.694029 Whiskey: Echo, Yankee, Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:40.695418 Echo: Bravo, sending you 1
+2024-10-14 18:02:40.696839 Yankee: Foxtrot, Bravo and Mike, sending you 2
+2024-10-14 18:02:40.698438 Hotel: Alpha, sending you 3
+2024-10-14 18:02:40.699981 Mike: Alpha, sending you 2
+2024-10-14 18:02:40.701447 Bravo: Hotel, sending you 1
+2024-10-14 18:02:40.703215 Hotel: Mike, sending you 4
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Whiskey round 3
+ChatterBot Tango round 3
+ChatterBot X-ray round 3
+ChatterBot Echo round 3
+ChatterBot Yankee round 3
+ChatterBot Hotel round 3
+ChatterBot Alpha round 3
+ChatterBot Foxtrot round 3
+ChatterBot Bravo round 3
+ChatterBot Mike round 3
+2024-10-14 18:02:41.456020 Yankee: We should drop Hotel and Mike
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:02:41.495050 Whiskey: Yes
+2024-10-14 18:02:41.495261 Echo: Yes
+2024-10-14 18:02:41.495447 Bravo: Yes
+2024-10-14 18:02:41.495631 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:41.606958 Hotel: We should drop Foxtrot
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 18:02:41.623020 Tango: Yes
+2024-10-14 18:02:41.623168 X-ray: Yes
+2024-10-14 18:02:41.623298 Alpha: Yes
+2024-10-14 18:02:41.623415 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:02:41.766258 Foxtrot: We should replace Mike with Whiskey
+2024-10-14 18:02:41.794993 Foxtrot: Whiskey we want you to join our group
+2024-10-14 18:02:41.798387 Whiskey: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:02:41.813319 Echo: Whiskey, sending you 8
+2024-10-14 18:02:41.813840 Whiskey: Echo, Yankee, Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:41.899520 Bravo: Whiskey, sending you 4
+2024-10-14 18:02:41.900923 Yankee: Whiskey and Echo, sending you 4
+2024-10-14 18:02:41.902266 Hotel: Tango and Alpha, sending you 3
+2024-10-14 18:02:41.903635 Tango: X-ray, Alpha and Mike, sending you 3
+2024-10-14 18:02:41.904447 Echo: Yankee, sending you 6
+2024-10-14 18:02:41.905466 Mike: Tango, X-ray and Alpha, sending you 3
+2024-10-14 18:02:41.906671 X-ray: Tango and Alpha, sending you 3
+2024-10-14 18:02:41.907317 Bravo: Echo and Yankee, sending you 3
+2024-10-14 18:02:41.908262 Yankee: Foxtrot, sending you 2
+2024-10-14 18:02:41.908555 Hotel: X-ray, sending you 2
+2024-10-14 18:02:41.908867 Tango: Hotel, sending you 2
+2024-10-14 18:02:41.909635 Echo: Bravo, sending you 4
+2024-10-14 18:02:41.909935 Mike: Hotel, sending you 4
+2024-10-14 18:02:41.910235 X-ray: Hotel, sending you 1
+2024-10-14 18:02:41.932725 Alpha: Tango and X-ray, sending you 5
+2024-10-14 18:02:41.933205 Yankee: Bravo, sending you 3
+2024-10-14 18:02:41.934451 Bravo: Foxtrot, sending you 2
+2024-10-14 18:02:41.934790 Hotel: Mike, sending you 4
+2024-10-14 18:02:41.935127 Mike: Foxtrot, sending you 6
+2024-10-14 18:02:41.935888 X-ray: Mike, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-14 18:02:41.936277 Alpha: Hotel and Mike, sending you 4
+chatterbot Bravo submitting transactions
+2024-10-14 18:02:41.983563 Foxtrot: Sending you 6
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Whiskey round 4
+ChatterBot Tango round 4
+ChatterBot X-ray round 4
+ChatterBot Echo round 4
+ChatterBot Yankee round 4
+ChatterBot Hotel round 4
+ChatterBot Alpha round 4
+ChatterBot Foxtrot round 4
+ChatterBot Bravo round 4
+ChatterBot Mike round 4
+2024-10-14 18:02:43.065824 Bravo: We should drop Foxtrot
+ChatterBot Yankee reevaluating
+2024-10-14 18:02:43.076538 Echo: Yes
+2024-10-14 18:02:43.076761 Yankee: Yes
+2024-10-14 18:02:43.077307 Whiskey: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:02:43.104357 Mike: We should drop Foxtrot
+2024-10-14 18:02:43.114701 Hotel: Yes
+2024-10-14 18:02:43.114921 Tango: Yes
+2024-10-14 18:02:43.115105 X-ray: Yes
+2024-10-14 18:02:43.115270 Alpha: Yes
+2024-10-14 18:02:43.153401 Echo: Whiskey and Yankee, sending you 7
+2024-10-14 18:02:43.153730 X-ray: Tango and Mike, sending you 2
+2024-10-14 18:02:43.155681 Tango: X-ray, Alpha and Mike, sending you 3
+2024-10-14 18:02:43.157670 Whiskey: Same as last round
+2024-10-14 18:02:43.158505 Hotel: Tango and Alpha, sending you 3
+2024-10-14 18:02:43.158890 Echo: Bravo, sending you 4
+2024-10-14 18:02:43.159226 Alpha: Tango, X-ray and Hotel, sending you 5
+2024-10-14 18:02:43.159601 X-ray: Hotel, sending you 1
+2024-10-14 18:02:43.159957 Foxtrot: Same as last round
+2024-10-14 18:02:43.160203 Tango: Hotel, sending you 2
+2024-10-14 18:02:43.162900 Hotel: X-ray, sending you 2
+2024-10-14 18:02:43.163363 Alpha: Mike, sending you 3
+2024-10-14 18:02:43.163787 X-ray: Alpha, sending you 4
+2024-10-14 18:02:43.165671 Hotel: Mike, sending you 4
+2024-10-14 18:02:43.169691 Mike: Tango, sending you 5
+2024-10-14 18:02:43.175381 Mike: X-ray and Alpha, sending you 4
+2024-10-14 18:02:43.175973 Bravo: Sending you each 4
+2024-10-14 18:02:43.179701 Mike: Hotel, sending you 6
+2024-10-14 18:02:43.181683 Yankee: Whiskey and Bravo, sending you 4
+2024-10-14 18:02:43.188256 Yankee: Echo, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Whiskey round 5
+ChatterBot Tango round 5
+ChatterBot X-ray round 5
+ChatterBot Echo round 5
+ChatterBot Yankee round 5
+ChatterBot Hotel round 5
+ChatterBot Alpha round 5
+ChatterBot Foxtrot round 5
+ChatterBot Bravo round 5
+2024-10-14 18:02:44.230983 Yankee: We should add Foxtrot
+2024-10-14 18:02:44.237392 Echo: No
+2024-10-14 18:02:44.237566 Bravo: No
+2024-10-14 18:02:44.237726 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike round 5
+2024-10-14 18:02:44.286690 Whiskey: Same as last round
+2024-10-14 18:02:44.295719 Echo: Whiskey and Yankee, sending you 7
+2024-10-14 18:02:44.298684 Yankee: Whiskey and Bravo, sending you 4
+2024-10-14 18:02:44.299687 Echo: Bravo, sending you 4
+2024-10-14 18:02:44.300687 Bravo: Sending you each 3
+2024-10-14 18:02:44.301034 X-ray: Tango, Hotel and Mike, sending you 2
+2024-10-14 18:02:44.302653 Yankee: Echo, sending you 5
+2024-10-14 18:02:44.303675 Tango: X-ray, Alpha and Mike, sending you 3
+2024-10-14 18:02:44.304016 X-ray: Alpha, sending you 3
+2024-10-14 18:02:44.304703 Foxtrot: Same as last round
+2024-10-14 18:02:44.306689 Alpha: Tango and X-ray, sending you 5
+2024-10-14 18:02:44.307437 Tango: Hotel, sending you 2
+2024-10-14 18:02:44.308172 Hotel: Tango and Alpha, sending you 3
+2024-10-14 18:02:44.309682 Alpha: Hotel and Mike, sending you 4
+2024-10-14 18:02:44.313680 Hotel: X-ray, sending you 2
+2024-10-14 18:02:44.314093 Mike: Tango, Hotel and Alpha, sending you 1
+2024-10-14 18:02:44.317563 Hotel: Mike, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Whiskey round 6
+ChatterBot Tango round 6
+ChatterBot X-ray round 6
+ChatterBot Echo round 6
+ChatterBot Yankee round 6
+ChatterBot Hotel round 6
+ChatterBot Alpha round 6
+ChatterBot Foxtrot round 6
+ChatterBot Bravo round 6
+ChatterBot Mike round 6
+2024-10-14 18:02:45.349262 Yankee: We should add Foxtrot
+2024-10-14 18:02:45.357373 Echo: No
+2024-10-14 18:02:45.357544 Bravo: No
+2024-10-14 18:02:45.358198 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:02:45.397552 Foxtrot: We should replace Whiskey with Mike
+2024-10-14 18:02:45.403651 Whiskey: Echo, sending you 3
+2024-10-14 18:02:45.405654 Foxtrot: Mike we want you to join our group
+2024-10-14 18:02:45.408619 Mike: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:02:45.420646 Whiskey: Yankee, Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:45.421025 Echo: I was attacked by Mike
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:02:45.430192 Echo: I'm keeping this round to protect myself
+2024-10-14 18:02:45.430887 Echo: Ow
+2024-10-14 18:02:45.433666 Tango: X-ray, Hotel and Alpha, sending you 3
+2024-10-14 18:02:45.434101 Alpha: Tango, X-ray and Hotel, sending you 5
+2024-10-14 18:02:45.434682 X-ray: Tango and Alpha, sending you 3
+2024-10-14 18:02:45.435664 Hotel: Tango and Mike, sending you 3
+2024-10-14 18:02:45.436648 Tango: Mike, sending you 2
+2024-10-14 18:02:45.438673 Alpha: Mike, sending you 3
+2024-10-14 18:02:45.439038 X-ray: Hotel, sending you 1
+2024-10-14 18:02:45.439644 Mike: Tango, Hotel and Alpha, sending you 1
+2024-10-14 18:02:45.439948 Mike: I was attacked by Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:02:45.454171 Mike: Ow
+2024-10-14 18:02:45.457681 Foxtrot: Sending you 7
+2024-10-14 18:02:45.474671 Yankee: Whiskey and Bravo, sending you 4
+2024-10-14 18:02:45.479678 Yankee: Echo, sending you 5
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Whiskey round 7
+ChatterBot Tango round 7
+ChatterBot X-ray round 7
+ChatterBot Echo round 7
+ChatterBot Yankee round 7
+ChatterBot Hotel round 7
+ChatterBot Alpha round 7
+ChatterBot Foxtrot round 7
+ChatterBot Bravo round 7
+ChatterBot Mike round 7
+2024-10-14 18:02:46.581678 Whiskey: Echo, sending you 3
+2024-10-14 18:02:46.582179 Tango: X-ray, Hotel and Alpha, sending you 3
+2024-10-14 18:02:46.585661 X-ray: Tango and Alpha, sending you 3
+2024-10-14 18:02:46.586680 Whiskey: Yankee, Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:46.587541 Tango: Mike, sending you 2
+2024-10-14 18:02:46.588704 X-ray: Hotel, sending you 2
+2024-10-14 18:02:46.590718 Echo: I was attacked by Mike
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:02:46.600404 Echo: I'm keeping this round to protect myself
+2024-10-14 18:02:46.601181 Echo: Ow
+2024-10-14 18:02:46.601489 X-ray: Mike, sending you 1
+2024-10-14 18:02:46.604675 Alpha: Tango, X-ray and Hotel, sending you 5
+2024-10-14 18:02:46.605260 Mike: Tango, Hotel and Alpha, sending you 5
+2024-10-14 18:02:46.605710 Foxtrot: Same as last round
+2024-10-14 18:02:46.609649 Alpha: Mike, sending you 3
+2024-10-14 18:02:46.610062 Mike: X-ray, sending you 4
+2024-10-14 18:02:46.621650 Yankee: Whiskey, sending you 5
+2024-10-14 18:02:46.626653 Yankee: Echo and Bravo, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Whiskey round 8
+ChatterBot Tango round 8
+ChatterBot X-ray round 8
+ChatterBot Echo round 8
+ChatterBot Yankee round 8
+2024-10-14 18:02:47.651055 Yankee: We should add Foxtrot
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:47.660682 Echo: No
+2024-10-14 18:02:47.660874 Bravo: No
+2024-10-14 18:02:47.660996 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel round 8
+ChatterBot Alpha round 8
+ChatterBot Foxtrot round 8
+ChatterBot Bravo round 8
+ChatterBot Mike round 8
+2024-10-14 18:02:47.727013 Foxtrot: We should replace Whiskey with Mike
+2024-10-14 18:02:47.727288 Yankee: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:02:47.739212 Foxtrot: No
+ChatterBot Yankee reevaluating
+2024-10-14 18:02:47.755689 Whiskey: Sending you each 4
+2024-10-14 18:02:47.756732 Tango: X-ray, Alpha and Mike, sending you 3
+2024-10-14 18:02:47.758501 X-ray: Tango, Hotel and Mike, sending you 2
+2024-10-14 18:02:47.761020 Tango: Hotel, sending you 2
+2024-10-14 18:02:47.762683 X-ray: Alpha, sending you 3
+2024-10-14 18:02:47.766698 Mike: Tango, Hotel and Alpha, sending you 1
+2024-10-14 18:02:47.769397 Alpha: Tango, X-ray and Hotel, sending you 5
+2024-10-14 18:02:47.772676 Alpha: Mike, sending you 3
+2024-10-14 18:02:47.774818 Foxtrot: Sending you 8
+2024-10-14 18:02:47.788770 Yankee: Whiskey, sending you 5
+2024-10-14 18:02:47.793689 Yankee: Echo, sending you 3
+2024-10-14 18:02:47.797683 Yankee: Foxtrot, sending you 1
+2024-10-14 18:02:47.802658 Yankee: Bravo, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Whiskey round 9
+ChatterBot Tango round 9
+ChatterBot X-ray round 9
+ChatterBot Echo round 9
+ChatterBot Yankee round 9
+ChatterBot Hotel round 9
+ChatterBot Alpha round 9
+ChatterBot Foxtrot round 9
+ChatterBot Bravo round 9
+ChatterBot Mike round 9
+2024-10-14 18:02:49.000838 Yankee: We should drop Foxtrot
+2024-10-14 18:02:49.017496 Echo: Yes
+2024-10-14 18:02:49.017792 Bravo: Yes
+2024-10-14 18:02:49.018008 Whiskey: No
+2024-10-14 18:02:49.072057 X-ray: Tango and Alpha, sending you 3
+2024-10-14 18:02:49.076698 X-ray: Hotel, sending you 2
+2024-10-14 18:02:49.080745 Tango: X-ray, Hotel and Alpha, sending you 3
+2024-10-14 18:02:49.081714 Yankee: I was attacked by Mike
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:02:49.094223 Yankee: I'm keeping this round to protect myself
+2024-10-14 18:02:49.095371 Yankee: Ow
+2024-10-14 18:02:49.096192 X-ray: Mike, sending you 1
+2024-10-14 18:02:49.096675 Alpha: Tango, X-ray and Hotel, sending you 5
+2024-10-14 18:02:49.097072 Tango: Mike, sending you 2
+2024-10-14 18:02:49.097453 Mike: Hotel, sending you 1
+2024-10-14 18:02:49.098326 Mike: I was attacked by Bravo
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:02:49.115555 Mike: Ow
+2024-10-14 18:02:49.117015 Foxtrot: Hotel, sending you 4
+2024-10-14 18:02:49.122016 Foxtrot: Mike, sending you 5
+2024-10-14 18:02:49.127072 Whiskey: Same as last round
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Whiskey round 10
+ChatterBot Tango round 10
+ChatterBot X-ray round 10
+ChatterBot Echo round 10
+ChatterBot Yankee round 10
+ChatterBot Hotel round 10
+ChatterBot Alpha round 10
+ChatterBot Foxtrot round 10
+ChatterBot Bravo round 10
+ChatterBot Mike round 10
+2024-10-14 18:02:50.235704 Yankee: I was attacked by Mike
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:02:50.249004 Yankee: I'm keeping this round to protect myself
+2024-10-14 18:02:50.250044 Yankee: Ow
+2024-10-14 18:02:50.253665 Alpha: Tango and X-ray, sending you 1
+2024-10-14 18:02:50.254422 Alpha: I was attacked by Echo
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 18:02:50.269838 Alpha: Ow
+2024-10-14 18:02:50.275702 Foxtrot: Sending you 7
+2024-10-14 18:02:50.289856 Mike: Tango, Hotel and Alpha, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Whiskey round 11
+ChatterBot Tango round 11
+ChatterBot X-ray round 11
+ChatterBot Echo round 11
+ChatterBot Yankee round 11
+ChatterBot Hotel round 11
+ChatterBot Alpha round 11
+ChatterBot Foxtrot round 11
+ChatterBot Bravo round 11
+ChatterBot Mike round 11
+2024-10-14 18:02:51.536335 Yankee: We should replace Echo with Foxtrot
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:51.543866 Whiskey: No
+2024-10-14 18:02:51.544017 Bravo: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:51.568643 Foxtrot: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:51.587115 Whiskey: Yes
+2024-10-14 18:02:51.587293 Echo: Yes
+2024-10-14 18:02:51.587457 Yankee: No
+2024-10-14 18:02:51.588096 Bravo: No
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:02:51.652849 Yankee: We should add Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:51.660993 Echo: Yes
+2024-10-14 18:02:51.661124 Bravo: Yes
+2024-10-14 18:02:51.661241 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:02:51.690720 Whiskey: Echo and Yankee, sending you 3
+2024-10-14 18:02:51.691690 Echo: Foxtrot we want you to join our group
+2024-10-14 18:02:51.696994 Foxtrot: Yes
+2024-10-14 18:02:51.711075 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:51.716881 Foxtrot: Yes
+2024-10-14 18:02:51.726867 Whiskey: Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:51.727846 Whiskey: I was attacked by Tango
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:02:51.743676 Whiskey: Ow
+2024-10-14 18:02:51.745796 Mike: I was attacked by Echo
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 18:02:51.759933 Mike: I'm keeping this round to protect myself
+2024-10-14 18:02:51.761409 Mike: Ow
+2024-10-14 18:02:51.762435 Yankee: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:02:51.767632 Foxtrot: Yes
+ChatterBot Echo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 18:02:51.794674 Alpha: Sending you each 2
+2024-10-14 18:02:51.802674 Foxtrot: Whiskey, sending you 5
+2024-10-14 18:02:51.806701 Foxtrot: Echo, Yankee and Bravo, sending you 2
+2024-10-14 18:02:51.820985 Echo: Whiskey, sending you 8
+2024-10-14 18:02:51.826653 Echo: Yankee, sending you 4
+2024-10-14 18:02:51.829669 Echo: Foxtrot, sending you 1
+2024-10-14 18:02:51.835668 Echo: Bravo, sending you 5
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Whiskey round 12
+ChatterBot Tango round 12
+ChatterBot X-ray round 12
+ChatterBot Echo round 12
+ChatterBot Yankee round 12
+ChatterBot Hotel round 12
+ChatterBot Alpha round 12
+ChatterBot Foxtrot round 12
+ChatterBot Bravo round 12
+ChatterBot Mike round 12
+2024-10-14 18:02:52.996312 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:02:53.002242 Whiskey: No
+2024-10-14 18:02:53.002416 Echo: No
+2024-10-14 18:02:53.027287 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:53.033780 Foxtrot: Yes
+2024-10-14 18:02:53.048831 Alpha: Tango, X-ray and Hotel, sending you 3
+2024-10-14 18:02:53.049666 Echo: Whiskey, sending you 1
+2024-10-14 18:02:53.051011 Whiskey: Echo, Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:53.052686 Alpha: Mike, sending you 2
+2024-10-14 18:02:53.055690 Whiskey: Yankee, sending you 3
+2024-10-14 18:02:53.058675 Mike: Tango, X-ray and Hotel, sending you 1
+2024-10-14 18:02:53.068671 Foxtrot: Whiskey, sending you 5
+2024-10-14 18:02:53.073673 Foxtrot: Echo, Yankee and Bravo, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Whiskey round 13
+ChatterBot Tango round 13
+ChatterBot X-ray round 13
+ChatterBot Echo round 13
+ChatterBot Yankee round 13
+ChatterBot Hotel round 13
+ChatterBot Alpha round 13
+ChatterBot Foxtrot round 13
+ChatterBot Bravo round 13
+ChatterBot Mike round 13
+2024-10-14 18:02:54.255592 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:02:54.261473 Whiskey: Yes
+2024-10-14 18:02:54.261630 Echo: No
+2024-10-14 18:02:54.271713 Whiskey: We should drop Yankee
+ChatterBot Echo reevaluating
+2024-10-14 18:02:54.281059 Bravo: Yes
+2024-10-14 18:02:54.281201 Echo: Yes
+2024-10-14 18:02:54.281308 Foxtrot: No
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 18:02:54.309164 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:54.313110 Foxtrot: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 18:02:54.328658 Alpha: I was attacked by Echo
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 18:02:54.340727 Alpha: I'm keeping this round to protect myself
+2024-10-14 18:02:54.341719 Alpha: Ow
+2024-10-14 18:02:54.342177 Foxtrot: Whiskey, sending you 4
+2024-10-14 18:02:54.345650 Foxtrot: Echo and Yankee, sending you 2
+2024-10-14 18:02:54.350658 Foxtrot: Bravo, sending you 3
+2024-10-14 18:02:54.355684 Echo: Whiskey, sending you 4
+2024-10-14 18:02:54.358649 Mike: Tango and Hotel, sending you 5
+2024-10-14 18:02:54.359503 Echo: Foxtrot, sending you 1
+2024-10-14 18:02:54.363659 Mike: X-ray, sending you 3
+2024-10-14 18:02:54.364658 Echo: Bravo, sending you 3
+2024-10-14 18:02:54.367721 Mike: Alpha, sending you 4
+2024-10-14 18:02:54.369671 Whiskey: Echo, sending you 5
+2024-10-14 18:02:54.373660 Whiskey: Foxtrot and Bravo, sending you 4
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Whiskey round 14
+ChatterBot Tango round 14
+ChatterBot X-ray round 14
+ChatterBot Echo round 14
+ChatterBot Yankee round 14
+ChatterBot Hotel round 14
+ChatterBot Alpha round 14
+ChatterBot Foxtrot round 14
+ChatterBot Bravo round 14
+ChatterBot Mike round 14
+2024-10-14 18:02:55.516895 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:02:55.525609 Whiskey: Yes
+2024-10-14 18:02:55.525827 Echo: Yes
+2024-10-14 18:02:55.554011 Hotel: We should drop Alpha
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 18:02:55.572488 Tango: Yes
+2024-10-14 18:02:55.572680 X-ray: Yes
+2024-10-14 18:02:55.572901 Mike: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 18:02:55.633797 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:55.640851 Foxtrot: Yes
+2024-10-14 18:02:55.651774 Alpha: I was attacked by Echo
+2024-10-14 18:02:55.651995 Alpha: I'm keeping this round to protect myself
+2024-10-14 18:02:55.652112 Alpha: Ow
+2024-10-14 18:02:55.655146 Echo: Whiskey, sending you 2
+2024-10-14 18:02:55.655888 Yankee: Whiskey, sending you 1
+2024-10-14 18:02:55.656451 Whiskey: Echo, sending you 5
+2024-10-14 18:02:55.659698 Echo: Bravo, sending you 1
+2024-10-14 18:02:55.661668 Whiskey: Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:55.669678 Mike: Tango and Hotel, sending you 7
+2024-10-14 18:02:55.672669 Mike: X-ray, sending you 5
+2024-10-14 18:02:55.674850 Foxtrot: Whiskey, sending you 4
+2024-10-14 18:02:55.678661 Foxtrot: Echo and Yankee, sending you 2
+2024-10-14 18:02:55.682726 Foxtrot: Bravo, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Whiskey round 15
+ChatterBot Tango round 15
+ChatterBot X-ray round 15
+ChatterBot Echo round 15
+ChatterBot Yankee round 15
+ChatterBot Hotel round 15
+ChatterBot Alpha round 15
+ChatterBot Foxtrot round 15
+ChatterBot Bravo round 15
+ChatterBot Mike round 15
+2024-10-14 18:02:56.905187 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:02:56.913548 Whiskey: Yes
+2024-10-14 18:02:56.913745 Echo: Yes
+2024-10-14 18:02:56.931918 Tango: We should drop Alpha and Mike
+ChatterBot Hotel reevaluating
+2024-10-14 18:02:56.940180 X-ray: Yes
+2024-10-14 18:02:56.940314 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:02:56.966285 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:56.970197 Foxtrot: Yes
+2024-10-14 18:02:56.982708 Yankee: Whiskey, sending you 2
+2024-10-14 18:02:56.983676 Echo: Whiskey, sending you 9
+2024-10-14 18:02:56.984284 Whiskey: Echo, sending you 5
+2024-10-14 18:02:56.986679 Yankee: Echo, Foxtrot and Bravo, sending you 1
+2024-10-14 18:02:56.987847 Echo: Foxtrot, sending you 3
+2024-10-14 18:02:56.988701 Whiskey: Foxtrot and Bravo, sending you 4
+2024-10-14 18:02:56.990670 Foxtrot: Whiskey, sending you 4
+2024-10-14 18:02:56.992653 Echo: Bravo, sending you 6
+2024-10-14 18:02:56.993675 Foxtrot: Echo and Yankee, sending you 2
+2024-10-14 18:02:56.996769 Mike: I was attacked by Echo
+2024-10-14 18:02:56.997034 Mike: I'm keeping this round to protect myself
+2024-10-14 18:02:56.997184 Mike: Ow
+2024-10-14 18:02:56.998699 Foxtrot: Bravo, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Whiskey round 16
+ChatterBot Tango round 16
+ChatterBot X-ray round 16
+ChatterBot Echo round 16
+ChatterBot Yankee round 16
+ChatterBot Hotel round 16
+ChatterBot Alpha round 16
+ChatterBot Foxtrot round 16
+ChatterBot Bravo round 16
+2024-10-14 18:02:58.163430 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:02:58.170865 Whiskey: Yes
+2024-10-14 18:02:58.171039 Echo: Yes
+ChatterBot Mike round 16
+2024-10-14 18:02:58.222907 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:58.229053 Foxtrot: Yes
+2024-10-14 18:02:58.245592 Tango: We should drop Alpha and Mike
+2024-10-14 18:02:58.255144 X-ray: Yes
+2024-10-14 18:02:58.255312 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:02:58.284672 Foxtrot: We should drop Yankee
+2024-10-14 18:02:58.300618 Bravo: Yes
+2024-10-14 18:02:58.300831 Whiskey: Yes
+2024-10-14 18:02:58.301005 Echo: Yes
+2024-10-14 18:02:58.355679 Whiskey: Echo, sending you 6
+2024-10-14 18:02:58.357083 Echo: Whiskey, sending you 1
+2024-10-14 18:02:58.357760 Yankee: Whiskey, sending you 3
+2024-10-14 18:02:58.360676 Whiskey: Foxtrot, sending you 3
+2024-10-14 18:02:58.363010 Yankee: Echo, sending you 1
+2024-10-14 18:02:58.363866 Whiskey: Bravo, sending you 4
+2024-10-14 18:02:58.367683 Yankee: Foxtrot and Bravo, sending you 2
+2024-10-14 18:02:58.369987 Foxtrot: Whiskey, sending you 5
+2024-10-14 18:02:58.374677 Foxtrot: Echo and Bravo, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Whiskey round 17
+ChatterBot Tango round 17
+ChatterBot X-ray round 17
+ChatterBot Echo round 17
+ChatterBot Yankee round 17
+ChatterBot Hotel round 17
+ChatterBot Alpha round 17
+ChatterBot Foxtrot round 17
+ChatterBot Bravo round 17
+ChatterBot Mike round 17
+2024-10-14 18:02:59.387810 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:02:59.401532 Whiskey: Yes
+2024-10-14 18:02:59.401756 Echo: Yes
+2024-10-14 18:02:59.437686 Tango: We should drop Alpha and Mike
+2024-10-14 18:02:59.446359 X-ray: Yes
+2024-10-14 18:02:59.446546 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 18:02:59.464308 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:02:59.472686 Foxtrot: No
+2024-10-14 18:02:59.489688 Echo: Whiskey and Bravo, sending you 2
+2024-10-14 18:02:59.491077 Yankee: Whiskey, sending you 3
+2024-10-14 18:02:59.492111 Foxtrot: Whiskey, sending you 7
+2024-10-14 18:02:59.495115 Echo: Foxtrot, sending you 1
+2024-10-14 18:02:59.496692 Yankee: Echo, Foxtrot and Bravo, sending you 2
+2024-10-14 18:02:59.498490 Foxtrot: Hotel, sending you 2
+2024-10-14 18:02:59.510687 Whiskey: Echo, sending you 6
+2024-10-14 18:02:59.515682 Whiskey: Foxtrot and Bravo, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Whiskey round 18
+ChatterBot Tango round 18
+ChatterBot X-ray round 18
+ChatterBot Echo round 18
+ChatterBot Yankee round 18
+ChatterBot Hotel round 18
+ChatterBot Alpha round 18
+ChatterBot Foxtrot round 18
+ChatterBot Bravo round 18
+ChatterBot Mike round 18
+2024-10-14 18:03:00.589408 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:03:00.601440 Whiskey: Yes
+2024-10-14 18:03:00.601676 Echo: Yes
+2024-10-14 18:03:00.634274 X-ray: Group up?
+ChatterBot Tango reevaluating
+2024-10-14 18:03:00.642184 Tango: Yes
+2024-10-14 18:03:00.674455 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:03:00.684772 Foxtrot: Yes
+2024-10-14 18:03:00.706666 Foxtrot: Whiskey and Bravo, sending you 4
+2024-10-14 18:03:00.707946 Whiskey: Echo, sending you 6
+2024-10-14 18:03:00.710670 Whiskey: Foxtrot and Bravo, sending you 4
+2024-10-14 18:03:00.711990 Foxtrot: Echo, sending you 3
+2024-10-14 18:03:00.718693 Echo: Whiskey, sending you 9
+2024-10-14 18:03:00.721690 Yankee: Whiskey, sending you 4
+2024-10-14 18:03:00.723674 Echo: Foxtrot, sending you 3
+2024-10-14 18:03:00.727674 Yankee: Echo, Foxtrot and Bravo, sending you 2
+2024-10-14 18:03:00.728632 Echo: Bravo, sending you 6
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Whiskey round 19
+ChatterBot Tango round 19
+ChatterBot X-ray round 19
+ChatterBot Echo round 19
+ChatterBot Yankee round 19
+ChatterBot Hotel round 19
+ChatterBot Alpha round 19
+ChatterBot Foxtrot round 19
+ChatterBot Bravo round 19
+ChatterBot Mike round 19
+2024-10-14 18:03:01.797725 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:03:01.806927 Whiskey: Yes
+2024-10-14 18:03:01.807092 Echo: Yes
+2024-10-14 18:03:01.846374 Whiskey: We should drop Echo
+2024-10-14 18:03:01.860952 Foxtrot: No
+2024-10-14 18:03:01.861119 Bravo: No
+2024-10-14 18:03:01.882313 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:03:01.890015 Foxtrot: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:01.904678 Echo: Whiskey, sending you 1
+2024-10-14 18:03:01.906840 Yankee: Whiskey, sending you 4
+2024-10-14 18:03:01.912737 Yankee: Echo and Foxtrot, sending you 2
+2024-10-14 18:03:01.915714 Whiskey: Same as last round
+2024-10-14 18:03:01.917657 Yankee: Bravo, sending you 3
+2024-10-14 18:03:01.919697 Foxtrot: Whiskey, sending you 5
+2024-10-14 18:03:01.923695 Foxtrot: Echo and Bravo, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Whiskey round 20
+ChatterBot Tango round 20
+ChatterBot X-ray round 20
+ChatterBot Echo round 20
+ChatterBot Yankee round 20
+ChatterBot Hotel round 20
+ChatterBot Alpha round 20
+ChatterBot Foxtrot round 20
+ChatterBot Bravo round 20
+ChatterBot Mike round 20
+2024-10-14 18:03:03.117690 Echo: Whiskey, sending you 1
+2024-10-14 18:03:03.121655 Yankee: Whiskey, sending you 4
+2024-10-14 18:03:03.124834 Foxtrot: Whiskey and Bravo, sending you 4
+2024-10-14 18:03:03.125804 Yankee: Echo and Foxtrot, sending you 2
+2024-10-14 18:03:03.129676 Whiskey: Foxtrot, sending you 3
+2024-10-14 18:03:03.130298 Yankee: Bravo, sending you 3
+2024-10-14 18:03:03.132134 Foxtrot: Echo, sending you 3
+2024-10-14 18:03:03.133427 Whiskey: Bravo, sending you 4
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Whiskey round 21
+ChatterBot Tango round 21
+ChatterBot X-ray round 21
+ChatterBot Echo round 21
+ChatterBot Yankee round 21
+ChatterBot Hotel round 21
+ChatterBot Alpha round 21
+ChatterBot Foxtrot round 21
+ChatterBot Bravo round 21
+ChatterBot Mike round 21
+2024-10-14 18:03:04.425293 Foxtrot: We should replace Whiskey with Tango
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:04.466761 Echo: No
+2024-10-14 18:03:04.467055 Bravo: No
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:04.541124 Foxtrot: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 18:03:04.549447 Tango: No
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:04.567689 Echo: Whiskey, sending you 3
+2024-10-14 18:03:04.573715 Echo: Foxtrot, sending you 1
+2024-10-14 18:03:04.578666 Echo: Bravo, sending you 2
+2024-10-14 18:03:04.581074 Whiskey: Foxtrot, sending you 3
+2024-10-14 18:03:04.582359 Yankee: Whiskey, sending you 4
+2024-10-14 18:03:04.585955 Foxtrot: Tango, sending you 2
+2024-10-14 18:03:04.587325 Whiskey: Bravo, sending you 4
+2024-10-14 18:03:04.589087 Yankee: Echo, sending you 2
+2024-10-14 18:03:04.591564 Foxtrot: Echo, sending you 3
+2024-10-14 18:03:04.593674 Yankee: Foxtrot and Bravo, sending you 3
+2024-10-14 18:03:04.596997 Foxtrot: Bravo, sending you 6
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Whiskey round 22
+ChatterBot Tango round 22
+ChatterBot X-ray round 22
+ChatterBot Echo round 22
+ChatterBot Yankee round 22
+ChatterBot Hotel round 22
+ChatterBot Alpha round 22
+ChatterBot Foxtrot round 22
+ChatterBot Bravo round 22
+ChatterBot Mike round 22
+2024-10-14 18:03:05.802678 Echo: Whiskey, sending you 1
+2024-10-14 18:03:05.808667 Whiskey: Sending you each 4
+2024-10-14 18:03:05.810141 Foxtrot: Sending you 8
+2024-10-14 18:03:05.811538 Yankee: Whiskey, sending you 4
+2024-10-14 18:03:05.816697 Yankee: Echo, sending you 2
+2024-10-14 18:03:05.823698 Yankee: Foxtrot and Bravo, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Whiskey round 23
+ChatterBot Tango round 23
+ChatterBot X-ray round 23
+ChatterBot Echo round 23
+ChatterBot Yankee round 23
+ChatterBot Hotel round 23
+ChatterBot Alpha round 23
+ChatterBot Foxtrot round 23
+ChatterBot Bravo round 23
+ChatterBot Mike round 23
+2024-10-14 18:03:07.111015 Foxtrot: We should replace Whiskey with Bravo
+2024-10-14 18:03:07.117102 Foxtrot: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:07.125856 Bravo: Yes
+2024-10-14 18:03:07.134327 Bravo: We should replace Yankee with Foxtrot
+2024-10-14 18:03:07.142337 Whiskey: Yes
+2024-10-14 18:03:07.142516 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:07.157443 Yankee: I was attacked by Echo
+2024-10-14 18:03:07.158638 Yankee: I'm keeping this round to protect myself
+2024-10-14 18:03:07.159015 Yankee: Ow
+2024-10-14 18:03:07.162721 Whiskey: Same as last round
+2024-10-14 18:03:07.163352 Echo: Whiskey, sending you 6
+2024-10-14 18:03:07.167700 Echo: Foxtrot, sending you 4
+2024-10-14 18:03:07.169713 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:03:07.176943 Foxtrot: No
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:07.197139 Echo: Bravo, sending you 8
+2024-10-14 18:03:07.201491 Foxtrot: Sending you 6
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Whiskey round 24
+ChatterBot Tango round 24
+ChatterBot X-ray round 24
+ChatterBot Echo round 24
+ChatterBot Yankee round 24
+ChatterBot Hotel round 24
+ChatterBot Alpha round 24
+ChatterBot Foxtrot round 24
+ChatterBot Bravo round 24
+ChatterBot Mike round 24
+2024-10-14 18:03:08.341203 Whiskey: Same as last round
+2024-10-14 18:03:08.343055 Echo: Bravo, sending you 1
+2024-10-14 18:03:08.346216 Foxtrot: Same as last round
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Whiskey round 25
+ChatterBot Tango round 25
+ChatterBot X-ray round 25
+ChatterBot Echo round 25
+ChatterBot Yankee round 25
+ChatterBot Hotel round 25
+ChatterBot Alpha round 25
+ChatterBot Foxtrot round 25
+ChatterBot Bravo round 25
+ChatterBot Mike round 25
+2024-10-14 18:03:09.643058 Whiskey: Sending you each 5
+2024-10-14 18:03:09.647673 Echo: Whiskey, sending you 4
+2024-10-14 18:03:09.649883 Foxtrot: Sending you 5
+2024-10-14 18:03:09.653695 Echo: Foxtrot, sending you 3
+2024-10-14 18:03:09.658682 Echo: Bravo, sending you 7
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Whiskey round 26
+ChatterBot Tango round 26
+ChatterBot X-ray round 26
+ChatterBot Echo round 26
+ChatterBot Yankee round 26
+ChatterBot Hotel round 26
+ChatterBot Alpha round 26
+ChatterBot Foxtrot round 26
+ChatterBot Bravo round 26
+ChatterBot Mike round 26
+2024-10-14 18:03:10.873203 Whiskey: We should replace Bravo with Echo
+2024-10-14 18:03:10.879370 Foxtrot: No
+2024-10-14 18:03:10.906879 Whiskey: Echo we want you to join our group
+2024-10-14 18:03:10.912831 Echo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:03:10.923932 Whiskey: We should replace Foxtrot with Echo
+2024-10-14 18:03:10.924182 Foxtrot: We should add Echo
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:10.929326 Bravo: No
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:10.933108 Bravo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 18:03:10.948722 Echo: Whiskey, sending you 4
+2024-10-14 18:03:10.954233 Foxtrot: Echo we want you to join our group
+2024-10-14 18:03:10.966371 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:11.056208 Echo: Foxtrot, sending you 3
+2024-10-14 18:03:11.144219 Echo: Bravo, sending you 11
+2024-10-14 18:03:11.153390 Whiskey: Echo, sending you 4
+2024-10-14 18:03:11.157956 Whiskey: Foxtrot, sending you 6
+2024-10-14 18:03:11.176121 Foxtrot: Echo, sending you 4
+2024-10-14 18:03:11.193574 Foxtrot: Bravo, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Whiskey round 27
+ChatterBot Tango round 27
+ChatterBot X-ray round 27
+ChatterBot Echo round 27
+ChatterBot Yankee round 27
+ChatterBot Hotel round 27
+ChatterBot Alpha round 27
+ChatterBot Foxtrot round 27
+ChatterBot Bravo round 27
+ChatterBot Mike round 27
+2024-10-14 18:03:12.171958 Whiskey: We should replace Foxtrot with Bravo
+2024-10-14 18:03:12.175303 Echo: No
+ChatterBot Whiskey reevaluating
+2024-10-14 18:03:12.237982 Foxtrot: Echo, sending you 4
+2024-10-14 18:03:12.239271 Echo: Whiskey and Foxtrot, sending you 4
+2024-10-14 18:03:12.242698 Foxtrot: Bravo, sending you 5
+2024-10-14 18:03:12.245603 Echo: Bravo, sending you 10
+2024-10-14 18:03:12.247783 Whiskey: Echo, sending you 5
+2024-10-14 18:03:12.256391 Whiskey: Foxtrot, sending you 7
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Whiskey round 28
+ChatterBot Tango round 28
+ChatterBot X-ray round 28
+ChatterBot Echo round 28
+ChatterBot Yankee round 28
+ChatterBot Hotel round 28
+ChatterBot Alpha round 28
+ChatterBot Foxtrot round 28
+ChatterBot Bravo round 28
+ChatterBot Mike round 28
+2024-10-14 18:03:13.690073 Whiskey: Echo, sending you 6
+2024-10-14 18:03:13.691475 Echo: Whiskey, sending you 4
+2024-10-14 18:03:13.694688 Whiskey: Foxtrot, sending you 8
+2024-10-14 18:03:13.696800 Echo: Foxtrot, sending you 5
+2024-10-14 18:03:13.698886 Foxtrot: Echo, sending you 4
+2024-10-14 18:03:13.702699 Echo: Bravo, sending you 9
+2024-10-14 18:03:13.707378 Foxtrot: Bravo, sending you 5
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Whiskey round 29
+ChatterBot Tango round 29
+ChatterBot X-ray round 29
+ChatterBot Echo round 29
+ChatterBot Yankee round 29
+ChatterBot Hotel round 29
+ChatterBot Alpha round 29
+ChatterBot Foxtrot round 29
+ChatterBot Bravo round 29
+ChatterBot Mike round 29
+2024-10-14 18:03:15.013515 Foxtrot: We should drop Bravo
+2024-10-14 18:03:15.023729 Echo: No
+2024-10-14 18:03:15.057885 Whiskey: Echo, sending you 7
+2024-10-14 18:03:15.063676 Echo: Whiskey, sending you 4
+2024-10-14 18:03:15.069021 Whiskey: Foxtrot, sending you 8
+2024-10-14 18:03:15.091412 Echo: Foxtrot, sending you 5
+2024-10-14 18:03:15.095196 Foxtrot: Same as last round
+2024-10-14 18:03:15.101072 Echo: Bravo, sending you 9
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Whiskey round 30
+ChatterBot Tango round 30
+ChatterBot X-ray round 30
+ChatterBot Echo round 30
+ChatterBot Yankee round 30
+ChatterBot Hotel round 30
+ChatterBot Alpha round 30
+ChatterBot Foxtrot round 30
+ChatterBot Bravo round 30
+ChatterBot Mike round 30
+2024-10-14 18:03:16.363092 Whiskey: We should replace Foxtrot with Bravo
+ChatterBot Echo reevaluating
+2024-10-14 18:03:16.372359 Echo: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 18:03:16.429727 Foxtrot: We should add Whiskey and Bravo
+ChatterBot Echo reevaluating
+2024-10-14 18:03:16.440037 Echo: Yes
+2024-10-14 18:03:16.465370 Foxtrot: Whiskey and Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:03:16.485455 Bravo: Yes
+2024-10-14 18:03:16.485822 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:16.535648 Bravo: We should replace Yankee with Foxtrot
+ChatterBot Whiskey reevaluating
+2024-10-14 18:03:16.547960 Whiskey: No
+2024-10-14 18:03:16.548137 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 18:03:16.591918 Whiskey: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:16.603301 Bravo: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 18:03:16.643728 Echo: Whiskey and Foxtrot, sending you 5
+2024-10-14 18:03:16.647555 Foxtrot: Whiskey, sending you 2
+2024-10-14 18:03:16.653460 Bravo: We should drop Yankee
+2024-10-14 18:03:16.665501 Whiskey: Yes
+2024-10-14 18:03:16.665766 Echo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:16.690912 Echo: Bravo, sending you 8
+2024-10-14 18:03:16.695367 Foxtrot: Echo, sending you 3
+2024-10-14 18:03:16.699683 Bravo: Foxtrot we want you to join our group
+2024-10-14 18:03:16.707787 Foxtrot: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 18:03:16.721168 Foxtrot: Bravo, sending you 4
+chatterbot Mike submitting transactions
+2024-10-14 18:03:16.758181 Whiskey: Sending you each 8
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions

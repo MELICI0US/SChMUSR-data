@@ -1,0 +1,1900 @@
+ChatterBot Lima round 1
+ChatterBot Yankee round 1
+ChatterBot X-ray round 1
+ChatterBot Uniform round 1
+ChatterBot Whiskey round 1
+ChatterBot Hotel round 1
+ChatterBot Zulu round 1
+ChatterBot Kilo round 1
+ChatterBot Romeo round 1
+ChatterBot Delta round 1
+randomSelections Lima: {Lima, Kilo, Whiskey} 
+2024-10-14 17:56:26.011580 Lima: We should group up
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:26.016344 Kilo: Yes
+2024-10-14 17:56:26.016454 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+randomSelections Yankee: {Yankee, Delta, Zulu, Romeo, Lima, Kilo, X-ray} 
+2024-10-14 17:56:26.024827 Yankee: Group up?
+ChatterBot Delta reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:26.035889 Delta: Yes
+2024-10-14 17:56:26.036019 Zulu: Yes
+2024-10-14 17:56:26.036116 Romeo: Yes
+2024-10-14 17:56:26.036680 Lima: No
+2024-10-14 17:56:26.036803 Kilo: No
+2024-10-14 17:56:26.036916 X-ray: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+randomSelections Hotel: {Hotel, Zulu, Uniform, Yankee, Delta, Whiskey} 
+2024-10-14 17:56:26.090253 Hotel: We would work well together
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:26.097742 Zulu: No
+2024-10-14 17:56:26.097905 Uniform: Yes
+2024-10-14 17:56:26.098469 Yankee: No
+2024-10-14 17:56:26.098648 Delta: No
+2024-10-14 17:56:26.098759 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:26.228197 Uniform: Yankee, Hotel and Delta, sending you 3
+2024-10-14 17:56:26.230031 Yankee: Lima and Romeo, sending you 2
+2024-10-14 17:56:26.230847 Delta: Lima, sending you 1
+2024-10-14 17:56:26.232448 X-ray: Lima, sending you 1
+2024-10-14 17:56:26.234700 Uniform: Whiskey, sending you 2
+2024-10-14 17:56:26.236069 Whiskey: Sending you each 4
+2024-10-14 17:56:26.236558 Lima: Whiskey and Kilo, sending you 6
+2024-10-14 17:56:26.237834 Yankee: X-ray, sending you 1
+2024-10-14 17:56:26.238427 Delta: X-ray and Zulu, sending you 2
+2024-10-14 17:56:26.238861 X-ray: Yankee and Delta, sending you 2
+2024-10-14 17:56:26.240110 Hotel: Yankee and Uniform, sending you 2
+2024-10-14 17:56:26.240917 Romeo: Lima and Delta, sending you 5
+2024-10-14 17:56:26.242400 Uniform: Zulu, sending you 4
+2024-10-14 17:56:26.243225 Yankee: Zulu and Kilo, sending you 3
+2024-10-14 17:56:26.244579 Zulu: Lima and Yankee, sending you 3
+2024-10-14 17:56:26.245329 Delta: Kilo, sending you 4
+2024-10-14 17:56:26.246391 X-ray: Zulu, sending you 4
+2024-10-14 17:56:26.247012 Hotel: Whiskey, sending you 4
+2024-10-14 17:56:26.248227 Romeo: Yankee, sending you 3
+2024-10-14 17:56:26.248916 Yankee: Delta, sending you 4
+2024-10-14 17:56:26.250295 Kilo: Sending you each 5
+2024-10-14 17:56:26.250865 Zulu: X-ray and Kilo, sending you 1
+2024-10-14 17:56:26.252269 Delta: Romeo, sending you 3
+2024-10-14 17:56:26.252973 X-ray: Kilo, sending you 3
+2024-10-14 17:56:26.254215 Romeo: X-ray and Zulu, sending you 1
+2024-10-14 17:56:26.254920 Hotel: Zulu, sending you 3
+2024-10-14 17:56:26.261521 Zulu: Romeo, sending you 4
+2024-10-14 17:56:26.262158 X-ray: Romeo, sending you 5
+2024-10-14 17:56:26.263442 Romeo: Kilo, sending you 2
+2024-10-14 17:56:26.264149 Hotel: Delta, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 2
+ChatterBot Yankee round 2
+ChatterBot X-ray round 2
+ChatterBot Uniform round 2
+ChatterBot Whiskey round 2
+ChatterBot Hotel round 2
+ChatterBot Zulu round 2
+ChatterBot Kilo round 2
+ChatterBot Romeo round 2
+ChatterBot Delta round 2
+2024-10-14 17:56:27.605871 Zulu: We would work well together
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:27.625286 Yankee: Yes
+2024-10-14 17:56:27.625495 X-ray: No
+2024-10-14 17:56:27.625636 Romeo: No
+2024-10-14 17:56:27.625779 Delta: Yes
+2024-10-14 17:56:27.625899 Uniform: Yes
+2024-10-14 17:56:27.626011 Hotel: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:56:27.833515 Whiskey: We should add Uniform and Hotel
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:27.843918 Lima: No
+2024-10-14 17:56:27.844130 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:28.492870 X-ray: Yankee, sending you 4
+2024-10-14 17:56:28.493834 Lima: Same as last round
+2024-10-14 17:56:28.494081 Zulu: Yankee, Hotel and Delta, sending you 2
+2024-10-14 17:56:28.494341 Yankee: X-ray and Hotel, sending you 2
+2024-10-14 17:56:28.494644 Delta: Yankee, X-ray, Uniform and Hotel, sending you 2
+2024-10-14 17:56:28.495351 Uniform: Yankee, X-ray, Hotel, Zulu and Romeo, sending you 3
+chatterbot X-ray submitting transactions
+2024-10-14 17:56:28.593259 X-ray: Zulu and Romeo, sending you 3
+2024-10-14 17:56:28.594042 Zulu: X-ray and Uniform, sending you 3
+2024-10-14 17:56:28.594412 Delta: Zulu, sending you 1
+2024-10-14 17:56:28.595106 Uniform: Delta, sending you 1
+2024-10-14 17:56:28.595414 Romeo: Yankee, sending you 2
+2024-10-14 17:56:28.595686 Whiskey: Same as last round
+2024-10-14 17:56:28.595912 Kilo: Sending you each 4
+2024-10-14 17:56:28.596675 Yankee: Uniform, sending you 3
+2024-10-14 17:56:28.596959 Hotel: Yankee, X-ray, Zulu, Romeo and Delta, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 17:56:28.700128 X-ray: Delta, sending you 7
+2024-10-14 17:56:28.700952 Delta: Romeo, sending you 3
+2024-10-14 17:56:28.701234 Romeo: X-ray, sending you 6
+2024-10-14 17:56:28.701505 Hotel: Uniform, sending you 6
+2024-10-14 17:56:28.702171 Yankee: Zulu and Romeo, sending you 4
+chatterbot Delta submitting transactions
+2024-10-14 17:56:28.723832 Romeo: Zulu, sending you 5
+chatterbot Romeo submitting transactions
+2024-10-14 17:56:28.739161 Romeo: Delta, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 3
+ChatterBot Yankee round 3
+ChatterBot X-ray round 3
+ChatterBot Uniform round 3
+ChatterBot Whiskey round 3
+ChatterBot Hotel round 3
+ChatterBot Zulu round 3
+ChatterBot Kilo round 3
+ChatterBot Romeo round 3
+ChatterBot Delta round 3
+2024-10-14 17:56:29.297959 Lima: Same as last round
+2024-10-14 17:56:29.301708 Hotel: Yankee, Zulu and Delta, sending you 2
+2024-10-14 17:56:29.302312 X-ray: Yankee and Uniform, sending you 2
+2024-10-14 17:56:29.302804 Whiskey: Same as last round
+2024-10-14 17:56:29.307720 Hotel: X-ray and Romeo, sending you 1
+2024-10-14 17:56:29.308113 Uniform: Yankee, X-ray, Hotel, Zulu and Delta, sending you 3
+2024-10-14 17:56:29.308893 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:29.309306 Yankee: X-ray, Uniform, Zulu and Romeo, sending you 3
+2024-10-14 17:56:29.309650 Kilo: Same as last round
+2024-10-14 17:56:29.310245 X-ray: Hotel, sending you 1
+2024-10-14 17:56:29.314864 Hotel: Uniform, sending you 4
+2024-10-14 17:56:29.315532 Zulu: Yankee, sending you 4
+2024-10-14 17:56:29.316305 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:29.316709 X-ray: Zulu and Delta, sending you 3
+2024-10-14 17:56:29.317097 Uniform: Romeo, sending you 1
+2024-10-14 17:56:29.317930 Yankee: Hotel, sending you 2
+2024-10-14 17:56:29.318313 Romeo: Yankee, X-ray and Delta, sending you 4
+2024-10-14 17:56:29.320682 Zulu: X-ray, Uniform and Romeo, sending you 2
+2024-10-14 17:56:29.322099 X-ray: Romeo, sending you 6
+2024-10-14 17:56:29.322729 Yankee: Delta, sending you 1
+2024-10-14 17:56:29.323777 Romeo: Uniform and Zulu, sending you 2
+2024-10-14 17:56:29.324326 Zulu: Hotel and Delta, sending you 1
+2024-10-14 17:56:29.328685 Romeo: Hotel, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Lima round 4
+ChatterBot Yankee round 4
+ChatterBot X-ray round 4
+ChatterBot Uniform round 4
+ChatterBot Whiskey round 4
+ChatterBot Hotel round 4
+ChatterBot Zulu round 4
+ChatterBot Kilo round 4
+ChatterBot Romeo round 4
+ChatterBot Delta round 4
+2024-10-14 17:56:30.518871 Lima: Same as last round
+2024-10-14 17:56:30.520766 Kilo: Same as last round
+2024-10-14 17:56:30.521405 Uniform: Yankee, Hotel, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:30.521936 Hotel: Yankee, Zulu, Romeo and Delta, sending you 2
+2024-10-14 17:56:30.522423 Yankee: X-ray, Hotel and Delta, sending you 2
+2024-10-14 17:56:30.523322 X-ray: Yankee, Uniform, Zulu and Delta, sending you 3
+2024-10-14 17:56:30.523769 Zulu: Yankee, sending you 3
+2024-10-14 17:56:30.524749 Uniform: X-ray, sending you 1
+2024-10-14 17:56:30.526036 Delta: Yankee, X-ray, Uniform and Hotel, sending you 2
+2024-10-14 17:56:30.526654 Hotel: X-ray, sending you 1
+2024-10-14 17:56:30.527173 Whiskey: Same as last round
+2024-10-14 17:56:30.527914 Yankee: Uniform, Zulu and Romeo, sending you 3
+2024-10-14 17:56:30.528448 X-ray: Romeo, sending you 5
+2024-10-14 17:56:30.529493 Romeo: Yankee, sending you 3
+2024-10-14 17:56:30.530247 Zulu: X-ray, Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:30.531438 Delta: Zulu, sending you 1
+2024-10-14 17:56:30.532606 Hotel: Uniform, sending you 3
+2024-10-14 17:56:30.534247 Romeo: X-ray, sending you 5
+2024-10-14 17:56:30.534970 Zulu: Hotel, sending you 1
+2024-10-14 17:56:30.536660 Delta: Romeo, sending you 3
+2024-10-14 17:56:30.538925 Romeo: Uniform and Zulu, sending you 2
+2024-10-14 17:56:30.543671 Romeo: Hotel, sending you 1
+2024-10-14 17:56:30.547718 Romeo: Delta, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Lima round 5
+ChatterBot Yankee round 5
+ChatterBot X-ray round 5
+ChatterBot Uniform round 5
+ChatterBot Whiskey round 5
+ChatterBot Hotel round 5
+ChatterBot Zulu round 5
+ChatterBot Kilo round 5
+ChatterBot Romeo round 5
+ChatterBot Delta round 5
+2024-10-14 17:56:31.325676 Lima: Sending you each 7
+2024-10-14 17:56:31.333673 Zulu: Yankee, sending you 3
+2024-10-14 17:56:31.335688 X-ray: Yankee, Zulu and Delta, sending you 3
+2024-10-14 17:56:31.336666 Zulu: X-ray, Uniform, Hotel and Romeo, sending you 2
+2024-10-14 17:56:31.338685 Uniform: Yankee, X-ray, Hotel, Zulu and Delta, sending you 3
+2024-10-14 17:56:31.339476 Yankee: X-ray, Uniform, Zulu and Romeo, sending you 3
+2024-10-14 17:56:31.340169 Whiskey: Same as last round
+2024-10-14 17:56:31.340942 X-ray: Uniform, sending you 2
+2024-10-14 17:56:31.341645 Zulu: Delta, sending you 1
+2024-10-14 17:56:31.342669 Romeo: Yankee and Delta, sending you 3
+2024-10-14 17:56:31.343914 Uniform: Romeo, sending you 1
+2024-10-14 17:56:31.344361 Yankee: Hotel, sending you 1
+2024-10-14 17:56:31.344824 Delta: Yankee, X-ray, Uniform and Zulu, sending you 2
+2024-10-14 17:56:31.345675 X-ray: Hotel, sending you 1
+2024-10-14 17:56:31.346232 Romeo: X-ray, sending you 6
+2024-10-14 17:56:31.347160 Hotel: Yankee, Zulu, Romeo and Delta, sending you 2
+2024-10-14 17:56:31.350013 Yankee: Delta, sending you 2
+2024-10-14 17:56:31.350691 Delta: Hotel, sending you 1
+2024-10-14 17:56:31.351114 X-ray: Romeo, sending you 5
+2024-10-14 17:56:31.351503 Romeo: Uniform and Zulu, sending you 2
+2024-10-14 17:56:31.352042 Kilo: Same as last round
+2024-10-14 17:56:31.352815 Hotel: X-ray, sending you 1
+2024-10-14 17:56:31.353656 Delta: Romeo, sending you 3
+2024-10-14 17:56:31.355657 Romeo: Hotel, sending you 1
+2024-10-14 17:56:31.357707 Hotel: Uniform, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 6
+ChatterBot Yankee round 6
+ChatterBot X-ray round 6
+ChatterBot Uniform round 6
+ChatterBot Whiskey round 6
+ChatterBot Hotel round 6
+ChatterBot Zulu round 6
+ChatterBot Kilo round 6
+ChatterBot Romeo round 6
+ChatterBot Delta round 6
+2024-10-14 17:56:32.168695 Uniform: Yankee, Hotel and Zulu, sending you 1
+2024-10-14 17:56:32.174674 Lima: Same as last round
+2024-10-14 17:56:32.175004 X-ray: Yankee, Zulu and Delta, sending you 3
+2024-10-14 17:56:32.179107 Whiskey: Lima, sending you 3
+2024-10-14 17:56:32.179723 Hotel: Yankee, Zulu, Romeo and Delta, sending you 2
+2024-10-14 17:56:32.181135 X-ray: Uniform, sending you 2
+2024-10-14 17:56:32.182120 Delta: Sending you each 2
+2024-10-14 17:56:32.183535 Zulu: Yankee, sending you 3
+2024-10-14 17:56:32.184399 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:32.185131 Yankee: X-ray, Uniform, Zulu and Romeo, sending you 3
+2024-10-14 17:56:32.186003 Hotel: X-ray, sending you 1
+2024-10-14 17:56:32.187243 Kilo: Same as last round
+2024-10-14 17:56:32.187604 X-ray: Hotel, sending you 1
+2024-10-14 17:56:32.188484 Romeo: Yankee and Delta, sending you 3
+2024-10-14 17:56:32.189789 Zulu: X-ray, Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:32.190656 Hotel: Uniform, sending you 3
+2024-10-14 17:56:32.192070 Yankee: Hotel, sending you 1
+2024-10-14 17:56:32.192944 X-ray: Romeo, sending you 5
+2024-10-14 17:56:32.194213 Romeo: X-ray, sending you 5
+2024-10-14 17:56:32.195495 Zulu: Hotel, sending you 1
+2024-10-14 17:56:32.197677 Yankee: Delta, sending you 2
+2024-10-14 17:56:32.198519 Romeo: Uniform, Hotel and Zulu, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 7
+ChatterBot Yankee round 7
+ChatterBot X-ray round 7
+ChatterBot Uniform round 7
+ChatterBot Whiskey round 7
+ChatterBot Hotel round 7
+ChatterBot Zulu round 7
+ChatterBot Kilo round 7
+ChatterBot Romeo round 7
+ChatterBot Delta round 7
+2024-10-14 17:56:33.395651 Whiskey: We should add Zulu
+2024-10-14 17:56:33.401456 Lima: No
+2024-10-14 17:56:33.401638 Kilo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:33.426095 Lima: I was attacked by Uniform
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:33.431242 Lima: I'm keeping this round to protect myself
+2024-10-14 17:56:33.431884 Lima: Ow
+2024-10-14 17:56:33.432288 Whiskey: We should add Hotel
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:33.437118 Lima: No
+2024-10-14 17:56:33.437221 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:33.448692 Hotel: Sending you each 2
+2024-10-14 17:56:33.449653 X-ray: Yankee, Zulu and Delta, sending you 3
+2024-10-14 17:56:33.450685 Uniform: Yankee, X-ray, Hotel, Zulu and Delta, sending you 3
+2024-10-14 17:56:33.451682 Yankee: X-ray, Zulu and Romeo, sending you 3
+2024-10-14 17:56:33.452672 X-ray: Uniform, sending you 2
+2024-10-14 17:56:33.453717 Uniform: Romeo, sending you 1
+2024-10-14 17:56:33.454683 Yankee: Uniform, Hotel and Delta, sending you 2
+2024-10-14 17:56:33.458646 X-ray: Hotel, sending you 1
+2024-10-14 17:56:33.460673 Kilo: Lima, sending you 3
+2024-10-14 17:56:33.461688 Romeo: Yankee and Delta, sending you 3
+2024-10-14 17:56:33.462220 X-ray: Romeo, sending you 5
+2024-10-14 17:56:33.463703 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:33.465653 Romeo: X-ray, sending you 6
+2024-10-14 17:56:33.467677 Zulu: Yankee, sending you 3
+2024-10-14 17:56:33.469194 Romeo: Uniform, sending you 1
+2024-10-14 17:56:33.469889 Delta: Same as last round
+2024-10-14 17:56:33.470672 Whiskey: Lima, sending you 3
+2024-10-14 17:56:33.470948 Zulu: X-ray, Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:33.473666 Romeo: Hotel and Zulu, sending you 2
+2024-10-14 17:56:33.474363 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:33.474701 Zulu: Hotel, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 8
+ChatterBot Yankee round 8
+ChatterBot X-ray round 8
+ChatterBot Uniform round 8
+ChatterBot Whiskey round 8
+ChatterBot Hotel round 8
+ChatterBot Zulu round 8
+ChatterBot Kilo round 8
+ChatterBot Romeo round 8
+ChatterBot Delta round 8
+2024-10-14 17:56:34.690415 Uniform: We should drop Romeo
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:34.703185 Yankee: No
+2024-10-14 17:56:34.703350 X-ray: No
+2024-10-14 17:56:34.703474 Hotel: Yes
+2024-10-14 17:56:34.703589 Zulu: No
+2024-10-14 17:56:34.703725 Delta: No
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:34.772295 Hotel: We should drop Uniform
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:34.786556 Yankee: No
+2024-10-14 17:56:34.786744 X-ray: No
+2024-10-14 17:56:34.786918 Zulu: No
+2024-10-14 17:56:34.787095 Romeo: No
+2024-10-14 17:56:34.787261 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:34.854666 Kilo: Lima, sending you 3
+2024-10-14 17:56:34.855661 Whiskey: Lima, sending you 3
+2024-10-14 17:56:34.855904 Romeo: Yankee, Zulu and Delta, sending you 3
+2024-10-14 17:56:34.857806 Delta: We should drop Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:56:34.873961 X-ray: Yes
+2024-10-14 17:56:34.874102 Yankee: Yes
+2024-10-14 17:56:34.874221 Zulu: Yes
+2024-10-14 17:56:34.874334 Romeo: No
+2024-10-14 17:56:34.874440 Uniform: No
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:34.941825 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:34.942065 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:34.947366 Hotel: Yankee, Zulu, Romeo and Delta, sending you 2
+2024-10-14 17:56:34.950688 Hotel: X-ray, sending you 1
+2024-10-14 17:56:34.953658 Hotel: Uniform, sending you 3
+2024-10-14 17:56:34.968689 Uniform: Yankee, sending you 4
+2024-10-14 17:56:34.971674 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:34.973992 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:34.974669 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:34.976677 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:34.979692 Zulu: Uniform, Romeo and Delta, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 9
+ChatterBot Yankee round 9
+ChatterBot X-ray round 9
+ChatterBot Uniform round 9
+ChatterBot Whiskey round 9
+ChatterBot Hotel round 9
+ChatterBot Zulu round 9
+ChatterBot Kilo round 9
+ChatterBot Romeo round 9
+ChatterBot Delta round 9
+2024-10-14 17:56:36.137332 X-ray: We should drop Hotel
+2024-10-14 17:56:36.152017 Yankee: Yes
+2024-10-14 17:56:36.152156 Zulu: Yes
+2024-10-14 17:56:36.152256 Romeo: Yes
+2024-10-14 17:56:36.152350 Delta: Yes
+2024-10-14 17:56:36.152441 Uniform: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:36.235331 Lima: Sending you each 6
+2024-10-14 17:56:36.244684 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:36.245817 Kilo: Lima, sending you 4
+2024-10-14 17:56:36.247666 Hotel: Sending you each 2
+2024-10-14 17:56:36.249186 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:36.249895 Uniform: Yankee, sending you 4
+2024-10-14 17:56:36.250240 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:36.250578 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:36.252652 Whiskey: Lima, sending you 3
+2024-10-14 17:56:36.253685 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:36.254682 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:36.255693 Whiskey: Kilo, sending you 4
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 10
+ChatterBot Yankee round 10
+ChatterBot X-ray round 10
+ChatterBot Uniform round 10
+ChatterBot Whiskey round 10
+ChatterBot Hotel round 10
+ChatterBot Zulu round 10
+ChatterBot Kilo round 10
+ChatterBot Romeo round 10
+ChatterBot Delta round 10
+2024-10-14 17:56:37.354841 X-ray: We should drop Hotel
+2024-10-14 17:56:37.366769 Yankee: Yes
+2024-10-14 17:56:37.366937 Zulu: Yes
+2024-10-14 17:56:37.367049 Romeo: Yes
+2024-10-14 17:56:37.367156 Delta: Yes
+2024-10-14 17:56:37.367250 Uniform: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:37.424650 Whiskey: Lima, sending you 3
+2024-10-14 17:56:37.425678 Lima: Sending you each 7
+2024-10-14 17:56:37.426661 Uniform: Yankee, sending you 4
+2024-10-14 17:56:37.428657 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:37.429866 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:37.434646 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:37.435661 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:37.437672 Hotel: Same as last round
+2024-10-14 17:56:37.438946 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:37.439585 Kilo: Lima, sending you 4
+2024-10-14 17:56:37.440658 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:37.444670 Kilo: Whiskey, sending you 5
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Lima round 11
+ChatterBot Yankee round 11
+ChatterBot X-ray round 11
+ChatterBot Uniform round 11
+ChatterBot Whiskey round 11
+ChatterBot Hotel round 11
+ChatterBot Zulu round 11
+ChatterBot Kilo round 11
+ChatterBot Romeo round 11
+ChatterBot Delta round 11
+2024-10-14 17:56:38.580852 X-ray: We should drop Hotel
+2024-10-14 17:56:38.593493 Yankee: Yes
+2024-10-14 17:56:38.593693 Zulu: Yes
+2024-10-14 17:56:38.593856 Romeo: Yes
+2024-10-14 17:56:38.594019 Delta: Yes
+2024-10-14 17:56:38.594162 Uniform: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:38.656650 Uniform: Yankee, sending you 4
+2024-10-14 17:56:38.658985 Lima: Whiskey, sending you 8
+2024-10-14 17:56:38.659674 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:38.663797 Lima: Kilo, sending you 7
+2024-10-14 17:56:38.664077 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:38.665664 Kilo: Lima, sending you 4
+2024-10-14 17:56:38.666682 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:38.670653 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:38.671714 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:38.674678 Hotel: Same as last round
+2024-10-14 17:56:38.675666 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:38.677689 Whiskey: Lima, sending you 3
+2024-10-14 17:56:38.681659 Whiskey: Kilo, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 12
+ChatterBot Yankee round 12
+ChatterBot X-ray round 12
+ChatterBot Uniform round 12
+ChatterBot Whiskey round 12
+ChatterBot Hotel round 12
+ChatterBot Zulu round 12
+ChatterBot Kilo round 12
+2024-10-14 17:56:39.572358 Lima: We should add Hotel
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:39.580594 Kilo: Yes
+2024-10-14 17:56:39.580826 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo round 12
+ChatterBot Delta round 12
+2024-10-14 17:56:39.601695 X-ray: We should drop Hotel
+2024-10-14 17:56:39.612243 Yankee: Yes
+2024-10-14 17:56:39.612367 Zulu: Yes
+2024-10-14 17:56:39.612464 Romeo: Yes
+2024-10-14 17:56:39.612557 Delta: Yes
+2024-10-14 17:56:39.612653 Uniform: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:39.656763 Lima: Hotel we want you to join our group
+2024-10-14 17:56:39.658467 Hotel: No
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:39.671665 Whiskey: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:39.674847 Hotel: No
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:39.685731 Uniform: Yankee, sending you 4
+2024-10-14 17:56:39.686680 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:39.687676 Lima: Whiskey and Kilo, sending you 8
+2024-10-14 17:56:39.689682 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:39.690644 Lima: Hotel, sending you 1
+2024-10-14 17:56:39.691671 Kilo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:39.694921 Hotel: No
+2024-10-14 17:56:39.702068 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:39.705673 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:39.706676 Whiskey: Lima, sending you 3
+2024-10-14 17:56:39.709659 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:39.710299 Whiskey: Hotel, sending you 1
+2024-10-14 17:56:39.715658 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:39.717662 Kilo: Lima, sending you 3
+2024-10-14 17:56:39.720709 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:39.723669 Hotel: Same as last round
+2024-10-14 17:56:39.725656 Kilo: Hotel, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 13
+ChatterBot Yankee round 13
+ChatterBot X-ray round 13
+ChatterBot Uniform round 13
+ChatterBot Whiskey round 13
+ChatterBot Hotel round 13
+ChatterBot Zulu round 13
+ChatterBot Kilo round 13
+ChatterBot Romeo round 13
+ChatterBot Delta round 13
+2024-10-14 17:56:40.920724 Hotel: We should drop Delta
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:40.936302 Yankee: No
+2024-10-14 17:56:40.936528 X-ray: No
+2024-10-14 17:56:40.936749 Uniform: No
+2024-10-14 17:56:40.936949 Zulu: No
+2024-10-14 17:56:40.937147 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:40.999780 X-ray: We should drop Hotel
+2024-10-14 17:56:41.011119 Yankee: Yes
+2024-10-14 17:56:41.011276 Zulu: Yes
+2024-10-14 17:56:41.011415 Romeo: Yes
+2024-10-14 17:56:41.011577 Delta: Yes
+2024-10-14 17:56:41.011761 Uniform: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:41.147524 Uniform: Yankee, sending you 4
+2024-10-14 17:56:41.150173 Kilo: Lima, sending you 3
+2024-10-14 17:56:41.151012 Whiskey: Lima, sending you 2
+2024-10-14 17:56:41.151530 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:41.153417 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:41.154752 Lima: Whiskey and Kilo, sending you 9
+2024-10-14 17:56:41.156051 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:41.156941 Whiskey: Hotel, sending you 1
+2024-10-14 17:56:41.157593 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:41.159004 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:41.159959 Lima: Hotel, sending you 1
+2024-10-14 17:56:41.161627 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:41.162353 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:41.162832 Kilo: Hotel, sending you 2
+2024-10-14 17:56:41.163272 Hotel: Same as last round
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 14
+ChatterBot Yankee round 14
+ChatterBot X-ray round 14
+ChatterBot Uniform round 14
+ChatterBot Whiskey round 14
+ChatterBot Hotel round 14
+ChatterBot Zulu round 14
+ChatterBot Kilo round 14
+ChatterBot Romeo round 14
+ChatterBot Delta round 14
+2024-10-14 17:56:42.361029 X-ray: We should drop Hotel
+2024-10-14 17:56:42.372065 Yankee: Yes
+2024-10-14 17:56:42.372237 Zulu: Yes
+2024-10-14 17:56:42.372370 Romeo: Yes
+2024-10-14 17:56:42.372503 Delta: Yes
+2024-10-14 17:56:42.372896 Uniform: Yes
+2024-10-14 17:56:42.437425 Hotel: We should drop Zulu
+2024-10-14 17:56:42.447546 Yankee: No
+2024-10-14 17:56:42.447715 X-ray: No
+2024-10-14 17:56:42.447943 Uniform: No
+2024-10-14 17:56:42.448050 Romeo: No
+2024-10-14 17:56:42.448138 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:42.499604 Kilo: We should drop Hotel
+ChatterBot Lima reevaluating
+2024-10-14 17:56:42.504009 Lima: Yes
+2024-10-14 17:56:42.504172 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:42.517682 Uniform: Yankee, sending you 4
+2024-10-14 17:56:42.522253 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:42.522863 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:42.528194 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:42.534668 Whiskey: Lima, sending you 2
+2024-10-14 17:56:42.537676 Kilo: Lima, sending you 3
+2024-10-14 17:56:42.538958 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:42.539602 Hotel: Same as last round
+2024-10-14 17:56:42.540434 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:42.541661 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:42.542672 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:42.545660 Kilo: Hotel, sending you 2
+2024-10-14 17:56:42.548639 Lima: Whiskey, sending you 9
+2024-10-14 17:56:42.551656 Lima: Kilo, sending you 10
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Lima round 15
+ChatterBot Yankee round 15
+ChatterBot X-ray round 15
+ChatterBot Uniform round 15
+ChatterBot Whiskey round 15
+ChatterBot Hotel round 15
+ChatterBot Zulu round 15
+ChatterBot Kilo round 15
+ChatterBot Romeo round 15
+ChatterBot Delta round 15
+2024-10-14 17:56:43.504002 Lima: We should add Hotel
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:43.509927 Kilo: Yes
+2024-10-14 17:56:43.510172 Whiskey: Yes
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:43.542242 X-ray: We should drop Hotel
+2024-10-14 17:56:43.553243 Yankee: Yes
+2024-10-14 17:56:43.553445 Zulu: Yes
+2024-10-14 17:56:43.553601 Romeo: Yes
+2024-10-14 17:56:43.553810 Delta: Yes
+2024-10-14 17:56:43.553952 Uniform: Yes
+2024-10-14 17:56:43.604218 Whiskey: Hotel we want you to join our group
+2024-10-14 17:56:43.606215 Hotel: No
+ChatterBot Lima reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:43.618644 Lima: Hotel we want you to join our group
+2024-10-14 17:56:43.621015 Hotel: No
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:43.635705 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:43.637638 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:43.638704 Hotel: Same as last round
+2024-10-14 17:56:43.639862 Uniform: Yankee, X-ray and Romeo, sending you 1
+2024-10-14 17:56:43.640865 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:43.642832 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:43.648679 Whiskey: Lima, sending you 2
+2024-10-14 17:56:43.651660 Whiskey: Hotel, sending you 1
+2024-10-14 17:56:43.655670 Kilo: Lima and Hotel, sending you 2
+2024-10-14 17:56:43.656675 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:43.658939 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:43.665663 Lima: Whiskey, sending you 8
+2024-10-14 17:56:43.669362 Lima: Hotel, sending you 1
+2024-10-14 17:56:43.672668 Lima: Kilo, sending you 10
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Lima round 16
+ChatterBot Yankee round 16
+ChatterBot X-ray round 16
+ChatterBot Uniform round 16
+ChatterBot Whiskey round 16
+ChatterBot Hotel round 16
+ChatterBot Zulu round 16
+ChatterBot Kilo round 16
+ChatterBot Romeo round 16
+ChatterBot Delta round 16
+2024-10-14 17:56:44.893266 Hotel: We should drop Uniform
+2024-10-14 17:56:44.909675 Yankee: No
+2024-10-14 17:56:44.909986 X-ray: No
+2024-10-14 17:56:44.910649 Zulu: No
+2024-10-14 17:56:44.910914 Romeo: No
+2024-10-14 17:56:44.911154 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:44.985366 Lima: We should drop Hotel
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:44.992292 Kilo: Yes
+2024-10-14 17:56:44.992433 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 17:56:45.003118 X-ray: We should drop Hotel
+2024-10-14 17:56:45.013601 Yankee: Yes
+2024-10-14 17:56:45.013767 Zulu: Yes
+2024-10-14 17:56:45.013878 Romeo: Yes
+2024-10-14 17:56:45.013977 Delta: Yes
+2024-10-14 17:56:45.014066 Uniform: Yes
+2024-10-14 17:56:45.080580 Hotel: We should drop Yankee
+2024-10-14 17:56:45.096363 X-ray: No
+2024-10-14 17:56:45.096550 Uniform: No
+2024-10-14 17:56:45.096705 Zulu: No
+2024-10-14 17:56:45.096869 Romeo: No
+2024-10-14 17:56:45.097016 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:45.160922 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:45.162672 Uniform: Yankee, sending you 4
+2024-10-14 17:56:45.164652 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:45.166680 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:45.167922 Hotel: We should drop Delta
+2024-10-14 17:56:45.181080 Yankee: No
+2024-10-14 17:56:45.181253 X-ray: No
+2024-10-14 17:56:45.181404 Uniform: No
+2024-10-14 17:56:45.181544 Zulu: No
+2024-10-14 17:56:45.181666 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:45.243693 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:45.249677 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:45.250728 Whiskey: Lima, sending you 1
+2024-10-14 17:56:45.253682 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:45.260662 Kilo: Lima, sending you 1
+2024-10-14 17:56:45.264677 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:45.276660 Hotel: Yankee and Delta, sending you 3
+2024-10-14 17:56:45.279984 Hotel: X-ray, Zulu and Romeo, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Lima round 17
+ChatterBot Yankee round 17
+ChatterBot X-ray round 17
+ChatterBot Uniform round 17
+ChatterBot Whiskey round 17
+ChatterBot Hotel round 17
+ChatterBot Zulu round 17
+ChatterBot Kilo round 17
+ChatterBot Romeo round 17
+ChatterBot Delta round 17
+2024-10-14 17:56:46.191641 Hotel: We should replace Delta with Uniform
+2024-10-14 17:56:46.200032 Yankee: No
+2024-10-14 17:56:46.200185 X-ray: No
+2024-10-14 17:56:46.200300 Zulu: No
+2024-10-14 17:56:46.200414 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:46.249322 Lima: We should drop Hotel
+2024-10-14 17:56:46.252898 Kilo: Yes
+2024-10-14 17:56:46.253034 Whiskey: Yes
+2024-10-14 17:56:46.262544 X-ray: We should drop Hotel
+2024-10-14 17:56:46.276911 Yankee: Yes
+2024-10-14 17:56:46.277091 Zulu: Yes
+2024-10-14 17:56:46.277237 Romeo: Yes
+2024-10-14 17:56:46.277375 Delta: Yes
+2024-10-14 17:56:46.277537 Uniform: Yes
+2024-10-14 17:56:46.327161 Hotel: We should replace Zulu with Uniform
+2024-10-14 17:56:46.337894 Yankee: No
+2024-10-14 17:56:46.338070 X-ray: No
+2024-10-14 17:56:46.338217 Romeo: No
+2024-10-14 17:56:46.338353 Delta: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 17:56:46.442168 Whiskey: Lima, sending you 1
+2024-10-14 17:56:46.442829 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:46.444092 Uniform: Yankee, sending you 4
+2024-10-14 17:56:46.446219 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:46.447715 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:46.449052 Uniform: X-ray, Zulu, Romeo and Delta, sending you 3
+2024-10-14 17:56:46.450382 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:46.454804 Delta: X-ray and Romeo, sending you 3
+2024-10-14 17:56:46.455671 Kilo: Lima, sending you 1
+2024-10-14 17:56:46.460690 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:46.467919 Hotel: Yankee and Delta, sending you 3
+2024-10-14 17:56:46.472673 Hotel: X-ray, Zulu and Romeo, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 18
+ChatterBot Yankee round 18
+ChatterBot X-ray round 18
+ChatterBot Uniform round 18
+ChatterBot Whiskey round 18
+ChatterBot Hotel round 18
+ChatterBot Zulu round 18
+ChatterBot Kilo round 18
+ChatterBot Romeo round 18
+ChatterBot Delta round 18
+2024-10-14 17:56:47.192079 X-ray: We should drop Hotel
+2024-10-14 17:56:47.204657 Yankee: Yes
+2024-10-14 17:56:47.204901 Zulu: Yes
+2024-10-14 17:56:47.205062 Romeo: Yes
+2024-10-14 17:56:47.205218 Delta: Yes
+2024-10-14 17:56:47.205370 Uniform: Yes
+2024-10-14 17:56:47.278673 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:47.279856 Kilo: Lima, sending you 1
+2024-10-14 17:56:47.280428 Hotel: Yankee and Delta, sending you 3
+2024-10-14 17:56:47.282219 Whiskey: Lima, sending you 1
+2024-10-14 17:56:47.282831 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:47.283687 Zulu: Uniform, Romeo and Delta, sending you 2
+2024-10-14 17:56:47.286171 Hotel: X-ray, Zulu and Romeo, sending you 2
+2024-10-14 17:56:47.288254 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:47.288926 Uniform: Yankee, X-ray, Zulu and Romeo, sending you 1
+2024-10-14 17:56:47.294692 Delta: Yankee, Uniform and Zulu, sending you 2
+2024-10-14 17:56:47.299581 Delta: X-ray and Romeo, sending you 3
+chatterbot Zulu submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 19
+ChatterBot Yankee round 19
+ChatterBot X-ray round 19
+ChatterBot Uniform round 19
+ChatterBot Whiskey round 19
+ChatterBot Hotel round 19
+ChatterBot Zulu round 19
+ChatterBot Kilo round 19
+ChatterBot Romeo round 19
+ChatterBot Delta round 19
+2024-10-14 17:56:48.229459 Whiskey: We should add Delta
+2024-10-14 17:56:48.237703 Lima: No
+2024-10-14 17:56:48.238059 Kilo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 17:56:48.268759 Yankee: We should drop Romeo
+ChatterBot Uniform reevaluating
+2024-10-14 17:56:48.284054 X-ray: No
+2024-10-14 17:56:48.285018 Uniform: Yes
+2024-10-14 17:56:48.285279 Zulu: No
+2024-10-14 17:56:48.285710 Delta: No
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:56:48.355031 X-ray: We should drop Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 17:56:48.377896 Yankee: Yes
+2024-10-14 17:56:48.378094 Zulu: Yes
+2024-10-14 17:56:48.378268 Romeo: Yes
+2024-10-14 17:56:48.379619 Delta: Yes
+2024-10-14 17:56:48.379775 Uniform: Yes
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:56:48.485649 Delta: We should drop Uniform
+ChatterBot Yankee reevaluating
+2024-10-14 17:56:48.502275 Yankee: Yes
+2024-10-14 17:56:48.502438 X-ray: No
+2024-10-14 17:56:48.503515 Zulu: No
+2024-10-14 17:56:48.503709 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 17:56:48.563343 Uniform: We should drop Yankee
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:48.575028 X-ray: No
+2024-10-14 17:56:48.575212 Zulu: No
+2024-10-14 17:56:48.575332 Romeo: No
+2024-10-14 17:56:48.575437 Delta: No
+ChatterBot Uniform reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:48.620716 Kilo: Lima, sending you 1
+2024-10-14 17:56:48.621066 Lima: Sending you each 1
+2024-10-14 17:56:48.621556 Hotel: I was attacked by Uniform
+2024-10-14 17:56:48.621830 Hotel: I'm keeping this round to protect myself
+2024-10-14 17:56:48.622036 Hotel: Ow
+2024-10-14 17:56:48.623684 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:48.624902 X-ray: We should drop Uniform and Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:48.638255 Delta: Yes
+2024-10-14 17:56:48.638388 Yankee: Yes
+2024-10-14 17:56:48.638508 Zulu: Yes
+2024-10-14 17:56:48.638635 Romeo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:48.714246 Uniform: We should drop X-ray
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:48.728592 Yankee: Yes
+2024-10-14 17:56:48.728718 Zulu: Yes
+2024-10-14 17:56:48.728805 Romeo: Yes
+2024-10-14 17:56:48.728889 Delta: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Kilo submitting transactions
+2024-10-14 17:56:48.779693 Delta: Sending you each 3
+2024-10-14 17:56:48.781220 Whiskey: Lima, sending you 1
+2024-10-14 17:56:48.785730 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:48.792715 Uniform: Sending you each 4
+2024-10-14 17:56:48.811659 Zulu: Yankee, sending you 4
+2024-10-14 17:56:48.814672 Zulu: X-ray and Romeo, sending you 3
+2024-10-14 17:56:48.817688 Zulu: Delta, sending you 2
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Lima round 20
+ChatterBot Yankee round 20
+ChatterBot X-ray round 20
+ChatterBot Uniform round 20
+ChatterBot Whiskey round 20
+ChatterBot Hotel round 20
+ChatterBot Zulu round 20
+ChatterBot Kilo round 20
+ChatterBot Romeo round 20
+ChatterBot Delta round 20
+2024-10-14 17:56:49.748812 Yankee: We should drop Uniform
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:49.768991 Delta: Yes
+2024-10-14 17:56:49.770032 X-ray: Yes
+2024-10-14 17:56:49.770409 Zulu: Yes
+2024-10-14 17:56:49.770723 Romeo: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:49.846680 Kilo: Lima, sending you 1
+2024-10-14 17:56:49.847701 Uniform: Yankee, Zulu and Romeo, sending you 1
+2024-10-14 17:56:49.849753 Zulu: Yankee, sending you 4
+2024-10-14 17:56:49.851605 Whiskey: Lima, sending you 1
+2024-10-14 17:56:49.852284 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:49.853816 X-ray: We should drop Uniform and Hotel
+2024-10-14 17:56:49.869348 Delta: Yes
+2024-10-14 17:56:49.869528 Yankee: Yes
+2024-10-14 17:56:49.869684 Zulu: Yes
+2024-10-14 17:56:49.869849 Romeo: Yes
+2024-10-14 17:56:49.923457 Whiskey: Kilo, sending you 4
+2024-10-14 17:56:49.923972 Zulu: X-ray and Delta, sending you 3
+chatterbot X-ray submitting transactions
+2024-10-14 17:56:49.926642 Lima: Sending you each 7
+2024-10-14 17:56:49.927674 Zulu: Romeo, sending you 2
+2024-10-14 17:56:49.928726 Delta: Same as last round
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 21
+chatterbot X-ray submitting transactions
+ChatterBot Yankee round 21
+ChatterBot X-ray round 21
+ChatterBot Uniform round 21
+ChatterBot Whiskey round 21
+ChatterBot Hotel round 21
+ChatterBot Zulu round 21
+ChatterBot Kilo round 21
+ChatterBot Romeo round 21
+ChatterBot Delta round 21
+2024-10-14 17:56:51.167636 X-ray: We should drop Uniform and Hotel
+2024-10-14 17:56:51.195709 Delta: Yes
+2024-10-14 17:56:51.196152 Yankee: Yes
+2024-10-14 17:56:51.196478 Zulu: Yes
+2024-10-14 17:56:51.196784 Romeo: Yes
+2024-10-14 17:56:51.331857 Romeo: We should drop Uniform
+2024-10-14 17:56:51.362010 Delta: Yes
+2024-10-14 17:56:51.362235 Yankee: Yes
+2024-10-14 17:56:51.362441 X-ray: Yes
+2024-10-14 17:56:51.362600 Zulu: Yes
+2024-10-14 17:56:51.479593 Yankee: We should drop X-ray and Uniform
+2024-10-14 17:56:51.503909 Zulu: Yes
+2024-10-14 17:56:51.504092 Romeo: Yes
+2024-10-14 17:56:51.504225 Delta: Yes
+2024-10-14 17:56:51.564684 Kilo: Lima, sending you 1
+2024-10-14 17:56:51.566497 Lima: Sending you each 9
+2024-10-14 17:56:51.567595 Uniform: Yankee, Zulu and Romeo, sending you 1
+2024-10-14 17:56:51.570684 Kilo: Whiskey, sending you 5
+2024-10-14 17:56:51.579718 Zulu: Yankee and X-ray, sending you 3
+2024-10-14 17:56:51.583341 Delta: Same as last round
+2024-10-14 17:56:51.584680 Zulu: Romeo and Delta, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Lima round 22
+ChatterBot Yankee round 22
+ChatterBot X-ray round 22
+ChatterBot Uniform round 22
+ChatterBot Whiskey round 22
+ChatterBot Hotel round 22
+ChatterBot Zulu round 22
+ChatterBot Kilo round 22
+ChatterBot Romeo round 22
+ChatterBot Delta round 22
+2024-10-14 17:56:52.630156 Yankee: We should drop X-ray and Uniform
+2024-10-14 17:56:52.653805 Zulu: Yes
+2024-10-14 17:56:52.654053 Romeo: Yes
+2024-10-14 17:56:52.654256 Delta: Yes
+2024-10-14 17:56:52.710039 X-ray: We should drop Uniform and Hotel
+2024-10-14 17:56:52.724469 Delta: Yes
+2024-10-14 17:56:52.724609 Yankee: Yes
+2024-10-14 17:56:52.725190 Zulu: Yes
+2024-10-14 17:56:52.725287 Romeo: Yes
+2024-10-14 17:56:52.791777 Kilo: We should drop Lima
+2024-10-14 17:56:52.796742 Whiskey: Yes
+2024-10-14 17:56:52.801038 Romeo: We should drop Uniform
+2024-10-14 17:56:52.816822 Delta: Yes
+2024-10-14 17:56:52.816957 Yankee: Yes
+2024-10-14 17:56:52.817073 X-ray: Yes
+2024-10-14 17:56:52.817164 Zulu: Yes
+2024-10-14 17:56:52.876579 Lima: I was attacked by Uniform
+2024-10-14 17:56:52.876845 Lima: I'm keeping this round to protect myself
+2024-10-14 17:56:52.876996 Lima: Ow
+2024-10-14 17:56:52.877221 Uniform: I was attacked by Whiskey and Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:52.891910 Uniform: I'm keeping this round to protect myself
+2024-10-14 17:56:52.893858 Uniform: Ow
+2024-10-14 17:56:52.896681 Kilo: Sending you 6
+chatterbot Lima submitting transactions
+2024-10-14 17:56:52.915677 Whiskey: Sending you 3
+2024-10-14 17:56:52.918780 Delta: Sorry, I'm actually sending you 0
+2024-10-14 17:56:52.924683 Delta: Sending you each 4
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Lima round 23
+ChatterBot Yankee round 23
+ChatterBot X-ray round 23
+ChatterBot Uniform round 23
+ChatterBot Whiskey round 23
+ChatterBot Hotel round 23
+ChatterBot Zulu round 23
+ChatterBot Kilo round 23
+ChatterBot Romeo round 23
+ChatterBot Delta round 23
+2024-10-14 17:56:53.985406 Delta: We should add X-ray
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:53.998963 Yankee: Yes
+2024-10-14 17:56:53.999103 Zulu: Yes
+2024-10-14 17:56:53.999224 Romeo: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:54.049799 X-ray: We should drop Uniform and Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:54.067364 Delta: Yes
+2024-10-14 17:56:54.067489 Yankee: Yes
+2024-10-14 17:56:54.067598 Zulu: Yes
+2024-10-14 17:56:54.067732 Romeo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:54.161619 Delta: X-ray we want you to join our group
+2024-10-14 17:56:54.168239 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:54.191967 Uniform: I was attacked by Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:54.207727 Uniform: I'm keeping this round to protect myself
+2024-10-14 17:56:54.209843 Uniform: Ow
+2024-10-14 17:56:54.211450 Whiskey: Same as last round
+2024-10-14 17:56:54.215674 Kilo: Sending you 7
+2024-10-14 17:56:54.218915 Romeo: We should drop Uniform
+ChatterBot Delta reevaluating
+2024-10-14 17:56:54.237234 Delta: Yes
+2024-10-14 17:56:54.237439 Yankee: Yes
+2024-10-14 17:56:54.237588 X-ray: Yes
+2024-10-14 17:56:54.237754 Zulu: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:54.325674 Delta: Sending you each 3
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 24
+ChatterBot Yankee round 24
+ChatterBot X-ray round 24
+ChatterBot Uniform round 24
+ChatterBot Whiskey round 24
+ChatterBot Hotel round 24
+ChatterBot Zulu round 24
+ChatterBot Kilo round 24
+ChatterBot Romeo round 24
+ChatterBot Delta round 24
+2024-10-14 17:56:55.325138 Uniform: We should add X-ray
+2024-10-14 17:56:55.343048 Yankee: Yes
+2024-10-14 17:56:55.343221 Zulu: Yes
+2024-10-14 17:56:55.343330 Romeo: Yes
+2024-10-14 17:56:55.343430 Delta: Yes
+2024-10-14 17:56:55.443260 Romeo: We should drop Uniform
+2024-10-14 17:56:55.457774 Delta: Yes
+2024-10-14 17:56:55.457920 Yankee: Yes
+2024-10-14 17:56:55.458034 X-ray: Yes
+2024-10-14 17:56:55.458151 Zulu: Yes
+2024-10-14 17:56:55.522131 Uniform: X-ray we want you to join our group
+2024-10-14 17:56:55.531605 X-ray: No
+2024-10-14 17:56:55.560405 X-ray: We should drop Uniform and Hotel
+2024-10-14 17:56:55.584199 Delta: Yes
+2024-10-14 17:56:55.584441 Yankee: Yes
+2024-10-14 17:56:55.584639 Zulu: Yes
+2024-10-14 17:56:55.585421 Romeo: Yes
+2024-10-14 17:56:55.675677 Whiskey: Same as last round
+2024-10-14 17:56:55.679679 Uniform: I was attacked by Zulu
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:55.700338 Uniform: I'm keeping this round to protect myself
+2024-10-14 17:56:55.705132 Uniform: Ow
+2024-10-14 17:56:55.706726 Kilo: Same as last round
+2024-10-14 17:56:55.723688 Delta: Same as last round
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Lima round 25
+ChatterBot Yankee round 25
+ChatterBot X-ray round 25
+ChatterBot Uniform round 25
+ChatterBot Whiskey round 25
+ChatterBot Hotel round 25
+ChatterBot Zulu round 25
+ChatterBot Kilo round 25
+ChatterBot Romeo round 25
+ChatterBot Delta round 25
+chatterbot Romeo submitting transactions
+2024-10-14 17:56:56.791054 Yankee: We should drop Uniform
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:56.810950 Delta: Yes
+2024-10-14 17:56:56.811168 X-ray: Yes
+2024-10-14 17:56:56.811313 Zulu: Yes
+2024-10-14 17:56:56.811450 Romeo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:57.044901 X-ray: We should drop Uniform and Hotel
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:57.074221 Delta: Yes
+2024-10-14 17:56:57.074542 Yankee: Yes
+2024-10-14 17:56:57.074763 Zulu: Yes
+2024-10-14 17:56:57.075019 Romeo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:56:57.187578 Uniform: I was attacked by Zulu
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:57.209025 Uniform: I'm keeping this round to protect myself
+2024-10-14 17:56:57.212442 Uniform: Ow
+2024-10-14 17:56:57.213631 Kilo: Same as last round
+2024-10-14 17:56:57.216851 Whiskey: Same as last round
+2024-10-14 17:56:57.243670 Delta: Same as last round
+chatterbot Uniform submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 26
+ChatterBot Yankee round 26
+ChatterBot X-ray round 26
+ChatterBot Uniform round 26
+ChatterBot Whiskey round 26
+ChatterBot Hotel round 26
+ChatterBot Zulu round 26
+ChatterBot Kilo round 26
+ChatterBot Romeo round 26
+ChatterBot Delta round 26
+2024-10-14 17:56:58.411751 Romeo: We should drop Uniform
+ChatterBot Delta reevaluating
+2024-10-14 17:56:58.437845 Delta: Yes
+2024-10-14 17:56:58.438647 Yankee: Yes
+2024-10-14 17:56:58.438878 X-ray: Yes
+2024-10-14 17:56:58.439139 Zulu: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:58.526066 X-ray: We should drop Uniform and Hotel
+ChatterBot Delta reevaluating
+2024-10-14 17:56:58.545040 Delta: Yes
+2024-10-14 17:56:58.545267 Yankee: Yes
+2024-10-14 17:56:58.545389 Zulu: Yes
+2024-10-14 17:56:58.545501 Romeo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:58.655590 Uniform: I was attacked by Zulu
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:56:58.678502 Uniform: I'm keeping this round to protect myself
+2024-10-14 17:56:58.683760 Uniform: Ow
+2024-10-14 17:56:58.684721 Kilo: Sending you 8
+2024-10-14 17:56:58.686256 Whiskey: Same as last round
+2024-10-14 17:56:58.722733 Delta: Same as last round
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 27
+ChatterBot Yankee round 27
+ChatterBot X-ray round 27
+ChatterBot Uniform round 27
+ChatterBot Whiskey round 27
+ChatterBot Hotel round 27
+ChatterBot Zulu round 27
+ChatterBot Kilo round 27
+ChatterBot Romeo round 27
+ChatterBot Delta round 27
+2024-10-14 17:56:59.681751 Kilo: We should add X-ray
+2024-10-14 17:56:59.687446 Whiskey: Yes
+2024-10-14 17:56:59.713317 Yankee: We should drop Uniform and Zulu
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:59.727183 Romeo: No
+2024-10-14 17:56:59.727309 Delta: Yes
+2024-10-14 17:56:59.727413 X-ray: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:59.770071 Delta: We should drop Zulu
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:59.782128 Yankee: Yes
+2024-10-14 17:56:59.782252 Romeo: No
+2024-10-14 17:56:59.782349 X-ray: No
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:59.830763 Uniform: We should drop Zulu
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:59.864989 Yankee: Yes
+2024-10-14 17:56:59.865190 X-ray: No
+2024-10-14 17:56:59.865355 Romeo: No
+2024-10-14 17:56:59.865506 Delta: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:56:59.982894 Kilo: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 17:56:59.996548 X-ray: No
+2024-10-14 17:57:00.046737 Romeo: We should drop Uniform
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 17:57:00.074349 Delta: Yes
+2024-10-14 17:57:00.074626 Yankee: Yes
+2024-10-14 17:57:00.074850 X-ray: Yes
+2024-10-14 17:57:00.075055 Zulu: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:00.196415 Whiskey: Sending you 2
+2024-10-14 17:57:00.197220 Uniform: I was attacked by Zulu
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:57:00.225582 Uniform: I'm keeping this round to protect myself
+2024-10-14 17:57:00.230312 Uniform: Ow
+chatterbot Whiskey submitting transactions
+2024-10-14 17:57:00.243534 X-ray: We should drop Uniform and Hotel
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:00.266303 Delta: Yes
+2024-10-14 17:57:00.266460 Yankee: Yes
+2024-10-14 17:57:00.266621 Zulu: Yes
+2024-10-14 17:57:00.267143 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 17:57:00.352850 Kilo: X-ray, sending you 3
+2024-10-14 17:57:00.359658 Kilo: Whiskey, sending you 8
+2024-10-14 17:57:00.389715 Delta: Sending you each 4
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 28
+ChatterBot Yankee round 28
+ChatterBot X-ray round 28
+ChatterBot Uniform round 28
+ChatterBot Whiskey round 28
+ChatterBot Hotel round 28
+ChatterBot Zulu round 28
+ChatterBot Kilo round 28
+ChatterBot Romeo round 28
+ChatterBot Delta round 28
+2024-10-14 17:57:01.750682 Kilo: We should replace X-ray with Zulu
+ChatterBot Whiskey reevaluating
+2024-10-14 17:57:01.758394 Whiskey: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 17:57:01.765442 Whiskey: We should add Zulu
+ChatterBot Kilo reevaluating
+2024-10-14 17:57:01.770742 Kilo: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 17:57:01.791485 X-ray: We should drop Uniform and Hotel
+2024-10-14 17:57:01.811465 Delta: Yes
+2024-10-14 17:57:01.811736 Yankee: Yes
+2024-10-14 17:57:01.811926 Zulu: Yes
+2024-10-14 17:57:01.812087 Romeo: Yes
+2024-10-14 17:57:01.904554 Romeo: We should drop Uniform
+2024-10-14 17:57:01.938862 Delta: Yes
+2024-10-14 17:57:01.939200 Yankee: Yes
+2024-10-14 17:57:01.939482 X-ray: Yes
+2024-10-14 17:57:01.940454 Zulu: Yes
+2024-10-14 17:57:02.044764 Whiskey: Zulu we want you to join our group
+2024-10-14 17:57:02.051543 Zulu: No
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Lima submitting transactions
+2024-10-14 17:57:02.068094 Delta: Same as last round
+2024-10-14 17:57:02.070252 Kilo: Zulu we want you to join our group
+2024-10-14 17:57:02.076568 Zulu: No
+ChatterBot Kilo reevaluating
+2024-10-14 17:57:02.113776 Kilo: X-ray, sending you 3
+2024-10-14 17:57:02.115691 Whiskey: Zulu, sending you 1
+2024-10-14 17:57:02.118667 Kilo: Whiskey, sending you 9
+2024-10-14 17:57:02.122217 Whiskey: Kilo, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Lima round 29
+ChatterBot Yankee round 29
+ChatterBot X-ray round 29
+ChatterBot Uniform round 29
+ChatterBot Whiskey round 29
+ChatterBot Hotel round 29
+ChatterBot Zulu round 29
+ChatterBot Kilo round 29
+ChatterBot Romeo round 29
+ChatterBot Delta round 29
+2024-10-14 17:57:03.247209 Kilo: We should add Zulu
+2024-10-14 17:57:03.265434 X-ray: Yes
+2024-10-14 17:57:03.265648 Whiskey: Yes
+2024-10-14 17:57:03.309914 X-ray: We should drop Uniform and Hotel
+2024-10-14 17:57:03.333099 Delta: Yes
+2024-10-14 17:57:03.333318 Yankee: Yes
+2024-10-14 17:57:03.333469 Zulu: Yes
+2024-10-14 17:57:03.333691 Romeo: Yes
+2024-10-14 17:57:03.428969 Kilo: Zulu we want you to join our group
+2024-10-14 17:57:03.438752 Zulu: No
+2024-10-14 17:57:03.462869 Romeo: We should drop Uniform
+2024-10-14 17:57:03.497945 Delta: Yes
+2024-10-14 17:57:03.498152 Yankee: Yes
+2024-10-14 17:57:03.498359 X-ray: Yes
+2024-10-14 17:57:03.498540 Zulu: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:03.608750 Uniform: Yankee, sending you 2
+2024-10-14 17:57:03.612887 Whiskey: Zulu, sending you 1
+2024-10-14 17:57:03.615466 Delta: Same as last round
+2024-10-14 17:57:03.619172 Romeo: We should drop Uniform and Zulu
+2024-10-14 17:57:03.632807 Yankee: Yes
+2024-10-14 17:57:03.632965 Delta: Yes
+2024-10-14 17:57:03.633050 X-ray: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:03.675766 Uniform: X-ray, Romeo and Delta, sending you 1
+2024-10-14 17:57:03.678908 Whiskey: Kilo, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 17:57:03.681411 Kilo: X-ray and Zulu, sending you 2
+2024-10-14 17:57:03.684683 Kilo: Whiskey, sending you 8
+chatterbot Uniform submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 30
+ChatterBot Yankee round 30
+ChatterBot X-ray round 30
+ChatterBot Uniform round 30
+ChatterBot Whiskey round 30
+ChatterBot Hotel round 30
+ChatterBot Zulu round 30
+ChatterBot Kilo round 30
+ChatterBot Romeo round 30
+ChatterBot Delta round 30
+2024-10-14 17:57:04.627554 Romeo: We should drop Uniform
+ChatterBot X-ray reevaluating
+2024-10-14 17:57:04.647874 Delta: Yes
+2024-10-14 17:57:04.648056 Yankee: Yes
+2024-10-14 17:57:04.648208 X-ray: Yes
+2024-10-14 17:57:04.648339 Zulu: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:04.730653 Yankee: We should drop Uniform and Zulu
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 17:57:04.743217 Romeo: No
+2024-10-14 17:57:04.743340 Delta: Yes
+2024-10-14 17:57:04.743439 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:04.797965 Kilo: We should drop X-ray and Zulu
+2024-10-14 17:57:04.806569 Whiskey: Yes
+2024-10-14 17:57:04.814757 Whiskey: We should drop Zulu
+2024-10-14 17:57:04.822796 Kilo: Yes
+2024-10-14 17:57:04.831511 X-ray: We should drop Uniform and Hotel
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:04.856155 Delta: Yes
+2024-10-14 17:57:04.856354 Yankee: Yes
+2024-10-14 17:57:04.856530 Zulu: Yes
+2024-10-14 17:57:04.856705 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 17:57:04.926677 Uniform: Yankee, X-ray and Romeo, sending you 4
+2024-10-14 17:57:04.932700 Uniform: Delta, sending you 3
+2024-10-14 17:57:04.936883 Delta: Same as last round
+2024-10-14 17:57:04.940317 Whiskey: Same as last round
+2024-10-14 17:57:04.941215 Kilo: Sending you 10
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
