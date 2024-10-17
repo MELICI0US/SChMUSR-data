@@ -1,0 +1,4321 @@
+ChatterBot Romeo round 1
+ChatterBot Yankee round 1
+ChatterBot India round 1
+ChatterBot Charlie round 1
+ChatterBot Delta round 1
+ChatterBot Kilo round 1
+ChatterBot Whiskey round 1
+ChatterBot Quebec round 1
+ChatterBot Bravo round 1
+ChatterBot Mike round 1
+randomSelections Romeo: {Romeo, Bravo} 
+2024-10-14 14:01:46.379186 Romeo: Group up?
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:46.381793 Bravo: Yes
+randomSelections Yankee: {Yankee, Romeo, India, Delta, Whiskey, Bravo, Kilo, Charlie} 
+2024-10-14 14:01:46.385687 Yankee: Let's form a team
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:01:46.402354 Romeo: No
+2024-10-14 14:01:46.403366 India: Yes
+2024-10-14 14:01:46.403505 Delta: Yes
+2024-10-14 14:01:46.403684 Whiskey: Yes
+2024-10-14 14:01:46.403788 Bravo: No
+2024-10-14 14:01:46.403985 Kilo: Yes
+2024-10-14 14:01:46.404090 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+randomSelections Mike: {Mike, Delta, Romeo, India, Kilo, Quebec} 
+2024-10-14 14:01:46.494349 Mike: Can we be friends?
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:01:46.506921 Delta: No
+2024-10-14 14:01:46.507789 Romeo: No
+2024-10-14 14:01:46.508011 India: No
+2024-10-14 14:01:46.508217 Kilo: No
+2024-10-14 14:01:46.508417 Quebec: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:01:46.577867 Yankee: Romeo and Delta, sending you 4
+2024-10-14 14:01:46.581676 India: Romeo and Kilo, sending you 4
+2024-10-14 14:01:46.582695 Yankee: India and Kilo, sending you 3
+2024-10-14 14:01:46.583091 Mike: Romeo, sending you 1
+2024-10-14 14:01:46.583709 Kilo: Romeo, India and Bravo, sending you 1
+2024-10-14 14:01:46.585691 India: Yankee and Bravo, sending you 2
+2024-10-14 14:01:46.586015 Mike: India, sending you 5
+2024-10-14 14:01:46.586730 Charlie: Romeo, India, Delta, Kilo and Bravo, sending you 2
+2024-10-14 14:01:46.587527 Yankee: Charlie, sending you 1
+2024-10-14 14:01:46.587896 Kilo: Yankee, sending you 5
+2024-10-14 14:01:46.588251 Whiskey: Romeo and Charlie, sending you 2
+2024-10-14 14:01:46.588668 Romeo: Sending you 16
+2024-10-14 14:01:46.589692 India: Charlie and Delta, sending you 1
+2024-10-14 14:01:46.590115 Mike: Delta and Quebec, sending you 3
+2024-10-14 14:01:46.590399 Charlie: Yankee, sending you 1
+2024-10-14 14:01:46.591229 Kilo: Charlie, sending you 3
+2024-10-14 14:01:46.591663 Yankee: Bravo, sending you 2
+2024-10-14 14:01:46.592707 Bravo: Sending you 6
+2024-10-14 14:01:46.592957 Delta: Romeo and Kilo, sending you 2
+2024-10-14 14:01:46.593199 Whiskey: Yankee, sending you 4
+2024-10-14 14:01:46.593434 Mike: Kilo, sending you 4
+2024-10-14 14:01:46.593663 Quebec: Romeo and Kilo, sending you 3
+2024-10-14 14:01:46.593890 Kilo: Whiskey, sending you 2
+2024-10-14 14:01:46.594676 India: Whiskey, sending you 3
+2024-10-14 14:01:46.596894 Delta: Yankee and Whiskey, sending you 1
+2024-10-14 14:01:46.597690 Whiskey: India, sending you 3
+2024-10-14 14:01:46.598053 Quebec: India, sending you 2
+2024-10-14 14:01:46.601688 Delta: India and Charlie, sending you 3
+2024-10-14 14:01:46.602143 Quebec: Delta, sending you 1
+2024-10-14 14:01:46.602686 Whiskey: Delta, Kilo and Bravo, sending you 1
+2024-10-14 14:01:46.606729 Quebec: Mike, sending you 6
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 2
+ChatterBot Yankee round 2
+ChatterBot India round 2
+ChatterBot Charlie round 2
+ChatterBot Delta round 2
+2024-10-14 14:01:48.439914 India: We should group up
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:01:48.537756 Yankee: No
+2024-10-14 14:01:48.537935 Charlie: No
+2024-10-14 14:01:48.538073 Delta: Yes
+2024-10-14 14:01:48.538203 Kilo: No
+2024-10-14 14:01:48.538311 Whiskey: No
+2024-10-14 14:01:48.538866 Quebec: No
+2024-10-14 14:01:48.538987 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo round 2
+ChatterBot Whiskey round 2
+ChatterBot Quebec round 2
+ChatterBot Bravo round 2
+2024-10-14 14:01:49.021881 Romeo: Friends?
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:01:49.044792 Yankee: No
+2024-10-14 14:01:49.045270 India: No
+2024-10-14 14:01:49.045372 Delta: No
+2024-10-14 14:01:49.045459 Whiskey: No
+2024-10-14 14:01:49.045549 Bravo: Yes
+2024-10-14 14:01:49.045681 Kilo: No
+2024-10-14 14:01:49.045779 Charlie: No
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike round 2
+2024-10-14 14:01:49.278312 Mike: Group up?
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:49.301681 India: Yes
+2024-10-14 14:01:49.302067 Yankee: No
+2024-10-14 14:01:49.302709 Charlie: No
+2024-10-14 14:01:49.302899 Delta: Yes
+2024-10-14 14:01:49.303066 Kilo: No
+2024-10-14 14:01:49.303211 Whiskey: No
+2024-10-14 14:01:49.303445 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:49.521145 Kilo: We should drop Romeo and Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:49.546355 Yankee: Yes
+2024-10-14 14:01:49.546539 India: Yes
+2024-10-14 14:01:49.546716 Charlie: Yes
+2024-10-14 14:01:49.546900 Delta: Yes
+2024-10-14 14:01:49.547380 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:01:49.706553 India: Yankee, sending you 3
+2024-10-14 14:01:49.707872 Delta: Yankee and Mike, sending you 3
+2024-10-14 14:01:49.708735 Romeo: Yankee, India and Bravo, sending you 3
+2024-10-14 14:01:50.178133 Delta: India, Kilo, Whiskey and Quebec, sending you 1
+2024-10-14 14:01:50.178467 India: Charlie, Delta, Kilo, Whiskey and Quebec, sending you 2
+2024-10-14 14:01:50.178804 Romeo: Charlie, Delta and Whiskey, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:01:50.501661 Kilo: Yankee, sending you 3
+2024-10-14 14:01:50.502027 Delta: Charlie, sending you 2
+2024-10-14 14:01:50.502405 Bravo: Romeo, sending you 6
+2024-10-14 14:01:50.503232 India: Mike, sending you 4
+2024-10-14 14:01:50.503522 Romeo: Kilo, sending you 1
+2024-10-14 14:01:50.503910 Mike: Yankee, India and Charlie, sending you 1
+2024-10-14 14:01:50.504624 Charlie: Yankee and Whiskey, sending you 3
+2024-10-14 14:01:50.504871 Quebec: Yankee, India, Charlie, Delta, Kilo and Whiskey, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 14:01:50.603694 Kilo: India, sending you 4
+2024-10-14 14:01:50.604167 Mike: Quebec, sending you 14
+2024-10-14 14:01:50.604676 Bravo: Yankee, India and Charlie, sending you 2
+2024-10-14 14:01:50.606013 Charlie: India, sending you 2
+2024-10-14 14:01:50.606402 Quebec: Mike, sending you 8
+2024-10-14 14:01:50.607460 Whiskey: Yankee and Charlie, sending you 1
+2024-10-14 14:01:50.607922 Yankee: India, Charlie and Delta, sending you 1
+2024-10-14 14:01:50.609108 Kilo: Charlie, Delta and Whiskey, sending you 2
+2024-10-14 14:01:50.609636 Bravo: Kilo and Whiskey, sending you 1
+2024-10-14 14:01:50.610735 Charlie: Delta and Kilo, sending you 4
+2024-10-14 14:01:50.646760 Yankee: Kilo and Whiskey, sending you 3
+2024-10-14 14:01:50.647215 Whiskey: India, sending you 6
+2024-10-14 14:01:50.673336 Whiskey: Delta, sending you 3
+2024-10-14 14:01:50.699446 Whiskey: Kilo, sending you 5
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 3
+ChatterBot Yankee round 3
+ChatterBot India round 3
+ChatterBot Charlie round 3
+ChatterBot Delta round 3
+ChatterBot Kilo round 3
+2024-10-14 14:01:50.831278 Charlie: We should add Mike
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:50.854501 Kilo: No
+2024-10-14 14:01:50.854698 Yankee: No
+2024-10-14 14:01:50.854864 India: Yes
+2024-10-14 14:01:50.855013 Delta: Yes
+2024-10-14 14:01:50.855185 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:01:51.000750 Whiskey: We should add Quebec and Mike
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:01:51.019296 Kilo: No
+2024-10-14 14:01:51.019431 Yankee: No
+2024-10-14 14:01:51.019534 India: No
+2024-10-14 14:01:51.019655 Charlie: No
+2024-10-14 14:01:51.019774 Delta: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey round 3
+ChatterBot Quebec round 3
+ChatterBot Bravo round 3
+ChatterBot Mike round 3
+2024-10-14 14:01:51.229085 India: We should drop Quebec
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:01:51.267304 Yankee: Yes
+2024-10-14 14:01:51.267468 Charlie: Yes
+2024-10-14 14:01:51.268165 Delta: Yes
+2024-10-14 14:01:51.268334 Kilo: Yes
+2024-10-14 14:01:51.268473 Whiskey: Yes
+2024-10-14 14:01:51.268609 Mike: No
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:51.428082 Charlie: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 14:01:51.432043 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:51.502960 Whiskey: We should add Romeo and Bravo
+ChatterBot Kilo reevaluating
+2024-10-14 14:01:51.520707 Kilo: No
+2024-10-14 14:01:51.520971 Yankee: Yes
+2024-10-14 14:01:51.521197 India: No
+2024-10-14 14:01:51.521366 Charlie: No
+2024-10-14 14:01:51.521975 Delta: No
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Charlie submitting transactions
+2024-10-14 14:01:51.636972 Kilo: We should drop Delta
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:51.662060 Yankee: No
+2024-10-14 14:01:51.662243 India: No
+2024-10-14 14:01:51.662429 Charlie: No
+2024-10-14 14:01:51.662625 Whiskey: No
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:01:51.957660 Romeo: Yankee, India, Charlie, Delta, Kilo and Whiskey, sending you 2
+2024-10-14 14:01:51.959420 Delta: Romeo, Yankee, India, Charlie, Kilo and Whiskey, sending you 2
+2024-10-14 14:01:51.960181 Charlie: Romeo and Bravo we want you to join our group
+2024-10-14 14:01:51.971422 Romeo: Yes
+2024-10-14 14:01:51.971560 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:01:52.024313 Yankee: Romeo, Charlie, Delta, Whiskey and Bravo, sending you 2
+2024-10-14 14:01:52.025572 Whiskey: Romeo and Bravo we want you to join our group
+2024-10-14 14:01:52.032916 Romeo: Yes
+2024-10-14 14:01:52.033130 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:01:52.086430 Quebec: I was attacked by Yankee
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+2024-10-14 14:01:52.094574 Quebec: I'm keeping this round to protect myself
+2024-10-14 14:01:52.095552 Quebec: Ow
+chatterbot Yankee submitting transactions
+2024-10-14 14:01:52.096057 Romeo: Bravo, sending you 4
+2024-10-14 14:01:52.097164 Yankee: India, sending you 3
+2024-10-14 14:01:52.097980 Bravo: Romeo, sending you 6
+2024-10-14 14:01:52.098730 Kilo: We should drop Yankee
+ChatterBot India reevaluating
+2024-10-14 14:01:52.112768 India: No
+2024-10-14 14:01:52.112918 Charlie: No
+2024-10-14 14:01:52.113041 Delta: No
+2024-10-14 14:01:52.113167 Whiskey: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+chatterbot India submitting transactions
+2024-10-14 14:01:52.171646 Yankee: Kilo, sending you 5
+2024-10-14 14:01:52.172157 Bravo: Yankee, India, Charlie, Delta, Kilo and Whiskey, sending you 1
+2024-10-14 14:01:52.318863 Whiskey: Romeo, Yankee, Charlie and Delta, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 14:01:52.354706 Charlie: Romeo, Yankee, India, Whiskey and Bravo, sending you 2
+2024-10-14 14:01:52.355502 Mike: Yankee, Charlie and Whiskey, sending you 1
+2024-10-14 14:01:52.356568 Whiskey: India, sending you 4
+2024-10-14 14:01:52.357689 Charlie: Delta and Kilo, sending you 3
+2024-10-14 14:01:52.385701 Mike: India, sending you 8
+2024-10-14 14:01:52.386391 Whiskey: Kilo, sending you 3
+2024-10-14 14:01:52.387725 India: Romeo, Yankee, Charlie, Delta and Bravo, sending you 2
+2024-10-14 14:01:52.396419 Mike: Delta, sending you 6
+2024-10-14 14:01:52.397055 Whiskey: Bravo, sending you 1
+2024-10-14 14:01:52.398246 India: Kilo, sending you 3
+2024-10-14 14:01:52.399580 Kilo: Yankee, India and Whiskey, sending you 3
+2024-10-14 14:01:52.404758 India: Whiskey, sending you 4
+2024-10-14 14:01:52.405407 Kilo: Charlie, sending you 4
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 4
+ChatterBot Yankee round 4
+ChatterBot India round 4
+ChatterBot Charlie round 4
+ChatterBot Delta round 4
+ChatterBot Kilo round 4
+ChatterBot Whiskey round 4
+ChatterBot Quebec round 4
+2024-10-14 14:01:53.048318 India: We should add Mike
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:01:53.102376 Yankee: No
+2024-10-14 14:01:53.103199 Romeo: No
+2024-10-14 14:01:53.103393 Delta: Yes
+2024-10-14 14:01:53.103639 Whiskey: Yes
+2024-10-14 14:01:53.103842 Bravo: No
+2024-10-14 14:01:53.104500 Kilo: No
+2024-10-14 14:01:53.104692 Charlie: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo round 4
+ChatterBot Mike round 4
+2024-10-14 14:01:53.564369 Quebec: We should replace India with Delta
+2024-10-14 14:01:53.569743 Mike: No
+chatterbot India submitting transactions
+2024-10-14 14:01:53.576716 India: Mike we want you to join our group
+2024-10-14 14:01:53.583263 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:53.644880 Quebec: Delta we want you to join our group
+2024-10-14 14:01:53.649672 Delta: No
+ChatterBot Quebec reevaluating
+2024-10-14 14:01:53.656546 Charlie: Mike we want you to join our group
+2024-10-14 14:01:53.660153 Mike: No
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:53.726710 Yankee: Romeo, Charlie, Delta, Whiskey and Bravo, sending you 2
+2024-10-14 14:01:53.727796 India: Romeo, Yankee, Charlie, Delta, Kilo, Whiskey and Bravo, sending you 2
+2024-10-14 14:01:53.732739 Romeo: We should drop Kilo
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:53.763859 Yankee: No
+2024-10-14 14:01:53.764096 India: No
+2024-10-14 14:01:53.764230 Charlie: No
+2024-10-14 14:01:53.764375 Delta: No
+2024-10-14 14:01:53.764506 Whiskey: No
+2024-10-14 14:01:53.764642 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:53.898609 India: Mike, sending you 3
+2024-10-14 14:01:53.901674 Mike: Yankee, Charlie and Whiskey, sending you 1
+2024-10-14 14:01:53.902826 Quebec: India, sending you 4
+2024-10-14 14:01:53.903128 Bravo: Romeo, sending you 6
+2024-10-14 14:01:53.904471 Romeo: We should drop Delta
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:53.938282 Yankee: No
+2024-10-14 14:01:53.938464 India: No
+2024-10-14 14:01:53.938620 Charlie: No
+2024-10-14 14:01:53.938781 Kilo: No
+2024-10-14 14:01:53.938928 Whiskey: No
+2024-10-14 14:01:53.939073 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:54.071524 Kilo: Yankee, sending you 4
+2024-10-14 14:01:54.071933 Mike: India, sending you 8
+2024-10-14 14:01:54.072330 Quebec: Mike, sending you 7
+2024-10-14 14:01:54.072626 Bravo: Yankee, India and Charlie, sending you 2
+2024-10-14 14:01:54.076168 Kilo: India, Charlie, Delta and Whiskey, sending you 2
+2024-10-14 14:01:54.076693 Bravo: Kilo and Whiskey, sending you 1
+2024-10-14 14:01:54.077553 Mike: Delta, sending you 6
+2024-10-14 14:01:54.079694 Kilo: Mike, sending you 1
+2024-10-14 14:01:54.097668 Charlie: Yankee, India, Delta, Kilo and Whiskey, sending you 3
+2024-10-14 14:01:54.098667 Whiskey: Romeo, Yankee, Charlie and Delta, sending you 2
+2024-10-14 14:01:54.099463 Romeo: Yankee, India, Charlie, Delta, Kilo and Whiskey, sending you 2
+2024-10-14 14:01:54.101671 Delta: Sending you each 2
+2024-10-14 14:01:54.102205 Charlie: Mike, sending you 1
+2024-10-14 14:01:54.102644 Whiskey: India, sending you 4
+2024-10-14 14:01:54.103174 Romeo: Bravo, sending you 4
+2024-10-14 14:01:54.107679 Whiskey: Kilo, sending you 3
+2024-10-14 14:01:54.112670 Whiskey: Bravo, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Romeo round 5
+ChatterBot Yankee round 5
+ChatterBot India round 5
+ChatterBot Charlie round 5
+ChatterBot Delta round 5
+ChatterBot Kilo round 5
+ChatterBot Whiskey round 5
+ChatterBot Quebec round 5
+ChatterBot Bravo round 5
+ChatterBot Mike round 5
+2024-10-14 14:01:55.092725 Romeo: We should drop Yankee
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:55.119006 India: No
+2024-10-14 14:01:55.119199 Charlie: No
+2024-10-14 14:01:55.119333 Delta: No
+2024-10-14 14:01:55.119445 Kilo: No
+2024-10-14 14:01:55.119562 Whiskey: No
+2024-10-14 14:01:55.119676 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:55.278593 Charlie: We should add Romeo and Bravo
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:01:55.358662 Yankee: No
+2024-10-14 14:01:55.359066 India: No
+2024-10-14 14:01:55.359229 Delta: Yes
+2024-10-14 14:01:55.359372 Kilo: No
+2024-10-14 14:01:55.359535 Whiskey: Yes
+2024-10-14 14:01:55.360737 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot India submitting transactions
+2024-10-14 14:01:55.533712 Charlie: Romeo and Bravo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:01:55.547417 Romeo: No
+2024-10-14 14:01:55.548122 Bravo: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 14:01:55.617663 Whiskey: Romeo, Yankee, Charlie and Delta, sending you 2
+2024-10-14 14:01:55.618789 India: Romeo, Yankee, Charlie, Delta, Kilo, Whiskey and Bravo, sending you 2
+2024-10-14 14:01:55.619683 Bravo: Romeo, sending you 5
+2024-10-14 14:01:55.620922 Quebec: India, sending you 5
+2024-10-14 14:01:55.621153 Mike: Yankee and Kilo, sending you 2
+2024-10-14 14:01:55.622909 Romeo: We should drop Delta
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:01:55.642758 Yankee: No
+2024-10-14 14:01:55.642931 India: No
+2024-10-14 14:01:55.643035 Charlie: No
+2024-10-14 14:01:55.643134 Kilo: No
+2024-10-14 14:01:55.643231 Whiskey: No
+2024-10-14 14:01:55.643326 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:55.777035 India: Mike, sending you 3
+2024-10-14 14:01:55.777811 Bravo: Yankee, India and Charlie, sending you 2
+2024-10-14 14:01:55.778279 Quebec: Mike, sending you 9
+2024-10-14 14:01:55.778484 Mike: India, sending you 7
+chatterbot Bravo submitting transactions
+2024-10-14 14:01:55.780982 Bravo: Delta, Kilo and Whiskey, sending you 1
+2024-10-14 14:01:55.783686 Mike: Charlie, sending you 1
+2024-10-14 14:01:55.787670 Bravo: Yankee did not give me 2 like they said
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:01:55.816786 Mike: Delta, sending you 5
+2024-10-14 14:01:55.837306 Kilo: Yankee, sending you 4
+2024-10-14 14:01:55.841696 Kilo: India, Charlie, Delta and Whiskey, sending you 2
+2024-10-14 14:01:55.844676 Delta: Same as last round
+2024-10-14 14:01:55.845657 Kilo: Mike, sending you 1
+2024-10-14 14:01:55.847692 Charlie: Romeo, Yankee, India, Delta, Kilo, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:01:55.848665 Romeo: Yankee, Charlie, Kilo and Whiskey, sending you 2
+2024-10-14 14:01:55.853657 Romeo: India, sending you 3
+2024-10-14 14:01:55.857190 Romeo: Bravo, sending you 5
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 6
+ChatterBot Yankee round 6
+ChatterBot India round 6
+ChatterBot Charlie round 6
+ChatterBot Delta round 6
+ChatterBot Kilo round 6
+ChatterBot Whiskey round 6
+ChatterBot Quebec round 6
+ChatterBot Bravo round 6
+ChatterBot Mike round 6
+2024-10-14 14:01:56.595934 Mike: We would work well together
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:01:56.683314 India: No
+2024-10-14 14:01:56.683511 Charlie: No
+2024-10-14 14:01:56.683694 Delta: Yes
+2024-10-14 14:01:56.684762 Kilo: No
+2024-10-14 14:01:56.684961 Whiskey: Yes
+2024-10-14 14:01:56.685219 Romeo: Yes
+2024-10-14 14:01:56.685366 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+chatterbot India submitting transactions
+2024-10-14 14:01:57.004968 Quebec: We should drop India
+ChatterBot Mike reevaluating
+2024-10-14 14:01:57.011285 Mike: No
+2024-10-14 14:01:57.016474 India: We should drop Yankee
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:57.043271 Mike: Yes
+2024-10-14 14:01:57.043387 Charlie: Yes
+2024-10-14 14:01:57.043499 Delta: No
+2024-10-14 14:01:57.043607 Kilo: Yes
+2024-10-14 14:01:57.043726 Whiskey: No
+2024-10-14 14:01:57.043894 Romeo: No
+2024-10-14 14:01:57.044005 Bravo: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:01:57.281671 Delta: Romeo, Kilo, Whiskey and Bravo, sending you 1
+2024-10-14 14:01:57.285810 Mike: Romeo we want you to join our group
+2024-10-14 14:01:57.290998 Romeo: No
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:57.318974 Delta: Yankee, India, Charlie and Mike, sending you 2
+2024-10-14 14:01:57.322668 Bravo: Romeo, sending you 5
+2024-10-14 14:01:57.325229 Quebec: Sending you 11
+2024-10-14 14:01:57.325635 Romeo: India, sending you 3
+2024-10-14 14:01:57.327661 Bravo: Yankee, India and Charlie, sending you 2
+2024-10-14 14:01:57.330709 Romeo: Charlie, Delta, Kilo and Whiskey, sending you 2
+2024-10-14 14:01:57.332665 Charlie: Romeo, India, Delta, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:01:57.333683 Bravo: Delta, Kilo and Whiskey, sending you 1
+2024-10-14 14:01:57.335635 India: Romeo, Charlie, Delta, Kilo and Bravo, sending you 2
+2024-10-14 14:01:57.336350 Romeo: Bravo, sending you 4
+2024-10-14 14:01:57.338152 Charlie: Kilo, sending you 4
+2024-10-14 14:01:57.338862 Kilo: Romeo, India, Charlie and Delta, sending you 2
+2024-10-14 14:01:57.340693 India: Whiskey, sending you 3
+2024-10-14 14:01:57.341967 Romeo: Mike, sending you 1
+2024-10-14 14:01:57.344685 Kilo: Whiskey, sending you 3
+2024-10-14 14:01:57.345697 India: Mike, sending you 4
+2024-10-14 14:01:57.348693 Kilo: Bravo and Mike, sending you 1
+2024-10-14 14:01:57.355663 Mike: Yankee, sending you 1
+2024-10-14 14:01:57.359679 Mike: India, sending you 7
+2024-10-14 14:01:57.364701 Mike: Charlie and Kilo, sending you 2
+2024-10-14 14:01:57.367671 Mike: Delta, sending you 5
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 7
+ChatterBot Yankee round 7
+ChatterBot India round 7
+ChatterBot Charlie round 7
+ChatterBot Delta round 7
+ChatterBot Kilo round 7
+ChatterBot Whiskey round 7
+ChatterBot Quebec round 7
+ChatterBot Bravo round 7
+ChatterBot Mike round 7
+2024-10-14 14:01:58.603119 Mike: We should replace Yankee with Bravo
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:58.634276 India: Yes
+2024-10-14 14:01:58.634540 Charlie: Yes
+2024-10-14 14:01:58.635268 Delta: No
+2024-10-14 14:01:58.635480 Kilo: Yes
+2024-10-14 14:01:58.635638 Whiskey: No
+2024-10-14 14:01:58.635796 Romeo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:58.817456 Yankee: We should add Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:01:58.844529 India: Yes
+2024-10-14 14:01:58.844658 Charlie: Yes
+2024-10-14 14:01:58.844757 Delta: Yes
+2024-10-14 14:01:58.844849 Kilo: Yes
+2024-10-14 14:01:58.844950 Whiskey: Yes
+2024-10-14 14:01:58.845039 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:59.037683 Mike: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:59.045265 Bravo: Yes
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:01:59.077082 Bravo: We should add Mike
+2024-10-14 14:01:59.077557 Charlie: We should add Yankee
+2024-10-14 14:01:59.077907 Romeo: We should replace Mike with Yankee
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:01:59.121274 Yankee: Yes
+2024-10-14 14:01:59.121483 Romeo: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 14:01:59.128357 India: Yes
+2024-10-14 14:01:59.134192 Delta: Yes
+2024-10-14 14:01:59.140104 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:59.153060 Kilo: Yes
+2024-10-14 14:01:59.159675 Charlie: Yes
+2024-10-14 14:01:59.159996 Mike: No
+2024-10-14 14:01:59.160171 Romeo: Yes
+2024-10-14 14:01:59.160804 India: No
+2024-10-14 14:01:59.166508 Delta: Yes
+2024-10-14 14:01:59.172393 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:59.179344 Bravo: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:59.186215 Kilo: No
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:01:59.207487 India: No
+2024-10-14 14:01:59.215580 Delta: No
+2024-10-14 14:01:59.222138 Whiskey: No
+ChatterBot Whiskey reevaluating
+2024-10-14 14:01:59.230537 Bravo: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 14:01:59.238894 Kilo: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 14:01:59.259104 Charlie: No
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:00.198331 Romeo: We should replace Kilo with Yankee
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:00.237516 India: No
+2024-10-14 14:02:00.237734 Charlie: No
+2024-10-14 14:02:00.238222 Delta: No
+2024-10-14 14:02:00.238366 Whiskey: No
+2024-10-14 14:02:00.238505 Mike: Yes
+2024-10-14 14:02:00.238661 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+chatterbot Kilo submitting transactions
+2024-10-14 14:02:00.471869 Kilo: We should replace India with Yankee
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:00.502855 Charlie: No
+2024-10-14 14:02:00.503270 Delta: No
+2024-10-14 14:02:00.504045 Whiskey: No
+2024-10-14 14:02:00.504354 Mike: No
+2024-10-14 14:02:00.504571 Romeo: No
+2024-10-14 14:02:00.504988 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:00.705131 Mike: We should replace Kilo with Bravo
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:00.746279 Yankee: No
+2024-10-14 14:02:00.746448 India: No
+2024-10-14 14:02:00.746570 Charlie: No
+2024-10-14 14:02:00.746697 Delta: No
+2024-10-14 14:02:00.747311 Whiskey: No
+2024-10-14 14:02:00.747504 Romeo: Yes
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:01.030708 Quebec: Sending you 15
+2024-10-14 14:02:01.032292 Delta: Romeo, Kilo, Whiskey and Bravo, sending you 1
+2024-10-14 14:02:01.037186 Kilo: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:01.046752 Yankee: No
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 14:02:01.087114 Delta: Yankee, India, Charlie and Mike, sending you 2
+2024-10-14 14:02:01.089923 Bravo: Mike we want you to join our group
+2024-10-14 14:02:01.095918 Mike: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:01.137751 Charlie: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:01.145663 Yankee: No
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+chatterbot Yankee submitting transactions
+2024-10-14 14:02:01.196155 Romeo: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:01.203754 Yankee: No
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-14 14:02:01.250903 Bravo: Romeo, sending you 4
+2024-10-14 14:02:01.255888 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:01.261331 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:01.300899 Bravo: Yankee, India and Charlie, sending you 2
+2024-10-14 14:02:01.302450 Romeo: Yankee, India, Charlie, Delta, Kilo and Whiskey, sending you 2
+chatterbot Bravo submitting transactions
+2024-10-14 14:02:01.305693 Bravo: Delta, Kilo, Whiskey and Mike, sending you 1
+2024-10-14 14:02:01.307862 Romeo: Bravo, sending you 4
+2024-10-14 14:02:01.321678 Kilo: Romeo, Charlie, Delta and Whiskey, sending you 2
+2024-10-14 14:02:01.328912 Kilo: Yankee, sending you 3
+2024-10-14 14:02:01.329956 Charlie: Romeo, Yankee, India, Delta, Kilo, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:02:01.334679 Kilo: Bravo and Mike, sending you 1
+2024-10-14 14:02:01.335998 Mike: Romeo and Whiskey, sending you 1
+2024-10-14 14:02:01.341674 Mike: India, sending you 6
+2024-10-14 14:02:01.349002 Mike: Charlie, sending you 3
+2024-10-14 14:02:01.353675 Mike: Delta, sending you 4
+2024-10-14 14:02:01.359742 Mike: Kilo, sending you 2
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 8
+ChatterBot Yankee round 8
+ChatterBot India round 8
+ChatterBot Charlie round 8
+ChatterBot Delta round 8
+ChatterBot Kilo round 8
+ChatterBot Whiskey round 8
+ChatterBot Quebec round 8
+ChatterBot Bravo round 8
+ChatterBot Mike round 8
+2024-10-14 14:02:02.506007 Romeo: We should replace Yankee with Mike
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:02.533345 India: Yes
+2024-10-14 14:02:02.534067 Charlie: Yes
+2024-10-14 14:02:02.534218 Delta: No
+2024-10-14 14:02:02.534354 Kilo: Yes
+2024-10-14 14:02:02.534480 Whiskey: No
+2024-10-14 14:02:02.534602 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:02.785463 Mike: We should replace Kilo with Yankee
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:02.814599 Romeo: No
+2024-10-14 14:02:02.815323 India: No
+2024-10-14 14:02:02.815442 Charlie: No
+2024-10-14 14:02:02.815537 Delta: No
+2024-10-14 14:02:02.815641 Whiskey: No
+2024-10-14 14:02:02.815738 Bravo: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:03.160042 Romeo: We should replace Kilo with Mike
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:03.211345 Yankee: No
+2024-10-14 14:02:03.211678 India: No
+2024-10-14 14:02:03.212298 Charlie: Yes
+2024-10-14 14:02:03.212454 Delta: No
+2024-10-14 14:02:03.212603 Whiskey: No
+2024-10-14 14:02:03.212773 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:03.561929 Kilo: We should replace Yankee with India
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:03.597673 Charlie: No
+2024-10-14 14:02:03.597877 Delta: No
+2024-10-14 14:02:03.598175 Whiskey: No
+2024-10-14 14:02:03.598296 Mike: Yes
+2024-10-14 14:02:03.599103 Romeo: Yes
+2024-10-14 14:02:03.599209 Bravo: No
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:03.887072 Charlie: We should drop Yankee
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:03.926529 Mike: Yes
+2024-10-14 14:02:03.926732 India: Yes
+2024-10-14 14:02:03.926894 Delta: No
+2024-10-14 14:02:03.927051 Kilo: Yes
+2024-10-14 14:02:03.927213 Whiskey: No
+2024-10-14 14:02:03.927378 Romeo: Yes
+2024-10-14 14:02:03.927550 Bravo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:04.246841 Kilo: India we want you to join our group
+2024-10-14 14:02:04.252260 India: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:04.281093 Quebec: I was attacked by Yankee
+2024-10-14 14:02:04.281335 Quebec: I'm keeping this round to protect myself
+2024-10-14 14:02:04.281441 Quebec: Ow
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+2024-10-14 14:02:04.284656 Romeo: Mike we want you to join our group
+2024-10-14 14:02:04.290161 Mike: Yes
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:04.327687 Kilo: Romeo, Charlie, Delta and Whiskey, sending you 2
+2024-10-14 14:02:04.331074 Mike: Romeo, Whiskey and Bravo, sending you 1
+2024-10-14 14:02:04.332669 Charlie: Romeo, Delta, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:02:04.334901 Kilo: India, sending you 3
+2024-10-14 14:02:04.335900 Mike: India, sending you 6
+2024-10-14 14:02:04.339454 Charlie: India and Kilo, sending you 3
+2024-10-14 14:02:04.340544 Kilo: Bravo and Mike, sending you 1
+2024-10-14 14:02:04.342200 Mike: Charlie and Delta, sending you 3
+2024-10-14 14:02:04.343937 Bravo: Romeo, sending you 4
+2024-10-14 14:02:04.346681 Mike: Kilo, sending you 2
+2024-10-14 14:02:04.348769 Bravo: India, sending you 3
+2024-10-14 14:02:04.351695 Delta: Romeo, India, Charlie, Kilo, Whiskey and Mike, sending you 2
+2024-10-14 14:02:04.353672 Romeo: India, sending you 3
+2024-10-14 14:02:04.355751 Bravo: Charlie and Whiskey, sending you 2
+2024-10-14 14:02:04.359679 Romeo: Charlie, Delta, Kilo and Whiskey, sending you 2
+2024-10-14 14:02:04.361902 Bravo: Delta, Kilo and Mike, sending you 1
+2024-10-14 14:02:04.365661 Romeo: Bravo, sending you 4
+2024-10-14 14:02:04.371677 Romeo: Mike, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 9
+ChatterBot Yankee round 9
+ChatterBot India round 9
+ChatterBot Charlie round 9
+ChatterBot Delta round 9
+ChatterBot Kilo round 9
+ChatterBot Whiskey round 9
+ChatterBot Quebec round 9
+ChatterBot Bravo round 9
+ChatterBot Mike round 9
+2024-10-14 14:02:05.784754 Yankee: We should add Romeo and Bravo
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:05.820751 India: No
+2024-10-14 14:02:05.820977 Charlie: No
+2024-10-14 14:02:05.821169 Delta: No
+2024-10-14 14:02:05.821431 Kilo: No
+2024-10-14 14:02:05.822116 Whiskey: No
+2024-10-14 14:02:05.822339 Mike: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:06.035754 Bravo: We should replace Romeo with Quebec
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:06.058591 Charlie: No
+2024-10-14 14:02:06.058726 India: No
+2024-10-14 14:02:06.058829 Delta: No
+2024-10-14 14:02:06.058922 Kilo: Yes
+2024-10-14 14:02:06.059016 Whiskey: No
+2024-10-14 14:02:06.059155 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:06.311236 Yankee: We should add Quebec
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:06.332510 India: No
+2024-10-14 14:02:06.332653 Charlie: No
+2024-10-14 14:02:06.332765 Delta: No
+2024-10-14 14:02:06.332870 Kilo: Yes
+2024-10-14 14:02:06.332971 Whiskey: No
+2024-10-14 14:02:06.333072 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:06.474260 Whiskey: We should replace Yankee with Quebec
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:06.490778 India: Yes
+2024-10-14 14:02:06.491340 Charlie: Yes
+2024-10-14 14:02:06.491444 Delta: No
+2024-10-14 14:02:06.491543 Kilo: Yes
+2024-10-14 14:02:06.491653 Mike: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:06.590695 Bravo: Quebec we want you to join our group
+2024-10-14 14:02:06.598159 Quebec: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:06.637766 Yankee: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:02:06.646438 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:06.754897 Yankee: We should add Bravo and Quebec
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:06.780771 India: No
+2024-10-14 14:02:06.781055 Charlie: No
+2024-10-14 14:02:06.782391 Delta: No
+2024-10-14 14:02:06.782693 Kilo: No
+2024-10-14 14:02:06.782908 Whiskey: No
+2024-10-14 14:02:06.783099 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:06.973026 Charlie: We should drop Romeo and Bravo
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:06.991141 Whiskey: Yes
+2024-10-14 14:02:06.991328 India: Yes
+2024-10-14 14:02:06.991912 Delta: Yes
+2024-10-14 14:02:06.992060 Kilo: Yes
+2024-10-14 14:02:06.992210 Mike: No
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:07.084551 Mike: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:02:07.089897 Quebec: No
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:07.116197 Romeo: Sending you 16
+2024-10-14 14:02:07.116804 Yankee: Romeo and Bravo we want you to join our group
+2024-10-14 14:02:07.127294 Romeo: No
+2024-10-14 14:02:07.127438 Bravo: No
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:07.191513 Whiskey: We should drop Yankee
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:07.211853 India: Yes
+2024-10-14 14:02:07.211987 Charlie: Yes
+2024-10-14 14:02:07.212109 Delta: Yes
+2024-10-14 14:02:07.212205 Kilo: Yes
+2024-10-14 14:02:07.212301 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 14:02:07.408967 Bravo: India, sending you 4
+2024-10-14 14:02:07.425717 Bravo: Charlie, sending you 3
+2024-10-14 14:02:07.429681 Quebec: India, Charlie, Delta and Whiskey, sending you 1
+2024-10-14 14:02:07.434947 Bravo: Delta, Quebec and Mike, sending you 1
+2024-10-14 14:02:07.437895 Kilo: India and Delta, sending you 3
+2024-10-14 14:02:07.443973 Quebec: Mike, sending you 4
+2024-10-14 14:02:07.446542 Bravo: Kilo and Whiskey, sending you 2
+2024-10-14 14:02:07.452287 Kilo: Charlie, sending you 4
+2024-10-14 14:02:07.455591 Charlie: India, Delta, Whiskey and Mike, sending you 3
+2024-10-14 14:02:07.460214 Kilo: Quebec, sending you 1
+2024-10-14 14:02:07.499949 Charlie: Kilo, sending you 4
+2024-10-14 14:02:07.504791 Kilo: Mike, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+ChatterBot Romeo round 10
+ChatterBot Yankee round 10
+ChatterBot India round 10
+ChatterBot Charlie round 10
+ChatterBot Delta round 10
+ChatterBot Kilo round 10
+ChatterBot Whiskey round 10
+ChatterBot Quebec round 10
+ChatterBot Bravo round 10
+ChatterBot Mike round 10
+2024-10-14 14:02:08.724987 India: We should replace Delta with Yankee
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:08.765864 Charlie: Yes
+2024-10-14 14:02:08.766173 Kilo: No
+2024-10-14 14:02:08.766451 Whiskey: Yes
+2024-10-14 14:02:08.766747 Romeo: No
+2024-10-14 14:02:08.767068 Bravo: Yes
+2024-10-14 14:02:08.768890 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:08.988020 Yankee: We should replace Delta with Bravo
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:09.014229 India: Yes
+2024-10-14 14:02:09.014352 Charlie: Yes
+2024-10-14 14:02:09.014448 Kilo: No
+2024-10-14 14:02:09.014542 Whiskey: Yes
+2024-10-14 14:02:09.014652 Mike: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:09.161304 Delta: Friends?
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:09.180062 Quebec: No
+2024-10-14 14:02:09.180254 Mike: Yes
+2024-10-14 14:02:09.180407 Romeo: No
+2024-10-14 14:02:09.180506 Bravo: No
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:09.255522 India: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:09.299767 Yankee: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:09.393137 Mike: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:09.402486 Yankee: Yes
+2024-10-14 14:02:09.440540 Quebec: Delta, sending you 2
+2024-10-14 14:02:09.475940 Quebec: Bravo, sending you 5
+2024-10-14 14:02:09.477600 Kilo: Yankee, sending you 4
+2024-10-14 14:02:09.479362 Mike: India, sending you 8
+2024-10-14 14:02:09.481556 Charlie: Romeo, Yankee, India, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:02:09.484579 Quebec: Mike, sending you 8
+2024-10-14 14:02:09.485114 Kilo: India, Charlie and Whiskey, sending you 3
+2024-10-14 14:02:09.487774 Mike: Charlie, sending you 4
+2024-10-14 14:02:09.490038 Charlie: Kilo, sending you 4
+2024-10-14 14:02:09.538408 Mike: Kilo, sending you 3
+2024-10-14 14:02:09.545783 Mike: Whiskey, sending you 2
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 11
+ChatterBot Yankee round 11
+ChatterBot India round 11
+ChatterBot Charlie round 11
+ChatterBot Delta round 11
+ChatterBot Kilo round 11
+ChatterBot Whiskey round 11
+ChatterBot Quebec round 11
+ChatterBot Bravo round 11
+ChatterBot Mike round 11
+2024-10-14 14:02:10.788774 Yankee: We should replace Delta with Bravo
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:10.810362 India: No
+2024-10-14 14:02:10.810575 Charlie: No
+2024-10-14 14:02:10.810710 Kilo: No
+2024-10-14 14:02:10.810846 Whiskey: Yes
+2024-10-14 14:02:10.811343 Mike: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:10.933034 Delta: We should add Yankee
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:10.966175 Whiskey: Yes
+2024-10-14 14:02:10.966357 India: No
+2024-10-14 14:02:10.966496 Charlie: No
+2024-10-14 14:02:10.966651 Kilo: No
+2024-10-14 14:02:10.966794 Mike: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:11.138369 India: We should replace Romeo with Quebec
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:11.170648 Charlie: Yes
+2024-10-14 14:02:11.170943 Delta: No
+2024-10-14 14:02:11.171103 Kilo: Yes
+2024-10-14 14:02:11.171877 Whiskey: No
+2024-10-14 14:02:11.172100 Mike: Yes
+2024-10-14 14:02:11.172258 Bravo: No
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:11.496066 Romeo: We should drop Charlie and Whiskey
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 14:02:11.518858 Yankee: No
+2024-10-14 14:02:11.519014 Bravo: No
+2024-10-14 14:02:11.519146 India: No
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:11.634746 Bravo: We should drop Romeo
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:11.658726 Yankee: Yes
+2024-10-14 14:02:11.658960 India: Yes
+2024-10-14 14:02:11.659477 Charlie: Yes
+2024-10-14 14:02:11.659596 Kilo: Yes
+2024-10-14 14:02:11.659715 Whiskey: Yes
+2024-10-14 14:02:11.659827 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:11.850341 Quebec: India and Delta, sending you 2
+2024-10-14 14:02:11.853587 Delta: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:11.863776 Yankee: No
+ChatterBot Charlie reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:11.957398 Quebec: Kilo, sending you 4
+2024-10-14 14:02:11.959341 India: We should drop Romeo and Bravo
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:12.009981 Whiskey: Yes
+2024-10-14 14:02:12.010440 Charlie: Yes
+2024-10-14 14:02:12.011178 Delta: Yes
+2024-10-14 14:02:12.011457 Kilo: Yes
+2024-10-14 14:02:12.011831 Mike: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:12.136776 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:12.145011 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:12.176042 Romeo: Yankee, sending you 4
+2024-10-14 14:02:12.178140 Quebec: Whiskey, sending you 1
+chatterbot Bravo submitting transactions
+2024-10-14 14:02:12.182490 Romeo: India and Bravo, sending you 6
+2024-10-14 14:02:12.239802 Quebec: Mike, sending you 6
+2024-10-14 14:02:12.241816 Bravo: Yankee and Mike, sending you 1
+2024-10-14 14:02:12.242504 India: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:02:12.248064 Quebec: No
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:12.275748 Quebec: We should replace Whiskey with Charlie
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:12.290920 India: No
+2024-10-14 14:02:12.291046 Delta: No
+2024-10-14 14:02:12.291178 Kilo: No
+2024-10-14 14:02:12.291290 Mike: No
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:12.356829 Bravo: India, sending you 4
+chatterbot Quebec submitting transactions
+2024-10-14 14:02:12.361951 Charlie: India, Delta, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:02:12.407393 Bravo: Charlie and Whiskey, sending you 3
+2024-10-14 14:02:12.412653 Quebec: Charlie we want you to join our group
+2024-10-14 14:02:12.419283 Charlie: Yes
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:02:12.445295 Charlie: Kilo, sending you 4
+2024-10-14 14:02:12.449076 Bravo: Kilo, sending you 2
+2024-10-14 14:02:12.453232 Charlie: Quebec, sending you 1
+2024-10-14 14:02:12.477967 Kilo: India and Delta, sending you 3
+2024-10-14 14:02:12.511756 Kilo: Charlie, sending you 4
+2024-10-14 14:02:12.515452 Quebec: Sorry, I'm actually sending you 0
+2024-10-14 14:02:12.536534 Kilo: Quebec, sending you 1
+2024-10-14 14:02:12.620995 Quebec: Charlie, sending you 1
+2024-10-14 14:02:12.625422 Kilo: Mike, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 12
+ChatterBot Yankee round 12
+ChatterBot India round 12
+ChatterBot Charlie round 12
+ChatterBot Delta round 12
+ChatterBot Kilo round 12
+ChatterBot Whiskey round 12
+ChatterBot Quebec round 12
+ChatterBot Bravo round 12
+ChatterBot Mike round 12
+2024-10-14 14:02:13.677315 Delta: We should add Quebec
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:13.730815 Yankee: No
+2024-10-14 14:02:13.731005 India: No
+2024-10-14 14:02:13.731160 Charlie: No
+2024-10-14 14:02:13.731355 Kilo: No
+2024-10-14 14:02:13.731486 Whiskey: No
+2024-10-14 14:02:13.732128 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:13.953799 Quebec: We should drop India and Charlie
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:13.967687 Delta: No
+2024-10-14 14:02:13.967810 Mike: No
+2024-10-14 14:02:13.967915 Kilo: No
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 14:02:14.113848 Delta: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:02:14.122640 Quebec: No
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:14.166714 Yankee: Can we be friends?
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:14.206008 India: No
+2024-10-14 14:02:14.206193 Charlie: No
+2024-10-14 14:02:14.206919 Kilo: No
+2024-10-14 14:02:14.207177 Whiskey: Yes
+2024-10-14 14:02:14.207390 Quebec: No
+2024-10-14 14:02:14.207623 Mike: No
+2024-10-14 14:02:14.207741 Bravo: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:14.507394 Romeo: I was attacked by Yankee and Delta
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:14.545022 Romeo: I'm keeping this round to protect myself
+2024-10-14 14:02:14.548586 Romeo: Ow
+2024-10-14 14:02:14.550879 Quebec: We should add Yankee and Whiskey
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:14.584979 Kilo: No
+2024-10-14 14:02:14.585522 India: Yes
+2024-10-14 14:02:14.585699 Charlie: Yes
+2024-10-14 14:02:14.585873 Delta: Yes
+2024-10-14 14:02:14.586070 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:02:15.064376 Delta: Yankee and Quebec, sending you 1
+chatterbot Bravo submitting transactions
+2024-10-14 14:02:15.214121 Bravo: Yankee, sending you 2
+2024-10-14 14:02:15.218542 Delta: India, Charlie, Kilo, Whiskey and Mike, sending you 2
+2024-10-14 14:02:15.222234 Mike: India, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 14:02:15.225692 Bravo: India, sending you 4
+2024-10-14 14:02:15.351278 Charlie: Romeo, Yankee, India, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:02:15.355026 Mike: Charlie and Kilo, sending you 1
+2024-10-14 14:02:15.357301 Quebec: India, sending you 6
+2024-10-14 14:02:15.361199 Kilo: Yankee, India and Whiskey, sending you 3
+2024-10-14 14:02:15.363455 Bravo: Charlie and Whiskey, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 14:02:15.367329 Charlie: Kilo, sending you 4
+2024-10-14 14:02:15.371016 Quebec: Charlie, sending you 3
+2024-10-14 14:02:15.372385 Kilo: Charlie, sending you 4
+2024-10-14 14:02:15.374633 Bravo: Kilo and Mike, sending you 1
+chatterbot Bravo submitting transactions
+2024-10-14 14:02:15.377504 Quebec: Kilo, sending you 4
+2024-10-14 14:02:15.410278 Quebec: Whiskey, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+ChatterBot Romeo round 13
+ChatterBot Yankee round 13
+ChatterBot India round 13
+ChatterBot Charlie round 13
+ChatterBot Delta round 13
+ChatterBot Kilo round 13
+ChatterBot Whiskey round 13
+ChatterBot Quebec round 13
+ChatterBot Bravo round 13
+ChatterBot Mike round 13
+2024-10-14 14:02:16.124766 India: We should replace Delta with Yankee
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:16.249902 Charlie: Yes
+2024-10-14 14:02:16.250177 Kilo: Yes
+2024-10-14 14:02:16.250444 Whiskey: Yes
+2024-10-14 14:02:16.251302 Romeo: No
+2024-10-14 14:02:16.251585 Bravo: Yes
+2024-10-14 14:02:16.251824 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:16.432861 Mike: We should add Romeo and Bravo
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:16.456475 Yankee: Yes
+2024-10-14 14:02:16.456671 India: Yes
+2024-10-14 14:02:16.456791 Charlie: Yes
+2024-10-14 14:02:16.456890 Kilo: No
+2024-10-14 14:02:16.456995 Whiskey: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:16.589830 Romeo: We should replace Kilo with Yankee
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:16.611844 India: No
+2024-10-14 14:02:16.612003 Charlie: No
+2024-10-14 14:02:16.612104 Whiskey: No
+2024-10-14 14:02:16.612199 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:16.706987 India: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:16.714177 Yankee: No
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:16.992469 Mike: Romeo and Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:17.013561 Romeo: No
+2024-10-14 14:02:17.013849 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:17.084750 Bravo: We should add Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:17.111234 Yankee: Yes
+2024-10-14 14:02:17.111404 India: Yes
+2024-10-14 14:02:17.111543 Charlie: Yes
+2024-10-14 14:02:17.111689 Kilo: No
+2024-10-14 14:02:17.111856 Whiskey: Yes
+2024-10-14 14:02:17.112002 Mike: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:17.312740 Delta: I was attacked by Yankee and Mike
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:17.371908 Delta: Ow
+2024-10-14 14:02:17.434062 Quebec: India, sending you 6
+2024-10-14 14:02:17.440268 Kilo: Bravo we want you to join our group
+2024-10-14 14:02:17.453625 Bravo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:17.480957 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:17.490651 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:17.537626 Romeo: We should add Yankee
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:17.574087 India: Yes
+2024-10-14 14:02:17.574321 Charlie: Yes
+2024-10-14 14:02:17.574488 Kilo: Yes
+2024-10-14 14:02:17.574631 Whiskey: Yes
+2024-10-14 14:02:17.574772 Bravo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:17.828751 Quebec: Delta, sending you 5
+chatterbot India submitting transactions
+2024-10-14 14:02:17.848151 Quebec: Mike, sending you 4
+2024-10-14 14:02:17.882143 Charlie: Romeo, sending you 1
+2024-10-14 14:02:17.888097 Bravo: Romeo, India and Whiskey, sending you 2
+2024-10-14 14:02:17.893421 Charlie: Yankee, Whiskey, Bravo and Mike, sending you 2
+2024-10-14 14:02:17.938234 Kilo: Romeo, sending you 1
+2024-10-14 14:02:17.943068 Mike: India, sending you 7
+2024-10-14 14:02:17.945963 Bravo: Yankee, Kilo and Mike, sending you 1
+2024-10-14 14:02:17.949584 Romeo: India, Charlie, Kilo and Whiskey, sending you 3
+2024-10-14 14:02:17.953605 Charlie: India and Kilo, sending you 3
+2024-10-14 14:02:17.956508 Kilo: Yankee and Whiskey, sending you 3
+2024-10-14 14:02:17.957324 Mike: Charlie, sending you 4
+2024-10-14 14:02:17.959492 Bravo: Charlie, sending you 3
+2024-10-14 14:02:17.963082 Romeo: Bravo, sending you 4
+2024-10-14 14:02:17.964602 Kilo: Charlie, sending you 4
+2024-10-14 14:02:17.965777 Mike: Kilo, Whiskey and Bravo, sending you 2
+2024-10-14 14:02:17.995726 Kilo: Bravo, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot India submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 14
+ChatterBot Yankee round 14
+ChatterBot India round 14
+ChatterBot Charlie round 14
+ChatterBot Delta round 14
+ChatterBot Kilo round 14
+ChatterBot Whiskey round 14
+ChatterBot Quebec round 14
+ChatterBot Bravo round 14
+ChatterBot Mike round 14
+2024-10-14 14:02:19.320826 Romeo: We should add Yankee
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:19.356391 India: Yes
+2024-10-14 14:02:19.357284 Charlie: Yes
+2024-10-14 14:02:19.360015 Kilo: Yes
+2024-10-14 14:02:19.360437 Whiskey: Yes
+2024-10-14 14:02:19.360931 Bravo: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:19.592268 Romeo: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:19.601239 Yankee: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:19.733184 Charlie: We should drop Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:19.768110 Bravo: No
+2024-10-14 14:02:19.768303 Yankee: No
+2024-10-14 14:02:19.768445 India: Yes
+2024-10-14 14:02:19.768587 Kilo: Yes
+2024-10-14 14:02:19.768729 Whiskey: No
+2024-10-14 14:02:19.769240 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:20.070672 Delta: I was attacked by Yankee
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:20.119441 Delta: I'm keeping this round to protect myself
+2024-10-14 14:02:20.130924 Delta: Ow
+2024-10-14 14:02:20.133039 Whiskey: We should replace Delta with Bravo
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:20.160873 Yankee: Yes
+2024-10-14 14:02:20.161020 India: Yes
+2024-10-14 14:02:20.161171 Charlie: Yes
+2024-10-14 14:02:20.161368 Kilo: No
+2024-10-14 14:02:20.161569 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:20.306091 Quebec: I was attacked by Delta
+2024-10-14 14:02:20.306993 Quebec: I'm keeping this round to protect myself
+2024-10-14 14:02:20.307485 Quebec: Ow
+2024-10-14 14:02:20.348915 Yankee: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:20.364098 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:20.488820 Romeo: Yankee and Kilo, sending you 2
+2024-10-14 14:02:20.494177 Mike: India, sending you 2
+2024-10-14 14:02:20.499208 Romeo: India, Charlie, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:20.504099 Mike: Charlie and Whiskey, sending you 1
+2024-10-14 14:02:20.547569 Charlie: Yankee, sending you 1
+2024-10-14 14:02:20.562637 Kilo: Yankee, sending you 3
+2024-10-14 14:02:20.566994 Charlie: India, Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:20.611885 Kilo: Charlie and Whiskey, sending you 4
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:20.695455 Kilo: Bravo, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Romeo round 15
+ChatterBot Yankee round 15
+ChatterBot India round 15
+ChatterBot Charlie round 15
+ChatterBot Delta round 15
+ChatterBot Kilo round 15
+ChatterBot Whiskey round 15
+ChatterBot Quebec round 15
+ChatterBot Bravo round 15
+ChatterBot Mike round 15
+2024-10-14 14:02:22.064394 Kilo: We should replace Bravo with India
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:22.083745 Yankee: No
+2024-10-14 14:02:22.084343 Charlie: No
+2024-10-14 14:02:22.084472 Whiskey: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:22.138299 Yankee: We should replace Delta with Bravo
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:22.178314 India: Yes
+2024-10-14 14:02:22.178504 Charlie: Yes
+2024-10-14 14:02:22.178652 Kilo: Yes
+2024-10-14 14:02:22.178798 Whiskey: Yes
+2024-10-14 14:02:22.179363 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:22.339769 Mike: We should add Romeo
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:22.369930 Bravo: Yes
+2024-10-14 14:02:22.370081 Yankee: Yes
+2024-10-14 14:02:22.370209 India: No
+2024-10-14 14:02:22.370308 Charlie: No
+2024-10-14 14:02:22.370764 Kilo: No
+2024-10-14 14:02:22.370862 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:22.883324 Yankee: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:22.897057 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:22.931758 Kilo: We should replace Charlie with India
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:22.954041 Yankee: No
+2024-10-14 14:02:22.954177 Whiskey: No
+2024-10-14 14:02:22.954342 Bravo: No
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:23.009417 Delta: I was attacked by Mike
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:23.055779 Delta: I'm keeping this round to protect myself
+2024-10-14 14:02:23.066479 Delta: Ow
+chatterbot Charlie submitting transactions
+2024-10-14 14:02:23.161909 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:23.174391 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:23.212511 Mike: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:23.225518 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:23.595320 Mike: India, sending you 7
+2024-10-14 14:02:23.599199 Kilo: Yankee and Whiskey, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+2024-10-14 14:02:23.682373 Romeo: Yankee and Kilo, sending you 2
+2024-10-14 14:02:23.688216 Mike: Charlie, sending you 4
+2024-10-14 14:02:23.693318 Kilo: Charlie, sending you 5
+2024-10-14 14:02:23.696021 Charlie: Yankee and Mike, sending you 2
+chatterbot Charlie submitting transactions
+2024-10-14 14:02:23.700023 Romeo: India, Charlie, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:23.705899 Mike: Kilo, Whiskey and Bravo, sending you 2
+2024-10-14 14:02:23.709526 Kilo: Bravo, sending you 2
+2024-10-14 14:02:23.712714 Charlie: India, Kilo, Whiskey and Bravo, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 16
+ChatterBot Yankee round 16
+ChatterBot India round 16
+ChatterBot Charlie round 16
+ChatterBot Delta round 16
+ChatterBot Kilo round 16
+ChatterBot Whiskey round 16
+ChatterBot Quebec round 16
+ChatterBot Bravo round 16
+ChatterBot Mike round 16
+chatterbot India submitting transactions
+2024-10-14 14:02:24.702256 Yankee: We should replace Delta with Bravo
+ChatterBot India reevaluating
+2024-10-14 14:02:24.729098 India: Yes
+2024-10-14 14:02:24.729334 Charlie: Yes
+2024-10-14 14:02:24.729483 Kilo: Yes
+2024-10-14 14:02:24.729634 Whiskey: Yes
+2024-10-14 14:02:24.729790 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:24.886201 Bravo: We should add Romeo
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:24.915739 Yankee: Yes
+2024-10-14 14:02:24.915891 India: No
+2024-10-14 14:02:24.915999 Charlie: No
+2024-10-14 14:02:24.916491 Kilo: No
+2024-10-14 14:02:24.916592 Whiskey: Yes
+2024-10-14 14:02:24.916692 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:25.256860 Bravo: Romeo we want you to join our group
+2024-10-14 14:02:25.274021 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:25.418905 Charlie: Yankee, sending you 1
+2024-10-14 14:02:25.426048 Delta: Romeo, Whiskey and Bravo, sending you 1
+2024-10-14 14:02:25.433820 Romeo: Yankee and Kilo, sending you 2
+2024-10-14 14:02:25.440052 Mike: India, sending you 8
+2024-10-14 14:02:25.451720 Charlie: India, Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:25.458894 Delta: India, Charlie and Kilo, sending you 2
+2024-10-14 14:02:25.468306 Romeo: India, Charlie, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:25.475652 Mike: Charlie, sending you 4
+2024-10-14 14:02:25.483440 Kilo: Yankee and Whiskey, sending you 3
+chatterbot Delta submitting transactions
+2024-10-14 14:02:25.489170 Mike: Kilo, sending you 1
+2024-10-14 14:02:25.528602 Kilo: Charlie, sending you 5
+2024-10-14 14:02:25.534479 Mike: Whiskey and Bravo, sending you 2
+2024-10-14 14:02:25.543029 Kilo: Bravo, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 17
+ChatterBot Yankee round 17
+ChatterBot India round 17
+ChatterBot Charlie round 17
+ChatterBot Delta round 17
+ChatterBot Kilo round 17
+ChatterBot Whiskey round 17
+ChatterBot Quebec round 17
+ChatterBot Bravo round 17
+ChatterBot Mike round 17
+chatterbot India submitting transactions
+2024-10-14 14:02:26.624780 Delta: Group up?
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:26.636192 Romeo: No
+ChatterBot Delta reevaluating
+2024-10-14 14:02:26.683248 Bravo: We should add Romeo
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:26.712147 Yankee: Yes
+2024-10-14 14:02:26.712330 India: No
+2024-10-14 14:02:26.712504 Charlie: No
+2024-10-14 14:02:26.712632 Kilo: No
+2024-10-14 14:02:26.713530 Whiskey: Yes
+2024-10-14 14:02:26.713655 Mike: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:27.341071 Charlie: Yankee, sending you 1
+2024-10-14 14:02:27.346430 Mike: India, sending you 2
+2024-10-14 14:02:27.351352 Delta: Romeo, Yankee and Bravo, sending you 1
+chatterbot India submitting transactions
+2024-10-14 14:02:27.357916 Charlie: India, Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:27.363070 Mike: Charlie and Whiskey, sending you 1
+2024-10-14 14:02:27.370323 Kilo: Yankee and Whiskey, sending you 3
+2024-10-14 14:02:27.374817 Delta: India, Charlie and Whiskey, sending you 2
+2024-10-14 14:02:27.382590 Kilo: Charlie, sending you 5
+2024-10-14 14:02:27.475462 Delta: Kilo, sending you 3
+2024-10-14 14:02:27.487114 Kilo: Bravo, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 18
+ChatterBot Yankee round 18
+ChatterBot India round 18
+ChatterBot Charlie round 18
+ChatterBot Delta round 18
+ChatterBot Kilo round 18
+ChatterBot Whiskey round 18
+ChatterBot Quebec round 18
+ChatterBot Bravo round 18
+ChatterBot Mike round 18
+2024-10-14 14:02:28.530895 Kilo: We should add India
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:28.553554 Yankee: Yes
+2024-10-14 14:02:28.553721 Charlie: Yes
+2024-10-14 14:02:28.553837 Whiskey: Yes
+2024-10-14 14:02:28.553958 Bravo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:28.662522 Bravo: We should add Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:28.693987 Yankee: Yes
+2024-10-14 14:02:28.694137 India: Yes
+2024-10-14 14:02:28.694277 Charlie: Yes
+2024-10-14 14:02:28.694387 Kilo: Yes
+2024-10-14 14:02:28.694490 Whiskey: Yes
+2024-10-14 14:02:28.694587 Mike: Yes
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:29.095532 Delta: I was attacked by Mike
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:29.105204 Delta: Ow
+2024-10-14 14:02:29.109520 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:29.122877 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:29.167911 Mike: India, sending you 6
+2024-10-14 14:02:29.178518 Charlie: Romeo, sending you 1
+2024-10-14 14:02:29.186967 Mike: Charlie, sending you 5
+2024-10-14 14:02:29.203155 Charlie: Yankee, sending you 2
+2024-10-14 14:02:29.212422 Kilo: Romeo, sending you 1
+2024-10-14 14:02:29.222800 Mike: Kilo, sending you 1
+2024-10-14 14:02:29.227846 Charlie: India, Kilo, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:29.231578 Romeo: Yankee, India, Charlie and Kilo, sending you 2
+2024-10-14 14:02:29.237985 Kilo: Yankee and India, sending you 3
+2024-10-14 14:02:29.242472 Mike: Whiskey, sending you 3
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:29.248627 Romeo: Whiskey and Bravo, sending you 4
+2024-10-14 14:02:29.253320 Kilo: Charlie, sending you 4
+2024-10-14 14:02:29.256692 Mike: Bravo, sending you 2
+2024-10-14 14:02:29.259798 Kilo: Bravo, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 19
+ChatterBot Yankee round 19
+ChatterBot India round 19
+ChatterBot Charlie round 19
+ChatterBot Delta round 19
+ChatterBot Kilo round 19
+ChatterBot Whiskey round 19
+ChatterBot Quebec round 19
+ChatterBot Bravo round 19
+ChatterBot Mike round 19
+2024-10-14 14:02:30.822262 Kilo: We should replace Romeo with Whiskey
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:30.857572 Yankee: No
+2024-10-14 14:02:30.857836 India: No
+2024-10-14 14:02:30.857978 Charlie: No
+2024-10-14 14:02:30.858111 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:31.118728 Bravo: We should add Romeo
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:31.168318 Yankee: Yes
+2024-10-14 14:02:31.168621 India: Yes
+2024-10-14 14:02:31.168799 Charlie: Yes
+2024-10-14 14:02:31.168958 Kilo: No
+2024-10-14 14:02:31.169126 Whiskey: Yes
+2024-10-14 14:02:31.169735 Mike: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:31.509580 Kilo: We should replace Charlie with Whiskey
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:31.548757 Romeo: No
+2024-10-14 14:02:31.548975 Yankee: No
+2024-10-14 14:02:31.549176 India: No
+2024-10-14 14:02:31.549777 Bravo: No
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:31.673993 Mike: I was attacked by Delta
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:31.711948 Mike: I'm keeping this round to protect myself
+2024-10-14 14:02:31.724371 Mike: Ow
+chatterbot Charlie submitting transactions
+2024-10-14 14:02:31.736738 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:31.752988 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:33.489043 Kilo: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:33.507077 Whiskey: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Mike submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:02:33.564713 Kilo: Yankee, India, Charlie and Whiskey, sending you 3
+2024-10-14 14:02:33.574695 Charlie: Romeo and Yankee, sending you 2
+2024-10-14 14:02:33.583231 Kilo: Bravo, sending you 1
+2024-10-14 14:02:33.590865 Charlie: India, Kilo, Whiskey and Bravo, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Romeo round 20
+ChatterBot Yankee round 20
+ChatterBot India round 20
+ChatterBot Charlie round 20
+ChatterBot Delta round 20
+ChatterBot Kilo round 20
+ChatterBot Whiskey round 20
+ChatterBot Quebec round 20
+ChatterBot Bravo round 20
+ChatterBot Mike round 20
+chatterbot India submitting transactions
+2024-10-14 14:02:34.978294 Bravo: We should add Romeo
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:35.012530 Yankee: Yes
+2024-10-14 14:02:35.012803 India: Yes
+2024-10-14 14:02:35.012965 Charlie: Yes
+2024-10-14 14:02:35.013103 Kilo: No
+2024-10-14 14:02:35.013232 Whiskey: Yes
+2024-10-14 14:02:35.013360 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:35.217050 Charlie: We should add Mike
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:35.243828 Romeo: No
+2024-10-14 14:02:35.244537 Yankee: No
+2024-10-14 14:02:35.244677 India: Yes
+2024-10-14 14:02:35.244786 Kilo: No
+2024-10-14 14:02:35.244914 Whiskey: Yes
+2024-10-14 14:02:35.245017 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:35.598563 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:35.613183 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:35.676727 Charlie: Mike we want you to join our group
+2024-10-14 14:02:35.693855 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:35.747506 Yankee: We should replace Delta with Bravo
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:35.783906 India: Yes
+2024-10-14 14:02:35.784121 Charlie: Yes
+2024-10-14 14:02:35.784262 Kilo: Yes
+2024-10-14 14:02:35.784413 Whiskey: Yes
+2024-10-14 14:02:35.784554 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:35.974792 Mike: I was attacked by Romeo
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:36.013555 Mike: I'm keeping this round to protect myself
+2024-10-14 14:02:36.026393 Mike: Ow
+chatterbot Yankee submitting transactions
+2024-10-14 14:02:36.057636 Kilo: We should drop Charlie
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:36.092827 Yankee: No
+2024-10-14 14:02:36.093016 India: No
+2024-10-14 14:02:36.093158 Whiskey: No
+2024-10-14 14:02:36.093287 Bravo: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:36.229879 India: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:36.249377 Yankee: No
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:36.335955 Yankee: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:36.350931 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:36.581812 Romeo: Yankee and Kilo, sending you 2
+2024-10-14 14:02:36.595734 Mike: We should drop Romeo
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:36.648780 Bravo: Yes
+2024-10-14 14:02:36.649657 Yankee: Yes
+2024-10-14 14:02:36.649964 India: No
+2024-10-14 14:02:36.650194 Charlie: No
+2024-10-14 14:02:36.650450 Kilo: Yes
+2024-10-14 14:02:36.650739 Whiskey: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+chatterbot India submitting transactions
+2024-10-14 14:02:36.963319 Romeo: India, Charlie, Whiskey and Bravo, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 14:02:37.066032 Whiskey: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:37.083655 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:37.116333 India: We should group up
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:37.137723 Kilo: Yes
+2024-10-14 14:02:37.137863 Yankee: Yes
+2024-10-14 14:02:37.137969 Whiskey: Yes
+2024-10-14 14:02:37.138060 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot India reevaluating
+2024-10-14 14:02:37.311198 Kilo: Yankee and India, sending you 4
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:37.495065 Kilo: Whiskey, sending you 3
+2024-10-14 14:02:37.733964 Kilo: Bravo, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 21
+ChatterBot Yankee round 21
+ChatterBot India round 21
+ChatterBot Charlie round 21
+ChatterBot Delta round 21
+ChatterBot Kilo round 21
+ChatterBot Whiskey round 21
+ChatterBot Quebec round 21
+ChatterBot Bravo round 21
+ChatterBot Mike round 21
+chatterbot India submitting transactions
+2024-10-14 14:02:38.773923 Kilo: We should add Mike
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+2024-10-14 14:02:38.806723 Yankee: No
+2024-10-14 14:02:38.806960 India: Yes
+2024-10-14 14:02:38.807198 Whiskey: Yes
+2024-10-14 14:02:38.808981 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+2024-10-14 14:02:39.030786 Whiskey: We should replace Delta with Bravo
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:39.058534 Yankee: Yes
+2024-10-14 14:02:39.058806 India: Yes
+2024-10-14 14:02:39.059045 Charlie: Yes
+2024-10-14 14:02:39.059956 Kilo: Yes
+2024-10-14 14:02:39.060199 Mike: Yes
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:39.231381 Kilo: Mike we want you to join our group
+2024-10-14 14:02:39.253710 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot India reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:39.390831 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:39.408286 Bravo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:39.453928 Charlie: We should drop Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:39.499474 Bravo: Yes
+2024-10-14 14:02:39.499694 Yankee: Yes
+2024-10-14 14:02:39.499838 India: Yes
+2024-10-14 14:02:39.500 Kilo: Yes
+2024-10-14 14:02:39.500167 Whiskey: Yes
+2024-10-14 14:02:39.500348 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+chatterbot Kilo submitting transactions
+2024-10-14 14:02:39.844544 Kilo: Yankee, sending you 4
+2024-10-14 14:02:39.852469 Mike: India, Charlie, Whiskey and Bravo, sending you 1
+2024-10-14 14:02:39.864994 Romeo: Yankee, Charlie, Kilo and Whiskey, sending you 2
+chatterbot Delta submitting transactions
+2024-10-14 14:02:39.873559 Whiskey: Bravo we want you to join our group
+2024-10-14 14:02:39.924193 Bravo: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:40.019367 Kilo: India and Whiskey, sending you 3
+2024-10-14 14:02:40.023640 Romeo: India, sending you 4
+2024-10-14 14:02:40.031427 Charlie: Yankee, India, Kilo, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:40.041988 Kilo: Bravo, sending you 2
+2024-10-14 14:02:40.049327 Romeo: Bravo, sending you 3
+2024-10-14 14:02:40.060002 Charlie: Mike, sending you 1
+2024-10-14 14:02:40.066931 Kilo: Mike, sending you 1
+2024-10-14 14:02:40.076293 Romeo: Mike, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Romeo round 22
+ChatterBot Yankee round 22
+ChatterBot India round 22
+ChatterBot Charlie round 22
+ChatterBot Delta round 22
+ChatterBot Kilo round 22
+ChatterBot Whiskey round 22
+ChatterBot Quebec round 22
+ChatterBot Bravo round 22
+ChatterBot Mike round 22
+2024-10-14 14:02:41.655279 Yankee: We should replace Delta with Bravo
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:41.684421 India: Yes
+2024-10-14 14:02:41.684628 Charlie: Yes
+2024-10-14 14:02:41.684751 Kilo: Yes
+2024-10-14 14:02:41.684860 Whiskey: Yes
+2024-10-14 14:02:41.684967 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:41.840469 Kilo: We should add Charlie
+ChatterBot India reevaluating
+2024-10-14 14:02:41.884516 Yankee: Yes
+2024-10-14 14:02:41.884778 India: Yes
+2024-10-14 14:02:41.885319 Whiskey: Yes
+2024-10-14 14:02:41.885491 Bravo: Yes
+2024-10-14 14:02:41.885670 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 14:02:42.259913 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:42.275609 Bravo: Yes
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:42.330096 Whiskey: Bravo we want you to join our group
+2024-10-14 14:02:42.349040 Bravo: Yes
+2024-10-14 14:02:42.398477 Kilo: Charlie we want you to join our group
+2024-10-14 14:02:42.420390 Charlie: Yes
+2024-10-14 14:02:42.470299 Delta: I was attacked by Mike
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:42.479909 Delta: Ow
+2024-10-14 14:02:42.483917 Charlie: Yankee and Mike, sending you 2
+2024-10-14 14:02:42.508461 Romeo: We should drop Kilo
+2024-10-14 14:02:42.546092 India: No
+2024-10-14 14:02:42.546344 Whiskey: No
+2024-10-14 14:02:42.546533 Bravo: No
+2024-10-14 14:02:42.546709 Yankee: No
+2024-10-14 14:02:42.546880 Charlie: No
+2024-10-14 14:02:42.547037 Mike: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:42.766093 Charlie: India, Kilo, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:42.776909 Mike: India, Charlie, Whiskey and Bravo, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 23
+ChatterBot Yankee round 23
+ChatterBot India round 23
+ChatterBot Charlie round 23
+ChatterBot Delta round 23
+ChatterBot Kilo round 23
+ChatterBot Whiskey round 23
+ChatterBot Quebec round 23
+ChatterBot Bravo round 23
+ChatterBot Mike round 23
+2024-10-14 14:02:44.524633 Whiskey: We should replace Delta with Bravo
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:44.553352 Yankee: Yes
+2024-10-14 14:02:44.553531 India: Yes
+2024-10-14 14:02:44.553663 Charlie: Yes
+2024-10-14 14:02:44.553783 Kilo: Yes
+2024-10-14 14:02:44.553896 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:44.806233 Whiskey: Bravo we want you to join our group
+2024-10-14 14:02:44.822732 Bravo: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:44.862638 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:44.877875 Bravo: Yes
+2024-10-14 14:02:44.913592 Delta: I was attacked by Mike
+2024-10-14 14:02:44.916192 Delta: I'm keeping this round to protect myself
+2024-10-14 14:02:44.917321 Delta: Ow
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:44.991127 Charlie: Yankee and Mike, sending you 2
+2024-10-14 14:02:45.003046 Mike: India, sending you 3
+2024-10-14 14:02:45.017060 Charlie: India, Kilo, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:45.028825 Mike: Charlie, Whiskey and Bravo, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Romeo round 24
+ChatterBot Yankee round 24
+ChatterBot India round 24
+ChatterBot Charlie round 24
+ChatterBot Delta round 24
+ChatterBot Kilo round 24
+ChatterBot Whiskey round 24
+ChatterBot Quebec round 24
+ChatterBot Bravo round 24
+ChatterBot Mike round 24
+2024-10-14 14:02:46.131980 Whiskey: We should replace Delta with Bravo
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:46.156756 Yankee: Yes
+2024-10-14 14:02:46.156908 India: Yes
+2024-10-14 14:02:46.157035 Charlie: Yes
+2024-10-14 14:02:46.157143 Kilo: Yes
+2024-10-14 14:02:46.157248 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:46.300655 India: We should drop Delta and Romeo
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:46.344818 Charlie: Yes
+2024-10-14 14:02:46.345011 Kilo: Yes
+2024-10-14 14:02:46.345163 Whiskey: Yes
+2024-10-14 14:02:46.345310 Bravo: Yes
+2024-10-14 14:02:46.345502 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:46.649734 Charlie: We should drop Yankee
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:46.688229 India: Yes
+2024-10-14 14:02:46.688367 Kilo: Yes
+2024-10-14 14:02:46.688471 Whiskey: No
+2024-10-14 14:02:46.688569 Bravo: No
+2024-10-14 14:02:46.688673 Mike: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:02:46.890783 Mike: We should replace Yankee with Romeo
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:46.921917 India: No
+2024-10-14 14:02:46.922087 Charlie: No
+2024-10-14 14:02:46.922210 Kilo: No
+2024-10-14 14:02:46.922324 Whiskey: Yes
+2024-10-14 14:02:46.922462 Bravo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:47.093692 Delta: I was attacked by Mike
+2024-10-14 14:02:47.095416 Delta: I'm keeping this round to protect myself
+2024-10-14 14:02:47.096268 Delta: Ow
+2024-10-14 14:02:47.103698 Mike: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:47.118059 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:47.154728 Charlie: India, sending you 4
+2024-10-14 14:02:47.160743 Kilo: India and Charlie, sending you 4
+2024-10-14 14:02:47.168782 Bravo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:47.180384 Romeo: No
+2024-10-14 14:02:47.212918 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:47.217330 Kilo: Whiskey, sending you 3
+2024-10-14 14:02:47.219671 Mike: India, sending you 6
+2024-10-14 14:02:47.223715 Kilo: Bravo, sending you 2
+2024-10-14 14:02:47.229814 Mike: Charlie and Whiskey, sending you 4
+2024-10-14 14:02:47.244751 Mike: Kilo, sending you 1
+2024-10-14 14:02:47.252703 Mike: Bravo, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 25
+ChatterBot Yankee round 25
+ChatterBot India round 25
+ChatterBot Charlie round 25
+ChatterBot Delta round 25
+ChatterBot Kilo round 25
+ChatterBot Whiskey round 25
+ChatterBot Quebec round 25
+ChatterBot Bravo round 25
+ChatterBot Mike round 25
+2024-10-14 14:02:48.211278 Mike: We should replace Romeo with Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:48.235325 India: No
+2024-10-14 14:02:48.235473 Charlie: No
+2024-10-14 14:02:48.235582 Kilo: No
+2024-10-14 14:02:48.235708 Whiskey: No
+2024-10-14 14:02:48.235814 Bravo: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:48.380703 Mike: Yankee we want you to join our group
+2024-10-14 14:02:48.392930 Yankee: No
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 14:02:48.430059 Charlie: India, sending you 4
+2024-10-14 14:02:48.437703 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:48.446741 Kilo: India, sending you 4
+2024-10-14 14:02:48.453703 Kilo: Charlie and Whiskey, sending you 3
+2024-10-14 14:02:48.457610 Mike: India and Charlie, sending you 5
+2024-10-14 14:02:48.460423 Kilo: Bravo, sending you 2
+2024-10-14 14:02:48.462980 Mike: Kilo, sending you 1
+2024-10-14 14:02:48.467692 Kilo: Mike, sending you 1
+2024-10-14 14:02:48.470394 Mike: Whiskey, sending you 4
+2024-10-14 14:02:48.478715 Mike: Bravo, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 26
+ChatterBot Yankee round 26
+ChatterBot India round 26
+ChatterBot Charlie round 26
+ChatterBot Delta round 26
+ChatterBot Kilo round 26
+ChatterBot Whiskey round 26
+ChatterBot Quebec round 26
+ChatterBot Bravo round 26
+ChatterBot Mike round 26
+2024-10-14 14:02:49.743126 Kilo: We should replace Kilo with Romeo
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:49.760511 India: No
+2024-10-14 14:02:49.760662 Charlie: No
+2024-10-14 14:02:49.760779 Whiskey: No
+2024-10-14 14:02:49.760881 Bravo: No
+2024-10-14 14:02:49.760988 Mike: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:02:49.868119 Kilo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:02:49.876446 Romeo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Mike reevaluating
+2024-10-14 14:02:49.924028 Kilo: Romeo and Mike, sending you 1
+2024-10-14 14:02:49.931681 Kilo: India, Charlie and Whiskey, sending you 3
+2024-10-14 14:02:49.936679 Charlie: India, sending you 4
+2024-10-14 14:02:49.938736 Kilo: Bravo, sending you 2
+2024-10-14 14:02:49.942672 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 27
+ChatterBot Yankee round 27
+ChatterBot India round 27
+ChatterBot Charlie round 27
+ChatterBot Delta round 27
+ChatterBot Kilo round 27
+ChatterBot Whiskey round 27
+ChatterBot Quebec round 27
+ChatterBot Bravo round 27
+ChatterBot Mike round 27
+2024-10-14 14:02:51.197250 Yankee: We should replace Delta with Bravo
+2024-10-14 14:02:51.214190 India: Yes
+2024-10-14 14:02:51.214376 Charlie: Yes
+2024-10-14 14:02:51.214503 Kilo: Yes
+2024-10-14 14:02:51.214624 Whiskey: Yes
+2024-10-14 14:02:51.214739 Mike: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:51.313109 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:51.318893 Bravo: No
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:51.343710 Charlie: India, sending you 4
+2024-10-14 14:02:51.349684 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:51.351697 Mike: India, Charlie, Whiskey and Bravo, sending you 1
+2024-10-14 14:02:51.365776 Kilo: Charlie and Whiskey, sending you 5
+2024-10-14 14:02:51.370667 Kilo: Bravo, sending you 3
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot India submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Romeo round 28
+ChatterBot Yankee round 28
+ChatterBot India round 28
+ChatterBot Charlie round 28
+ChatterBot Delta round 28
+ChatterBot Kilo round 28
+ChatterBot Whiskey round 28
+ChatterBot Quebec round 28
+ChatterBot Bravo round 28
+ChatterBot Mike round 28
+2024-10-14 14:02:52.688366 Yankee: We should replace Delta with Bravo
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:52.708525 India: Yes
+2024-10-14 14:02:52.708745 Charlie: Yes
+2024-10-14 14:02:52.708895 Kilo: Yes
+2024-10-14 14:02:52.709034 Whiskey: Yes
+2024-10-14 14:02:52.709178 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:52.810664 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:52.815958 Bravo: No
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:52.837689 Kilo: India we want you to join our group
+2024-10-14 14:02:52.842290 India: Yes
+2024-10-14 14:02:52.854496 Charlie: India, sending you 4
+2024-10-14 14:02:52.858691 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:52.860193 Mike: India, sending you 6
+2024-10-14 14:02:52.863681 Mike: Charlie, sending you 5
+2024-10-14 14:02:52.868669 Mike: Kilo, sending you 1
+2024-10-14 14:02:52.873680 Mike: Whiskey, sending you 3
+2024-10-14 14:02:52.875073 Kilo: India, sending you 4
+2024-10-14 14:02:52.879693 Mike: Bravo, sending you 2
+2024-10-14 14:02:52.881310 Kilo: Charlie, Whiskey and Bravo, sending you 3
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 29
+ChatterBot Yankee round 29
+ChatterBot India round 29
+ChatterBot Charlie round 29
+ChatterBot Delta round 29
+ChatterBot Kilo round 29
+ChatterBot Whiskey round 29
+ChatterBot Quebec round 29
+ChatterBot Bravo round 29
+ChatterBot Mike round 29
+2024-10-14 14:02:54.104658 Yankee: We should replace Delta with Bravo
+2024-10-14 14:02:54.123519 India: Yes
+2024-10-14 14:02:54.123729 Charlie: Yes
+2024-10-14 14:02:54.123864 Kilo: Yes
+2024-10-14 14:02:54.123988 Whiskey: Yes
+2024-10-14 14:02:54.124111 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:54.235673 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:54.242790 Bravo: No
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:54.270698 Kilo: India, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:54.272332 Mike: India, Charlie, Whiskey and Bravo, sending you 1
+2024-10-14 14:02:54.273824 Charlie: India, sending you 4
+2024-10-14 14:02:54.275249 Kilo: Charlie, sending you 4
+2024-10-14 14:02:54.278704 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+chatterbot India submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 30
+ChatterBot Yankee round 30
+ChatterBot India round 30
+ChatterBot Charlie round 30
+ChatterBot Delta round 30
+ChatterBot Kilo round 30
+ChatterBot Whiskey round 30
+ChatterBot Quebec round 30
+ChatterBot Bravo round 30
+ChatterBot Mike round 30
+2024-10-14 14:02:55.491593 Yankee: We should replace Delta with Bravo
+ChatterBot Charlie reevaluating
+2024-10-14 14:02:55.515392 India: Yes
+2024-10-14 14:02:55.515594 Charlie: Yes
+2024-10-14 14:02:55.515740 Kilo: Yes
+2024-10-14 14:02:55.515880 Whiskey: Yes
+2024-10-14 14:02:55.516003 Mike: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:55.647694 Kilo: Mike we want you to join our group
+2024-10-14 14:02:55.653806 Mike: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:02:55.678195 Yankee: Bravo we want you to join our group
+2024-10-14 14:02:55.684486 Bravo: No
+ChatterBot Yankee reevaluating
+2024-10-14 14:02:55.711695 Mike: India and Charlie, sending you 5
+2024-10-14 14:02:55.717695 Mike: Kilo, sending you 1
+2024-10-14 14:02:55.721682 Mike: Whiskey and Bravo, sending you 3
+2024-10-14 14:02:55.723207 Charlie: India, sending you 4
+2024-10-14 14:02:55.727697 Charlie: Kilo, Whiskey, Bravo and Mike, sending you 3
+2024-10-14 14:02:55.730684 Kilo: India, Charlie, Whiskey and Bravo, sending you 3
+2024-10-14 14:02:55.735677 Kilo: Mike, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot India submitting transactions
+chatterbot Mike submitting transactions

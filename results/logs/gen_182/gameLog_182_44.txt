@@ -1,0 +1,2574 @@
+ChatterBot Tango round 1
+ChatterBot Echo round 1
+ChatterBot Romeo round 1
+ChatterBot Mike round 1
+ChatterBot Charlie round 1
+ChatterBot Hotel round 1
+ChatterBot Foxtrot round 1
+ChatterBot X-ray round 1
+ChatterBot Sierra round 1
+ChatterBot Alpha round 1
+randomSelections Echo: {Echo, Foxtrot, Hotel, X-ray, Mike, Sierra} 
+2024-10-14 16:33:18.267735 Echo: Friends?
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:18.285059 Foxtrot: Yes
+2024-10-14 16:33:18.285240 Hotel: Yes
+2024-10-14 16:33:18.285396 X-ray: Yes
+2024-10-14 16:33:18.285560 Mike: Yes
+2024-10-14 16:33:18.286112 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Mike reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Mike reevaluating
+randomSelections Romeo: {Romeo, Alpha, Sierra, X-ray, Foxtrot, Echo} 
+2024-10-14 16:33:18.352387 Romeo: We should group up
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:33:18.364128 Alpha: Yes
+2024-10-14 16:33:18.364331 Sierra: No
+2024-10-14 16:33:18.364941 X-ray: No
+2024-10-14 16:33:18.365117 Foxtrot: No
+2024-10-14 16:33:18.365254 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Tango: {Tango, Sierra, Romeo, Echo} 
+2024-10-14 16:33:18.418760 Tango: Group up?
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:18.424563 Sierra: No
+2024-10-14 16:33:18.424759 Romeo: No
+2024-10-14 16:33:18.424920 Echo: No
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+randomSelections Charlie: {Charlie, Alpha, Romeo, Foxtrot, X-ray, Echo} 
+2024-10-14 16:33:18.442737 Charlie: We would work well together
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:18.451108 Alpha: No
+2024-10-14 16:33:18.451268 Romeo: No
+2024-10-14 16:33:18.451399 Foxtrot: No
+2024-10-14 16:33:18.451521 X-ray: No
+2024-10-14 16:33:18.451659 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:18.508659 Tango: Echo, sending you 2
+2024-10-14 16:33:18.508972 Charlie: Foxtrot and Alpha, sending you 2
+2024-10-14 16:33:18.509215 X-ray: Echo, sending you 2
+2024-10-14 16:33:18.511705 Romeo: Echo and Foxtrot, sending you 1
+2024-10-14 16:33:18.512675 Tango: Romeo and Sierra, sending you 4
+2024-10-14 16:33:18.513674 X-ray: Mike, Hotel and Sierra, sending you 1
+2024-10-14 16:33:18.514678 Romeo: X-ray and Sierra, sending you 3
+2024-10-14 16:33:18.517647 X-ray: Foxtrot, sending you 3
+2024-10-14 16:33:18.518676 Mike: Echo and Foxtrot, sending you 1
+2024-10-14 16:33:18.519179 Sierra: Echo, sending you 3
+2024-10-14 16:33:18.519713 Hotel: Echo, sending you 2
+2024-10-14 16:33:18.520697 Echo: Hotel and X-ray, sending you 2
+2024-10-14 16:33:18.523660 Sierra: Hotel, sending you 2
+2024-10-14 16:33:18.524076 Alpha: Romeo, Foxtrot, X-ray and Sierra, sending you 2
+2024-10-14 16:33:18.524372 Echo: Foxtrot and Sierra, sending you 3
+2024-10-14 16:33:18.524714 Hotel: Mike, sending you 4
+2024-10-14 16:33:18.527683 Sierra: Foxtrot and X-ray, sending you 1
+2024-10-14 16:33:18.528649 Hotel: Foxtrot, sending you 3
+2024-10-14 16:33:18.531664 Hotel: X-ray and Sierra, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Tango round 2
+ChatterBot Echo round 2
+ChatterBot Romeo round 2
+ChatterBot Mike round 2
+ChatterBot Charlie round 2
+ChatterBot Hotel round 2
+ChatterBot Foxtrot round 2
+ChatterBot X-ray round 2
+ChatterBot Sierra round 2
+ChatterBot Alpha round 2
+2024-10-14 16:33:20.340151 Charlie: Group up?
+ChatterBot Mike reevaluating
+2024-10-14 16:33:20.349736 Mike: No
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:20.371083 Romeo: Group up?
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:20.392233 Tango: Yes
+2024-10-14 16:33:20.392507 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:33:20.433769 Alpha: We should group up
+ChatterBot Tango reevaluating
+2024-10-14 16:33:20.455952 Romeo: Yes
+2024-10-14 16:33:20.456158 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:20.630650 Sierra: Can we be friends?
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:33:20.694812 Echo: Yes
+2024-10-14 16:33:20.695784 Hotel: No
+2024-10-14 16:33:20.696192 X-ray: No
+2024-10-14 16:33:20.696733 Tango: No
+2024-10-14 16:33:20.697492 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:33:21.004065 Foxtrot: We should drop Mike
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:21.043316 Echo: Yes
+2024-10-14 16:33:21.043476 Hotel: Yes
+2024-10-14 16:33:21.043579 X-ray: Yes
+2024-10-14 16:33:21.043697 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:21.204097 Mike: We should drop Foxtrot
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:21.233945 Echo: Yes
+2024-10-14 16:33:21.234245 Hotel: No
+2024-10-14 16:33:21.234423 X-ray: Yes
+2024-10-14 16:33:21.234566 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:33:21.418636 Romeo: Tango, sending you 5
+2024-10-14 16:33:21.418944 Charlie: Sending you 4
+2024-10-14 16:33:21.419558 Tango: Echo, Hotel and X-ray, sending you 3
+2024-10-14 16:33:21.419878 Alpha: Sending you 8
+2024-10-14 16:33:21.420059 Sierra: Tango, Echo and Romeo, sending you 2
+chatterbot Mike submitting transactions
+2024-10-14 16:33:21.515998 Romeo: Alpha, sending you 3
+2024-10-14 16:33:21.516996 Tango: Sierra, sending you 1
+2024-10-14 16:33:21.517434 Foxtrot: Echo, Hotel and X-ray, sending you 1
+2024-10-14 16:33:21.518288 Sierra: Hotel, sending you 1
+2024-10-14 16:33:21.518665 Mike: Hotel, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 16:33:21.596173 Echo: Tango, Hotel and X-ray, sending you 2
+2024-10-14 16:33:21.596592 X-ray: Echo and Hotel, sending you 2
+2024-10-14 16:33:21.596856 Hotel: Tango, sending you 1
+2024-10-14 16:33:21.733144 Echo: Romeo, sending you 1
+2024-10-14 16:33:21.733636 Hotel: Echo and Sierra, sending you 4
+2024-10-14 16:33:21.734391 X-ray: Romeo, sending you 3
+2024-10-14 16:33:21.869162 Echo: Sierra, sending you 3
+2024-10-14 16:33:21.869659 Hotel: X-ray, sending you 2
+2024-10-14 16:33:21.870457 X-ray: Sierra, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 3
+ChatterBot Echo round 3
+ChatterBot Romeo round 3
+ChatterBot Mike round 3
+ChatterBot Charlie round 3
+ChatterBot Hotel round 3
+ChatterBot Foxtrot round 3
+ChatterBot X-ray round 3
+ChatterBot Sierra round 3
+ChatterBot Alpha round 3
+2024-10-14 16:33:22.325358 Romeo: Can we be friends?
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:22.383507 Tango: No
+2024-10-14 16:33:22.383748 Alpha: No
+2024-10-14 16:33:22.383925 Echo: Yes
+2024-10-14 16:33:22.384073 Hotel: Yes
+2024-10-14 16:33:22.384851 X-ray: No
+2024-10-14 16:33:22.385017 Sierra: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:22.654358 X-ray: We should replace Romeo with Alpha
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:22.737536 Echo: No
+2024-10-14 16:33:22.737743 Hotel: No
+2024-10-14 16:33:22.738470 Sierra: No
+2024-10-14 16:33:22.738800 Echo: We should add Alpha
+2024-10-14 16:33:22.739093 Hotel: We should add Romeo and Alpha
+2024-10-14 16:33:22.739888 Sierra: We should add Alpha
+2024-10-14 16:33:22.740283 Alpha: We should add Romeo and Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:22.787617 Tango: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:33:22.793775 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:22.817479 Tango: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:33:22.824604 Romeo: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:22.850224 Tango: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:33:22.856649 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:33:22.871893 Hotel: Yes
+2024-10-14 16:33:22.872093 Sierra: Yes
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:22.877965 Tango: No
+2024-10-14 16:33:22.878624 X-ray: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:22.885278 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:22.897294 Sierra: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:33:22.904538 X-ray: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:22.911030 Echo: Yes
+ChatterBot Echo reevaluating
+2024-10-14 16:33:22.917564 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:23.417979 Charlie: We should replace Tango with Mike
+2024-10-14 16:33:23.449498 Charlie: Mike we want you to join our group
+2024-10-14 16:33:23.454810 Mike: No
+2024-10-14 16:33:23.460543 Hotel: Romeo and Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:23.472510 Romeo: Yes
+2024-10-14 16:33:23.472669 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:23.543854 Sierra: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:23.551035 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:23.589934 Echo: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:23.596116 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:23.629289 X-ray: Friends?
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:23.646356 Tango: No
+2024-10-14 16:33:23.646519 Romeo: Yes
+2024-10-14 16:33:23.646624 Alpha: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 16:33:23.791321 Foxtrot: Sending you each 1
+2024-10-14 16:33:23.792902 Romeo: Tango, X-ray and Sierra, sending you 2
+2024-10-14 16:33:23.794644 Mike: Hotel, sending you 2
+2024-10-14 16:33:23.795767 Alpha: Romeo and Charlie we want you to join our group
+2024-10-14 16:33:23.810344 Romeo: No
+2024-10-14 16:33:23.811327 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:23.849176 Charlie: We should add Romeo and Alpha
+2024-10-14 16:33:23.849581 Alpha: We should add Romeo
+2024-10-14 16:33:23.849915 Romeo: We should add Charlie
+ChatterBot Tango reevaluating
+2024-10-14 16:33:23.855812 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:23.867431 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:23.879747 Alpha: Yes
+2024-10-14 16:33:23.880393 Tango: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:23.916467 Sierra: Tango, Romeo, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:23.917547 X-ray: Tango and Romeo, sending you 3
+2024-10-14 16:33:23.917919 Echo: Tango, X-ray and Sierra, sending you 2
+2024-10-14 16:33:23.918853 Hotel: Tango, X-ray and Sierra, sending you 2
+2024-10-14 16:33:24.083831 Sierra: Echo, sending you 2
+2024-10-14 16:33:24.084505 X-ray: Alpha, sending you 2
+2024-10-14 16:33:24.085231 Echo: Romeo, sending you 1
+2024-10-14 16:33:24.085722 Hotel: Echo, sending you 3
+chatterbot Charlie submitting transactions
+2024-10-14 16:33:25.239032 Hotel: Romeo and Alpha, sending you 1
+2024-10-14 16:33:25.239836 Tango: Romeo and Charlie, sending you 3
+2024-10-14 16:33:25.240608 Echo: Hotel, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 16:33:25.247336 Tango: Alpha, sending you 4
+2024-10-14 16:33:25.247710 Charlie: Sending you 4
+2024-10-14 16:33:25.247907 Alpha: Tango, sending you 1
+2024-10-14 16:33:25.257025 Alpha: Romeo, sending you 4
+2024-10-14 16:33:25.264123 Alpha: Charlie, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 4
+ChatterBot Echo round 4
+ChatterBot Romeo round 4
+ChatterBot Mike round 4
+ChatterBot Charlie round 4
+ChatterBot Hotel round 4
+ChatterBot Foxtrot round 4
+ChatterBot X-ray round 4
+ChatterBot Sierra round 4
+2024-10-14 16:33:25.867968 X-ray: We should add Hotel
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:25.955968 Tango: No
+2024-10-14 16:33:25.956267 Romeo: Yes
+2024-10-14 16:33:25.956593 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha round 4
+2024-10-14 16:33:26.028059 Charlie: We would work well together
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:26.054800 Tango: No
+2024-10-14 16:33:26.055087 Romeo: No
+2024-10-14 16:33:26.055205 X-ray: No
+2024-10-14 16:33:26.055439 Alpha: Yes
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:26.152831 Alpha: We should add X-ray
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:26.170602 Tango: Yes
+2024-10-14 16:33:26.171155 Romeo: Yes
+2024-10-14 16:33:26.171263 Charlie: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:26.225970 Mike: We would work well together
+2024-10-14 16:33:26.230845 Charlie: No
+2024-10-14 16:33:26.248072 Foxtrot: We should drop X-ray
+2024-10-14 16:33:26.273055 Echo: Yes
+2024-10-14 16:33:26.273346 Hotel: Yes
+2024-10-14 16:33:26.273533 Sierra: Yes
+2024-10-14 16:33:26.345711 X-ray: We should add Echo
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:26.371309 Tango: No
+2024-10-14 16:33:26.372026 Romeo: Yes
+2024-10-14 16:33:26.372219 Alpha: No
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:26.504576 Tango: We should replace Charlie with X-ray
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:26.524463 Romeo: Yes
+2024-10-14 16:33:26.524747 Alpha: No
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 16:33:26.578480 Tango: X-ray we want you to join our group
+2024-10-14 16:33:26.588250 X-ray: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:26.619062 Echo: Tango, sending you 2
+2024-10-14 16:33:26.668222 Hotel: Tango, X-ray and Sierra, sending you 2
+2024-10-14 16:33:26.668715 Mike: Sending you 2
+2024-10-14 16:33:26.668944 Foxtrot: Echo and Hotel, sending you 2
+2024-10-14 16:33:26.669704 Echo: Romeo and X-ray, sending you 1
+2024-10-14 16:33:26.670219 Charlie: Tango, sending you 3
+2024-10-14 16:33:26.670533 Sierra: Tango, Romeo, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:26.741216 Hotel: Echo, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 16:33:26.742469 Charlie: Alpha, sending you 1
+2024-10-14 16:33:26.743305 Sierra: Echo, sending you 2
+2024-10-14 16:33:26.743859 Echo: Hotel and Sierra, sending you 3
+2024-10-14 16:33:26.744753 Alpha: Tango, sending you 3
+2024-10-14 16:33:26.791465 Hotel: Romeo, sending you 1
+2024-10-14 16:33:26.792209 Romeo: Tango, X-ray and Alpha, sending you 2
+2024-10-14 16:33:26.793180 Alpha: Romeo, sending you 2
+2024-10-14 16:33:26.840657 Romeo: Echo and Sierra, sending you 1
+2024-10-14 16:33:26.841768 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:26.842071 Alpha: Hotel, X-ray and Sierra, sending you 1
+2024-10-14 16:33:26.867322 Tango: X-ray, sending you 2
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 5
+ChatterBot Echo round 5
+ChatterBot Romeo round 5
+ChatterBot Mike round 5
+ChatterBot Charlie round 5
+ChatterBot Hotel round 5
+ChatterBot Foxtrot round 5
+ChatterBot X-ray round 5
+ChatterBot Sierra round 5
+ChatterBot Alpha round 5
+2024-10-14 16:33:27.817207 Mike: Hotel, sending you 2
+2024-10-14 16:33:27.853519 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:27.854740 Romeo: Tango and X-ray, sending you 2
+2024-10-14 16:33:27.855307 Alpha: Tango, sending you 3
+2024-10-14 16:33:27.856171 Tango: Romeo and X-ray, sending you 3
+2024-10-14 16:33:27.856538 Foxtrot: Echo and Hotel, sending you 2
+2024-10-14 16:33:27.856902 Echo: Tango, Romeo and X-ray, sending you 1
+2024-10-14 16:33:27.858065 Hotel: Tango, X-ray and Sierra, sending you 2
+2024-10-14 16:33:27.858645 Charlie: Tango, sending you 2
+2024-10-14 16:33:27.859521 Sierra: Tango, Romeo, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:27.860203 X-ray: Sierra, sending you 2
+2024-10-14 16:33:27.861051 Romeo: Echo, Hotel, Sierra and Alpha, sending you 1
+2024-10-14 16:33:27.861664 Alpha: Romeo and X-ray, sending you 2
+2024-10-14 16:33:27.862642 Tango: Alpha, sending you 4
+2024-10-14 16:33:27.863024 Echo: Hotel, sending you 4
+2024-10-14 16:33:27.863982 Charlie: X-ray and Alpha, sending you 1
+2024-10-14 16:33:27.864392 Hotel: Echo, sending you 4
+2024-10-14 16:33:27.864934 Sierra: Echo, sending you 2
+2024-10-14 16:33:27.866147 Alpha: Charlie, sending you 1
+2024-10-14 16:33:27.884961 Echo: Sierra, sending you 3
+2024-10-14 16:33:27.885958 Hotel: Alpha, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Tango round 6
+ChatterBot Echo round 6
+ChatterBot Romeo round 6
+ChatterBot Mike round 6
+ChatterBot Charlie round 6
+ChatterBot Hotel round 6
+ChatterBot Foxtrot round 6
+ChatterBot X-ray round 6
+ChatterBot Sierra round 6
+ChatterBot Alpha round 6
+2024-10-14 16:33:29.068707 Echo: Tango and Romeo, sending you 1
+2024-10-14 16:33:29.073669 Echo: Hotel, sending you 4
+2024-10-14 16:33:29.076684 Foxtrot: Echo and Hotel, sending you 2
+2024-10-14 16:33:29.077756 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:33:29.078745 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:29.080716 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:29.082219 Sierra: Tango, Romeo, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:29.083631 Charlie: Tango and X-ray, sending you 1
+2024-10-14 16:33:29.084120 Tango: X-ray, sending you 2
+2024-10-14 16:33:29.084670 X-ray: Sierra, sending you 2
+2024-10-14 16:33:29.087030 Romeo: Tango and Alpha, sending you 2
+2024-10-14 16:33:29.087878 Sierra: Echo, sending you 2
+2024-10-14 16:33:29.088870 Charlie: Alpha, sending you 2
+2024-10-14 16:33:29.089311 Mike: Sending you 2
+2024-10-14 16:33:29.089509 Hotel: Tango, Romeo and Alpha, sending you 1
+2024-10-14 16:33:29.090673 Romeo: Echo, Hotel, X-ray and Sierra, sending you 1
+2024-10-14 16:33:29.092707 Hotel: Echo, sending you 4
+2024-10-14 16:33:29.093883 Alpha: Tango, sending you 4
+2024-10-14 16:33:29.098688 Hotel: X-ray and Sierra, sending you 2
+2024-10-14 16:33:29.100583 Alpha: Romeo, sending you 2
+2024-10-14 16:33:29.106681 Alpha: Charlie and X-ray, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 7
+ChatterBot Echo round 7
+ChatterBot Romeo round 7
+ChatterBot Mike round 7
+2024-10-14 16:33:30.259587 Mike: We should add Foxtrot
+2024-10-14 16:33:30.263934 Charlie: No
+ChatterBot Mike reevaluating
+ChatterBot Charlie round 7
+ChatterBot Hotel round 7
+ChatterBot Foxtrot round 7
+ChatterBot X-ray round 7
+ChatterBot Sierra round 7
+2024-10-14 16:33:30.274182 Tango: We should replace X-ray with Charlie
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:30.284381 Romeo: No
+2024-10-14 16:33:30.284591 Alpha: No
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha round 7
+2024-10-14 16:33:30.336340 Foxtrot: We should add X-ray
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:30.350060 Echo: Yes
+2024-10-14 16:33:30.350193 Hotel: Yes
+2024-10-14 16:33:30.350294 Sierra: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:30.384447 Tango: Charlie we want you to join our group
+2024-10-14 16:33:30.387867 Charlie: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:30.401009 Foxtrot: X-ray we want you to join our group
+2024-10-14 16:33:30.404037 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:30.416572 Charlie: We should drop X-ray
+2024-10-14 16:33:30.425315 Alpha: Yes
+2024-10-14 16:33:30.425852 Tango: Yes
+2024-10-14 16:33:30.425962 Romeo: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:30.457026 Echo: Tango and Romeo, sending you 1
+2024-10-14 16:33:30.458212 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:30.459266 Mike: Hotel, sending you 2
+2024-10-14 16:33:30.462748 Echo: Hotel, sending you 4
+2024-10-14 16:33:30.463249 X-ray: Sierra, sending you 2
+2024-10-14 16:33:30.464703 Hotel: Tango and Romeo, sending you 1
+2024-10-14 16:33:30.465675 Foxtrot: Sending you each 1
+2024-10-14 16:33:30.466665 Tango: Romeo and Charlie, sending you 3
+2024-10-14 16:33:30.467842 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:33:30.469688 Sierra: Tango, Romeo, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:30.470347 Hotel: Echo, sending you 4
+2024-10-14 16:33:30.471714 Tango: Alpha, sending you 4
+2024-10-14 16:33:30.472662 Sierra: Echo, sending you 2
+2024-10-14 16:33:30.474686 Hotel: X-ray, sending you 3
+2024-10-14 16:33:30.475730 Romeo: Tango, sending you 4
+2024-10-14 16:33:30.477699 Charlie: Tango and Romeo, sending you 1
+2024-10-14 16:33:30.480701 Hotel: Sierra, sending you 2
+2024-10-14 16:33:30.481640 Romeo: Charlie, sending you 1
+2024-10-14 16:33:30.482384 Charlie: Alpha, sending you 2
+2024-10-14 16:33:30.483976 Alpha: Tango, sending you 4
+2024-10-14 16:33:30.486666 Romeo: Alpha, sending you 3
+2024-10-14 16:33:30.488697 Alpha: Romeo and Charlie, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 8
+ChatterBot Echo round 8
+ChatterBot Romeo round 8
+ChatterBot Mike round 8
+ChatterBot Charlie round 8
+ChatterBot Hotel round 8
+ChatterBot Foxtrot round 8
+2024-10-14 16:33:31.680178 Echo: We should add Charlie
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:31.700867 Romeo: Yes
+2024-10-14 16:33:31.701036 Tango: Yes
+2024-10-14 16:33:31.701182 Alpha: Yes
+2024-10-14 16:33:31.701295 Hotel: No
+2024-10-14 16:33:31.701759 X-ray: No
+2024-10-14 16:33:31.701866 Sierra: No
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray round 8
+ChatterBot Sierra round 8
+ChatterBot Alpha round 8
+2024-10-14 16:33:31.969436 Echo: Charlie we want you to join our group
+2024-10-14 16:33:31.976231 Charlie: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:32.017483 Sierra: We should add Charlie
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:32.051021 Romeo: Yes
+2024-10-14 16:33:32.051335 Tango: Yes
+2024-10-14 16:33:32.051507 Alpha: Yes
+2024-10-14 16:33:32.051672 Echo: Yes
+2024-10-14 16:33:32.051826 Hotel: No
+2024-10-14 16:33:32.051984 X-ray: No
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:32.185360 Romeo: We should add Sierra
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:32.194018 Alpha: No
+2024-10-14 16:33:32.194148 Tango: No
+2024-10-14 16:33:32.194243 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:32.230687 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:32.234104 Sierra: Charlie we want you to join our group
+2024-10-14 16:33:32.238779 Charlie: No
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:32.265482 Alpha: We should add Mike
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:32.275210 Tango: No
+2024-10-14 16:33:32.275375 Romeo: No
+2024-10-14 16:33:32.275485 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:32.304527 Tango: Charlie, sending you 2
+2024-10-14 16:33:32.304938 Mike: Sending you 2
+2024-10-14 16:33:32.305121 Foxtrot: Same as last round
+2024-10-14 16:33:32.307676 Charlie: Tango and Alpha, sending you 2
+2024-10-14 16:33:32.308671 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:32.309350 Hotel: Echo, sending you 4
+2024-10-14 16:33:32.309921 Alpha: Mike we want you to join our group
+ChatterBot Mike reevaluating
+2024-10-14 16:33:32.315424 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:32.337727 Mike: We should replace Foxtrot with Charlie
+2024-10-14 16:33:32.338849 X-ray: Sierra, sending you 2
+2024-10-14 16:33:32.339661 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:32.342693 Romeo: X-ray we want you to join our group
+2024-10-14 16:33:32.350136 X-ray: No
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:32.378923 Hotel: X-ray, sending you 3
+2024-10-14 16:33:32.379886 Sierra: Tango, Echo, Romeo, Charlie, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:32.381868 Echo: Tango and Romeo, sending you 1
+2024-10-14 16:33:32.383606 Mike: Charlie we want you to join our group
+2024-10-14 16:33:32.388956 Charlie: No
+ChatterBot Mike reevaluating
+chatterbot Tango submitting transactions
+2024-10-14 16:33:32.396703 Echo: Hotel, sending you 4
+2024-10-14 16:33:32.401717 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:33:32.413709 Romeo: Tango and Alpha, sending you 2
+2024-10-14 16:33:32.419692 Romeo: Echo, Hotel, X-ray and Sierra, sending you 1
+2024-10-14 16:33:32.420983 Alpha: Tango, sending you 4
+2024-10-14 16:33:32.423849 Alpha: Romeo and Charlie, sending you 2
+2024-10-14 16:33:32.425661 Mike: Sorry, I'm actually sending you 0
+2024-10-14 16:33:32.429055 Mike: Sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 9
+ChatterBot Echo round 9
+ChatterBot Romeo round 9
+ChatterBot Mike round 9
+ChatterBot Charlie round 9
+ChatterBot Hotel round 9
+ChatterBot Foxtrot round 9
+ChatterBot X-ray round 9
+ChatterBot Sierra round 9
+ChatterBot Alpha round 9
+2024-10-14 16:33:33.405806 Mike: We should replace Charlie with Foxtrot
+2024-10-14 16:33:33.443509 Mike: Foxtrot we want you to join our group
+2024-10-14 16:33:33.448930 Foxtrot: No
+ChatterBot Mike reevaluating
+2024-10-14 16:33:33.468146 Tango: Romeo, sending you 3
+2024-10-14 16:33:33.471382 Sierra: Tango, Echo, Romeo, Charlie, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:33.474934 Echo: Tango and Romeo, sending you 1
+2024-10-14 16:33:33.476808 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:33.478338 Alpha: Tango, sending you 4
+2024-10-14 16:33:33.479282 Tango: Charlie, sending you 2
+2024-10-14 16:33:33.480743 Romeo: Tango, sending you 4
+2024-10-14 16:33:33.482823 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:33.483687 Echo: Hotel, sending you 4
+2024-10-14 16:33:33.485308 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:33.486454 Alpha: Romeo and Charlie, sending you 2
+2024-10-14 16:33:33.487053 Tango: Alpha, sending you 5
+2024-10-14 16:33:33.488658 Charlie: Tango and Alpha, sending you 2
+2024-10-14 16:33:33.489475 Hotel: Echo, sending you 4
+2024-10-14 16:33:33.491035 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:33.492412 X-ray: Sierra, sending you 2
+2024-10-14 16:33:33.493026 Mike: Same as last round
+2024-10-14 16:33:33.493891 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:33:33.494741 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:33.496696 Romeo: Alpha, sending you 2
+2024-10-14 16:33:33.499888 Hotel: X-ray, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Tango round 10
+ChatterBot Echo round 10
+ChatterBot Romeo round 10
+ChatterBot Mike round 10
+ChatterBot Charlie round 10
+ChatterBot Hotel round 10
+ChatterBot Foxtrot round 10
+ChatterBot X-ray round 10
+ChatterBot Sierra round 10
+ChatterBot Alpha round 10
+2024-10-14 16:33:34.700171 Charlie: We should add Mike
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:34.712298 Alpha: Yes
+2024-10-14 16:33:34.712555 Tango: No
+2024-10-14 16:33:34.712753 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:34.780512 Alpha: Mike we want you to join our group
+2024-10-14 16:33:34.785035 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:34.805677 Mike: Hotel, sending you 2
+2024-10-14 16:33:34.806683 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:34.808158 Foxtrot: Hotel, sending you 4
+2024-10-14 16:33:34.809699 Charlie: Mike we want you to join our group
+2024-10-14 16:33:34.816094 Mike: No
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:34.841477 Tango: Charlie, sending you 2
+2024-10-14 16:33:34.846391 Hotel: Echo, sending you 4
+2024-10-14 16:33:34.847202 Echo: Romeo, sending you 1
+2024-10-14 16:33:34.848248 Sierra: Tango, Echo, Romeo, Charlie, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:34.849248 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:34.850737 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:34.851978 Echo: Hotel, sending you 4
+2024-10-14 16:33:34.854694 X-ray: Sierra, sending you 2
+2024-10-14 16:33:34.856239 Hotel: X-ray, sending you 3
+2024-10-14 16:33:34.856795 Echo: X-ray, sending you 3
+2024-10-14 16:33:34.871568 Echo: Sierra, sending you 2
+2024-10-14 16:33:34.872924 Romeo: Tango, sending you 4
+2024-10-14 16:33:34.876139 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:34.882870 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:34.905753 Alpha: Tango, sending you 4
+2024-10-14 16:33:34.906536 Romeo: Alpha, sending you 2
+2024-10-14 16:33:34.922227 Alpha: Romeo and Charlie, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 11
+ChatterBot Echo round 11
+ChatterBot Romeo round 11
+ChatterBot Mike round 11
+ChatterBot Charlie round 11
+ChatterBot Hotel round 11
+ChatterBot Foxtrot round 11
+ChatterBot X-ray round 11
+ChatterBot Sierra round 11
+ChatterBot Alpha round 11
+2024-10-14 16:33:36.681411 Romeo: We should replace Sierra with Mike
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:36.693897 Alpha: Yes
+2024-10-14 16:33:36.694740 Tango: No
+2024-10-14 16:33:36.694913 Charlie: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:36.824779 Hotel: Echo, sending you 4
+2024-10-14 16:33:36.829840 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:36.833693 Echo: Romeo, sending you 1
+2024-10-14 16:33:36.837907 Mike: Hotel, sending you 2
+2024-10-14 16:33:36.840849 Hotel: X-ray, sending you 3
+2024-10-14 16:33:36.843818 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:36.846400 Sierra: Tango, Echo, Romeo, Charlie, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:36.850428 Romeo: Tango, sending you 4
+2024-10-14 16:33:36.852530 Echo: Hotel, sending you 4
+2024-10-14 16:33:36.855002 Alpha: Tango, sending you 4
+2024-10-14 16:33:36.856789 Foxtrot: Hotel, sending you 4
+2024-10-14 16:33:36.858295 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:36.859926 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:36.861545 Tango: Charlie, sending you 2
+2024-10-14 16:33:36.862405 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:36.863723 Echo: X-ray, sending you 3
+2024-10-14 16:33:36.865658 Alpha: Romeo and Charlie, sending you 2
+2024-10-14 16:33:36.867095 X-ray: Sierra, sending you 2
+2024-10-14 16:33:36.868511 Romeo: Alpha, sending you 2
+2024-10-14 16:33:36.877622 Echo: Sierra, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Tango round 12
+ChatterBot Echo round 12
+ChatterBot Romeo round 12
+ChatterBot Mike round 12
+ChatterBot Charlie round 12
+ChatterBot Hotel round 12
+ChatterBot Foxtrot round 12
+ChatterBot X-ray round 12
+ChatterBot Sierra round 12
+ChatterBot Alpha round 12
+2024-10-14 16:33:38.652191 Romeo: We should replace Sierra with Echo
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:33:38.665258 Alpha: No
+2024-10-14 16:33:38.665476 Tango: No
+2024-10-14 16:33:38.665628 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:38.944575 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:38.946872 Hotel: Echo, sending you 4
+2024-10-14 16:33:38.947638 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:38.948709 Echo: Romeo, sending you 1
+2024-10-14 16:33:38.949334 Sierra: Tango, Echo, Romeo, Charlie, Hotel, X-ray and Alpha, sending you 1
+2024-10-14 16:33:38.950587 Alpha: Tango, sending you 4
+2024-10-14 16:33:38.951020 Foxtrot: Hotel, sending you 4
+2024-10-14 16:33:38.951950 Tango: Charlie, sending you 2
+2024-10-14 16:33:38.952779 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:38.953712 Echo: Hotel, sending you 4
+2024-10-14 16:33:38.954424 Alpha: Romeo, sending you 2
+2024-10-14 16:33:38.955215 Romeo: Tango, sending you 4
+2024-10-14 16:33:38.955541 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:39.043041 Mike: Hotel, sending you 2
+2024-10-14 16:33:39.044254 Hotel: X-ray, sending you 3
+2024-10-14 16:33:39.044792 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:39.045700 Echo: X-ray, sending you 3
+2024-10-14 16:33:39.046384 X-ray: Sierra, sending you 2
+2024-10-14 16:33:39.047541 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:39.093708 Echo: Sierra, sending you 2
+2024-10-14 16:33:39.096678 Romeo: Alpha, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Tango round 13
+ChatterBot Echo round 13
+ChatterBot Romeo round 13
+ChatterBot Mike round 13
+ChatterBot Charlie round 13
+ChatterBot Hotel round 13
+ChatterBot Foxtrot round 13
+ChatterBot X-ray round 13
+ChatterBot Sierra round 13
+ChatterBot Alpha round 13
+2024-10-14 16:33:39.988347 Echo: We should add Foxtrot
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:40.013967 Hotel: Yes
+2024-10-14 16:33:40.014519 X-ray: Yes
+2024-10-14 16:33:40.014670 Sierra: Yes
+2024-10-14 16:33:40.014798 Tango: No
+2024-10-14 16:33:40.014904 Romeo: No
+2024-10-14 16:33:40.015009 Charlie: No
+2024-10-14 16:33:40.015140 Alpha: No
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:40.375699 Foxtrot: Friends?
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:33:40.422151 Echo: No
+2024-10-14 16:33:40.422347 Hotel: No
+2024-10-14 16:33:40.422502 X-ray: No
+2024-10-14 16:33:40.422666 Sierra: No
+2024-10-14 16:33:40.423213 Tango: No
+2024-10-14 16:33:40.423365 Romeo: No
+2024-10-14 16:33:40.423508 Charlie: No
+2024-10-14 16:33:40.423652 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:41.043372 X-ray: Foxtrot we want you to join our group
+2024-10-14 16:33:41.050924 Foxtrot: Yes
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:41.164717 Foxtrot: Hotel, sending you 4
+2024-10-14 16:33:41.166359 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:41.167458 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:41.167979 Mike: Sending you 2
+2024-10-14 16:33:41.168728 Hotel: Mike we want you to join our group
+2024-10-14 16:33:41.172428 Mike: No
+ChatterBot Echo reevaluating
+2024-10-14 16:33:41.189352 Tango: Charlie, sending you 2
+2024-10-14 16:33:41.191203 Romeo: Tango, sending you 4
+2024-10-14 16:33:41.193094 X-ray: Echo and Hotel, sending you 3
+2024-10-14 16:33:41.267319 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:41.269199 Alpha: Tango, sending you 4
+2024-10-14 16:33:41.269682 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:41.271451 X-ray: Sierra, sending you 2
+chatterbot Mike submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 16:33:41.341963 Sierra: Romeo, sending you 1
+2024-10-14 16:33:41.344418 Alpha: Romeo, sending you 2
+2024-10-14 16:33:41.345328 Romeo: Alpha, sending you 2
+2024-10-14 16:33:41.347001 Hotel: Echo, sending you 4
+2024-10-14 16:33:41.349950 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:41.383402 Echo: Hotel, sending you 4
+2024-10-14 16:33:41.384875 Hotel: Mike and Sierra, sending you 1
+chatterbot X-ray submitting transactions
+2024-10-14 16:33:41.421870 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:41.424021 Hotel: Foxtrot, sending you 2
+2024-10-14 16:33:41.433523 Echo: X-ray, sending you 3
+2024-10-14 16:33:41.434725 Hotel: X-ray, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 16:33:41.439414 Echo: Sierra, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 14
+ChatterBot Echo round 14
+ChatterBot Romeo round 14
+ChatterBot Mike round 14
+ChatterBot Charlie round 14
+ChatterBot Hotel round 14
+ChatterBot Foxtrot round 14
+ChatterBot X-ray round 14
+ChatterBot Sierra round 14
+ChatterBot Alpha round 14
+2024-10-14 16:33:42.853886 Romeo: We should replace Sierra with X-ray
+2024-10-14 16:33:42.863824 Alpha: No
+2024-10-14 16:33:42.864001 Tango: No
+2024-10-14 16:33:42.864116 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:42.993724 Romeo: We should replace Sierra with Foxtrot
+2024-10-14 16:33:43.027181 Alpha: No
+2024-10-14 16:33:43.027975 Tango: No
+2024-10-14 16:33:43.028253 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:43.092407 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:43.094013 Echo: Hotel, sending you 4
+2024-10-14 16:33:43.095824 Mike: Hotel, sending you 2
+2024-10-14 16:33:43.096502 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:43.097592 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:43.098938 Sierra: Romeo, sending you 1
+2024-10-14 16:33:43.138777 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:43.141208 X-ray: Hotel, sending you 3
+2024-10-14 16:33:43.143501 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:43.145365 Tango: Charlie, sending you 2
+2024-10-14 16:33:43.147098 Alpha: Tango, sending you 4
+2024-10-14 16:33:43.148177 Foxtrot: Hotel, sending you 4
+2024-10-14 16:33:43.150783 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:43.152238 Echo: X-ray, sending you 3
+2024-10-14 16:33:43.153475 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:43.154964 Alpha: Romeo, sending you 2
+2024-10-14 16:33:43.156842 Hotel: Mike, sending you 1
+2024-10-14 16:33:43.159758 Romeo: Tango, sending you 4
+2024-10-14 16:33:43.161415 Echo: Sierra, sending you 2
+2024-10-14 16:33:43.162584 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:43.235235 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:43.237285 Romeo: Charlie and Sierra, sending you 1
+chatterbot Sierra submitting transactions
+2024-10-14 16:33:43.243366 Romeo: Alpha, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 15
+ChatterBot Echo round 15
+ChatterBot Romeo round 15
+ChatterBot Mike round 15
+ChatterBot Charlie round 15
+ChatterBot Hotel round 15
+ChatterBot Foxtrot round 15
+ChatterBot X-ray round 15
+ChatterBot Sierra round 15
+ChatterBot Alpha round 15
+2024-10-14 16:33:44.686397 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:44.689300 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:44.692007 Romeo: Tango, sending you 4
+2024-10-14 16:33:44.694113 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:44.696402 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:44.698989 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:44.701447 Echo: Hotel, sending you 4
+2024-10-14 16:33:44.704883 Mike: Sending you 2
+2024-10-14 16:33:44.705509 Foxtrot: Echo, sending you 1
+2024-10-14 16:33:44.709511 Alpha: Tango, sending you 4
+2024-10-14 16:33:44.712506 X-ray: Hotel, sending you 3
+2024-10-14 16:33:44.715437 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:44.718562 Hotel: Mike, sending you 1
+2024-10-14 16:33:44.721320 Tango: Charlie, sending you 2
+2024-10-14 16:33:44.723666 Sierra: Romeo, sending you 1
+2024-10-14 16:33:44.726793 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:44.730452 Foxtrot: Hotel, sending you 3
+2024-10-14 16:33:44.735313 Alpha: Romeo, sending you 2
+2024-10-14 16:33:44.737539 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:44.740020 Romeo: Alpha, sending you 2
+2024-10-14 16:33:44.742771 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:44.745805 Echo: X-ray, sending you 3
+2024-10-14 16:33:44.748891 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:44.794079 Echo: Sierra, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Tango round 16
+ChatterBot Echo round 16
+ChatterBot Romeo round 16
+ChatterBot Mike round 16
+ChatterBot Charlie round 16
+ChatterBot Hotel round 16
+ChatterBot Foxtrot round 16
+ChatterBot X-ray round 16
+ChatterBot Sierra round 16
+ChatterBot Alpha round 16
+2024-10-14 16:33:45.757570 Mike: We should replace Charlie with Foxtrot
+2024-10-14 16:33:45.777875 Echo: We should replace Romeo with Tango
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:45.793527 Foxtrot: No
+2024-10-14 16:33:45.793724 Hotel: No
+2024-10-14 16:33:45.794358 X-ray: No
+2024-10-14 16:33:45.794473 Sierra: Yes
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:33:45.871423 Mike: Foxtrot we want you to join our group
+2024-10-14 16:33:45.875173 Foxtrot: No
+ChatterBot Mike reevaluating
+2024-10-14 16:33:45.951537 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:45.953830 Romeo: Tango, sending you 4
+2024-10-14 16:33:46.005006 Tango: Charlie, sending you 2
+2024-10-14 16:33:46.006944 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:46.009204 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:46.010457 Alpha: Tango, sending you 4
+2024-10-14 16:33:46.011822 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:46.013009 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:46.013959 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:46.015569 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:46.017394 X-ray: Hotel, sending you 3
+2024-10-14 16:33:46.018726 Alpha: Romeo, sending you 2
+2024-10-14 16:33:46.019643 Romeo: Alpha, sending you 2
+2024-10-14 16:33:46.021771 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:46.024101 Hotel: Mike, sending you 1
+2024-10-14 16:33:46.026088 Mike: Same as last round
+2024-10-14 16:33:46.026797 Echo: Hotel, sending you 4
+2024-10-14 16:33:46.029290 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:46.031281 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:46.033271 Sierra: Romeo, sending you 1
+2024-10-14 16:33:46.035164 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:46.037697 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:46.276172 Echo: X-ray, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+2024-10-14 16:33:46.291784 Echo: Sierra, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Tango round 17
+ChatterBot Echo round 17
+ChatterBot Romeo round 17
+ChatterBot Mike round 17
+ChatterBot Charlie round 17
+ChatterBot Hotel round 17
+ChatterBot Foxtrot round 17
+ChatterBot X-ray round 17
+ChatterBot Sierra round 17
+ChatterBot Alpha round 17
+2024-10-14 16:33:47.502595 Sierra: We should replace Romeo with Tango
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:47.524880 Foxtrot: No
+2024-10-14 16:33:47.525099 Echo: Yes
+2024-10-14 16:33:47.525285 Hotel: No
+2024-10-14 16:33:47.525442 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:47.607706 Sierra: Tango we want you to join our group
+2024-10-14 16:33:47.611926 Tango: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:47.633073 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:47.637192 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:47.638954 Mike: Same as last round
+2024-10-14 16:33:47.639629 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:47.641415 Romeo: Tango, sending you 4
+2024-10-14 16:33:47.642952 Echo: Tango we want you to join our group
+2024-10-14 16:33:47.646327 Tango: No
+2024-10-14 16:33:47.738705 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:47.743114 Tango: Charlie, sending you 2
+2024-10-14 16:33:47.745144 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:47.746174 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:47.748655 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:47.749426 Romeo: Alpha, sending you 2
+2024-10-14 16:33:47.754858 Alpha: Tango, sending you 4
+2024-10-14 16:33:47.763422 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:47.765216 Sierra: Foxtrot, sending you 1
+2024-10-14 16:33:47.768367 X-ray: Hotel, sending you 3
+2024-10-14 16:33:47.771430 Alpha: Romeo, sending you 2
+2024-10-14 16:33:47.772970 Hotel: Mike, sending you 1
+2024-10-14 16:33:47.815767 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:47.819399 Echo: Hotel, sending you 4
+2024-10-14 16:33:47.822976 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:47.825686 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:47.828750 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:47.912849 Echo: X-ray, sending you 3
+2024-10-14 16:33:47.993319 Echo: Sierra, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 18
+ChatterBot Echo round 18
+ChatterBot Romeo round 18
+ChatterBot Mike round 18
+ChatterBot Charlie round 18
+ChatterBot Hotel round 18
+ChatterBot Foxtrot round 18
+ChatterBot X-ray round 18
+ChatterBot Sierra round 18
+ChatterBot Alpha round 18
+2024-10-14 16:33:49.080608 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:49.086426 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:49.089002 Alpha: Tango, sending you 4
+2024-10-14 16:33:49.091423 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:49.094097 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:49.097660 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:49.103083 Mike: Hotel, sending you 2
+2024-10-14 16:33:49.106271 Romeo: Tango, sending you 4
+2024-10-14 16:33:49.109410 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:49.113084 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:49.115578 X-ray: Hotel, sending you 3
+2024-10-14 16:33:49.118521 Echo: Hotel, sending you 4
+2024-10-14 16:33:49.122029 Alpha: Romeo, sending you 2
+2024-10-14 16:33:49.125451 Sierra: Foxtrot, sending you 1
+2024-10-14 16:33:49.129129 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:49.132573 Hotel: Mike, sending you 1
+2024-10-14 16:33:49.135755 Tango: Charlie, sending you 2
+2024-10-14 16:33:49.138319 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:49.142186 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:49.146231 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:49.148860 Romeo: Alpha, sending you 2
+2024-10-14 16:33:49.152275 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:49.155644 Echo: X-ray, sending you 3
+2024-10-14 16:33:49.436687 Echo: Sierra, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Tango round 19
+ChatterBot Echo round 19
+ChatterBot Romeo round 19
+ChatterBot Mike round 19
+ChatterBot Charlie round 19
+ChatterBot Hotel round 19
+ChatterBot Foxtrot round 19
+ChatterBot X-ray round 19
+ChatterBot Sierra round 19
+ChatterBot Alpha round 19
+2024-10-14 16:33:50.488509 Romeo: We should replace Sierra with Echo
+2024-10-14 16:33:50.505737 Alpha: No
+2024-10-14 16:33:50.506324 Tango: No
+2024-10-14 16:33:50.506453 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:50.559880 Echo: We should replace Tango with Alpha
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:50.576220 Foxtrot: No
+2024-10-14 16:33:50.576361 Hotel: No
+2024-10-14 16:33:50.576472 X-ray: No
+2024-10-14 16:33:50.576579 Sierra: Yes
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:50.690477 Sierra: Alpha we want you to join our group
+2024-10-14 16:33:50.699947 Alpha: No
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:50.725859 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:50.726683 Mike: Sending you 2
+2024-10-14 16:33:50.727466 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:50.728648 Alpha: Tango, sending you 4
+2024-10-14 16:33:50.729971 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:50.731387 Tango: Charlie, sending you 2
+2024-10-14 16:33:50.733385 Alpha: Romeo, sending you 2
+2024-10-14 16:33:50.881287 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:50.884221 Romeo: Tango, sending you 4
+2024-10-14 16:33:50.886297 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:50.888779 Echo: Hotel, sending you 4
+2024-10-14 16:33:50.898402 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:33:50.900906 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:50.902663 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:50.903836 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:50.906031 Romeo: Alpha, sending you 2
+2024-10-14 16:33:50.910274 Hotel: Mike, sending you 1
+2024-10-14 16:33:50.913555 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:50.917147 X-ray: Hotel, sending you 3
+2024-10-14 16:33:50.921656 Echo: X-ray, sending you 3
+2024-10-14 16:33:50.923860 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:50.927735 Sierra: Foxtrot, sending you 1
+2024-10-14 16:33:50.934274 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:50.936717 Echo: Sierra, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Mike submitting transactions
+ChatterBot Tango round 20
+ChatterBot Echo round 20
+ChatterBot Romeo round 20
+ChatterBot Mike round 20
+ChatterBot Charlie round 20
+ChatterBot Hotel round 20
+ChatterBot Foxtrot round 20
+ChatterBot X-ray round 20
+ChatterBot Sierra round 20
+ChatterBot Alpha round 20
+2024-10-14 16:33:52.112584 Mike: We would work well together
+ChatterBot Tango reevaluating
+2024-10-14 16:33:52.126822 Alpha: Yes
+2024-10-14 16:33:52.127025 Tango: Yes
+2024-10-14 16:33:52.127185 Romeo: No
+2024-10-14 16:33:52.127298 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:52.197080 Romeo: We should replace Sierra with Mike
+ChatterBot Tango reevaluating
+2024-10-14 16:33:52.214021 Alpha: Yes
+2024-10-14 16:33:52.214402 Tango: Yes
+2024-10-14 16:33:52.214684 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:52.321756 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:33:52.325668 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:52.330107 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:52.333520 Echo: Hotel, sending you 4
+2024-10-14 16:33:52.338347 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:52.341992 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:52.346193 Romeo: Mike we want you to join our group
+2024-10-14 16:33:52.354395 Mike: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:33:52.374607 Tango: We should add Mike
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:52.387608 Alpha: Yes
+2024-10-14 16:33:52.387973 Romeo: No
+2024-10-14 16:33:52.388171 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:33:52.438209 X-ray: Hotel, sending you 3
+2024-10-14 16:33:52.441726 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:52.445631 Hotel: Mike, sending you 1
+2024-10-14 16:33:52.449142 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:52.452318 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:52.455910 Alpha: Tango, sending you 4
+2024-10-14 16:33:52.459151 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:52.461672 Echo: X-ray, sending you 3
+2024-10-14 16:33:52.464083 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:52.467003 Sierra: Foxtrot, sending you 1
+2024-10-14 16:33:52.469149 Alpha: Romeo, sending you 2
+2024-10-14 16:33:52.472103 Echo: Sierra, sending you 2
+2024-10-14 16:33:52.475198 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:52.570546 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:52.594839 Tango: Charlie, sending you 2
+2024-10-14 16:33:52.597077 Romeo: Tango, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+2024-10-14 16:33:52.629583 Romeo: Mike and Charlie, sending you 1
+2024-10-14 16:33:52.809082 Romeo: Alpha, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Tango round 21
+ChatterBot Echo round 21
+ChatterBot Romeo round 21
+ChatterBot Mike round 21
+ChatterBot Charlie round 21
+ChatterBot Hotel round 21
+ChatterBot Foxtrot round 21
+ChatterBot X-ray round 21
+ChatterBot Sierra round 21
+ChatterBot Alpha round 21
+2024-10-14 16:33:54.053209 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:54.056481 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:54.060744 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:33:54.064293 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:54.067053 Romeo: Tango, sending you 4
+2024-10-14 16:33:54.070311 Tango: Charlie, sending you 2
+2024-10-14 16:33:54.073326 X-ray: Hotel, sending you 3
+2024-10-14 16:33:54.077522 Romeo: Mike and Charlie, sending you 1
+2024-10-14 16:33:54.081315 Sierra: Echo, Hotel and X-ray, sending you 2
+2024-10-14 16:33:54.085827 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:54.092368 Echo: Hotel, sending you 4
+2024-10-14 16:33:54.097219 Alpha: Tango, sending you 4
+2024-10-14 16:33:54.101047 Hotel: Echo and X-ray, sending you 3
+2024-10-14 16:33:54.105625 X-ray: Foxtrot, sending you 1
+2024-10-14 16:33:54.109570 Romeo: Alpha, sending you 2
+2024-10-14 16:33:54.113739 Sierra: Foxtrot, sending you 1
+2024-10-14 16:33:54.118606 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:54.125927 Echo: Foxtrot, sending you 1
+2024-10-14 16:33:54.132304 Alpha: Romeo, sending you 2
+2024-10-14 16:33:54.136605 Hotel: Mike, sending you 1
+2024-10-14 16:33:54.142837 Echo: X-ray, sending you 3
+2024-10-14 16:33:54.147821 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:54.151739 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:54.156444 Echo: Sierra, sending you 2
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Tango round 22
+ChatterBot Echo round 22
+ChatterBot Romeo round 22
+ChatterBot Mike round 22
+ChatterBot Charlie round 22
+ChatterBot Hotel round 22
+ChatterBot Foxtrot round 22
+ChatterBot X-ray round 22
+ChatterBot Sierra round 22
+ChatterBot Alpha round 22
+2024-10-14 16:33:57.029958 X-ray: We should drop Echo
+2024-10-14 16:33:57.046290 Hotel: No
+2024-10-14 16:33:57.046862 Foxtrot: No
+2024-10-14 16:33:57.047038 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:57.085114 Sierra: We should replace Alpha with Romeo
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:57.099486 Foxtrot: No
+2024-10-14 16:33:57.099643 Echo: Yes
+2024-10-14 16:33:57.100205 Hotel: No
+2024-10-14 16:33:57.100320 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:57.373324 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:33:57.376169 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:57.380092 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:57.383782 Romeo: Tango, sending you 4
+2024-10-14 16:33:57.386003 Alpha: Tango, sending you 4
+2024-10-14 16:33:57.391413 X-ray: We should drop Sierra
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:33:57.403508 Echo: No
+2024-10-14 16:33:57.404388 Hotel: No
+2024-10-14 16:33:57.404645 Foxtrot: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:33:57.447979 Tango: Charlie, sending you 2
+2024-10-14 16:33:57.451225 Romeo: Mike and Charlie, sending you 1
+2024-10-14 16:33:57.453882 Alpha: Romeo, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 16:33:57.457156 Hotel: We should drop Mike
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:57.472594 Foxtrot: Yes
+2024-10-14 16:33:57.472799 Echo: Yes
+2024-10-14 16:33:57.473380 X-ray: Yes
+2024-10-14 16:33:57.473510 Sierra: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:57.532800 Romeo: Alpha, sending you 2
+2024-10-14 16:33:57.534555 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:57.580526 Foxtrot: Echo and X-ray, sending you 1
+chatterbot Charlie submitting transactions
+2024-10-14 16:33:57.616744 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:57.620838 Hotel: Echo, sending you 4
+2024-10-14 16:33:57.690555 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:57.693185 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:57.735302 X-ray: Hotel, sending you 3
+2024-10-14 16:33:57.738762 Hotel: X-ray, sending you 3
+2024-10-14 16:33:57.773050 X-ray: Foxtrot, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 23
+ChatterBot Echo round 23
+ChatterBot Romeo round 23
+ChatterBot Mike round 23
+ChatterBot Charlie round 23
+ChatterBot Hotel round 23
+ChatterBot Foxtrot round 23
+ChatterBot X-ray round 23
+ChatterBot Sierra round 23
+ChatterBot Alpha round 23
+2024-10-14 16:33:58.845435 Echo: We should replace Tango with Romeo
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:58.859007 Foxtrot: No
+2024-10-14 16:33:58.859221 Hotel: No
+2024-10-14 16:33:58.859681 X-ray: No
+2024-10-14 16:33:58.859803 Sierra: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:58.946517 Sierra: We should replace Alpha with Romeo
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:58.961262 Foxtrot: No
+2024-10-14 16:33:58.961463 Echo: Yes
+2024-10-14 16:33:58.961995 Hotel: No
+2024-10-14 16:33:58.962109 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:33:59.176600 Echo: Romeo we want you to join our group
+2024-10-14 16:33:59.182020 Romeo: No
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:59.203774 Romeo: Tango, sending you 4
+2024-10-14 16:33:59.206937 Sierra: Romeo we want you to join our group
+2024-10-14 16:33:59.213906 Romeo: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:59.234506 Hotel: We should add Charlie
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:59.266377 Foxtrot: Yes
+2024-10-14 16:33:59.267323 Echo: No
+2024-10-14 16:33:59.267580 X-ray: No
+2024-10-14 16:33:59.267929 Sierra: No
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:59.341658 Romeo: Mike and Charlie, sending you 1
+2024-10-14 16:33:59.346116 Hotel: We should add Romeo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:33:59.360122 Foxtrot: Yes
+2024-10-14 16:33:59.360288 Echo: Yes
+2024-10-14 16:33:59.360411 X-ray: No
+2024-10-14 16:33:59.360528 Sierra: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:33:59.425129 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:33:59.429006 Alpha: Tango, sending you 4
+2024-10-14 16:33:59.432505 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:33:59.435244 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:33:59.438496 Romeo: Alpha, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 16:33:59.443100 Alpha: Romeo, sending you 2
+2024-10-14 16:33:59.446440 Tango: Charlie, sending you 2
+2024-10-14 16:33:59.449853 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:33:59.497318 Hotel: Echo, sending you 4
+2024-10-14 16:33:59.501708 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:33:59.505605 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:33:59.508935 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:33:59.512729 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:33:59.516376 Echo: Hotel, sending you 4
+2024-10-14 16:33:59.521150 Foxtrot: Hotel, sending you 2
+2024-10-14 16:33:59.525697 X-ray: Hotel, sending you 3
+2024-10-14 16:33:59.530675 Hotel: X-ray, sending you 3
+2024-10-14 16:33:59.536119 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:33:59.540856 X-ray: Foxtrot, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 24
+ChatterBot Echo round 24
+ChatterBot Romeo round 24
+ChatterBot Mike round 24
+ChatterBot Charlie round 24
+ChatterBot Hotel round 24
+ChatterBot Foxtrot round 24
+ChatterBot X-ray round 24
+ChatterBot Sierra round 24
+ChatterBot Alpha round 24
+2024-10-14 16:34:00.984923 Sierra: We should replace Alpha with Romeo
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:00.998098 Foxtrot: Yes
+2024-10-14 16:34:00.998303 Echo: Yes
+2024-10-14 16:34:00.998445 Hotel: No
+2024-10-14 16:34:00.998995 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:01.066098 Hotel: We should add Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:01.189434 Foxtrot: Yes
+2024-10-14 16:34:01.189672 Echo: Yes
+2024-10-14 16:34:01.189804 X-ray: No
+2024-10-14 16:34:01.190415 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:01.276392 Romeo: We should replace Mike with Sierra
+2024-10-14 16:34:01.305291 Alpha: No
+2024-10-14 16:34:01.305652 Tango: No
+2024-10-14 16:34:01.305873 Charlie: No
+2024-10-14 16:34:01.374521 Sierra: Romeo we want you to join our group
+2024-10-14 16:34:01.384117 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:01.416674 Romeo: Sierra we want you to join our group
+2024-10-14 16:34:01.425502 Sierra: No
+2024-10-14 16:34:01.450696 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:01.455672 Alpha: Tango, sending you 4
+2024-10-14 16:34:01.459177 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:01.461874 Echo: Hotel, sending you 4
+2024-10-14 16:34:01.467043 Alpha: Romeo, sending you 2
+2024-10-14 16:34:01.469740 Tango: Charlie, sending you 2
+2024-10-14 16:34:01.473022 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:34:01.479363 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:34:01.484378 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:34:01.486507 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:01.490213 Romeo: Tango, sending you 4
+2024-10-14 16:34:01.494434 Hotel: Echo, sending you 4
+2024-10-14 16:34:01.498789 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:01.503582 Alpha: Mike and Charlie, sending you 1
+chatterbot Sierra submitting transactions
+2024-10-14 16:34:01.507361 X-ray: Hotel, sending you 3
+2024-10-14 16:34:01.511589 Foxtrot: Hotel, sending you 2
+2024-10-14 16:34:01.519263 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:34:01.524067 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:01.529074 X-ray: Foxtrot, sending you 1
+2024-10-14 16:34:01.533704 Romeo: Alpha, sending you 2
+2024-10-14 16:34:01.537837 Hotel: X-ray, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Tango round 25
+ChatterBot Echo round 25
+ChatterBot Romeo round 25
+ChatterBot Mike round 25
+ChatterBot Charlie round 25
+ChatterBot Hotel round 25
+ChatterBot Foxtrot round 25
+ChatterBot X-ray round 25
+ChatterBot Sierra round 25
+ChatterBot Alpha round 25
+2024-10-14 16:34:03.023642 Sierra: We should replace Alpha with Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:03.039323 Foxtrot: Yes
+2024-10-14 16:34:03.039518 Echo: Yes
+2024-10-14 16:34:03.039689 Hotel: Yes
+2024-10-14 16:34:03.039828 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:03.170913 Romeo: We should replace Sierra with Echo
+2024-10-14 16:34:03.187288 Alpha: No
+2024-10-14 16:34:03.187552 Tango: No
+2024-10-14 16:34:03.187746 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:03.242353 Sierra: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:03.272023 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:03.405076 Hotel: We should add Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:03.424356 Foxtrot: Yes
+2024-10-14 16:34:03.424583 Echo: Yes
+2024-10-14 16:34:03.424809 X-ray: No
+2024-10-14 16:34:03.425505 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:03.625418 X-ray: We should drop Hotel
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:03.637134 Echo: No
+2024-10-14 16:34:03.637797 Foxtrot: No
+2024-10-14 16:34:03.638008 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:03.677480 Romeo: Echo we want you to join our group
+2024-10-14 16:34:03.684540 Echo: No
+ChatterBot Romeo reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 16:34:03.701110 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:34:03.704809 Alpha: Tango, sending you 4
+2024-10-14 16:34:03.707393 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:03.710898 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:03.713323 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:03.718457 Hotel: Echo, sending you 4
+2024-10-14 16:34:03.722154 Alpha: Romeo, sending you 2
+2024-10-14 16:34:03.725454 Tango: Charlie, sending you 2
+2024-10-14 16:34:03.729002 Echo: Hotel, sending you 4
+2024-10-14 16:34:03.734699 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:03.739134 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:34:03.743576 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:34:03.749419 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:34:03.754516 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:03.757971 Hotel: X-ray, sending you 3
+2024-10-14 16:34:03.760131 Romeo: Tango, sending you 4
+2024-10-14 16:34:03.763305 X-ray: Hotel, sending you 3
+2024-10-14 16:34:03.767709 Foxtrot: Hotel, sending you 2
+2024-10-14 16:34:03.773559 Romeo: Echo and Charlie, sending you 1
+chatterbot Charlie submitting transactions
+2024-10-14 16:34:03.778675 X-ray: Foxtrot, sending you 1
+2024-10-14 16:34:03.784684 Romeo: Alpha, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Tango round 26
+ChatterBot Echo round 26
+ChatterBot Romeo round 26
+ChatterBot Mike round 26
+ChatterBot Charlie round 26
+ChatterBot Hotel round 26
+ChatterBot Foxtrot round 26
+ChatterBot X-ray round 26
+ChatterBot Sierra round 26
+ChatterBot Alpha round 26
+2024-10-14 16:34:05.073038 Romeo: We should replace Echo with Sierra
+2024-10-14 16:34:05.091687 Alpha: No
+2024-10-14 16:34:05.091913 Tango: No
+2024-10-14 16:34:05.092082 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:05.156875 Sierra: We should replace Alpha with Romeo
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:05.171696 Foxtrot: No
+2024-10-14 16:34:05.171877 Echo: Yes
+2024-10-14 16:34:05.172013 Hotel: No
+2024-10-14 16:34:05.172137 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:05.340654 Hotel: We should add Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:05.377752 Foxtrot: Yes
+2024-10-14 16:34:05.377976 Echo: Yes
+2024-10-14 16:34:05.378641 X-ray: No
+2024-10-14 16:34:05.378843 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:05.443675 Sierra: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:05.460629 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:05.610838 Romeo: Sierra we want you to join our group
+2024-10-14 16:34:05.617457 Sierra: No
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:05.633387 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:05.638447 X-ray: We should drop Foxtrot
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:05.652007 Echo: No
+2024-10-14 16:34:05.652213 Hotel: No
+2024-10-14 16:34:05.652334 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:05.694878 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:05.699025 Alpha: Tango, sending you 4
+2024-10-14 16:34:05.703137 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:05.709442 Mike: Charlie and Alpha, sending you 1
+chatterbot Mike submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+2024-10-14 16:34:05.715875 Tango: Charlie, sending you 2
+2024-10-14 16:34:05.719850 Alpha: Romeo, sending you 2
+2024-10-14 16:34:05.724013 Echo: Hotel, sending you 4
+2024-10-14 16:34:05.730060 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:34:05.734525 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:05.740590 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:34:05.745743 Hotel: Echo, sending you 4
+2024-10-14 16:34:05.750895 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:34:05.759658 X-ray: Hotel, sending you 3
+2024-10-14 16:34:05.764995 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:05.769823 Foxtrot: Hotel, sending you 2
+2024-10-14 16:34:05.778920 Romeo: Tango, sending you 4
+chatterbot Tango submitting transactions
+2024-10-14 16:34:05.783092 X-ray: Foxtrot, sending you 1
+2024-10-14 16:34:05.788724 Hotel: X-ray, sending you 3
+2024-10-14 16:34:05.793325 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:34:05.970143 Romeo: Alpha, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 27
+ChatterBot Echo round 27
+ChatterBot Romeo round 27
+ChatterBot Mike round 27
+ChatterBot Charlie round 27
+ChatterBot Hotel round 27
+ChatterBot Foxtrot round 27
+ChatterBot X-ray round 27
+ChatterBot Sierra round 27
+ChatterBot Alpha round 27
+2024-10-14 16:34:06.808803 Sierra: We should replace Alpha with Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:06.823203 Foxtrot: Yes
+2024-10-14 16:34:06.823367 Echo: Yes
+2024-10-14 16:34:06.823493 Hotel: Yes
+2024-10-14 16:34:06.823626 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:06.895192 Sierra: Romeo we want you to join our group
+2024-10-14 16:34:06.906101 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:06.937846 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:06.942418 Alpha: Tango, sending you 4
+2024-10-14 16:34:06.946940 Romeo: Tango, sending you 4
+2024-10-14 16:34:06.951631 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:06.955543 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:06.961300 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:34:06.964948 Tango: Charlie, sending you 2
+2024-10-14 16:34:06.969656 Alpha: Romeo, sending you 2
+2024-10-14 16:34:06.973535 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:34:06.979173 Echo: Hotel, sending you 4
+2024-10-14 16:34:06.987726 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:34:06.992583 Romeo: Alpha, sending you 2
+2024-10-14 16:34:06.997892 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:07.004569 Hotel: Echo, sending you 4
+2024-10-14 16:34:07.010326 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:34:07.017396 Foxtrot: Echo and X-ray, sending you 1
+2024-10-14 16:34:07.026478 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:07.032861 X-ray: Hotel, sending you 3
+2024-10-14 16:34:07.037836 Foxtrot: Hotel, sending you 2
+2024-10-14 16:34:07.047168 Hotel: X-ray, sending you 3
+2024-10-14 16:34:07.052332 X-ray: Foxtrot, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 28
+ChatterBot Echo round 28
+ChatterBot Romeo round 28
+ChatterBot Mike round 28
+ChatterBot Charlie round 28
+ChatterBot Hotel round 28
+ChatterBot Foxtrot round 28
+ChatterBot X-ray round 28
+ChatterBot Sierra round 28
+ChatterBot Alpha round 28
+2024-10-14 16:34:08.405696 Romeo: We should replace Sierra with Echo
+2024-10-14 16:34:08.423353 Alpha: No
+2024-10-14 16:34:08.423587 Tango: No
+2024-10-14 16:34:08.423778 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:08.480057 Hotel: We should add Romeo
+2024-10-14 16:34:08.495120 Foxtrot: Yes
+2024-10-14 16:34:08.495288 Echo: Yes
+2024-10-14 16:34:08.495422 X-ray: No
+2024-10-14 16:34:08.495548 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:08.575264 Sierra: We should replace Alpha with Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:08.590987 Foxtrot: No
+2024-10-14 16:34:08.591160 Echo: Yes
+2024-10-14 16:34:08.591294 Hotel: No
+2024-10-14 16:34:08.591416 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:08.811898 Sierra: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:08.821237 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:09.044350 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:09.052681 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:09.057259 X-ray: Echo and Sierra, sending you 2
+2024-10-14 16:34:09.064031 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:09.069409 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:34:09.073929 Hotel: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:09.086850 Romeo: No
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:09.119456 Echo: Hotel, sending you 4
+2024-10-14 16:34:09.126001 Tango: Charlie, sending you 2
+2024-10-14 16:34:09.130582 X-ray: Hotel, sending you 3
+chatterbot Mike submitting transactions
+2024-10-14 16:34:09.136429 Alpha: Tango, sending you 4
+chatterbot X-ray submitting transactions
+2024-10-14 16:34:09.139728 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:09.146949 X-ray: Foxtrot, sending you 1
+2024-10-14 16:34:09.153015 Foxtrot: Echo and X-ray, sending you 1
+chatterbot Tango submitting transactions
+2024-10-14 16:34:09.158456 Alpha: Romeo, sending you 2
+2024-10-14 16:34:09.163959 Foxtrot: Hotel, sending you 2
+2024-10-14 16:34:09.241873 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:34:09.246952 Romeo: Tango, sending you 4
+2024-10-14 16:34:09.251011 Hotel: Echo, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+2024-10-14 16:34:09.337505 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:34:09.342721 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:09.349375 Romeo: Alpha, sending you 2
+2024-10-14 16:34:09.353946 Hotel: X-ray, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Tango round 29
+ChatterBot Echo round 29
+ChatterBot Romeo round 29
+ChatterBot Mike round 29
+ChatterBot Charlie round 29
+ChatterBot Hotel round 29
+ChatterBot Foxtrot round 29
+ChatterBot X-ray round 29
+ChatterBot Sierra round 29
+ChatterBot Alpha round 29
+2024-10-14 16:34:10.367897 Hotel: We should add Romeo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:10.386105 Foxtrot: Yes
+2024-10-14 16:34:10.386357 Echo: Yes
+2024-10-14 16:34:10.388381 X-ray: No
+2024-10-14 16:34:10.388561 Sierra: Yes
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:10.483910 Sierra: We should replace Alpha with Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:10.499848 Foxtrot: Yes
+2024-10-14 16:34:10.500942 Echo: Yes
+2024-10-14 16:34:10.501074 Hotel: No
+2024-10-14 16:34:10.501179 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:10.579444 Sierra: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:10.589254 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:10.616324 Romeo: We should replace Sierra with X-ray
+2024-10-14 16:34:10.632955 Alpha: No
+2024-10-14 16:34:10.633277 Tango: No
+2024-10-14 16:34:10.634542 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:10.733121 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:34:10.735519 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:10.742483 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:10.744200 Romeo: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:10.780405 X-ray: No
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:10.854757 Romeo: We should replace Sierra with Echo
+2024-10-14 16:34:10.872599 Alpha: No
+2024-10-14 16:34:10.872914 Tango: No
+2024-10-14 16:34:10.873106 Charlie: No
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:34:10.929529 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:10.934220 Tango: Charlie, sending you 2
+2024-10-14 16:34:10.937318 X-ray: We should drop Hotel
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:10.955390 Echo: No
+2024-10-14 16:34:10.955690 Foxtrot: No
+2024-10-14 16:34:10.955913 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:11.019072 Alpha: Tango, sending you 4
+2024-10-14 16:34:11.023974 Hotel: Echo, sending you 4
+2024-10-14 16:34:11.028013 Echo: Hotel, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Mike submitting transactions
+2024-10-14 16:34:11.033140 Alpha: Romeo, sending you 2
+2024-10-14 16:34:11.035598 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:11.039147 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:11.042380 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:34:11.107794 Hotel: X-ray, sending you 3
+2024-10-14 16:34:11.146466 Romeo: Tango, sending you 4
+2024-10-14 16:34:11.176934 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:34:11.225066 Romeo: Alpha, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Tango round 30
+ChatterBot Echo round 30
+ChatterBot Romeo round 30
+ChatterBot Mike round 30
+ChatterBot Charlie round 30
+ChatterBot Hotel round 30
+ChatterBot Foxtrot round 30
+ChatterBot X-ray round 30
+ChatterBot Sierra round 30
+ChatterBot Alpha round 30
+2024-10-14 16:34:12.200208 X-ray: We should add Hotel
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:12.213032 Echo: Yes
+2024-10-14 16:34:12.213194 Foxtrot: Yes
+2024-10-14 16:34:12.213310 Sierra: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:34:12.296981 Sierra: We should replace Alpha with Romeo
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:12.323248 Foxtrot: Yes
+2024-10-14 16:34:12.323483 Echo: Yes
+2024-10-14 16:34:12.323683 Hotel: Yes
+2024-10-14 16:34:12.323967 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:34:12.429003 Sierra: Romeo we want you to join our group
+2024-10-14 16:34:12.438496 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:12.462700 Romeo: Tango, sending you 4
+2024-10-14 16:34:12.467394 Charlie: Tango, Romeo, Mike and Alpha, sending you 1
+2024-10-14 16:34:12.471805 Echo: Romeo and Foxtrot, sending you 1
+2024-10-14 16:34:12.479380 Alpha: Tango, sending you 4
+2024-10-14 16:34:12.485016 Tango: Romeo and Alpha, sending you 4
+2024-10-14 16:34:12.489513 Mike: Charlie and Alpha, sending you 1
+2024-10-14 16:34:12.494192 X-ray: Hotel we want you to join our group
+2024-10-14 16:34:12.503543 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:12.523354 X-ray: We should replace Foxtrot with Hotel
+2024-10-14 16:34:12.539496 Echo: No
+2024-10-14 16:34:12.539690 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:34:12.564926 Romeo: Charlie and Sierra, sending you 1
+2024-10-14 16:34:12.571271 Echo: Hotel, sending you 4
+2024-10-14 16:34:12.578358 Alpha: Romeo, sending you 2
+2024-10-14 16:34:12.583297 Tango: Charlie, sending you 2
+2024-10-14 16:34:12.588448 Romeo: Alpha, sending you 2
+2024-10-14 16:34:12.596041 Echo: X-ray and Sierra, sending you 2
+2024-10-14 16:34:12.604075 Alpha: Mike and Charlie, sending you 1
+2024-10-14 16:34:12.608482 Hotel: Echo, sending you 4
+2024-10-14 16:34:12.650024 Hotel: Foxtrot and Sierra, sending you 2
+2024-10-14 16:34:12.678872 Hotel: X-ray, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Mike submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions

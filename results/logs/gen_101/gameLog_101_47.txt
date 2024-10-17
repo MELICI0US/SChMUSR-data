@@ -1,0 +1,2496 @@
+ChatterBot Papa round 1
+ChatterBot Delta round 1
+ChatterBot Quebec round 1
+ChatterBot Romeo round 1
+ChatterBot Tango round 1
+ChatterBot Kilo round 1
+ChatterBot Whiskey round 1
+ChatterBot Uniform round 1
+ChatterBot November round 1
+ChatterBot Hotel round 1
+randomSelections Tango: {Tango, Romeo, Kilo, Hotel, November, Papa} 
+2024-10-14 14:59:03.652637 Tango: Group up?
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:59:03.668196 Romeo: Yes
+2024-10-14 14:59:03.668375 Kilo: Yes
+2024-10-14 14:59:03.668531 Hotel: Yes
+2024-10-14 14:59:03.669143 November: Yes
+2024-10-14 14:59:03.669320 Papa: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+randomSelections Whiskey: {Whiskey, Kilo, Quebec, Romeo, November, Delta} 
+2024-10-14 14:59:03.729343 Whiskey: Group up?
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:03.739370 Kilo: No
+2024-10-14 14:59:03.739581 Quebec: Yes
+2024-10-14 14:59:03.739728 Romeo: No
+2024-10-14 14:59:03.739904 November: No
+2024-10-14 14:59:03.740040 Delta: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+randomSelections Uniform: {Uniform, Delta, Whiskey, Hotel, Tango, November} 
+2024-10-14 14:59:03.776528 Uniform: We should group up
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:03.780891 Delta: No
+2024-10-14 14:59:03.781053 Whiskey: No
+2024-10-14 14:59:03.781239 Hotel: No
+2024-10-14 14:59:03.781392 Tango: No
+2024-10-14 14:59:03.781509 November: No
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:03.817658 Uniform: Delta and Tango, sending you 4
+2024-10-14 14:59:03.817952 Quebec: Romeo, sending you 3
+2024-10-14 14:59:03.821687 Hotel: Romeo and Tango, sending you 1
+2024-10-14 14:59:03.821999 Uniform: Whiskey, sending you 5
+2024-10-14 14:59:03.822227 Delta: Quebec, sending you 4
+2024-10-14 14:59:03.822662 Tango: Papa, Romeo and November, sending you 1
+2024-10-14 14:59:03.822890 Quebec: Kilo, sending you 5
+2024-10-14 14:59:03.823975 Kilo: Papa and Tango, sending you 2
+2024-10-14 14:59:03.824231 Romeo: Papa, sending you 1
+2024-10-14 14:59:03.824683 Papa: Romeo, Tango, Kilo, November and Hotel, sending you 2
+2024-10-14 14:59:03.825137 Uniform: Hotel, sending you 2
+2024-10-14 14:59:03.825694 November: Papa and Kilo, sending you 2
+2024-10-14 14:59:03.826063 Hotel: Kilo, sending you 2
+2024-10-14 14:59:03.826335 Delta: Romeo, sending you 5
+2024-10-14 14:59:03.826708 Whiskey: Delta, sending you 2
+2024-10-14 14:59:03.827053 Tango: Kilo, sending you 2
+2024-10-14 14:59:03.827297 Quebec: Whiskey, sending you 6
+2024-10-14 14:59:03.827474 Romeo: Tango, sending you 2
+2024-10-14 14:59:03.827701 Kilo: Romeo and November, sending you 1
+2024-10-14 14:59:03.828672 November: Romeo, Tango and Hotel, sending you 1
+2024-10-14 14:59:03.828911 Delta: Kilo and Whiskey, sending you 3
+2024-10-14 14:59:03.829694 Quebec: November, sending you 4
+2024-10-14 14:59:03.830682 Hotel: November, sending you 3
+2024-10-14 14:59:03.830954 Whiskey: Quebec, sending you 4
+2024-10-14 14:59:03.831171 Romeo: Kilo and Hotel, sending you 3
+2024-10-14 14:59:03.831678 Delta: November, sending you 1
+2024-10-14 14:59:03.833668 Whiskey: Kilo, sending you 3
+2024-10-14 14:59:03.834689 Romeo: November, sending you 9
+2024-10-14 14:59:03.836681 Whiskey: November, sending you 7
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 2
+ChatterBot Delta round 2
+ChatterBot Quebec round 2
+ChatterBot Romeo round 2
+ChatterBot Tango round 2
+ChatterBot Kilo round 2
+ChatterBot Whiskey round 2
+ChatterBot Uniform round 2
+2024-10-14 14:59:09.401104 Delta: Friends?
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:09.432788 Quebec: No
+2024-10-14 14:59:09.432976 Whiskey: No
+2024-10-14 14:59:09.433133 Uniform: No
+2024-10-14 14:59:09.433272 November: No
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot November reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November round 2
+2024-10-14 14:59:09.556112 Romeo: We should add Delta
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:09.650687 Tango: No
+2024-10-14 14:59:09.651532 Kilo: Yes
+2024-10-14 14:59:09.651688 Hotel: No
+2024-10-14 14:59:09.651868 November: No
+2024-10-14 14:59:09.652037 Papa: No
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:09.786177 Kilo: We should add Quebec
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:09.826211 Tango: No
+2024-10-14 14:59:09.826366 Romeo: Yes
+2024-10-14 14:59:09.826480 Hotel: No
+2024-10-14 14:59:09.827066 November: No
+2024-10-14 14:59:09.827213 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel round 2
+2024-10-14 14:59:10.075484 Papa: We should drop Hotel
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:10.101397 Romeo: No
+2024-10-14 14:59:10.101760 Tango: No
+2024-10-14 14:59:10.102596 Kilo: No
+2024-10-14 14:59:10.102880 November: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:10.206176 Kilo: Friends?
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:10.257540 Papa: No
+2024-10-14 14:59:10.258121 Romeo: Yes
+2024-10-14 14:59:10.258362 Tango: No
+2024-10-14 14:59:10.258507 November: No
+2024-10-14 14:59:10.258677 Hotel: No
+2024-10-14 14:59:10.258823 Delta: No
+2024-10-14 14:59:10.259077 Quebec: No
+2024-10-14 14:59:10.259622 Whiskey: No
+2024-10-14 14:59:10.259792 Uniform: No
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:10.762279 Tango: Uniform we want you to join our group
+2024-10-14 14:59:10.766344 Uniform: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:10.794048 Romeo: We should add Uniform
+2024-10-14 14:59:10.794378 Kilo: We should add Uniform
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:10.813432 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:10.822848 Kilo: Yes
+2024-10-14 14:59:10.823165 Hotel: Yes
+2024-10-14 14:59:10.827381 November: No
+2024-10-14 14:59:10.831648 Papa: No
+2024-10-14 14:59:10.835461 Tango: Yes
+2024-10-14 14:59:10.835634 Romeo: Yes
+2024-10-14 14:59:10.835776 Hotel: Yes
+2024-10-14 14:59:10.836255 November: No
+2024-10-14 14:59:10.836388 Papa: No
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:11.104138 Hotel: Uniform we want you to join our group
+2024-10-14 14:59:11.108757 Uniform: Yes
+2024-10-14 14:59:11.138499 Kilo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:11.145206 Uniform: Yes
+2024-10-14 14:59:11.175625 Romeo: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:11.181876 Uniform: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:11.213287 Quebec: Delta, sending you 10
+2024-10-14 14:59:11.213893 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 14:59:11.214570 Delta: Quebec and Kilo, sending you 3
+2024-10-14 14:59:11.214870 Papa: Same as last round
+2024-10-14 14:59:11.215985 November: Papa and Tango, sending you 2
+2024-10-14 14:59:11.217863 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:11.218347 Quebec: Whiskey, sending you 9
+2024-10-14 14:59:11.219407 Delta: Whiskey, sending you 4
+2024-10-14 14:59:11.219842 November: Romeo, sending you 7
+2024-10-14 14:59:11.220795 Whiskey: Kilo, sending you 3
+2024-10-14 14:59:11.236580 Delta: Uniform, sending you 6
+2024-10-14 14:59:11.237018 November: Kilo, sending you 1
+2024-10-14 14:59:11.237904 Hotel: Papa, Tango, Kilo, Uniform and November, sending you 1
+2024-10-14 14:59:11.238319 Kilo: Papa, Tango, November and Hotel, sending you 1
+chatterbot Uniform submitting transactions
+2024-10-14 14:59:11.280691 Hotel: Romeo, sending you 2
+2024-10-14 14:59:11.281528 Kilo: Romeo, sending you 2
+2024-10-14 14:59:11.281824 Tango: Papa, Romeo, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:11.282123 November: Hotel, sending you 3
+2024-10-14 14:59:11.282789 Romeo: Papa and Quebec, sending you 3
+2024-10-14 14:59:11.296555 Tango: Uniform, sending you 2
+2024-10-14 14:59:11.297512 Romeo: Delta, sending you 5
+chatterbot Quebec submitting transactions
+2024-10-14 14:59:11.321967 Romeo: Tango, Kilo, November and Hotel, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 3
+ChatterBot Delta round 3
+ChatterBot Quebec round 3
+ChatterBot Romeo round 3
+ChatterBot Tango round 3
+ChatterBot Kilo round 3
+2024-10-14 14:59:12.398722 Delta: We should replace Kilo with Romeo
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:12.416160 Uniform: No
+2024-10-14 14:59:12.416376 Quebec: No
+2024-10-14 14:59:12.416597 Whiskey: No
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey round 3
+ChatterBot Uniform round 3
+ChatterBot November round 3
+ChatterBot Hotel round 3
+2024-10-14 14:59:12.460298 Papa: We should replace Tango with Hotel
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:12.470107 Romeo: No
+2024-10-14 14:59:12.470258 Kilo: No
+2024-10-14 14:59:12.471010 November: No
+ChatterBot Romeo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:12.531339 Papa: We should replace Kilo with Hotel
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:12.542346 Romeo: No
+2024-10-14 14:59:12.543117 Tango: No
+2024-10-14 14:59:12.543243 November: No
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:12.574888 Delta: Romeo we want you to join our group
+2024-10-14 14:59:12.577873 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:12.593693 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:12.595032 Quebec: Delta, sending you 7
+2024-10-14 14:59:12.598931 Quebec: Romeo, sending you 3
+2024-10-14 14:59:12.599659 Tango: Papa, Romeo, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:12.600863 Papa: Hotel we want you to join our group
+2024-10-14 14:59:12.606236 Hotel: Yes
+ChatterBot Papa reevaluating
+2024-10-14 14:59:12.623580 Quebec: Whiskey, sending you 9
+2024-10-14 14:59:12.624086 November: Papa and Hotel, sending you 3
+2024-10-14 14:59:12.624798 Tango: Uniform, sending you 2
+2024-10-14 14:59:12.627658 November: Romeo, sending you 6
+2024-10-14 14:59:12.628063 Romeo: Papa, Kilo and Hotel, sending you 3
+2024-10-14 14:59:12.629268 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 14:59:12.629662 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:12.630346 Uniform: Delta, sending you 6
+2024-10-14 14:59:12.631675 November: Tango, sending you 1
+2024-10-14 14:59:12.632727 Romeo: Tango and Uniform, sending you 2
+2024-10-14 14:59:12.633758 Hotel: November, sending you 2
+2024-10-14 14:59:12.634296 Uniform: Tango, sending you 3
+2024-10-14 14:59:12.634832 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:12.636682 November: Kilo, sending you 2
+2024-10-14 14:59:12.637943 Delta: Quebec, Romeo, Whiskey and Uniform, sending you 4
+2024-10-14 14:59:12.638400 Romeo: November, sending you 6
+2024-10-14 14:59:12.639927 Uniform: Whiskey, sending you 5
+2024-10-14 14:59:12.641200 Whiskey: Kilo, sending you 3
+2024-10-14 14:59:12.644669 Uniform: Hotel, sending you 1
+2024-10-14 14:59:12.648695 Papa: Sending you each 2
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+ChatterBot Papa round 4
+ChatterBot Delta round 4
+ChatterBot Quebec round 4
+ChatterBot Romeo round 4
+2024-10-14 14:59:13.794811 Delta: We should replace Romeo with Kilo
+2024-10-14 14:59:13.809861 Uniform: No
+2024-10-14 14:59:13.810065 Quebec: No
+2024-10-14 14:59:13.810525 Whiskey: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango round 4
+ChatterBot Kilo round 4
+ChatterBot Whiskey round 4
+ChatterBot Uniform round 4
+ChatterBot November round 4
+ChatterBot Hotel round 4
+2024-10-14 14:59:13.959591 Delta: Kilo we want you to join our group
+2024-10-14 14:59:13.964317 Kilo: No
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:13.981962 Quebec: Delta, sending you 7
+2024-10-14 14:59:13.984263 Romeo: Papa and Kilo, sending you 3
+2024-10-14 14:59:13.985370 Papa: Same as last round
+2024-10-14 14:59:13.986712 Quebec: Romeo, sending you 2
+2024-10-14 14:59:13.988677 Romeo: Tango, Uniform and Hotel, sending you 2
+2024-10-14 14:59:13.990011 November: Papa and Hotel, sending you 3
+2024-10-14 14:59:13.991469 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:13.992921 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:13.993717 Quebec: Whiskey, sending you 10
+2024-10-14 14:59:13.995263 Romeo: November, sending you 7
+2024-10-14 14:59:13.996365 November: Romeo, sending you 6
+2024-10-14 14:59:13.997687 Hotel: November, sending you 2
+2024-10-14 14:59:13.999054 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 14:59:13.999698 Tango: Papa, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:14.001709 November: Tango, sending you 1
+2024-10-14 14:59:14.003008 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:14.005690 Tango: Romeo and Uniform, sending you 2
+2024-10-14 14:59:14.006375 Uniform: Delta and Whiskey, sending you 5
+2024-10-14 14:59:14.007558 Whiskey: Kilo, sending you 3
+2024-10-14 14:59:14.007977 November: Kilo, sending you 2
+2024-10-14 14:59:14.011207 Delta: Quebec, Romeo, Whiskey and Uniform, sending you 4
+2024-10-14 14:59:14.011774 Uniform: Romeo, Kilo and Hotel, sending you 1
+2024-10-14 14:59:14.016683 Uniform: Tango, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Papa round 5
+ChatterBot Delta round 5
+ChatterBot Quebec round 5
+ChatterBot Romeo round 5
+ChatterBot Tango round 5
+ChatterBot Kilo round 5
+ChatterBot Whiskey round 5
+ChatterBot Uniform round 5
+ChatterBot November round 5
+ChatterBot Hotel round 5
+2024-10-14 14:59:15.252368 Delta: We should replace Romeo with Kilo
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:15.263717 Uniform: Yes
+2024-10-14 14:59:15.263868 Quebec: No
+2024-10-14 14:59:15.263999 Whiskey: Yes
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:15.333696 Delta: Kilo we want you to join our group
+2024-10-14 14:59:15.337555 Kilo: No
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:15.350599 Tango: Papa, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:15.351193 Quebec: Delta, sending you 8
+2024-10-14 14:59:15.355109 Papa: Same as last round
+2024-10-14 14:59:15.355748 Tango: Romeo and Uniform, sending you 2
+2024-10-14 14:59:15.356349 Quebec: Romeo, sending you 1
+2024-10-14 14:59:15.357591 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:15.358941 November: Papa and Hotel, sending you 3
+2024-10-14 14:59:15.359392 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:15.360424 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 14:59:15.360733 Romeo: Papa and Kilo, sending you 3
+2024-10-14 14:59:15.361410 Quebec: Whiskey, sending you 10
+2024-10-14 14:59:15.362578 November: Romeo, sending you 6
+2024-10-14 14:59:15.364694 Hotel: November, sending you 2
+2024-10-14 14:59:15.366229 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:15.366686 Romeo: Tango, Uniform and Hotel, sending you 2
+2024-10-14 14:59:15.367722 November: Tango, sending you 1
+2024-10-14 14:59:15.371691 Whiskey: Kilo, sending you 3
+2024-10-14 14:59:15.372193 Romeo: November, sending you 7
+2024-10-14 14:59:15.373576 Uniform: Delta, sending you 5
+2024-10-14 14:59:15.374418 November: Kilo, sending you 2
+2024-10-14 14:59:15.375687 Delta: Quebec, sending you 5
+2024-10-14 14:59:15.377690 Uniform: Romeo and Tango, sending you 2
+2024-10-14 14:59:15.380814 Delta: Kilo, sending you 3
+2024-10-14 14:59:15.381660 Uniform: Kilo and Hotel, sending you 1
+2024-10-14 14:59:15.383683 Delta: Whiskey and Uniform, sending you 4
+2024-10-14 14:59:15.386154 Uniform: Whiskey, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 6
+ChatterBot Delta round 6
+ChatterBot Quebec round 6
+ChatterBot Romeo round 6
+ChatterBot Tango round 6
+ChatterBot Kilo round 6
+ChatterBot Whiskey round 6
+ChatterBot Uniform round 6
+ChatterBot November round 6
+ChatterBot Hotel round 6
+2024-10-14 14:59:16.604702 Tango: Papa, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:16.609704 Tango: Romeo and Uniform, sending you 2
+2024-10-14 14:59:16.610655 November: Papa and Hotel, sending you 3
+2024-10-14 14:59:16.614707 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:16.615827 November: Romeo, sending you 6
+2024-10-14 14:59:16.616437 Romeo: Papa and Tango, sending you 3
+2024-10-14 14:59:16.620632 Whiskey: Delta and Uniform, sending you 5
+2024-10-14 14:59:16.624861 Delta: Quebec, sending you 5
+2024-10-14 14:59:16.625435 Uniform: Delta, sending you 5
+2024-10-14 14:59:16.627975 November: Tango, sending you 1
+2024-10-14 14:59:16.629606 Romeo: Kilo, Uniform and Hotel, sending you 2
+2024-10-14 14:59:16.630552 Whiskey: Quebec, sending you 6
+2024-10-14 14:59:16.631821 Papa: Same as last round
+2024-10-14 14:59:16.632487 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:16.633553 Delta: Kilo, sending you 3
+2024-10-14 14:59:16.634932 Uniform: Romeo and Tango, sending you 2
+2024-10-14 14:59:16.635870 Quebec: Delta, sending you 8
+2024-10-14 14:59:16.637747 November: Kilo, sending you 2
+2024-10-14 14:59:16.638501 Romeo: November, sending you 7
+2024-10-14 14:59:16.640151 Hotel: November, sending you 2
+2024-10-14 14:59:16.642224 Delta: Whiskey and Uniform, sending you 4
+2024-10-14 14:59:16.642903 Uniform: Kilo and Hotel, sending you 1
+2024-10-14 14:59:16.644425 Quebec: Romeo, sending you 1
+2024-10-14 14:59:16.647678 Uniform: Whiskey, sending you 4
+2024-10-14 14:59:16.649141 Quebec: Whiskey, sending you 10
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Papa round 7
+ChatterBot Delta round 7
+ChatterBot Quebec round 7
+ChatterBot Romeo round 7
+ChatterBot Tango round 7
+ChatterBot Kilo round 7
+ChatterBot Whiskey round 7
+ChatterBot Uniform round 7
+ChatterBot November round 7
+ChatterBot Hotel round 7
+2024-10-14 14:59:17.639204 Papa: We should replace Kilo with Tango
+2024-10-14 14:59:17.651007 Romeo: No
+2024-10-14 14:59:17.651189 November: No
+2024-10-14 14:59:17.651366 Hotel: No
+ChatterBot Papa reevaluating
+2024-10-14 14:59:17.722712 Romeo: Papa and Tango, sending you 3
+2024-10-14 14:59:17.725676 Whiskey: Delta and Uniform, sending you 5
+2024-10-14 14:59:17.727698 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:17.729035 Romeo: Kilo, Uniform and Hotel, sending you 2
+2024-10-14 14:59:17.729800 Whiskey: Quebec, sending you 6
+2024-10-14 14:59:17.730803 November: Papa and Hotel, sending you 3
+2024-10-14 14:59:17.731407 Delta: Quebec, sending you 6
+2024-10-14 14:59:17.731892 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:17.733135 Papa: Same as last round
+2024-10-14 14:59:17.733674 Tango: Papa, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:17.735106 Romeo: November, sending you 7
+2024-10-14 14:59:17.736456 Delta: Whiskey and Uniform, sending you 5
+2024-10-14 14:59:17.737039 Uniform: Delta and Whiskey, sending you 6
+2024-10-14 14:59:17.737990 Quebec: Delta, sending you 8
+2024-10-14 14:59:17.739571 November: Romeo, sending you 6
+2024-10-14 14:59:17.740745 Hotel: November, sending you 2
+2024-10-14 14:59:17.741565 Tango: Romeo and Uniform, sending you 2
+2024-10-14 14:59:17.742762 Uniform: Quebec, sending you 1
+2024-10-14 14:59:17.743732 Quebec: Romeo, sending you 1
+2024-10-14 14:59:17.744756 November: Tango, sending you 1
+2024-10-14 14:59:17.745877 Uniform: Kilo, sending you 2
+2024-10-14 14:59:17.749896 Quebec: Whiskey, sending you 10
+2024-10-14 14:59:17.751318 November: Kilo, sending you 2
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 8
+ChatterBot Delta round 8
+ChatterBot Quebec round 8
+ChatterBot Romeo round 8
+ChatterBot Tango round 8
+ChatterBot Kilo round 8
+ChatterBot Whiskey round 8
+ChatterBot Uniform round 8
+ChatterBot November round 8
+ChatterBot Hotel round 8
+2024-10-14 14:59:18.863962 Papa: We should replace Kilo with Tango
+ChatterBot November reevaluating
+2024-10-14 14:59:18.880590 Romeo: No
+2024-10-14 14:59:18.880822 November: Yes
+2024-10-14 14:59:18.881437 Hotel: No
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:18.921921 Uniform: We should replace Kilo with Romeo
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:18.933869 Delta: Yes
+2024-10-14 14:59:18.934526 Quebec: Yes
+2024-10-14 14:59:18.934693 Whiskey: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:18.993466 November: We should add Uniform
+ChatterBot Papa reevaluating
+2024-10-14 14:59:19.012038 Tango: Yes
+2024-10-14 14:59:19.012619 Romeo: Yes
+2024-10-14 14:59:19.012784 Kilo: Yes
+2024-10-14 14:59:19.012925 Hotel: Yes
+2024-10-14 14:59:19.013034 Papa: No
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+ChatterBot Papa reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:19.217129 November: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:19.224297 Uniform: Yes
+ChatterBot Papa reevaluating
+2024-10-14 14:59:19.258071 Delta: Romeo we want you to join our group
+2024-10-14 14:59:19.263787 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:19.290817 Quebec: I was attacked by Papa
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:19.316728 Quebec: I'm keeping this round to protect myself
+2024-10-14 14:59:19.319752 Quebec: Ow
+2024-10-14 14:59:19.322636 Papa: Tango we want you to join our group
+2024-10-14 14:59:19.329222 Tango: Yes
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:19.345197 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:19.346407 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:19.347176 Whiskey: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:19.351871 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:19.368547 Tango: Papa, Kilo, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:19.370374 Hotel: November, sending you 2
+2024-10-14 14:59:19.386968 Tango: Romeo, sending you 3
+2024-10-14 14:59:19.388912 November: Papa, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:19.415893 November: Romeo, sending you 6
+2024-10-14 14:59:19.425318 November: Uniform, sending you 1
+2024-10-14 14:59:19.427944 Romeo: Papa and Tango, sending you 3
+2024-10-14 14:59:19.428630 Uniform: Papa, sending you 1
+2024-10-14 14:59:19.429774 Papa: Romeo and Tango, sending you 1
+2024-10-14 14:59:19.431674 Romeo: Kilo, Uniform and Hotel, sending you 2
+2024-10-14 14:59:19.443216 Papa: November and Hotel, sending you 2
+2024-10-14 14:59:19.443668 Uniform: Romeo and Tango, sending you 4
+2024-10-14 14:59:19.445026 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 14:59:19.445581 Romeo: November, sending you 7
+2024-10-14 14:59:19.453499 Uniform: Kilo and Hotel, sending you 3
+2024-10-14 14:59:19.454876 Delta: Quebec, sending you 5
+2024-10-14 14:59:19.455372 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:19.466024 Delta: Romeo, sending you 3
+2024-10-14 14:59:19.467269 Whiskey: Romeo, sending you 3
+2024-10-14 14:59:19.491812 Delta: Whiskey and Uniform, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 9
+ChatterBot Delta round 9
+ChatterBot Quebec round 9
+ChatterBot Romeo round 9
+ChatterBot Tango round 9
+ChatterBot Kilo round 9
+ChatterBot Whiskey round 9
+ChatterBot Uniform round 9
+ChatterBot November round 9
+ChatterBot Hotel round 9
+chatterbot Uniform submitting transactions
+2024-10-14 14:59:20.740875 Romeo: Papa, Tango and Uniform, sending you 3
+2024-10-14 14:59:20.742791 Delta: Quebec and Uniform, sending you 4
+2024-10-14 14:59:20.743374 Whiskey: Delta and Uniform, sending you 4
+2024-10-14 14:59:20.744402 Papa: Romeo, Tango and November, sending you 1
+2024-10-14 14:59:20.745539 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:20.747448 Tango: Papa, Kilo, November and Hotel, sending you 1
+2024-10-14 14:59:20.749502 Romeo: Kilo and Hotel, sending you 2
+2024-10-14 14:59:20.751952 Delta: Romeo, sending you 3
+2024-10-14 14:59:20.753502 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:20.754540 Papa: Hotel, sending you 2
+2024-10-14 14:59:20.756087 Uniform: Romeo and Tango, sending you 4
+2024-10-14 14:59:20.758471 November: Papa, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:20.761101 Tango: Romeo, sending you 3
+2024-10-14 14:59:20.763555 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:20.765932 Romeo: November, sending you 6
+2024-10-14 14:59:20.768632 Whiskey: Romeo, sending you 3
+2024-10-14 14:59:20.769655 Delta: Whiskey, sending you 5
+2024-10-14 14:59:20.771057 Uniform: Kilo and Hotel, sending you 3
+2024-10-14 14:59:20.773001 November: Romeo, sending you 6
+2024-10-14 14:59:20.774230 Tango: Uniform, sending you 2
+2024-10-14 14:59:20.774867 Hotel: November, sending you 2
+2024-10-14 14:59:20.778299 Uniform: November, sending you 1
+2024-10-14 14:59:20.780107 November: Uniform, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 10
+ChatterBot Delta round 10
+ChatterBot Quebec round 10
+ChatterBot Romeo round 10
+ChatterBot Tango round 10
+ChatterBot Kilo round 10
+ChatterBot Whiskey round 10
+ChatterBot Uniform round 10
+ChatterBot November round 10
+ChatterBot Hotel round 10
+2024-10-14 14:59:21.812713 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:21.815667 Romeo: Papa, Kilo and Hotel, sending you 2
+2024-10-14 14:59:21.816995 November: Papa, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:21.817992 Tango: Romeo, Kilo, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:21.819753 Romeo: Tango and Uniform, sending you 3
+2024-10-14 14:59:21.820692 Papa: Romeo, Tango and Hotel, sending you 2
+2024-10-14 14:59:21.821236 November: Romeo, sending you 6
+2024-10-14 14:59:21.823136 Quebec: Delta, sending you 1
+2024-10-14 14:59:21.824320 Delta: Quebec and Uniform, sending you 4
+2024-10-14 14:59:21.825149 Uniform: Papa and November, sending you 1
+2024-10-14 14:59:21.826732 Whiskey: Delta, sending you 5
+2024-10-14 14:59:21.828090 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:21.829504 Romeo: November, sending you 7
+2024-10-14 14:59:21.830912 November: Uniform, sending you 1
+2024-10-14 14:59:21.833063 Papa: November, sending you 1
+2024-10-14 14:59:21.834307 Quebec: Whiskey, sending you 2
+2024-10-14 14:59:21.836995 Delta: Romeo, sending you 3
+2024-10-14 14:59:21.838161 Uniform: Romeo and Tango, sending you 4
+2024-10-14 14:59:21.840167 Whiskey: Quebec and Uniform, sending you 4
+2024-10-14 14:59:21.841682 Hotel: November, sending you 2
+2024-10-14 14:59:21.843606 Delta: Whiskey, sending you 5
+2024-10-14 14:59:21.844308 Uniform: Kilo, sending you 3
+2024-10-14 14:59:21.846018 Whiskey: Romeo, sending you 3
+2024-10-14 14:59:21.849669 Uniform: Hotel, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Papa round 11
+ChatterBot Delta round 11
+ChatterBot Quebec round 11
+ChatterBot Romeo round 11
+ChatterBot Tango round 11
+ChatterBot Kilo round 11
+ChatterBot Whiskey round 11
+ChatterBot Uniform round 11
+ChatterBot November round 11
+ChatterBot Hotel round 11
+2024-10-14 14:59:23.501754 November: Papa, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:23.504084 Uniform: Papa and November, sending you 1
+2024-10-14 14:59:23.506806 Whiskey: Delta, sending you 5
+2024-10-14 14:59:23.507755 Quebec: Delta, sending you 7
+2024-10-14 14:59:23.509598 Delta: Quebec and Uniform, sending you 4
+2024-10-14 14:59:23.510699 Romeo: Papa, Tango and Uniform, sending you 3
+2024-10-14 14:59:23.512454 Papa: Romeo, Tango and Hotel, sending you 2
+2024-10-14 14:59:23.513372 Tango: Romeo, Kilo, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:23.515223 November: Romeo, sending you 6
+2024-10-14 14:59:23.517598 Uniform: Romeo and Tango, sending you 4
+2024-10-14 14:59:23.520989 Whiskey: Quebec and Uniform, sending you 4
+2024-10-14 14:59:23.522802 Quebec: Whiskey, sending you 9
+2024-10-14 14:59:23.526728 Delta: Romeo, sending you 3
+2024-10-14 14:59:23.528491 Romeo: Kilo and Hotel, sending you 2
+2024-10-14 14:59:23.531835 Papa: November, sending you 1
+2024-10-14 14:59:23.534134 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:23.537355 Kilo: Papa, Romeo, Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:23.541100 November: Uniform, sending you 1
+2024-10-14 14:59:23.544339 Uniform: Kilo, sending you 3
+2024-10-14 14:59:23.547107 Whiskey: Romeo, sending you 3
+2024-10-14 14:59:23.548892 Delta: Whiskey, sending you 5
+2024-10-14 14:59:23.550749 Romeo: November, sending you 6
+2024-10-14 14:59:23.554230 Hotel: November, sending you 2
+2024-10-14 14:59:23.557265 Uniform: Hotel, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Papa round 12
+ChatterBot Delta round 12
+ChatterBot Quebec round 12
+ChatterBot Romeo round 12
+ChatterBot Tango round 12
+ChatterBot Kilo round 12
+ChatterBot Whiskey round 12
+ChatterBot Uniform round 12
+ChatterBot November round 12
+ChatterBot Hotel round 12
+2024-10-14 14:59:24.455302 Uniform: We should add Delta
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:24.484797 Tango: No
+2024-10-14 14:59:24.484978 Papa: No
+2024-10-14 14:59:24.485142 Romeo: No
+2024-10-14 14:59:24.485291 Kilo: No
+2024-10-14 14:59:24.485442 November: No
+2024-10-14 14:59:24.485600 Hotel: No
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:24.660373 Romeo: We should add Whiskey
+2024-10-14 14:59:24.660768 Kilo: We should add Whiskey
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:24.677297 Tango: No
+2024-10-14 14:59:24.679573 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:24.684888 Kilo: No
+2024-10-14 14:59:24.685063 November: No
+ChatterBot November reevaluating
+2024-10-14 14:59:24.687620 Hotel: No
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:24.690256 Uniform: Yes
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:24.692865 Tango: No
+2024-10-14 14:59:24.692980 Papa: No
+2024-10-14 14:59:24.693077 Romeo: Yes
+2024-10-14 14:59:24.693180 November: No
+2024-10-14 14:59:24.693269 Hotel: No
+2024-10-14 14:59:24.693356 Uniform: Yes
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:25.025988 Delta: We should drop Uniform
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:25.039056 Quebec: No
+2024-10-14 14:59:25.039273 Whiskey: Yes
+2024-10-14 14:59:25.039524 Romeo: No
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:25.081115 Papa: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:25.091435 Uniform: Yes
+2024-10-14 14:59:25.110583 November: We should drop Kilo
+2024-10-14 14:59:25.125456 Papa: Yes
+2024-10-14 14:59:25.125645 Romeo: No
+2024-10-14 14:59:25.126228 Tango: No
+2024-10-14 14:59:25.126346 Uniform: No
+2024-10-14 14:59:25.126442 Hotel: No
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:25.220910 Romeo: Papa, Tango and Uniform, sending you 3
+2024-10-14 14:59:25.224037 Tango: Papa, Romeo, Kilo, Uniform and November, sending you 2
+2024-10-14 14:59:25.227219 Kilo: Same as last round
+2024-10-14 14:59:25.230452 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:25.232927 Quebec: Delta, sending you 9
+2024-10-14 14:59:25.234700 Uniform: We should drop Papa
+ChatterBot November reevaluating
+2024-10-14 14:59:25.250609 Romeo: No
+2024-10-14 14:59:25.251144 Tango: No
+2024-10-14 14:59:25.251286 Kilo: No
+2024-10-14 14:59:25.251411 November: Yes
+2024-10-14 14:59:25.251534 Hotel: No
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:25.336882 Romeo: Kilo and Hotel, sending you 2
+2024-10-14 14:59:25.338519 Tango: Hotel, sending you 1
+2024-10-14 14:59:25.339666 Hotel: November, sending you 2
+2024-10-14 14:59:25.341038 Quebec: Whiskey, sending you 10
+2024-10-14 14:59:25.342113 Whiskey: Delta and Quebec, sending you 8
+2024-10-14 14:59:25.342543 Papa: Romeo, Tango and Hotel, sending you 2
+2024-10-14 14:59:25.343563 Romeo: November, sending you 6
+chatterbot Quebec submitting transactions
+2024-10-14 14:59:25.367333 Papa: Uniform and November, sending you 1
+2024-10-14 14:59:25.378524 Uniform: Romeo, sending you 5
+2024-10-14 14:59:25.408129 Uniform: Tango, sending you 4
+2024-10-14 14:59:25.563048 November: Romeo, sending you 7
+2024-10-14 14:59:25.565711 Uniform: Kilo, sending you 3
+chatterbot Tango submitting transactions
+2024-10-14 14:59:25.568854 November: Tango and Kilo, sending you 2
+2024-10-14 14:59:25.722904 Uniform: November, sending you 1
+2024-10-14 14:59:25.726261 November: Uniform, sending you 1
+chatterbot Delta submitting transactions
+2024-10-14 14:59:25.819378 Uniform: Hotel, sending you 2
+2024-10-14 14:59:25.821509 November: Hotel, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+ChatterBot Papa round 13
+ChatterBot Delta round 13
+ChatterBot Quebec round 13
+ChatterBot Romeo round 13
+ChatterBot Tango round 13
+ChatterBot Kilo round 13
+ChatterBot Whiskey round 13
+ChatterBot Uniform round 13
+ChatterBot November round 13
+ChatterBot Hotel round 13
+2024-10-14 14:59:26.504932 Quebec: We should replace Romeo with Kilo
+ChatterBot Delta reevaluating
+2024-10-14 14:59:26.511555 Delta: No
+2024-10-14 14:59:26.511720 Whiskey: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:26.552864 Delta: We should drop Romeo
+ChatterBot Uniform reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:26.563301 Uniform: No
+2024-10-14 14:59:26.563462 Quebec: No
+2024-10-14 14:59:26.563584 Whiskey: Yes
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:26.592439 Papa: Romeo, Tango, November and Hotel, sending you 2
+2024-10-14 14:59:26.594861 Tango: Papa, Romeo, Kilo, Uniform and November, sending you 2
+2024-10-14 14:59:26.597684 Papa: Uniform, sending you 1
+2024-10-14 14:59:26.600054 Romeo: Papa and Tango, sending you 3
+2024-10-14 14:59:26.602884 Tango: Hotel, sending you 1
+2024-10-14 14:59:26.605073 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:26.607414 Kilo: Same as last round
+2024-10-14 14:59:26.609513 November: Romeo, sending you 7
+2024-10-14 14:59:26.611849 Whiskey: Delta and Quebec, sending you 8
+2024-10-14 14:59:26.612686 Quebec: Kilo we want you to join our group
+2024-10-14 14:59:26.616881 Kilo: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:26.627243 Romeo: Kilo, sending you 2
+2024-10-14 14:59:26.630425 Hotel: November, sending you 2
+2024-10-14 14:59:26.633142 November: Tango and Kilo, sending you 2
+2024-10-14 14:59:26.635257 Romeo: Uniform, sending you 4
+2024-10-14 14:59:26.638333 November: Uniform, sending you 1
+2024-10-14 14:59:26.639150 Uniform: Papa, sending you 1
+2024-10-14 14:59:26.642817 Romeo: November, sending you 6
+2024-10-14 14:59:26.644318 November: Hotel, sending you 3
+2024-10-14 14:59:26.647119 Uniform: Romeo, sending you 5
+2024-10-14 14:59:26.649803 Romeo: Hotel, sending you 1
+2024-10-14 14:59:26.652907 Delta: Quebec and Whiskey, sending you 6
+2024-10-14 14:59:26.654261 Uniform: Tango, sending you 3
+2024-10-14 14:59:26.656673 Quebec: Delta, sending you 8
+2024-10-14 14:59:26.658681 Delta: Hotel, sending you 4
+2024-10-14 14:59:26.659794 Uniform: Kilo, November and Hotel, sending you 2
+2024-10-14 14:59:26.661793 Quebec: Kilo, sending you 1
+2024-10-14 14:59:26.664661 Quebec: Whiskey, sending you 10
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 14
+ChatterBot Delta round 14
+ChatterBot Quebec round 14
+ChatterBot Romeo round 14
+ChatterBot Tango round 14
+ChatterBot Kilo round 14
+ChatterBot Whiskey round 14
+ChatterBot Uniform round 14
+ChatterBot November round 14
+ChatterBot Hotel round 14
+2024-10-14 14:59:28.542122 Delta: We should replace Hotel with Uniform
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:28.554696 Quebec: No
+2024-10-14 14:59:28.555842 Whiskey: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:28.581595 Whiskey: We should replace Kilo with Uniform
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:28.595669 Quebec: Yes
+2024-10-14 14:59:28.601019 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:28.646404 Papa: We should replace November with Kilo
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:28.667730 Romeo: No
+2024-10-14 14:59:28.668074 Tango: No
+2024-10-14 14:59:28.668349 Uniform: Yes
+2024-10-14 14:59:28.668635 Hotel: No
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:28.743179 Quebec: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:28.747805 Uniform: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:28.775462 Delta: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:28.780044 Uniform: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:28.789923 Whiskey: Uniform we want you to join our group
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:28.794629 Uniform: No
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:28.808104 Papa: Kilo we want you to join our group
+2024-10-14 14:59:28.817363 Kilo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:28.836911 Tango: Sending you each 2
+2024-10-14 14:59:29.009998 Romeo: Papa and Tango, sending you 3
+2024-10-14 14:59:29.014347 November: Romeo, sending you 6
+2024-10-14 14:59:29.015491 Kilo: Same as last round
+2024-10-14 14:59:29.017440 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:29.019215 Uniform: We should drop November
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:29.042692 Papa: Yes
+2024-10-14 14:59:29.042946 Romeo: No
+2024-10-14 14:59:29.043126 Tango: No
+2024-10-14 14:59:29.043306 Kilo: No
+2024-10-14 14:59:29.043844 Hotel: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:29.147365 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:29.150664 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:29.164222 November: Hotel, sending you 3
+2024-10-14 14:59:29.166328 Whiskey: Uniform, sending you 4
+2024-10-14 14:59:30.528650 Papa: Romeo, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:30.531286 Delta: Quebec and Whiskey, sending you 6
+2024-10-14 14:59:30.532813 Uniform: Papa, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 14:59:30.537543 Papa: Uniform, sending you 1
+2024-10-14 14:59:30.539802 Delta: Uniform, sending you 4
+2024-10-14 14:59:30.541240 Uniform: Romeo, sending you 5
+2024-10-14 14:59:30.568565 Uniform: Tango, sending you 3
+2024-10-14 14:59:30.575786 Uniform: Kilo, November and Hotel, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Papa round 15
+ChatterBot Delta round 15
+ChatterBot Quebec round 15
+ChatterBot Romeo round 15
+ChatterBot Tango round 15
+ChatterBot Kilo round 15
+ChatterBot Whiskey round 15
+ChatterBot Uniform round 15
+ChatterBot November round 15
+ChatterBot Hotel round 15
+2024-10-14 14:59:31.634226 Delta: Quebec and Uniform, sending you 5
+2024-10-14 14:59:31.636894 Kilo: Same as last round
+2024-10-14 14:59:31.642653 November: Romeo, sending you 6
+2024-10-14 14:59:31.645999 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:31.651769 Tango: Same as last round
+2024-10-14 14:59:31.657162 Papa: Romeo, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:31.661461 Uniform: Papa, sending you 1
+2024-10-14 14:59:31.666857 Delta: Whiskey, sending you 6
+2024-10-14 14:59:31.669526 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:31.674483 Hotel: November, sending you 2
+2024-10-14 14:59:31.679815 Papa: Uniform, sending you 1
+2024-10-14 14:59:31.685465 Uniform: Romeo, sending you 5
+2024-10-14 14:59:31.691084 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:31.693201 November: Hotel, sending you 3
+2024-10-14 14:59:31.697421 Uniform: Tango, sending you 3
+2024-10-14 14:59:31.701688 Whiskey: Uniform, sending you 4
+2024-10-14 14:59:31.706599 Uniform: Kilo, November and Hotel, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 16
+ChatterBot Delta round 16
+ChatterBot Quebec round 16
+ChatterBot Romeo round 16
+ChatterBot Tango round 16
+ChatterBot Kilo round 16
+ChatterBot Whiskey round 16
+ChatterBot Uniform round 16
+ChatterBot November round 16
+ChatterBot Hotel round 16
+2024-10-14 14:59:33.191250 Tango: Papa, Kilo and Hotel, sending you 2
+2024-10-14 14:59:33.194641 Kilo: Same as last round
+2024-10-14 14:59:33.199031 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:33.201563 Papa: Romeo, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:33.204610 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:33.210141 Delta: Quebec and Uniform, sending you 5
+2024-10-14 14:59:33.211726 Uniform: Papa, sending you 1
+2024-10-14 14:59:33.217058 November: Romeo, sending you 6
+2024-10-14 14:59:33.219461 Tango: Romeo and Uniform, sending you 3
+2024-10-14 14:59:33.222907 Whiskey: Uniform, sending you 4
+2024-10-14 14:59:33.225350 Papa: Uniform, sending you 1
+2024-10-14 14:59:33.229120 Hotel: November, sending you 2
+2024-10-14 14:59:33.234938 Delta: Whiskey, sending you 6
+2024-10-14 14:59:33.237540 Uniform: Romeo, sending you 5
+2024-10-14 14:59:33.242830 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:33.277856 Uniform: Tango, sending you 3
+2024-10-14 14:59:33.281935 November: Hotel, sending you 3
+2024-10-14 14:59:33.293212 Uniform: Kilo, November and Hotel, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 17
+ChatterBot Delta round 17
+ChatterBot Quebec round 17
+ChatterBot Romeo round 17
+ChatterBot Tango round 17
+ChatterBot Kilo round 17
+ChatterBot Whiskey round 17
+ChatterBot Uniform round 17
+ChatterBot November round 17
+ChatterBot Hotel round 17
+2024-10-14 14:59:34.410877 Whiskey: We should replace Uniform with Kilo
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:34.421484 Quebec: Yes
+2024-10-14 14:59:34.421635 Delta: Yes
+ChatterBot Delta reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:34.441694 Papa: We should replace Hotel with November
+ChatterBot Tango reevaluating
+2024-10-14 14:59:34.459813 Romeo: No
+2024-10-14 14:59:34.459959 Tango: No
+2024-10-14 14:59:34.460075 Kilo: No
+2024-10-14 14:59:34.460194 Uniform: No
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 14:59:34.541046 Tango: November we want you to join our group
+2024-10-14 14:59:34.545829 November: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:34.564891 Quebec: Kilo we want you to join our group
+2024-10-14 14:59:34.569146 Kilo: No
+ChatterBot Whiskey reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:34.601448 November: Romeo, sending you 6
+2024-10-14 14:59:34.605060 Uniform: Papa, sending you 1
+2024-10-14 14:59:34.609477 Kilo: Same as last round
+2024-10-14 14:59:34.614058 Delta: Kilo we want you to join our group
+2024-10-14 14:59:34.618278 Kilo: No
+ChatterBot Whiskey reevaluating
+2024-10-14 14:59:34.628266 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:34.632137 Uniform: Romeo, sending you 5
+2024-10-14 14:59:34.636082 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:34.640366 Papa: Sending you each 2
+2024-10-14 14:59:34.644348 Tango: Sending you each 2
+2024-10-14 14:59:34.649929 November: Hotel, sending you 3
+2024-10-14 14:59:34.654379 Uniform: Tango, sending you 3
+2024-10-14 14:59:34.659253 Hotel: November, sending you 2
+2024-10-14 14:59:34.664639 Uniform: Kilo, November and Hotel, sending you 2
+2024-10-14 14:59:34.669475 Quebec: Delta, sending you 9
+2024-10-14 14:59:34.671668 Delta: Quebec and Whiskey, sending you 8
+2024-10-14 14:59:34.673771 Whiskey: Delta, sending you 7
+2024-10-14 14:59:34.699888 Quebec: Whiskey, sending you 10
+2024-10-14 14:59:34.702003 Whiskey: Quebec, sending you 5
+2024-10-14 14:59:34.713937 Whiskey: Uniform, sending you 4
+chatterbot Uniform submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Papa round 18
+ChatterBot Delta round 18
+ChatterBot Quebec round 18
+ChatterBot Romeo round 18
+ChatterBot Tango round 18
+ChatterBot Kilo round 18
+ChatterBot Whiskey round 18
+ChatterBot Uniform round 18
+ChatterBot November round 18
+ChatterBot Hotel round 18
+2024-10-14 14:59:36.378096 Uniform: Papa, sending you 1
+2024-10-14 14:59:36.383823 Hotel: Papa, Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:36.389529 Uniform: Romeo, sending you 5
+2024-10-14 14:59:36.427370 Hotel: November, sending you 2
+2024-10-14 14:59:36.430880 Papa: Romeo, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:36.432792 Kilo: Same as last round
+2024-10-14 14:59:36.436462 November: Romeo, sending you 6
+2024-10-14 14:59:36.439019 Tango: Same as last round
+2024-10-14 14:59:36.442749 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:36.447604 Delta: Quebec and Whiskey, sending you 8
+2024-10-14 14:59:36.448623 Quebec: Delta, sending you 9
+2024-10-14 14:59:36.449654 Uniform: Tango, sending you 3
+chatterbot Delta submitting transactions
+2024-10-14 14:59:36.452775 Papa: Uniform, sending you 1
+2024-10-14 14:59:36.458391 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:36.461180 Whiskey: Uniform, sending you 4
+2024-10-14 14:59:36.461824 Quebec: Whiskey, sending you 10
+2024-10-14 14:59:36.462888 Uniform: Kilo, November and Hotel, sending you 2
+2024-10-14 14:59:36.470600 November: Hotel, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 19
+ChatterBot Delta round 19
+ChatterBot Quebec round 19
+ChatterBot Romeo round 19
+ChatterBot Tango round 19
+ChatterBot Kilo round 19
+ChatterBot Whiskey round 19
+ChatterBot Uniform round 19
+ChatterBot November round 19
+ChatterBot Hotel round 19
+2024-10-14 14:59:37.917155 Hotel: We should drop Papa
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:37.944503 Uniform: No
+2024-10-14 14:59:37.944720 Romeo: No
+2024-10-14 14:59:37.944885 Tango: Yes
+2024-10-14 14:59:37.945043 Kilo: Yes
+2024-10-14 14:59:37.945190 November: Yes
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:38.158512 Papa: Sending you each 2
+2024-10-14 14:59:38.161780 Quebec: Delta, sending you 10
+2024-10-14 14:59:38.164143 Delta: Quebec, sending you 3
+2024-10-14 14:59:38.166129 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:38.168301 November: Romeo, sending you 6
+chatterbot Whiskey submitting transactions
+2024-10-14 14:59:38.173928 Quebec: Whiskey, sending you 9
+2024-10-14 14:59:38.176422 Delta: Whiskey, sending you 4
+2024-10-14 14:59:38.178521 Delta: I was attacked by Papa
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:38.191340 Delta: Ow
+2024-10-14 14:59:38.194372 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:38.281833 November: Hotel, sending you 3
+2024-10-14 14:59:38.316645 Uniform: Romeo, sending you 5
+2024-10-14 14:59:38.321998 Hotel: Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:38.484669 Uniform: Tango and November, sending you 3
+2024-10-14 14:59:38.490408 Tango: Romeo and Uniform, sending you 3
+2024-10-14 14:59:38.495791 Kilo: Same as last round
+2024-10-14 14:59:38.502387 Hotel: November, sending you 3
+chatterbot November submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:59:38.509038 Uniform: Kilo and Hotel, sending you 2
+2024-10-14 14:59:38.514868 Tango: Kilo, November and Hotel, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Uniform submitting transactions
+ChatterBot Papa round 20
+ChatterBot Delta round 20
+ChatterBot Quebec round 20
+ChatterBot Romeo round 20
+ChatterBot Tango round 20
+ChatterBot Kilo round 20
+ChatterBot Whiskey round 20
+ChatterBot Uniform round 20
+ChatterBot November round 20
+ChatterBot Hotel round 20
+2024-10-14 14:59:39.660356 Romeo: We should drop Papa
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:39.687572 Uniform: Yes
+2024-10-14 14:59:39.687785 Tango: Yes
+2024-10-14 14:59:39.687944 Kilo: Yes
+2024-10-14 14:59:39.688112 November: Yes
+2024-10-14 14:59:39.688293 Hotel: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:39.977673 Uniform: Romeo, sending you 6
+2024-10-14 14:59:39.980863 Hotel: Romeo, Kilo and Uniform, sending you 1
+2024-10-14 14:59:39.984132 Papa: Romeo, Tango, Kilo and Hotel, sending you 2
+chatterbot Uniform submitting transactions
+2024-10-14 14:59:39.986194 Uniform: Tango, sending you 3
+2024-10-14 14:59:40.073141 Hotel: Tango and November, sending you 2
+2024-10-14 14:59:40.079159 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:40.080205 November: Romeo, sending you 6
+2024-10-14 14:59:40.083803 Papa: Uniform, sending you 1
+2024-10-14 14:59:40.085103 Tango: Romeo and Uniform, sending you 3
+2024-10-14 14:59:40.088428 Delta: Quebec and Whiskey, sending you 5
+2024-10-14 14:59:40.089260 Quebec: Delta, sending you 8
+2024-10-14 14:59:40.093895 Uniform: Kilo, November and Hotel, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-14 14:59:40.095699 Whiskey: Uniform, sending you 4
+2024-10-14 14:59:40.098444 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:40.099876 Tango: Kilo, November and Hotel, sending you 2
+2024-10-14 14:59:40.106357 Quebec: Whiskey, sending you 11
+2024-10-14 14:59:40.108750 November: Hotel, sending you 3
+2024-10-14 14:59:40.368119 Kilo: Romeo, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:59:40.473227 Kilo: Tango, Uniform, November and Hotel, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot November submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 21
+ChatterBot Delta round 21
+ChatterBot Quebec round 21
+ChatterBot Romeo round 21
+ChatterBot Tango round 21
+ChatterBot Kilo round 21
+ChatterBot Whiskey round 21
+ChatterBot Uniform round 21
+ChatterBot November round 21
+ChatterBot Hotel round 21
+2024-10-14 14:59:41.484371 Delta: We should replace Kilo with Tango
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:41.492909 Quebec: Yes
+2024-10-14 14:59:41.493087 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:41.535934 Quebec: Tango we want you to join our group
+2024-10-14 14:59:41.540083 Tango: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:41.552227 Delta: We should replace Kilo with Romeo
+ChatterBot Quebec reevaluating
+2024-10-14 14:59:41.559272 Quebec: No
+2024-10-14 14:59:41.559405 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:41.575153 Romeo: We should drop Papa
+2024-10-14 14:59:41.595056 Uniform: Yes
+2024-10-14 14:59:41.595239 Tango: Yes
+2024-10-14 14:59:41.595342 Kilo: Yes
+2024-10-14 14:59:41.595446 November: Yes
+2024-10-14 14:59:41.595551 Hotel: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 14:59:41.823811 Kilo: Romeo, sending you 2
+2024-10-14 14:59:41.826975 Papa: Romeo, Tango, Kilo and Hotel, sending you 2
+2024-10-14 14:59:41.829158 Tango: Romeo and Uniform, sending you 3
+2024-10-14 14:59:41.832583 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:41.906056 Papa: Uniform, sending you 1
+2024-10-14 14:59:41.909742 Tango: Kilo, November and Hotel, sending you 2
+2024-10-14 14:59:41.913664 Hotel: Romeo, Tango, Kilo and Uniform, sending you 1
+2024-10-14 14:59:41.918033 Uniform: Romeo, sending you 5
+2024-10-14 14:59:41.921060 Whiskey: Delta and Quebec, sending you 6
+2024-10-14 14:59:41.922575 November: Romeo, sending you 6
+chatterbot Whiskey submitting transactions
+2024-10-14 14:59:41.925981 Hotel: November, sending you 3
+2024-10-14 14:59:41.928708 Uniform: Tango and November, sending you 3
+2024-10-14 14:59:41.931876 Whiskey: Uniform, sending you 4
+2024-10-14 14:59:41.934184 November: Tango, Kilo and Uniform, sending you 2
+2024-10-14 14:59:41.937635 Quebec: Romeo and Uniform, sending you 8
+2024-10-14 14:59:41.946093 Uniform: Kilo and Hotel, sending you 2
+2024-10-14 14:59:41.949222 November: Hotel, sending you 3
+chatterbot Hotel submitting transactions
+2024-10-14 14:59:41.952249 Quebec: Tango, November and Hotel, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Papa round 22
+ChatterBot Delta round 22
+ChatterBot Quebec round 22
+ChatterBot Romeo round 22
+ChatterBot Tango round 22
+ChatterBot Kilo round 22
+ChatterBot Whiskey round 22
+ChatterBot Uniform round 22
+ChatterBot November round 22
+ChatterBot Hotel round 22
+2024-10-14 14:59:43.025663 Papa: Friends?
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:43.091788 Kilo: No
+2024-10-14 14:59:43.092023 Uniform: No
+ChatterBot Papa reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:59:43.174360 Whiskey: Can we be friends?
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:43.223248 Delta: No
+2024-10-14 14:59:43.223522 Quebec: Yes
+2024-10-14 14:59:43.223760 Romeo: Yes
+2024-10-14 14:59:43.224027 Tango: Yes
+2024-10-14 14:59:43.224219 Uniform: Yes
+2024-10-14 14:59:43.224847 November: No
+2024-10-14 14:59:43.225073 Hotel: No
+2024-10-14 14:59:43.225332 Kilo: No
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:43.714160 Quebec: Delta and Whiskey we want you to join our group
+2024-10-14 14:59:43.726064 Delta: No
+2024-10-14 14:59:43.726234 Whiskey: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+chatterbot Papa submitting transactions
+2024-10-14 14:59:43.892374 Whiskey: Delta, sending you 4
+2024-10-14 14:59:43.898763 Uniform: Delta, Quebec, Kilo, Whiskey, November and Hotel, sending you 1
+2024-10-14 14:59:43.902386 Kilo: Romeo, sending you 2
+2024-10-14 14:59:43.904939 Hotel: Romeo, Tango, Uniform and November, sending you 1
+2024-10-14 14:59:43.907257 Tango: Delta, Quebec, Kilo and Whiskey, sending you 1
+2024-10-14 14:59:43.912397 November: I was attacked by Papa
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:43.948683 November: Ow
+chatterbot Quebec submitting transactions
+chatterbot Uniform submitting transactions
+2024-10-14 14:59:43.953740 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:44.012341 Papa: Tango, sending you 3
+2024-10-14 14:59:44.061870 Papa: Kilo, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 14:59:44.105104 Quebec: Delta, sending you 7
+chatterbot Kilo submitting transactions
+2024-10-14 14:59:44.128749 Quebec: Whiskey, sending you 12
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 23
+ChatterBot Delta round 23
+ChatterBot Quebec round 23
+ChatterBot Romeo round 23
+ChatterBot Tango round 23
+ChatterBot Kilo round 23
+ChatterBot Whiskey round 23
+ChatterBot Uniform round 23
+ChatterBot November round 23
+ChatterBot Hotel round 23
+chatterbot Quebec submitting transactions
+2024-10-14 14:59:45.006719 Quebec: We should drop Papa and Kilo
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:45.036046 Delta: Yes
+2024-10-14 14:59:45.036891 Whiskey: No
+2024-10-14 14:59:45.037036 Romeo: No
+2024-10-14 14:59:45.037153 Tango: Yes
+2024-10-14 14:59:45.037254 Uniform: No
+2024-10-14 14:59:45.037354 November: Yes
+2024-10-14 14:59:45.037495 Hotel: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:45.357551 Hotel: We should drop Kilo
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:45.385088 Quebec: Yes
+2024-10-14 14:59:45.385953 Delta: Yes
+2024-10-14 14:59:45.386115 Whiskey: No
+2024-10-14 14:59:45.386380 Romeo: Yes
+2024-10-14 14:59:45.386629 Tango: Yes
+2024-10-14 14:59:45.386742 Uniform: Yes
+2024-10-14 14:59:45.386987 November: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:45.585494 Papa: I was attacked by Romeo, November and Hotel
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 14:59:45.598080 Papa: I'm keeping this round to protect myself
+2024-10-14 14:59:45.600360 Papa: Ow
+2024-10-14 14:59:45.603793 November: I was attacked by Papa
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Uniform reevaluating
+2024-10-14 14:59:45.632882 November: I'm keeping this round to protect myself
+2024-10-14 14:59:45.638453 November: Ow
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+2024-10-14 14:59:45.906760 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+2024-10-14 14:59:45.913653 Kilo: Romeo, sending you 2
+2024-10-14 14:59:46.009439 Kilo: Tango, Uniform, November and Hotel, sending you 1
+chatterbot Kilo submitting transactions
+2024-10-14 14:59:46.094351 Tango: Delta, Quebec and Whiskey, sending you 1
+2024-10-14 14:59:46.101149 Quebec: Delta, sending you 5
+chatterbot Uniform submitting transactions
+2024-10-14 14:59:46.107122 Tango: Romeo, November and Hotel, sending you 2
+2024-10-14 14:59:46.221834 Quebec: Romeo, sending you 2
+2024-10-14 14:59:46.227863 Tango: Uniform, sending you 3
+2024-10-14 14:59:46.234249 Quebec: Tango and Uniform, sending you 1
+2024-10-14 14:59:46.307027 Quebec: Whiskey, sending you 10
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Papa round 24
+ChatterBot Delta round 24
+ChatterBot Quebec round 24
+ChatterBot Romeo round 24
+ChatterBot Tango round 24
+ChatterBot Kilo round 24
+ChatterBot Whiskey round 24
+ChatterBot Uniform round 24
+ChatterBot November round 24
+ChatterBot Hotel round 24
+2024-10-14 14:59:46.955019 Papa: We should replace Tango with Uniform
+ChatterBot Kilo reevaluating
+2024-10-14 14:59:46.964163 Kilo: No
+ChatterBot Papa reevaluating
+2024-10-14 14:59:47.007651 Uniform: We should drop Kilo
+ChatterBot Delta reevaluating
+2024-10-14 14:59:47.046780 Quebec: Yes
+2024-10-14 14:59:47.046981 Delta: Yes
+2024-10-14 14:59:47.047140 Whiskey: Yes
+2024-10-14 14:59:47.047292 Romeo: Yes
+2024-10-14 14:59:47.047440 Tango: Yes
+2024-10-14 14:59:47.047586 November: Yes
+2024-10-14 14:59:47.047743 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+2024-10-14 14:59:47.337253 Delta: We should replace November with Hotel
+2024-10-14 14:59:47.368060 Quebec: No
+2024-10-14 14:59:47.368605 Romeo: No
+2024-10-14 14:59:47.368765 Tango: No
+2024-10-14 14:59:47.368914 Whiskey: No
+2024-10-14 14:59:47.369067 Uniform: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:47.637590 Kilo: Romeo, sending you 2
+2024-10-14 14:59:47.766632 Tango: Delta and Quebec, sending you 1
+2024-10-14 14:59:47.773882 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+2024-10-14 14:59:47.781087 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:47.788391 Quebec: Delta, sending you 4
+2024-10-14 14:59:47.795577 Delta: Hotel we want you to join our group
+2024-10-14 14:59:47.813885 Hotel: Yes
+2024-10-14 14:59:47.850670 Tango: Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 14:59:47.857804 Quebec: Romeo, Tango, Uniform and Hotel, sending you 2
+chatterbot November submitting transactions
+2024-10-14 14:59:47.864699 November: Quebec and Whiskey, sending you 1
+2024-10-14 14:59:47.869730 Quebec: Whiskey, sending you 7
+2024-10-14 14:59:47.877451 November: Romeo, sending you 7
+2024-10-14 14:59:48.065958 Delta: Quebec, Romeo, Tango, Whiskey and Hotel, sending you 2
+2024-10-14 14:59:48.072462 November: Tango and Uniform, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 25
+ChatterBot Delta round 25
+ChatterBot Quebec round 25
+ChatterBot Romeo round 25
+ChatterBot Tango round 25
+ChatterBot Kilo round 25
+ChatterBot Whiskey round 25
+ChatterBot Uniform round 25
+ChatterBot November round 25
+ChatterBot Hotel round 25
+2024-10-14 14:59:49.005504 Whiskey: We should drop Kilo
+2024-10-14 14:59:49.035712 Quebec: Yes
+2024-10-14 14:59:49.035935 Delta: Yes
+2024-10-14 14:59:49.036084 Romeo: Yes
+2024-10-14 14:59:49.036194 Tango: Yes
+2024-10-14 14:59:49.036308 Uniform: Yes
+2024-10-14 14:59:49.037109 November: Yes
+2024-10-14 14:59:49.037230 Hotel: Yes
+2024-10-14 14:59:49.396784 Tango: Delta and Quebec, sending you 1
+2024-10-14 14:59:49.404796 Delta: Sending you each 2
+2024-10-14 14:59:49.412455 Quebec: Delta, sending you 3
+2024-10-14 14:59:49.419717 Kilo: Romeo, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 14:59:49.426747 Tango: Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:49.434295 Quebec: Romeo, Tango, Uniform and Hotel, sending you 2
+2024-10-14 14:59:49.441456 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:49.448223 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+2024-10-14 14:59:49.455759 November: Quebec and Whiskey, sending you 1
+chatterbot Kilo submitting transactions
+2024-10-14 14:59:49.462344 Quebec: Whiskey, sending you 7
+2024-10-14 14:59:49.470258 November: Romeo, sending you 7
+2024-10-14 14:59:49.534035 Quebec: November, sending you 1
+2024-10-14 14:59:49.543245 November: Tango and Uniform, sending you 3
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Papa round 26
+ChatterBot Delta round 26
+ChatterBot Quebec round 26
+ChatterBot Romeo round 26
+ChatterBot Tango round 26
+ChatterBot Kilo round 26
+ChatterBot Whiskey round 26
+ChatterBot Uniform round 26
+ChatterBot November round 26
+ChatterBot Hotel round 26
+2024-10-14 14:59:50.338887 Uniform: We should drop Kilo
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:50.376206 Quebec: Yes
+2024-10-14 14:59:50.376381 Delta: Yes
+2024-10-14 14:59:50.376497 Whiskey: Yes
+2024-10-14 14:59:50.376603 Romeo: Yes
+2024-10-14 14:59:50.376717 Tango: Yes
+2024-10-14 14:59:50.376844 November: Yes
+2024-10-14 14:59:50.376947 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 14:59:50.661766 Hotel: We should drop Delta
+ChatterBot Tango reevaluating
+2024-10-14 14:59:50.687532 Quebec: No
+2024-10-14 14:59:50.687712 Whiskey: No
+2024-10-14 14:59:50.687831 Romeo: No
+2024-10-14 14:59:50.687941 Tango: Yes
+2024-10-14 14:59:50.688047 Uniform: No
+2024-10-14 14:59:50.688212 November: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+chatterbot Quebec submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Uniform submitting transactions
+chatterbot November submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 14:59:50.935646 Delta: Quebec, Romeo, Tango, Uniform and Hotel, sending you 2
+2024-10-14 14:59:50.942863 November: Quebec and Whiskey, sending you 1
+2024-10-14 14:59:50.950620 Quebec: Delta, sending you 3
+2024-10-14 14:59:50.959250 Kilo: Romeo, sending you 2
+2024-10-14 14:59:50.968448 Delta: Whiskey, sending you 3
+2024-10-14 14:59:50.976517 November: Romeo, sending you 7
+2024-10-14 14:59:50.983760 Quebec: Romeo, Tango, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:50.992346 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:51.002001 November: Tango and Uniform, sending you 3
+2024-10-14 14:59:51.008785 Quebec: Whiskey, sending you 6
+2024-10-14 14:59:51.016602 Tango: Delta and Quebec, sending you 1
+2024-10-14 14:59:51.024654 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+2024-10-14 14:59:51.033332 Tango: Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Papa round 27
+ChatterBot Delta round 27
+ChatterBot Quebec round 27
+ChatterBot Romeo round 27
+ChatterBot Tango round 27
+ChatterBot Kilo round 27
+ChatterBot Whiskey round 27
+ChatterBot Uniform round 27
+ChatterBot November round 27
+ChatterBot Hotel round 27
+2024-10-14 14:59:52.457867 Hotel: We should drop Delta
+ChatterBot Tango reevaluating
+2024-10-14 14:59:52.483854 Quebec: No
+2024-10-14 14:59:52.484104 Whiskey: No
+2024-10-14 14:59:52.484329 Romeo: No
+2024-10-14 14:59:52.485150 Tango: No
+2024-10-14 14:59:52.485343 Uniform: No
+2024-10-14 14:59:52.485459 November: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 14:59:52.714455 Uniform: We should drop Kilo
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:52.760096 Quebec: Yes
+2024-10-14 14:59:52.760314 Delta: Yes
+2024-10-14 14:59:52.760487 Whiskey: Yes
+2024-10-14 14:59:52.760628 Romeo: Yes
+2024-10-14 14:59:52.761674 Tango: Yes
+2024-10-14 14:59:52.761851 November: Yes
+2024-10-14 14:59:52.762022 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 14:59:52.997947 Kilo: Romeo, sending you 2
+2024-10-14 14:59:53.007665 Delta: Quebec and Whiskey, sending you 3
+2024-10-14 14:59:53.017448 Quebec: Delta, sending you 3
+chatterbot November submitting transactions
+2024-10-14 14:59:53.027643 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:53.038120 Delta: Romeo, Tango, Uniform and Hotel, sending you 2
+2024-10-14 14:59:53.046120 November: Quebec and Whiskey, sending you 1
+2024-10-14 14:59:53.054442 Quebec: Romeo, Tango, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:53.065970 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+chatterbot Uniform submitting transactions
+2024-10-14 14:59:53.077129 November: Romeo, sending you 7
+2024-10-14 14:59:53.086442 Quebec: Whiskey, sending you 6
+2024-10-14 14:59:53.097233 Tango: Delta, Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:53.106928 November: Tango and Uniform, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Papa round 28
+ChatterBot Delta round 28
+ChatterBot Quebec round 28
+ChatterBot Romeo round 28
+ChatterBot Tango round 28
+ChatterBot Kilo round 28
+ChatterBot Whiskey round 28
+ChatterBot Uniform round 28
+ChatterBot November round 28
+ChatterBot Hotel round 28
+2024-10-14 14:59:54.857564 Whiskey: We should drop Kilo
+ChatterBot Tango reevaluating
+2024-10-14 14:59:54.903604 Quebec: Yes
+2024-10-14 14:59:54.903963 Delta: Yes
+2024-10-14 14:59:54.904141 Romeo: Yes
+2024-10-14 14:59:54.904313 Tango: Yes
+2024-10-14 14:59:54.904872 Uniform: Yes
+2024-10-14 14:59:54.905039 November: Yes
+2024-10-14 14:59:54.905183 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 14:59:55.210454 Tango: We should drop Delta
+2024-10-14 14:59:55.251312 Hotel: No
+2024-10-14 14:59:55.251578 Quebec: No
+2024-10-14 14:59:55.251747 Whiskey: No
+2024-10-14 14:59:55.251904 Romeo: No
+2024-10-14 14:59:55.252072 Uniform: No
+2024-10-14 14:59:55.252230 November: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot November submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 14:59:55.601265 Delta: Quebec, Tango and Whiskey, sending you 3
+2024-10-14 14:59:55.607610 Kilo: Romeo, sending you 2
+2024-10-14 14:59:55.616303 November: Quebec and Whiskey, sending you 1
+2024-10-14 14:59:55.622684 Quebec: Delta, sending you 3
+2024-10-14 14:59:55.635537 Tango: We should drop Whiskey
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:55.663703 Delta: No
+2024-10-14 14:59:55.663827 Quebec: No
+2024-10-14 14:59:55.663924 Romeo: No
+2024-10-14 14:59:55.664034 Uniform: No
+2024-10-14 14:59:55.664138 November: No
+2024-10-14 14:59:55.664517 Hotel: No
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot November reevaluating
+chatterbot Uniform submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 14:59:55.971420 Delta: Romeo, Uniform and Hotel, sending you 2
+2024-10-14 14:59:55.979321 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:55.990433 Quebec: Romeo, Tango, Uniform, November and Hotel, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 14:59:56.130537 Quebec: Whiskey, sending you 6
+2024-10-14 14:59:56.328377 Tango: Delta, Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:56.337111 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Papa round 29
+ChatterBot Delta round 29
+ChatterBot Quebec round 29
+ChatterBot Romeo round 29
+ChatterBot Tango round 29
+ChatterBot Kilo round 29
+ChatterBot Whiskey round 29
+ChatterBot Uniform round 29
+ChatterBot November round 29
+ChatterBot Hotel round 29
+chatterbot November submitting transactions
+2024-10-14 14:59:57.445327 Whiskey: We should drop Kilo
+2024-10-14 14:59:57.487098 Quebec: Yes
+2024-10-14 14:59:57.487346 Delta: Yes
+2024-10-14 14:59:57.487529 Romeo: Yes
+2024-10-14 14:59:57.487683 Tango: Yes
+2024-10-14 14:59:57.487833 Uniform: Yes
+2024-10-14 14:59:57.487968 November: Yes
+2024-10-14 14:59:57.488101 Hotel: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:57.778980 Tango: Delta, Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+2024-10-14 14:59:57.788905 Kilo: Romeo, sending you 2
+2024-10-14 14:59:57.799383 Quebec: Delta, sending you 4
+2024-10-14 14:59:57.818508 Hotel: We should drop Tango
+2024-10-14 14:59:57.855376 Delta: No
+2024-10-14 14:59:57.856717 Quebec: No
+2024-10-14 14:59:57.856883 Whiskey: No
+2024-10-14 14:59:57.857067 Romeo: No
+2024-10-14 14:59:57.857253 Uniform: No
+2024-10-14 14:59:57.857425 November: Yes
+ChatterBot Hotel reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:58.193669 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 14:59:58.203514 Quebec: Romeo, Uniform, November and Hotel, sending you 2
+chatterbot Uniform submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-14 14:59:58.213696 November: We should replace Hotel with Tango
+ChatterBot Delta reevaluating
+2024-10-14 14:59:58.246388 Delta: No
+2024-10-14 14:59:58.246605 Quebec: No
+2024-10-14 14:59:58.246719 Romeo: No
+2024-10-14 14:59:58.246827 Whiskey: No
+2024-10-14 14:59:58.246928 Uniform: No
+ChatterBot November reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:58.360320 Quebec: Tango, sending you 1
+chatterbot Quebec submitting transactions
+2024-10-14 14:59:58.369701 November: Tango we want you to join our group
+2024-10-14 14:59:58.379459 Tango: Yes
+ChatterBot November reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:58.406246 Quebec: Whiskey, sending you 6
+2024-10-14 14:59:58.437241 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot November submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Papa round 30
+ChatterBot Delta round 30
+ChatterBot Quebec round 30
+ChatterBot Romeo round 30
+ChatterBot Tango round 30
+ChatterBot Kilo round 30
+ChatterBot Whiskey round 30
+ChatterBot Uniform round 30
+ChatterBot November round 30
+ChatterBot Hotel round 30
+2024-10-14 14:59:59.070944 November: We should replace Hotel with Tango
+ChatterBot Delta reevaluating
+2024-10-14 14:59:59.095899 Delta: No
+2024-10-14 14:59:59.096343 Quebec: No
+2024-10-14 14:59:59.096520 Romeo: No
+2024-10-14 14:59:59.096810 Whiskey: No
+2024-10-14 14:59:59.097786 Uniform: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:59.225778 Tango: We should drop Quebec
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:59.252018 Delta: No
+2024-10-14 14:59:59.252208 Romeo: No
+2024-10-14 14:59:59.252317 Whiskey: No
+2024-10-14 14:59:59.252429 Uniform: No
+2024-10-14 14:59:59.252525 November: No
+2024-10-14 14:59:59.252628 Hotel: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:59:59.418168 Uniform: We should drop Kilo
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:59:59.450033 Quebec: Yes
+2024-10-14 14:59:59.450215 Delta: Yes
+2024-10-14 14:59:59.450348 Whiskey: Yes
+2024-10-14 14:59:59.450497 Romeo: Yes
+2024-10-14 14:59:59.450694 Tango: Yes
+2024-10-14 14:59:59.450823 November: Yes
+2024-10-14 14:59:59.450961 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+chatterbot November submitting transactions
+2024-10-14 14:59:59.770902 November: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 14:59:59.781974 Tango: Yes
+ChatterBot Delta reevaluating
+chatterbot Delta submitting transactions
+2024-10-14 14:59:59.828384 Kilo: Romeo, sending you 2
+2024-10-14 14:59:59.836851 Quebec: Delta and Hotel, sending you 3
+2024-10-14 14:59:59.845295 Hotel: We should drop Tango
+ChatterBot Delta reevaluating
+2024-10-14 14:59:59.874985 Delta: No
+2024-10-14 14:59:59.875161 Quebec: No
+2024-10-14 14:59:59.875272 Whiskey: No
+2024-10-14 14:59:59.875380 Romeo: No
+2024-10-14 14:59:59.875502 Uniform: No
+2024-10-14 14:59:59.875605 November: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 15:00:00.213606 Kilo: Tango, Uniform, November and Hotel, sending you 1
+2024-10-14 15:00:00.223924 Quebec: Romeo, Uniform and November, sending you 2
+2024-10-14 15:00:00.233276 Tango: Delta, Romeo, Whiskey, Uniform, November and Hotel, sending you 2
+2024-10-14 15:00:00.242385 Quebec: Tango, sending you 1
+2024-10-14 15:00:00.264244 Quebec: Whiskey, sending you 6
+2024-10-14 15:00:00.274564 Hotel: Delta, Quebec, Romeo, Tango, Whiskey, Uniform and November, sending you 1
+chatterbot Uniform submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot November submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions

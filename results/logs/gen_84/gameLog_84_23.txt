@@ -1,0 +1,2952 @@
+ChatterBot Papa round 1
+ChatterBot Foxtrot round 1
+ChatterBot Delta round 1
+ChatterBot Yankee round 1
+ChatterBot Oscar round 1
+ChatterBot Bravo round 1
+ChatterBot Golf round 1
+ChatterBot Hotel round 1
+ChatterBot Quebec round 1
+ChatterBot X-ray round 1
+randomSelections Hotel: {Hotel, Delta, Golf, X-ray, Bravo, Foxtrot} 
+2024-10-14 14:36:54.615153 Hotel: Friends?
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:36:54.628656 Delta: Yes
+2024-10-14 14:36:54.628813 Golf: Yes
+2024-10-14 14:36:54.628986 X-ray: Yes
+2024-10-14 14:36:54.629128 Bravo: Yes
+2024-10-14 14:36:54.629261 Foxtrot: Yes
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+randomSelections Yankee: {Yankee, Papa, Delta, Bravo} 
+2024-10-14 14:36:54.679451 Yankee: Can we be friends?
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:36:54.686039 Papa: Yes
+2024-10-14 14:36:54.686154 Delta: No
+2024-10-14 14:36:54.686269 Bravo: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+randomSelections Quebec: {Quebec, Golf} 
+2024-10-14 14:36:54.704525 Quebec: Friends?
+ChatterBot Golf reevaluating
+2024-10-14 14:36:54.706701 Golf: No
+randomSelections Oscar: {Oscar, Delta, Bravo, Yankee, Quebec, Foxtrot} 
+2024-10-14 14:36:54.712667 Oscar: We would work well together
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:36:54.719728 Delta: No
+2024-10-14 14:36:54.719876 Bravo: No
+2024-10-14 14:36:54.719988 Yankee: No
+2024-10-14 14:36:54.720078 Quebec: No
+2024-10-14 14:36:54.720584 Foxtrot: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:36:54.775673 Yankee: Papa, sending you 6
+2024-10-14 14:36:54.776708 Oscar: Foxtrot, sending you 3
+2024-10-14 14:36:54.780372 Papa: Delta, sending you 5
+2024-10-14 14:36:54.780747 Yankee: Delta, sending you 4
+2024-10-14 14:36:54.782239 Oscar: Delta and Yankee, sending you 2
+2024-10-14 14:36:54.784535 Quebec: Sending you 9
+2024-10-14 14:36:54.784869 Delta: Foxtrot, sending you 2
+2024-10-14 14:36:54.785227 Yankee: Bravo, sending you 7
+2024-10-14 14:36:54.785596 Papa: Yankee, sending you 7
+2024-10-14 14:36:54.787013 Golf: Foxtrot, Bravo and Hotel, sending you 2
+2024-10-14 14:36:54.787428 Oscar: Bravo, sending you 1
+2024-10-14 14:36:54.787894 X-ray: Foxtrot, Bravo and Golf, sending you 2
+2024-10-14 14:36:54.789050 Delta: Bravo, Hotel and X-ray, sending you 3
+2024-10-14 14:36:54.789822 Papa: Bravo, sending you 4
+2024-10-14 14:36:54.791326 Golf: Delta and X-ray, sending you 3
+2024-10-14 14:36:54.791712 Hotel: Foxtrot and Bravo, sending you 2
+2024-10-14 14:36:54.792031 Bravo: Foxtrot and Golf, sending you 4
+2024-10-14 14:36:54.793076 Oscar: Quebec, sending you 4
+2024-10-14 14:36:54.793409 Delta: Golf, sending you 1
+2024-10-14 14:36:54.793817 X-ray: Delta and Hotel, sending you 3
+2024-10-14 14:36:54.794787 Hotel: Delta, sending you 4
+2024-10-14 14:36:54.797100 Bravo: Delta, sending you 5
+2024-10-14 14:36:54.797465 Foxtrot: Delta, sending you 5
+2024-10-14 14:36:54.800679 Bravo: Hotel, sending you 2
+2024-10-14 14:36:54.807738 Foxtrot: Bravo, sending you 2
+2024-10-14 14:36:54.808681 Bravo: X-ray, sending you 1
+2024-10-14 14:36:54.816087 Foxtrot: Golf, sending you 3
+2024-10-14 14:36:54.821164 Foxtrot: Hotel, sending you 1
+2024-10-14 14:36:54.828536 Foxtrot: X-ray, sending you 4
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 2
+ChatterBot Foxtrot round 2
+ChatterBot Delta round 2
+ChatterBot Yankee round 2
+ChatterBot Oscar round 2
+ChatterBot Bravo round 2
+ChatterBot Golf round 2
+ChatterBot Hotel round 2
+ChatterBot Quebec round 2
+ChatterBot X-ray round 2
+2024-10-14 14:36:56.847802 Golf: We would work well together
+ChatterBot Quebec reevaluating
+2024-10-14 14:36:56.851730 Quebec: No
+2024-10-14 14:36:56.865078 Quebec: We should replace Golf with Oscar
+2024-10-14 14:36:56.869093 Yankee: Group up?
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:36:56.876305 Papa: Yes
+2024-10-14 14:36:56.876498 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:36:56.889858 Oscar: Let's form a team
+ChatterBot Papa reevaluating
+2024-10-14 14:36:56.896824 Yankee: Yes
+2024-10-14 14:36:56.896966 Papa: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:36:56.917732 Foxtrot: We should add Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:36:56.960648 Hotel: No
+2024-10-14 14:36:56.960963 Delta: No
+2024-10-14 14:36:56.961157 Golf: No
+2024-10-14 14:36:56.961638 X-ray: No
+2024-10-14 14:36:56.961805 Bravo: No
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:36:57.169921 Delta: We should add Papa and Yankee
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:36:57.205726 Hotel: No
+2024-10-14 14:36:57.205902 Golf: No
+2024-10-14 14:36:57.206029 X-ray: No
+2024-10-14 14:36:57.206495 Bravo: No
+2024-10-14 14:36:57.206591 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:36:57.447959 X-ray: We should add Quebec
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:36:57.539161 Hotel: No
+2024-10-14 14:36:57.539586 Delta: No
+2024-10-14 14:36:57.539833 Golf: Yes
+2024-10-14 14:36:57.540025 Bravo: No
+2024-10-14 14:36:57.541243 Foxtrot: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:36:57.671774 Delta: Papa and Yankee we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 14:36:57.678456 Papa: No
+2024-10-14 14:36:57.679014 Yankee: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:36:57.747207 Quebec: Oscar we want you to join our group
+2024-10-14 14:36:57.751105 Oscar: No
+ChatterBot Quebec reevaluating
+chatterbot Oscar submitting transactions
+2024-10-14 14:36:57.756689 Bravo: We should drop Hotel
+2024-10-14 14:36:57.782984 Foxtrot: No
+2024-10-14 14:36:57.783190 Delta: No
+2024-10-14 14:36:57.783693 Golf: Yes
+2024-10-14 14:36:57.783834 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:36:57.887233 Oscar: Sending you each 6
+2024-10-14 14:36:57.887679 Golf: Sending you 8
+2024-10-14 14:36:57.887937 Yankee: Papa, sending you 6
+chatterbot Yankee submitting transactions
+2024-10-14 14:36:58.608331 Foxtrot: Sending you each 3
+2024-10-14 14:36:58.608925 Delta: Papa, Foxtrot, Yankee, Bravo, Golf and Hotel, sending you 2
+2024-10-14 14:36:58.609836 Yankee: Oscar, sending you 5
+2024-10-14 14:36:58.610159 Hotel: Delta, Bravo, Golf and X-ray, sending you 2
+2024-10-14 14:36:58.611194 X-ray: Quebec we want you to join our group
+2024-10-14 14:36:58.615822 Quebec: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:36:58.807456 Papa: Yankee, sending you 8
+2024-10-14 14:36:58.885011 Papa: Oscar, sending you 3
+2024-10-14 14:36:58.885432 Quebec: Sending you 8
+2024-10-14 14:36:58.931314 X-ray: Foxtrot, sending you 3
+chatterbot Quebec submitting transactions
+2024-10-14 14:36:58.948619 X-ray: Delta and Golf, sending you 4
+2024-10-14 14:36:58.949665 Bravo: Foxtrot, Golf and X-ray, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 14:36:58.961188 X-ray: Bravo, sending you 2
+2024-10-14 14:36:58.961880 Bravo: Delta, sending you 5
+2024-10-14 14:36:58.968217 X-ray: Hotel, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 3
+ChatterBot Foxtrot round 3
+ChatterBot Delta round 3
+ChatterBot Yankee round 3
+ChatterBot Oscar round 3
+ChatterBot Bravo round 3
+ChatterBot Golf round 3
+ChatterBot Hotel round 3
+ChatterBot Quebec round 3
+2024-10-14 14:37:00.602419 Yankee: We should add Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:00.609094 Papa: No
+2024-10-14 14:37:00.609241 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray round 3
+2024-10-14 14:37:00.635869 Bravo: We should replace Golf with Hotel
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:00.646072 Foxtrot: No
+2024-10-14 14:37:00.646307 Delta: No
+2024-10-14 14:37:00.646440 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:00.691507 Golf: We should replace Quebec with Bravo
+2024-10-14 14:37:00.695568 Delta: We should drop Papa and Yankee
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:00.725810 Hotel: Yes
+2024-10-14 14:37:00.726367 Golf: Yes
+2024-10-14 14:37:00.726517 X-ray: Yes
+2024-10-14 14:37:00.726666 Bravo: Yes
+2024-10-14 14:37:00.726821 Foxtrot: Yes
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:00.939209 Yankee: We should add Hotel
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:00.945812 Papa: No
+2024-10-14 14:37:00.945951 Oscar: No
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:01.025382 Oscar: Quebec we want you to join our group
+2024-10-14 14:37:01.030697 Quebec: No
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:01.048341 Papa: Yankee, sending you 8
+2024-10-14 14:37:01.048902 Bravo: Hotel we want you to join our group
+2024-10-14 14:37:01.054730 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:01.077561 X-ray: We should add Quebec
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:01.120066 Hotel: No
+2024-10-14 14:37:01.120318 Delta: No
+2024-10-14 14:37:01.120516 Golf: Yes
+2024-10-14 14:37:01.120698 Bravo: No
+2024-10-14 14:37:01.120901 Foxtrot: No
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:01.391307 Golf: We should replace Quebec with Foxtrot
+2024-10-14 14:37:01.391721 Yankee: Quebec we want you to join our group
+2024-10-14 14:37:01.398040 Quebec: No
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:01.415370 Papa: Oscar, sending you 7
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:37:01.416739 Hotel: Foxtrot, Delta and X-ray, sending you 2
+2024-10-14 14:37:01.417360 Foxtrot: Delta, Bravo, Golf, Hotel and X-ray, sending you 3
+2024-10-14 14:37:01.418328 Delta: Foxtrot, Golf, Hotel and X-ray, sending you 2
+2024-10-14 14:37:01.419228 Golf: Foxtrot we want you to join our group
+2024-10-14 14:37:01.426005 Foxtrot: Yes
+2024-10-14 14:37:01.449265 Hotel: Bravo and Golf, sending you 1
+2024-10-14 14:37:01.450797 Delta: Bravo, sending you 4
+2024-10-14 14:37:01.489106 Oscar: Papa, sending you 4
+2024-10-14 14:37:01.554169 Oscar: Yankee, sending you 5
+2024-10-14 14:37:01.554565 Golf: Sending you 7
+2024-10-14 14:37:01.555318 X-ray: Foxtrot, Delta and Golf, sending you 3
+2024-10-14 14:37:01.620554 Oscar: Quebec, sending you 6
+2024-10-14 14:37:01.620897 Yankee: Papa and Oscar, sending you 6
+2024-10-14 14:37:01.621453 Bravo: Foxtrot and Delta, sending you 5
+2024-10-14 14:37:01.621757 X-ray: Bravo, sending you 4
+chatterbot Papa submitting transactions
+2024-10-14 14:37:01.781693 Yankee: Quebec, sending you 2
+2024-10-14 14:37:01.781987 X-ray: Hotel, sending you 2
+2024-10-14 14:37:01.782515 Bravo: Hotel, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 14:37:01.842234 Bravo: X-ray, sending you 3
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Papa round 4
+ChatterBot Foxtrot round 4
+ChatterBot Delta round 4
+ChatterBot Yankee round 4
+ChatterBot Oscar round 4
+2024-10-14 14:37:02.678176 Delta: We should add Oscar
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:02.706314 Hotel: No
+2024-10-14 14:37:02.706538 Golf: No
+2024-10-14 14:37:02.707139 X-ray: No
+2024-10-14 14:37:02.707270 Bravo: No
+2024-10-14 14:37:02.707403 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo round 4
+ChatterBot Golf round 4
+ChatterBot Hotel round 4
+ChatterBot Quebec round 4
+ChatterBot X-ray round 4
+2024-10-14 14:37:02.846657 Oscar: We should add Golf
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:02.859086 Papa: No
+2024-10-14 14:37:02.859277 Yankee: No
+2024-10-14 14:37:02.859839 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:02.907145 Bravo: We should add Golf
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:02.971501 Foxtrot: Yes
+2024-10-14 14:37:02.971881 Delta: Yes
+2024-10-14 14:37:02.972237 Hotel: Yes
+2024-10-14 14:37:02.973012 X-ray: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:37:03.054152 X-ray: We should add Quebec
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:03.091575 Hotel: No
+2024-10-14 14:37:03.092168 Delta: Yes
+2024-10-14 14:37:03.092326 Golf: No
+2024-10-14 14:37:03.092501 Bravo: No
+2024-10-14 14:37:03.092678 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:03.270902 Oscar: We should add Hotel
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:03.278542 Papa: No
+2024-10-14 14:37:03.278674 Yankee: No
+2024-10-14 14:37:03.278793 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:03.301406 Papa: We should add Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:03.306635 Yankee: Yes
+2024-10-14 14:37:03.306754 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:03.321803 Yankee: Papa and Oscar, sending you 6
+2024-10-14 14:37:03.325001 Yankee: Quebec, sending you 2
+2024-10-14 14:37:03.325837 Oscar: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 14:37:03.341035 Golf: No
+ChatterBot Papa reevaluating
+2024-10-14 14:37:03.353456 X-ray: Quebec we want you to join our group
+2024-10-14 14:37:03.356600 Quebec: No
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:03.408683 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:03.409423 Foxtrot: Same as last round
+2024-10-14 14:37:03.410150 Quebec: Yankee, sending you 5
+2024-10-14 14:37:03.410638 Bravo: Foxtrot and X-ray, sending you 4
+2024-10-14 14:37:03.411001 Delta: Foxtrot, Golf, Hotel and X-ray, sending you 2
+2024-10-14 14:37:03.415317 Golf: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:03.432100 X-ray: Yes
+ChatterBot Golf reevaluating
+2024-10-14 14:37:03.465910 Quebec: Oscar, sending you 8
+2024-10-14 14:37:03.466544 Bravo: Delta, sending you 6
+2024-10-14 14:37:03.467790 Delta: Bravo, sending you 4
+2024-10-14 14:37:04.003524 Bravo: Hotel, sending you 3
+2024-10-14 14:37:04.004650 Papa: Yankee, sending you 8
+2024-10-14 14:37:04.005109 Oscar: Papa and Yankee, sending you 5
+2024-10-14 14:37:04.014491 Papa: Oscar, sending you 7
+2024-10-14 14:37:04.014919 Oscar: Golf, sending you 2
+2024-10-14 14:37:04.034772 Oscar: Quebec, sending you 4
+2024-10-14 14:37:04.114896 Golf: Sending you 7
+2024-10-14 14:37:04.115746 X-ray: Foxtrot and Bravo, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:04.133699 X-ray: Delta and Hotel, sending you 3
+2024-10-14 14:37:04.148308 X-ray: Golf, sending you 2
+2024-10-14 14:37:04.521627 X-ray: Quebec, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 5
+ChatterBot Foxtrot round 5
+ChatterBot Delta round 5
+ChatterBot Yankee round 5
+ChatterBot Oscar round 5
+ChatterBot Bravo round 5
+ChatterBot Golf round 5
+ChatterBot Hotel round 5
+ChatterBot Quebec round 5
+ChatterBot X-ray round 5
+2024-10-14 14:37:05.023528 Oscar: We should replace Golf with X-ray
+ChatterBot Papa reevaluating
+2024-10-14 14:37:05.034629 Papa: No
+2024-10-14 14:37:05.034844 Yankee: No
+2024-10-14 14:37:05.035466 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:05.088548 Oscar: We should replace Golf with Hotel
+ChatterBot Papa reevaluating
+2024-10-14 14:37:05.096414 Papa: No
+2024-10-14 14:37:05.096617 Yankee: No
+2024-10-14 14:37:05.096739 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:05.121577 X-ray: We should drop Quebec
+ChatterBot Golf reevaluating
+2024-10-14 14:37:05.142679 Hotel: Yes
+2024-10-14 14:37:05.142869 Delta: Yes
+2024-10-14 14:37:05.143431 Golf: Yes
+2024-10-14 14:37:05.143603 Bravo: Yes
+2024-10-14 14:37:05.143722 Foxtrot: Yes
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:05.350585 Golf: We should replace X-ray with Foxtrot
+2024-10-14 14:37:05.350993 Yankee: Papa and Oscar, sending you 6
+2024-10-14 14:37:05.354689 Foxtrot: Same as last round
+2024-10-14 14:37:05.355255 Bravo: Foxtrot and X-ray, sending you 4
+2024-10-14 14:37:05.356260 Yankee: Quebec, sending you 3
+2024-10-14 14:37:05.356564 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:05.357080 Quebec: Yankee, sending you 6
+2024-10-14 14:37:05.360017 Bravo: Delta, sending you 6
+2024-10-14 14:37:05.360651 Quebec: Oscar, sending you 10
+2024-10-14 14:37:05.361045 Golf: Foxtrot we want you to join our group
+2024-10-14 14:37:05.365284 Foxtrot: Yes
+ChatterBot Golf reevaluating
+2024-10-14 14:37:05.386073 Bravo: Hotel, sending you 3
+2024-10-14 14:37:05.391217 Oscar: Papa, Yankee and Quebec, sending you 5
+2024-10-14 14:37:05.391846 X-ray: Foxtrot and Golf, sending you 4
+2024-10-14 14:37:05.394702 Oscar: Golf, sending you 1
+2024-10-14 14:37:05.397680 X-ray: Delta, Bravo and Hotel, sending you 3
+2024-10-14 14:37:05.402028 X-ray: Quebec, sending you 1
+2024-10-14 14:37:05.416679 Golf: Sending you 8
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 6
+ChatterBot Foxtrot round 6
+ChatterBot Delta round 6
+ChatterBot Yankee round 6
+ChatterBot Oscar round 6
+ChatterBot Bravo round 6
+ChatterBot Golf round 6
+2024-10-14 14:37:06.341419 Papa: We should add Quebec
+2024-10-14 14:37:06.349793 Yankee: Yes
+2024-10-14 14:37:06.350172 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.370773 Oscar: We should replace Golf with X-ray
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.385699 Papa: No
+2024-10-14 14:37:06.386501 Yankee: No
+2024-10-14 14:37:06.386716 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel round 6
+ChatterBot Quebec round 6
+ChatterBot X-ray round 6
+2024-10-14 14:37:06.451383 Golf: We should replace X-ray with Delta
+2024-10-14 14:37:06.455563 Oscar: We should replace Golf with Hotel
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.465240 Papa: No
+2024-10-14 14:37:06.465795 Yankee: No
+2024-10-14 14:37:06.465932 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.496847 Oscar: We should replace Golf with Delta
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.506815 Papa: No
+2024-10-14 14:37:06.507039 Yankee: No
+2024-10-14 14:37:06.507169 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.547577 Golf: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 14:37:06.551513 Delta: Yes
+ChatterBot Golf reevaluating
+2024-10-14 14:37:06.565975 Golf: We should replace X-ray with Foxtrot
+2024-10-14 14:37:06.566767 X-ray: We should drop Quebec
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:06.593492 Hotel: Yes
+2024-10-14 14:37:06.593805 Delta: Yes
+2024-10-14 14:37:06.593986 Golf: Yes
+2024-10-14 14:37:06.594154 Bravo: Yes
+2024-10-14 14:37:06.594752 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:06.720498 Oscar: Hotel we want you to join our group
+2024-10-14 14:37:06.723883 Hotel: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:06.736972 Yankee: Papa and Oscar, sending you 5
+2024-10-14 14:37:06.739779 Quebec: Yankee, sending you 7
+2024-10-14 14:37:07.007514 Bravo: Foxtrot and X-ray, sending you 4
+2024-10-14 14:37:07.008228 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:07.009666 Yankee: Quebec, sending you 4
+2024-10-14 14:37:07.010967 Oscar: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:07.016865 X-ray: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:07.037789 Quebec: Oscar, sending you 11
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:07.038404 Bravo: Delta, sending you 6
+chatterbot Delta submitting transactions
+2024-10-14 14:37:07.058255 Bravo: Hotel, sending you 3
+2024-10-14 14:37:07.153621 Golf: Same as last round
+2024-10-14 14:37:07.157645 Papa: Yankee, sending you 9
+2024-10-14 14:37:07.159041 X-ray: Foxtrot, Delta, Bravo and Hotel, sending you 3
+2024-10-14 14:37:07.161697 Papa: Oscar, sending you 8
+2024-10-14 14:37:07.163945 X-ray: Golf, sending you 4
+2024-10-14 14:37:07.175047 Oscar: Papa, sending you 4
+2024-10-14 14:37:07.179661 Oscar: Yankee and Quebec, sending you 5
+2024-10-14 14:37:07.185323 Oscar: Hotel, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Papa round 7
+ChatterBot Foxtrot round 7
+ChatterBot Delta round 7
+ChatterBot Yankee round 7
+ChatterBot Oscar round 7
+ChatterBot Bravo round 7
+ChatterBot Golf round 7
+ChatterBot Hotel round 7
+ChatterBot Quebec round 7
+ChatterBot X-ray round 7
+2024-10-14 14:37:07.924460 Golf: We should replace X-ray with Delta
+2024-10-14 14:37:07.928829 Oscar: We should replace Hotel with Delta
+ChatterBot Papa reevaluating
+2024-10-14 14:37:07.940199 Papa: No
+2024-10-14 14:37:07.940400 Yankee: No
+2024-10-14 14:37:07.941030 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:08.055471 X-ray: We should replace Quebec with Yankee
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:08.096095 Hotel: No
+2024-10-14 14:37:08.096575 Delta: Yes
+2024-10-14 14:37:08.097242 Golf: No
+2024-10-14 14:37:08.097526 Bravo: No
+2024-10-14 14:37:08.097868 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:08.291139 Papa: We should add Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:08.300063 Yankee: Yes
+2024-10-14 14:37:08.300579 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:08.325706 Oscar: We should replace Hotel with X-ray
+ChatterBot Papa reevaluating
+2024-10-14 14:37:08.340141 Papa: No
+2024-10-14 14:37:08.340361 Yankee: No
+2024-10-14 14:37:08.340571 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:08.409845 Foxtrot: Sending you each 3
+2024-10-14 14:37:08.411375 Oscar: Delta we want you to join our group
+2024-10-14 14:37:08.416754 Delta: No
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:08.438068 Bravo: Foxtrot and Hotel, sending you 3
+2024-10-14 14:37:08.439310 Papa: Quebec we want you to join our group
+2024-10-14 14:37:08.444768 Quebec: No
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:08.461297 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:08.462901 Yankee: Sending you each 5
+2024-10-14 14:37:08.463498 Bravo: Delta, sending you 7
+2024-10-14 14:37:08.581139 Quebec: Yankee, sending you 7
+2024-10-14 14:37:08.583230 Golf: Sending you 9
+2024-10-14 14:37:08.584839 Bravo: X-ray, sending you 4
+2024-10-14 14:37:08.586648 X-ray: Golf, sending you 1
+2024-10-14 14:37:08.588842 Oscar: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:08.593923 X-ray: No
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:08.609560 Quebec: Oscar, sending you 11
+2024-10-14 14:37:08.669998 Papa: Yankee, sending you 8
+2024-10-14 14:37:08.671031 X-ray: Yankee we want you to join our group
+2024-10-14 14:37:08.675763 Yankee: No
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:08.707934 Golf: We should replace X-ray with Foxtrot
+2024-10-14 14:37:08.708337 Papa: Oscar, sending you 7
+2024-10-14 14:37:08.792284 Papa: Quebec, sending you 2
+2024-10-14 14:37:08.793132 Golf: Foxtrot we want you to join our group
+2024-10-14 14:37:08.796752 Foxtrot: Yes
+ChatterBot Golf reevaluating
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 8
+ChatterBot Foxtrot round 8
+ChatterBot Delta round 8
+ChatterBot Yankee round 8
+ChatterBot Oscar round 8
+ChatterBot Bravo round 8
+ChatterBot Golf round 8
+ChatterBot Hotel round 8
+2024-10-14 14:37:09.888998 Delta: We should add Yankee
+ChatterBot Golf reevaluating
+2024-10-14 14:37:09.917566 Hotel: No
+2024-10-14 14:37:09.917772 Golf: No
+2024-10-14 14:37:09.917971 X-ray: Yes
+2024-10-14 14:37:09.918131 Bravo: No
+2024-10-14 14:37:09.918299 Foxtrot: No
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:10.007900 X-ray: We should replace Yankee with Papa
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:10.025092 Hotel: No
+2024-10-14 14:37:10.025260 Delta: Yes
+2024-10-14 14:37:10.025371 Golf: No
+2024-10-14 14:37:10.025472 Bravo: No
+2024-10-14 14:37:10.025574 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec round 8
+ChatterBot X-ray round 8
+2024-10-14 14:37:10.119391 Oscar: We should replace X-ray with Delta
+2024-10-14 14:37:10.131198 Papa: No
+2024-10-14 14:37:10.131418 Yankee: No
+2024-10-14 14:37:10.132229 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:10.180863 Delta: We should add Papa
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:10.206228 Hotel: No
+2024-10-14 14:37:10.206462 Golf: No
+2024-10-14 14:37:10.206656 X-ray: Yes
+2024-10-14 14:37:10.206888 Bravo: No
+2024-10-14 14:37:10.207536 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:10.325707 X-ray: We should replace Yankee with Papa
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:10.348491 Hotel: No
+2024-10-14 14:37:10.349151 Delta: No
+2024-10-14 14:37:10.349310 Golf: No
+2024-10-14 14:37:10.349423 Bravo: No
+2024-10-14 14:37:10.349527 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:10.591079 X-ray: We should replace Yankee with Quebec
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:10.629411 Hotel: No
+2024-10-14 14:37:10.629653 Delta: Yes
+2024-10-14 14:37:10.629806 Golf: No
+2024-10-14 14:37:10.629969 Bravo: No
+2024-10-14 14:37:10.630127 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:10.821518 Oscar: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 14:37:10.828195 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:10.851491 Yankee: I was attacked by X-ray
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:10.869436 Yankee: I'm keeping this round to protect myself
+2024-10-14 14:37:10.871132 Yankee: Ow
+2024-10-14 14:37:10.872477 X-ray: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 14:37:10.879522 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:37:10.926588 Golf: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 14:37:10.932987 Delta: Yes
+2024-10-14 14:37:10.952091 Delta: We should add Quebec
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:11.051940 Hotel: No
+2024-10-14 14:37:11.052265 Golf: No
+2024-10-14 14:37:11.052576 X-ray: No
+2024-10-14 14:37:11.053448 Bravo: No
+2024-10-14 14:37:11.053703 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:11.256931 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:11.259516 Quebec: Sending you each 9
+2024-10-14 14:37:11.261470 Papa: We should drop Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:11.272268 Yankee: No
+2024-10-14 14:37:11.272471 Oscar: No
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:11.295783 Papa: We should add Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:11.307077 Yankee: Yes
+2024-10-14 14:37:11.307245 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 14:37:11.333462 Golf: We should add Oscar
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:11.341062 X-ray: No
+2024-10-14 14:37:11.360215 Bravo: Foxtrot and X-ray, sending you 4
+2024-10-14 14:37:11.362144 Delta: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 14:37:11.369036 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:11.415561 Bravo: Delta, sending you 6
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:11.428407 Bravo: Hotel, sending you 3
+2024-10-14 14:37:11.429102 Foxtrot: Same as last round
+2024-10-14 14:37:11.431283 Papa: Quebec we want you to join our group
+2024-10-14 14:37:11.436376 Quebec: No
+ChatterBot Papa reevaluating
+2024-10-14 14:37:11.497548 Oscar: Papa, sending you 3
+chatterbot Papa submitting transactions
+2024-10-14 14:37:11.521013 Golf: Sending you 10
+2024-10-14 14:37:11.521443 Oscar: Delta, sending you 2
+2024-10-14 14:37:11.521906 X-ray: Papa, sending you 1
+2024-10-14 14:37:11.530665 Oscar: Yankee and Quebec, sending you 4
+2024-10-14 14:37:11.531808 X-ray: Foxtrot, Delta and Golf, sending you 3
+2024-10-14 14:37:11.546293 X-ray: Bravo and Hotel, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Papa round 9
+ChatterBot Foxtrot round 9
+ChatterBot Delta round 9
+ChatterBot Yankee round 9
+ChatterBot Oscar round 9
+ChatterBot Bravo round 9
+ChatterBot Golf round 9
+ChatterBot Hotel round 9
+ChatterBot Quebec round 9
+ChatterBot X-ray round 9
+2024-10-14 14:37:12.533308 Papa: We should add Quebec
+2024-10-14 14:37:12.542442 Yankee: Yes
+2024-10-14 14:37:12.542654 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:12.624663 Papa: Quebec we want you to join our group
+2024-10-14 14:37:12.629932 Quebec: No
+ChatterBot Papa reevaluating
+2024-10-14 14:37:12.643246 Quebec: Yankee, sending you 7
+2024-10-14 14:37:12.644225 Golf: Sending you 11
+2024-10-14 14:37:12.664087 X-ray: Papa, sending you 1
+2024-10-14 14:37:12.666697 Bravo: Foxtrot, Hotel and X-ray, sending you 4
+2024-10-14 14:37:12.669086 Quebec: Oscar, sending you 11
+2024-10-14 14:37:12.670980 Foxtrot: Same as last round
+2024-10-14 14:37:12.673747 Oscar: Papa and Quebec, sending you 3
+2024-10-14 14:37:12.675569 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:12.678572 X-ray: Foxtrot, Delta, Golf and Hotel, sending you 3
+2024-10-14 14:37:12.680695 Bravo: Delta, sending you 5
+2024-10-14 14:37:12.682666 Oscar: Delta, sending you 1
+2024-10-14 14:37:12.688953 X-ray: Bravo, sending you 2
+2024-10-14 14:37:12.690470 Oscar: Yankee, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 10
+ChatterBot Foxtrot round 10
+ChatterBot Delta round 10
+ChatterBot Yankee round 10
+ChatterBot Oscar round 10
+ChatterBot Bravo round 10
+ChatterBot Golf round 10
+ChatterBot Hotel round 10
+ChatterBot Quebec round 10
+ChatterBot X-ray round 10
+2024-10-14 14:37:13.812709 Delta: We should add Oscar
+ChatterBot Hotel reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:13.837716 Hotel: No
+2024-10-14 14:37:13.837873 Golf: No
+2024-10-14 14:37:13.837999 X-ray: No
+2024-10-14 14:37:13.838124 Bravo: No
+2024-10-14 14:37:13.838246 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:13.962173 Papa: We should add Quebec
+2024-10-14 14:37:13.968573 Yankee: Yes
+2024-10-14 14:37:13.968722 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:13.996811 Oscar: We should replace Delta with Golf
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:14.007752 Papa: No
+2024-10-14 14:37:14.007887 Yankee: No
+2024-10-14 14:37:14.007993 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:14.067693 Oscar: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 14:37:14.079063 Golf: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:14.095680 Quebec: Yankee, sending you 7
+2024-10-14 14:37:14.096153 Yankee: Papa, sending you 2
+2024-10-14 14:37:14.097666 Papa: Quebec we want you to join our group
+2024-10-14 14:37:14.103654 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:14.120328 Oscar: We should replace Delta with Bravo
+ChatterBot Papa reevaluating
+2024-10-14 14:37:14.133194 Papa: No
+2024-10-14 14:37:14.133334 Yankee: No
+2024-10-14 14:37:14.133527 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:14.229858 Quebec: Oscar, sending you 11
+2024-10-14 14:37:14.230357 Yankee: Oscar and Quebec, sending you 1
+2024-10-14 14:37:14.234716 Bravo: Foxtrot and X-ray, sending you 4
+2024-10-14 14:37:14.237577 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:14.241849 X-ray: Golf, sending you 1
+2024-10-14 14:37:14.244988 Bravo: Delta, sending you 6
+chatterbot Delta submitting transactions
+2024-10-14 14:37:14.251095 Bravo: Hotel, sending you 3
+2024-10-14 14:37:14.253109 Golf: Oscar, sending you 4
+2024-10-14 14:37:14.259232 Golf: X-ray, sending you 10
+2024-10-14 14:37:14.285686 Oscar: Papa and Quebec, sending you 3
+2024-10-14 14:37:14.308524 Oscar: Yankee, sending you 4
+2024-10-14 14:37:14.412651 Oscar: Golf, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 11
+ChatterBot Foxtrot round 11
+ChatterBot Delta round 11
+ChatterBot Yankee round 11
+ChatterBot Oscar round 11
+ChatterBot Bravo round 11
+ChatterBot Golf round 11
+ChatterBot Hotel round 11
+ChatterBot Quebec round 11
+ChatterBot X-ray round 11
+2024-10-14 14:37:15.428689 Papa: We should add Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:15.443896 Yankee: Yes
+2024-10-14 14:37:15.446565 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:15.499161 Oscar: We should replace Golf with X-ray
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:15.518050 Papa: No
+2024-10-14 14:37:15.518241 Yankee: No
+2024-10-14 14:37:15.518399 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:15.591635 Golf: We should replace Oscar with Foxtrot
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:15.598391 X-ray: Yes
+2024-10-14 14:37:15.618158 Quebec: We should add Papa
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:15.630530 Yankee: Yes
+2024-10-14 14:37:15.631163 Oscar: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:15.663318 Hotel: We should add Papa
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:15.699653 Delta: Yes
+2024-10-14 14:37:15.699888 Golf: No
+2024-10-14 14:37:15.700070 X-ray: No
+2024-10-14 14:37:15.700240 Bravo: No
+2024-10-14 14:37:15.700433 Foxtrot: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:15.867699 Bravo: We should add Golf
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:15.885757 Foxtrot: Yes
+2024-10-14 14:37:15.885924 Delta: Yes
+2024-10-14 14:37:15.886040 Hotel: Yes
+2024-10-14 14:37:15.886133 X-ray: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:37:16.050087 Golf: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:16.058600 Foxtrot: Yes
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:16.080468 Delta: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 14:37:16.091090 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:37:16.147081 Quebec: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 14:37:16.154560 Papa: Yes
+2024-10-14 14:37:16.172893 Yankee: Papa and Quebec, sending you 3
+2024-10-14 14:37:16.173851 X-ray: We should drop Papa
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:16.218973 Hotel: Yes
+2024-10-14 14:37:16.219191 Delta: Yes
+2024-10-14 14:37:16.219379 Golf: Yes
+2024-10-14 14:37:16.219571 Bravo: Yes
+2024-10-14 14:37:16.219846 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:16.410438 Yankee: Oscar, sending you 5
+2024-10-14 14:37:16.411381 Papa: Quebec we want you to join our group
+2024-10-14 14:37:16.414756 Quebec: Yes
+ChatterBot Papa reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 14:37:16.441494 Quebec: Papa, sending you 2
+2024-10-14 14:37:16.468722 Quebec: Yankee, sending you 6
+2024-10-14 14:37:16.470509 Bravo: Foxtrot, sending you 5
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 14:37:16.473455 X-ray: Golf, sending you 1
+2024-10-14 14:37:16.534542 Quebec: Oscar, sending you 10
+2024-10-14 14:37:16.537031 Bravo: Delta, sending you 10
+2024-10-14 14:37:16.649719 Golf: Foxtrot, sending you 8
+2024-10-14 14:37:16.651095 Bravo: Golf, sending you 2
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:16.665419 Golf: X-ray, sending you 11
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Papa round 12
+ChatterBot Foxtrot round 12
+ChatterBot Delta round 12
+ChatterBot Yankee round 12
+ChatterBot Oscar round 12
+ChatterBot Bravo round 12
+ChatterBot Golf round 12
+ChatterBot Hotel round 12
+ChatterBot Quebec round 12
+ChatterBot X-ray round 12
+2024-10-14 14:37:17.676850 Papa: We should add Quebec
+2024-10-14 14:37:17.690643 Yankee: Yes
+2024-10-14 14:37:17.690909 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:17.721245 Oscar: We should replace Golf with Hotel
+ChatterBot Papa reevaluating
+2024-10-14 14:37:17.740995 Papa: No
+2024-10-14 14:37:17.741225 Yankee: No
+2024-10-14 14:37:17.741423 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:17.824889 Hotel: We should add Quebec
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:17.936695 Delta: No
+2024-10-14 14:37:17.937068 Golf: No
+2024-10-14 14:37:17.937290 X-ray: No
+2024-10-14 14:37:17.937553 Bravo: No
+2024-10-14 14:37:17.937853 Foxtrot: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:18.163233 Bravo: We should replace Delta with X-ray
+2024-10-14 14:37:18.185007 Foxtrot: No
+2024-10-14 14:37:18.185203 Golf: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:18.237511 Papa: Quebec we want you to join our group
+2024-10-14 14:37:18.245870 Quebec: Yes
+ChatterBot Papa reevaluating
+2024-10-14 14:37:18.270875 Bravo: X-ray we want you to join our group
+2024-10-14 14:37:18.282056 X-ray: Yes
+2024-10-14 14:37:18.307198 Yankee: I was attacked by X-ray
+ChatterBot Papa reevaluating
+2024-10-14 14:37:18.324750 Yankee: I'm keeping this round to protect myself
+2024-10-14 14:37:18.326702 Yankee: Ow
+2024-10-14 14:37:18.327435 Oscar: I was attacked by Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:18.358049 Oscar: I'm keeping this round to protect myself
+2024-10-14 14:37:18.360953 Oscar: Ow
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:18.362443 X-ray: Golf, sending you 1
+2024-10-14 14:37:18.365891 Foxtrot: Delta, Bravo, Golf, Hotel and X-ray, sending you 3
+2024-10-14 14:37:18.379821 Hotel: Foxtrot, Delta, Bravo and Golf, sending you 2
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:18.414031 Bravo: Foxtrot and X-ray, sending you 8
+chatterbot Hotel submitting transactions
+2024-10-14 14:37:18.441845 Bravo: Golf, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 13
+ChatterBot Foxtrot round 13
+ChatterBot Delta round 13
+ChatterBot Yankee round 13
+ChatterBot Oscar round 13
+ChatterBot Bravo round 13
+ChatterBot Golf round 13
+ChatterBot Hotel round 13
+ChatterBot Quebec round 13
+ChatterBot X-ray round 13
+2024-10-14 14:37:19.628082 Papa: We should add Quebec
+2024-10-14 14:37:19.634767 Yankee: Yes
+2024-10-14 14:37:19.634920 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:19.678662 Bravo: We should replace Foxtrot with Delta
+ChatterBot Golf reevaluating
+2024-10-14 14:37:19.699253 Golf: No
+2024-10-14 14:37:19.699464 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:19.744667 Papa: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:19.750706 Quebec: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:19.764942 Oscar: We should replace Golf with Delta
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:19.779305 Papa: No
+2024-10-14 14:37:19.779479 Yankee: No
+2024-10-14 14:37:19.779664 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:19.819842 Foxtrot: Delta, Bravo, Golf, Hotel and X-ray, sending you 3
+2024-10-14 14:37:19.821808 Yankee: I was attacked by X-ray
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:19.835408 Yankee: I'm keeping this round to protect myself
+2024-10-14 14:37:19.836460 Yankee: Ow
+2024-10-14 14:37:19.836984 Hotel: Foxtrot, Delta, Bravo and Golf, sending you 2
+2024-10-14 14:37:19.840673 X-ray: Foxtrot, Bravo, Golf and Hotel, sending you 2
+2024-10-14 14:37:19.845068 Bravo: Foxtrot, sending you 9
+2024-10-14 14:37:19.846697 X-ray: Delta, sending you 3
+2024-10-14 14:37:19.849522 Oscar: Delta we want you to join our group
+2024-10-14 14:37:19.854147 Delta: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:19.878365 Bravo: Golf, sending you 2
+2024-10-14 14:37:19.883663 Bravo: X-ray, sending you 6
+2024-10-14 14:37:19.905694 Oscar: Papa, Golf and Quebec, sending you 2
+2024-10-14 14:37:19.912705 Oscar: Yankee, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 14
+ChatterBot Foxtrot round 14
+ChatterBot Delta round 14
+ChatterBot Yankee round 14
+ChatterBot Oscar round 14
+ChatterBot Bravo round 14
+ChatterBot Golf round 14
+ChatterBot Hotel round 14
+ChatterBot Quebec round 14
+ChatterBot X-ray round 14
+2024-10-14 14:37:21.200187 Papa: We should add Quebec
+2024-10-14 14:37:21.206216 Yankee: Yes
+2024-10-14 14:37:21.206384 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:21.233707 Golf: We should replace Foxtrot with Oscar
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:21.238396 X-ray: No
+ChatterBot Golf reevaluating
+2024-10-14 14:37:21.253008 Oscar: We should replace Golf with Delta
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:21.263542 Papa: No
+2024-10-14 14:37:21.263684 Yankee: No
+2024-10-14 14:37:21.263805 Quebec: No
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:21.316183 Quebec: We should drop Oscar
+ChatterBot Papa reevaluating
+2024-10-14 14:37:21.349990 Papa: No
+2024-10-14 14:37:21.350219 Yankee: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:21.440366 Papa: We should replace Oscar with Quebec
+2024-10-14 14:37:21.446627 Yankee: No
+ChatterBot Papa reevaluating
+2024-10-14 14:37:21.463565 Papa: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:21.472717 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:21.519981 X-ray: Sending you each 2
+2024-10-14 14:37:21.523826 Hotel: Foxtrot, Delta, Bravo and Golf, sending you 2
+2024-10-14 14:37:21.527791 Foxtrot: Same as last round
+2024-10-14 14:37:21.531726 Bravo: Foxtrot, sending you 4
+2024-10-14 14:37:21.535738 Quebec: We should drop Yankee
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:21.542844 Papa: No
+2024-10-14 14:37:21.542981 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+chatterbot Golf submitting transactions
+2024-10-14 14:37:21.558010 Bravo: Delta, sending you 7
+2024-10-14 14:37:21.591539 Bravo: Hotel and X-ray, sending you 3
+2024-10-14 14:37:21.614745 Oscar: Papa, Golf and Quebec, sending you 2
+2024-10-14 14:37:21.621985 Oscar: Yankee, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 15
+ChatterBot Foxtrot round 15
+ChatterBot Delta round 15
+ChatterBot Yankee round 15
+ChatterBot Oscar round 15
+ChatterBot Bravo round 15
+ChatterBot Golf round 15
+ChatterBot Hotel round 15
+ChatterBot Quebec round 15
+ChatterBot X-ray round 15
+2024-10-14 14:37:23.202858 Papa: We should add Quebec
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:23.214282 Yankee: Yes
+2024-10-14 14:37:23.214479 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:23.254110 X-ray: We should add Oscar
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:23.292494 Hotel: No
+2024-10-14 14:37:23.292751 Delta: Yes
+2024-10-14 14:37:23.292997 Golf: Yes
+2024-10-14 14:37:23.293296 Bravo: No
+2024-10-14 14:37:23.294068 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:23.574898 Quebec: We should drop Yankee
+ChatterBot Papa reevaluating
+2024-10-14 14:37:23.583333 Papa: No
+2024-10-14 14:37:23.583641 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 14:37:23.599960 X-ray: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:23.632977 Hotel: No
+2024-10-14 14:37:23.633309 Delta: No
+2024-10-14 14:37:23.633962 Golf: No
+2024-10-14 14:37:23.634437 Bravo: No
+2024-10-14 14:37:23.634668 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:23.771339 Bravo: We should replace Hotel with Golf
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:23.783261 Foxtrot: No
+2024-10-14 14:37:23.783431 Delta: No
+2024-10-14 14:37:23.783544 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:23.822281 Papa: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:23.827302 Quebec: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:23.838280 Yankee: We should add Golf
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:23.849084 Oscar: Yes
+2024-10-14 14:37:23.849263 Papa: No
+2024-10-14 14:37:23.849378 Quebec: No
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:23.881513 Delta: Oscar we want you to join our group
+2024-10-14 14:37:23.890566 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:23.918650 Bravo: We should replace Foxtrot with Golf
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:23.930532 Delta: No
+2024-10-14 14:37:23.930670 Hotel: No
+2024-10-14 14:37:23.930801 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:23.963017 Golf: Oscar we want you to join our group
+2024-10-14 14:37:23.967307 Oscar: No
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:23.984979 Bravo: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 14:37:24.001998 Golf: No
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:24.028482 Oscar: Papa, Golf and Quebec, sending you 2
+2024-10-14 14:37:24.031592 Hotel: Foxtrot, Delta and Bravo, sending you 2
+2024-10-14 14:37:24.037222 X-ray: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:24.046491 Quebec: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:24.090238 Yankee: Golf we want you to join our group
+ChatterBot Golf reevaluating
+2024-10-14 14:37:24.108392 Golf: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 14:37:24.125427 Oscar: Yankee, sending you 3
+2024-10-14 14:37:24.127633 Hotel: Golf and X-ray, sending you 1
+2024-10-14 14:37:24.130960 Foxtrot: Oscar we want you to join our group
+2024-10-14 14:37:24.137237 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:24.179114 X-ray: Oscar we want you to join our group
+2024-10-14 14:37:24.186952 Oscar: No
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Oscar submitting transactions
+2024-10-14 14:37:24.232649 Yankee: Papa and Quebec, sending you 2
+2024-10-14 14:37:24.248123 Yankee: Oscar, sending you 6
+2024-10-14 14:37:24.271125 Foxtrot: Same as last round
+2024-10-14 14:37:24.286023 X-ray: Foxtrot, Bravo, Golf and Hotel, sending you 2
+2024-10-14 14:37:24.293672 X-ray: Delta, sending you 3
+2024-10-14 14:37:24.306315 Bravo: Foxtrot, sending you 7
+2024-10-14 14:37:24.309516 X-ray: Quebec, sending you 1
+chatterbot Papa submitting transactions
+2024-10-14 14:37:24.313595 Bravo: Golf, sending you 1
+2024-10-14 14:37:24.345834 Bravo: Hotel, sending you 4
+2024-10-14 14:37:24.351683 Bravo: X-ray, sending you 5
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 16
+ChatterBot Foxtrot round 16
+ChatterBot Delta round 16
+ChatterBot Yankee round 16
+ChatterBot Oscar round 16
+ChatterBot Bravo round 16
+ChatterBot Golf round 16
+ChatterBot Hotel round 16
+ChatterBot Quebec round 16
+ChatterBot X-ray round 16
+2024-10-14 14:37:26.436137 Yankee: We should add Golf
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:26.451219 Oscar: No
+2024-10-14 14:37:26.451812 Papa: No
+2024-10-14 14:37:26.451988 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:26.505601 Bravo: We should replace Hotel with Delta
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:26.535238 Foxtrot: No
+2024-10-14 14:37:26.535440 Golf: No
+2024-10-14 14:37:26.535638 X-ray: No
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:26.602480 Papa: We should add Quebec
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:26.610622 Yankee: Yes
+2024-10-14 14:37:26.610759 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:26.624970 Oscar: We should replace Golf with Delta
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:26.641546 Papa: No
+2024-10-14 14:37:26.641828 Yankee: No
+2024-10-14 14:37:26.642022 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:26.828601 Papa: Quebec we want you to join our group
+2024-10-14 14:37:26.835696 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:26.860090 Quebec: We should drop Yankee
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:26.871544 Papa: No
+2024-10-14 14:37:26.872157 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:27.100572 X-ray: Golf, sending you 1
+2024-10-14 14:37:27.103694 Hotel: Foxtrot, Delta, Bravo and X-ray, sending you 2
+2024-10-14 14:37:27.308056 Bravo: Foxtrot, sending you 7
+2024-10-14 14:37:27.310863 Yankee: Papa and Quebec, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:27.574944 Bravo: Golf, sending you 1
+2024-10-14 14:37:27.578565 Yankee: Oscar, sending you 6
+2024-10-14 14:37:27.581351 Oscar: Papa, Golf and Quebec, sending you 2
+chatterbot Quebec submitting transactions
+2024-10-14 14:37:27.583423 Bravo: Hotel, sending you 4
+2024-10-14 14:37:27.729665 Oscar: Yankee, sending you 4
+2024-10-14 14:37:27.731444 Bravo: X-ray, sending you 5
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 17
+ChatterBot Foxtrot round 17
+ChatterBot Delta round 17
+ChatterBot Yankee round 17
+ChatterBot Oscar round 17
+ChatterBot Bravo round 17
+ChatterBot Golf round 17
+ChatterBot Hotel round 17
+ChatterBot Quebec round 17
+ChatterBot X-ray round 17
+2024-10-14 14:37:28.194099 Papa: We should add Quebec
+2024-10-14 14:37:28.200503 Yankee: Yes
+2024-10-14 14:37:28.200659 Oscar: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:28.215601 Oscar: We should replace Golf with Bravo
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:28.225743 Papa: No
+2024-10-14 14:37:28.226221 Yankee: No
+2024-10-14 14:37:28.226381 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:28.387511 Papa: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:28.395442 Quebec: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:28.416239 X-ray: We should drop Quebec
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:28.441188 Hotel: Yes
+2024-10-14 14:37:28.441442 Delta: Yes
+2024-10-14 14:37:28.441738 Golf: Yes
+2024-10-14 14:37:28.442016 Bravo: Yes
+2024-10-14 14:37:28.442771 Foxtrot: Yes
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:28.593764 Hotel: I was attacked by X-ray
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:28.613950 Hotel: I'm keeping this round to protect myself
+2024-10-14 14:37:28.619714 Hotel: Ow
+2024-10-14 14:37:28.622792 Yankee: Papa, sending you 3
+2024-10-14 14:37:28.719910 Yankee: Oscar, sending you 7
+2024-10-14 14:37:28.724562 X-ray: We should drop Hotel
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:28.746366 Foxtrot: No
+2024-10-14 14:37:28.746678 Delta: No
+2024-10-14 14:37:28.747180 Bravo: Yes
+2024-10-14 14:37:28.747339 Golf: Yes
+2024-10-14 14:37:28.747450 Quebec: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:28.861429 Yankee: Quebec, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:37:29.277349 Bravo: Delta, sending you 10
+2024-10-14 14:37:29.411825 Bravo: Golf, sending you 2
+2024-10-14 14:37:29.414910 X-ray: Foxtrot and Delta, sending you 3
+chatterbot Oscar submitting transactions
+2024-10-14 14:37:29.733183 Bravo: X-ray, sending you 5
+2024-10-14 14:37:29.735309 X-ray: Bravo and Golf, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 14:37:29.807780 X-ray: Quebec, sending you 1
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Papa round 18
+ChatterBot Foxtrot round 18
+ChatterBot Delta round 18
+ChatterBot Yankee round 18
+ChatterBot Oscar round 18
+ChatterBot Bravo round 18
+ChatterBot Golf round 18
+ChatterBot Hotel round 18
+ChatterBot Quebec round 18
+ChatterBot X-ray round 18
+2024-10-14 14:37:30.317363 Delta: We should replace Hotel with Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:30.348499 Bravo: No
+2024-10-14 14:37:30.348727 Foxtrot: No
+2024-10-14 14:37:30.348895 Golf: No
+2024-10-14 14:37:30.349051 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:30.473251 Papa: We should add Quebec
+2024-10-14 14:37:30.486434 Yankee: Yes
+2024-10-14 14:37:30.486723 Oscar: Yes
+2024-10-14 14:37:30.567367 Quebec: We should replace Papa with Hotel
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:30.581749 Yankee: No
+2024-10-14 14:37:30.581942 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:30.612731 Oscar: We should replace Golf with X-ray
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:30.629911 Papa: No
+2024-10-14 14:37:30.630582 Yankee: No
+2024-10-14 14:37:30.630755 Quebec: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:30.690861 Delta: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:30.705108 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:30.781024 Bravo: Friends?
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:30.855185 Yankee: No
+2024-10-14 14:37:30.855459 Oscar: No
+2024-10-14 14:37:30.856403 Quebec: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:30.902717 X-ray: We should replace Quebec with Papa
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:30.924435 Bravo: No
+2024-10-14 14:37:30.924676 Foxtrot: No
+2024-10-14 14:37:30.924937 Delta: No
+2024-10-14 14:37:30.925166 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:31.002091 Papa: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:31.008347 Quebec: No
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:31.022429 Quebec: We should replace Papa with Bravo
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:31.031494 Yankee: No
+2024-10-14 14:37:31.031669 Oscar: No
+ChatterBot Quebec reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:31.051090 Delta: We should replace Hotel with Papa
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:31.070087 Bravo: No
+2024-10-14 14:37:31.070242 Foxtrot: No
+2024-10-14 14:37:31.070356 Golf: Yes
+2024-10-14 14:37:31.070474 X-ray: Yes
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:31.151808 Oscar: X-ray we want you to join our group
+2024-10-14 14:37:31.157997 X-ray: No
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 14:37:31.176832 Yankee: Papa, sending you 3
+2024-10-14 14:37:31.178487 X-ray: Papa we want you to join our group
+2024-10-14 14:37:31.187003 Papa: No
+ChatterBot Delta reevaluating
+2024-10-14 14:37:31.207859 Yankee: Oscar, sending you 6
+2024-10-14 14:37:31.209523 Quebec: Bravo we want you to join our group
+2024-10-14 14:37:31.214496 Bravo: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:31.227142 Yankee: We should add Bravo
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:31.241189 Oscar: Yes
+2024-10-14 14:37:31.241687 Papa: No
+2024-10-14 14:37:31.241820 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:31.283280 Foxtrot: Sending you each 3
+2024-10-14 14:37:31.287701 Delta: Papa we want you to join our group
+2024-10-14 14:37:31.294181 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:31.326079 Golf: We should add Papa
+2024-10-14 14:37:31.339981 Foxtrot: No
+2024-10-14 14:37:31.340203 X-ray: Yes
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:31.421953 X-ray: Golf, sending you 1
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:31.622903 Yankee: Hotel, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Papa round 19
+ChatterBot Foxtrot round 19
+ChatterBot Delta round 19
+ChatterBot Yankee round 19
+ChatterBot Oscar round 19
+ChatterBot Bravo round 19
+ChatterBot Golf round 19
+ChatterBot Hotel round 19
+ChatterBot Quebec round 19
+ChatterBot X-ray round 19
+2024-10-14 14:37:32.707103 Foxtrot: We should replace Hotel with Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:32.732356 Bravo: No
+2024-10-14 14:37:32.732548 Delta: Yes
+2024-10-14 14:37:32.732723 Golf: No
+2024-10-14 14:37:32.733248 X-ray: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:32.817799 Golf: We should add Bravo
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:32.825963 Foxtrot: Yes
+2024-10-14 14:37:32.826147 X-ray: Yes
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:32.889618 Foxtrot: Oscar we want you to join our group
+2024-10-14 14:37:32.897902 Oscar: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:32.923908 X-ray: We should replace Papa with Yankee
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:32.943395 Bravo: Yes
+2024-10-14 14:37:32.943550 Foxtrot: No
+2024-10-14 14:37:32.943671 Delta: No
+2024-10-14 14:37:32.943790 Golf: No
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:33.019503 X-ray: We should replace Papa with Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:37:33.038859 Bravo: No
+2024-10-14 14:37:33.039023 Foxtrot: Yes
+2024-10-14 14:37:33.039153 Delta: No
+2024-10-14 14:37:33.039270 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:33.296156 Delta: Oscar we want you to join our group
+2024-10-14 14:37:33.304058 Oscar: No
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:33.329685 Golf: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:33.336343 Bravo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:33.350540 X-ray: Hotel we want you to join our group
+2024-10-14 14:37:33.358350 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:33.382814 Hotel: Foxtrot, Delta, Bravo and Golf, sending you 2
+2024-10-14 14:37:33.388648 Yankee: Oscar, sending you 8
+2024-10-14 14:37:33.390479 Oscar: Yankee, sending you 3
+2024-10-14 14:37:33.393825 X-ray: Yankee we want you to join our group
+2024-10-14 14:37:33.439039 Yankee: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:33.550403 Yankee: Bravo, sending you 2
+2024-10-14 14:37:33.553571 Oscar: Bravo and Quebec, sending you 1
+2024-10-14 14:37:33.725685 Yankee: Quebec, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 14:37:33.803905 Bravo: Foxtrot, sending you 7
+chatterbot Golf submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 14:37:33.934350 Foxtrot: Delta, Bravo, Golf, Hotel and X-ray, sending you 3
+2024-10-14 14:37:33.939721 Bravo: Hotel, sending you 4
+2024-10-14 14:37:34.112796 Bravo: X-ray, sending you 6
+2024-10-14 14:37:34.115737 X-ray: Foxtrot, Golf and Hotel, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+2024-10-14 14:37:34.276029 X-ray: Delta, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 14:37:34.731002 X-ray: Bravo, sending you 1
+chatterbot Bravo submitting transactions
+ChatterBot Papa round 20
+ChatterBot Foxtrot round 20
+ChatterBot Delta round 20
+ChatterBot Yankee round 20
+ChatterBot Oscar round 20
+ChatterBot Bravo round 20
+ChatterBot Golf round 20
+ChatterBot Hotel round 20
+ChatterBot Quebec round 20
+ChatterBot X-ray round 20
+2024-10-14 14:37:34.864939 Golf: We should add Bravo
+2024-10-14 14:37:34.879245 Foxtrot: Yes
+2024-10-14 14:37:34.879965 X-ray: Yes
+2024-10-14 14:37:34.979178 Golf: Bravo we want you to join our group
+2024-10-14 14:37:34.988545 Bravo: No
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:35.013751 X-ray: We should replace Hotel with Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:35.045940 Bravo: No
+2024-10-14 14:37:35.046470 Foxtrot: No
+2024-10-14 14:37:35.046687 Delta: No
+2024-10-14 14:37:35.046861 Golf: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:35.161768 Quebec: We should drop Papa
+2024-10-14 14:37:35.177906 Yankee: Yes
+2024-10-14 14:37:35.178088 Oscar: Yes
+2024-10-14 14:37:35.320611 X-ray: We should replace Hotel with Quebec
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:35.354062 Bravo: No
+2024-10-14 14:37:35.354357 Foxtrot: No
+2024-10-14 14:37:35.354586 Delta: No
+2024-10-14 14:37:35.355348 Golf: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:35.486053 Bravo: We should replace Hotel with Golf
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:35.503077 Foxtrot: No
+2024-10-14 14:37:35.503238 X-ray: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:35.537830 Foxtrot: Delta, Bravo, Golf, Hotel and X-ray, sending you 3
+2024-10-14 14:37:35.793376 Yankee: Oscar, sending you 8
+2024-10-14 14:37:35.796427 Hotel: Foxtrot, Delta, Bravo and Golf, sending you 2
+2024-10-14 14:37:35.802359 Oscar: Yankee, sending you 3
+2024-10-14 14:37:35.805332 X-ray: Quebec we want you to join our group
+2024-10-14 14:37:35.814636 Quebec: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 14:37:35.839567 Yankee: Bravo, sending you 2
+2024-10-14 14:37:35.843586 Oscar: Bravo, sending you 2
+2024-10-14 14:37:35.847094 Bravo: Quebec we want you to join our group
+2024-10-14 14:37:35.857968 Quebec: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:35.873802 Yankee: Quebec, sending you 3
+2024-10-14 14:37:35.877498 Oscar: Quebec, sending you 1
+chatterbot Papa submitting transactions
+2024-10-14 14:37:36.490879 X-ray: Golf, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:36.638959 Bravo: Foxtrot, sending you 8
+ChatterBot Papa round 21
+ChatterBot Foxtrot round 21
+ChatterBot Delta round 21
+ChatterBot Yankee round 21
+ChatterBot Oscar round 21
+ChatterBot Bravo round 21
+ChatterBot Golf round 21
+ChatterBot Hotel round 21
+ChatterBot Quebec round 21
+ChatterBot X-ray round 21
+2024-10-14 14:37:36.910242 Bravo: Quebec, sending you 2
+2024-10-14 14:37:36.924199 Golf: We should add Bravo
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:36.933347 Foxtrot: Yes
+2024-10-14 14:37:36.933510 X-ray: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:36.972529 Delta: We should replace X-ray with Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:36.994415 Foxtrot: No
+2024-10-14 14:37:36.995153 Bravo: No
+2024-10-14 14:37:36.995339 Golf: No
+2024-10-14 14:37:36.995486 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:37.078960 Quebec: We should replace Papa with Delta
+2024-10-14 14:37:37.090753 Yankee: No
+2024-10-14 14:37:37.090966 Oscar: No
+2024-10-14 14:37:37.115120 Golf: Bravo we want you to join our group
+2024-10-14 14:37:37.123232 Bravo: No
+ChatterBot X-ray reevaluating
+2024-10-14 14:37:37.146217 Hotel: We should drop X-ray
+ChatterBot Delta reevaluating
+2024-10-14 14:37:37.205460 Delta: Yes
+2024-10-14 14:37:37.205745 Foxtrot: Yes
+2024-10-14 14:37:37.206827 Bravo: Yes
+2024-10-14 14:37:37.206976 Golf: Yes
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:37:37.411736 Quebec: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 14:37:37.423782 Delta: No
+2024-10-14 14:37:37.451262 X-ray: We should drop Delta
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:37.479389 Bravo: Yes
+2024-10-14 14:37:37.480101 Foxtrot: No
+2024-10-14 14:37:37.480269 Golf: Yes
+2024-10-14 14:37:37.480436 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 14:37:37.585060 Bravo: Sorry, I'm actually sending you 0
+2024-10-14 14:37:37.588099 Bravo: Sorry, I'm actually sending you 0
+2024-10-14 14:37:37.590512 Yankee: Oscar, sending you 8
+2024-10-14 14:37:37.593775 Oscar: Yankee, sending you 3
+2024-10-14 14:37:37.597627 Delta: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:37.615122 Yankee: No
+ChatterBot Delta reevaluating
+2024-10-14 14:37:37.650586 Yankee: We should replace Bravo with Delta
+2024-10-14 14:37:37.651328 Delta: We should replace X-ray with Oscar
+2024-10-14 14:37:37.688380 Quebec: Yes
+2024-10-14 14:37:37.688590 Oscar: No
+2024-10-14 14:37:37.688738 Foxtrot: No
+2024-10-14 14:37:37.688890 Bravo: No
+2024-10-14 14:37:37.689035 Golf: No
+2024-10-14 14:37:37.689174 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:37:37.832438 Bravo: Foxtrot, sending you 11
+chatterbot Quebec submitting transactions
+2024-10-14 14:37:37.835912 Oscar: Bravo, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:37.840179 Bravo: Golf, sending you 6
+2024-10-14 14:37:37.842970 Hotel: Same as last round
+2024-10-14 14:37:37.847026 X-ray: Golf, sending you 1
+2024-10-14 14:37:37.852037 Oscar: Quebec, sending you 1
+2024-10-14 14:37:37.856049 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 14:37:37.859527 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 14:37:37.863185 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 14:37:37.865249 Foxtrot: Sorry, I'm actually sending you 0
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 22
+ChatterBot Foxtrot round 22
+ChatterBot Delta round 22
+ChatterBot Yankee round 22
+ChatterBot Oscar round 22
+ChatterBot Bravo round 22
+ChatterBot Golf round 22
+ChatterBot Hotel round 22
+ChatterBot Quebec round 22
+ChatterBot X-ray round 22
+2024-10-14 14:37:39.870490 Delta: We should replace X-ray with Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:39.891315 Foxtrot: No
+2024-10-14 14:37:39.891542 Bravo: No
+2024-10-14 14:37:39.891702 Golf: No
+2024-10-14 14:37:39.891816 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:39.976425 Bravo: Let's form a team
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:40.001392 Delta: No
+2024-10-14 14:37:40.001536 Yankee: No
+2024-10-14 14:37:40.001661 Golf: No
+2024-10-14 14:37:40.001761 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:40.095619 Golf: Let's form a team
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:40.120249 Foxtrot: No
+2024-10-14 14:37:40.120447 Delta: No
+2024-10-14 14:37:40.120547 Yankee: No
+2024-10-14 14:37:40.120646 Hotel: No
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 14:37:40.227400 X-ray: Group up?
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:40.248762 Oscar: No
+2024-10-14 14:37:40.248904 Bravo: No
+2024-10-14 14:37:40.248999 Golf: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:40.454320 Yankee: Delta we want you to join our group
+2024-10-14 14:37:40.497745 Delta: No
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:40.539365 Delta: Oscar we want you to join our group
+2024-10-14 14:37:40.557291 Oscar: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:40.597131 Foxtrot: We should add Oscar
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:37:40.626802 Delta: Yes
+2024-10-14 14:37:40.627164 Bravo: No
+2024-10-14 14:37:40.627323 Golf: Yes
+2024-10-14 14:37:40.627546 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:40.744975 X-ray: I was attacked by Foxtrot
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:40.764368 X-ray: Ow
+chatterbot Papa submitting transactions
+2024-10-14 14:37:40.770710 Quebec: We should drop Papa and Yankee
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:40.777623 Oscar: No
+ChatterBot Quebec reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:40.976582 Foxtrot: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:40.989328 Oscar: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 14:37:41.180489 Hotel: Foxtrot, sending you 2
+chatterbot Yankee submitting transactions
+2024-10-14 14:37:41.327895 Hotel: Delta, Yankee, Oscar, Bravo, Golf and Quebec, sending you 1
+chatterbot Golf submitting transactions
+2024-10-14 14:37:41.334172 Bravo: Delta, sending you 6
+2024-10-14 14:37:41.448386 Oscar: Yankee and Quebec, sending you 1
+2024-10-14 14:37:41.455056 Bravo: Yankee, sending you 3
+2024-10-14 14:37:41.459801 Oscar: Golf, sending you 2
+2024-10-14 14:37:41.466734 Bravo: Golf and Hotel, sending you 4
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Papa round 23
+ChatterBot Foxtrot round 23
+ChatterBot Delta round 23
+ChatterBot Yankee round 23
+ChatterBot Oscar round 23
+ChatterBot Bravo round 23
+ChatterBot Golf round 23
+ChatterBot Hotel round 23
+ChatterBot Quebec round 23
+ChatterBot X-ray round 23
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:42.324717 Delta: We should group up
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:42.387782 Hotel: No
+2024-10-14 14:37:42.388036 Foxtrot: No
+2024-10-14 14:37:42.388549 Bravo: No
+2024-10-14 14:37:42.388720 Golf: No
+2024-10-14 14:37:42.388875 Yankee: No
+2024-10-14 14:37:42.389022 Oscar: No
+2024-10-14 14:37:42.389175 Quebec: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:42.831790 Foxtrot: We should add Quebec
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:42.871921 Delta: Yes
+2024-10-14 14:37:42.872297 Bravo: No
+2024-10-14 14:37:42.872512 Golf: No
+2024-10-14 14:37:42.872726 Hotel: Yes
+2024-10-14 14:37:42.873061 Oscar: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 14:37:43.094541 X-ray: We should add Quebec
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:43.111159 Oscar: Yes
+2024-10-14 14:37:43.111350 Bravo: No
+2024-10-14 14:37:43.111501 Golf: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 14:37:43.166146 X-ray: Quebec we want you to join our group
+2024-10-14 14:37:43.177393 Quebec: No
+2024-10-14 14:37:43.200471 Foxtrot: Quebec we want you to join our group
+2024-10-14 14:37:43.214587 Quebec: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:37:43.245760 Oscar: We should drop Yankee
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:43.275211 Foxtrot: Yes
+2024-10-14 14:37:43.275331 Delta: No
+2024-10-14 14:37:43.275444 Bravo: No
+2024-10-14 14:37:43.275546 Golf: Yes
+2024-10-14 14:37:43.275655 Hotel: No
+2024-10-14 14:37:43.275760 Quebec: No
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 14:37:44.192159 Hotel: Foxtrot, sending you 2
+2024-10-14 14:37:44.197642 Bravo: Delta, sending you 6
+2024-10-14 14:37:44.199870 X-ray: I was attacked by Foxtrot
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:44.223093 X-ray: Ow
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 14:37:44.226450 Hotel: Delta, Yankee, Oscar, Bravo, Golf and Quebec, sending you 1
+2024-10-14 14:37:44.232034 Delta: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:44.241743 Quebec: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 14:37:45.089466 Foxtrot: Delta, Oscar and Hotel, sending you 2
+2024-10-14 14:37:45.095018 Oscar: Delta and Quebec, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 14:37:45.103766 Foxtrot: Bravo, sending you 4
+2024-10-14 14:37:45.183057 Oscar: Golf, sending you 3
+2024-10-14 14:37:45.187998 Foxtrot: Golf, sending you 3
+2024-10-14 14:37:45.192427 Oscar: Hotel, sending you 2
+2024-10-14 14:37:45.197347 Foxtrot: Quebec, sending you 1
+chatterbot Quebec submitting transactions
+ChatterBot Papa round 24
+ChatterBot Foxtrot round 24
+ChatterBot Delta round 24
+ChatterBot Yankee round 24
+ChatterBot Oscar round 24
+ChatterBot Bravo round 24
+ChatterBot Golf round 24
+ChatterBot Hotel round 24
+ChatterBot Quebec round 24
+ChatterBot X-ray round 24
+2024-10-14 14:37:45.901679 Hotel: Foxtrot and Bravo, sending you 2
+2024-10-14 14:37:45.907605 Foxtrot: Delta, Oscar and Quebec, sending you 2
+2024-10-14 14:37:45.913962 Hotel: Delta, Oscar, Golf and Quebec, sending you 1
+2024-10-14 14:37:45.968137 Oscar: Delta and Quebec, sending you 1
+2024-10-14 14:37:45.976401 Foxtrot: Bravo, Golf and Hotel, sending you 3
+2024-10-14 14:37:45.984105 Oscar: Golf and Hotel, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Papa round 25
+ChatterBot Foxtrot round 25
+ChatterBot Delta round 25
+ChatterBot Yankee round 25
+ChatterBot Oscar round 25
+ChatterBot Bravo round 25
+ChatterBot Golf round 25
+ChatterBot Hotel round 25
+ChatterBot Quebec round 25
+ChatterBot X-ray round 25
+2024-10-14 14:37:47.999907 Bravo: Can we be friends?
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 14:37:48.038066 Delta: Yes
+2024-10-14 14:37:48.038280 Oscar: Yes
+2024-10-14 14:37:48.038436 Golf: No
+2024-10-14 14:37:48.038647 Hotel: Yes
+2024-10-14 14:37:48.038811 Quebec: No
+ChatterBot Bravo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 14:37:48.450462 Oscar: I was attacked by X-ray
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 14:37:48.617478 Oscar: I'm keeping this round to protect myself
+2024-10-14 14:37:48.622944 Oscar: Ow
+2024-10-14 14:37:48.625034 Hotel: Foxtrot, sending you 3
+chatterbot Papa submitting transactions
+2024-10-14 14:37:48.828487 Hotel: Delta, Oscar, Bravo, Golf and Quebec, sending you 1
+2024-10-14 14:37:48.834130 X-ray: Sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Papa round 26
+ChatterBot Foxtrot round 26
+ChatterBot Delta round 26
+ChatterBot Yankee round 26
+ChatterBot Oscar round 26
+ChatterBot Bravo round 26
+ChatterBot Golf round 26
+ChatterBot Hotel round 26
+ChatterBot Quebec round 26
+ChatterBot X-ray round 26
+2024-10-14 14:37:50.618447 X-ray: I was attacked by Foxtrot
+ChatterBot Golf reevaluating
+2024-10-14 14:37:50.629448 X-ray: I'm keeping this round to protect myself
+2024-10-14 14:37:50.632518 X-ray: Ow
+2024-10-14 14:37:50.635282 Hotel: Foxtrot, sending you 3
+2024-10-14 14:37:50.815722 Hotel: Delta, Oscar, Bravo, Golf and Quebec, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Papa round 27
+ChatterBot Foxtrot round 27
+ChatterBot Delta round 27
+ChatterBot Yankee round 27
+ChatterBot Oscar round 27
+ChatterBot Bravo round 27
+ChatterBot Golf round 27
+ChatterBot Hotel round 27
+ChatterBot Quebec round 27
+ChatterBot X-ray round 27
+2024-10-14 14:37:52.929888 X-ray: I was attacked by Foxtrot
+ChatterBot Golf reevaluating
+2024-10-14 14:37:52.939746 X-ray: I'm keeping this round to protect myself
+2024-10-14 14:37:52.942904 X-ray: Ow
+2024-10-14 14:37:53.047179 Hotel: Foxtrot and Bravo, sending you 2
+2024-10-14 14:37:53.055245 Oscar: Delta, Bravo and Hotel, sending you 2
+2024-10-14 14:37:53.063048 Hotel: Delta, Oscar, Golf and Quebec, sending you 1
+2024-10-14 14:37:53.070346 Oscar: Golf, sending you 4
+2024-10-14 14:37:53.143442 Oscar: Quebec, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Papa round 28
+ChatterBot Foxtrot round 28
+ChatterBot Delta round 28
+ChatterBot Yankee round 28
+ChatterBot Oscar round 28
+ChatterBot Bravo round 28
+ChatterBot Golf round 28
+ChatterBot Hotel round 28
+ChatterBot Quebec round 28
+ChatterBot X-ray round 28
+chatterbot Bravo submitting transactions
+2024-10-14 14:37:54.704194 X-ray: I was attacked by Foxtrot
+ChatterBot Golf reevaluating
+2024-10-14 14:37:54.713438 X-ray: I'm keeping this round to protect myself
+2024-10-14 14:37:54.716755 X-ray: Ow
+2024-10-14 14:37:54.720124 Oscar: Delta and Quebec, sending you 2
+2024-10-14 14:37:54.729866 Hotel: Foxtrot, Delta, Oscar and Quebec, sending you 1
+2024-10-14 14:37:54.739949 Oscar: Bravo and Hotel, sending you 3
+2024-10-14 14:37:54.749697 Hotel: Bravo and Golf, sending you 2
+2024-10-14 14:37:54.759643 Oscar: Golf, sending you 4
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Papa round 29
+ChatterBot Foxtrot round 29
+ChatterBot Delta round 29
+ChatterBot Yankee round 29
+ChatterBot Oscar round 29
+ChatterBot Bravo round 29
+ChatterBot Golf round 29
+ChatterBot Hotel round 29
+ChatterBot Quebec round 29
+ChatterBot X-ray round 29
+2024-10-14 14:37:55.944687 X-ray: We should replace Golf with Hotel
+2024-10-14 14:37:55.971291 X-ray: Hotel we want you to join our group
+2024-10-14 14:37:55.977355 Hotel: No
+ChatterBot X-ray reevaluating
+chatterbot Golf submitting transactions
+2024-10-14 14:37:56.257040 Oscar: Delta and Quebec, sending you 2
+2024-10-14 14:37:56.264267 Hotel: Foxtrot, Delta, Oscar and Quebec, sending you 1
+2024-10-14 14:37:56.457157 Oscar: Bravo and Hotel, sending you 3
+2024-10-14 14:37:56.465125 Hotel: Bravo and Golf, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 14:37:56.471732 Oscar: Golf, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Papa round 30
+ChatterBot Foxtrot round 30
+ChatterBot Delta round 30
+ChatterBot Yankee round 30
+ChatterBot Oscar round 30
+ChatterBot Bravo round 30
+ChatterBot Golf round 30
+ChatterBot Hotel round 30
+ChatterBot Quebec round 30
+ChatterBot X-ray round 30
+chatterbot Golf submitting transactions
+2024-10-14 14:37:57.568892 X-ray: I was attacked by Foxtrot
+ChatterBot Golf reevaluating
+2024-10-14 14:37:57.579144 X-ray: I'm keeping this round to protect myself
+2024-10-14 14:37:57.582095 X-ray: Ow
+2024-10-14 14:37:57.596683 Oscar: Delta, Hotel and Quebec, sending you 2
+2024-10-14 14:37:57.602868 Hotel: Foxtrot, Delta, Oscar and Quebec, sending you 1
+2024-10-14 14:37:57.607506 Foxtrot: Delta, Oscar, Bravo and Quebec, sending you 2
+2024-10-14 14:37:57.610733 Oscar: Bravo, sending you 3
+2024-10-14 14:37:57.613415 Hotel: Bravo and Golf, sending you 2
+2024-10-14 14:37:57.617345 Foxtrot: Golf, sending you 4
+2024-10-14 14:37:57.621135 Oscar: Golf, sending you 4
+2024-10-14 14:37:57.641175 Foxtrot: Hotel, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions

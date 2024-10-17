@@ -1,0 +1,2414 @@
+ChatterBot Foxtrot round 1
+ChatterBot Whiskey round 1
+ChatterBot Papa round 1
+ChatterBot Bravo round 1
+ChatterBot Tango round 1
+ChatterBot X-ray round 1
+ChatterBot Quebec round 1
+ChatterBot Zulu round 1
+ChatterBot Echo round 1
+ChatterBot Delta round 1
+randomSelections Papa: {Papa, Zulu, Quebec} 
+2024-10-14 16:37:58.904997 Papa: Group up?
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:37:58.909514 Zulu: Yes
+2024-10-14 16:37:58.909655 Quebec: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Tango: {Tango, Quebec, Zulu} 
+2024-10-14 16:37:58.917844 Tango: Friends?
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:37:58.921118 Quebec: No
+2024-10-14 16:37:58.921769 Zulu: No
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+randomSelections Foxtrot: {Foxtrot, Echo, Papa, Zulu, Tango, Quebec} 
+2024-10-14 16:37:58.928825 Foxtrot: Let's form a team
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:37:58.936781 Echo: Yes
+2024-10-14 16:37:58.937320 Papa: No
+2024-10-14 16:37:58.937454 Zulu: No
+2024-10-14 16:37:58.937587 Tango: No
+2024-10-14 16:37:58.937717 Quebec: No
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Whiskey: {Whiskey, Delta, Papa, Foxtrot} 
+2024-10-14 16:37:58.981867 Whiskey: Group up?
+ChatterBot Delta reevaluating
+2024-10-14 16:37:58.988141 Delta: Yes
+2024-10-14 16:37:58.988677 Papa: No
+2024-10-14 16:37:58.988871 Foxtrot: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+randomSelections X-ray: {X-ray, Foxtrot, Tango, Echo, Whiskey, Quebec} 
+2024-10-14 16:37:59.011372 X-ray: Group up?
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:37:59.023542 Foxtrot: No
+2024-10-14 16:37:59.023749 Tango: No
+2024-10-14 16:37:59.023899 Echo: No
+2024-10-14 16:37:59.024102 Whiskey: No
+2024-10-14 16:37:59.024265 Quebec: No
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+randomSelections Bravo: {Bravo, Foxtrot, Delta, Whiskey, Tango, Papa} 
+2024-10-14 16:37:59.082900 Bravo: Group up?
+ChatterBot Delta reevaluating
+2024-10-14 16:37:59.094273 Foxtrot: No
+2024-10-14 16:37:59.094479 Delta: No
+2024-10-14 16:37:59.094628 Whiskey: No
+2024-10-14 16:37:59.094861 Tango: No
+2024-10-14 16:37:59.095960 Papa: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:37:59.161176 Whiskey: Foxtrot, sending you 2
+2024-10-14 16:37:59.162191 X-ray: Foxtrot, sending you 3
+2024-10-14 16:37:59.163383 Bravo: Whiskey and Papa, sending you 1
+2024-10-14 16:37:59.164924 Papa: Quebec, sending you 2
+2024-10-14 16:37:59.165714 Whiskey: Papa, sending you 1
+2024-10-14 16:37:59.166106 X-ray: Whiskey and Echo, sending you 2
+2024-10-14 16:37:59.166924 Tango: Quebec, sending you 6
+2024-10-14 16:37:59.167205 Foxtrot: Papa and Zulu, sending you 1
+2024-10-14 16:37:59.167570 Delta: Foxtrot, sending you 2
+2024-10-14 16:37:59.167868 Bravo: Tango, sending you 2
+2024-10-14 16:37:59.170133 Papa: Zulu, sending you 4
+2024-10-14 16:37:59.170679 X-ray: Tango and Quebec, sending you 1
+2024-10-14 16:37:59.171169 Tango: Zulu, sending you 7
+2024-10-14 16:37:59.172033 Foxtrot: Tango and Echo, sending you 3
+2024-10-14 16:37:59.172334 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:37:59.172585 Quebec: Papa, sending you 1
+2024-10-14 16:37:59.175484 Zulu: Papa, sending you 10
+2024-10-14 16:37:59.177192 Quebec: Zulu, sending you 5
+2024-10-14 16:37:59.181350 Zulu: Quebec, sending you 9
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Foxtrot round 2
+ChatterBot Whiskey round 2
+ChatterBot Papa round 2
+ChatterBot Bravo round 2
+ChatterBot Tango round 2
+ChatterBot X-ray round 2
+ChatterBot Quebec round 2
+ChatterBot Zulu round 2
+ChatterBot Echo round 2
+ChatterBot Delta round 2
+2024-10-14 16:38:00.820333 Foxtrot: Can we be friends?
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:38:00.834320 X-ray: Yes
+2024-10-14 16:38:00.834504 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:00.869002 Whiskey: Can we be friends?
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:00.884471 Foxtrot: Yes
+2024-10-14 16:38:00.884608 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:38:00.983151 Quebec: We should group up
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:01.025052 Papa: No
+2024-10-14 16:38:01.025324 Tango: No
+2024-10-14 16:38:01.025496 Zulu: No
+2024-10-14 16:38:01.025772 Foxtrot: No
+2024-10-14 16:38:01.026446 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.229712 Zulu: We should add Tango and Echo
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:01.245828 Papa: No
+2024-10-14 16:38:01.246003 Quebec: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.287976 Zulu: We should add Tango and Foxtrot
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:01.304712 Papa: Yes
+2024-10-14 16:38:01.304870 Quebec: No
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.339366 Quebec: We should add Tango and X-ray
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.355902 Papa: No
+2024-10-14 16:38:01.356048 Zulu: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:01.396907 Echo: Let's form a team
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:01.412104 Foxtrot: No
+2024-10-14 16:38:01.412233 X-ray: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:01.518882 Bravo: We should group up
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:01.529516 X-ray: No
+2024-10-14 16:38:01.559021 Delta: Can we be friends?
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:01.566127 Bravo: Yes
+2024-10-14 16:38:01.574302 Papa: Tango and Echo we want you to join our group
+2024-10-14 16:38:01.590229 Tango: No
+2024-10-14 16:38:01.590620 Echo: No
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.702559 Quebec: Papa and X-ray, sending you 1
+2024-10-14 16:38:01.702996 Echo: Sending you each 3
+2024-10-14 16:38:01.703269 Foxtrot: Whiskey, sending you 3
+2024-10-14 16:38:01.703541 Zulu: Tango and Echo we want you to join our group
+2024-10-14 16:38:01.727354 Tango: No
+2024-10-14 16:38:01.727634 Echo: No
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.808712 Quebec: We should add Tango and Whiskey
+ChatterBot Papa reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:01.836728 Papa: No
+2024-10-14 16:38:01.836972 Zulu: No
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:01.896475 Foxtrot: X-ray, sending you 5
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+2024-10-14 16:38:01.901220 Delta: Sending you 4
+2024-10-14 16:38:01.902022 Whiskey: Sending you 3
+2024-10-14 16:38:01.902262 X-ray: Foxtrot, sending you 5
+2024-10-14 16:38:01.902572 Bravo: Sending you 4
+2024-10-14 16:38:01.902834 Tango: Foxtrot, sending you 9
+2024-10-14 16:38:01.903639 Zulu: Tango and Foxtrot we want you to join our group
+2024-10-14 16:38:01.927483 Tango: No
+2024-10-14 16:38:01.927629 Foxtrot: No
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-14 16:38:02.057684 Tango: X-ray, sending you 5
+2024-10-14 16:38:02.058203 X-ray: Whiskey, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:38:02.187735 Quebec: Sorry, I'm actually sending you 0
+2024-10-14 16:38:02.267432 Papa: Quebec, sending you 1
+2024-10-14 16:38:03.304560 Papa: Zulu, sending you 5
+2024-10-14 16:38:03.304982 Zulu: Papa, sending you 5
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 16:38:03.309320 Quebec: Zulu, sending you 3
+2024-10-14 16:38:03.310938 Zulu: Tango, sending you 7
+2024-10-14 16:38:03.324801 Zulu: Quebec, sending you 6
+2024-10-14 16:38:03.337228 Zulu: Echo, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Foxtrot round 3
+ChatterBot Whiskey round 3
+ChatterBot Papa round 3
+ChatterBot Bravo round 3
+ChatterBot Tango round 3
+ChatterBot X-ray round 3
+ChatterBot Quebec round 3
+ChatterBot Zulu round 3
+ChatterBot Echo round 3
+ChatterBot Delta round 3
+2024-10-14 16:38:04.259923 X-ray: We should add Echo and Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:38:04.267943 Foxtrot: Yes
+2024-10-14 16:38:04.268131 Whiskey: No
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:04.282951 Whiskey: We should add Foxtrot and Echo
+2024-10-14 16:38:04.286256 X-ray: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 16:38:04.293818 Echo: We should add Whiskey and Tango
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:04.301044 Foxtrot: Yes
+2024-10-14 16:38:04.301172 X-ray: Yes
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:04.319046 Bravo: We should add Echo
+ChatterBot Delta reevaluating
+2024-10-14 16:38:04.322998 Delta: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:04.327323 Delta: We should add Tango
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:04.330999 Bravo: Yes
+ChatterBot Delta reevaluating
+2024-10-14 16:38:04.338748 Zulu: We should replace Echo with Foxtrot
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:04.349638 Papa: No
+2024-10-14 16:38:04.349783 Tango: No
+2024-10-14 16:38:04.349904 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:38:04.380027 Tango: We should group up
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:04.387935 Bravo: Yes
+2024-10-14 16:38:04.388072 Delta: No
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:04.424863 X-ray: Echo and Tango we want you to join our group
+ChatterBot Echo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:38:04.432776 Echo: Yes
+2024-10-14 16:38:04.432908 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:04.462357 Zulu: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:04.466530 Foxtrot: No
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:04.480435 Whiskey: Foxtrot and Echo we want you to join our group
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:04.487747 Foxtrot: Yes
+2024-10-14 16:38:04.487876 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:04.508269 Delta: Tango we want you to join our group
+2024-10-14 16:38:04.511483 Tango: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:04.519830 Foxtrot: Echo and Tango we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 16:38:04.526946 Echo: Yes
+2024-10-14 16:38:04.527112 Tango: No
+ChatterBot Echo reevaluating
+2024-10-14 16:38:04.551481 Papa: Quebec, sending you 2
+2024-10-14 16:38:04.551822 X-ray: Foxtrot and Tango, sending you 3
+2024-10-14 16:38:04.552673 Bravo: Tango we want you to join our group
+2024-10-14 16:38:04.556109 Tango: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:04.563268 Papa: Zulu, sending you 4
+2024-10-14 16:38:04.563990 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:04.564314 Echo: Whiskey and Tango we want you to join our group
+2024-10-14 16:38:04.570556 Whiskey: No
+2024-10-14 16:38:04.570765 Tango: No
+2024-10-14 16:38:04.656963 Tango: Quebec, sending you 5
+2024-10-14 16:38:04.657526 Whiskey: Foxtrot, sending you 1
+2024-10-14 16:38:04.658773 Zulu: Foxtrot, sending you 1
+2024-10-14 16:38:04.659506 Quebec: Papa and Tango, sending you 1
+2024-10-14 16:38:04.659935 X-ray: Echo, sending you 2
+2024-10-14 16:38:04.667093 Tango: Zulu, sending you 8
+2024-10-14 16:38:04.668159 Quebec: Zulu, sending you 4
+2024-10-14 16:38:04.668936 Whiskey: X-ray, sending you 2
+2024-10-14 16:38:04.670254 Zulu: Papa, sending you 7
+2024-10-14 16:38:04.671263 Foxtrot: Whiskey, sending you 1
+2024-10-14 16:38:04.678411 Zulu: Tango, sending you 5
+2024-10-14 16:38:04.679473 Foxtrot: Tango and X-ray, sending you 3
+2024-10-14 16:38:04.684741 Zulu: Quebec, sending you 6
+2024-10-14 16:38:04.685878 Foxtrot: Echo, sending you 2
+2024-10-14 16:38:04.686516 Delta: Bravo, sending you 3
+2024-10-14 16:38:04.710587 Bravo: Tango, sending you 1
+2024-10-14 16:38:04.711263 Delta: Tango, sending you 1
+2024-10-14 16:38:04.724315 Bravo: Delta, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 4
+ChatterBot Whiskey round 4
+ChatterBot Papa round 4
+ChatterBot Bravo round 4
+ChatterBot Tango round 4
+ChatterBot X-ray round 4
+ChatterBot Quebec round 4
+ChatterBot Zulu round 4
+ChatterBot Echo round 4
+ChatterBot Delta round 4
+2024-10-14 16:38:05.949517 Whiskey: We should replace Echo with Tango
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:05.958874 Foxtrot: Yes
+2024-10-14 16:38:05.959027 X-ray: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:05.990039 Delta: We should replace Tango with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:05.994778 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:06.006759 X-ray: We should drop Tango
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:06.020455 Whiskey: Yes
+2024-10-14 16:38:06.020620 Foxtrot: Yes
+2024-10-14 16:38:06.020745 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:06.063867 Quebec: We should drop Echo
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:38:06.090321 Papa: Yes
+2024-10-14 16:38:06.090543 Tango: Yes
+2024-10-14 16:38:06.090687 Zulu: Yes
+2024-10-14 16:38:06.090867 Foxtrot: No
+2024-10-14 16:38:06.091024 Whiskey: Yes
+2024-10-14 16:38:06.091709 X-ray: No
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:38:06.358028 Bravo: We should drop Tango
+ChatterBot Delta reevaluating
+2024-10-14 16:38:06.366206 Delta: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:06.383979 Papa: Quebec, sending you 2
+2024-10-14 16:38:06.385272 Tango: Quebec, sending you 5
+2024-10-14 16:38:06.405134 Papa: Zulu, sending you 4
+2024-10-14 16:38:06.406503 Whiskey: Foxtrot, sending you 1
+2024-10-14 16:38:06.407995 Tango: Zulu, sending you 8
+2024-10-14 16:38:06.408795 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:06.420711 Whiskey: X-ray, sending you 2
+2024-10-14 16:38:06.421680 Delta: Bravo, sending you 3
+2024-10-14 16:38:06.422195 Quebec: Zulu, sending you 2
+2024-10-14 16:38:06.423084 Bravo: Tango, sending you 1
+2024-10-14 16:38:06.423391 X-ray: Foxtrot, sending you 5
+2024-10-14 16:38:06.423755 Echo: Whiskey, sending you 1
+2024-10-14 16:38:06.427706 Delta: Tango, sending you 1
+2024-10-14 16:38:06.428083 Bravo: Delta, sending you 3
+2024-10-14 16:38:06.431061 X-ray: Whiskey, sending you 3
+2024-10-14 16:38:06.431553 Echo: X-ray, sending you 2
+2024-10-14 16:38:06.431949 Foxtrot: Whiskey and Echo, sending you 2
+2024-10-14 16:38:06.448176 X-ray: Echo, sending you 1
+2024-10-14 16:38:06.448796 Foxtrot: X-ray, sending you 5
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 5
+ChatterBot Whiskey round 5
+ChatterBot Papa round 5
+ChatterBot Bravo round 5
+ChatterBot Tango round 5
+ChatterBot X-ray round 5
+ChatterBot Quebec round 5
+ChatterBot Zulu round 5
+ChatterBot Echo round 5
+ChatterBot Delta round 5
+2024-10-14 16:38:07.594669 Foxtrot: We should add Delta
+ChatterBot Echo reevaluating
+2024-10-14 16:38:07.608099 Whiskey: No
+2024-10-14 16:38:07.608475 X-ray: No
+2024-10-14 16:38:07.608896 Echo: Yes
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:07.669605 Echo: We should add Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:07.682174 Whiskey: No
+2024-10-14 16:38:07.682572 Foxtrot: Yes
+2024-10-14 16:38:07.682845 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:07.730002 Zulu: We should drop Foxtrot
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:07.741535 Papa: Yes
+2024-10-14 16:38:07.741763 Tango: Yes
+2024-10-14 16:38:07.741965 Quebec: No
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:38:07.777303 Foxtrot: Delta we want you to join our group
+2024-10-14 16:38:07.781297 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:07.796522 Foxtrot: We should add Tango
+ChatterBot Echo reevaluating
+2024-10-14 16:38:07.808819 Whiskey: No
+2024-10-14 16:38:07.809024 X-ray: No
+2024-10-14 16:38:07.809175 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:07.890390 X-ray: Foxtrot, sending you 5
+2024-10-14 16:38:07.891554 Whiskey: Sending you each 1
+2024-10-14 16:38:07.892071 Bravo: Tango, sending you 1
+2024-10-14 16:38:07.892791 Delta: Bravo, sending you 3
+2024-10-14 16:38:07.893077 Papa: Quebec, sending you 2
+2024-10-14 16:38:07.893516 Foxtrot: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 16:38:07.898828 Tango: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:07.913289 Echo: We should drop Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:07.921362 Foxtrot: Yes
+2024-10-14 16:38:07.921944 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:07.937963 X-ray: Whiskey and Echo, sending you 2
+2024-10-14 16:38:07.938515 Bravo: Delta, sending you 3
+2024-10-14 16:38:07.939219 Delta: Tango, sending you 1
+2024-10-14 16:38:07.939565 Papa: Zulu, sending you 4
+2024-10-14 16:38:07.987749 Echo: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 16:38:07.992332 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+chatterbot Whiskey submitting transactions
+2024-10-14 16:38:08.172751 Tango: Quebec, sending you 5
+2024-10-14 16:38:08.189073 Foxtrot: X-ray, sending you 6
+2024-10-14 16:38:08.189645 Tango: Zulu, sending you 10
+2024-10-14 16:38:08.216753 Foxtrot: Echo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Foxtrot round 6
+ChatterBot Whiskey round 6
+ChatterBot Papa round 6
+ChatterBot Bravo round 6
+ChatterBot Tango round 6
+ChatterBot X-ray round 6
+ChatterBot Quebec round 6
+ChatterBot Zulu round 6
+ChatterBot Echo round 6
+ChatterBot Delta round 6
+2024-10-14 16:38:09.044885 Echo: We should add Whiskey and Bravo
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:09.051524 Foxtrot: No
+2024-10-14 16:38:09.052171 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:09.066923 Foxtrot: We should add Whiskey and Delta
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:09.078058 Echo: No
+2024-10-14 16:38:09.078205 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:09.119227 Quebec: We should add Echo
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:09.148777 Papa: No
+2024-10-14 16:38:09.148983 Tango: No
+2024-10-14 16:38:09.149156 Zulu: No
+2024-10-14 16:38:09.149318 Foxtrot: Yes
+2024-10-14 16:38:09.149458 Whiskey: Yes
+2024-10-14 16:38:09.149604 X-ray: No
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:09.274195 Echo: We should add Whiskey and Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:09.282941 Foxtrot: No
+2024-10-14 16:38:09.283337 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:09.299672 Whiskey: Foxtrot, sending you 1
+2024-10-14 16:38:09.300154 Tango: Quebec, sending you 5
+2024-10-14 16:38:09.300694 Papa: Quebec, sending you 2
+2024-10-14 16:38:09.301770 Foxtrot: Whiskey and Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:09.310213 Whiskey: No
+2024-10-14 16:38:09.310406 Quebec: Yes
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:09.415230 Echo: We should add Whiskey
+2024-10-14 16:38:09.422708 Foxtrot: Yes
+2024-10-14 16:38:09.422982 X-ray: Yes
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:09.437420 Bravo: Tango, sending you 1
+2024-10-14 16:38:09.437987 Whiskey: X-ray, sending you 2
+2024-10-14 16:38:09.438916 Tango: Zulu, sending you 10
+2024-10-14 16:38:09.439383 Papa: Zulu, sending you 4
+2024-10-14 16:38:09.448818 Bravo: Delta, sending you 3
+2024-10-14 16:38:09.449489 Zulu: Foxtrot, sending you 2
+2024-10-14 16:38:09.451010 Delta: Bravo, sending you 3
+2024-10-14 16:38:09.451653 Echo: Whiskey we want you to join our group
+2024-10-14 16:38:09.457083 Whiskey: Yes
+ChatterBot Echo reevaluating
+2024-10-14 16:38:09.476784 Zulu: Papa and Quebec, sending you 5
+2024-10-14 16:38:09.477911 Delta: Tango, sending you 1
+2024-10-14 16:38:09.479572 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:09.480449 Quebec: Papa, sending you 1
+2024-10-14 16:38:09.482056 Foxtrot: Whiskey and Echo, sending you 2
+2024-10-14 16:38:09.482751 Zulu: Tango, sending you 7
+2024-10-14 16:38:09.484262 X-ray: Whiskey, sending you 2
+2024-10-14 16:38:09.486039 Quebec: Tango, sending you 2
+2024-10-14 16:38:09.487748 Foxtrot: X-ray, sending you 5
+2024-10-14 16:38:09.488826 X-ray: Echo, sending you 1
+2024-10-14 16:38:09.635552 Quebec: Zulu, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Foxtrot round 7
+ChatterBot Whiskey round 7
+ChatterBot Papa round 7
+ChatterBot Bravo round 7
+ChatterBot Tango round 7
+ChatterBot X-ray round 7
+ChatterBot Quebec round 7
+ChatterBot Zulu round 7
+ChatterBot Echo round 7
+ChatterBot Delta round 7
+2024-10-14 16:38:10.435196 Delta: We should replace Tango with X-ray
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:10.442370 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:10.450 Foxtrot: We should drop Quebec
+2024-10-14 16:38:10.467586 Whiskey: Yes
+2024-10-14 16:38:10.467829 X-ray: Yes
+2024-10-14 16:38:10.468018 Echo: Yes
+2024-10-14 16:38:10.519675 Zulu: We should drop Foxtrot
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:10.531252 Papa: Yes
+2024-10-14 16:38:10.531406 Tango: Yes
+2024-10-14 16:38:10.531897 Quebec: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:10.656849 Delta: We should replace Tango with Echo
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:10.663634 Bravo: Yes
+ChatterBot Delta reevaluating
+2024-10-14 16:38:10.673667 Tango: Quebec, sending you 5
+2024-10-14 16:38:10.674823 Whiskey: Foxtrot, sending you 1
+2024-10-14 16:38:10.675569 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:10.676596 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:10.677354 Papa: Quebec, sending you 2
+2024-10-14 16:38:10.678225 Bravo: Echo we want you to join our group
+2024-10-14 16:38:10.683343 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:10.693590 Whiskey: X-ray, sending you 2
+2024-10-14 16:38:10.694879 X-ray: Whiskey, sending you 2
+2024-10-14 16:38:10.695447 Tango: Zulu, sending you 10
+2024-10-14 16:38:10.696590 Echo: Whiskey, sending you 1
+2024-10-14 16:38:10.697174 Papa: Zulu, sending you 4
+2024-10-14 16:38:10.697659 Foxtrot: Whiskey, sending you 2
+2024-10-14 16:38:10.699693 X-ray: Echo, sending you 1
+2024-10-14 16:38:10.700978 Echo: X-ray, sending you 2
+2024-10-14 16:38:10.703055 Quebec: Papa, sending you 1
+2024-10-14 16:38:10.705260 Zulu: Papa, sending you 6
+2024-10-14 16:38:10.706111 Foxtrot: X-ray, sending you 6
+2024-10-14 16:38:10.709696 Quebec: Tango, sending you 2
+2024-10-14 16:38:10.711342 Zulu: Tango, sending you 8
+2024-10-14 16:38:10.711964 Foxtrot: Echo, sending you 1
+2024-10-14 16:38:10.714676 Quebec: Zulu, sending you 3
+2024-10-14 16:38:10.716690 Delta: Bravo, sending you 3
+2024-10-14 16:38:10.717688 Zulu: Quebec, sending you 5
+2024-10-14 16:38:10.720700 Delta: Tango, sending you 1
+2024-10-14 16:38:10.727092 Bravo: Echo, sending you 1
+2024-10-14 16:38:10.732668 Bravo: Delta, sending you 3
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 8
+ChatterBot Whiskey round 8
+ChatterBot Papa round 8
+ChatterBot Bravo round 8
+ChatterBot Tango round 8
+ChatterBot X-ray round 8
+ChatterBot Quebec round 8
+ChatterBot Zulu round 8
+ChatterBot Echo round 8
+ChatterBot Delta round 8
+2024-10-14 16:38:11.992702 Foxtrot: We should add Tango
+ChatterBot Echo reevaluating
+2024-10-14 16:38:12.005427 Whiskey: No
+2024-10-14 16:38:12.005607 X-ray: No
+2024-10-14 16:38:12.005909 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:12.057144 Echo: We should add Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:12.074846 Whiskey: No
+2024-10-14 16:38:12.075391 Foxtrot: Yes
+2024-10-14 16:38:12.075567 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:12.151847 Quebec: We should add Echo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:12.172414 Papa: No
+2024-10-14 16:38:12.172587 Tango: No
+2024-10-14 16:38:12.173071 Zulu: No
+2024-10-14 16:38:12.173187 Foxtrot: Yes
+2024-10-14 16:38:12.173284 Whiskey: Yes
+2024-10-14 16:38:12.173403 X-ray: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:12.318903 Delta: We should replace Tango with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.324644 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:12.331919 Quebec: Echo we want you to join our group
+2024-10-14 16:38:12.337969 Echo: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:12.368342 Delta: We should replace Tango with Echo
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.371752 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:12.375968 Bravo: We should replace Echo with Whiskey
+ChatterBot Delta reevaluating
+2024-10-14 16:38:12.379562 Delta: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.383836 Echo: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.388532 Bravo: No
+2024-10-14 16:38:12.401375 Delta: We should replace Tango with Foxtrot
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.405464 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:12.409093 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:12.410280 Tango: Quebec, sending you 5
+2024-10-14 16:38:12.410758 Whiskey: Sending you each 1
+2024-10-14 16:38:12.412171 Zulu: Papa, sending you 6
+2024-10-14 16:38:12.412658 Papa: Quebec, sending you 2
+2024-10-14 16:38:12.413860 Tango: Zulu, sending you 10
+2024-10-14 16:38:12.414689 X-ray: Whiskey, sending you 2
+2024-10-14 16:38:12.416690 Zulu: Tango, sending you 8
+2024-10-14 16:38:12.418056 Papa: Zulu, sending you 4
+2024-10-14 16:38:12.418735 Quebec: Papa, sending you 1
+2024-10-14 16:38:12.421258 Foxtrot: Whiskey and Echo, sending you 2
+2024-10-14 16:38:12.421993 X-ray: Echo, sending you 1
+2024-10-14 16:38:12.424247 Delta: Whiskey we want you to join our group
+2024-10-14 16:38:12.455658 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.509383 Zulu: Quebec, sending you 5
+2024-10-14 16:38:12.510476 Quebec: Tango, sending you 2
+2024-10-14 16:38:12.513093 Foxtrot: X-ray, sending you 5
+2024-10-14 16:38:12.520184 Delta: Echo we want you to join our group
+2024-10-14 16:38:12.526773 Echo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:12.541541 Quebec: Zulu, sending you 3
+2024-10-14 16:38:12.544686 Bravo: Whiskey we want you to join our group
+2024-10-14 16:38:12.551015 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:12.592715 Bravo: Whiskey, sending you 1
+2024-10-14 16:38:12.595299 Delta: Whiskey, sending you 1
+2024-10-14 16:38:12.618270 Bravo: Delta, sending you 3
+2024-10-14 16:38:12.619682 Delta: Bravo, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 9
+ChatterBot Whiskey round 9
+ChatterBot Papa round 9
+ChatterBot Bravo round 9
+ChatterBot Tango round 9
+ChatterBot X-ray round 9
+ChatterBot Quebec round 9
+ChatterBot Zulu round 9
+ChatterBot Echo round 9
+ChatterBot Delta round 9
+2024-10-14 16:38:13.726473 Bravo: We should replace Whiskey with Echo
+ChatterBot Delta reevaluating
+2024-10-14 16:38:13.765678 Delta: No
+2024-10-14 16:38:13.801359 Delta: We should replace Whiskey with Papa
+2024-10-14 16:38:13.810294 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:13.844141 Bravo: Echo we want you to join our group
+2024-10-14 16:38:13.848470 Echo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:13.858474 Echo: We should drop Bravo
+2024-10-14 16:38:13.872122 Whiskey: Yes
+2024-10-14 16:38:13.872391 Foxtrot: Yes
+2024-10-14 16:38:13.872665 X-ray: Yes
+2024-10-14 16:38:13.916226 Papa: Quebec, sending you 2
+2024-10-14 16:38:13.917761 Delta: Echo we want you to join our group
+2024-10-14 16:38:13.922856 Echo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:13.934044 Zulu: I was attacked by Echo
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:13.957110 Zulu: I'm keeping this round to protect myself
+2024-10-14 16:38:13.959292 Zulu: Ow
+2024-10-14 16:38:13.959852 Foxtrot: Whiskey, sending you 1
+2024-10-14 16:38:13.961125 Whiskey: Same as last round
+2024-10-14 16:38:13.967121 Quebec: We should drop Echo
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:38:13.996263 Papa: Yes
+2024-10-14 16:38:13.996435 Tango: Yes
+2024-10-14 16:38:13.996583 Zulu: Yes
+2024-10-14 16:38:13.996788 Foxtrot: No
+2024-10-14 16:38:13.996940 Whiskey: No
+2024-10-14 16:38:13.997047 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:38:14.172861 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:14.174164 Foxtrot: X-ray, sending you 6
+2024-10-14 16:38:14.175005 Bravo: Echo, sending you 1
+2024-10-14 16:38:14.178701 X-ray: Whiskey, sending you 2
+2024-10-14 16:38:14.179937 Foxtrot: Echo, sending you 2
+2024-10-14 16:38:14.181225 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:14.181899 Delta: Whiskey, sending you 1
+2024-10-14 16:38:14.182348 Bravo: Delta, sending you 3
+2024-10-14 16:38:14.183654 X-ray: Echo, sending you 1
+2024-10-14 16:38:14.185679 Echo: Whiskey, sending you 1
+2024-10-14 16:38:14.186806 Delta: Bravo, sending you 3
+2024-10-14 16:38:14.190697 Echo: X-ray, sending you 2
+2024-10-14 16:38:14.194003 Quebec: Papa, sending you 1
+2024-10-14 16:38:14.198744 Tango: Quebec, sending you 5
+2024-10-14 16:38:14.199706 Quebec: Tango, sending you 2
+2024-10-14 16:38:14.204203 Tango: Zulu, sending you 9
+2024-10-14 16:38:14.204848 Quebec: Zulu, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Foxtrot round 10
+ChatterBot Whiskey round 10
+ChatterBot Papa round 10
+ChatterBot Bravo round 10
+ChatterBot Tango round 10
+ChatterBot X-ray round 10
+ChatterBot Quebec round 10
+ChatterBot Zulu round 10
+ChatterBot Echo round 10
+ChatterBot Delta round 10
+2024-10-14 16:38:15.410752 Foxtrot: We should add Papa
+ChatterBot Echo reevaluating
+2024-10-14 16:38:15.425166 Whiskey: No
+2024-10-14 16:38:15.425411 X-ray: No
+2024-10-14 16:38:15.425568 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:15.473954 Quebec: We should add Echo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:15.507417 Papa: No
+2024-10-14 16:38:15.507714 Tango: No
+2024-10-14 16:38:15.507905 Zulu: No
+2024-10-14 16:38:15.508702 Foxtrot: Yes
+2024-10-14 16:38:15.508875 Whiskey: Yes
+2024-10-14 16:38:15.509037 X-ray: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:15.711372 Echo: We should add Bravo
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:15.722145 Whiskey: No
+2024-10-14 16:38:15.722349 Foxtrot: No
+2024-10-14 16:38:15.722901 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:15.848662 Delta: We should replace Whiskey with Tango
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:15.854322 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:15.860262 Foxtrot: We should add Quebec
+ChatterBot Echo reevaluating
+2024-10-14 16:38:15.873134 Whiskey: No
+2024-10-14 16:38:15.873481 X-ray: No
+2024-10-14 16:38:15.874074 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:15.913728 Delta: We should replace Whiskey with Papa
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:15.918508 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:15.924991 Quebec: We should drop Foxtrot and Whiskey
+2024-10-14 16:38:15.941284 Papa: Yes
+2024-10-14 16:38:15.941521 Tango: Yes
+2024-10-14 16:38:15.941709 Zulu: Yes
+2024-10-14 16:38:15.942440 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:16.012503 Papa: Quebec, sending you 2
+2024-10-14 16:38:16.013019 Whiskey: Same as last round
+2024-10-14 16:38:16.054416 Zulu: Papa and Quebec, sending you 3
+2024-10-14 16:38:16.056072 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:16.057128 Papa: Zulu, sending you 4
+2024-10-14 16:38:16.058371 Tango: Quebec, sending you 6
+2024-10-14 16:38:16.059225 Echo: Foxtrot, sending you 3
+chatterbot Whiskey submitting transactions
+2024-10-14 16:38:16.061542 Zulu: Tango, sending you 6
+2024-10-14 16:38:16.062407 X-ray: Whiskey, sending you 2
+2024-10-14 16:38:16.064281 Tango: Zulu, sending you 9
+2024-10-14 16:38:16.065500 Delta: Whiskey, sending you 1
+2024-10-14 16:38:16.065933 Bravo: Echo, sending you 1
+2024-10-14 16:38:16.066794 Echo: Whiskey, sending you 1
+2024-10-14 16:38:16.084629 X-ray: Echo, sending you 1
+2024-10-14 16:38:16.085332 Bravo: Delta, sending you 3
+2024-10-14 16:38:16.086018 Delta: Bravo, sending you 3
+2024-10-14 16:38:16.086263 Echo: X-ray, sending you 2
+2024-10-14 16:38:16.108906 Quebec: Papa, sending you 1
+2024-10-14 16:38:16.131421 Quebec: Tango, sending you 3
+2024-10-14 16:38:16.143938 Quebec: Zulu, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Foxtrot round 11
+ChatterBot Whiskey round 11
+ChatterBot Papa round 11
+ChatterBot Bravo round 11
+ChatterBot Tango round 11
+ChatterBot X-ray round 11
+ChatterBot Quebec round 11
+ChatterBot Zulu round 11
+ChatterBot Echo round 11
+ChatterBot Delta round 11
+2024-10-14 16:38:17.105146 Foxtrot: We should add Bravo
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:17.116980 Whiskey: No
+2024-10-14 16:38:17.117142 X-ray: Yes
+2024-10-14 16:38:17.117307 Echo: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:17.160111 Papa: Friends?
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:17.174591 Foxtrot: No
+2024-10-14 16:38:17.174764 Whiskey: No
+2024-10-14 16:38:17.174882 X-ray: No
+2024-10-14 16:38:17.174989 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:17.360663 Delta: We should replace Whiskey with Echo
+2024-10-14 16:38:17.365476 Bravo: Yes
+2024-10-14 16:38:17.380524 Foxtrot: Bravo we want you to join our group
+2024-10-14 16:38:17.387253 Bravo: No
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:17.411112 Delta: Echo we want you to join our group
+2024-10-14 16:38:17.418406 Echo: No
+2024-10-14 16:38:17.427430 X-ray: Bravo we want you to join our group
+2024-10-14 16:38:17.434805 Bravo: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:17.454836 Whiskey: Same as last round
+2024-10-14 16:38:17.456785 Echo: Bravo we want you to join our group
+2024-10-14 16:38:17.464104 Bravo: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:17.482803 Bravo: Echo, sending you 1
+2024-10-14 16:38:17.558467 Tango: Quebec, sending you 6
+2024-10-14 16:38:17.558933 Quebec: Papa, sending you 1
+2024-10-14 16:38:17.560170 Papa: Foxtrot and Whiskey, sending you 2
+2024-10-14 16:38:17.560560 Zulu: Papa, sending you 5
+2024-10-14 16:38:17.561068 Bravo: Delta, sending you 3
+2024-10-14 16:38:17.561873 Foxtrot: Whiskey and Bravo, sending you 1
+2024-10-14 16:38:17.626212 Papa: X-ray and Echo, sending you 1
+2024-10-14 16:38:17.627337 Tango: Zulu, sending you 9
+2024-10-14 16:38:17.628019 Quebec: Tango, sending you 3
+2024-10-14 16:38:17.629205 Zulu: Tango, sending you 7
+2024-10-14 16:38:17.629916 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:17.631551 Delta: Bravo, sending you 3
+2024-10-14 16:38:17.632761 Foxtrot: X-ray, sending you 5
+2024-10-14 16:38:17.634440 Quebec: Zulu, sending you 2
+2024-10-14 16:38:17.635400 Zulu: Quebec, sending you 4
+2024-10-14 16:38:17.636460 Echo: Whiskey and Bravo, sending you 1
+2024-10-14 16:38:17.682573 Delta: Echo, sending you 1
+2024-10-14 16:38:17.683484 Foxtrot: Echo, sending you 2
+2024-10-14 16:38:17.683998 X-ray: Foxtrot, sending you 6
+chatterbot Zulu submitting transactions
+2024-10-14 16:38:17.703607 X-ray: Whiskey, sending you 2
+2024-10-14 16:38:17.719017 X-ray: Echo, sending you 1
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Foxtrot round 12
+ChatterBot Whiskey round 12
+ChatterBot Papa round 12
+ChatterBot Bravo round 12
+ChatterBot Tango round 12
+ChatterBot X-ray round 12
+ChatterBot Quebec round 12
+2024-10-14 16:38:18.732991 Foxtrot: We should replace Bravo with Papa
+2024-10-14 16:38:18.742383 Whiskey: No
+2024-10-14 16:38:18.742575 X-ray: No
+2024-10-14 16:38:18.742737 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Zulu round 12
+ChatterBot Echo round 12
+ChatterBot Delta round 12
+2024-10-14 16:38:18.788507 X-ray: We should add Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:18.796947 Whiskey: No
+2024-10-14 16:38:18.797077 Foxtrot: Yes
+2024-10-14 16:38:18.797209 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:18.840787 Delta: We should replace Echo with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:18.843899 Bravo: Yes
+2024-10-14 16:38:18.847851 Echo: We should replace Bravo with Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:18.880357 Whiskey: No
+2024-10-14 16:38:18.880607 Foxtrot: Yes
+2024-10-14 16:38:18.880841 X-ray: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:18.998680 Delta: Whiskey we want you to join our group
+2024-10-14 16:38:19.005509 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:19.020455 Delta: We should replace Echo with Papa
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:19.028015 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:19.036426 Quebec: Papa, sending you 1
+2024-10-14 16:38:19.039746 Foxtrot: Papa we want you to join our group
+2024-10-14 16:38:19.047087 Papa: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:19.074363 Echo: Papa we want you to join our group
+2024-10-14 16:38:19.081791 Papa: Yes
+2024-10-14 16:38:19.106303 Tango: Quebec, sending you 6
+2024-10-14 16:38:19.108008 Bravo: Whiskey we want you to join our group
+2024-10-14 16:38:19.114536 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:19.128040 Quebec: Tango, sending you 3
+2024-10-14 16:38:19.130046 Zulu: Papa and Quebec, sending you 5
+2024-10-14 16:38:19.131986 Whiskey: Same as last round
+2024-10-14 16:38:19.133475 Papa: Foxtrot and Whiskey, sending you 2
+2024-10-14 16:38:19.134020 Tango: Zulu, sending you 9
+2024-10-14 16:38:19.135386 Bravo: We should drop Echo
+ChatterBot Delta reevaluating
+2024-10-14 16:38:19.141699 Delta: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:19.148586 Quebec: Zulu, sending you 2
+2024-10-14 16:38:19.150502 Zulu: Tango, sending you 8
+2024-10-14 16:38:19.151843 Papa: X-ray and Echo, sending you 1
+2024-10-14 16:38:19.161708 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:20.023389 Foxtrot: Whiskey and Papa, sending you 1
+2024-10-14 16:38:20.025491 Echo: Whiskey and Papa, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 16:38:20.029982 Foxtrot: X-ray, sending you 5
+2024-10-14 16:38:20.032176 Delta: Bravo, sending you 3
+2024-10-14 16:38:20.049314 Foxtrot: Echo, sending you 2
+2024-10-14 16:38:20.050676 Delta: Echo, sending you 1
+2024-10-14 16:38:20.062143 Bravo: Whiskey, sending you 1
+2024-10-14 16:38:20.090690 Bravo: Delta, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Foxtrot round 13
+ChatterBot Whiskey round 13
+ChatterBot Papa round 13
+ChatterBot Bravo round 13
+ChatterBot Tango round 13
+ChatterBot X-ray round 13
+ChatterBot Quebec round 13
+ChatterBot Zulu round 13
+ChatterBot Echo round 13
+ChatterBot Delta round 13
+2024-10-14 16:38:21.009120 Bravo: We should replace Whiskey with Echo
+ChatterBot Delta reevaluating
+2024-10-14 16:38:21.015357 Delta: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:21.021725 Delta: We should replace Echo with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:21.026813 Bravo: Yes
+ChatterBot Delta reevaluating
+2024-10-14 16:38:21.041225 X-ray: We should add Papa
+2024-10-14 16:38:21.051700 Whiskey: No
+2024-10-14 16:38:21.051858 Foxtrot: Yes
+2024-10-14 16:38:21.051985 Echo: Yes
+2024-10-14 16:38:21.224508 X-ray: Papa we want you to join our group
+2024-10-14 16:38:21.233106 Papa: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:21.252322 Delta: Whiskey we want you to join our group
+2024-10-14 16:38:21.255959 Whiskey: No
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:21.284974 Tango: Quebec, sending you 6
+2024-10-14 16:38:21.314306 Zulu: Papa, sending you 4
+2024-10-14 16:38:21.316899 Foxtrot: Whiskey and Papa, sending you 1
+2024-10-14 16:38:21.318875 Whiskey: Same as last round
+2024-10-14 16:38:21.320953 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:21.322758 Tango: Zulu, sending you 9
+2024-10-14 16:38:21.323738 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:21.326428 Zulu: Tango, sending you 10
+2024-10-14 16:38:21.327579 Foxtrot: X-ray, sending you 5
+2024-10-14 16:38:21.328946 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:21.338329 Echo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:21.339479 Zulu: Quebec, sending you 5
+2024-10-14 16:38:21.340152 Foxtrot: Echo, sending you 2
+2024-10-14 16:38:21.341180 X-ray: Echo, sending you 2
+2024-10-14 16:38:21.347307 Delta: Whiskey, sending you 1
+2024-10-14 16:38:21.356671 Delta: Bravo, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Foxtrot round 14
+ChatterBot Whiskey round 14
+ChatterBot Papa round 14
+ChatterBot Bravo round 14
+ChatterBot Tango round 14
+ChatterBot X-ray round 14
+ChatterBot Quebec round 14
+ChatterBot Zulu round 14
+ChatterBot Echo round 14
+ChatterBot Delta round 14
+2024-10-14 16:38:22.348418 Papa: Friends?
+2024-10-14 16:38:22.352630 Echo: Yes
+2024-10-14 16:38:22.365398 X-ray: We should add Papa
+2024-10-14 16:38:22.377557 Whiskey: No
+2024-10-14 16:38:22.377793 Foxtrot: Yes
+2024-10-14 16:38:22.377949 Echo: Yes
+2024-10-14 16:38:22.409676 X-ray: Papa we want you to join our group
+2024-10-14 16:38:22.413423 Papa: No
+2024-10-14 16:38:22.425327 Echo: I was attacked by Quebec
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:22.439497 Echo: I'm keeping this round to protect myself
+2024-10-14 16:38:22.441128 Echo: Ow
+2024-10-14 16:38:22.441737 Tango: Quebec, sending you 5
+2024-10-14 16:38:22.444673 Zulu: I was attacked by Papa
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:22.453763 Zulu: I'm keeping this round to protect myself
+2024-10-14 16:38:22.455033 Zulu: Ow
+2024-10-14 16:38:22.455391 Delta: Whiskey, sending you 1
+2024-10-14 16:38:22.460684 Delta: Bravo, sending you 3
+2024-10-14 16:38:22.484687 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:22.489699 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:22.493682 X-ray: Echo, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 15
+ChatterBot Whiskey round 15
+ChatterBot Papa round 15
+ChatterBot Bravo round 15
+ChatterBot Tango round 15
+ChatterBot X-ray round 15
+ChatterBot Quebec round 15
+ChatterBot Zulu round 15
+ChatterBot Echo round 15
+ChatterBot Delta round 15
+2024-10-14 16:38:23.756675 Delta: We should replace Whiskey with Papa
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:23.763697 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:23.816653 Delta: We should replace Whiskey with Echo
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:23.822946 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 16:38:23.873513 Whiskey: Same as last round
+2024-10-14 16:38:23.875445 Delta: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 16:38:23.882638 Papa: Yes
+ChatterBot Delta reevaluating
+2024-10-14 16:38:23.893748 Papa: We would work well together
+ChatterBot Delta reevaluating
+2024-10-14 16:38:23.905585 Delta: Yes
+2024-10-14 16:38:23.905787 Bravo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 16:38:23.994166 Tango: Quebec, sending you 6
+2024-10-14 16:38:23.995930 Zulu: Tango, sending you 3
+2024-10-14 16:38:23.997882 Echo: Foxtrot and Papa, sending you 2
+2024-10-14 16:38:24.000589 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:24.003709 Tango: Zulu, sending you 9
+2024-10-14 16:38:24.005308 Zulu: Quebec, sending you 2
+2024-10-14 16:38:24.006855 Echo: Whiskey and X-ray, sending you 1
+2024-10-14 16:38:24.009209 X-ray: Whiskey and Echo, sending you 1
+2024-10-14 16:38:24.012349 Bravo: Papa, sending you 1
+2024-10-14 16:38:24.018237 Bravo: Delta, sending you 3
+2024-10-14 16:38:24.019428 Papa: Sending you each 3
+2024-10-14 16:38:24.063888 Delta: Papa, sending you 1
+2024-10-14 16:38:24.071740 Delta: Bravo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Foxtrot round 16
+ChatterBot Whiskey round 16
+ChatterBot Papa round 16
+ChatterBot Bravo round 16
+ChatterBot Tango round 16
+ChatterBot X-ray round 16
+ChatterBot Quebec round 16
+ChatterBot Zulu round 16
+ChatterBot Echo round 16
+ChatterBot Delta round 16
+2024-10-14 16:38:25.187464 Delta: Papa, sending you 1
+2024-10-14 16:38:25.189360 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:25.201257 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:25.204940 Tango: Quebec, sending you 7
+2024-10-14 16:38:25.206911 Whiskey: Same as last round
+2024-10-14 16:38:25.209426 Delta: Bravo, sending you 3
+2024-10-14 16:38:25.210135 Papa: Same as last round
+2024-10-14 16:38:25.211259 Bravo: Papa, sending you 1
+2024-10-14 16:38:25.212009 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:25.213974 Echo: Whiskey, Papa and X-ray, sending you 1
+2024-10-14 16:38:25.215913 Tango: Zulu, sending you 8
+2024-10-14 16:38:25.217365 Zulu: Tango, sending you 9
+2024-10-14 16:38:25.218123 Bravo: Delta, sending you 3
+2024-10-14 16:38:25.219564 X-ray: Echo, sending you 2
+2024-10-14 16:38:25.250450 Zulu: Quebec, sending you 5
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Foxtrot round 17
+ChatterBot Whiskey round 17
+ChatterBot Papa round 17
+ChatterBot Bravo round 17
+ChatterBot Tango round 17
+ChatterBot X-ray round 17
+ChatterBot Quebec round 17
+ChatterBot Zulu round 17
+ChatterBot Echo round 17
+ChatterBot Delta round 17
+2024-10-14 16:38:26.447674 Bravo: Papa and Delta, sending you 2
+2024-10-14 16:38:26.450672 Papa: Same as last round
+2024-10-14 16:38:26.452700 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:26.456002 Zulu: Tango, sending you 11
+2024-10-14 16:38:26.458718 X-ray: Whiskey and Echo, sending you 1
+2024-10-14 16:38:26.462437 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:26.464684 Whiskey: Same as last round
+2024-10-14 16:38:26.467278 Zulu: Quebec, sending you 6
+2024-10-14 16:38:26.468947 Delta: Papa and Bravo, sending you 2
+2024-10-14 16:38:26.470131 Echo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:26.473809 Tango: Quebec, sending you 6
+2024-10-14 16:38:26.477682 Tango: Zulu, sending you 9
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 18
+ChatterBot Whiskey round 18
+ChatterBot Papa round 18
+ChatterBot Bravo round 18
+ChatterBot Tango round 18
+ChatterBot X-ray round 18
+ChatterBot Quebec round 18
+ChatterBot Zulu round 18
+ChatterBot Echo round 18
+ChatterBot Delta round 18
+2024-10-14 16:38:27.952083 Delta: We should add Echo
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:27.966549 Bravo: Yes
+2024-10-14 16:38:27.966758 Papa: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:27.999119 Quebec: We should drop Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:28.038315 Tango: Yes
+2024-10-14 16:38:28.038576 Zulu: Yes
+2024-10-14 16:38:28.038765 Foxtrot: No
+2024-10-14 16:38:28.038980 Whiskey: No
+2024-10-14 16:38:28.039769 X-ray: No
+2024-10-14 16:38:28.039936 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:28.324979 Delta: Echo we want you to join our group
+2024-10-14 16:38:28.330648 Echo: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:28.351543 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:28.353 Tango: Quebec, sending you 6
+2024-10-14 16:38:28.353538 Papa: Same as last round
+2024-10-14 16:38:28.354740 Zulu: Tango, sending you 12
+2024-10-14 16:38:28.356255 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:28.358551 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:28.363401 Tango: Zulu, sending you 9
+2024-10-14 16:38:28.364991 Zulu: Quebec, sending you 7
+2024-10-14 16:38:28.366933 Echo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:28.369410 Delta: Papa and Bravo, sending you 2
+2024-10-14 16:38:28.371213 X-ray: Echo, sending you 2
+2024-10-14 16:38:28.373501 Whiskey: Sending you each 1
+chatterbot Whiskey submitting transactions
+2024-10-14 16:38:28.400182 Bravo: Same as last round
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Foxtrot round 19
+ChatterBot Whiskey round 19
+ChatterBot Papa round 19
+ChatterBot Bravo round 19
+ChatterBot Tango round 19
+ChatterBot X-ray round 19
+ChatterBot Quebec round 19
+ChatterBot Zulu round 19
+ChatterBot Echo round 19
+ChatterBot Delta round 19
+2024-10-14 16:38:29.655837 Delta: We should replace Echo with Whiskey
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:29.671969 Bravo: Yes
+2024-10-14 16:38:29.672183 Papa: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:29.701882 Bravo: We should add Whiskey
+2024-10-14 16:38:29.716138 Delta: Yes
+2024-10-14 16:38:29.716682 Papa: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:29.748209 Quebec: We should drop Papa
+ChatterBot Tango reevaluating
+2024-10-14 16:38:29.786831 Tango: Yes
+2024-10-14 16:38:29.787577 Zulu: Yes
+2024-10-14 16:38:29.787825 Foxtrot: No
+2024-10-14 16:38:29.787987 Whiskey: No
+2024-10-14 16:38:29.788150 X-ray: No
+2024-10-14 16:38:29.788312 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:38:30.169714 Delta: Whiskey we want you to join our group
+2024-10-14 16:38:30.177797 Whiskey: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:30.239965 Bravo: Whiskey we want you to join our group
+2024-10-14 16:38:30.246646 Whiskey: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:30.261352 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:30.263929 Papa: Same as last round
+2024-10-14 16:38:30.265741 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:30.268482 Zulu: Tango, sending you 12
+2024-10-14 16:38:30.270339 Whiskey: Same as last round
+2024-10-14 16:38:30.272043 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:30.274360 Echo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:30.276396 Zulu: Quebec, sending you 7
+2024-10-14 16:38:30.277294 Delta: Papa and Bravo, sending you 2
+2024-10-14 16:38:30.278994 Tango: Quebec, sending you 6
+2024-10-14 16:38:30.279888 X-ray: Echo, sending you 2
+2024-10-14 16:38:30.282946 Tango: Zulu, sending you 8
+2024-10-14 16:38:30.297539 Bravo: Papa and Delta, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Foxtrot round 20
+ChatterBot Whiskey round 20
+ChatterBot Papa round 20
+ChatterBot Bravo round 20
+ChatterBot Tango round 20
+ChatterBot X-ray round 20
+ChatterBot Quebec round 20
+ChatterBot Zulu round 20
+ChatterBot Echo round 20
+ChatterBot Delta round 20
+2024-10-14 16:38:31.387201 X-ray: We should drop Papa
+ChatterBot Echo reevaluating
+2024-10-14 16:38:31.414088 Whiskey: No
+2024-10-14 16:38:31.414347 Foxtrot: No
+2024-10-14 16:38:31.414560 Echo: No
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:31.527091 Papa: Whiskey, sending you 2
+2024-10-14 16:38:31.530696 Tango: Quebec, sending you 6
+2024-10-14 16:38:31.532707 Whiskey: Same as last round
+2024-10-14 16:38:31.535712 Papa: Echo, sending you 4
+2024-10-14 16:38:31.545208 Tango: Zulu, sending you 7
+2024-10-14 16:38:31.547176 Bravo: Papa and Delta, sending you 2
+2024-10-14 16:38:31.548735 Zulu: Tango, sending you 12
+2024-10-14 16:38:31.549751 Delta: Papa and Bravo, sending you 2
+2024-10-14 16:38:31.551458 Echo: Foxtrot and X-ray, sending you 2
+2024-10-14 16:38:31.564701 Zulu: Quebec, sending you 7
+2024-10-14 16:38:31.566140 Echo: Papa and Bravo, sending you 1
+2024-10-14 16:38:31.584764 X-ray: Foxtrot, sending you 6
+2024-10-14 16:38:31.592545 X-ray: Whiskey, sending you 1
+2024-10-14 16:38:31.604549 X-ray: Echo, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Foxtrot round 21
+ChatterBot Whiskey round 21
+ChatterBot Papa round 21
+ChatterBot Bravo round 21
+ChatterBot Tango round 21
+ChatterBot X-ray round 21
+ChatterBot Quebec round 21
+ChatterBot Zulu round 21
+ChatterBot Echo round 21
+ChatterBot Delta round 21
+2024-10-14 16:38:32.938524 X-ray: We should replace Whiskey with Papa
+ChatterBot Echo reevaluating
+2024-10-14 16:38:32.958113 Echo: Yes
+2024-10-14 16:38:32.958403 Foxtrot: No
+ChatterBot Echo reevaluating
+2024-10-14 16:38:33.023370 Delta: We should replace Whiskey with Echo
+ChatterBot Papa reevaluating
+2024-10-14 16:38:33.034979 Bravo: No
+2024-10-14 16:38:33.035127 Papa: Yes
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:33.073859 X-ray: Papa we want you to join our group
+ChatterBot Papa reevaluating
+2024-10-14 16:38:33.085684 Papa: No
+ChatterBot Echo reevaluating
+2024-10-14 16:38:33.108129 Tango: We should drop Quebec
+2024-10-14 16:38:33.114647 Zulu: No
+ChatterBot Tango reevaluating
+2024-10-14 16:38:33.121288 Echo: We should drop Bravo and Delta
+ChatterBot Papa reevaluating
+2024-10-14 16:38:33.141701 X-ray: Yes
+2024-10-14 16:38:33.141871 Foxtrot: Yes
+2024-10-14 16:38:33.141995 Papa: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 16:38:33.201754 Bravo: Papa and Delta, sending you 2
+2024-10-14 16:38:33.207929 Whiskey: Papa, sending you 2
+2024-10-14 16:38:33.210883 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:33.213047 Zulu: Tango, sending you 12
+2024-10-14 16:38:33.215044 Whiskey: Delta, sending you 1
+2024-10-14 16:38:33.217104 Zulu: Quebec, sending you 7
+2024-10-14 16:38:33.219882 X-ray: Echo, sending you 2
+2024-10-14 16:38:33.225729 Tango: Sending you each 6
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 16:38:33.232683 Delta: Papa and Bravo, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Foxtrot round 22
+ChatterBot Whiskey round 22
+ChatterBot Papa round 22
+ChatterBot Bravo round 22
+ChatterBot Tango round 22
+ChatterBot X-ray round 22
+ChatterBot Quebec round 22
+ChatterBot Zulu round 22
+ChatterBot Echo round 22
+ChatterBot Delta round 22
+2024-10-14 16:38:34.468328 Foxtrot: We should drop Whiskey
+2024-10-14 16:38:34.486021 X-ray: Yes
+2024-10-14 16:38:34.486348 Echo: Yes
+2024-10-14 16:38:34.486565 Papa: No
+2024-10-14 16:38:34.540589 Papa: We should drop Echo
+2024-10-14 16:38:34.547447 Whiskey: Yes
+2024-10-14 16:38:34.554681 Tango: We should drop Quebec
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:34.562271 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:38:34.573291 Quebec: We should drop Papa and Whiskey
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:38:34.603565 Tango: Yes
+2024-10-14 16:38:34.604084 Zulu: Yes
+2024-10-14 16:38:34.605094 Foxtrot: No
+2024-10-14 16:38:34.605416 X-ray: No
+2024-10-14 16:38:34.605733 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:34.752143 X-ray: We should replace Papa with Whiskey
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:34.763979 Echo: Yes
+2024-10-14 16:38:34.764118 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:34.820068 Bravo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:34.822022 Whiskey: Papa, sending you 2
+2024-10-14 16:38:34.824756 Foxtrot: We should drop Papa
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:34.841643 Whiskey: No
+2024-10-14 16:38:34.841784 X-ray: Yes
+2024-10-14 16:38:34.841909 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:34.896221 Bravo: Delta, sending you 2
+2024-10-14 16:38:34.897951 Whiskey: Delta, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-14 16:38:34.918531 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:38:34.920775 X-ray: Whiskey we want you to join our group
+2024-10-14 16:38:34.930567 Whiskey: No
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:34.949242 Delta: Bravo, sending you 2
+2024-10-14 16:38:34.976778 Echo: Whiskey we want you to join our group
+2024-10-14 16:38:34.987487 Whiskey: No
+ChatterBot Echo reevaluating
+chatterbot Delta submitting transactions
+2024-10-14 16:38:35.103907 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:35.119848 X-ray: Echo, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Foxtrot round 23
+ChatterBot Whiskey round 23
+ChatterBot Papa round 23
+ChatterBot Bravo round 23
+ChatterBot Tango round 23
+ChatterBot X-ray round 23
+ChatterBot Quebec round 23
+ChatterBot Zulu round 23
+ChatterBot Echo round 23
+ChatterBot Delta round 23
+2024-10-14 16:38:36.084450 Tango: We should add Quebec
+2024-10-14 16:38:36.090105 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:38:36.130346 Foxtrot: We should drop Papa
+2024-10-14 16:38:36.224920 Whiskey: No
+2024-10-14 16:38:36.225224 X-ray: Yes
+2024-10-14 16:38:36.225422 Echo: Yes
+2024-10-14 16:38:36.344701 Quebec: We should drop Papa and Whiskey
+ChatterBot Tango reevaluating
+2024-10-14 16:38:36.380210 Tango: Yes
+2024-10-14 16:38:36.380744 Zulu: Yes
+2024-10-14 16:38:36.381538 Foxtrot: No
+2024-10-14 16:38:36.381828 X-ray: No
+2024-10-14 16:38:36.382136 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:36.587882 Echo: We should replace Whiskey with Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:36.602688 Foxtrot: Yes
+2024-10-14 16:38:36.602876 X-ray: Yes
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:36.634430 Tango: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:36.642638 Quebec: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:38:36.659537 Papa: Sending you 6
+2024-10-14 16:38:36.661521 X-ray: Papa we want you to join our group
+2024-10-14 16:38:36.671197 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:36.696007 Whiskey: Sending you each 1
+2024-10-14 16:38:36.699053 Bravo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:36.702448 Zulu: I was attacked by Echo
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:36.715273 Zulu: I'm keeping this round to protect myself
+2024-10-14 16:38:36.718223 Zulu: Ow
+2024-10-14 16:38:36.720696 Foxtrot: We should drop Whiskey
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:36.743698 X-ray: Yes
+2024-10-14 16:38:36.743889 Echo: Yes
+2024-10-14 16:38:36.744030 Papa: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:36.816060 Bravo: Delta, sending you 2
+2024-10-14 16:38:36.820478 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:38:36.832898 Delta: Bravo, sending you 2
+2024-10-14 16:38:36.835668 Echo: Papa we want you to join our group
+2024-10-14 16:38:36.844699 Papa: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 16:38:37.028212 Echo: Foxtrot, Papa and X-ray, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Foxtrot round 24
+ChatterBot Whiskey round 24
+ChatterBot Papa round 24
+ChatterBot Bravo round 24
+ChatterBot Tango round 24
+ChatterBot X-ray round 24
+ChatterBot Quebec round 24
+ChatterBot Zulu round 24
+ChatterBot Echo round 24
+ChatterBot Delta round 24
+2024-10-14 16:38:38.172908 Papa: We should add Bravo
+2024-10-14 16:38:38.183192 Whiskey: Yes
+2024-10-14 16:38:38.213168 X-ray: We should replace Whiskey with Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:38.228380 Echo: Yes
+2024-10-14 16:38:38.228607 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:38.318176 Delta: We should add Echo
+2024-10-14 16:38:38.341871 Whiskey: No
+2024-10-14 16:38:38.342147 Papa: No
+2024-10-14 16:38:38.343322 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:38.414236 Papa: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:38.427775 Bravo: Yes
+2024-10-14 16:38:38.442973 X-ray: Papa we want you to join our group
+2024-10-14 16:38:38.452637 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:38.565478 X-ray: We should drop Whiskey
+2024-10-14 16:38:38.582408 Echo: Yes
+2024-10-14 16:38:38.582696 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Papa submitting transactions
+2024-10-14 16:38:38.670950 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:38:38.673760 Papa: Sending you each 3
+2024-10-14 16:38:38.676067 Whiskey: Papa, sending you 2
+2024-10-14 16:38:38.678860 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:38.682471 Bravo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:38.684917 Delta: Bravo, sending you 2
+2024-10-14 16:38:38.687244 Whiskey: Delta, sending you 1
+2024-10-14 16:38:38.689836 Echo: Papa, sending you 1
+2024-10-14 16:38:38.692765 Bravo: Delta, sending you 2
+2024-10-14 16:38:38.710781 Echo: X-ray, sending you 2
+2024-10-14 16:38:38.735070 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:38.745155 X-ray: Echo, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Foxtrot round 25
+ChatterBot Whiskey round 25
+ChatterBot Papa round 25
+ChatterBot Bravo round 25
+ChatterBot Tango round 25
+ChatterBot X-ray round 25
+ChatterBot Quebec round 25
+ChatterBot Zulu round 25
+ChatterBot Echo round 25
+ChatterBot Delta round 25
+2024-10-14 16:38:39.775130 Tango: We should drop Zulu
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:39.783043 Quebec: No
+2024-10-14 16:38:39.791714 Bravo: We should drop Whiskey
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 16:38:39.807993 Delta: No
+2024-10-14 16:38:39.808176 Papa: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:39.828164 Papa: We should replace Whiskey with Delta
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:39.832833 Bravo: No
+ChatterBot Papa reevaluating
+2024-10-14 16:38:39.838601 Foxtrot: We should drop Whiskey
+ChatterBot Papa reevaluating
+2024-10-14 16:38:39.852920 X-ray: Yes
+2024-10-14 16:38:39.853064 Echo: Yes
+2024-10-14 16:38:39.853176 Papa: Yes
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 16:38:39.896472 Quebec: We should drop Papa and Whiskey
+ChatterBot Tango reevaluating
+2024-10-14 16:38:39.918563 Tango: Yes
+2024-10-14 16:38:39.918773 Zulu: Yes
+2024-10-14 16:38:39.918925 Foxtrot: No
+2024-10-14 16:38:39.919569 X-ray: No
+2024-10-14 16:38:39.919711 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:40.034219 Echo: We should replace Papa with Whiskey
+2024-10-14 16:38:40.034490 X-ray: We should replace Papa with Whiskey
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:40.046809 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:40.050619 X-ray: No
+2024-10-14 16:38:40.051189 Echo: Yes
+2024-10-14 16:38:40.051310 Foxtrot: Yes
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:40.230380 Whiskey: Papa, sending you 2
+2024-10-14 16:38:41.376457 Zulu: Tango, sending you 6
+2024-10-14 16:38:41.379351 Whiskey: Bravo, sending you 1
+2024-10-14 16:38:41.383755 Tango: We should drop Quebec
+2024-10-14 16:38:41.395757 Zulu: No
+ChatterBot Tango reevaluating
+2024-10-14 16:38:41.408173 Papa: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 16:38:41.421534 Delta: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:41.441322 Echo: Whiskey we want you to join our group
+2024-10-14 16:38:41.450030 Whiskey: No
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 16:38:41.466463 Zulu: Quebec, sending you 4
+2024-10-14 16:38:41.494131 X-ray: Whiskey we want you to join our group
+2024-10-14 16:38:41.505535 Whiskey: No
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:41.548182 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:38:41.550869 Papa: Sending you each 3
+2024-10-14 16:38:41.552750 Bravo: Whiskey and Papa, sending you 1
+2024-10-14 16:38:41.555099 Tango: Quebec, sending you 6
+2024-10-14 16:38:41.557345 Delta: Bravo, sending you 2
+2024-10-14 16:38:41.570633 Bravo: Delta, sending you 2
+2024-10-14 16:38:41.573754 Tango: Zulu, sending you 5
+2024-10-14 16:38:41.598170 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:41.622454 X-ray: Echo, sending you 2
+2024-10-14 16:38:41.624803 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:42.143085 Echo: Whiskey, sending you 1
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:38:42.883948 Echo: X-ray, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Foxtrot round 26
+ChatterBot Whiskey round 26
+ChatterBot Papa round 26
+ChatterBot Bravo round 26
+ChatterBot Tango round 26
+ChatterBot X-ray round 26
+ChatterBot Quebec round 26
+ChatterBot Zulu round 26
+ChatterBot Echo round 26
+ChatterBot Delta round 26
+2024-10-14 16:38:43.477334 Delta: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:43.504846 Whiskey: No
+2024-10-14 16:38:43.505503 Papa: No
+2024-10-14 16:38:43.506623 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:43.608445 Echo: We should replace Whiskey with Papa
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:43.620047 Foxtrot: Yes
+2024-10-14 16:38:43.620214 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:43.651605 Tango: We should drop Zulu
+ChatterBot Quebec reevaluating
+2024-10-14 16:38:43.657695 Quebec: No
+ChatterBot Tango reevaluating
+2024-10-14 16:38:43.664195 Delta: We should add Echo
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:43.678898 Whiskey: No
+2024-10-14 16:38:43.679520 Papa: No
+2024-10-14 16:38:43.679666 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:43.894198 Zulu: Tango, sending you 9
+2024-10-14 16:38:43.897517 Foxtrot: We should drop Whiskey
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:43.916998 X-ray: Yes
+2024-10-14 16:38:43.917186 Echo: Yes
+2024-10-14 16:38:43.917366 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:43.978891 Papa: Same as last round
+2024-10-14 16:38:43.982865 Zulu: Quebec, sending you 7
+2024-10-14 16:38:43.986960 Tango: Quebec, sending you 8
+2024-10-14 16:38:43.989489 Whiskey: Sending you each 1
+2024-10-14 16:38:43.993323 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:38:43.997036 Tango: Zulu, sending you 5
+2024-10-14 16:38:44.000076 Echo: Papa we want you to join our group
+2024-10-14 16:38:44.010354 Papa: No
+ChatterBot Foxtrot reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 16:38:44.030095 Delta: Bravo, sending you 2
+chatterbot Delta submitting transactions
+2024-10-14 16:38:44.034177 Bravo: Papa and Delta, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 16:38:44.103721 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:44.133063 Echo: Papa, sending you 1
+2024-10-14 16:38:44.153076 Echo: X-ray, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+ChatterBot Foxtrot round 27
+ChatterBot Whiskey round 27
+ChatterBot Papa round 27
+ChatterBot Bravo round 27
+ChatterBot Tango round 27
+ChatterBot X-ray round 27
+ChatterBot Quebec round 27
+ChatterBot Zulu round 27
+ChatterBot Echo round 27
+ChatterBot Delta round 27
+2024-10-14 16:38:45.591491 X-ray: We should replace Whiskey with Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:45.607377 Echo: Yes
+2024-10-14 16:38:45.607698 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:45.675798 X-ray: Papa we want you to join our group
+2024-10-14 16:38:45.685990 Papa: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:45.710072 Quebec: We should drop Papa and Whiskey
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:45.749023 Tango: Yes
+2024-10-14 16:38:45.749684 Zulu: Yes
+2024-10-14 16:38:45.749853 Foxtrot: No
+2024-10-14 16:38:45.750007 X-ray: No
+2024-10-14 16:38:45.750148 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:45.919737 Delta: Whiskey and Papa, sending you 1
+2024-10-14 16:38:45.929888 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 16:38:45.933687 Papa: Same as last round
+2024-10-14 16:38:45.936085 Foxtrot: We should drop Whiskey
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:45.954111 X-ray: Yes
+2024-10-14 16:38:45.954696 Echo: Yes
+2024-10-14 16:38:45.954846 Papa: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:46.008738 Delta: Bravo, sending you 2
+2024-10-14 16:38:46.012003 Bravo: Papa, sending you 2
+2024-10-14 16:38:46.014966 Zulu: Tango, sending you 11
+2024-10-14 16:38:46.017545 Whiskey: Same as last round
+2024-10-14 16:38:46.020493 Echo: Foxtrot, sending you 3
+2024-10-14 16:38:46.024991 Tango: Quebec, sending you 8
+2024-10-14 16:38:46.028155 Zulu: Quebec, sending you 7
+2024-10-14 16:38:46.031345 Echo: Papa, sending you 1
+2024-10-14 16:38:46.066954 Tango: Zulu, sending you 5
+2024-10-14 16:38:46.070104 Echo: X-ray, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Foxtrot round 28
+ChatterBot Whiskey round 28
+ChatterBot Papa round 28
+ChatterBot Bravo round 28
+ChatterBot Tango round 28
+ChatterBot X-ray round 28
+ChatterBot Quebec round 28
+ChatterBot Zulu round 28
+ChatterBot Echo round 28
+ChatterBot Delta round 28
+2024-10-14 16:38:47.740849 X-ray: We should replace Whiskey with Papa
+2024-10-14 16:38:47.754493 Echo: Yes
+2024-10-14 16:38:47.754698 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:47.814642 Delta: We should add Zulu
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:47.838988 Whiskey: No
+2024-10-14 16:38:47.839192 Papa: No
+2024-10-14 16:38:47.839372 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:47.910195 Foxtrot: We should drop Whiskey
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:47.935106 X-ray: Yes
+2024-10-14 16:38:47.935331 Echo: Yes
+2024-10-14 16:38:47.935515 Papa: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:48.015184 Tango: We should drop Quebec
+2024-10-14 16:38:48.024214 Zulu: No
+ChatterBot Tango reevaluating
+2024-10-14 16:38:48.033537 Quebec: We should drop Papa and Whiskey
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:48.159760 Tango: Yes
+2024-10-14 16:38:48.160047 Zulu: Yes
+2024-10-14 16:38:48.160364 Foxtrot: No
+2024-10-14 16:38:48.160721 X-ray: No
+2024-10-14 16:38:48.160961 Echo: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:48.345708 Papa: Same as last round
+2024-10-14 16:38:48.348822 Whiskey: Same as last round
+2024-10-14 16:38:48.352461 Zulu: Tango, sending you 11
+2024-10-14 16:38:48.355305 X-ray: Papa we want you to join our group
+2024-10-14 16:38:48.368206 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:48.390840 Zulu: Quebec, sending you 8
+2024-10-14 16:38:48.393889 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 16:38:48.397066 Foxtrot: We should drop Papa
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:48.415272 Whiskey: No
+2024-10-14 16:38:48.415515 X-ray: Yes
+2024-10-14 16:38:48.415707 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:38:48.467675 Delta: Whiskey and Bravo, sending you 1
+2024-10-14 16:38:48.470091 Bravo: Papa, sending you 2
+2024-10-14 16:38:48.473307 Delta: Papa, sending you 2
+2024-10-14 16:38:48.476839 Tango: Quebec, sending you 7
+2024-10-14 16:38:48.482755 Tango: Zulu, sending you 5
+2024-10-14 16:38:48.498678 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:48.506676 X-ray: Echo, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Foxtrot round 29
+ChatterBot Whiskey round 29
+ChatterBot Papa round 29
+ChatterBot Bravo round 29
+ChatterBot Tango round 29
+ChatterBot X-ray round 29
+ChatterBot Quebec round 29
+ChatterBot Zulu round 29
+ChatterBot Echo round 29
+ChatterBot Delta round 29
+2024-10-14 16:38:49.765030 Echo: We should replace Papa with Whiskey
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:49.778679 Foxtrot: Yes
+2024-10-14 16:38:49.778966 X-ray: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:49.835604 Delta: We should add Echo
+2024-10-14 16:38:49.853493 Whiskey: No
+2024-10-14 16:38:49.853709 Papa: No
+2024-10-14 16:38:49.853885 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:50.014512 Tango: We should drop Quebec
+2024-10-14 16:38:50.019831 Zulu: No
+2024-10-14 16:38:50.026803 Echo: Whiskey we want you to join our group
+2024-10-14 16:38:50.036957 Whiskey: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:50.061398 Delta: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 16:38:50.072872 Echo: No
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:50.095264 Echo: We should replace Papa with Delta
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:50.108721 Foxtrot: No
+2024-10-14 16:38:50.109425 X-ray: No
+ChatterBot Echo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:50.141778 Papa: Same as last round
+2024-10-14 16:38:50.144307 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:50.148870 Zulu: Tango, sending you 6
+2024-10-14 16:38:50.151370 Whiskey: Same as last round
+2024-10-14 16:38:50.153325 Foxtrot: We should drop Papa
+ChatterBot Echo reevaluating
+2024-10-14 16:38:50.173249 Whiskey: No
+2024-10-14 16:38:50.173502 X-ray: Yes
+2024-10-14 16:38:50.174031 Echo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:50.233980 X-ray: Echo, sending you 2
+2024-10-14 16:38:50.235768 Zulu: Quebec, sending you 4
+2024-10-14 16:38:50.239675 Delta: Whiskey and Bravo, sending you 1
+2024-10-14 16:38:50.240961 Bravo: Sending you each 2
+2024-10-14 16:38:50.242196 Tango: Same as last round
+2024-10-14 16:38:50.245696 Delta: Papa, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Foxtrot round 30
+ChatterBot Whiskey round 30
+ChatterBot Papa round 30
+ChatterBot Bravo round 30
+ChatterBot Tango round 30
+ChatterBot X-ray round 30
+ChatterBot Quebec round 30
+ChatterBot Zulu round 30
+ChatterBot Echo round 30
+ChatterBot Delta round 30
+2024-10-14 16:38:51.232889 Bravo: We should add Whiskey
+2024-10-14 16:38:51.239976 Delta: Yes
+2024-10-14 16:38:51.240156 Papa: No
+ChatterBot Papa reevaluating
+2024-10-14 16:38:51.259587 Echo: We should group up
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:51.273239 Delta: Yes
+2024-10-14 16:38:51.273383 Whiskey: No
+2024-10-14 16:38:51.273528 Papa: No
+2024-10-14 16:38:51.273651 Bravo: Yes
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Echo reevaluating
+2024-10-14 16:38:51.338884 Foxtrot: We should drop Papa
+ChatterBot Echo reevaluating
+2024-10-14 16:38:51.354966 Whiskey: No
+2024-10-14 16:38:51.355147 X-ray: Yes
+2024-10-14 16:38:51.355337 Echo: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Echo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:38:51.409332 Delta: We should drop Echo
+ChatterBot Bravo reevaluating
+2024-10-14 16:38:51.425288 Whiskey: Yes
+2024-10-14 16:38:51.425491 Papa: Yes
+2024-10-14 16:38:51.425691 Bravo: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:38:51.464712 X-ray: Foxtrot, sending you 7
+2024-10-14 16:38:51.467573 Tango: Sending you 4
+2024-10-14 16:38:51.468575 Zulu: Tango, sending you 11
+2024-10-14 16:38:51.470058 Whiskey: Same as last round
+2024-10-14 16:38:51.471268 X-ray: Echo, sending you 2
+2024-10-14 16:38:51.474665 Zulu: Quebec, sending you 8
+2024-10-14 16:38:51.475321 Papa: Same as last round
+2024-10-14 16:38:51.484662 Bravo: Whiskey and Delta, sending you 1
+2024-10-14 16:38:51.490658 Bravo: Papa, sending you 2
+2024-10-14 16:38:51.492902 Delta: Whiskey and Bravo, sending you 1
+2024-10-14 16:38:51.498799 Delta: Papa, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions

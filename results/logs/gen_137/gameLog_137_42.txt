@@ -1,0 +1,2923 @@
+ChatterBot Romeo round 1
+ChatterBot Charlie round 1
+ChatterBot Alpha round 1
+ChatterBot Hotel round 1
+ChatterBot Tango round 1
+ChatterBot Kilo round 1
+ChatterBot X-ray round 1
+ChatterBot Echo round 1
+ChatterBot Zulu round 1
+ChatterBot Oscar round 1
+randomSelections Tango: {Tango, Oscar} 
+2024-10-14 15:38:58.783097 Tango: Group up?
+ChatterBot Oscar reevaluating
+2024-10-14 15:38:58.785722 Oscar: Yes
+randomSelections Alpha: {Alpha, Zulu, Tango, Kilo, Oscar, Hotel} 
+2024-10-14 15:38:58.790563 Alpha: We would work well together
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:38:58.804457 Zulu: Yes
+2024-10-14 15:38:58.804650 Tango: No
+2024-10-14 15:38:58.804901 Kilo: Yes
+2024-10-14 15:38:58.805758 Oscar: No
+2024-10-14 15:38:58.806129 Hotel: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+randomSelections X-ray: {X-ray, Alpha, Zulu, Oscar, Romeo, Hotel} 
+2024-10-14 15:38:58.855781 X-ray: Can we be friends?
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:38:58.865579 Alpha: No
+2024-10-14 15:38:58.866004 Zulu: No
+2024-10-14 15:38:58.866482 Oscar: No
+2024-10-14 15:38:58.866661 Romeo: Yes
+2024-10-14 15:38:58.866786 Hotel: No
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+randomSelections Charlie: {Charlie, Zulu, X-ray, Romeo} 
+2024-10-14 15:38:58.957340 Charlie: We would work well together
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:38:58.963179 Zulu: No
+2024-10-14 15:38:58.963343 X-ray: No
+2024-10-14 15:38:58.963501 Romeo: No
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+randomSelections Echo: {Echo, Romeo, Zulu, Kilo, Charlie, Oscar} 
+2024-10-14 15:38:58.983535 Echo: We would work well together
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:38:58.992093 Romeo: No
+2024-10-14 15:38:58.992269 Zulu: No
+2024-10-14 15:38:58.992398 Kilo: No
+2024-10-14 15:38:58.992884 Charlie: No
+2024-10-14 15:38:58.993017 Oscar: No
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:38:59.034669 Alpha: Hotel, sending you 4
+2024-10-14 15:38:59.035291 X-ray: Romeo, sending you 2
+2024-10-14 15:38:59.037658 Hotel: Alpha and Oscar, sending you 2
+2024-10-14 15:38:59.038701 Echo: Romeo and Zulu, sending you 2
+2024-10-14 15:38:59.039019 Alpha: Tango, sending you 3
+2024-10-14 15:38:59.039695 X-ray: Alpha, sending you 1
+2024-10-14 15:38:59.042692 Hotel: Tango, sending you 4
+2024-10-14 15:38:59.043680 Alpha: Kilo and Oscar, sending you 2
+2024-10-14 15:38:59.044727 Charlie: Romeo, sending you 2
+2024-10-14 15:38:59.044978 Romeo: Alpha, Hotel and Zulu, sending you 1
+2024-10-14 15:38:59.045241 Oscar: Sending you 9
+2024-10-14 15:38:59.045663 Zulu: Alpha, sending you 2
+2024-10-14 15:38:59.046967 Tango: Sending you 10
+2024-10-14 15:38:59.047149 Hotel: Kilo and Zulu, sending you 1
+2024-10-14 15:38:59.049659 Charlie: X-ray and Zulu, sending you 3
+2024-10-14 15:38:59.049929 Romeo: X-ray and Oscar, sending you 2
+2024-10-14 15:38:59.050186 Zulu: Tango and Kilo, sending you 1
+2024-10-14 15:38:59.050667 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:38:59.054670 Kilo: Tango and Zulu, sending you 1
+2024-10-14 15:38:59.058656 Kilo: Oscar, sending you 4
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Romeo round 2
+ChatterBot Charlie round 2
+ChatterBot Alpha round 2
+2024-10-14 15:39:01.932473 Romeo: We should group up
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:01.958040 X-ray: No
+2024-10-14 15:39:01.958536 Charlie: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:01.988113 Charlie: We should group up
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:02.067494 Alpha: No
+2024-10-14 15:39:02.067869 Hotel: No
+2024-10-14 15:39:02.068511 Kilo: No
+ChatterBot Charlie reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:02.150372 Hotel: Friends?
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:02.158221 Romeo: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel round 2
+ChatterBot Tango round 2
+ChatterBot Kilo round 2
+ChatterBot X-ray round 2
+ChatterBot Echo round 2
+ChatterBot Zulu round 2
+ChatterBot Oscar round 2
+2024-10-14 15:39:02.202942 Tango: Group up?
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:02.225433 Oscar: Yes
+2024-10-14 15:39:02.225620 Alpha: No
+2024-10-14 15:39:02.225749 Hotel: No
+2024-10-14 15:39:02.225877 Kilo: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:02.344719 Zulu: Let's form a team
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:02.366342 Alpha: No
+2024-10-14 15:39:02.366525 Hotel: No
+2024-10-14 15:39:02.366628 Kilo: No
+2024-10-14 15:39:02.366723 Charlie: No
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:02.572908 Alpha: We should drop Zulu
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:02.597189 Tango: Yes
+2024-10-14 15:39:02.598769 Oscar: Yes
+2024-10-14 15:39:02.600899 Hotel: Yes
+2024-10-14 15:39:02.601380 Kilo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:02.695205 Romeo: X-ray, sending you 4
+2024-10-14 15:39:03.220392 Tango: Alpha and Hotel, sending you 3
+2024-10-14 15:39:03.220890 Romeo: Echo, sending you 3
+2024-10-14 15:39:03.221110 Charlie: Sending you each 4
+2024-10-14 15:39:03.221758 X-ray: Sending you each 1
+2024-10-14 15:39:03.222094 Zulu: Sending you each 1
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:03.360953 Tango: Kilo, sending you 1
+2024-10-14 15:39:03.361786 Oscar: Alpha, Hotel and Kilo, sending you 2
+2024-10-14 15:39:03.684792 Tango: Oscar, sending you 5
+2024-10-14 15:39:03.685252 Oscar: Tango, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 15:39:03.836473 Alpha: Hotel, sending you 3
+2024-10-14 15:39:03.836848 Kilo: Sending you each 3
+2024-10-14 15:39:03.837644 Hotel: Alpha and Kilo, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-14 15:39:03.876254 Alpha: Tango and Oscar, sending you 2
+2024-10-14 15:39:03.876672 Hotel: Tango and Oscar, sending you 1
+ChatterBot Romeo round 3
+ChatterBot Charlie round 3
+ChatterBot Alpha round 3
+ChatterBot Hotel round 3
+ChatterBot Tango round 3
+ChatterBot Kilo round 3
+ChatterBot X-ray round 3
+ChatterBot Echo round 3
+ChatterBot Zulu round 3
+2024-10-14 15:39:03.910378 Alpha: Kilo, sending you 4
+ChatterBot Oscar round 3
+2024-10-14 15:39:03.923634 Alpha: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:03.963853 Tango: No
+2024-10-14 15:39:03.964135 Oscar: Yes
+2024-10-14 15:39:03.964416 Hotel: No
+2024-10-14 15:39:03.965125 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:39:04.230879 Oscar: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:04.237175 Romeo: No
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:04.271847 Romeo: We should replace Echo with Charlie
+2024-10-14 15:39:04.277192 X-ray: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:04.283266 Kilo: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:04.289127 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:04.390140 X-ray: Same as last round
+2024-10-14 15:39:04.391591 Echo: Sending you 2
+2024-10-14 15:39:04.392443 Zulu: Alpha, Hotel, Tango and Kilo, sending you 1
+2024-10-14 15:39:04.393453 Hotel: Alpha and Kilo, sending you 3
+2024-10-14 15:39:04.394829 Oscar: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:04.402238 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:04.452282 Tango: We should drop Kilo
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:04.474438 Alpha: No
+2024-10-14 15:39:04.474745 Hotel: No
+2024-10-14 15:39:04.475569 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:39:04.560297 Hotel: Tango and Oscar, sending you 2
+2024-10-14 15:39:04.560811 Kilo: Charlie, Hotel, Tango and Oscar, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:04.612157 Alpha: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:04.618224 Charlie: No
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:04.652536 Kilo: Alpha, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:05.861013 Tango: Alpha and Hotel, sending you 3
+2024-10-14 15:39:05.861574 Charlie: Romeo, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 15:39:05.868698 Tango: Oscar, sending you 6
+2024-10-14 15:39:05.869353 Charlie: X-ray, sending you 4
+2024-10-14 15:39:05.870406 Alpha: Charlie, Tango, Kilo and Oscar, sending you 2
+2024-10-14 15:39:05.871109 Oscar: Alpha, Hotel and Kilo, sending you 2
+2024-10-14 15:39:05.894796 Alpha: Hotel, sending you 3
+2024-10-14 15:39:05.895496 Oscar: Tango, sending you 3
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 4
+ChatterBot Charlie round 4
+ChatterBot Alpha round 4
+ChatterBot Hotel round 4
+ChatterBot Tango round 4
+ChatterBot Kilo round 4
+ChatterBot X-ray round 4
+ChatterBot Echo round 4
+ChatterBot Zulu round 4
+ChatterBot Oscar round 4
+2024-10-14 15:39:06.963341 Charlie: We should add Echo
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:06.975068 Romeo: Yes
+2024-10-14 15:39:06.975251 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:06.998706 X-ray: We should replace Zulu with Echo
+2024-10-14 15:39:06.999039 Romeo: We should replace Zulu with Echo
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:07.011116 Romeo: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:07.016925 Charlie: Yes
+2024-10-14 15:39:07.022165 X-ray: Yes
+2024-10-14 15:39:07.022370 Charlie: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:07.072992 Alpha: We should replace Charlie with Zulu
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:07.099035 Tango: No
+2024-10-14 15:39:07.099216 Oscar: No
+2024-10-14 15:39:07.099346 Hotel: No
+2024-10-14 15:39:07.099463 Kilo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:39:07.246377 Echo: We should replace Charlie with Romeo
+2024-10-14 15:39:07.253874 Charlie: Echo we want you to join our group
+2024-10-14 15:39:07.258602 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:07.276367 Echo: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:07.282159 Romeo: Yes
+2024-10-14 15:39:07.287265 Kilo: Zulu we want you to join our group
+2024-10-14 15:39:07.302338 Zulu: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:07.388869 X-ray: Echo we want you to join our group
+2024-10-14 15:39:07.394447 Echo: No
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:07.410944 Alpha: Zulu we want you to join our group
+2024-10-14 15:39:07.416780 Zulu: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:07.451504 Oscar: We should replace Romeo with Zulu
+ChatterBot Alpha reevaluating
+2024-10-14 15:39:07.480093 Tango: No
+2024-10-14 15:39:07.480519 Alpha: Yes
+2024-10-14 15:39:07.480688 Hotel: No
+2024-10-14 15:39:07.480848 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:39:07.586673 Zulu: Hotel, Tango, Kilo and Oscar, sending you 1
+2024-10-14 15:39:07.587080 Tango: Alpha and Hotel, sending you 3
+2024-10-14 15:39:07.587313 Charlie: Romeo and Echo, sending you 3
+2024-10-14 15:39:07.588059 Hotel: Alpha, sending you 4
+2024-10-14 15:39:07.588422 Romeo: Echo we want you to join our group
+2024-10-14 15:39:07.592959 Echo: No
+2024-10-14 15:39:07.613465 Tango: Oscar, sending you 6
+2024-10-14 15:39:07.613904 Charlie: X-ray, sending you 4
+2024-10-14 15:39:07.614238 Hotel: Tango, Kilo and Oscar, sending you 2
+2024-10-14 15:39:07.617691 Echo: Sending you 2
+2024-10-14 15:39:07.617971 X-ray: Sending you each 1
+2024-10-14 15:39:07.618235 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:07.621695 Kilo: Tango, Zulu and Oscar, sending you 2
+chatterbot X-ray submitting transactions
+2024-10-14 15:39:07.636670 Alpha: Hotel, Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:07.639787 Alpha: Kilo, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 5
+ChatterBot Charlie round 5
+ChatterBot Alpha round 5
+ChatterBot Hotel round 5
+ChatterBot Tango round 5
+ChatterBot Kilo round 5
+ChatterBot X-ray round 5
+ChatterBot Echo round 5
+ChatterBot Zulu round 5
+2024-10-14 15:39:08.757772 Romeo: We should replace Zulu with Echo
+2024-10-14 15:39:08.769014 X-ray: Yes
+2024-10-14 15:39:08.769638 Charlie: Yes
+ChatterBot Oscar round 5
+2024-10-14 15:39:08.826154 Romeo: Echo we want you to join our group
+2024-10-14 15:39:08.830619 Echo: No
+2024-10-14 15:39:08.852155 Oscar: We should replace Romeo with Zulu
+2024-10-14 15:39:08.876984 Tango: No
+2024-10-14 15:39:08.877197 Alpha: Yes
+2024-10-14 15:39:08.877387 Hotel: No
+2024-10-14 15:39:08.877824 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:08.974383 Tango: We should replace Oscar with Kilo
+2024-10-14 15:39:08.986608 Alpha: No
+2024-10-14 15:39:08.986787 Hotel: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:09.012104 Tango: We should replace Hotel with Kilo
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:09.024691 Alpha: No
+2024-10-14 15:39:09.024879 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:09.050390 Alpha: Hotel, sending you 3
+2024-10-14 15:39:09.145863 Charlie: Romeo and Echo, sending you 3
+2024-10-14 15:39:09.147552 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:09.149492 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:09.151479 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:09.152630 X-ray: Same as last round
+2024-10-14 15:39:09.154529 Hotel: Alpha and Tango, sending you 3
+2024-10-14 15:39:09.156134 Echo: Same as last round
+2024-10-14 15:39:09.157388 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:09.165240 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:09.220972 Charlie: X-ray, sending you 4
+2024-10-14 15:39:09.226548 Kilo: Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:09.229158 Hotel: Kilo and Oscar, sending you 2
+2024-10-14 15:39:09.292152 Tango: Alpha and Hotel, sending you 3
+2024-10-14 15:39:09.305121 Tango: Oscar, sending you 6
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 6
+ChatterBot Charlie round 6
+ChatterBot Alpha round 6
+ChatterBot Hotel round 6
+ChatterBot Tango round 6
+ChatterBot Kilo round 6
+ChatterBot X-ray round 6
+2024-10-14 15:39:10.472457 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:10.491481 Charlie: Yes
+2024-10-14 15:39:10.491699 Zulu: No
+2024-10-14 15:39:10.492330 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo round 6
+ChatterBot Zulu round 6
+ChatterBot Oscar round 6
+2024-10-14 15:39:10.539144 Tango: We should replace Oscar with Kilo
+2024-10-14 15:39:10.547927 Alpha: No
+2024-10-14 15:39:10.548112 Hotel: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:10.580867 X-ray: We should add Alpha
+ChatterBot Echo reevaluating
+2024-10-14 15:39:10.592369 Charlie: No
+2024-10-14 15:39:10.592500 Romeo: No
+2024-10-14 15:39:10.592601 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:10.631073 Romeo: Echo we want you to join our group
+ChatterBot Echo reevaluating
+2024-10-14 15:39:10.635608 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:10.650922 Echo: We should add Charlie
+2024-10-14 15:39:10.654938 Romeo: Yes
+ChatterBot Echo reevaluating
+2024-10-14 15:39:10.664592 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:10.684380 Tango: No
+2024-10-14 15:39:10.684527 Alpha: Yes
+2024-10-14 15:39:10.684631 Hotel: Yes
+2024-10-14 15:39:10.684733 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:10.785984 Tango: We should replace Alpha with Kilo
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:10.801724 Hotel: No
+2024-10-14 15:39:10.801913 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:10.853514 X-ray: We should add Oscar
+ChatterBot Echo reevaluating
+2024-10-14 15:39:10.912927 Charlie: No
+2024-10-14 15:39:10.913225 Romeo: No
+2024-10-14 15:39:10.914140 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Echo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:10.953931 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:10.958895 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:10.985999 Tango: We should replace Hotel with Kilo
+2024-10-14 15:39:10.996875 Alpha: No
+2024-10-14 15:39:10.997706 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:11.019669 Charlie: Romeo, sending you 3
+2024-10-14 15:39:11.021055 Echo: Charlie we want you to join our group
+2024-10-14 15:39:11.025748 Charlie: Yes
+2024-10-14 15:39:11.035431 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:11.036320 Alpha: Hotel, sending you 3
+2024-10-14 15:39:11.037768 Charlie: X-ray, sending you 4
+2024-10-14 15:39:11.038767 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:11.039624 Kilo: Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:11.083297 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:11.084478 Charlie: Echo, sending you 2
+2024-10-14 15:39:11.121877 Tango: Zulu, sending you 4
+2024-10-14 15:39:11.122313 Hotel: Alpha and Tango, sending you 3
+2024-10-14 15:39:11.123443 Echo: Sending you each 2
+2024-10-14 15:39:11.152816 Tango: Oscar, sending you 8
+2024-10-14 15:39:11.153180 Hotel: Kilo and Oscar, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 7
+ChatterBot Charlie round 7
+ChatterBot Alpha round 7
+ChatterBot Hotel round 7
+ChatterBot Tango round 7
+ChatterBot Kilo round 7
+ChatterBot X-ray round 7
+ChatterBot Echo round 7
+ChatterBot Zulu round 7
+ChatterBot Oscar round 7
+2024-10-14 15:39:12.293795 X-ray: We should add Hotel
+2024-10-14 15:39:12.306012 Charlie: No
+2024-10-14 15:39:12.306200 Romeo: No
+2024-10-14 15:39:12.306349 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.360583 Zulu: We should add X-ray
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:12.393089 Alpha: Yes
+2024-10-14 15:39:12.393286 Tango: Yes
+2024-10-14 15:39:12.393446 Kilo: Yes
+2024-10-14 15:39:12.393597 Oscar: Yes
+2024-10-14 15:39:12.393759 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:12.633892 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.645361 Charlie: Yes
+2024-10-14 15:39:12.645670 Zulu: No
+2024-10-14 15:39:12.645949 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.695332 X-ray: We should add Tango
+2024-10-14 15:39:12.705095 Charlie: No
+2024-10-14 15:39:12.705297 Romeo: No
+2024-10-14 15:39:12.705423 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.733169 Zulu: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.737444 X-ray: No
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:12.759552 X-ray: We should add Kilo
+2024-10-14 15:39:12.767050 Charlie: No
+2024-10-14 15:39:12.767179 Romeo: No
+2024-10-14 15:39:12.767274 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.793997 Romeo: Echo we want you to join our group
+2024-10-14 15:39:12.797176 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.808906 X-ray: We should add Zulu
+2024-10-14 15:39:12.816902 Charlie: No
+2024-10-14 15:39:12.817091 Romeo: Yes
+2024-10-14 15:39:12.817199 Echo: No
+2024-10-14 15:39:12.839951 Kilo: X-ray we want you to join our group
+2024-10-14 15:39:12.843353 X-ray: No
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:12.862533 Oscar: We should replace Romeo with Zulu
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:12.876780 Tango: No
+2024-10-14 15:39:12.876917 Alpha: Yes
+2024-10-14 15:39:12.877020 Hotel: No
+2024-10-14 15:39:12.877123 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:12.931976 Alpha: X-ray we want you to join our group
+2024-10-14 15:39:12.935313 X-ray: No
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:12.953959 Hotel: Alpha and Kilo, sending you 3
+2024-10-14 15:39:12.954706 Charlie: Sending you each 3
+2024-10-14 15:39:12.955737 X-ray: Zulu we want you to join our group
+2024-10-14 15:39:12.959041 Zulu: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:12.971676 Oscar: We should add Zulu
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:12.987394 Alpha: Yes
+2024-10-14 15:39:12.987888 Hotel: No
+2024-10-14 15:39:12.988010 Kilo: Yes
+2024-10-14 15:39:12.988112 Tango: No
+2024-10-14 15:39:12.988262 Romeo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:13.070194 Echo: Same as last round
+2024-10-14 15:39:13.070659 Hotel: Tango and Oscar, sending you 2
+2024-10-14 15:39:13.071381 Zulu: Alpha, Tango, Kilo and X-ray, sending you 1
+2024-10-14 15:39:13.072217 X-ray: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:13.076153 Kilo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:13.091689 Alpha: Hotel, Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:13.094707 Alpha: X-ray, sending you 1
+2024-10-14 15:39:13.112665 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:13.122687 Kilo: Alpha, Hotel, Tango, X-ray, Zulu and Oscar, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 8
+ChatterBot Charlie round 8
+ChatterBot Alpha round 8
+ChatterBot Hotel round 8
+ChatterBot Tango round 8
+ChatterBot Kilo round 8
+ChatterBot X-ray round 8
+ChatterBot Echo round 8
+ChatterBot Zulu round 8
+ChatterBot Oscar round 8
+2024-10-14 15:39:14.222278 Romeo: We should add Echo
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:14.242053 Charlie: Yes
+2024-10-14 15:39:14.242641 Zulu: No
+2024-10-14 15:39:14.242821 X-ray: Yes
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:14.302276 X-ray: We should replace Zulu with Alpha
+2024-10-14 15:39:14.320842 Charlie: No
+2024-10-14 15:39:14.321039 Romeo: No
+2024-10-14 15:39:14.321204 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:14.505151 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:14.543855 Tango: Yes
+2024-10-14 15:39:14.544611 Alpha: Yes
+2024-10-14 15:39:14.544827 Hotel: No
+2024-10-14 15:39:14.545064 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:14.693910 Alpha: We should drop X-ray
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:14.726041 Zulu: Yes
+2024-10-14 15:39:14.726549 Tango: Yes
+2024-10-14 15:39:14.726666 Kilo: Yes
+2024-10-14 15:39:14.726802 Oscar: Yes
+2024-10-14 15:39:14.726933 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:14.840905 Hotel: We should add Zulu
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:14.860570 Tango: No
+2024-10-14 15:39:14.861235 Oscar: Yes
+2024-10-14 15:39:14.861359 Alpha: Yes
+2024-10-14 15:39:14.861482 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:14.939201 Romeo: Echo we want you to join our group
+2024-10-14 15:39:14.943505 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:15.029652 Tango: We should drop Alpha
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:15.046037 Hotel: No
+2024-10-14 15:39:15.046363 Kilo: No
+2024-10-14 15:39:15.046572 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:15.113156 Charlie: Same as last round
+2024-10-14 15:39:15.121044 Echo: Same as last round
+2024-10-14 15:39:15.126338 Zulu: Alpha, Tango, Kilo and Oscar, sending you 1
+2024-10-14 15:39:15.129119 Alpha: Hotel, sending you 3
+2024-10-14 15:39:15.131737 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:15.134695 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:15.137720 Kilo: Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:15.163045 Hotel: Alpha, sending you 4
+2024-10-14 15:39:15.177045 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:15.178018 Hotel: Tango, Kilo and Oscar, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 9
+ChatterBot Charlie round 9
+ChatterBot Alpha round 9
+ChatterBot Hotel round 9
+ChatterBot Tango round 9
+ChatterBot Kilo round 9
+ChatterBot X-ray round 9
+ChatterBot Echo round 9
+ChatterBot Zulu round 9
+ChatterBot Oscar round 9
+2024-10-14 15:39:16.211972 Romeo: We should add Echo
+2024-10-14 15:39:16.226221 Charlie: Yes
+2024-10-14 15:39:16.227120 Zulu: No
+2024-10-14 15:39:16.227352 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:16.304447 Oscar: We should replace Romeo with Zulu
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:16.326223 Tango: No
+2024-10-14 15:39:16.326564 Alpha: Yes
+2024-10-14 15:39:16.326870 Hotel: Yes
+2024-10-14 15:39:16.327222 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:16.427302 Romeo: Echo we want you to join our group
+2024-10-14 15:39:16.432263 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:16.448987 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:16.453494 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:16.484896 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:16.506685 Alpha: No
+2024-10-14 15:39:16.506875 Hotel: No
+2024-10-14 15:39:16.507030 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:16.574943 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:16.576134 Charlie: Romeo and X-ray, sending you 3
+2024-10-14 15:39:16.577186 Alpha: Hotel, sending you 3
+2024-10-14 15:39:16.578099 Echo: Same as last round
+2024-10-14 15:39:16.578987 Zulu: Alpha, Tango, Kilo and Oscar, sending you 1
+2024-10-14 15:39:16.579975 Kilo: Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:16.581442 Charlie: Echo, sending you 4
+2024-10-14 15:39:16.582688 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:16.584222 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:16.603724 Hotel: Alpha and Tango, sending you 3
+2024-10-14 15:39:16.609686 Hotel: Kilo and Oscar, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 10
+ChatterBot Charlie round 10
+ChatterBot Alpha round 10
+ChatterBot Hotel round 10
+ChatterBot Tango round 10
+ChatterBot Kilo round 10
+ChatterBot X-ray round 10
+ChatterBot Echo round 10
+ChatterBot Zulu round 10
+ChatterBot Oscar round 10
+2024-10-14 15:39:17.507692 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:17.520919 Charlie: Yes
+2024-10-14 15:39:17.521085 Zulu: No
+2024-10-14 15:39:17.521227 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:17.571578 Hotel: We should add Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:17.587113 Tango: No
+2024-10-14 15:39:17.587276 Oscar: Yes
+2024-10-14 15:39:17.587385 Alpha: Yes
+2024-10-14 15:39:17.587489 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:17.808391 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:17.842765 Tango: No
+2024-10-14 15:39:17.842987 Alpha: Yes
+2024-10-14 15:39:17.843161 Hotel: Yes
+2024-10-14 15:39:17.843325 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:17.979543 Romeo: Echo we want you to join our group
+2024-10-14 15:39:17.986784 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:18.014089 Hotel: Zulu we want you to join our group
+2024-10-14 15:39:18.021332 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 15:39:18.061322 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:18.068784 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 15:39:18.130430 Alpha: Hotel, sending you 3
+2024-10-14 15:39:18.131555 Charlie: Romeo and X-ray, sending you 3
+2024-10-14 15:39:18.132090 Echo: Same as last round
+2024-10-14 15:39:18.132978 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:18.134690 Tango: We should drop Kilo
+2024-10-14 15:39:18.148647 Alpha: No
+2024-10-14 15:39:18.148791 Hotel: No
+2024-10-14 15:39:18.149350 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:18.193451 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:18.195433 Charlie: Echo, sending you 4
+2024-10-14 15:39:18.196306 Kilo: Tango, Zulu and Oscar, sending you 2
+chatterbot Alpha submitting transactions
+2024-10-14 15:39:18.198881 Zulu: Alpha, Tango, Kilo and Oscar, sending you 1
+2024-10-14 15:39:18.200767 Hotel: Alpha, sending you 3
+2024-10-14 15:39:18.202837 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:18.204070 Tango: We should drop Oscar
+2024-10-14 15:39:18.217749 Alpha: No
+2024-10-14 15:39:18.217955 Hotel: No
+2024-10-14 15:39:18.218070 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Romeo round 11
+ChatterBot Charlie round 11
+ChatterBot Alpha round 11
+ChatterBot Hotel round 11
+ChatterBot Tango round 11
+ChatterBot Kilo round 11
+ChatterBot X-ray round 11
+ChatterBot Echo round 11
+ChatterBot Zulu round 11
+2024-10-14 15:39:19.371342 Alpha: We should add Romeo
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:19.394047 Zulu: No
+2024-10-14 15:39:19.394230 Tango: No
+2024-10-14 15:39:19.394353 Kilo: No
+2024-10-14 15:39:19.394912 Oscar: No
+2024-10-14 15:39:19.395041 Hotel: No
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:19.622561 Zulu: We should add X-ray
+ChatterBot Alpha reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:19.664417 Alpha: Yes
+2024-10-14 15:39:19.664734 Tango: Yes
+2024-10-14 15:39:19.665095 Kilo: Yes
+2024-10-14 15:39:19.665480 Oscar: Yes
+2024-10-14 15:39:19.666438 Hotel: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar round 11
+2024-10-14 15:39:19.835376 Romeo: We should add Echo
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:19.846981 Charlie: Yes
+2024-10-14 15:39:19.847195 Zulu: No
+2024-10-14 15:39:19.847300 X-ray: Yes
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:19.881396 Charlie: We should add Zulu
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:19.891337 Romeo: Yes
+2024-10-14 15:39:19.891487 X-ray: Yes
+2024-10-14 15:39:19.891599 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:19.957749 Romeo: Echo we want you to join our group
+2024-10-14 15:39:19.963283 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:19.989571 Hotel: We should drop Zulu
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:39:20.018105 Tango: Yes
+2024-10-14 15:39:20.018398 Oscar: No
+2024-10-14 15:39:20.018601 Alpha: No
+2024-10-14 15:39:20.018783 Kilo: No
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:20.157443 Zulu: X-ray we want you to join our group
+2024-10-14 15:39:20.190224 X-ray: No
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:20.245899 Oscar: We should add Zulu
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:20.270349 Alpha: Yes
+2024-10-14 15:39:20.270604 Hotel: Yes
+2024-10-14 15:39:20.271311 Kilo: Yes
+2024-10-14 15:39:20.271609 Tango: Yes
+2024-10-14 15:39:20.271989 Romeo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:20.445295 Echo: Same as last round
+2024-10-14 15:39:20.482384 Alpha: X-ray we want you to join our group
+2024-10-14 15:39:20.487164 X-ray: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:20.513111 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:20.514796 Charlie: Romeo and X-ray, sending you 3
+2024-10-14 15:39:20.516188 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:20.520837 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:20.542775 Tango: We should replace Hotel with Zulu
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:20.557407 Alpha: No
+2024-10-14 15:39:20.557552 Kilo: No
+2024-10-14 15:39:20.557683 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:20.599284 Charlie: Echo, sending you 4
+2024-10-14 15:39:20.613951 Zulu: Alpha, Kilo, X-ray and Oscar, sending you 1
+2024-10-14 15:39:20.615774 Tango: Zulu we want you to join our group
+2024-10-14 15:39:20.623257 Zulu: Yes
+ChatterBot Tango reevaluating
+2024-10-14 15:39:20.649582 Kilo: X-ray we want you to join our group
+2024-10-14 15:39:20.657208 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+chatterbot Zulu submitting transactions
+2024-10-14 15:39:20.702976 Alpha: Hotel, Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:20.708671 Alpha: X-ray, sending you 1
+2024-10-14 15:39:20.711208 Kilo: Alpha, Hotel, Tango, X-ray, Zulu and Oscar, sending you 2
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 12
+ChatterBot Charlie round 12
+ChatterBot Alpha round 12
+ChatterBot Hotel round 12
+ChatterBot Tango round 12
+ChatterBot Kilo round 12
+ChatterBot X-ray round 12
+ChatterBot Echo round 12
+ChatterBot Zulu round 12
+ChatterBot Oscar round 12
+2024-10-14 15:39:21.906724 Romeo: We should add Echo
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:21.925247 Charlie: Yes
+2024-10-14 15:39:21.925475 Zulu: No
+2024-10-14 15:39:21.925669 X-ray: Yes
+ChatterBot Zulu reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:21.987634 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:22.011560 Tango: No
+2024-10-14 15:39:22.012100 Alpha: Yes
+2024-10-14 15:39:22.012285 Hotel: Yes
+2024-10-14 15:39:22.012466 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:22.138937 Romeo: Echo we want you to join our group
+2024-10-14 15:39:22.144565 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:22.180802 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:22.263304 Tango: Yes
+2024-10-14 15:39:22.263694 Oscar: No
+2024-10-14 15:39:22.263922 Alpha: No
+2024-10-14 15:39:22.264592 Kilo: No
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:22.415503 Alpha: Hotel, Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:22.418684 Echo: Same as last round
+2024-10-14 15:39:22.419534 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:22.425488 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:22.444073 Tango: We should replace Hotel with Zulu
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:22.455034 Alpha: No
+2024-10-14 15:39:22.455167 Kilo: No
+2024-10-14 15:39:22.455314 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:22.489127 Alpha: X-ray, sending you 1
+2024-10-14 15:39:22.491333 Charlie: Romeo and X-ray, sending you 3
+2024-10-14 15:39:22.494412 Hotel: We should drop Tango
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:22.507813 Alpha: No
+2024-10-14 15:39:22.507961 Kilo: Yes
+2024-10-14 15:39:22.508064 Zulu: No
+2024-10-14 15:39:22.508181 Oscar: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:22.567173 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:22.568304 Zulu: Alpha, Tango, Kilo and X-ray, sending you 1
+2024-10-14 15:39:22.571431 Charlie: Echo, sending you 4
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 13
+ChatterBot Charlie round 13
+ChatterBot Alpha round 13
+ChatterBot Hotel round 13
+ChatterBot Tango round 13
+ChatterBot Kilo round 13
+ChatterBot X-ray round 13
+ChatterBot Echo round 13
+ChatterBot Zulu round 13
+ChatterBot Oscar round 13
+2024-10-14 15:39:23.904826 Romeo: We should add Echo
+2024-10-14 15:39:23.919158 Charlie: Yes
+2024-10-14 15:39:23.919749 Zulu: No
+2024-10-14 15:39:23.919979 X-ray: Yes
+2024-10-14 15:39:23.961890 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:23.982685 Tango: No
+2024-10-14 15:39:23.982938 Alpha: Yes
+2024-10-14 15:39:23.983139 Hotel: No
+2024-10-14 15:39:23.983328 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:24.061308 Romeo: Echo we want you to join our group
+2024-10-14 15:39:24.064967 Echo: No
+2024-10-14 15:39:24.075007 Hotel: We should drop Zulu
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:24.085714 Tango: Yes
+2024-10-14 15:39:24.085867 Oscar: No
+2024-10-14 15:39:24.086303 Alpha: No
+2024-10-14 15:39:24.086426 Kilo: No
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:24.137290 Tango: We should replace Hotel with Zulu
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:24.151262 Alpha: No
+2024-10-14 15:39:24.151472 Kilo: Yes
+2024-10-14 15:39:24.151669 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:39:24.182663 Alpha: Hotel, Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:24.184107 Echo: Same as last round
+2024-10-14 15:39:24.186698 Alpha: X-ray, sending you 1
+2024-10-14 15:39:24.191668 Zulu: Alpha, Kilo, X-ray and Oscar, sending you 1
+2024-10-14 15:39:24.192719 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:24.196670 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:24.201700 Charlie: X-ray, sending you 3
+2024-10-14 15:39:24.205684 Kilo: Alpha, Hotel, Tango, X-ray, Zulu and Oscar, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 14
+ChatterBot Charlie round 14
+ChatterBot Alpha round 14
+ChatterBot Hotel round 14
+ChatterBot Tango round 14
+ChatterBot Kilo round 14
+ChatterBot X-ray round 14
+ChatterBot Echo round 14
+ChatterBot Zulu round 14
+ChatterBot Oscar round 14
+2024-10-14 15:39:25.461649 Romeo: We should add Echo
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:25.477236 Charlie: Yes
+2024-10-14 15:39:25.477459 Zulu: No
+2024-10-14 15:39:25.478015 X-ray: Yes
+ChatterBot Zulu reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:25.508162 X-ray: We should replace Zulu with Alpha
+2024-10-14 15:39:25.517264 Charlie: No
+2024-10-14 15:39:25.517424 Romeo: No
+2024-10-14 15:39:25.517541 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:25.578925 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:25.593765 Tango: No
+2024-10-14 15:39:25.593933 Alpha: Yes
+2024-10-14 15:39:25.594079 Hotel: Yes
+2024-10-14 15:39:25.594205 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:25.657968 Romeo: Echo we want you to join our group
+2024-10-14 15:39:25.663435 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 15:39:25.678443 Alpha: We should drop X-ray
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:25.694164 Zulu: Yes
+2024-10-14 15:39:25.694328 Tango: Yes
+2024-10-14 15:39:25.694451 Kilo: Yes
+2024-10-14 15:39:25.694568 Oscar: Yes
+2024-10-14 15:39:25.694693 Hotel: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:25.789741 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:25.794813 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:25.986145 Tango: We should drop Hotel
+2024-10-14 15:39:26.004508 Alpha: No
+2024-10-14 15:39:26.005340 Kilo: No
+2024-10-14 15:39:26.005660 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:26.063444 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:26.065570 Echo: Same as last round
+2024-10-14 15:39:26.068406 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:26.091248 Tango: Yes
+2024-10-14 15:39:26.091628 Oscar: No
+2024-10-14 15:39:26.091836 Alpha: No
+2024-10-14 15:39:26.092710 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Kilo submitting transactions
+2024-10-14 15:39:26.197438 Charlie: X-ray, sending you 3
+chatterbot Zulu submitting transactions
+2024-10-14 15:39:26.255094 Alpha: Hotel, sending you 3
+2024-10-14 15:39:26.259128 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:26.262348 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:26.264254 Tango: We should drop Oscar
+2024-10-14 15:39:26.274748 Alpha: No
+2024-10-14 15:39:26.274887 Hotel: No
+2024-10-14 15:39:26.275012 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:26.308649 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:26.310268 Kilo: Hotel, Tango and Zulu, sending you 2
+2024-10-14 15:39:26.346161 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 15
+ChatterBot Charlie round 15
+ChatterBot Alpha round 15
+ChatterBot Hotel round 15
+ChatterBot Tango round 15
+ChatterBot Kilo round 15
+ChatterBot X-ray round 15
+ChatterBot Echo round 15
+ChatterBot Zulu round 15
+ChatterBot Oscar round 15
+2024-10-14 15:39:27.380640 Romeo: We should add Echo
+2024-10-14 15:39:27.394571 Charlie: Yes
+2024-10-14 15:39:27.394852 Zulu: No
+2024-10-14 15:39:27.395018 X-ray: Yes
+2024-10-14 15:39:27.555432 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:27.572989 Tango: No
+2024-10-14 15:39:27.573365 Alpha: Yes
+2024-10-14 15:39:27.573595 Hotel: Yes
+2024-10-14 15:39:27.574639 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:27.638926 Romeo: Echo we want you to join our group
+2024-10-14 15:39:27.643878 Echo: No
+2024-10-14 15:39:27.658760 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:27.665787 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:27.791444 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:27.793939 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:27.795399 Alpha: Hotel, sending you 3
+2024-10-14 15:39:27.797132 Echo: Same as last round
+2024-10-14 15:39:27.797674 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:27.798854 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:27.800503 Tango: We should drop Alpha
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:27.819163 Hotel: No
+2024-10-14 15:39:27.819426 Kilo: No
+2024-10-14 15:39:27.819915 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:27.880004 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:27.882764 Charlie: X-ray, sending you 3
+2024-10-14 15:39:27.885005 Kilo: Hotel, Tango and Zulu, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 16
+ChatterBot Charlie round 16
+ChatterBot Alpha round 16
+ChatterBot Hotel round 16
+ChatterBot Tango round 16
+ChatterBot Kilo round 16
+ChatterBot X-ray round 16
+ChatterBot Echo round 16
+ChatterBot Zulu round 16
+ChatterBot Oscar round 16
+2024-10-14 15:39:29.145557 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:29.210425 Charlie: Yes
+2024-10-14 15:39:29.210869 Zulu: No
+2024-10-14 15:39:29.211278 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:29.253635 Charlie: We should add Zulu
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:29.267060 Romeo: Yes
+2024-10-14 15:39:29.268952 X-ray: Yes
+2024-10-14 15:39:29.271288 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:29.382858 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:29.409553 Tango: No
+2024-10-14 15:39:29.409877 Alpha: Yes
+2024-10-14 15:39:29.410090 Hotel: No
+2024-10-14 15:39:29.410285 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:29.499147 Romeo: Echo we want you to join our group
+2024-10-14 15:39:29.505904 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:29.528857 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:29.536007 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:29.609755 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:29.614918 Tango: We should drop Oscar
+2024-10-14 15:39:29.637230 Alpha: No
+2024-10-14 15:39:29.637503 Hotel: No
+2024-10-14 15:39:29.637712 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:29.689717 Kilo: Alpha, Hotel and Zulu, sending you 2
+2024-10-14 15:39:29.692704 Echo: Romeo, sending you 2
+2024-10-14 15:39:29.693306 Alpha: Hotel, sending you 3
+2024-10-14 15:39:29.765778 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:29.767018 Kilo: Tango and Oscar, sending you 3
+2024-10-14 15:39:29.769003 Echo: Charlie, sending you 1
+2024-10-14 15:39:29.769442 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:29.771432 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:29.773383 Charlie: X-ray, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 17
+ChatterBot Charlie round 17
+ChatterBot Alpha round 17
+ChatterBot Hotel round 17
+ChatterBot Tango round 17
+ChatterBot Kilo round 17
+ChatterBot X-ray round 17
+ChatterBot Echo round 17
+ChatterBot Zulu round 17
+ChatterBot Oscar round 17
+2024-10-14 15:39:30.899209 Romeo: We should add Echo
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:30.914392 Charlie: Yes
+2024-10-14 15:39:30.914845 Zulu: No
+2024-10-14 15:39:30.915100 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:30.968532 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:30.983425 Tango: No
+2024-10-14 15:39:30.983603 Alpha: Yes
+2024-10-14 15:39:30.983756 Hotel: Yes
+2024-10-14 15:39:30.983923 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:31.050045 Romeo: Echo we want you to join our group
+2024-10-14 15:39:31.054412 Echo: No
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:31.068382 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:31.073710 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:31.104678 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:31.109067 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:31.112496 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:31.114604 Alpha: Hotel, sending you 3
+2024-10-14 15:39:31.118998 Tango: We should drop Hotel
+2024-10-14 15:39:31.129054 Alpha: No
+2024-10-14 15:39:31.129198 Kilo: No
+2024-10-14 15:39:31.129300 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:31.164472 Kilo: Hotel, Tango and Zulu, sending you 2
+2024-10-14 15:39:31.167267 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:31.171254 Echo: Romeo, sending you 2
+2024-10-14 15:39:31.172206 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:31.215827 Echo: Charlie, sending you 1
+2024-10-14 15:39:31.217894 Charlie: X-ray, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 18
+ChatterBot Charlie round 18
+ChatterBot Alpha round 18
+ChatterBot Hotel round 18
+ChatterBot Tango round 18
+ChatterBot Kilo round 18
+ChatterBot X-ray round 18
+ChatterBot Echo round 18
+ChatterBot Zulu round 18
+ChatterBot Oscar round 18
+2024-10-14 15:39:32.633467 Romeo: We should add Echo
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:32.644797 Charlie: Yes
+2024-10-14 15:39:32.645009 Zulu: No
+2024-10-14 15:39:32.645148 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:32.721357 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:32.747101 Tango: No
+2024-10-14 15:39:32.747397 Alpha: Yes
+2024-10-14 15:39:32.747577 Hotel: No
+2024-10-14 15:39:32.747755 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:32.834553 Romeo: Echo we want you to join our group
+2024-10-14 15:39:32.840346 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:32.855288 X-ray: We should replace Zulu with Alpha
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:32.864825 Charlie: No
+2024-10-14 15:39:32.865001 Romeo: No
+2024-10-14 15:39:32.865129 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:32.894821 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:32.900794 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:32.918917 Alpha: Hotel, sending you 3
+2024-10-14 15:39:32.924892 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:32.938518 Alpha: No
+2024-10-14 15:39:32.938728 Hotel: No
+2024-10-14 15:39:32.938886 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:32.972134 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:32.973813 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:32.974655 X-ray: Alpha we want you to join our group
+2024-10-14 15:39:32.978242 Alpha: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:32.988916 Echo: Romeo, sending you 2
+2024-10-14 15:39:32.989241 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:32.990712 Kilo: Hotel, Tango and Zulu, sending you 2
+2024-10-14 15:39:32.993674 Echo: Charlie, sending you 1
+2024-10-14 15:39:33.010874 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:33.013681 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:33.018689 Charlie: X-ray, sending you 3
+chatterbot Echo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 19
+ChatterBot Charlie round 19
+ChatterBot Alpha round 19
+ChatterBot Hotel round 19
+ChatterBot Tango round 19
+ChatterBot Kilo round 19
+ChatterBot X-ray round 19
+ChatterBot Echo round 19
+ChatterBot Zulu round 19
+ChatterBot Oscar round 19
+2024-10-14 15:39:34.022046 Romeo: We should add Echo
+2024-10-14 15:39:34.032428 Charlie: Yes
+2024-10-14 15:39:34.032956 Zulu: No
+2024-10-14 15:39:34.033150 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:34.080267 Charlie: We should add Zulu
+2024-10-14 15:39:34.160115 Romeo: Yes
+2024-10-14 15:39:34.160376 X-ray: Yes
+2024-10-14 15:39:34.162579 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:34.238559 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:34.255791 Tango: No
+2024-10-14 15:39:34.256059 Alpha: Yes
+2024-10-14 15:39:34.256265 Hotel: Yes
+2024-10-14 15:39:34.256589 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:34.353291 Romeo: Echo we want you to join our group
+2024-10-14 15:39:34.361553 Echo: No
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:34.380994 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:34.389836 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:34.452526 Alpha: Hotel, sending you 3
+2024-10-14 15:39:34.458088 Echo: Romeo, sending you 2
+2024-10-14 15:39:34.460175 Tango: We should drop Kilo
+2024-10-14 15:39:34.476972 Alpha: No
+2024-10-14 15:39:34.477630 Hotel: No
+2024-10-14 15:39:34.477840 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:34.536215 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:34.541490 Echo: Charlie, sending you 1
+2024-10-14 15:39:34.543325 Charlie: Romeo and Echo, sending you 4
+2024-10-14 15:39:34.545980 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:34.548673 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:34.553074 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:34.558633 Charlie: X-ray, sending you 3
+2024-10-14 15:39:34.560943 Kilo: Hotel, Tango and Zulu, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 20
+ChatterBot Charlie round 20
+ChatterBot Alpha round 20
+ChatterBot Hotel round 20
+ChatterBot Tango round 20
+ChatterBot Kilo round 20
+ChatterBot X-ray round 20
+ChatterBot Echo round 20
+ChatterBot Zulu round 20
+ChatterBot Oscar round 20
+2024-10-14 15:39:35.761638 Romeo: We should add Echo
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:35.779274 Charlie: Yes
+2024-10-14 15:39:35.779666 Zulu: No
+2024-10-14 15:39:35.779909 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:35.990255 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:36.013120 Tango: No
+2024-10-14 15:39:36.014045 Alpha: Yes
+2024-10-14 15:39:36.014479 Hotel: No
+2024-10-14 15:39:36.014897 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:36.118393 Romeo: Echo we want you to join our group
+2024-10-14 15:39:36.124919 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:36.146267 Charlie: We should add Zulu
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:36.156409 Romeo: Yes
+2024-10-14 15:39:36.156553 X-ray: Yes
+2024-10-14 15:39:36.156693 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:36.191773 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:36.210041 Tango: Yes
+2024-10-14 15:39:36.210208 Oscar: No
+2024-10-14 15:39:36.210327 Alpha: No
+2024-10-14 15:39:36.210432 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:36.271749 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:36.279351 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:36.339567 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:36.346182 Echo: Romeo, sending you 2
+2024-10-14 15:39:36.348623 Charlie: Zulu we want you to join our group
+2024-10-14 15:39:36.355569 Zulu: No
+2024-10-14 15:39:36.373395 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:36.380663 Alpha: Hotel, sending you 3
+2024-10-14 15:39:36.387303 Tango: We should drop Alpha
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:36.403835 Hotel: No
+2024-10-14 15:39:36.404025 Kilo: No
+2024-10-14 15:39:36.404172 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:36.440837 Kilo: Hotel, Tango and Zulu, sending you 2
+2024-10-14 15:39:36.446233 Echo: Charlie, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-14 15:39:36.448247 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:36.451969 X-ray: Romeo, Charlie and Zulu, sending you 1
+2024-10-14 15:39:36.712738 Charlie: Romeo, sending you 4
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 15:39:36.719918 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:36.725677 Charlie: Zulu, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 21
+ChatterBot Charlie round 21
+ChatterBot Alpha round 21
+ChatterBot Hotel round 21
+ChatterBot Tango round 21
+ChatterBot Kilo round 21
+ChatterBot X-ray round 21
+ChatterBot Echo round 21
+ChatterBot Zulu round 21
+ChatterBot Oscar round 21
+2024-10-14 15:39:37.615726 Romeo: We should add Echo
+2024-10-14 15:39:37.631452 Charlie: Yes
+2024-10-14 15:39:37.631707 Zulu: No
+2024-10-14 15:39:37.631884 X-ray: Yes
+2024-10-14 15:39:37.677296 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:37.697576 Tango: No
+2024-10-14 15:39:37.697801 Alpha: Yes
+2024-10-14 15:39:37.697979 Hotel: No
+2024-10-14 15:39:37.698147 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:37.910665 X-ray: We should replace Zulu with Alpha
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:37.921988 Charlie: No
+2024-10-14 15:39:37.924118 Romeo: No
+2024-10-14 15:39:37.924707 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:37.965629 Romeo: Echo we want you to join our group
+2024-10-14 15:39:37.974109 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:37.993162 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:38.000752 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:38.022721 Charlie: We should drop Zulu
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:38.033539 Romeo: No
+2024-10-14 15:39:38.033791 X-ray: Yes
+2024-10-14 15:39:38.033931 Echo: Yes
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:38.069446 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:38.085411 Tango: Yes
+2024-10-14 15:39:38.085685 Oscar: No
+2024-10-14 15:39:38.085849 Alpha: No
+2024-10-14 15:39:38.085977 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:38.150906 Kilo: Alpha and Oscar, sending you 3
+chatterbot Echo submitting transactions
+2024-10-14 15:39:38.156333 Alpha: Hotel, sending you 3
+2024-10-14 15:39:38.159786 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:38.162652 Echo: Romeo, sending you 2
+2024-10-14 15:39:38.164130 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:38.175086 Alpha: No
+2024-10-14 15:39:38.175276 Hotel: No
+2024-10-14 15:39:38.175409 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:38.209713 Kilo: Hotel, Tango and Zulu, sending you 2
+2024-10-14 15:39:38.211603 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:38.213680 Echo: Charlie, sending you 1
+2024-10-14 15:39:38.214825 X-ray: Kilo we want you to join our group
+2024-10-14 15:39:38.218486 Kilo: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:38.232654 X-ray: We should replace Zulu with Oscar
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:38.242791 Charlie: No
+2024-10-14 15:39:38.243005 Romeo: No
+2024-10-14 15:39:38.243146 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:38.381105 X-ray: Alpha we want you to join our group
+2024-10-14 15:39:38.389312 Alpha: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:38.487809 X-ray: Oscar we want you to join our group
+2024-10-14 15:39:38.494638 Oscar: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+2024-10-14 15:39:38.596522 Charlie: Romeo, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 15:39:38.613327 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:38.615481 X-ray: Romeo, Charlie and Alpha, sending you 1
+2024-10-14 15:39:38.617858 Charlie: Zulu, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Romeo round 22
+ChatterBot Charlie round 22
+ChatterBot Alpha round 22
+ChatterBot Hotel round 22
+ChatterBot Tango round 22
+ChatterBot Kilo round 22
+ChatterBot X-ray round 22
+ChatterBot Echo round 22
+ChatterBot Zulu round 22
+ChatterBot Oscar round 22
+2024-10-14 15:39:39.403671 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:39.417967 Charlie: Yes
+2024-10-14 15:39:39.418136 Zulu: No
+2024-10-14 15:39:39.418277 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 15:39:39.482370 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:39.496399 Tango: No
+2024-10-14 15:39:39.496898 Alpha: Yes
+2024-10-14 15:39:39.497034 Hotel: No
+2024-10-14 15:39:39.497157 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:39.577786 Romeo: Echo we want you to join our group
+2024-10-14 15:39:39.583340 Echo: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:39.625581 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:39.660692 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:39.802105 Tango: We should drop Hotel
+2024-10-14 15:39:39.819128 Alpha: No
+2024-10-14 15:39:39.820123 Kilo: No
+2024-10-14 15:39:39.820356 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:39.859321 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:39.875476 Tango: Yes
+2024-10-14 15:39:39.875815 Oscar: No
+2024-10-14 15:39:39.876016 Alpha: No
+2024-10-14 15:39:39.876269 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:39.949705 Echo: Romeo, sending you 2
+chatterbot Oscar submitting transactions
+2024-10-14 15:39:39.951954 Alpha: Hotel, sending you 3
+2024-10-14 15:39:39.956742 X-ray: Romeo, Charlie and Alpha, sending you 1
+2024-10-14 15:39:39.959733 Kilo: Alpha and Oscar, sending you 3
+2024-10-14 15:39:39.965014 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:39.971142 Charlie: Romeo, sending you 5
+2024-10-14 15:39:39.973973 Echo: Charlie, sending you 1
+2024-10-14 15:39:39.976207 Tango: We should drop Kilo
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:39.990724 Alpha: No
+2024-10-14 15:39:39.990945 Hotel: No
+2024-10-14 15:39:39.991095 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:40.033995 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+chatterbot Alpha submitting transactions
+2024-10-14 15:39:40.038856 Kilo: Hotel, Tango and Zulu, sending you 2
+2024-10-14 15:39:40.043246 Charlie: X-ray and Echo, sending you 3
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:40.093752 Charlie: Zulu, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 23
+ChatterBot Charlie round 23
+ChatterBot Alpha round 23
+ChatterBot Hotel round 23
+ChatterBot Tango round 23
+ChatterBot Kilo round 23
+ChatterBot X-ray round 23
+ChatterBot Echo round 23
+ChatterBot Zulu round 23
+ChatterBot Oscar round 23
+2024-10-14 15:39:41.259784 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:41.275705 Charlie: Yes
+2024-10-14 15:39:41.275887 Zulu: No
+2024-10-14 15:39:41.276034 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:41.339413 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:41.356079 Tango: No
+2024-10-14 15:39:41.356328 Alpha: Yes
+2024-10-14 15:39:41.356497 Hotel: Yes
+2024-10-14 15:39:41.356680 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:41.429669 Romeo: Echo we want you to join our group
+2024-10-14 15:39:41.435453 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:41.450768 X-ray: We should replace Alpha with Oscar
+2024-10-14 15:39:41.460869 Charlie: No
+2024-10-14 15:39:41.461498 Romeo: No
+2024-10-14 15:39:41.461673 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:41.499205 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:41.506816 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:41.775552 Kilo: Alpha and Tango, sending you 3
+2024-10-14 15:39:41.782246 Tango: We should drop Kilo
+2024-10-14 15:39:41.803233 Alpha: No
+2024-10-14 15:39:41.803808 Hotel: No
+2024-10-14 15:39:41.804896 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:41.868601 Alpha: Hotel, sending you 3
+2024-10-14 15:39:41.873394 Charlie: Romeo, sending you 5
+2024-10-14 15:39:41.876093 Echo: Romeo, sending you 2
+chatterbot Alpha submitting transactions
+2024-10-14 15:39:41.877600 Kilo: Hotel, Zulu and Oscar, sending you 2
+2024-10-14 15:39:41.883456 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:41.909789 Tango: Yes
+2024-10-14 15:39:41.910065 Oscar: No
+2024-10-14 15:39:41.910248 Alpha: No
+2024-10-14 15:39:41.910431 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:42.007772 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:42.014513 Charlie: X-ray and Echo, sending you 3
+chatterbot Echo submitting transactions
+2024-10-14 15:39:42.018890 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:42.025745 Echo: Charlie, sending you 1
+2024-10-14 15:39:42.028995 X-ray: Romeo, Charlie and Alpha, sending you 1
+chatterbot X-ray submitting transactions
+2024-10-14 15:39:42.034491 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:42.052546 Alpha: No
+2024-10-14 15:39:42.053106 Hotel: No
+2024-10-14 15:39:42.053286 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:42.118538 Charlie: Zulu, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 24
+ChatterBot Charlie round 24
+ChatterBot Alpha round 24
+ChatterBot Hotel round 24
+ChatterBot Tango round 24
+ChatterBot Kilo round 24
+ChatterBot X-ray round 24
+ChatterBot Echo round 24
+ChatterBot Zulu round 24
+ChatterBot Oscar round 24
+2024-10-14 15:39:43.072034 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:43.089183 Charlie: Yes
+2024-10-14 15:39:43.089461 Zulu: No
+2024-10-14 15:39:43.089648 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:43.176590 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:43.196366 Tango: No
+2024-10-14 15:39:43.196594 Alpha: Yes
+2024-10-14 15:39:43.196777 Hotel: Yes
+2024-10-14 15:39:43.196936 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:43.294790 Romeo: Echo we want you to join our group
+2024-10-14 15:39:43.301417 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:43.320970 X-ray: We should replace Alpha with Oscar
+2024-10-14 15:39:43.336856 Charlie: No
+2024-10-14 15:39:43.337059 Romeo: No
+2024-10-14 15:39:43.337174 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:43.371957 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:43.380174 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:43.520358 Echo: Romeo, sending you 2
+2024-10-14 15:39:43.522406 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:43.526719 Charlie: Romeo, sending you 5
+2024-10-14 15:39:43.529353 Alpha: Hotel, sending you 3
+2024-10-14 15:39:43.533379 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:43.538184 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:43.554137 Alpha: No
+2024-10-14 15:39:43.554312 Hotel: No
+2024-10-14 15:39:43.554474 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:43.739309 Echo: Charlie, sending you 1
+2024-10-14 15:39:43.742445 Kilo: Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:43.749005 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:43.752175 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:43.755773 X-ray: Romeo, Charlie and Alpha, sending you 1
+2024-10-14 15:39:43.758861 Charlie: Zulu, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 25
+ChatterBot Charlie round 25
+ChatterBot Alpha round 25
+ChatterBot Hotel round 25
+ChatterBot Tango round 25
+ChatterBot Kilo round 25
+ChatterBot X-ray round 25
+ChatterBot Echo round 25
+ChatterBot Zulu round 25
+ChatterBot Oscar round 25
+2024-10-14 15:39:45.199500 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:45.208800 Charlie: Yes
+2024-10-14 15:39:45.208957 Zulu: No
+2024-10-14 15:39:45.209085 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:45.255241 X-ray: We should replace Alpha with Kilo
+2024-10-14 15:39:45.264970 Charlie: No
+2024-10-14 15:39:45.265181 Romeo: No
+2024-10-14 15:39:45.265302 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:45.313546 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:45.328482 Tango: No
+2024-10-14 15:39:45.328762 Alpha: Yes
+2024-10-14 15:39:45.329741 Hotel: No
+2024-10-14 15:39:45.329888 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:45.398394 Romeo: Echo we want you to join our group
+2024-10-14 15:39:45.403640 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:45.419172 X-ray: We should replace Alpha with Oscar
+2024-10-14 15:39:45.429368 Charlie: No
+2024-10-14 15:39:45.429537 Romeo: No
+2024-10-14 15:39:45.429705 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:45.462925 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:45.471357 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:45.538017 Charlie: Romeo, sending you 5
+2024-10-14 15:39:45.541758 Kilo: Alpha and Hotel, sending you 3
+2024-10-14 15:39:45.548375 Alpha: Hotel, sending you 3
+2024-10-14 15:39:45.555362 Tango: We should drop Kilo
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:45.567263 Alpha: No
+2024-10-14 15:39:45.567392 Hotel: No
+2024-10-14 15:39:45.567513 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:45.604907 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:45.610577 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:45.614058 Kilo: Tango, Zulu and Oscar, sending you 2
+2024-10-14 15:39:45.619418 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:45.627102 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:45.643017 Tango: Yes
+2024-10-14 15:39:45.643188 Oscar: No
+2024-10-14 15:39:45.643322 Alpha: No
+2024-10-14 15:39:45.643443 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:45.833610 Echo: Romeo, sending you 2
+2024-10-14 15:39:45.836154 Charlie: Zulu, sending you 1
+2024-10-14 15:39:45.839967 X-ray: Romeo, Charlie and Alpha, sending you 1
+chatterbot Oscar submitting transactions
+2024-10-14 15:39:45.843964 Echo: Charlie, sending you 1
+2024-10-14 15:39:45.846276 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:45.860066 Alpha: No
+2024-10-14 15:39:45.862800 Hotel: No
+2024-10-14 15:39:45.863881 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 26
+ChatterBot Charlie round 26
+ChatterBot Alpha round 26
+ChatterBot Hotel round 26
+ChatterBot Tango round 26
+ChatterBot Kilo round 26
+ChatterBot X-ray round 26
+ChatterBot Echo round 26
+ChatterBot Zulu round 26
+ChatterBot Oscar round 26
+2024-10-14 15:39:47.155881 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:47.166522 Charlie: Yes
+2024-10-14 15:39:47.166670 Zulu: No
+2024-10-14 15:39:47.166805 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:47.204635 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:47.230063 Tango: No
+2024-10-14 15:39:47.230305 Alpha: Yes
+2024-10-14 15:39:47.230481 Hotel: No
+2024-10-14 15:39:47.230699 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:47.353914 Romeo: Echo we want you to join our group
+2024-10-14 15:39:47.362198 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:47.384771 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:47.397904 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:47.484902 Kilo: Alpha and Tango, sending you 3
+2024-10-14 15:39:47.492717 Alpha: Hotel, sending you 3
+2024-10-14 15:39:47.499860 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:47.524199 Tango: Yes
+2024-10-14 15:39:47.524628 Oscar: No
+2024-10-14 15:39:47.524851 Alpha: No
+2024-10-14 15:39:47.525047 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:47.634680 Kilo: Hotel, Zulu and Oscar, sending you 2
+2024-10-14 15:39:47.642581 Charlie: Romeo, sending you 5
+2024-10-14 15:39:47.647175 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 15:39:47.654899 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:47.661897 Echo: Romeo, sending you 2
+2024-10-14 15:39:47.665407 Tango: We should drop Hotel
+2024-10-14 15:39:47.682214 Alpha: No
+2024-10-14 15:39:47.682460 Kilo: No
+2024-10-14 15:39:47.682653 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:47.843923 X-ray: Romeo, Charlie and Alpha, sending you 1
+2024-10-14 15:39:47.862619 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:47.868535 Echo: Charlie, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+2024-10-14 15:39:47.892415 Charlie: Zulu, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 27
+ChatterBot Charlie round 27
+ChatterBot Alpha round 27
+ChatterBot Hotel round 27
+ChatterBot Tango round 27
+ChatterBot Kilo round 27
+ChatterBot X-ray round 27
+ChatterBot Echo round 27
+ChatterBot Zulu round 27
+ChatterBot Oscar round 27
+2024-10-14 15:39:48.846886 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:48.863699 Tango: No
+2024-10-14 15:39:48.864012 Alpha: Yes
+2024-10-14 15:39:48.864223 Hotel: No
+2024-10-14 15:39:48.865075 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:48.936432 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:48.946801 Charlie: Yes
+2024-10-14 15:39:48.946975 Zulu: No
+2024-10-14 15:39:48.947109 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:48.996997 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:49.005318 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:49.024903 Romeo: Echo we want you to join our group
+2024-10-14 15:39:49.031371 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:49.048206 X-ray: We should replace Alpha with Oscar
+2024-10-14 15:39:49.059967 Charlie: No
+2024-10-14 15:39:49.060204 Romeo: No
+2024-10-14 15:39:49.060420 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:49.101295 Romeo: Can we be friends?
+ChatterBot Tango reevaluating
+2024-10-14 15:39:49.126258 Oscar: No
+2024-10-14 15:39:49.126441 Alpha: No
+2024-10-14 15:39:49.127625 Hotel: No
+2024-10-14 15:39:49.127784 Kilo: No
+2024-10-14 15:39:49.127931 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:49.257147 X-ray: We should replace Alpha with Kilo
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:49.267901 Charlie: No
+2024-10-14 15:39:49.268052 Romeo: No
+2024-10-14 15:39:49.268178 Echo: No
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:49.325015 Alpha: Hotel, sending you 3
+2024-10-14 15:39:49.332475 X-ray: Kilo we want you to join our group
+2024-10-14 15:39:49.338787 Kilo: No
+ChatterBot Romeo reevaluating
+2024-10-14 15:39:49.355494 Tango: We should drop Alpha
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:49.376227 Hotel: No
+2024-10-14 15:39:49.376450 Kilo: No
+2024-10-14 15:39:49.376611 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Charlie submitting transactions
+2024-10-14 15:39:49.414861 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:49.419699 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:49.424560 Kilo: Alpha and Tango, sending you 3
+chatterbot Kilo submitting transactions
+2024-10-14 15:39:49.429898 Charlie: Romeo, sending you 5
+2024-10-14 15:39:49.432476 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:49.444716 Alpha: No
+2024-10-14 15:39:49.444902 Hotel: No
+2024-10-14 15:39:49.445024 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:49.495356 Echo: Romeo, sending you 2
+2024-10-14 15:39:49.496323 Kilo: Hotel, Zulu and Oscar, sending you 2
+2024-10-14 15:39:49.499514 Charlie: X-ray and Echo, sending you 3
+chatterbot Echo submitting transactions
+2024-10-14 15:39:49.502231 Echo: Charlie, sending you 1
+2024-10-14 15:39:49.508354 Charlie: Zulu, sending you 1
+2024-10-14 15:39:49.510948 X-ray: Romeo, Charlie and Kilo, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 28
+ChatterBot Charlie round 28
+ChatterBot Alpha round 28
+ChatterBot Hotel round 28
+ChatterBot Tango round 28
+ChatterBot Kilo round 28
+ChatterBot X-ray round 28
+ChatterBot Echo round 28
+ChatterBot Zulu round 28
+ChatterBot Oscar round 28
+2024-10-14 15:39:50.367783 Romeo: We should add Echo
+2024-10-14 15:39:50.383537 Charlie: Yes
+2024-10-14 15:39:50.383829 Zulu: No
+2024-10-14 15:39:50.384081 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:50.476058 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:50.494636 Tango: No
+2024-10-14 15:39:50.494843 Alpha: Yes
+2024-10-14 15:39:50.495137 Hotel: Yes
+2024-10-14 15:39:50.495280 Kilo: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:50.581042 Romeo: Echo we want you to join our group
+2024-10-14 15:39:50.587974 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:50.609578 X-ray: We should replace Kilo with Tango
+2024-10-14 15:39:50.627535 Charlie: No
+2024-10-14 15:39:50.627787 Romeo: No
+2024-10-14 15:39:50.627973 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 15:39:50.680529 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:50.698709 Alpha: No
+2024-10-14 15:39:50.698910 Hotel: No
+2024-10-14 15:39:50.699084 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:50.760479 X-ray: We should replace Kilo with Alpha
+2024-10-14 15:39:50.776835 Charlie: No
+2024-10-14 15:39:50.777054 Romeo: No
+2024-10-14 15:39:50.777257 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:50.830956 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:50.843996 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:50.876803 Charlie: Romeo, sending you 5
+2024-10-14 15:39:50.881100 Echo: Romeo, sending you 2
+chatterbot Charlie submitting transactions
+2024-10-14 15:39:50.884345 Tango: We should drop Kilo
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:50.902933 Alpha: No
+2024-10-14 15:39:50.903139 Hotel: No
+2024-10-14 15:39:50.903301 Oscar: No
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:50.959722 Alpha: Hotel, sending you 3
+2024-10-14 15:39:50.967725 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:50.974834 Kilo: Alpha and Tango, sending you 3
+2024-10-14 15:39:50.983188 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:50.989151 Echo: Charlie, sending you 1
+2024-10-14 15:39:50.992845 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:39:51.016805 Tango: Yes
+2024-10-14 15:39:51.017026 Oscar: No
+2024-10-14 15:39:51.017234 Alpha: No
+2024-10-14 15:39:51.017434 Kilo: No
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:51.161277 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:51.164384 Kilo: Hotel, Zulu and Oscar, sending you 2
+2024-10-14 15:39:51.173590 Charlie: Zulu, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 15:39:51.178737 X-ray: Romeo, Charlie and Kilo, sending you 1
+chatterbot Echo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Romeo round 29
+ChatterBot Charlie round 29
+ChatterBot Alpha round 29
+ChatterBot Hotel round 29
+ChatterBot Tango round 29
+ChatterBot Kilo round 29
+ChatterBot X-ray round 29
+ChatterBot Echo round 29
+ChatterBot Zulu round 29
+ChatterBot Oscar round 29
+2024-10-14 15:39:52.213626 Romeo: We should add Echo
+2024-10-14 15:39:52.222653 Charlie: Yes
+2024-10-14 15:39:52.223156 Zulu: No
+2024-10-14 15:39:52.223341 X-ray: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:52.251926 X-ray: We should replace Kilo with Alpha
+2024-10-14 15:39:52.260778 Charlie: No
+2024-10-14 15:39:52.261003 Romeo: No
+2024-10-14 15:39:52.261165 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:52.299014 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:52.312531 Tango: No
+2024-10-14 15:39:52.312775 Alpha: Yes
+2024-10-14 15:39:52.312967 Hotel: No
+2024-10-14 15:39:52.313187 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:52.371487 Romeo: Echo we want you to join our group
+2024-10-14 15:39:52.377133 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:52.389767 X-ray: We should replace Kilo with Oscar
+2024-10-14 15:39:52.398590 Charlie: No
+2024-10-14 15:39:52.398791 Romeo: No
+2024-10-14 15:39:52.398942 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:52.423832 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:52.429342 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:52.448167 Echo: Romeo, sending you 2
+2024-10-14 15:39:52.448906 Charlie: Romeo, sending you 5
+2024-10-14 15:39:52.449827 Kilo: Alpha, Zulu and Oscar, sending you 2
+2024-10-14 15:39:52.451435 Alpha: Hotel, sending you 3
+2024-10-14 15:39:52.454862 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:52.456607 Tango: We should drop Oscar
+2024-10-14 15:39:52.465969 Alpha: No
+2024-10-14 15:39:52.466125 Hotel: No
+2024-10-14 15:39:52.466260 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:52.512347 Echo: Charlie, sending you 1
+2024-10-14 15:39:52.513182 X-ray: Alpha we want you to join our group
+2024-10-14 15:39:52.517444 Alpha: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:52.529946 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:52.531279 Kilo: Hotel and Tango, sending you 3
+2024-10-14 15:39:52.533404 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:52.535990 Charlie: Zulu, sending you 1
+2024-10-14 15:39:52.553679 X-ray: Romeo, Charlie and Kilo, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 30
+ChatterBot Charlie round 30
+ChatterBot Alpha round 30
+ChatterBot Hotel round 30
+ChatterBot Tango round 30
+ChatterBot Kilo round 30
+ChatterBot X-ray round 30
+ChatterBot Echo round 30
+ChatterBot Zulu round 30
+ChatterBot Oscar round 30
+2024-10-14 15:39:53.550049 Romeo: We should add Echo
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:53.561933 Charlie: Yes
+2024-10-14 15:39:53.562121 Zulu: No
+2024-10-14 15:39:53.562265 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:53.603082 Oscar: We should replace Romeo with Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:53.617257 Tango: No
+2024-10-14 15:39:53.617720 Alpha: Yes
+2024-10-14 15:39:53.617909 Hotel: No
+2024-10-14 15:39:53.618040 Kilo: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:39:53.665986 Romeo: Echo we want you to join our group
+2024-10-14 15:39:53.671050 Echo: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:53.682090 X-ray: We should replace Kilo with Alpha
+2024-10-14 15:39:53.690341 Charlie: No
+2024-10-14 15:39:53.690487 Romeo: No
+2024-10-14 15:39:53.690587 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:53.729344 X-ray: We should replace Kilo with Oscar
+2024-10-14 15:39:53.811687 Charlie: No
+2024-10-14 15:39:53.812001 Romeo: No
+2024-10-14 15:39:53.812896 Echo: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:39:53.858767 Hotel: We should drop Zulu
+ChatterBot Tango reevaluating
+2024-10-14 15:39:53.872774 Tango: Yes
+2024-10-14 15:39:53.872990 Oscar: No
+2024-10-14 15:39:53.873245 Alpha: No
+2024-10-14 15:39:53.873512 Kilo: No
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:53.922566 Oscar: Zulu we want you to join our group
+2024-10-14 15:39:53.926031 Zulu: Yes
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:53.942652 Alpha: Hotel, sending you 3
+2024-10-14 15:39:53.946913 Charlie: Romeo, sending you 5
+2024-10-14 15:39:53.948109 Echo: Romeo, sending you 2
+2024-10-14 15:39:53.949191 Kilo: Alpha, Zulu and Oscar, sending you 2
+2024-10-14 15:39:53.951942 Zulu: Alpha, Hotel, Kilo and Oscar, sending you 1
+2024-10-14 15:39:53.954569 Tango: We should drop Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 15:39:53.966410 Alpha: No
+2024-10-14 15:39:53.966646 Hotel: No
+2024-10-14 15:39:53.966799 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Hotel reevaluating
+chatterbot Alpha submitting transactions
+2024-10-14 15:39:53.992255 Alpha: Tango, Kilo, Zulu and Oscar, sending you 2
+2024-10-14 15:39:53.994407 Charlie: X-ray and Echo, sending you 3
+2024-10-14 15:39:53.996227 Echo: Charlie, sending you 1
+2024-10-14 15:39:53.996897 Kilo: Hotel and Tango, sending you 3
+2024-10-14 15:39:54.000677 Charlie: Zulu, sending you 1
+2024-10-14 15:39:54.002670 X-ray: Romeo, Charlie and Kilo, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Echo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions

@@ -1,0 +1,1825 @@
+ChatterBot Yankee round 1
+ChatterBot Juliett round 1
+ChatterBot X-ray round 1
+ChatterBot Oscar round 1
+ChatterBot Hotel round 1
+ChatterBot Papa round 1
+ChatterBot Lima round 1
+ChatterBot Foxtrot round 1
+ChatterBot Golf round 1
+ChatterBot Tango round 1
+randomSelections Hotel: {Hotel, Papa, Lima, Foxtrot, Golf} 
+2024-10-14 13:07:36.387906 Hotel: We should group up
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 13:07:36.396780 Papa: Yes
+2024-10-14 13:07:36.396945 Lima: Yes
+2024-10-14 13:07:36.397116 Foxtrot: Yes
+2024-10-14 13:07:36.397246 Golf: Yes
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Yankee: {Yankee, Papa, Golf, Hotel, Foxtrot, Juliett} 
+2024-10-14 13:07:36.436112 Yankee: Let's form a team
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 13:07:36.449328 Papa: No
+2024-10-14 13:07:36.449971 Golf: No
+2024-10-14 13:07:36.450125 Hotel: No
+2024-10-14 13:07:36.450302 Foxtrot: No
+2024-10-14 13:07:36.450483 Juliett: Yes
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections X-ray: {X-ray, Yankee, Foxtrot} 
+2024-10-14 13:07:36.513134 X-ray: Let's form a team
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:36.518022 Yankee: No
+2024-10-14 13:07:36.518198 Foxtrot: No
+ChatterBot Foxtrot reevaluating
+randomSelections Oscar: {Oscar, Lima, Hotel, Yankee, Foxtrot, Golf} 
+2024-10-14 13:07:36.535519 Oscar: Group up?
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 13:07:36.547371 Lima: No
+2024-10-14 13:07:36.547569 Hotel: No
+2024-10-14 13:07:36.548395 Yankee: No
+2024-10-14 13:07:36.548510 Foxtrot: No
+2024-10-14 13:07:36.548624 Golf: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Tango: {Tango, Juliett, Hotel, Yankee, X-ray} 
+2024-10-14 13:07:36.590354 Tango: We should group up
+ChatterBot Juliett reevaluating
+2024-10-14 13:07:36.595559 Juliett: No
+2024-10-14 13:07:36.595697 Hotel: No
+2024-10-14 13:07:36.596276 Yankee: No
+2024-10-14 13:07:36.596385 X-ray: No
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+ChatterBot Juliett reevaluating
+2024-10-14 13:07:36.631695 Tango: Hotel, sending you 1
+2024-10-14 13:07:36.637870 Papa: Hotel and Golf, sending you 2
+2024-10-14 13:07:36.642287 X-ray: Yankee, sending you 2
+2024-10-14 13:07:36.642627 Foxtrot: Hotel and Papa, sending you 2
+2024-10-14 13:07:36.643429 Yankee: Juliett and Golf, sending you 1
+2024-10-14 13:07:36.643746 Papa: Lima and Foxtrot, sending you 3
+2024-10-14 13:07:36.647622 Golf: Hotel, sending you 1
+2024-10-14 13:07:36.647955 Lima: Hotel, sending you 2
+2024-10-14 13:07:36.648237 Oscar: Yankee and Lima, sending you 1
+2024-10-14 13:07:36.648552 X-ray: Foxtrot, sending you 5
+2024-10-14 13:07:36.649257 Foxtrot: Lima and Golf, sending you 1
+2024-10-14 13:07:36.649540 Yankee: Hotel and Foxtrot, sending you 3
+2024-10-14 13:07:36.649884 Juliett: Foxtrot, sending you 1
+2024-10-14 13:07:36.656035 Lima: Papa, sending you 4
+2024-10-14 13:07:36.657253 Oscar: Hotel, sending you 3
+2024-10-14 13:07:36.662063 Lima: Golf, sending you 1
+2024-10-14 13:07:36.662425 Oscar: Foxtrot and Golf, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 2
+ChatterBot Juliett round 2
+ChatterBot X-ray round 2
+ChatterBot Oscar round 2
+2024-10-14 13:07:37.704472 Yankee: Can we be friends?
+ChatterBot X-ray reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:37.727387 X-ray: No
+2024-10-14 13:07:37.727568 Oscar: No
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 13:07:37.805004 Oscar: Can we be friends?
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:37.885734 Hotel: No
+2024-10-14 13:07:37.885954 Papa: No
+2024-10-14 13:07:37.886133 Lima: No
+2024-10-14 13:07:37.886710 Foxtrot: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:07:38.153568 Papa: We should group up
+2024-10-14 13:07:38.167410 Yankee: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel round 2
+ChatterBot Papa round 2
+ChatterBot Lima round 2
+2024-10-14 13:07:38.197339 Juliett: Group up?
+2024-10-14 13:07:38.208828 Yankee: No
+ChatterBot Foxtrot round 2
+ChatterBot Golf round 2
+ChatterBot Tango round 2
+2024-10-14 13:07:38.265766 Hotel: Let's form a team
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:38.281652 Oscar: No
+2024-10-14 13:07:38.282196 Yankee: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:38.322245 Papa: We should replace Golf with Oscar
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:38.355992 Lima: No
+2024-10-14 13:07:38.356183 Foxtrot: Yes
+2024-10-14 13:07:38.356332 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:38.487463 Foxtrot: Let's form a team
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:38.511246 Papa: Yes
+2024-10-14 13:07:38.511386 Lima: No
+2024-10-14 13:07:38.511511 Oscar: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:38.582990 Papa: Let's form a team
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:38.609116 Foxtrot: Yes
+2024-10-14 13:07:38.609253 Lima: No
+2024-10-14 13:07:38.609344 Oscar: Yes
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:38.736900 Lima: We should drop Hotel and Golf
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:38.756143 Papa: Yes
+2024-10-14 13:07:38.756298 Foxtrot: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:38.837363 Golf: We should drop Hotel
+2024-10-14 13:07:38.873468 Papa: Yes
+2024-10-14 13:07:38.874386 Lima: Yes
+2024-10-14 13:07:38.874694 Foxtrot: Yes
+2024-10-14 13:07:38.971552 Juliett: Sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 13:07:39.586601 X-ray: Yankee, sending you 4
+2024-10-14 13:07:39.586959 Yankee: X-ray, sending you 4
+2024-10-14 13:07:39.588044 Oscar: Hotel, sending you 3
+2024-10-14 13:07:39.588477 Hotel: Yankee and Oscar, sending you 8
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 13:07:39.830910 X-ray: Oscar, sending you 3
+2024-10-14 13:07:39.831169 Oscar: Papa, Lima and Foxtrot, sending you 2
+2024-10-14 13:07:39.831857 Yankee: Oscar, sending you 3
+2024-10-14 13:07:39.832030 Papa: Oscar and Foxtrot, sending you 3
+2024-10-14 13:07:39.832248 Foxtrot: Oscar, sending you 2
+2024-10-14 13:07:39.832497 Lima: Papa, sending you 4
+2024-10-14 13:07:39.832677 Golf: Papa, sending you 1
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+2024-10-14 13:07:39.872868 Foxtrot: Papa, sending you 3
+2024-10-14 13:07:39.873172 Papa: Lima, sending you 4
+2024-10-14 13:07:39.873742 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:39.922818 Foxtrot: Lima, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 3
+ChatterBot Juliett round 3
+ChatterBot X-ray round 3
+ChatterBot Oscar round 3
+ChatterBot Hotel round 3
+ChatterBot Papa round 3
+ChatterBot Lima round 3
+2024-10-14 13:07:40.885998 Oscar: We should add Yankee and X-ray
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:40.935997 Hotel: No
+2024-10-14 13:07:40.937238 Papa: No
+2024-10-14 13:07:40.937440 Lima: No
+2024-10-14 13:07:40.937656 Foxtrot: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot round 3
+2024-10-14 13:07:41.136796 X-ray: We should replace Oscar with Tango
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:41.150345 Yankee: No
+2024-10-14 13:07:41.159704 Yankee: We should add Hotel and Tango
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:41.178644 X-ray: No
+2024-10-14 13:07:41.178836 Oscar: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Golf round 3
+2024-10-14 13:07:41.219840 Juliett: We should add X-ray
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:41.229075 Yankee: Yes
+ChatterBot Juliett reevaluating
+ChatterBot Tango round 3
+2024-10-14 13:07:41.277571 Foxtrot: We should add Hotel
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:41.299985 Papa: Yes
+2024-10-14 13:07:41.300152 Lima: No
+2024-10-14 13:07:41.300263 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:41.367560 X-ray: Tango we want you to join our group
+2024-10-14 13:07:41.373150 Tango: No
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:41.441092 Foxtrot: Hotel we want you to join our group
+2024-10-14 13:07:41.450983 Hotel: Yes
+ChatterBot Papa reevaluating
+2024-10-14 13:07:41.481164 Yankee: Hotel and Tango we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:41.496166 Hotel: No
+2024-10-14 13:07:41.496631 Tango: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:41.599568 Papa: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:41.613884 Hotel: Yes
+ChatterBot Papa reevaluating
+2024-10-14 13:07:41.658075 Lima: Papa, sending you 4
+2024-10-14 13:07:41.741903 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:41.742607 Foxtrot: Oscar, Papa and Lima, sending you 2
+2024-10-14 13:07:41.743001 X-ray: Yankee, sending you 4
+2024-10-14 13:07:41.743689 Oscar: Hotel, sending you 3
+2024-10-14 13:07:41.744050 Golf: Papa, sending you 1
+chatterbot X-ray submitting transactions
+2024-10-14 13:07:41.891809 X-ray: Tango, sending you 3
+2024-10-14 13:07:41.892168 Oscar: Papa, Lima and Foxtrot, sending you 2
+2024-10-14 13:07:41.977363 Hotel: Oscar, sending you 8
+2024-10-14 13:07:41.978211 Yankee: X-ray, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-14 13:07:42.018844 Papa: Oscar and Foxtrot, sending you 3
+2024-10-14 13:07:42.020210 Yankee: Oscar and Tango, sending you 1
+2024-10-14 13:07:42.020525 Hotel: Papa, Lima and Foxtrot, sending you 3
+chatterbot Golf submitting transactions
+2024-10-14 13:07:42.066637 Papa: Lima, sending you 4
+chatterbot Juliett submitting transactions
+2024-10-14 13:07:42.067417 Yankee: Hotel, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Yankee round 4
+ChatterBot Juliett round 4
+ChatterBot X-ray round 4
+ChatterBot Oscar round 4
+ChatterBot Hotel round 4
+ChatterBot Papa round 4
+2024-10-14 13:07:42.879023 X-ray: We should replace Tango with Hotel
+2024-10-14 13:07:42.890174 Yankee: No
+ChatterBot Lima round 4
+ChatterBot Foxtrot round 4
+ChatterBot Golf round 4
+2024-10-14 13:07:42.922328 Oscar: We should add Yankee and X-ray
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:42.958819 Hotel: Yes
+2024-10-14 13:07:42.959032 Papa: No
+2024-10-14 13:07:42.959205 Lima: No
+2024-10-14 13:07:42.959348 Foxtrot: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Tango round 4
+2024-10-14 13:07:43.068425 X-ray: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:43.074134 Hotel: No
+2024-10-14 13:07:43.105109 Papa: Yankee and X-ray we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:43.115493 Yankee: No
+2024-10-14 13:07:43.115980 X-ray: No
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:43.252928 Foxtrot: We should drop Hotel
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:43.269539 Papa: No
+2024-10-14 13:07:43.269698 Lima: Yes
+2024-10-14 13:07:43.269799 Oscar: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:43.317068 Yankee: We should drop Tango
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:07:43.332729 X-ray: Yes
+2024-10-14 13:07:43.332857 Oscar: Yes
+2024-10-14 13:07:43.332950 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:43.379024 Tango: Sending you 1
+2024-10-14 13:07:43.383177 Golf: Papa, sending you 1
+2024-10-14 13:07:43.383877 X-ray: Yankee, sending you 4
+2024-10-14 13:07:43.384128 Lima: Papa, sending you 4
+2024-10-14 13:07:43.390398 X-ray: Hotel, sending you 3
+2024-10-14 13:07:43.390636 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:43.400247 Papa: Yankee and X-ray, sending you 1
+2024-10-14 13:07:43.406917 Hotel: Yankee, sending you 7
+2024-10-14 13:07:43.407662 Papa: Oscar, Hotel, Lima and Foxtrot, sending you 2
+2024-10-14 13:07:43.408144 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:43.410690 Hotel: X-ray, sending you 2
+2024-10-14 13:07:43.410999 Oscar: Hotel, sending you 3
+2024-10-14 13:07:43.418543 Hotel: Oscar, sending you 8
+chatterbot X-ray submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 5
+ChatterBot Juliett round 5
+ChatterBot X-ray round 5
+ChatterBot Oscar round 5
+ChatterBot Hotel round 5
+2024-10-14 13:07:44.423801 Yankee: We should replace Tango with Juliett
+2024-10-14 13:07:44.446941 X-ray: No
+2024-10-14 13:07:44.447169 Oscar: No
+2024-10-14 13:07:44.447321 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa round 5
+ChatterBot Lima round 5
+ChatterBot Foxtrot round 5
+ChatterBot Golf round 5
+ChatterBot Tango round 5
+2024-10-14 13:07:44.545607 Foxtrot: We should add Yankee and X-ray
+2024-10-14 13:07:44.569596 Oscar: Yes
+2024-10-14 13:07:44.569751 Hotel: Yes
+2024-10-14 13:07:44.569864 Papa: Yes
+2024-10-14 13:07:44.569968 Lima: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:44.725874 Yankee: We should drop Tango
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:44.754470 X-ray: Yes
+2024-10-14 13:07:44.754734 Oscar: Yes
+2024-10-14 13:07:44.754920 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:44.812695 X-ray: Yankee, sending you 4
+2024-10-14 13:07:44.817682 Foxtrot: Yankee and X-ray we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:44.834758 Yankee: No
+2024-10-14 13:07:44.834998 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:44.927930 X-ray: Hotel, sending you 3
+2024-10-14 13:07:44.932991 Golf: Papa, sending you 1
+2024-10-14 13:07:44.933708 Lima: Papa, sending you 4
+2024-10-14 13:07:44.933908 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:44.934221 Tango: Same as last round
+2024-10-14 13:07:44.934423 Papa: Yankee and X-ray, sending you 1
+2024-10-14 13:07:44.935055 Hotel: Yankee, sending you 6
+2024-10-14 13:07:44.938578 Papa: Oscar, Hotel, Lima and Foxtrot, sending you 2
+2024-10-14 13:07:44.939584 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:44.939908 Oscar: Hotel, sending you 3
+2024-10-14 13:07:44.940717 Hotel: X-ray, sending you 3
+2024-10-14 13:07:44.948235 Hotel: Oscar, sending you 8
+2024-10-14 13:07:45.002113 Yankee: X-ray and Hotel, sending you 3
+2024-10-14 13:07:45.003088 Foxtrot: Yankee, X-ray, Oscar, Hotel, Papa and Lima, sending you 1
+2024-10-14 13:07:45.008538 Yankee: Oscar, sending you 2
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 6
+ChatterBot Juliett round 6
+ChatterBot X-ray round 6
+ChatterBot Oscar round 6
+ChatterBot Hotel round 6
+ChatterBot Papa round 6
+ChatterBot Lima round 6
+ChatterBot Foxtrot round 6
+ChatterBot Golf round 6
+ChatterBot Tango round 6
+2024-10-14 13:07:46.078457 Yankee: We should add Foxtrot
+2024-10-14 13:07:46.094529 X-ray: No
+2024-10-14 13:07:46.095166 Oscar: No
+2024-10-14 13:07:46.095284 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:46.183057 Yankee: We should add Juliett
+2024-10-14 13:07:46.198344 X-ray: No
+2024-10-14 13:07:46.198497 Oscar: No
+2024-10-14 13:07:46.198600 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:46.245670 Hotel: Yankee, sending you 6
+2024-10-14 13:07:46.247661 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:46.249704 Hotel: X-ray, sending you 4
+2024-10-14 13:07:46.252880 Oscar: Hotel, sending you 3
+2024-10-14 13:07:46.253302 Foxtrot: Yankee, X-ray, Oscar, Hotel, Papa and Lima, sending you 1
+2024-10-14 13:07:46.253804 Hotel: Oscar, sending you 7
+2024-10-14 13:07:46.257275 X-ray: Yankee, sending you 4
+2024-10-14 13:07:46.258490 Golf: Papa, sending you 1
+2024-10-14 13:07:46.259828 Papa: Oscar, Hotel and Foxtrot, sending you 2
+2024-10-14 13:07:46.263269 X-ray: Hotel, sending you 3
+2024-10-14 13:07:46.263761 Yankee: X-ray and Hotel, sending you 3
+2024-10-14 13:07:46.264203 Lima: Papa, sending you 4
+2024-10-14 13:07:46.265180 Papa: Lima, sending you 4
+2024-10-14 13:07:46.265754 Tango: X-ray, sending you 1
+2024-10-14 13:07:46.270480 Yankee: Oscar, sending you 2
+2024-10-14 13:07:46.271285 Lima: Foxtrot, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Yankee round 7
+ChatterBot Juliett round 7
+ChatterBot X-ray round 7
+ChatterBot Oscar round 7
+ChatterBot Hotel round 7
+ChatterBot Papa round 7
+ChatterBot Lima round 7
+ChatterBot Foxtrot round 7
+ChatterBot Golf round 7
+ChatterBot Tango round 7
+2024-10-14 13:07:48.575942 Yankee: X-ray and Hotel, sending you 3
+2024-10-14 13:07:48.598995 Golf: Papa, sending you 1
+2024-10-14 13:07:48.599512 X-ray: Yankee, sending you 4
+2024-10-14 13:07:48.600558 Papa: Oscar and Foxtrot, sending you 3
+2024-10-14 13:07:48.600893 Foxtrot: Yankee, X-ray, Oscar, Hotel, Papa and Lima, sending you 1
+2024-10-14 13:07:48.601304 Yankee: Oscar, sending you 2
+2024-10-14 13:07:48.602046 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:48.602437 Lima: Papa, sending you 4
+2024-10-14 13:07:48.602747 Hotel: Yankee, sending you 6
+2024-10-14 13:07:48.603139 X-ray: Hotel, sending you 3
+2024-10-14 13:07:48.603963 Papa: Lima, sending you 4
+2024-10-14 13:07:48.607202 Oscar: Hotel, sending you 3
+2024-10-14 13:07:48.607502 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:48.607763 Hotel: X-ray, sending you 4
+2024-10-14 13:07:48.608135 Tango: X-ray, sending you 1
+2024-10-14 13:07:48.617200 Hotel: Oscar, sending you 7
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 8
+ChatterBot Juliett round 8
+ChatterBot X-ray round 8
+ChatterBot Oscar round 8
+ChatterBot Hotel round 8
+ChatterBot Papa round 8
+ChatterBot Lima round 8
+ChatterBot Foxtrot round 8
+ChatterBot Golf round 8
+ChatterBot Tango round 8
+2024-10-14 13:07:49.638572 X-ray: Yankee, sending you 4
+2024-10-14 13:07:49.639199 Hotel: Yankee and Oscar, sending you 6
+2024-10-14 13:07:49.640289 Lima: Papa, sending you 4
+2024-10-14 13:07:49.653337 X-ray: Hotel, sending you 3
+2024-10-14 13:07:49.654198 Foxtrot: X-ray, Oscar, Hotel and Papa, sending you 1
+2024-10-14 13:07:49.655890 Papa: Oscar, sending you 6
+2024-10-14 13:07:49.656906 Hotel: X-ray, sending you 5
+2024-10-14 13:07:49.657520 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:49.658403 Golf: Papa, sending you 1
+2024-10-14 13:07:49.659033 Yankee: X-ray and Hotel, sending you 3
+2024-10-14 13:07:49.660016 Foxtrot: Lima, sending you 2
+2024-10-14 13:07:49.661021 Papa: Hotel, sending you 4
+2024-10-14 13:07:49.661473 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:49.684325 Yankee: Oscar, sending you 2
+2024-10-14 13:07:49.685564 Oscar: Hotel, sending you 3
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Yankee round 9
+ChatterBot Juliett round 9
+ChatterBot X-ray round 9
+ChatterBot Oscar round 9
+ChatterBot Hotel round 9
+ChatterBot Papa round 9
+2024-10-14 13:07:50.797479 Papa: We should add Lima and Foxtrot
+2024-10-14 13:07:50.818438 Oscar: No
+2024-10-14 13:07:50.818705 Yankee: No
+2024-10-14 13:07:50.818885 X-ray: No
+2024-10-14 13:07:50.819044 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:50.898514 Hotel: We should add Papa
+ChatterBot Yankee reevaluating
+2024-10-14 13:07:50.909981 Yankee: Yes
+2024-10-14 13:07:50.910131 X-ray: No
+2024-10-14 13:07:50.910225 Oscar: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima round 9
+ChatterBot Foxtrot round 9
+ChatterBot Golf round 9
+ChatterBot Tango round 9
+2024-10-14 13:07:51.102042 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:07:51.104885 Foxtrot: X-ray, Oscar, Hotel and Papa, sending you 1
+2024-10-14 13:07:51.107692 Yankee: Hotel, sending you 3
+2024-10-14 13:07:51.110115 Papa: Oscar, sending you 6
+2024-10-14 13:07:51.114588 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:51.115672 Lima: Papa, sending you 4
+2024-10-14 13:07:51.117456 Foxtrot: Lima, sending you 2
+2024-10-14 13:07:51.119965 Tango: X-ray, sending you 1
+2024-10-14 13:07:51.121557 Hotel: Yankee and Oscar, sending you 6
+2024-10-14 13:07:51.123552 Yankee: Papa, sending you 1
+2024-10-14 13:07:51.125329 Papa: Hotel, sending you 4
+2024-10-14 13:07:51.126364 X-ray: Yankee, sending you 4
+2024-10-14 13:07:51.127702 Golf: Papa, sending you 1
+2024-10-14 13:07:51.128542 Oscar: Hotel, sending you 3
+2024-10-14 13:07:51.130162 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:51.131008 Hotel: X-ray, sending you 5
+2024-10-14 13:07:51.132437 X-ray: Hotel, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Yankee round 10
+ChatterBot Juliett round 10
+ChatterBot X-ray round 10
+ChatterBot Oscar round 10
+ChatterBot Hotel round 10
+ChatterBot Papa round 10
+ChatterBot Lima round 10
+ChatterBot Foxtrot round 10
+ChatterBot Golf round 10
+ChatterBot Tango round 10
+2024-10-14 13:07:52.234102 Hotel: We should add Papa
+2024-10-14 13:07:52.250007 Yankee: Yes
+2024-10-14 13:07:52.250157 X-ray: No
+2024-10-14 13:07:52.250269 Oscar: Yes
+2024-10-14 13:07:52.315747 Hotel: Papa we want you to join our group
+2024-10-14 13:07:52.321538 Papa: No
+2024-10-14 13:07:52.351188 X-ray: Yankee, sending you 3
+2024-10-14 13:07:52.352204 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:07:52.352898 Papa: Juliett and Foxtrot, sending you 3
+2024-10-14 13:07:52.354201 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:52.359658 X-ray: Hotel, sending you 4
+2024-10-14 13:07:52.360179 Yankee: Hotel, sending you 3
+2024-10-14 13:07:52.361216 Papa: Lima, sending you 4
+2024-10-14 13:07:52.361625 Oscar: Hotel, sending you 3
+2024-10-14 13:07:52.362190 Golf: Papa, sending you 1
+2024-10-14 13:07:52.363297 Foxtrot: X-ray, Oscar, Hotel and Papa, sending you 1
+2024-10-14 13:07:52.364206 Hotel: Yankee and Oscar, sending you 5
+2024-10-14 13:07:52.365331 Tango: Same as last round
+2024-10-14 13:07:52.370763 Yankee: Papa, sending you 1
+2024-10-14 13:07:52.371638 Lima: Papa, sending you 4
+2024-10-14 13:07:52.372731 Foxtrot: Lima, sending you 2
+2024-10-14 13:07:52.373313 Hotel: X-ray, sending you 4
+2024-10-14 13:07:52.378183 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:52.380541 Hotel: Papa, sending you 3
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 11
+ChatterBot Juliett round 11
+ChatterBot X-ray round 11
+ChatterBot Oscar round 11
+ChatterBot Hotel round 11
+ChatterBot Papa round 11
+ChatterBot Lima round 11
+ChatterBot Foxtrot round 11
+ChatterBot Golf round 11
+ChatterBot Tango round 11
+2024-10-14 13:07:53.809336 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:53.832561 Papa: Yankee and Hotel, sending you 3
+2024-10-14 13:07:53.833164 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:07:53.834097 Hotel: Yankee and Oscar, sending you 6
+2024-10-14 13:07:53.834478 Foxtrot: X-ray, Oscar, Hotel and Papa, sending you 1
+2024-10-14 13:07:53.834924 Lima: Papa, sending you 4
+2024-10-14 13:07:53.835606 Golf: Papa, sending you 1
+2024-10-14 13:07:53.835926 Oscar: Hotel, sending you 3
+2024-10-14 13:07:53.836293 X-ray: Yankee, sending you 3
+2024-10-14 13:07:53.845071 Papa: Oscar, sending you 4
+2024-10-14 13:07:53.846358 Yankee: Hotel, sending you 3
+2024-10-14 13:07:53.847485 Hotel: X-ray, sending you 5
+2024-10-14 13:07:53.853853 Foxtrot: Lima, sending you 2
+2024-10-14 13:07:53.855245 Lima: Foxtrot, sending you 3
+2024-10-14 13:07:53.857232 X-ray: Hotel, sending you 4
+2024-10-14 13:07:53.857816 Yankee: Papa, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 12
+ChatterBot Juliett round 12
+ChatterBot X-ray round 12
+ChatterBot Oscar round 12
+ChatterBot Hotel round 12
+ChatterBot Papa round 12
+ChatterBot Lima round 12
+ChatterBot Foxtrot round 12
+ChatterBot Golf round 12
+ChatterBot Tango round 12
+2024-10-14 13:07:54.821515 Hotel: We should add Papa
+2024-10-14 13:07:54.840515 Yankee: Yes
+2024-10-14 13:07:54.840681 X-ray: No
+2024-10-14 13:07:54.840799 Oscar: Yes
+2024-10-14 13:07:54.943433 Hotel: Papa we want you to join our group
+2024-10-14 13:07:54.949510 Papa: Yes
+2024-10-14 13:07:54.974946 Juliett: Sending you 1
+2024-10-14 13:07:54.976961 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:07:54.977945 X-ray: Yankee, sending you 3
+2024-10-14 13:07:54.981679 Foxtrot: X-ray, Oscar, Hotel and Papa, sending you 1
+2024-10-14 13:07:54.984517 Hotel: Yankee, X-ray and Oscar, sending you 5
+2024-10-14 13:07:54.986605 Yankee: Hotel, sending you 3
+2024-10-14 13:07:54.988479 X-ray: Hotel, sending you 4
+2024-10-14 13:07:54.989418 Golf: Papa, sending you 1
+2024-10-14 13:07:54.990719 Foxtrot: Lima, sending you 2
+2024-10-14 13:07:54.992522 Hotel: Papa, sending you 2
+2024-10-14 13:07:54.994320 Yankee: Papa, sending you 1
+2024-10-14 13:07:54.996198 Tango: X-ray, sending you 1
+2024-10-14 13:07:54.996661 Papa: Yankee and Hotel, sending you 3
+2024-10-14 13:07:54.997514 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:54.998060 Lima: Papa, sending you 4
+2024-10-14 13:07:55.000846 Papa: Oscar, sending you 4
+2024-10-14 13:07:55.003295 Oscar: Hotel, sending you 3
+2024-10-14 13:07:55.004401 Lima: Foxtrot, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Yankee round 13
+ChatterBot Juliett round 13
+ChatterBot X-ray round 13
+ChatterBot Oscar round 13
+ChatterBot Hotel round 13
+ChatterBot Papa round 13
+ChatterBot Lima round 13
+ChatterBot Foxtrot round 13
+ChatterBot Golf round 13
+ChatterBot Tango round 13
+2024-10-14 13:07:56.787740 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:56.821387 X-ray: Yankee, sending you 3
+2024-10-14 13:07:56.822428 Foxtrot: X-ray, Oscar, Hotel and Papa, sending you 1
+2024-10-14 13:07:56.824240 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:07:56.824888 Oscar: Hotel, sending you 3
+2024-10-14 13:07:56.826108 Papa: Yankee and Hotel, sending you 3
+2024-10-14 13:07:56.827553 Lima: Papa, sending you 3
+2024-10-14 13:07:56.828154 Hotel: Yankee, X-ray and Oscar, sending you 5
+2024-10-14 13:07:56.829686 X-ray: Hotel, sending you 4
+2024-10-14 13:07:56.831176 Yankee: Hotel, sending you 3
+2024-10-14 13:07:56.832723 Foxtrot: Lima, sending you 2
+2024-10-14 13:07:56.834575 Papa: Oscar, sending you 4
+2024-10-14 13:07:56.836229 Lima: Foxtrot, sending you 4
+2024-10-14 13:07:56.837500 Hotel: Papa, sending you 2
+2024-10-14 13:07:56.838827 Golf: Papa, sending you 1
+2024-10-14 13:07:56.840159 Tango: Sending you 1
+2024-10-14 13:07:56.840535 Yankee: Papa, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 14
+ChatterBot Juliett round 14
+ChatterBot X-ray round 14
+ChatterBot Oscar round 14
+ChatterBot Hotel round 14
+ChatterBot Papa round 14
+ChatterBot Lima round 14
+ChatterBot Foxtrot round 14
+ChatterBot Golf round 14
+ChatterBot Tango round 14
+2024-10-14 13:07:57.963170 X-ray: We should add Papa
+2024-10-14 13:07:57.977014 Yankee: Yes
+2024-10-14 13:07:57.977206 Hotel: Yes
+2024-10-14 13:07:58.030217 Oscar: We should add Foxtrot
+2024-10-14 13:07:58.048815 Yankee: No
+2024-10-14 13:07:58.048972 X-ray: No
+2024-10-14 13:07:58.049077 Hotel: No
+2024-10-14 13:07:58.049192 Papa: No
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:58.176135 X-ray: Papa we want you to join our group
+2024-10-14 13:07:58.182338 Papa: Yes
+2024-10-14 13:07:58.199167 Foxtrot: We should drop Lima
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:58.235724 Yankee: Yes
+2024-10-14 13:07:58.235977 X-ray: Yes
+2024-10-14 13:07:58.236478 Oscar: Yes
+2024-10-14 13:07:58.236636 Hotel: Yes
+2024-10-14 13:07:58.236789 Papa: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:58.539240 Golf: We should drop Papa
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:58.550365 Lima: No
+2024-10-14 13:07:58.550530 Foxtrot: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:07:58.603057 Juliett: Sending you 1
+2024-10-14 13:07:58.604170 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:07:58.605361 Papa: Yankee and Hotel, sending you 3
+2024-10-14 13:07:58.607194 Tango: Same as last round
+2024-10-14 13:07:58.608221 Lima: Papa, sending you 3
+2024-10-14 13:07:58.608726 Yankee: X-ray and Oscar, sending you 2
+chatterbot Papa submitting transactions
+2024-10-14 13:07:58.610156 Hotel: Oscar, sending you 4
+2024-10-14 13:07:58.673292 Papa: Oscar, sending you 4
+2024-10-14 13:07:58.674881 Lima: Foxtrot, sending you 4
+2024-10-14 13:07:58.676245 Yankee: Hotel, sending you 3
+2024-10-14 13:07:58.678196 Golf: Foxtrot, sending you 1
+2024-10-14 13:07:58.678590 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:07:58.679009 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:58.680859 Hotel: Papa, sending you 3
+2024-10-14 13:07:58.683834 Yankee: Papa, sending you 1
+2024-10-14 13:07:58.686079 X-ray: Hotel, sending you 3
+2024-10-14 13:07:58.687445 Oscar: Hotel, sending you 3
+2024-10-14 13:07:58.709382 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:07:58.724016 Foxtrot: Papa, sending you 2
+chatterbot Juliett submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Yankee round 15
+ChatterBot Juliett round 15
+ChatterBot X-ray round 15
+ChatterBot Oscar round 15
+ChatterBot Hotel round 15
+ChatterBot Papa round 15
+ChatterBot Lima round 15
+ChatterBot Foxtrot round 15
+ChatterBot Golf round 15
+ChatterBot Tango round 15
+2024-10-14 13:07:59.562485 Papa: We should add Golf
+ChatterBot Oscar reevaluating
+2024-10-14 13:07:59.580136 Oscar: Yes
+2024-10-14 13:07:59.580300 Yankee: No
+2024-10-14 13:07:59.580407 X-ray: No
+2024-10-14 13:07:59.580508 Hotel: No
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:07:59.741886 Golf: We should drop Foxtrot
+2024-10-14 13:07:59.747571 Lima: No
+ChatterBot Golf reevaluating
+2024-10-14 13:07:59.757700 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:07:59.759677 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:07:59.762188 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:07:59.764689 X-ray: Hotel, sending you 3
+2024-10-14 13:07:59.765684 Yankee: Hotel, sending you 3
+2024-10-14 13:07:59.767598 Foxtrot: Papa, sending you 2
+2024-10-14 13:07:59.769480 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:07:59.770172 Lima: Papa, sending you 3
+2024-10-14 13:07:59.771683 Yankee: Papa, sending you 1
+2024-10-14 13:07:59.775295 Oscar: Hotel, sending you 3
+2024-10-14 13:07:59.776022 Juliett: Same as last round
+2024-10-14 13:07:59.776336 Lima: Foxtrot, sending you 4
+2024-10-14 13:07:59.778007 Golf: Foxtrot, sending you 1
+2024-10-14 13:07:59.778337 Tango: Same as last round
+2024-10-14 13:07:59.780013 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:07:59.784677 Hotel: Oscar, sending you 4
+2024-10-14 13:07:59.786042 Papa: Yankee and X-ray, sending you 2
+2024-10-14 13:07:59.788680 Hotel: Papa, sending you 3
+2024-10-14 13:07:59.791937 Papa: Oscar and Hotel, sending you 3
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 16
+ChatterBot Juliett round 16
+ChatterBot X-ray round 16
+ChatterBot Oscar round 16
+ChatterBot Hotel round 16
+ChatterBot Papa round 16
+ChatterBot Lima round 16
+ChatterBot Foxtrot round 16
+ChatterBot Golf round 16
+ChatterBot Tango round 16
+2024-10-14 13:08:01.106715 Juliett: Same as last round
+2024-10-14 13:08:01.107695 Lima: Papa, sending you 3
+2024-10-14 13:08:01.109674 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:01.111075 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:01.111911 Lima: Foxtrot, sending you 4
+2024-10-14 13:08:01.113254 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:01.115815 Foxtrot: Papa, sending you 2
+2024-10-14 13:08:01.118761 Yankee: Hotel, sending you 3
+2024-10-14 13:08:01.120339 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:01.122028 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:01.123501 Papa: Yankee and X-ray, sending you 2
+2024-10-14 13:08:01.124142 Oscar: Hotel, sending you 3
+2024-10-14 13:08:01.125240 Golf: Foxtrot, sending you 1
+2024-10-14 13:08:01.125703 Yankee: Papa, sending you 1
+2024-10-14 13:08:01.126463 Hotel: Oscar, sending you 4
+2024-10-14 13:08:01.128137 X-ray: Hotel, sending you 3
+2024-10-14 13:08:01.128508 Papa: Oscar and Hotel, sending you 3
+2024-10-14 13:08:01.130687 Hotel: Papa, sending you 3
+2024-10-14 13:08:01.132683 Tango: Same as last round
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Yankee round 17
+ChatterBot Juliett round 17
+ChatterBot X-ray round 17
+ChatterBot Oscar round 17
+ChatterBot Hotel round 17
+ChatterBot Papa round 17
+ChatterBot Lima round 17
+ChatterBot Foxtrot round 17
+ChatterBot Golf round 17
+ChatterBot Tango round 17
+2024-10-14 13:08:02.287062 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:02.289577 Juliett: Same as last round
+2024-10-14 13:08:02.289937 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:02.291443 Golf: Foxtrot, sending you 1
+2024-10-14 13:08:02.292214 Tango: Same as last round
+2024-10-14 13:08:02.292461 Papa: Yankee and X-ray, sending you 2
+2024-10-14 13:08:02.293069 Lima: Papa, sending you 3
+2024-10-14 13:08:02.294104 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:02.294590 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:02.295983 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:02.296389 Oscar: Hotel, sending you 3
+2024-10-14 13:08:02.297715 Yankee: Hotel, sending you 3
+2024-10-14 13:08:02.299698 Papa: Oscar and Hotel, sending you 3
+2024-10-14 13:08:02.301479 Foxtrot: Papa, sending you 2
+2024-10-14 13:08:02.302745 Lima: Foxtrot, sending you 4
+2024-10-14 13:08:02.303138 Hotel: Oscar, sending you 4
+2024-10-14 13:08:02.304236 X-ray: Hotel, sending you 3
+2024-10-14 13:08:02.304713 Yankee: Papa, sending you 1
+2024-10-14 13:08:02.309822 Hotel: Papa, sending you 3
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Yankee round 18
+ChatterBot Juliett round 18
+ChatterBot X-ray round 18
+ChatterBot Oscar round 18
+ChatterBot Hotel round 18
+ChatterBot Papa round 18
+ChatterBot Lima round 18
+ChatterBot Foxtrot round 18
+ChatterBot Golf round 18
+ChatterBot Tango round 18
+2024-10-14 13:08:03.481879 Tango: We should add Lima
+2024-10-14 13:08:03.486115 Juliett: No
+ChatterBot Tango reevaluating
+2024-10-14 13:08:03.514707 Juliett: Same as last round
+2024-10-14 13:08:03.522693 Papa: Yankee and X-ray, sending you 2
+2024-10-14 13:08:03.523979 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:03.524789 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:03.525903 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:03.528400 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:03.529524 Golf: Foxtrot, sending you 1
+2024-10-14 13:08:03.533909 Papa: Oscar and Hotel, sending you 3
+2024-10-14 13:08:03.535850 X-ray: Hotel, sending you 3
+2024-10-14 13:08:03.536504 Lima: Papa, sending you 3
+2024-10-14 13:08:03.537069 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:03.539332 Hotel: Oscar, sending you 4
+2024-10-14 13:08:03.541803 Foxtrot: Papa, sending you 2
+2024-10-14 13:08:03.545218 Yankee: Hotel, sending you 3
+2024-10-14 13:08:03.547410 Lima: Foxtrot, sending you 4
+2024-10-14 13:08:03.548062 Oscar: Hotel, sending you 3
+2024-10-14 13:08:03.550307 Hotel: Papa, sending you 3
+2024-10-14 13:08:03.551434 Tango: Same as last round
+2024-10-14 13:08:03.553073 Yankee: Papa, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Yankee round 19
+ChatterBot Juliett round 19
+ChatterBot X-ray round 19
+ChatterBot Oscar round 19
+ChatterBot Hotel round 19
+ChatterBot Papa round 19
+ChatterBot Lima round 19
+ChatterBot Foxtrot round 19
+ChatterBot Golf round 19
+ChatterBot Tango round 19
+2024-10-14 13:08:04.982296 Golf: We should drop Foxtrot
+2024-10-14 13:08:04.986881 Lima: No
+2024-10-14 13:08:04.994668 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:04.997894 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:05.001846 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:05.004827 Oscar: Hotel, sending you 3
+2024-10-14 13:08:05.007021 Yankee: Hotel, sending you 3
+2024-10-14 13:08:05.008848 Lima: Papa, sending you 3
+2024-10-14 13:08:05.009691 Hotel: Oscar, sending you 4
+2024-10-14 13:08:05.011721 Yankee: Papa, sending you 1
+2024-10-14 13:08:05.013497 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:05.014434 Lima: Foxtrot, sending you 4
+2024-10-14 13:08:05.014854 Tango: Same as last round
+2024-10-14 13:08:05.015104 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:05.016577 Juliett: Same as last round
+2024-10-14 13:08:05.016971 Papa: Yankee and X-ray, sending you 2
+2024-10-14 13:08:05.018261 Hotel: Papa, sending you 3
+2024-10-14 13:08:05.019063 X-ray: Hotel, sending you 3
+2024-10-14 13:08:05.020147 Golf: Sending you 1
+2024-10-14 13:08:05.020568 Foxtrot: Papa, sending you 2
+2024-10-14 13:08:05.022700 Papa: Oscar and Hotel, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 20
+ChatterBot Juliett round 20
+ChatterBot X-ray round 20
+ChatterBot Oscar round 20
+ChatterBot Hotel round 20
+ChatterBot Papa round 20
+ChatterBot Lima round 20
+ChatterBot Foxtrot round 20
+ChatterBot Golf round 20
+ChatterBot Tango round 20
+2024-10-14 13:08:06.312260 Golf: Same as last round
+2024-10-14 13:08:06.312960 Papa: Yankee, sending you 1
+2024-10-14 13:08:06.317710 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:06.318865 Tango: Same as last round
+2024-10-14 13:08:06.320344 Papa: X-ray, Oscar and Hotel, sending you 3
+2024-10-14 13:08:06.321598 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:06.323334 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:06.324118 Hotel: Oscar, sending you 4
+2024-10-14 13:08:06.326524 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:06.327772 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:06.330740 Juliett: Same as last round
+2024-10-14 13:08:06.331331 X-ray: Hotel, sending you 3
+2024-10-14 13:08:06.333655 Yankee: Hotel, sending you 3
+2024-10-14 13:08:06.336321 Hotel: Papa, sending you 3
+2024-10-14 13:08:06.339108 Oscar: Hotel, sending you 3
+2024-10-14 13:08:06.341463 Foxtrot: Papa, sending you 2
+2024-10-14 13:08:06.344474 Lima: Papa, sending you 3
+2024-10-14 13:08:06.347240 Yankee: Papa, sending you 1
+2024-10-14 13:08:06.350611 Lima: Foxtrot, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Yankee round 21
+ChatterBot Juliett round 21
+ChatterBot X-ray round 21
+ChatterBot Oscar round 21
+ChatterBot Hotel round 21
+ChatterBot Papa round 21
+ChatterBot Lima round 21
+ChatterBot Foxtrot round 21
+ChatterBot Golf round 21
+ChatterBot Tango round 21
+2024-10-14 13:08:07.698187 Lima: We should replace Papa with Oscar
+2024-10-14 13:08:07.704046 Foxtrot: No
+ChatterBot Lima reevaluating
+2024-10-14 13:08:07.734666 Golf: We should add Foxtrot
+ChatterBot Lima reevaluating
+2024-10-14 13:08:07.740784 Lima: Yes
+2024-10-14 13:08:07.746001 Lima: We should replace Papa with Golf
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:07.751525 Foxtrot: Yes
+ChatterBot Lima reevaluating
+2024-10-14 13:08:07.759661 Golf: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:07.769292 Foxtrot: Yes
+ChatterBot Lima reevaluating
+2024-10-14 13:08:07.844956 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:07.847229 Papa: Yankee, sending you 1
+2024-10-14 13:08:07.848227 Yankee: Hotel, sending you 2
+2024-10-14 13:08:07.849343 Tango: Same as last round
+2024-10-14 13:08:07.849597 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:07.850435 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:07.851248 Juliett: Same as last round
+2024-10-14 13:08:07.851595 Lima: Golf we want you to join our group
+2024-10-14 13:08:07.855669 Golf: Yes
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:07.864438 Papa: X-ray, Oscar and Hotel, sending you 3
+2024-10-14 13:08:07.866972 Oscar: Hotel, sending you 3
+2024-10-14 13:08:07.867756 X-ray: Hotel, sending you 3
+2024-10-14 13:08:07.868957 Hotel: Oscar, sending you 4
+2024-10-14 13:08:07.869747 Golf: Foxtrot, sending you 1
+2024-10-14 13:08:07.929191 Hotel: Papa, sending you 3
+2024-10-14 13:08:07.988091 Foxtrot: Lima, sending you 4
+2024-10-14 13:08:08.031545 Foxtrot: Golf, sending you 2
+2024-10-14 13:08:08.032111 Lima: Foxtrot, sending you 4
+chatterbot Oscar submitting transactions
+2024-10-14 13:08:08.072389 Lima: Golf, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Juliett submitting transactions
+ChatterBot Yankee round 22
+ChatterBot Juliett round 22
+ChatterBot X-ray round 22
+ChatterBot Oscar round 22
+ChatterBot Hotel round 22
+ChatterBot Papa round 22
+ChatterBot Lima round 22
+ChatterBot Foxtrot round 22
+ChatterBot Golf round 22
+ChatterBot Tango round 22
+2024-10-14 13:08:09.863261 Lima: We should add Oscar
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:09.927485 Golf: No
+2024-10-14 13:08:09.928093 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:09.960196 Foxtrot: We should add Juliett
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:09.982063 Golf: No
+2024-10-14 13:08:09.983629 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.013442 Foxtrot: We should add Tango
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:10.027248 Golf: No
+2024-10-14 13:08:10.027441 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.108949 Lima: We should add Hotel
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.122341 Golf: No
+2024-10-14 13:08:10.122996 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:10.153007 Lima: We should add Papa
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.166098 Golf: No
+2024-10-14 13:08:10.166280 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:10.193045 Lima: We should add Juliett and Tango
+ChatterBot Golf reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.206956 Golf: No
+2024-10-14 13:08:10.207112 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:10.231488 Foxtrot: Tango we want you to join our group
+2024-10-14 13:08:10.237966 Tango: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:10.253629 Lima: We should add X-ray
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.264021 Golf: Yes
+2024-10-14 13:08:10.264192 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 13:08:10.324564 Oscar: Yankee, X-ray and Papa, sending you 2
+2024-10-14 13:08:10.328264 Lima: X-ray we want you to join our group
+2024-10-14 13:08:10.333318 X-ray: No
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:10.348285 Hotel: Yankee, Oscar and Papa, sending you 4
+2024-10-14 13:08:10.351115 Juliett: Same as last round
+2024-10-14 13:08:10.351456 Papa: Yankee, sending you 1
+2024-10-14 13:08:10.353219 X-ray: Yankee and Papa, sending you 2
+2024-10-14 13:08:10.354792 Tango: Same as last round
+2024-10-14 13:08:10.355119 Yankee: Sending you each 1
+2024-10-14 13:08:10.357241 Oscar: Hotel, sending you 3
+2024-10-14 13:08:10.359478 Hotel: X-ray, sending you 5
+2024-10-14 13:08:10.361265 Papa: X-ray, Oscar and Hotel, sending you 3
+2024-10-14 13:08:10.364080 X-ray: Hotel, sending you 3
+2024-10-14 13:08:10.366020 Golf: Foxtrot, sending you 1
+2024-10-14 13:08:10.390317 Foxtrot: Lima, sending you 3
+2024-10-14 13:08:11.287394 Foxtrot: Golf, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+2024-10-14 13:08:11.294152 Foxtrot: Tango, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Yankee round 23
+ChatterBot Juliett round 23
+ChatterBot X-ray round 23
+ChatterBot Oscar round 23
+ChatterBot Hotel round 23
+ChatterBot Papa round 23
+ChatterBot Lima round 23
+ChatterBot Foxtrot round 23
+ChatterBot Golf round 23
+ChatterBot Tango round 23
+2024-10-14 13:08:12.393994 Tango: We should add Foxtrot
+2024-10-14 13:08:12.403383 Juliett: No
+ChatterBot Tango reevaluating
+2024-10-14 13:08:12.421669 Papa: We should drop Yankee
+ChatterBot X-ray reevaluating
+2024-10-14 13:08:12.436228 X-ray: Yes
+2024-10-14 13:08:12.436536 Oscar: No
+2024-10-14 13:08:12.436835 Hotel: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:08:12.572027 Oscar: We should drop X-ray
+ChatterBot Papa reevaluating
+2024-10-14 13:08:12.585415 Yankee: Yes
+2024-10-14 13:08:12.585560 Hotel: Yes
+2024-10-14 13:08:12.585671 Papa: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:12.633822 Lima: I was attacked by Yankee
+2024-10-14 13:08:12.634850 Lima: I'm keeping this round to protect myself
+2024-10-14 13:08:12.635822 Lima: Ow
+2024-10-14 13:08:12.638537 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:12.642963 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:12.647658 Hotel: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 13:08:12.661633 Tango: No
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 13:08:12.696417 Juliett: Same as last round
+2024-10-14 13:08:12.697244 Yankee: Hotel, sending you 3
+2024-10-14 13:08:12.701841 Foxtrot: Papa, sending you 2
+chatterbot Yankee submitting transactions
+2024-10-14 13:08:12.706770 Yankee: Papa, sending you 1
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+2024-10-14 13:08:12.893607 Hotel: Yankee, Oscar and Papa, sending you 4
+2024-10-14 13:08:13.145747 Hotel: X-ray, sending you 5
+2024-10-14 13:08:13.150624 Oscar: Sending you each 3
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 24
+ChatterBot Juliett round 24
+ChatterBot X-ray round 24
+ChatterBot Oscar round 24
+ChatterBot Hotel round 24
+ChatterBot Papa round 24
+ChatterBot Lima round 24
+ChatterBot Foxtrot round 24
+ChatterBot Golf round 24
+ChatterBot Tango round 24
+2024-10-14 13:08:14.150806 Tango: We should add Foxtrot
+2024-10-14 13:08:14.157318 Juliett: No
+ChatterBot Tango reevaluating
+2024-10-14 13:08:14.181896 Papa: We should drop X-ray
+2024-10-14 13:08:14.195344 Oscar: Yes
+2024-10-14 13:08:14.195528 Yankee: Yes
+2024-10-14 13:08:14.195669 Hotel: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 13:08:14.586038 Oscar: Same as last round
+2024-10-14 13:08:14.587676 Juliett: Same as last round
+2024-10-14 13:08:14.590954 Papa: Yankee and Oscar, sending you 3
+2024-10-14 13:08:14.597932 Tango: Same as last round
+2024-10-14 13:08:14.598590 Foxtrot: Yankee, X-ray, Oscar and Hotel, sending you 1
+2024-10-14 13:08:14.602935 Papa: Hotel, sending you 4
+2024-10-14 13:08:14.608784 Foxtrot: Papa, sending you 2
+2024-10-14 13:08:14.611478 Hotel: Yankee, Oscar and Papa, sending you 4
+2024-10-14 13:08:14.614545 Yankee: X-ray and Oscar, sending you 2
+2024-10-14 13:08:14.617563 Hotel: X-ray, sending you 5
+2024-10-14 13:08:14.624260 Yankee: Hotel, sending you 3
+2024-10-14 13:08:14.634662 Yankee: Papa, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 25
+ChatterBot Juliett round 25
+ChatterBot X-ray round 25
+ChatterBot Oscar round 25
+ChatterBot Hotel round 25
+ChatterBot Papa round 25
+ChatterBot Lima round 25
+ChatterBot Foxtrot round 25
+ChatterBot Golf round 25
+ChatterBot Tango round 25
+2024-10-14 13:08:15.573023 X-ray: We should replace Yankee with Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:15.627186 Hotel: No
+2024-10-14 13:08:15.627652 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:15.658197 Hotel: We should add Foxtrot
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 13:08:15.677583 Oscar: No
+2024-10-14 13:08:15.677874 Yankee: Yes
+2024-10-14 13:08:15.678097 X-ray: No
+2024-10-14 13:08:15.678368 Papa: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:15.773789 Tango: We should add Foxtrot and Golf
+2024-10-14 13:08:15.777154 Juliett: No
+ChatterBot Tango reevaluating
+2024-10-14 13:08:15.792081 Yankee: We should drop X-ray
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:15.805456 Oscar: Yes
+2024-10-14 13:08:15.805611 Hotel: Yes
+2024-10-14 13:08:15.805753 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:15.917086 Juliett: Same as last round
+2024-10-14 13:08:15.917996 Oscar: Same as last round
+2024-10-14 13:08:15.919766 Foxtrot: Juliett, sending you 2
+2024-10-14 13:08:15.921128 Papa: Yankee and Oscar, sending you 3
+2024-10-14 13:08:15.928528 Tango: Same as last round
+2024-10-14 13:08:15.929914 Foxtrot: Golf, sending you 4
+2024-10-14 13:08:15.930493 Papa: Hotel, sending you 4
+2024-10-14 13:08:15.965519 Hotel: Yankee, sending you 7
+2024-10-14 13:08:16.009151 Hotel: Oscar and Papa, sending you 5
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Yankee round 26
+ChatterBot Juliett round 26
+ChatterBot X-ray round 26
+ChatterBot Oscar round 26
+ChatterBot Hotel round 26
+ChatterBot Papa round 26
+ChatterBot Lima round 26
+ChatterBot Foxtrot round 26
+ChatterBot Golf round 26
+ChatterBot Tango round 26
+2024-10-14 13:08:17.008834 Tango: We should add Foxtrot
+2024-10-14 13:08:17.013334 Juliett: Yes
+2024-10-14 13:08:17.056216 Tango: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:17.063607 Foxtrot: Yes
+2024-10-14 13:08:17.071088 Foxtrot: We should replace Golf with Tango
+2024-10-14 13:08:17.077094 Juliett: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:17.083445 Yankee: We should drop X-ray
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:17.096640 Oscar: Yes
+2024-10-14 13:08:17.096864 Hotel: Yes
+2024-10-14 13:08:17.096989 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:17.151841 Juliett: Tango, sending you 1
+2024-10-14 13:08:17.153665 Papa: Yankee and Oscar, sending you 3
+2024-10-14 13:08:17.157524 Hotel: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 13:08:17.166645 X-ray: No
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:17.187533 X-ray: We should replace Yankee with Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:17.213373 Hotel: No
+2024-10-14 13:08:17.213543 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:17.330031 Foxtrot: Tango we want you to join our group
+2024-10-14 13:08:17.335370 Tango: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 13:08:17.345786 Papa: Hotel, sending you 4
+2024-10-14 13:08:17.351701 Tango: Juliett, sending you 1
+2024-10-14 13:08:17.353605 Oscar: Same as last round
+2024-10-14 13:08:17.358249 Yankee: Oscar and Papa, sending you 2
+2024-10-14 13:08:17.429362 Yankee: Hotel, sending you 3
+2024-10-14 13:08:17.484065 Foxtrot: Juliett, sending you 6
+2024-10-14 13:08:17.485914 Hotel: Yankee and X-ray, sending you 5
+2024-10-14 13:08:17.505741 Hotel: Oscar, sending you 3
+2024-10-14 13:08:17.525007 Hotel: Papa, sending you 4
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Yankee round 27
+ChatterBot Juliett round 27
+ChatterBot X-ray round 27
+ChatterBot Oscar round 27
+ChatterBot Hotel round 27
+ChatterBot Papa round 27
+ChatterBot Lima round 27
+ChatterBot Foxtrot round 27
+ChatterBot Golf round 27
+ChatterBot Tango round 27
+2024-10-14 13:08:18.401854 Hotel: We should drop X-ray
+2024-10-14 13:08:18.415795 Oscar: Yes
+2024-10-14 13:08:18.415954 Yankee: Yes
+2024-10-14 13:08:18.416073 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:18.512022 Papa: Yankee and Oscar, sending you 3
+2024-10-14 13:08:18.514605 Yankee: Oscar and Hotel, sending you 1
+2024-10-14 13:08:18.565240 Papa: Hotel, sending you 4
+2024-10-14 13:08:18.568376 Foxtrot: Juliett, sending you 6
+2024-10-14 13:08:18.569078 Tango: Juliett, sending you 1
+2024-10-14 13:08:18.570082 Juliett: Tango, sending you 1
+2024-10-14 13:08:18.570548 Oscar: Same as last round
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Yankee round 28
+ChatterBot Juliett round 28
+ChatterBot X-ray round 28
+ChatterBot Oscar round 28
+ChatterBot Hotel round 28
+ChatterBot Papa round 28
+ChatterBot Lima round 28
+ChatterBot Foxtrot round 28
+ChatterBot Golf round 28
+ChatterBot Tango round 28
+2024-10-14 13:08:19.748340 X-ray: We should replace Yankee with Oscar
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:19.762759 Hotel: No
+2024-10-14 13:08:19.762953 Papa: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:19.843413 Tango: We should add Golf
+2024-10-14 13:08:19.858244 Juliett: No
+2024-10-14 13:08:19.858492 Foxtrot: No
+2024-10-14 13:08:19.883282 Juliett: We should drop Foxtrot
+2024-10-14 13:08:19.888434 Tango: No
+2024-10-14 13:08:19.894115 Tango: Golf we want you to join our group
+2024-10-14 13:08:19.903102 Golf: No
+ChatterBot Tango reevaluating
+2024-10-14 13:08:19.920832 Hotel: We should drop X-ray
+2024-10-14 13:08:19.939878 Oscar: Yes
+2024-10-14 13:08:19.940430 Yankee: Yes
+2024-10-14 13:08:19.940575 Papa: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:20.023864 X-ray: Oscar we want you to join our group
+2024-10-14 13:08:20.060858 Oscar: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:20.152549 Foxtrot: I was attacked by Yankee
+2024-10-14 13:08:20.156329 Foxtrot: I'm keeping this round to protect myself
+2024-10-14 13:08:20.158859 Foxtrot: Ow
+2024-10-14 13:08:20.163859 Yankee: Sending you each 2
+2024-10-14 13:08:20.171020 Hotel: We should drop Yankee
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 13:08:20.194079 Papa: Yes
+2024-10-14 13:08:20.194417 X-ray: Yes
+2024-10-14 13:08:20.194708 Oscar: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:20.260289 Oscar: Same as last round
+2024-10-14 13:08:20.300196 Juliett: Same as last round
+2024-10-14 13:08:20.301387 Tango: Same as last round
+2024-10-14 13:08:20.331955 Hotel: Yankee, sending you 5
+2024-10-14 13:08:20.362706 Hotel: X-ray, Oscar and Papa, sending you 4
+chatterbot Papa submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Yankee round 29
+ChatterBot Juliett round 29
+ChatterBot X-ray round 29
+ChatterBot Oscar round 29
+ChatterBot Hotel round 29
+ChatterBot Papa round 29
+ChatterBot Lima round 29
+ChatterBot Foxtrot round 29
+ChatterBot Golf round 29
+ChatterBot Tango round 29
+2024-10-14 13:08:21.413330 X-ray: We should replace Yankee with Oscar
+ChatterBot Papa reevaluating
+2024-10-14 13:08:21.422382 Hotel: No
+2024-10-14 13:08:21.422536 Papa: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:21.472193 X-ray: Oscar we want you to join our group
+2024-10-14 13:08:21.477709 Oscar: No
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:21.559075 Yankee: Same as last round
+2024-10-14 13:08:21.564191 Hotel: We should drop Yankee
+ChatterBot Papa reevaluating
+2024-10-14 13:08:21.582597 Papa: No
+2024-10-14 13:08:21.582837 X-ray: Yes
+2024-10-14 13:08:21.582983 Oscar: No
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:21.670912 Juliett: Same as last round
+2024-10-14 13:08:21.671500 Tango: Same as last round
+2024-10-14 13:08:21.672684 Oscar: Same as last round
+2024-10-14 13:08:21.676389 Golf: Sending you 1
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Papa submitting transactions
+ChatterBot Yankee round 30
+ChatterBot Juliett round 30
+ChatterBot X-ray round 30
+ChatterBot Oscar round 30
+ChatterBot Hotel round 30
+ChatterBot Papa round 30
+ChatterBot Lima round 30
+ChatterBot Foxtrot round 30
+ChatterBot Golf round 30
+ChatterBot Tango round 30
+2024-10-14 13:08:23.117472 X-ray: We would work well together
+ChatterBot Golf reevaluating
+2024-10-14 13:08:23.133926 Juliett: No
+2024-10-14 13:08:23.135041 Golf: No
+2024-10-14 13:08:23.135157 Tango: No
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 13:08:23.180189 Golf: Let's form a team
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:08:23.208232 Yankee: Yes
+2024-10-14 13:08:23.208382 Oscar: Yes
+2024-10-14 13:08:23.208497 Hotel: Yes
+2024-10-14 13:08:23.208596 Papa: Yes
+ChatterBot Golf reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:23.327409 Yankee: We should add Golf
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:08:23.351754 Oscar: Yes
+2024-10-14 13:08:23.351945 Hotel: Yes
+2024-10-14 13:08:23.352095 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:23.547493 Hotel: We should replace X-ray with Golf
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Papa reevaluating
+2024-10-14 13:08:23.595416 Oscar: Yes
+2024-10-14 13:08:23.595727 Yankee: Yes
+2024-10-14 13:08:23.595933 Papa: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Papa reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:23.724587 Hotel: Golf we want you to join our group
+2024-10-14 13:08:23.732726 Golf: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 13:08:23.752852 Juliett: Same as last round
+2024-10-14 13:08:23.754032 Oscar: Golf we want you to join our group
+2024-10-14 13:08:23.759881 Golf: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 13:08:23.794142 Tango: Same as last round
+2024-10-14 13:08:23.794885 Golf: Papa, sending you 1
+2024-10-14 13:08:23.797723 Yankee: Golf we want you to join our group
+2024-10-14 13:08:23.805211 Golf: Yes
+2024-10-14 13:08:23.837078 Oscar: Yankee and Papa, sending you 2
+2024-10-14 13:08:23.841802 Hotel: Yankee, sending you 6
+2024-10-14 13:08:23.854717 Oscar: Hotel, sending you 3
+2024-10-14 13:08:23.860399 Hotel: Oscar and Papa, sending you 5
+2024-10-14 13:08:23.865064 Yankee: Oscar, sending you 3
+2024-10-14 13:08:23.870598 Oscar: Golf, sending you 1
+2024-10-14 13:08:23.875477 Hotel: Golf, sending you 1
+2024-10-14 13:08:23.879795 Yankee: Hotel and Papa, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Juliett submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Papa submitting transactions
+chatterbot Hotel submitting transactions

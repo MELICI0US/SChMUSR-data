@@ -1,0 +1,3171 @@
+ChatterBot Sierra round 1
+ChatterBot Foxtrot round 1
+ChatterBot Yankee round 1
+ChatterBot Delta round 1
+ChatterBot Romeo round 1
+ChatterBot Charlie round 1
+ChatterBot Tango round 1
+ChatterBot X-ray round 1
+ChatterBot Hotel round 1
+ChatterBot Quebec round 1
+randomSelections Foxtrot: {Foxtrot, Delta, Romeo, Hotel, Sierra} 
+2024-10-14 16:49:09.872968 Foxtrot: Can we be friends?
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:09.883584 Delta: Yes
+2024-10-14 16:49:09.883738 Romeo: Yes
+2024-10-14 16:49:09.883867 Hotel: Yes
+2024-10-14 16:49:09.883994 Sierra: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+randomSelections Charlie: {Charlie, Yankee, Quebec, Sierra, Delta} 
+2024-10-14 16:49:09.920088 Charlie: Friends?
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:09.966624 Yankee: Yes
+2024-10-14 16:49:09.966796 Quebec: Yes
+2024-10-14 16:49:09.966930 Sierra: No
+2024-10-14 16:49:09.967097 Delta: No
+ChatterBot Quebec reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Sierra reevaluating
+randomSelections X-ray: {X-ray, Hotel, Sierra, Quebec, Yankee, Foxtrot} 
+2024-10-14 16:49:10.020151 X-ray: Can we be friends?
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:10.029977 Hotel: No
+2024-10-14 16:49:10.030310 Sierra: No
+2024-10-14 16:49:10.030681 Quebec: No
+2024-10-14 16:49:10.031654 Yankee: No
+2024-10-14 16:49:10.031983 Foxtrot: No
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+randomSelections Tango: {Tango, Yankee, Delta, X-ray, Sierra} 
+2024-10-14 16:49:10.086395 Tango: Group up?
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:10.092383 Yankee: No
+2024-10-14 16:49:10.092490 Delta: No
+2024-10-14 16:49:10.092578 X-ray: No
+2024-10-14 16:49:10.093058 Sierra: No
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:10.121680 Quebec: Sierra, sending you 2
+2024-10-14 16:49:10.124800 Tango: Sierra, Yankee and Delta, sending you 3
+2024-10-14 16:49:10.125100 Foxtrot: Sierra, sending you 3
+2024-10-14 16:49:10.125334 Quebec: Yankee, sending you 4
+2024-10-14 16:49:10.127691 Charlie: Sierra, Yankee and Quebec, sending you 2
+2024-10-14 16:49:10.128122 Foxtrot: Delta, sending you 1
+2024-10-14 16:49:10.128346 Quebec: Delta, sending you 1
+2024-10-14 16:49:10.130661 Sierra: Foxtrot, sending you 2
+2024-10-14 16:49:10.130935 Foxtrot: Hotel, sending you 2
+2024-10-14 16:49:10.131709 Charlie: Delta, sending you 3
+2024-10-14 16:49:10.132706 Hotel: Sierra, sending you 1
+2024-10-14 16:49:10.133165 Quebec: Charlie, sending you 3
+2024-10-14 16:49:10.133732 X-ray: Sierra, Foxtrot, Yankee and Quebec, sending you 2
+2024-10-14 16:49:10.134025 Sierra: Delta and Hotel, sending you 5
+2024-10-14 16:49:10.136682 Hotel: Foxtrot and Delta, sending you 2
+2024-10-14 16:49:10.137687 Sierra: Romeo, sending you 3
+2024-10-14 16:49:10.138681 Yankee: Sierra and Charlie, sending you 3
+2024-10-14 16:49:10.139038 X-ray: Hotel, sending you 1
+2024-10-14 16:49:10.141662 Hotel: Romeo, sending you 3
+2024-10-14 16:49:10.142665 Yankee: Delta, sending you 2
+2024-10-14 16:49:10.142917 Delta: Sierra, Romeo and Hotel, sending you 2
+2024-10-14 16:49:10.145668 Yankee: Quebec, sending you 1
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 2
+ChatterBot Foxtrot round 2
+ChatterBot Yankee round 2
+ChatterBot Delta round 2
+ChatterBot Romeo round 2
+ChatterBot Charlie round 2
+ChatterBot Tango round 2
+ChatterBot X-ray round 2
+ChatterBot Hotel round 2
+ChatterBot Quebec round 2
+2024-10-14 16:49:12.155640 Yankee: Group up?
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:12.189073 Charlie: No
+2024-10-14 16:49:12.189620 Quebec: No
+2024-10-14 16:49:12.189800 Tango: No
+2024-10-14 16:49:12.189978 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:12.314076 Tango: Friends?
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:12.329401 Romeo: No
+2024-10-14 16:49:12.329624 X-ray: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:12.401228 Sierra: We should replace Romeo with Tango
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:12.424580 Foxtrot: No
+2024-10-14 16:49:12.424801 Delta: Yes
+2024-10-14 16:49:12.424963 Hotel: No
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:12.521172 Foxtrot: We should drop Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:12.544725 Sierra: Yes
+2024-10-14 16:49:12.544895 Delta: Yes
+2024-10-14 16:49:12.545025 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:12.683010 Charlie: We should drop Sierra and Delta
+2024-10-14 16:49:12.698385 Yankee: Yes
+2024-10-14 16:49:12.699124 Quebec: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:12.735107 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:12.736426 Sierra: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 16:49:12.745719 Tango: No
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:12.778307 X-ray: Romeo, sending you 4
+2024-10-14 16:49:12.778778 Yankee: Charlie, Tango and X-ray, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 16:49:12.793684 Quebec: Yankee, sending you 2
+2024-10-14 16:49:12.794195 X-ray: Tango, sending you 5
+2024-10-14 16:49:12.794548 Yankee: Quebec, sending you 3
+2024-10-14 16:49:12.795568 Foxtrot: Sierra, sending you 5
+2024-10-14 16:49:12.796009 Hotel: Sierra, sending you 4
+2024-10-14 16:49:12.796452 Delta: Sierra and Tango, sending you 2
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:49:12.801481 Quebec: Charlie and X-ray, sending you 4
+2024-10-14 16:49:12.801806 Foxtrot: Delta, sending you 1
+2024-10-14 16:49:12.802601 Hotel: Foxtrot and Delta, sending you 2
+2024-10-14 16:49:12.802939 Delta: Foxtrot and Hotel, sending you 1
+2024-10-14 16:49:12.807525 Foxtrot: Hotel, sending you 4
+2024-10-14 16:49:12.831148 Charlie: Yankee, sending you 5
+2024-10-14 16:49:12.843994 Sierra: Foxtrot and Tango, sending you 6
+2024-10-14 16:49:12.844401 Charlie: Quebec, sending you 4
+2024-10-14 16:49:12.867134 Sierra: Delta, sending you 4
+2024-10-14 16:49:12.877594 Sierra: Hotel, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Sierra round 3
+ChatterBot Foxtrot round 3
+ChatterBot Yankee round 3
+ChatterBot Delta round 3
+ChatterBot Romeo round 3
+ChatterBot Charlie round 3
+ChatterBot Tango round 3
+ChatterBot X-ray round 3
+ChatterBot Hotel round 3
+ChatterBot Quebec round 3
+2024-10-14 16:49:15.293427 Charlie: We should add Tango and X-ray
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:15.308581 Yankee: Yes
+2024-10-14 16:49:15.309770 Quebec: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:15.366112 Romeo: Can we be friends?
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:15.370535 X-ray: No
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:15.374745 X-ray: We would work well together
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:15.395405 Yankee: No
+2024-10-14 16:49:15.395606 Charlie: No
+2024-10-14 16:49:15.395756 Tango: No
+2024-10-14 16:49:15.395913 Quebec: No
+2024-10-14 16:49:15.396428 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:15.502766 Tango: We should add X-ray
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:15.515139 Yankee: Yes
+2024-10-14 16:49:15.515270 Charlie: Yes
+2024-10-14 16:49:15.515360 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Sierra submitting transactions
+2024-10-14 16:49:15.630468 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:15.635139 X-ray: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:15.758799 Delta: Sierra, sending you 3
+2024-10-14 16:49:15.759964 Quebec: Yankee, sending you 3
+chatterbot Tango submitting transactions
+2024-10-14 16:49:15.760673 Foxtrot: Sierra, sending you 6
+2024-10-14 16:49:15.761671 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:15.762270 Sierra: Foxtrot, sending you 7
+2024-10-14 16:49:15.763152 Yankee: Charlie, sending you 4
+2024-10-14 16:49:15.763804 Hotel: Sierra and Foxtrot, sending you 3
+2024-10-14 16:49:15.764844 Charlie: Tango and X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:15.776301 Tango: Yes
+2024-10-14 16:49:15.776912 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:15.816402 Delta: Foxtrot, Tango and Hotel, sending you 1
+2024-10-14 16:49:15.817785 Quebec: Charlie, sending you 4
+2024-10-14 16:49:15.818278 Foxtrot: Delta, sending you 2
+2024-10-14 16:49:15.819285 Yankee: Tango and Quebec, sending you 2
+2024-10-14 16:49:15.819741 Sierra: Delta, sending you 4
+2024-10-14 16:49:15.820205 Hotel: Delta, sending you 2
+2024-10-14 16:49:15.821272 Quebec: Tango, sending you 2
+2024-10-14 16:49:15.903090 Charlie: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:15.907469 X-ray: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:15.925026 Foxtrot: Hotel, sending you 3
+2024-10-14 16:49:15.925479 Sierra: Tango, sending you 2
+2024-10-14 16:49:15.925891 Yankee: X-ray, sending you 1
+2024-10-14 16:49:15.926801 Quebec: X-ray, sending you 1
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:49:15.942299 Sierra: Hotel, sending you 5
+2024-10-14 16:49:16.016377 X-ray: Yankee, sending you 3
+2024-10-14 16:49:16.039303 X-ray: Charlie and Tango, sending you 1
+2024-10-14 16:49:16.040007 Charlie: Yankee and Quebec, sending you 3
+2024-10-14 16:49:16.048626 X-ray: Quebec, sending you 4
+2024-10-14 16:49:16.049250 Charlie: Tango, sending you 2
+2024-10-14 16:49:16.141213 Charlie: X-ray, sending you 1
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Sierra round 4
+ChatterBot Foxtrot round 4
+ChatterBot Yankee round 4
+ChatterBot Delta round 4
+ChatterBot Romeo round 4
+ChatterBot Charlie round 4
+ChatterBot Tango round 4
+ChatterBot X-ray round 4
+ChatterBot Hotel round 4
+ChatterBot Quebec round 4
+2024-10-14 16:49:17.089846 Tango: We should add X-ray
+2024-10-14 16:49:17.101414 Yankee: Yes
+2024-10-14 16:49:17.101976 Charlie: Yes
+2024-10-14 16:49:17.102095 Quebec: Yes
+2024-10-14 16:49:17.148018 Sierra: We should replace Tango with Romeo
+ChatterBot Delta reevaluating
+2024-10-14 16:49:17.159252 Foxtrot: No
+2024-10-14 16:49:17.159819 Delta: No
+2024-10-14 16:49:17.159961 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:17.202744 Tango: X-ray we want you to join our group
+2024-10-14 16:49:17.206905 X-ray: Yes
+2024-10-14 16:49:17.220032 Sierra: Romeo we want you to join our group
+2024-10-14 16:49:17.224639 Romeo: Yes
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:17.264020 Foxtrot: Sierra, sending you 6
+2024-10-14 16:49:17.264487 Quebec: Yankee, Tango and X-ray, sending you 2
+2024-10-14 16:49:17.264878 Yankee: Charlie, sending you 3
+2024-10-14 16:49:17.453650 Quebec: Charlie, sending you 4
+2024-10-14 16:49:17.455927 Charlie: Yankee and Quebec, sending you 3
+2024-10-14 16:49:17.457261 Foxtrot: Delta, sending you 2
+2024-10-14 16:49:17.458513 Sierra: Foxtrot, sending you 7
+2024-10-14 16:49:17.459082 Yankee: Tango, X-ray and Quebec, sending you 2
+2024-10-14 16:49:17.460661 X-ray: Sierra and Charlie, sending you 1
+2024-10-14 16:49:17.461433 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:17.463029 Charlie: Tango, sending you 2
+2024-10-14 16:49:17.464460 Foxtrot: Hotel, sending you 3
+2024-10-14 16:49:17.465819 Sierra: Delta, sending you 4
+2024-10-14 16:49:17.467340 X-ray: Yankee and Tango, sending you 2
+2024-10-14 16:49:17.468390 Hotel: Sierra, sending you 4
+2024-10-14 16:49:17.469571 Charlie: X-ray, sending you 1
+2024-10-14 16:49:17.471179 Delta: Sierra, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-14 16:49:17.473433 Sierra: Romeo, sending you 2
+2024-10-14 16:49:17.474962 X-ray: Quebec, sending you 3
+2024-10-14 16:49:17.476403 Hotel: Foxtrot, sending you 2
+2024-10-14 16:49:17.477903 Delta: Foxtrot, Romeo and Hotel, sending you 1
+2024-10-14 16:49:17.483156 Sierra: Hotel, sending you 5
+2024-10-14 16:49:17.484454 Hotel: Delta and Romeo, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Sierra round 5
+ChatterBot Foxtrot round 5
+ChatterBot Yankee round 5
+ChatterBot Delta round 5
+ChatterBot Romeo round 5
+ChatterBot Charlie round 5
+ChatterBot Tango round 5
+ChatterBot X-ray round 5
+ChatterBot Hotel round 5
+ChatterBot Quebec round 5
+2024-10-14 16:49:18.546283 Tango: We should add X-ray
+2024-10-14 16:49:18.564307 Yankee: Yes
+2024-10-14 16:49:18.565169 Charlie: Yes
+2024-10-14 16:49:18.565599 Quebec: Yes
+2024-10-14 16:49:18.633497 X-ray: We should replace Sierra with Romeo
+2024-10-14 16:49:18.649366 Yankee: No
+2024-10-14 16:49:18.649939 Charlie: No
+2024-10-14 16:49:18.650074 Quebec: No
+2024-10-14 16:49:18.650218 Tango: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:18.719570 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:18.724283 X-ray: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:49:18.739923 Tango: We should replace Charlie with X-ray
+2024-10-14 16:49:18.747409 Yankee: No
+2024-10-14 16:49:18.748015 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:18.782553 Sierra: Foxtrot, sending you 7
+2024-10-14 16:49:18.783168 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:18.784113 Yankee: Charlie, sending you 3
+2024-10-14 16:49:18.784677 Delta: Sierra, sending you 3
+2024-10-14 16:49:18.785787 Foxtrot: Sierra, sending you 6
+2024-10-14 16:49:18.786288 X-ray: Romeo we want you to join our group
+2024-10-14 16:49:18.792857 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:18.825456 Sierra: Delta, sending you 4
+2024-10-14 16:49:18.826598 Delta: Foxtrot, Romeo and Hotel, sending you 1
+2024-10-14 16:49:18.827103 Yankee: Tango, X-ray and Quebec, sending you 2
+2024-10-14 16:49:18.828113 Foxtrot: Delta, sending you 2
+2024-10-14 16:49:18.828773 Quebec: Yankee, Tango and X-ray, sending you 2
+2024-10-14 16:49:18.829787 Hotel: Sierra, sending you 4
+2024-10-14 16:49:18.830209 Charlie: Yankee and Quebec, sending you 3
+2024-10-14 16:49:18.831106 Sierra: Romeo, sending you 2
+2024-10-14 16:49:18.843944 Foxtrot: Hotel, sending you 3
+2024-10-14 16:49:18.844408 Quebec: Charlie, sending you 4
+2024-10-14 16:49:18.845312 Charlie: Tango, sending you 2
+2024-10-14 16:49:18.845687 Hotel: Foxtrot, sending you 3
+2024-10-14 16:49:18.845951 Sierra: Hotel, sending you 5
+2024-10-14 16:49:18.856433 Charlie: X-ray, sending you 1
+2024-10-14 16:49:18.857268 Hotel: Delta, sending you 1
+2024-10-14 16:49:18.888289 X-ray: Sierra and Charlie, sending you 1
+chatterbot Delta submitting transactions
+2024-10-14 16:49:18.904299 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:19.017262 X-ray: Tango, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Sierra round 6
+ChatterBot Foxtrot round 6
+ChatterBot Yankee round 6
+ChatterBot Delta round 6
+ChatterBot Romeo round 6
+ChatterBot Charlie round 6
+ChatterBot Tango round 6
+ChatterBot X-ray round 6
+ChatterBot Hotel round 6
+ChatterBot Quebec round 6
+2024-10-14 16:49:20.131294 X-ray: We should replace Sierra with Romeo
+ChatterBot Tango reevaluating
+2024-10-14 16:49:20.156258 Yankee: No
+2024-10-14 16:49:20.156725 Charlie: No
+2024-10-14 16:49:20.157410 Quebec: No
+2024-10-14 16:49:20.157605 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:20.234282 Tango: We should add X-ray
+2024-10-14 16:49:20.251687 Yankee: Yes
+2024-10-14 16:49:20.251846 Charlie: Yes
+2024-10-14 16:49:20.251989 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:20.365967 X-ray: Romeo we want you to join our group
+2024-10-14 16:49:20.372769 Romeo: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:20.402345 X-ray: We should replace Sierra with Delta
+2024-10-14 16:49:20.426401 Yankee: No
+2024-10-14 16:49:20.426702 Charlie: No
+2024-10-14 16:49:20.427375 Quebec: No
+2024-10-14 16:49:20.427551 Tango: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:20.518206 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:20.524049 X-ray: Yes
+2024-10-14 16:49:20.544882 Sierra: Foxtrot, sending you 7
+2024-10-14 16:49:20.545443 Hotel: Sierra, sending you 4
+2024-10-14 16:49:20.547666 Delta: Sierra, sending you 3
+2024-10-14 16:49:20.548761 Yankee: Charlie, sending you 3
+2024-10-14 16:49:20.549375 Sierra: Delta, sending you 4
+2024-10-14 16:49:20.550218 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:20.550595 Charlie: Yankee and Quebec, sending you 3
+2024-10-14 16:49:20.551095 Foxtrot: Sierra, sending you 6
+2024-10-14 16:49:20.551581 Hotel: Foxtrot, sending you 2
+2024-10-14 16:49:20.552434 Quebec: Yankee, Tango and X-ray, sending you 2
+2024-10-14 16:49:20.552926 Yankee: Tango, X-ray and Quebec, sending you 2
+2024-10-14 16:49:20.553450 Delta: Foxtrot, Romeo and Hotel, sending you 1
+2024-10-14 16:49:20.554278 Sierra: Romeo, sending you 2
+2024-10-14 16:49:20.554623 Charlie: Tango, sending you 2
+2024-10-14 16:49:20.555032 Foxtrot: Delta, sending you 2
+2024-10-14 16:49:20.556678 Hotel: Delta and Romeo, sending you 1
+2024-10-14 16:49:20.557906 Quebec: Charlie, sending you 4
+2024-10-14 16:49:20.558402 Charlie: X-ray, sending you 1
+2024-10-14 16:49:20.558866 Foxtrot: Hotel, sending you 3
+2024-10-14 16:49:20.559245 Sierra: Hotel, sending you 5
+2024-10-14 16:49:20.566723 X-ray: Sierra and Charlie, sending you 1
+2024-10-14 16:49:20.570660 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:20.574686 X-ray: Tango, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Sierra round 7
+ChatterBot Foxtrot round 7
+ChatterBot Yankee round 7
+ChatterBot Delta round 7
+ChatterBot Romeo round 7
+ChatterBot Charlie round 7
+ChatterBot Tango round 7
+ChatterBot X-ray round 7
+ChatterBot Hotel round 7
+ChatterBot Quebec round 7
+2024-10-14 16:49:21.774415 Tango: We should add X-ray
+2024-10-14 16:49:21.783370 Yankee: Yes
+2024-10-14 16:49:21.783511 Charlie: Yes
+2024-10-14 16:49:21.783627 Quebec: Yes
+2024-10-14 16:49:21.813723 X-ray: We should replace Sierra with Delta
+2024-10-14 16:49:21.825875 Yankee: No
+2024-10-14 16:49:21.826024 Charlie: No
+2024-10-14 16:49:21.826127 Quebec: No
+2024-10-14 16:49:21.826231 Tango: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:21.965337 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:21.969666 X-ray: Yes
+2024-10-14 16:49:21.982602 Foxtrot: Sierra, sending you 6
+2024-10-14 16:49:21.985697 Sierra: Foxtrot, sending you 7
+2024-10-14 16:49:21.987244 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:21.988288 Foxtrot: Delta, sending you 2
+2024-10-14 16:49:21.989586 Yankee: Charlie, sending you 3
+2024-10-14 16:49:21.991034 Delta: Sierra, sending you 3
+2024-10-14 16:49:21.991919 Sierra: Delta, sending you 4
+2024-10-14 16:49:21.993674 Foxtrot: Hotel, sending you 3
+2024-10-14 16:49:21.995692 Yankee: Tango, X-ray and Quebec, sending you 2
+2024-10-14 16:49:21.996836 Delta: Foxtrot, Romeo and Hotel, sending you 1
+2024-10-14 16:49:21.997284 Sierra: Romeo, sending you 2
+2024-10-14 16:49:21.998280 Quebec: Yankee, Tango and X-ray, sending you 2
+2024-10-14 16:49:22.001699 Quebec: Charlie, sending you 4
+2024-10-14 16:49:22.003001 Sierra: Hotel, sending you 5
+2024-10-14 16:49:22.003584 Hotel: Sierra, sending you 4
+2024-10-14 16:49:22.004191 X-ray: Sierra and Charlie, sending you 1
+2024-10-14 16:49:22.007691 Hotel: Foxtrot, sending you 2
+2024-10-14 16:49:22.009407 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:22.012698 X-ray: Tango, sending you 3
+2024-10-14 16:49:22.013964 Hotel: Delta and Romeo, sending you 1
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 8
+ChatterBot Foxtrot round 8
+ChatterBot Yankee round 8
+ChatterBot Delta round 8
+ChatterBot Romeo round 8
+ChatterBot Charlie round 8
+ChatterBot Tango round 8
+ChatterBot X-ray round 8
+ChatterBot Hotel round 8
+ChatterBot Quebec round 8
+2024-10-14 16:49:23.046038 Tango: We should add X-ray
+2024-10-14 16:49:23.065394 Yankee: Yes
+2024-10-14 16:49:23.065575 Charlie: Yes
+2024-10-14 16:49:23.065715 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:23.118538 Tango: We should replace Charlie with X-ray
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:23.126842 Yankee: Yes
+2024-10-14 16:49:23.126998 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:23.142269 Sierra: I was attacked by Charlie
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:23.159986 Sierra: I'm keeping this round to protect myself
+2024-10-14 16:49:23.161560 Sierra: Ow
+2024-10-14 16:49:23.161893 Hotel: We should replace Romeo with X-ray
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:23.173784 Sierra: No
+2024-10-14 16:49:23.174252 Foxtrot: No
+2024-10-14 16:49:23.174373 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:23.225263 Yankee: We should drop Charlie
+ChatterBot Tango reevaluating
+2024-10-14 16:49:23.237052 Tango: No
+2024-10-14 16:49:23.237209 X-ray: No
+2024-10-14 16:49:23.237332 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:23.280196 X-ray: We should replace Sierra with Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:23.376952 Yankee: No
+2024-10-14 16:49:23.377322 Charlie: No
+2024-10-14 16:49:23.377767 Quebec: No
+2024-10-14 16:49:23.378053 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:23.469677 Quebec: Yankee and Charlie, sending you 3
+2024-10-14 16:49:23.477713 Quebec: Tango and X-ray, sending you 2
+2024-10-14 16:49:23.480691 Foxtrot: Sierra, sending you 6
+2024-10-14 16:49:23.486343 Hotel: Sierra, sending you 4
+2024-10-14 16:49:23.487456 Foxtrot: Delta, sending you 2
+2024-10-14 16:49:23.489918 X-ray: Sierra and Charlie, sending you 1
+2024-10-14 16:49:23.492197 Hotel: Foxtrot, sending you 3
+2024-10-14 16:49:23.493652 Yankee: Charlie, sending you 3
+chatterbot Hotel submitting transactions
+2024-10-14 16:49:23.495838 Foxtrot: Hotel, sending you 3
+2024-10-14 16:49:23.497375 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:23.499660 Hotel: Delta, sending you 1
+chatterbot Delta submitting transactions
+2024-10-14 16:49:23.501565 Yankee: Tango, X-ray and Quebec, sending you 2
+2024-10-14 16:49:23.504580 X-ray: Tango, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Sierra round 9
+ChatterBot Foxtrot round 9
+ChatterBot Yankee round 9
+ChatterBot Delta round 9
+ChatterBot Romeo round 9
+ChatterBot Charlie round 9
+ChatterBot Tango round 9
+ChatterBot X-ray round 9
+ChatterBot Hotel round 9
+ChatterBot Quebec round 9
+2024-10-14 16:49:24.204181 Tango: We should add X-ray
+2024-10-14 16:49:24.221819 Yankee: Yes
+2024-10-14 16:49:24.222792 Charlie: Yes
+2024-10-14 16:49:24.222977 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:24.297834 Foxtrot: Sierra, sending you 5
+2024-10-14 16:49:24.298723 Tango: X-ray we want you to join our group
+2024-10-14 16:49:24.306034 X-ray: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:49:24.329512 Sierra: I was attacked by Charlie
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:24.356481 Sierra: I'm keeping this round to protect myself
+2024-10-14 16:49:24.358522 Sierra: Ow
+2024-10-14 16:49:24.359077 Yankee: Charlie, X-ray and Quebec, sending you 2
+2024-10-14 16:49:24.378858 Yankee: Tango, sending you 3
+2024-10-14 16:49:24.380026 X-ray: Sierra and Charlie, sending you 1
+2024-10-14 16:49:24.381081 Charlie: Yankee and Quebec, sending you 3
+2024-10-14 16:49:24.381662 Quebec: Yankee and Tango, sending you 3
+2024-10-14 16:49:24.391037 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:24.392653 Charlie: Tango, sending you 2
+2024-10-14 16:49:24.393793 Quebec: Charlie and X-ray, sending you 2
+2024-10-14 16:49:24.394671 X-ray: Tango, sending you 3
+2024-10-14 16:49:24.400565 Charlie: X-ray, sending you 1
+2024-10-14 16:49:24.524051 Hotel: Sierra and Foxtrot, sending you 3
+2024-10-14 16:49:24.540562 Hotel: Delta and Romeo, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Sierra round 10
+ChatterBot Foxtrot round 10
+ChatterBot Yankee round 10
+ChatterBot Delta round 10
+ChatterBot Romeo round 10
+ChatterBot Charlie round 10
+ChatterBot Tango round 10
+ChatterBot X-ray round 10
+ChatterBot Hotel round 10
+ChatterBot Quebec round 10
+2024-10-14 16:49:25.662009 X-ray: We should replace Sierra with Hotel
+ChatterBot Tango reevaluating
+2024-10-14 16:49:25.689350 Yankee: No
+2024-10-14 16:49:25.689588 Charlie: No
+2024-10-14 16:49:25.690267 Quebec: No
+2024-10-14 16:49:25.690448 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:25.801893 Tango: We should add X-ray
+2024-10-14 16:49:25.814506 Yankee: Yes
+2024-10-14 16:49:25.814680 Charlie: Yes
+2024-10-14 16:49:25.814804 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:25.952191 X-ray: We should replace Sierra with Delta
+ChatterBot Tango reevaluating
+2024-10-14 16:49:25.967992 Yankee: No
+2024-10-14 16:49:25.968256 Charlie: No
+2024-10-14 16:49:25.968432 Quebec: No
+2024-10-14 16:49:25.968562 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:26.079345 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:26.080979 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:26.088329 X-ray: Yes
+2024-10-14 16:49:26.113670 Charlie: Yankee and Quebec, sending you 3
+2024-10-14 16:49:26.114629 Sierra: Foxtrot, sending you 7
+2024-10-14 16:49:26.115701 Quebec: Yankee, Charlie and Tango, sending you 3
+2024-10-14 16:49:26.116238 Yankee: Charlie, Tango and X-ray, sending you 2
+2024-10-14 16:49:26.116713 Hotel: Sending you each 1
+2024-10-14 16:49:26.118661 Charlie: Tango, sending you 2
+2024-10-14 16:49:26.119140 Quebec: X-ray, sending you 1
+2024-10-14 16:49:26.120760 X-ray: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 16:49:26.125354 Delta: No
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:26.142006 Tango: We should replace Yankee with X-ray
+2024-10-14 16:49:26.148433 Charlie: No
+2024-10-14 16:49:26.148562 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:26.162008 Sierra: Delta, sending you 4
+2024-10-14 16:49:26.162456 Yankee: Quebec, sending you 3
+2024-10-14 16:49:26.163294 Charlie: X-ray, sending you 1
+2024-10-14 16:49:26.165894 Sierra: Romeo, sending you 2
+2024-10-14 16:49:26.168679 Sierra: Hotel, sending you 5
+2024-10-14 16:49:26.183668 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:26.189673 X-ray: Delta and Charlie, sending you 1
+2024-10-14 16:49:26.192675 X-ray: Tango, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Sierra round 11
+ChatterBot Foxtrot round 11
+ChatterBot Yankee round 11
+ChatterBot Delta round 11
+ChatterBot Romeo round 11
+ChatterBot Charlie round 11
+ChatterBot Tango round 11
+ChatterBot X-ray round 11
+ChatterBot Hotel round 11
+ChatterBot Quebec round 11
+2024-10-14 16:49:27.262155 X-ray: We should replace Delta with Sierra
+ChatterBot Tango reevaluating
+2024-10-14 16:49:27.370385 Yankee: No
+2024-10-14 16:49:27.370942 Charlie: No
+2024-10-14 16:49:27.371240 Quebec: No
+2024-10-14 16:49:27.372312 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:27.543629 X-ray: Sierra we want you to join our group
+2024-10-14 16:49:27.551584 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:27.584877 Romeo: I was attacked by Foxtrot
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:27.602711 Romeo: I'm keeping this round to protect myself
+2024-10-14 16:49:27.604012 Romeo: Ow
+chatterbot Charlie submitting transactions
+2024-10-14 16:49:27.605003 Charlie: We should drop Tango
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:27.617421 Quebec: No
+2024-10-14 16:49:27.617573 Yankee: No
+2024-10-14 16:49:27.617712 X-ray: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:27.674472 Quebec: Yankee and Charlie, sending you 3
+2024-10-14 16:49:27.676526 Yankee: We should drop Charlie
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:27.695924 Tango: Yes
+2024-10-14 16:49:27.696128 X-ray: No
+2024-10-14 16:49:27.696832 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:27.759069 Tango: We should replace Yankee with X-ray
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:27.771857 Charlie: No
+2024-10-14 16:49:27.772038 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:27.796656 Sierra: Foxtrot, sending you 6
+2024-10-14 16:49:27.800700 Sierra: Delta and Hotel, sending you 5
+2024-10-14 16:49:27.804661 Sierra: Romeo, sending you 2
+chatterbot Foxtrot submitting transactions
+2024-10-14 16:49:27.814684 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:27.820683 X-ray: Delta and Charlie, sending you 1
+2024-10-14 16:49:27.825679 X-ray: Tango, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Sierra round 12
+ChatterBot Foxtrot round 12
+ChatterBot Yankee round 12
+ChatterBot Delta round 12
+ChatterBot Romeo round 12
+ChatterBot Charlie round 12
+ChatterBot Tango round 12
+ChatterBot X-ray round 12
+ChatterBot Hotel round 12
+ChatterBot Quebec round 12
+2024-10-14 16:49:29.481803 X-ray: We should replace Delta with Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:29.497399 Yankee: No
+2024-10-14 16:49:29.498061 Charlie: No
+2024-10-14 16:49:29.498431 Quebec: No
+2024-10-14 16:49:29.498717 Tango: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:29.658444 X-ray: Romeo we want you to join our group
+2024-10-14 16:49:29.663678 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:29.688290 Charlie: I was attacked by Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:29.709751 Charlie: I'm keeping this round to protect myself
+2024-10-14 16:49:29.712195 Charlie: Ow
+2024-10-14 16:49:29.713452 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:29.714008 Sierra: Foxtrot, sending you 6
+2024-10-14 16:49:29.815440 Hotel: Sierra, sending you 3
+2024-10-14 16:49:29.816760 Sierra: Delta and Hotel, sending you 5
+2024-10-14 16:49:29.834990 Hotel: Foxtrot and Delta, sending you 2
+2024-10-14 16:49:29.836299 Sierra: Romeo, sending you 2
+2024-10-14 16:49:29.840665 Hotel: Romeo, sending you 1
+2024-10-14 16:49:29.842202 X-ray: Tango, sending you 1
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Sierra round 13
+ChatterBot Foxtrot round 13
+ChatterBot Yankee round 13
+ChatterBot Delta round 13
+ChatterBot Romeo round 13
+ChatterBot Charlie round 13
+ChatterBot Tango round 13
+ChatterBot X-ray round 13
+ChatterBot Hotel round 13
+ChatterBot Quebec round 13
+2024-10-14 16:49:30.943207 X-ray: We should replace Delta with Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:30.962927 Yankee: No
+2024-10-14 16:49:30.963130 Charlie: No
+2024-10-14 16:49:30.963331 Quebec: No
+2024-10-14 16:49:30.963589 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:31.086864 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:31.088894 Sierra: Foxtrot, sending you 6
+2024-10-14 16:49:31.092690 Sierra: Delta and Hotel, sending you 5
+2024-10-14 16:49:31.094305 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:31.097891 X-ray: Delta and Charlie, sending you 1
+2024-10-14 16:49:31.099689 Sierra: Romeo, sending you 2
+2024-10-14 16:49:31.102665 X-ray: Tango, sending you 3
+2024-10-14 16:49:31.104997 Hotel: Sierra, sending you 4
+2024-10-14 16:49:31.108705 Hotel: Foxtrot and Delta, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Sierra round 14
+ChatterBot Foxtrot round 14
+ChatterBot Yankee round 14
+ChatterBot Delta round 14
+ChatterBot Romeo round 14
+ChatterBot Charlie round 14
+ChatterBot Tango round 14
+ChatterBot X-ray round 14
+ChatterBot Hotel round 14
+ChatterBot Quebec round 14
+2024-10-14 16:49:32.283198 X-ray: We should replace Delta with Romeo
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:32.337422 Yankee: No
+2024-10-14 16:49:32.337685 Charlie: No
+2024-10-14 16:49:32.337878 Quebec: No
+2024-10-14 16:49:32.338052 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:32.445009 X-ray: We should replace Delta with Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:32.471991 Yankee: No
+2024-10-14 16:49:32.472973 Charlie: No
+2024-10-14 16:49:32.473354 Quebec: No
+2024-10-14 16:49:32.473757 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:32.649138 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:32.649967 Hotel: Sierra, sending you 3
+2024-10-14 16:49:32.651470 Sierra: Foxtrot and Hotel, sending you 5
+2024-10-14 16:49:32.652678 X-ray: Romeo we want you to join our group
+2024-10-14 16:49:32.657791 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:32.693745 Hotel: Foxtrot and Delta, sending you 2
+2024-10-14 16:49:32.695073 Sierra: Delta, sending you 6
+chatterbot Hotel submitting transactions
+2024-10-14 16:49:32.753238 Hotel: Romeo, sending you 1
+2024-10-14 16:49:32.754889 Sierra: Romeo, sending you 2
+2024-10-14 16:49:32.756611 X-ray: Sierra we want you to join our group
+2024-10-14 16:49:32.763809 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:32.819654 Charlie: We should drop Tango
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:32.841055 Quebec: No
+2024-10-14 16:49:32.841273 Yankee: No
+2024-10-14 16:49:32.841855 X-ray: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Sierra round 15
+ChatterBot Foxtrot round 15
+ChatterBot Yankee round 15
+ChatterBot Delta round 15
+ChatterBot Romeo round 15
+ChatterBot Charlie round 15
+ChatterBot Tango round 15
+ChatterBot X-ray round 15
+ChatterBot Hotel round 15
+ChatterBot Quebec round 15
+2024-10-14 16:49:34.331424 X-ray: We should replace Delta with Romeo
+2024-10-14 16:49:34.348681 Yankee: No
+2024-10-14 16:49:34.348883 Charlie: No
+2024-10-14 16:49:34.349019 Quebec: No
+2024-10-14 16:49:34.349154 Tango: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:34.484461 X-ray: Romeo we want you to join our group
+2024-10-14 16:49:34.492695 Romeo: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:34.528193 X-ray: We should replace Delta with Sierra
+2024-10-14 16:49:34.659355 Yankee: No
+2024-10-14 16:49:34.659999 Charlie: No
+2024-10-14 16:49:34.661042 Quebec: No
+2024-10-14 16:49:34.661410 Tango: No
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:34.781370 Sierra: I was attacked by Charlie
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:34.813919 Sierra: I'm keeping this round to protect myself
+2024-10-14 16:49:34.816590 Sierra: Ow
+2024-10-14 16:49:34.817539 Hotel: We should replace Romeo with X-ray
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:34.841542 Sierra: No
+2024-10-14 16:49:34.841721 Foxtrot: No
+2024-10-14 16:49:34.841887 Delta: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:34.919152 X-ray: We should replace Delta with Foxtrot
+ChatterBot Tango reevaluating
+2024-10-14 16:49:34.947831 Yankee: No
+2024-10-14 16:49:34.948034 Charlie: No
+2024-10-14 16:49:34.948933 Quebec: No
+2024-10-14 16:49:34.949116 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:35.071010 Charlie: Yankee, Tango and X-ray, sending you 2
+2024-10-14 16:49:35.076747 X-ray: Sierra we want you to join our group
+2024-10-14 16:49:35.086712 Sierra: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:35.111574 Charlie: Quebec, sending you 3
+2024-10-14 16:49:35.130417 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:35.141904 Hotel: Sierra, sending you 4
+2024-10-14 16:49:35.150445 Hotel: Foxtrot and Delta, sending you 2
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Sierra round 16
+ChatterBot Foxtrot round 16
+ChatterBot Yankee round 16
+ChatterBot Delta round 16
+ChatterBot Romeo round 16
+ChatterBot Charlie round 16
+ChatterBot Tango round 16
+ChatterBot X-ray round 16
+ChatterBot Hotel round 16
+ChatterBot Quebec round 16
+2024-10-14 16:49:36.422671 Sierra: Foxtrot, sending you 3
+2024-10-14 16:49:36.424484 X-ray: I was attacked by Foxtrot
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:36.446125 X-ray: I'm keeping this round to protect myself
+2024-10-14 16:49:36.449785 X-ray: Ow
+2024-10-14 16:49:36.450328 Tango: We should replace Quebec with X-ray
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:36.459961 Yankee: No
+2024-10-14 16:49:36.460624 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:36.481406 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:36.482159 Hotel: Sierra, sending you 3
+2024-10-14 16:49:36.488033 Hotel: Foxtrot, sending you 1
+2024-10-14 16:49:36.531179 Charlie: We should drop Tango
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:36.545488 Quebec: No
+2024-10-14 16:49:36.545680 Yankee: No
+2024-10-14 16:49:36.545811 X-ray: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:36.587755 X-ray: We should replace Sierra with Delta
+2024-10-14 16:49:36.588434 Charlie: We should add Tango
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:36.605341 Yankee: No
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:36.609727 Charlie: No
+2024-10-14 16:49:36.609964 Quebec: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:36.614404 Tango: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:36.618689 Yankee: Yes
+2024-10-14 16:49:36.618797 Quebec: Yes
+2024-10-14 16:49:36.618891 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:36.726876 Hotel: Delta and Romeo, sending you 2
+2024-10-14 16:49:36.728792 Yankee: We should replace Quebec with Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:36.736085 X-ray: No
+2024-10-14 16:49:36.736203 Tango: Yes
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:36.750598 X-ray: We should replace Sierra with Romeo
+ChatterBot Tango reevaluating
+2024-10-14 16:49:36.765503 Yankee: No
+2024-10-14 16:49:36.765648 Charlie: No
+2024-10-14 16:49:36.765771 Quebec: No
+2024-10-14 16:49:36.765877 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:36.830224 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:36.836720 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:36.885116 Quebec: Yankee, sending you 3
+2024-10-14 16:49:36.885996 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:36.929801 X-ray: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:36.983093 Quebec: Tango, sending you 5
+2024-10-14 16:49:37.004096 Quebec: X-ray, sending you 2
+2024-10-14 16:49:37.006771 X-ray: Delta we want you to join our group
+2024-10-14 16:49:37.014153 Delta: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Sierra round 17
+ChatterBot Foxtrot round 17
+ChatterBot Yankee round 17
+ChatterBot Delta round 17
+ChatterBot Romeo round 17
+ChatterBot Charlie round 17
+ChatterBot Tango round 17
+ChatterBot X-ray round 17
+ChatterBot Hotel round 17
+ChatterBot Quebec round 17
+2024-10-14 16:49:38.373244 Yankee: We should replace Quebec with Charlie
+ChatterBot Tango reevaluating
+2024-10-14 16:49:38.403029 X-ray: No
+2024-10-14 16:49:38.403360 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:38.509825 Tango: We should replace Quebec with X-ray
+2024-10-14 16:49:38.510407 X-ray: We should replace Sierra with Delta
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:38.521861 Yankee: Yes
+2024-10-14 16:49:38.522048 Charlie: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:38.540552 Yankee: No
+2024-10-14 16:49:38.541311 Charlie: No
+2024-10-14 16:49:38.541534 Quebec: No
+2024-10-14 16:49:38.541741 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:38.657031 Delta: We should add Quebec
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:38.674748 Foxtrot: No
+2024-10-14 16:49:38.674952 Romeo: No
+2024-10-14 16:49:38.675607 Hotel: No
+2024-10-14 16:49:38.675760 Sierra: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:38.732529 Sierra: We should add X-ray
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:38.747769 Foxtrot: Yes
+2024-10-14 16:49:38.747926 Delta: Yes
+2024-10-14 16:49:38.748040 Romeo: Yes
+2024-10-14 16:49:38.748192 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:38.827798 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:49:38.838211 Sierra: Yes
+2024-10-14 16:49:38.838336 Delta: Yes
+2024-10-14 16:49:38.838497 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:38.875607 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:38.881477 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:38.893653 Charlie: We should add Tango
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:38.903580 Quebec: Yes
+2024-10-14 16:49:38.903762 Yankee: Yes
+2024-10-14 16:49:38.903885 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:38.943633 X-ray: We should replace Sierra with Romeo
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:38.959901 Yankee: No
+2024-10-14 16:49:38.960144 Charlie: No
+2024-10-14 16:49:38.961302 Quebec: No
+2024-10-14 16:49:38.961458 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:39.063195 Sierra: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:39.069968 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:39.089002 Romeo: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:39.096073 X-ray: No
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:39.118833 Delta: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:39.124949 X-ray: No
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:39.193843 Quebec: Yankee and X-ray, sending you 3
+2024-10-14 16:49:39.206740 Foxtrot: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:39.246191 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:39.292687 X-ray: Delta we want you to join our group
+2024-10-14 16:49:39.301702 Delta: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:39.328091 Hotel: Sierra, sending you 4
+2024-10-14 16:49:39.331030 Quebec: Tango, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 16:49:39.333789 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:39.339411 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:39.352404 Hotel: Foxtrot and Romeo, sending you 1
+2024-10-14 16:49:39.383506 Hotel: Delta, sending you 2
+2024-10-14 16:49:39.386094 X-ray: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:39.392851 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:39.505979 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:39.527097 X-ray: Yankee, Charlie and Quebec, sending you 2
+chatterbot Delta submitting transactions
+2024-10-14 16:49:39.548435 X-ray: Tango, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Sierra round 18
+ChatterBot Foxtrot round 18
+ChatterBot Yankee round 18
+ChatterBot Delta round 18
+ChatterBot Romeo round 18
+ChatterBot Charlie round 18
+ChatterBot Tango round 18
+ChatterBot X-ray round 18
+ChatterBot Hotel round 18
+ChatterBot Quebec round 18
+2024-10-14 16:49:40.574474 Charlie: We should add Tango
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:40.586331 Quebec: Yes
+2024-10-14 16:49:40.586599 Yankee: Yes
+2024-10-14 16:49:40.586771 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:40.628842 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:40.638656 Sierra: Yes
+2024-10-14 16:49:40.638819 Delta: Yes
+2024-10-14 16:49:40.638999 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:40.685447 Tango: We should replace Quebec with X-ray
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:40.693732 Yankee: No
+2024-10-14 16:49:40.694271 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:40.719135 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:40.727632 Tango: No
+2024-10-14 16:49:40.727768 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:40.787633 Tango: We should replace Yankee with X-ray
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:40.837666 Charlie: No
+2024-10-14 16:49:40.837934 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:40.884370 Yankee: Charlie we want you to join our group
+2024-10-14 16:49:40.891744 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:40.909995 X-ray: We should replace Romeo with Delta
+ChatterBot Tango reevaluating
+2024-10-14 16:49:40.923268 Yankee: No
+2024-10-14 16:49:40.923521 Charlie: No
+2024-10-14 16:49:40.924544 Quebec: No
+2024-10-14 16:49:40.924727 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:40.989320 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:49:40.995765 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:41.011250 X-ray: We should replace Romeo with Sierra
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:41.027445 Yankee: No
+2024-10-14 16:49:41.027709 Charlie: No
+2024-10-14 16:49:41.027889 Quebec: No
+2024-10-14 16:49:41.028084 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:41.097751 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:41.100833 Hotel: Sierra, sending you 4
+2024-10-14 16:49:41.154735 Hotel: Foxtrot and Romeo, sending you 1
+2024-10-14 16:49:41.158443 Quebec: Charlie we want you to join our group
+2024-10-14 16:49:41.167049 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:41.184610 Hotel: Delta, sending you 2
+2024-10-14 16:49:41.186965 X-ray: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:41.194889 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:41.224831 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:41.231322 X-ray: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:49:41.291388 Quebec: Charlie and X-ray, sending you 3
+2024-10-14 16:49:41.358002 Quebec: Tango, sending you 4
+2024-10-14 16:49:41.412178 X-ray: Yankee and Quebec, sending you 2
+2024-10-14 16:49:41.439411 X-ray: Romeo and Charlie, sending you 1
+2024-10-14 16:49:41.484096 X-ray: Tango, sending you 3
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Sierra round 19
+ChatterBot Foxtrot round 19
+ChatterBot Yankee round 19
+ChatterBot Delta round 19
+ChatterBot Romeo round 19
+ChatterBot Charlie round 19
+ChatterBot Tango round 19
+ChatterBot X-ray round 19
+ChatterBot Hotel round 19
+ChatterBot Quebec round 19
+2024-10-14 16:49:42.427155 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:42.438856 Sierra: Yes
+2024-10-14 16:49:42.439037 Delta: Yes
+2024-10-14 16:49:42.439168 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:42.488638 Yankee: We should replace Quebec with Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:42.496349 X-ray: No
+2024-10-14 16:49:42.496775 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:42.515359 Tango: We should replace Yankee with X-ray
+2024-10-14 16:49:42.576506 Charlie: No
+2024-10-14 16:49:42.576772 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:42.668348 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:42.679565 Tango: Yes
+2024-10-14 16:49:42.679865 X-ray: Yes
+2024-10-14 16:49:42.680440 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:42.723174 Foxtrot: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:42.729610 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:42.760903 Romeo: We should replace X-ray with Quebec
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:42.788559 Foxtrot: No
+2024-10-14 16:49:42.789552 Delta: No
+2024-10-14 16:49:42.789955 Hotel: No
+2024-10-14 16:49:42.790286 Sierra: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:42.902543 Tango: X-ray we want you to join our group
+2024-10-14 16:49:42.909602 X-ray: Yes
+ChatterBot Tango reevaluating
+2024-10-14 16:49:42.928820 X-ray: Sierra we want you to join our group
+2024-10-14 16:49:42.935544 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:42.954552 X-ray: We should replace Romeo with Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:42.969741 Yankee: No
+2024-10-14 16:49:42.969945 Charlie: No
+2024-10-14 16:49:42.970123 Quebec: No
+2024-10-14 16:49:42.970308 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:43.050015 Charlie: We should replace Yankee with Tango
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:43.062093 X-ray: No
+2024-10-14 16:49:43.062281 Quebec: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:43.080968 Delta: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:43.087817 X-ray: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:43.109578 Quebec: Charlie, sending you 2
+2024-10-14 16:49:43.113117 Hotel: Sierra, sending you 3
+2024-10-14 16:49:43.156623 Quebec: Tango and X-ray, sending you 4
+2024-10-14 16:49:43.158300 Yankee: Charlie we want you to join our group
+2024-10-14 16:49:43.162557 Charlie: No
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:43.185475 Hotel: Foxtrot and Delta, sending you 2
+2024-10-14 16:49:43.239896 Hotel: Romeo, sending you 1
+2024-10-14 16:49:43.242196 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:43.292966 X-ray: Sierra and Charlie, sending you 1
+2024-10-14 16:49:43.318641 X-ray: Yankee and Quebec, sending you 2
+chatterbot Charlie submitting transactions
+2024-10-14 16:49:43.355965 X-ray: Tango, sending you 3
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Sierra round 20
+ChatterBot Foxtrot round 20
+ChatterBot Yankee round 20
+ChatterBot Delta round 20
+ChatterBot Romeo round 20
+ChatterBot Charlie round 20
+ChatterBot Tango round 20
+ChatterBot X-ray round 20
+ChatterBot Hotel round 20
+ChatterBot Quebec round 20
+2024-10-14 16:49:44.655926 Foxtrot: We should add Romeo
+ChatterBot Delta reevaluating
+2024-10-14 16:49:44.667886 Sierra: Yes
+2024-10-14 16:49:44.668632 Delta: Yes
+2024-10-14 16:49:44.668765 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:44.707074 Yankee: We should add Charlie
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:44.719385 Tango: No
+2024-10-14 16:49:44.719534 X-ray: Yes
+2024-10-14 16:49:44.719662 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:44.762418 Tango: We should replace Yankee with X-ray
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:44.771984 Charlie: No
+2024-10-14 16:49:44.772169 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:44.844761 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:49:44.851759 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:44.872213 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:44.880042 Charlie: No
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:44.898411 Charlie: We should replace Yankee with Tango
+2024-10-14 16:49:44.898824 X-ray: We should replace Sierra with Delta
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:44.919984 X-ray: No
+2024-10-14 16:49:44.920465 Quebec: Yes
+2024-10-14 16:49:44.924524 Yankee: No
+2024-10-14 16:49:44.924764 Tango: No
+2024-10-14 16:49:44.924914 Charlie: No
+2024-10-14 16:49:44.925054 Quebec: No
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:45.013863 Hotel: Sierra, sending you 3
+2024-10-14 16:49:45.016119 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:45.020041 Charlie: We should add Tango
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:45.031604 Quebec: Yes
+2024-10-14 16:49:45.031748 Yankee: Yes
+2024-10-14 16:49:45.031880 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:45.069122 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:45.074704 X-ray: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:45.089965 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:45.154229 Tango: No
+2024-10-14 16:49:45.156 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:45.240170 Hotel: Foxtrot, sending you 1
+2024-10-14 16:49:45.245147 Charlie: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 16:49:45.256535 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:45.281737 Hotel: Delta and Romeo, sending you 2
+2024-10-14 16:49:45.314488 X-ray: Romeo we want you to join our group
+2024-10-14 16:49:45.323724 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+chatterbot Delta submitting transactions
+2024-10-14 16:49:45.374806 Quebec: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:45.381538 Charlie: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+2024-10-14 16:49:46.004205 X-ray: Yankee, Charlie and Quebec, sending you 2
+2024-10-14 16:49:46.133414 X-ray: Tango, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Sierra round 21
+ChatterBot Foxtrot round 21
+ChatterBot Yankee round 21
+ChatterBot Delta round 21
+ChatterBot Romeo round 21
+ChatterBot Charlie round 21
+ChatterBot Tango round 21
+ChatterBot X-ray round 21
+ChatterBot Hotel round 21
+ChatterBot Quebec round 21
+2024-10-14 16:49:46.850272 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:46.864711 Tango: Yes
+2024-10-14 16:49:46.864893 X-ray: Yes
+2024-10-14 16:49:46.865013 Quebec: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:47.047811 Tango: We should replace Yankee with X-ray
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:47.060366 Charlie: No
+2024-10-14 16:49:47.061279 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:47.086591 Charlie: We should add Tango
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:47.102708 Quebec: Yes
+2024-10-14 16:49:47.102889 Yankee: Yes
+2024-10-14 16:49:47.103067 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:47.144840 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:47.156264 Sierra: Yes
+2024-10-14 16:49:47.156553 Delta: Yes
+2024-10-14 16:49:47.157311 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:47.218848 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:47.227294 Charlie: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:47.244338 X-ray: We should replace Sierra with Delta
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:47.259003 Yankee: No
+2024-10-14 16:49:47.259154 Charlie: No
+2024-10-14 16:49:47.259276 Quebec: No
+2024-10-14 16:49:47.259415 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:47.327140 Yankee: We should replace Quebec with Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:47.335360 X-ray: No
+2024-10-14 16:49:47.335503 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:49:47.354639 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:47.365138 Tango: No
+2024-10-14 16:49:47.365267 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:47.428141 X-ray: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 16:49:47.438379 Delta: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:47.471296 Delta: We should add Tango
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:47.495661 Foxtrot: No
+2024-10-14 16:49:47.495937 Romeo: No
+2024-10-14 16:49:47.496546 Hotel: No
+2024-10-14 16:49:47.496774 Sierra: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:47.593138 Quebec: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:47.600446 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:47.622348 Romeo: We should replace X-ray with Quebec
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:47.645470 Foxtrot: No
+2024-10-14 16:49:47.645704 Delta: No
+2024-10-14 16:49:47.645907 Hotel: No
+2024-10-14 16:49:47.646605 Sierra: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:47.719733 Sierra: We should add Charlie
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:47.735340 Foxtrot: No
+2024-10-14 16:49:47.735485 Delta: No
+2024-10-14 16:49:47.735594 Romeo: No
+2024-10-14 16:49:47.736081 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:47.954563 X-ray: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:47.965849 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:47.999509 Hotel: Sierra, sending you 3
+chatterbot Sierra submitting transactions
+2024-10-14 16:49:48.004911 Foxtrot: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:48.013347 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:48.037605 Charlie: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 16:49:48.048432 Tango: No
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:48.077732 Hotel: Foxtrot, sending you 1
+2024-10-14 16:49:48.184948 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:48.191394 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:48.204186 Hotel: Delta and Romeo, sending you 2
+2024-10-14 16:49:48.308168 Romeo: Sierra, Delta and Hotel, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Sierra submitting transactions
+2024-10-14 16:49:48.568406 X-ray: Yankee, Charlie and Quebec, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 16:49:48.619123 X-ray: Tango, sending you 3
+chatterbot Charlie submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Sierra round 22
+ChatterBot Foxtrot round 22
+ChatterBot Yankee round 22
+ChatterBot Delta round 22
+ChatterBot Romeo round 22
+ChatterBot Charlie round 22
+ChatterBot Tango round 22
+ChatterBot X-ray round 22
+ChatterBot Hotel round 22
+ChatterBot Quebec round 22
+2024-10-14 16:49:50.947975 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:50.960227 Tango: Yes
+2024-10-14 16:49:50.960407 X-ray: Yes
+2024-10-14 16:49:50.960599 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:51.012566 Foxtrot: We should add Romeo
+ChatterBot Delta reevaluating
+2024-10-14 16:49:51.028096 Sierra: Yes
+2024-10-14 16:49:51.028396 Delta: Yes
+2024-10-14 16:49:51.028607 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:51.094409 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:51.107939 Tango: No
+2024-10-14 16:49:51.108122 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:51.144146 Charlie: We should add Tango
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:51.159416 Quebec: Yes
+2024-10-14 16:49:51.159627 Yankee: Yes
+2024-10-14 16:49:51.159802 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:51.230215 Tango: We should replace Yankee with X-ray
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:51.241483 Charlie: No
+2024-10-14 16:49:51.241716 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:51.271696 Delta: We should drop Foxtrot
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:51.287900 Sierra: No
+2024-10-14 16:49:51.288119 Romeo: No
+2024-10-14 16:49:51.288310 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:51.341864 Quebec: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:51.349422 Charlie: Yes
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:51.368674 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:51.376972 Charlie: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:51.404541 Foxtrot: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:51.413767 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:51.436495 Charlie: Tango we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 16:49:51.446801 Tango: No
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:51.468428 X-ray: Sierra we want you to join our group
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:51.475512 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:51.494728 Sierra: We should add X-ray
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:51.509500 Foxtrot: Yes
+2024-10-14 16:49:51.509696 Delta: Yes
+2024-10-14 16:49:51.509822 Romeo: Yes
+2024-10-14 16:49:51.509941 Hotel: Yes
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 16:49:51.632345 Hotel: Sierra, sending you 3
+2024-10-14 16:49:51.726004 Hotel: Foxtrot, sending you 1
+2024-10-14 16:49:51.727896 X-ray: Yankee, Charlie, Tango and Quebec, sending you 2
+2024-10-14 16:49:51.919672 Hotel: Delta and Romeo, sending you 2
+2024-10-14 16:49:51.923336 X-ray: Delta, sending you 1
+2024-10-14 16:49:52.060095 Romeo: Sierra, Delta and Hotel, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Sierra round 23
+ChatterBot Foxtrot round 23
+ChatterBot Yankee round 23
+ChatterBot Delta round 23
+ChatterBot Romeo round 23
+ChatterBot Charlie round 23
+ChatterBot Tango round 23
+ChatterBot X-ray round 23
+ChatterBot Hotel round 23
+ChatterBot Quebec round 23
+2024-10-14 16:49:52.754338 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:52.840905 Sierra: Yes
+2024-10-14 16:49:52.841413 Delta: Yes
+2024-10-14 16:49:52.841808 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:52.893054 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:52.904566 Tango: Yes
+2024-10-14 16:49:52.905201 X-ray: Yes
+2024-10-14 16:49:52.905361 Quebec: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:52.946156 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:52.956646 Tango: Yes
+2024-10-14 16:49:52.956954 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:49:52.988523 Charlie: We should add Tango
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:53.001250 Quebec: Yes
+2024-10-14 16:49:53.001541 Yankee: Yes
+2024-10-14 16:49:53.001893 X-ray: Yes
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.046288 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.053374 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:53.071236 Quebec: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.077873 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:53.094152 Tango: We should replace Yankee with X-ray
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.105367 Charlie: No
+2024-10-14 16:49:53.105568 Quebec: Yes
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.124003 Foxtrot: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:53.129892 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:53.144741 Romeo: We should replace X-ray with Quebec
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:53.158408 Foxtrot: No
+2024-10-14 16:49:53.158634 Delta: No
+2024-10-14 16:49:53.158876 Hotel: No
+2024-10-14 16:49:53.159731 Sierra: No
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:49:53.231119 X-ray: Sierra we want you to join our group
+2024-10-14 16:49:53.239015 Sierra: No
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.260993 Tango: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:53.268305 X-ray: Yes
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:53.279206 Hotel: Sierra, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-14 16:49:56.275310 Hotel: Foxtrot, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 16:49:57.555753 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:49:57.560175 Hotel: Delta and Romeo, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Sierra round 24
+ChatterBot Foxtrot round 24
+ChatterBot Yankee round 24
+ChatterBot Delta round 24
+ChatterBot Romeo round 24
+ChatterBot Charlie round 24
+ChatterBot Tango round 24
+ChatterBot X-ray round 24
+ChatterBot Hotel round 24
+ChatterBot Quebec round 24
+2024-10-14 16:49:57.666975 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:57.685882 Tango: No
+2024-10-14 16:49:57.686121 X-ray: Yes
+2024-10-14 16:49:57.686335 Quebec: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:57.781088 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:57.801001 Sierra: Yes
+2024-10-14 16:49:57.801230 Delta: Yes
+2024-10-14 16:49:57.801401 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:57.876490 Charlie: We should add Tango
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:57.895707 Quebec: No
+2024-10-14 16:49:57.895878 Yankee: Yes
+2024-10-14 16:49:57.896042 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:58.089920 Yankee: We should replace Tango with Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:58.107911 X-ray: No
+2024-10-14 16:49:58.108285 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:58.140685 X-ray: We should replace Delta with Sierra
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:49:58.164994 Yankee: Yes
+2024-10-14 16:49:58.165400 Charlie: No
+2024-10-14 16:49:58.166263 Quebec: No
+2024-10-14 16:49:58.166591 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:58.267699 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:49:58.276301 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:58.301330 Sierra: We should add Yankee
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:58.322479 Foxtrot: No
+2024-10-14 16:49:58.323090 Delta: No
+2024-10-14 16:49:58.323271 Romeo: No
+2024-10-14 16:49:58.323421 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Sierra reevaluating
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+2024-10-14 16:49:58.417169 Yankee: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:58.424308 Charlie: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:58.439015 Quebec: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:49:58.447217 Charlie: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:58.462895 Hotel: Sierra, sending you 3
+2024-10-14 16:49:58.591552 Hotel: Foxtrot, sending you 1
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 16:49:58.673717 Hotel: Delta and Romeo, sending you 2
+2024-10-14 16:49:58.676045 Romeo: Sierra, Delta and Hotel, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Sierra round 25
+ChatterBot Foxtrot round 25
+ChatterBot Yankee round 25
+ChatterBot Delta round 25
+ChatterBot Romeo round 25
+ChatterBot Charlie round 25
+ChatterBot Tango round 25
+ChatterBot X-ray round 25
+ChatterBot Hotel round 25
+ChatterBot Quebec round 25
+chatterbot Sierra submitting transactions
+2024-10-14 16:49:59.634078 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:59.645625 Sierra: Yes
+2024-10-14 16:49:59.645804 Delta: Yes
+2024-10-14 16:49:59.645932 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:49:59.697255 Quebec: We should replace Tango with Charlie
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:59.710683 Yankee: Yes
+2024-10-14 16:49:59.710871 X-ray: No
+ChatterBot X-ray reevaluating
+2024-10-14 16:49:59.755071 Delta: We should add Quebec
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:49:59.782748 Foxtrot: No
+2024-10-14 16:49:59.782977 Romeo: No
+2024-10-14 16:49:59.783183 Hotel: No
+2024-10-14 16:49:59.784363 Sierra: No
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:49:59.979807 X-ray: We should replace Delta with Hotel
+ChatterBot Charlie reevaluating
+2024-10-14 16:50:00.066278 Yankee: No
+2024-10-14 16:50:00.066695 Charlie: No
+2024-10-14 16:50:00.067279 Quebec: No
+2024-10-14 16:50:00.067740 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.167768 Quebec: Charlie we want you to join our group
+ChatterBot Charlie reevaluating
+2024-10-14 16:50:00.177260 Charlie: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.199730 Yankee: We should add Charlie and Sierra
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.221505 Tango: No
+2024-10-14 16:50:00.221840 X-ray: Yes
+2024-10-14 16:50:00.222067 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.285095 X-ray: We should replace Delta with Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+2024-10-14 16:50:00.306068 Yankee: No
+2024-10-14 16:50:00.306333 Charlie: No
+2024-10-14 16:50:00.306550 Quebec: No
+2024-10-14 16:50:00.306755 Tango: No
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Charlie reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.415380 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:50:00.424526 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:50:00.450626 Yankee: We should add Charlie
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.467337 Tango: No
+2024-10-14 16:50:00.467534 X-ray: Yes
+2024-10-14 16:50:00.467738 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:00.575949 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:50:00.579973 Hotel: Sierra and Romeo, sending you 2
+2024-10-14 16:50:00.641119 Hotel: Foxtrot, sending you 1
+2024-10-14 16:50:00.658249 Hotel: Delta, sending you 3
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Sierra round 26
+ChatterBot Foxtrot round 26
+ChatterBot Yankee round 26
+ChatterBot Delta round 26
+ChatterBot Romeo round 26
+ChatterBot Charlie round 26
+ChatterBot Tango round 26
+ChatterBot X-ray round 26
+ChatterBot Hotel round 26
+ChatterBot Quebec round 26
+2024-10-14 16:50:01.692240 Yankee: We should add Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:01.705761 Tango: No
+2024-10-14 16:50:01.705893 X-ray: Yes
+2024-10-14 16:50:01.706001 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:01.792239 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:50:01.807696 Sierra: Yes
+2024-10-14 16:50:01.807923 Delta: Yes
+2024-10-14 16:50:01.808075 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:50:01.858676 Quebec: We should replace Yankee with Charlie
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:01.870265 Tango: No
+2024-10-14 16:50:01.870436 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:01.894558 Quebec: We should replace Tango with Charlie
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:01.906650 Yankee: Yes
+2024-10-14 16:50:01.906825 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:02.298290 Yankee: Charlie we want you to join our group
+2024-10-14 16:50:02.306199 Charlie: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:02.327418 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:50:02.336937 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:02.352257 Quebec: Charlie we want you to join our group
+2024-10-14 16:50:02.359275 Charlie: No
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:02.374239 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:50:02.377860 Delta: We should drop Foxtrot
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:02.388948 Sierra: No
+2024-10-14 16:50:02.389102 Romeo: No
+2024-10-14 16:50:02.389198 Hotel: No
+ChatterBot Delta reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:02.421727 Hotel: Sierra and Romeo, sending you 2
+2024-10-14 16:50:02.433080 Hotel: Foxtrot, sending you 1
+2024-10-14 16:50:02.447421 Hotel: Delta, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+ChatterBot Sierra round 27
+ChatterBot Foxtrot round 27
+ChatterBot Yankee round 27
+ChatterBot Delta round 27
+ChatterBot Romeo round 27
+ChatterBot Charlie round 27
+ChatterBot Tango round 27
+ChatterBot X-ray round 27
+ChatterBot Hotel round 27
+ChatterBot Quebec round 27
+2024-10-14 16:50:04.146881 Yankee: We should replace Tango with Charlie
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:04.160022 X-ray: No
+2024-10-14 16:50:04.161071 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:04.184796 Quebec: We should replace Yankee with Charlie
+2024-10-14 16:50:04.185113 X-ray: We should replace Delta with Romeo
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:04.195158 Tango: No
+2024-10-14 16:50:04.196733 X-ray: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:04.223168 Yankee: No
+2024-10-14 16:50:04.223414 Charlie: No
+2024-10-14 16:50:04.223639 Quebec: No
+2024-10-14 16:50:04.223808 Tango: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:04.370422 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:50:04.390988 Sierra: Yes
+2024-10-14 16:50:04.391207 Delta: Yes
+2024-10-14 16:50:04.391378 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 16:50:04.468306 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:04.481110 Tango: Yes
+2024-10-14 16:50:04.481568 X-ray: Yes
+2024-10-14 16:50:04.481715 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:04.542045 X-ray: Romeo we want you to join our group
+2024-10-14 16:50:04.554360 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:04.581764 Quebec: Charlie we want you to join our group
+2024-10-14 16:50:04.591561 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:04.609412 Tango: We should replace Quebec with X-ray
+ChatterBot Yankee reevaluating
+2024-10-14 16:50:04.621603 Yankee: No
+2024-10-14 16:50:04.621788 Charlie: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:50:04.646711 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:50:04.654804 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:04.674544 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:50:04.680873 Hotel: Sierra and Romeo, sending you 2
+2024-10-14 16:50:04.685974 Yankee: Charlie we want you to join our group
+2024-10-14 16:50:04.695799 Charlie: No
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:04.725399 Hotel: Foxtrot, sending you 1
+2024-10-14 16:50:04.739291 Hotel: Delta, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Charlie submitting transactions
+ChatterBot Sierra round 28
+ChatterBot Foxtrot round 28
+ChatterBot Yankee round 28
+ChatterBot Delta round 28
+ChatterBot Romeo round 28
+ChatterBot Charlie round 28
+ChatterBot Tango round 28
+ChatterBot X-ray round 28
+ChatterBot Hotel round 28
+ChatterBot Quebec round 28
+2024-10-14 16:50:05.842560 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:05.856539 Tango: No
+2024-10-14 16:50:05.856872 X-ray: Yes
+2024-10-14 16:50:05.857581 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:05.922691 Foxtrot: We should add Romeo
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:05.934611 Sierra: Yes
+2024-10-14 16:50:05.935548 Delta: Yes
+2024-10-14 16:50:05.935933 Hotel: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:50:05.990749 Quebec: We should replace Tango with Charlie
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:06.002761 Yankee: No
+2024-10-14 16:50:06.003032 X-ray: No
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:06.021958 Yankee: We should replace Quebec with Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:06.030938 X-ray: No
+2024-10-14 16:50:06.031072 Tango: No
+ChatterBot Tango reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:50:06.048801 X-ray: We should replace Delta with Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:06.064244 Yankee: No
+2024-10-14 16:50:06.064408 Charlie: No
+2024-10-14 16:50:06.064551 Quebec: No
+2024-10-14 16:50:06.064683 Tango: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:06.148592 Quebec: Charlie we want you to join our group
+2024-10-14 16:50:06.157584 Charlie: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:06.178175 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:06.193304 Tango: Yes
+2024-10-14 16:50:06.193492 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:06.223582 Foxtrot: Romeo we want you to join our group
+2024-10-14 16:50:06.231325 Romeo: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:06.253584 Yankee: Charlie we want you to join our group
+2024-10-14 16:50:06.262046 Charlie: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:06.282434 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:50:06.287098 Hotel: Sierra and Romeo, sending you 2
+2024-10-14 16:50:06.341025 X-ray: Romeo we want you to join our group
+2024-10-14 16:50:06.349721 Romeo: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:06.379091 Tango: We should replace Yankee with X-ray
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:06.391842 Charlie: No
+2024-10-14 16:50:06.392022 Quebec: No
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:06.417234 Hotel: Foxtrot, sending you 1
+2024-10-14 16:50:06.430771 Hotel: Delta, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Sierra round 29
+ChatterBot Foxtrot round 29
+ChatterBot Yankee round 29
+ChatterBot Delta round 29
+ChatterBot Romeo round 29
+ChatterBot Charlie round 29
+ChatterBot Tango round 29
+ChatterBot X-ray round 29
+ChatterBot Hotel round 29
+ChatterBot Quebec round 29
+2024-10-14 16:50:07.796741 Yankee: We should add Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:07.810315 Tango: No
+2024-10-14 16:50:07.810498 X-ray: Yes
+2024-10-14 16:50:07.810738 Quebec: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:07.868879 Romeo: We should drop Foxtrot
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:07.886342 Sierra: No
+2024-10-14 16:50:07.886631 Delta: Yes
+2024-10-14 16:50:07.886912 Hotel: Yes
+2024-10-14 16:50:07.887247 X-ray: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:07.978417 Quebec: We should replace Yankee with Charlie
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:07.997258 Tango: No
+2024-10-14 16:50:07.997425 X-ray: No
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:08.028254 Sierra: Quebec we want you to join our group
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:08.043894 Quebec: No
+ChatterBot Sierra reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 16:50:08.079028 Yankee: Charlie we want you to join our group
+2024-10-14 16:50:08.089771 Charlie: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:08.122815 Yankee: We should replace Tango with Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:08.133742 X-ray: No
+2024-10-14 16:50:08.133890 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:08.157377 X-ray: We should replace Delta with Romeo
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 16:50:08.172149 Yankee: No
+2024-10-14 16:50:08.172324 Charlie: No
+2024-10-14 16:50:08.172459 Quebec: No
+2024-10-14 16:50:08.172594 Tango: No
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Tango reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:08.289179 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:50:08.291896 Quebec: Charlie we want you to join our group
+2024-10-14 16:50:08.300125 Charlie: Yes
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:08.320316 Hotel: Sierra and Delta, sending you 3
+2024-10-14 16:50:08.370009 Hotel: Romeo, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Charlie submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Sierra round 30
+ChatterBot Foxtrot round 30
+ChatterBot Yankee round 30
+ChatterBot Delta round 30
+ChatterBot Romeo round 30
+ChatterBot Charlie round 30
+ChatterBot Tango round 30
+ChatterBot X-ray round 30
+ChatterBot Hotel round 30
+ChatterBot Quebec round 30
+2024-10-14 16:50:09.634565 Yankee: We should add Charlie
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 16:50:09.647174 Tango: No
+2024-10-14 16:50:09.647336 X-ray: Yes
+2024-10-14 16:50:09.647471 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:09.693305 Charlie: We should add Tango
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 16:50:09.702731 Quebec: Yes
+2024-10-14 16:50:09.702846 Yankee: Yes
+2024-10-14 16:50:09.702943 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Quebec reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:50:09.731941 Sierra: We should drop Foxtrot
+2024-10-14 16:50:09.741350 Delta: Yes
+2024-10-14 16:50:09.741485 Romeo: Yes
+2024-10-14 16:50:09.741584 Hotel: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+2024-10-14 16:50:09.770757 Hotel: We should add X-ray
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:50:09.781098 Delta: Yes
+2024-10-14 16:50:09.781221 Sierra: Yes
+2024-10-14 16:50:09.781314 Romeo: Yes
+ChatterBot Sierra reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Sierra reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:50:09.817456 Charlie: Tango we want you to join our group
+2024-10-14 16:50:09.821723 Tango: No
+ChatterBot Yankee reevaluating
+2024-10-14 16:50:09.842658 Hotel: X-ray we want you to join our group
+2024-10-14 16:50:09.849242 X-ray: No
+ChatterBot Hotel reevaluating
+2024-10-14 16:50:09.879093 Romeo: Sierra, Delta and Hotel, sending you 1
+2024-10-14 16:50:09.898666 Hotel: Sierra and Delta, sending you 3
+2024-10-14 16:50:09.902675 Hotel: Romeo, sending you 2
+chatterbot Charlie submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Sierra submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions

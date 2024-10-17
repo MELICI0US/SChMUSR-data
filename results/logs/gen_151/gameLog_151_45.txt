@@ -1,0 +1,2351 @@
+ChatterBot Romeo round 1
+ChatterBot Tango round 1
+ChatterBot Delta round 1
+ChatterBot Hotel round 1
+ChatterBot Foxtrot round 1
+ChatterBot Alpha round 1
+ChatterBot Lima round 1
+ChatterBot Kilo round 1
+ChatterBot Bravo round 1
+ChatterBot India round 1
+randomSelections Delta: {Delta, India, Alpha, Hotel, Foxtrot, Kilo} 
+2024-10-14 15:56:16.628422 Delta: Can we be friends?
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:16.640840 India: Yes
+2024-10-14 15:56:16.640986 Alpha: Yes
+2024-10-14 15:56:16.641106 Hotel: Yes
+2024-10-14 15:56:16.641214 Foxtrot: Yes
+2024-10-14 15:56:16.641319 Kilo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+randomSelections Tango: {Tango, Bravo, Romeo, Hotel, Delta, India} 
+2024-10-14 15:56:16.710505 Tango: We should group up
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:16.721765 Bravo: Yes
+2024-10-14 15:56:16.721958 Romeo: Yes
+2024-10-14 15:56:16.722076 Hotel: No
+2024-10-14 15:56:16.722222 Delta: No
+2024-10-14 15:56:16.722362 India: No
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+randomSelections Lima: {Lima, Delta, Foxtrot, Kilo, Hotel, Alpha} 
+2024-10-14 15:56:16.778192 Lima: We should group up
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:56:16.786530 Delta: No
+2024-10-14 15:56:16.786720 Foxtrot: No
+2024-10-14 15:56:16.786861 Kilo: No
+2024-10-14 15:56:16.786981 Hotel: No
+2024-10-14 15:56:16.787099 Alpha: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:56:16.829671 Bravo: Romeo and India, sending you 1
+2024-10-14 15:56:16.832664 Tango: Romeo, sending you 2
+2024-10-14 15:56:16.833690 Lima: Delta and Foxtrot, sending you 3
+2024-10-14 15:56:16.833975 Bravo: Tango, sending you 3
+2024-10-14 15:56:16.836667 India: Delta, Hotel and Kilo, sending you 3
+2024-10-14 15:56:16.837698 Tango: Delta, Hotel, Bravo and India, sending you 1
+2024-10-14 15:56:16.838056 Alpha: Delta and Hotel, sending you 2
+2024-10-14 15:56:16.838668 Lima: Hotel, sending you 2
+2024-10-14 15:56:16.838919 Bravo: Delta, sending you 2
+2024-10-14 15:56:16.839142 Romeo: Tango, Bravo and India, sending you 1
+2024-10-14 15:56:16.839365 Hotel: Delta and Foxtrot, sending you 3
+2024-10-14 15:56:16.840662 India: Foxtrot, sending you 2
+2024-10-14 15:56:16.840923 Alpha: Foxtrot and India, sending you 3
+2024-10-14 15:56:16.841677 Romeo: Delta, sending you 2
+2024-10-14 15:56:16.843666 Hotel: Alpha, sending you 5
+2024-10-14 15:56:16.843944 Alpha: Kilo, sending you 1
+2024-10-14 15:56:16.846674 Kilo: Delta, Foxtrot and India, sending you 2
+2024-10-14 15:56:16.846989 Romeo: Hotel, sending you 3
+2024-10-14 15:56:16.847269 Hotel: Kilo and India, sending you 1
+2024-10-14 15:56:16.849895 Foxtrot: Delta, sending you 3
+2024-10-14 15:56:16.850297 Kilo: Hotel, sending you 3
+2024-10-14 15:56:16.853673 Foxtrot: Hotel and Alpha, sending you 2
+2024-10-14 15:56:16.854011 Kilo: Alpha, sending you 5
+2024-10-14 15:56:16.858668 Foxtrot: Kilo and India, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 2
+ChatterBot Tango round 2
+ChatterBot Delta round 2
+ChatterBot Hotel round 2
+ChatterBot Foxtrot round 2
+ChatterBot Alpha round 2
+ChatterBot Lima round 2
+ChatterBot Kilo round 2
+ChatterBot Bravo round 2
+ChatterBot India round 2
+2024-10-14 15:56:18.171276 Lima: Let's form a team
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:18.184967 Romeo: No
+2024-10-14 15:56:18.185194 Tango: Yes
+2024-10-14 15:56:18.185319 Bravo: No
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:18.225453 Tango: Can we be friends?
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:18.246057 Lima: Yes
+2024-10-14 15:56:18.246378 Bravo: No
+2024-10-14 15:56:18.246554 Romeo: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:18.376245 Kilo: We should replace Delta with Lima
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:56:18.396034 Hotel: Yes
+2024-10-14 15:56:18.396259 Foxtrot: No
+2024-10-14 15:56:18.396412 Alpha: Yes
+2024-10-14 15:56:18.396995 India: No
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:56:18.504825 Foxtrot: We should drop Delta
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:18.523944 Kilo: No
+2024-10-14 15:56:18.524472 Hotel: Yes
+2024-10-14 15:56:18.524585 Alpha: Yes
+2024-10-14 15:56:18.524692 India: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:56:19.115015 Hotel: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:56:19.121002 Lima: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:19.146359 India: We should replace Delta with Romeo
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:56:19.164356 Kilo: No
+2024-10-14 15:56:19.164530 Hotel: No
+2024-10-14 15:56:19.164667 Foxtrot: No
+2024-10-14 15:56:19.164783 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:19.245365 Alpha: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:56:19.250179 Lima: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+chatterbot Lima submitting transactions
+2024-10-14 15:56:19.275814 India: We should replace Delta with Bravo
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:56:19.294702 Kilo: No
+2024-10-14 15:56:19.294849 Hotel: No
+2024-10-14 15:56:19.294967 Foxtrot: No
+2024-10-14 15:56:19.295067 Alpha: No
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:19.430038 Tango: Romeo, sending you 2
+2024-10-14 15:56:19.431254 Romeo: Sending you each 3
+2024-10-14 15:56:19.431786 Bravo: Romeo, sending you 4
+2024-10-14 15:56:19.509643 Kilo: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:56:19.519085 Lima: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:19.545740 Tango: Bravo, sending you 4
+2024-10-14 15:56:19.546039 Bravo: Tango, sending you 3
+2024-10-14 15:56:19.546400 India: Romeo we want you to join our group
+2024-10-14 15:56:19.552023 Romeo: No
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Romeo submitting transactions
+2024-10-14 15:56:19.577380 Alpha: Hotel and Kilo, sending you 4
+2024-10-14 15:56:19.598682 Alpha: Foxtrot, sending you 2
+2024-10-14 15:56:19.599589 India: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:19.605131 Bravo: No
+ChatterBot India reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:19.629759 Alpha: India, sending you 1
+2024-10-14 15:56:19.688096 Lima: Sending you 8
+2024-10-14 15:56:19.688407 Hotel: Foxtrot, Alpha and Lima, sending you 2
+2024-10-14 15:56:19.689435 Foxtrot: We should drop Lima
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:19.711942 Kilo: No
+2024-10-14 15:56:19.712158 Hotel: No
+2024-10-14 15:56:19.712331 Alpha: No
+2024-10-14 15:56:19.712538 India: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:56:19.804141 Bravo: We should drop Tango
+2024-10-14 15:56:19.810542 Romeo: No
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:19.817365 Hotel: Kilo, sending you 4
+chatterbot Delta submitting transactions
+2024-10-14 15:56:19.824696 Hotel: India, sending you 3
+2024-10-14 15:56:19.825046 India: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:56:19.829879 Lima: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:19.911727 Lima: We should replace Bravo with Romeo
+2024-10-14 15:56:19.927036 Lima: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:19.932185 Romeo: Yes
+ChatterBot Lima reevaluating
+2024-10-14 15:56:19.937541 Romeo: We should add Lima
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:19.947528 Bravo: No
+2024-10-14 15:56:19.947794 Tango: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:19.975422 India: Hotel and Foxtrot, sending you 2
+2024-10-14 15:56:19.992635 India: Alpha, sending you 4
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+2024-10-14 15:56:20.007609 Kilo: Hotel, Foxtrot and Alpha, sending you 3
+2024-10-14 15:56:20.009515 Lima: Romeo and Tango, sending you 3
+2024-10-14 15:56:20.010796 India: Kilo, sending you 3
+2024-10-14 15:56:20.011324 Bravo: Sorry, I'm actually sending you 0
+2024-10-14 15:56:20.033430 Kilo: India, sending you 5
+2024-10-14 15:56:20.033848 Lima: Bravo, sending you 2
+2024-10-14 15:56:20.034099 Bravo: Sending you 7
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 3
+ChatterBot Tango round 3
+ChatterBot Delta round 3
+ChatterBot Hotel round 3
+ChatterBot Foxtrot round 3
+ChatterBot Alpha round 3
+ChatterBot Lima round 3
+ChatterBot Kilo round 3
+ChatterBot Bravo round 3
+ChatterBot India round 3
+2024-10-14 15:56:21.469452 Romeo: We should add Lima
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:21.478376 Bravo: No
+2024-10-14 15:56:21.478511 Tango: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:21.494256 Bravo: We should add Tango
+2024-10-14 15:56:21.498452 Romeo: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:21.512079 Foxtrot: We should drop Lima
+2024-10-14 15:56:21.526913 Kilo: No
+2024-10-14 15:56:21.527108 Hotel: No
+2024-10-14 15:56:21.527258 Alpha: No
+2024-10-14 15:56:21.527784 India: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:56:21.610241 Romeo: Lima we want you to join our group
+2024-10-14 15:56:21.614147 Lima: No
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Delta submitting transactions
+2024-10-14 15:56:21.652311 Hotel: Foxtrot, Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:21.653141 Tango: Romeo, Lima and Bravo, sending you 2
+2024-10-14 15:56:21.653414 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:21.653723 Kilo: Hotel, Foxtrot and Alpha, sending you 3
+2024-10-14 15:56:21.654384 Lima: Hotel, sending you 4
+2024-10-14 15:56:21.654658 Bravo: Tango we want you to join our group
+2024-10-14 15:56:21.658835 Tango: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:21.667719 Bravo: We should replace Romeo with Tango
+2024-10-14 15:56:21.668067 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:21.668370 Hotel: Lima, sending you 1
+2024-10-14 15:56:21.669053 Lima: Foxtrot, Alpha, Kilo and India, sending you 1
+2024-10-14 15:56:21.669317 Kilo: Lima, sending you 1
+2024-10-14 15:56:21.678885 Alpha: Lima, sending you 1
+2024-10-14 15:56:21.679807 India: Hotel, sending you 3
+2024-10-14 15:56:21.680109 Kilo: India, sending you 4
+2024-10-14 15:56:21.685009 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:21.704767 India: Kilo, sending you 4
+2024-10-14 15:56:21.709789 Bravo: Sending you 7
+2024-10-14 15:56:21.739707 Romeo: Tango and Bravo, sending you 3
+2024-10-14 15:56:21.744791 Romeo: Lima, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 4
+ChatterBot Tango round 4
+2024-10-14 15:56:22.501742 Tango: We should add Delta
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:22.514427 Lima: No
+2024-10-14 15:56:22.514636 Romeo: No
+2024-10-14 15:56:22.514755 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta round 4
+ChatterBot Hotel round 4
+ChatterBot Foxtrot round 4
+ChatterBot Alpha round 4
+ChatterBot Lima round 4
+ChatterBot Kilo round 4
+ChatterBot Bravo round 4
+ChatterBot India round 4
+2024-10-14 15:56:22.558165 Tango: We should add India
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:56:22.569744 Lima: Yes
+2024-10-14 15:56:22.570005 Romeo: No
+2024-10-14 15:56:22.570152 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.632283 Bravo: We should add Romeo
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.637215 Tango: Yes
+2024-10-14 15:56:22.640976 Tango: We should add Hotel
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:22.652561 Lima: Yes
+2024-10-14 15:56:22.652789 Romeo: No
+2024-10-14 15:56:22.652892 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.759686 Tango: We should add Alpha
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:22.773323 Lima: Yes
+2024-10-14 15:56:22.774050 Romeo: No
+2024-10-14 15:56:22.774328 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.813043 Bravo: Romeo we want you to join our group
+2024-10-14 15:56:22.817099 Romeo: Yes
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.825749 Tango: We should add Kilo
+2024-10-14 15:56:22.836521 Lima: Yes
+2024-10-14 15:56:22.836904 Romeo: No
+2024-10-14 15:56:22.837782 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.878203 Tango: We should add Foxtrot
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:22.889942 Lima: Yes
+2024-10-14 15:56:22.890089 Romeo: No
+2024-10-14 15:56:22.890215 Bravo: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.932406 Romeo: We should drop Lima
+ChatterBot Tango reevaluating
+2024-10-14 15:56:22.940262 Bravo: Yes
+2024-10-14 15:56:22.940394 Tango: No
+ChatterBot Romeo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:22.955721 Hotel: Foxtrot, Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:22.956116 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:23.132762 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:23.133386 Hotel: Lima, sending you 1
+2024-10-14 15:56:23.134334 Kilo: Lima, sending you 2
+2024-10-14 15:56:23.134681 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:23.134986 Bravo: Romeo, sending you 4
+2024-10-14 15:56:23.135228 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:23.136006 Tango: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:56:23.140434 Foxtrot: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Hotel submitting transactions
+2024-10-14 15:56:23.158776 Bravo: Tango, sending you 3
+2024-10-14 15:56:23.159089 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:23.159492 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:23.195935 Tango: Kilo we want you to join our group
+2024-10-14 15:56:23.224247 Kilo: No
+ChatterBot Tango reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:56:23.256365 India: Lima, sending you 1
+2024-10-14 15:56:23.257590 Alpha: Lima, sending you 1
+2024-10-14 15:56:23.287651 Romeo: Tango and Bravo, sending you 3
+2024-10-14 15:56:23.292590 Romeo: Lima, sending you 2
+2024-10-14 15:56:23.298676 Tango: Romeo, sending you 2
+2024-10-14 15:56:23.302680 Tango: Lima, sending you 1
+2024-10-14 15:56:23.305962 Tango: Bravo, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 5
+ChatterBot Tango round 5
+ChatterBot Delta round 5
+ChatterBot Hotel round 5
+ChatterBot Foxtrot round 5
+2024-10-14 15:56:24.624883 Hotel: We should add Delta
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:56:24.641438 Foxtrot: No
+2024-10-14 15:56:24.641631 Alpha: No
+2024-10-14 15:56:24.641807 Kilo: No
+2024-10-14 15:56:24.641964 India: No
+2024-10-14 15:56:24.642077 Lima: No
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha round 5
+ChatterBot Lima round 5
+ChatterBot Kilo round 5
+2024-10-14 15:56:24.845086 Delta: We should add Lima
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:24.875472 India: Yes
+2024-10-14 15:56:24.876195 Alpha: Yes
+2024-10-14 15:56:24.876354 Hotel: Yes
+2024-10-14 15:56:24.876507 Foxtrot: Yes
+2024-10-14 15:56:24.876659 Kilo: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:56:25.023360 Kilo: We should add Romeo
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:25.040474 Hotel: No
+2024-10-14 15:56:25.040590 Foxtrot: No
+2024-10-14 15:56:25.040696 Alpha: No
+2024-10-14 15:56:25.040788 India: No
+2024-10-14 15:56:25.040878 Lima: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo round 5
+ChatterBot India round 5
+2024-10-14 15:56:25.146288 Kilo: We should add Tango
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:25.164161 Hotel: No
+2024-10-14 15:56:25.164316 Foxtrot: No
+2024-10-14 15:56:25.164431 Alpha: No
+2024-10-14 15:56:25.164597 India: No
+2024-10-14 15:56:25.164726 Lima: Yes
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:25.368848 Delta: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:56:25.376534 Lima: No
+ChatterBot Hotel reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:25.414353 Kilo: We should add Bravo
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:25.430715 Hotel: No
+2024-10-14 15:56:25.430882 Foxtrot: No
+2024-10-14 15:56:25.431 Alpha: No
+2024-10-14 15:56:25.431097 India: No
+2024-10-14 15:56:25.431712 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:25.525581 Tango: We should drop Foxtrot
+2024-10-14 15:56:25.534496 Lima: No
+2024-10-14 15:56:25.534645 Romeo: Yes
+2024-10-14 15:56:25.534764 Bravo: Yes
+2024-10-14 15:56:25.560631 Kilo: Tango we want you to join our group
+2024-10-14 15:56:25.564495 Tango: No
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:25.584241 Romeo: Tango and Bravo, sending you 3
+2024-10-14 15:56:25.587667 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:25.589369 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:25.590187 Romeo: Lima, sending you 2
+2024-10-14 15:56:25.593040 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:25.596688 Alpha: Lima, sending you 1
+2024-10-14 15:56:25.601687 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:25.602535 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:25.603718 Tango: Romeo, sending you 2
+2024-10-14 15:56:25.604221 Bravo: Romeo, sending you 3
+2024-10-14 15:56:25.604705 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:25.606700 Bravo: Tango, sending you 4
+2024-10-14 15:56:25.607703 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:25.609151 Tango: Lima, sending you 1
+2024-10-14 15:56:25.609675 India: Lima, sending you 1
+2024-10-14 15:56:25.614666 Tango: Bravo, sending you 3
+2024-10-14 15:56:25.616666 Kilo: Tango, sending you 1
+2024-10-14 15:56:25.620035 Kilo: Hotel, Alpha and India, sending you 3
+2024-10-14 15:56:25.624683 Kilo: Foxtrot and Lima, sending you 2
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 6
+ChatterBot Tango round 6
+ChatterBot Delta round 6
+ChatterBot Hotel round 6
+ChatterBot Foxtrot round 6
+ChatterBot Alpha round 6
+ChatterBot Lima round 6
+ChatterBot Kilo round 6
+ChatterBot Bravo round 6
+ChatterBot India round 6
+2024-10-14 15:56:26.896748 Kilo: We should replace Tango with Delta
+ChatterBot India reevaluating
+2024-10-14 15:56:26.921981 Hotel: No
+2024-10-14 15:56:26.922633 Foxtrot: No
+2024-10-14 15:56:26.922813 Alpha: No
+2024-10-14 15:56:26.922979 India: Yes
+2024-10-14 15:56:26.923147 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:27.086594 Romeo: We should drop Lima
+2024-10-14 15:56:27.093839 Bravo: Yes
+2024-10-14 15:56:27.094167 Tango: No
+2024-10-14 15:56:27.138367 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:27.139169 Tango: Romeo, sending you 2
+2024-10-14 15:56:27.166529 Tango: Lima, sending you 1
+2024-10-14 15:56:27.168645 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:27.170852 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:27.172790 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:27.175168 Romeo: Same as last round
+2024-10-14 15:56:27.175731 Bravo: Romeo, sending you 3
+2024-10-14 15:56:27.176795 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:27.178389 Tango: Bravo, sending you 3
+2024-10-14 15:56:27.179264 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:27.180946 Bravo: Tango, sending you 4
+2024-10-14 15:56:27.182110 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:27.220484 Kilo: Tango, sending you 1
+2024-10-14 15:56:27.221238 Alpha: Lima, sending you 1
+2024-10-14 15:56:27.222599 India: Lima, sending you 1
+2024-10-14 15:56:27.265063 Kilo: Hotel, Alpha and India, sending you 3
+chatterbot Tango submitting transactions
+2024-10-14 15:56:27.290237 Kilo: Foxtrot and Lima, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 7
+ChatterBot Tango round 7
+ChatterBot Delta round 7
+ChatterBot Hotel round 7
+ChatterBot Foxtrot round 7
+ChatterBot Alpha round 7
+ChatterBot Lima round 7
+ChatterBot Kilo round 7
+ChatterBot Bravo round 7
+ChatterBot India round 7
+2024-10-14 15:56:28.151315 India: We should add Delta
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:28.164827 Hotel: Yes
+2024-10-14 15:56:28.165018 Foxtrot: No
+2024-10-14 15:56:28.165139 Alpha: Yes
+2024-10-14 15:56:28.165265 Kilo: No
+2024-10-14 15:56:28.165383 Lima: No
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:28.350560 Romeo: Same as last round
+2024-10-14 15:56:28.373234 Tango: Romeo, sending you 2
+2024-10-14 15:56:28.374305 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:28.375141 Bravo: Romeo, sending you 3
+2024-10-14 15:56:28.376030 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:28.385678 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:28.386629 Tango: Lima, sending you 1
+2024-10-14 15:56:28.387544 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:28.388307 Kilo: Tango, sending you 1
+2024-10-14 15:56:28.389588 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:28.390375 Bravo: Tango, sending you 4
+2024-10-14 15:56:28.391519 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:28.392319 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:28.393633 Tango: Bravo, sending you 3
+2024-10-14 15:56:28.394168 Kilo: Hotel, Alpha and India, sending you 3
+2024-10-14 15:56:28.395144 Alpha: Lima, sending you 1
+2024-10-14 15:56:28.455116 India: Lima, sending you 1
+2024-10-14 15:56:28.456846 Kilo: Foxtrot and Lima, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 8
+ChatterBot Tango round 8
+ChatterBot Delta round 8
+ChatterBot Hotel round 8
+ChatterBot Foxtrot round 8
+ChatterBot Alpha round 8
+ChatterBot Lima round 8
+ChatterBot Kilo round 8
+ChatterBot Bravo round 8
+ChatterBot India round 8
+2024-10-14 15:56:29.558626 Hotel: We should add Delta
+ChatterBot India reevaluating
+2024-10-14 15:56:29.576604 Foxtrot: No
+2024-10-14 15:56:29.576893 Alpha: No
+2024-10-14 15:56:29.577062 Kilo: No
+2024-10-14 15:56:29.577214 India: Yes
+2024-10-14 15:56:29.577868 Lima: No
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:29.661879 Kilo: We should replace Tango with Romeo
+ChatterBot Hotel reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:29.674631 Hotel: No
+2024-10-14 15:56:29.674783 Foxtrot: No
+2024-10-14 15:56:29.674922 Alpha: No
+2024-10-14 15:56:29.675028 India: No
+2024-10-14 15:56:29.675142 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:29.760848 Kilo: Romeo we want you to join our group
+2024-10-14 15:56:29.764844 Romeo: No
+ChatterBot Hotel reevaluating
+2024-10-14 15:56:29.785660 Romeo: Same as last round
+2024-10-14 15:56:29.786053 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:29.786870 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:29.787511 Tango: Romeo, sending you 2
+2024-10-14 15:56:29.790683 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:29.791516 Tango: Lima, sending you 1
+2024-10-14 15:56:29.794674 Alpha: Lima, sending you 1
+2024-10-14 15:56:29.795909 Tango: Bravo, sending you 3
+2024-10-14 15:56:29.802675 Bravo: Romeo, sending you 3
+2024-10-14 15:56:29.804661 Kilo: Romeo, sending you 1
+2024-10-14 15:56:29.805655 Bravo: Tango, sending you 4
+2024-10-14 15:56:29.806657 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:29.807685 Kilo: Hotel, Alpha and India, sending you 3
+2024-10-14 15:56:29.810653 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:29.811590 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:29.812353 Kilo: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:29.815701 India: Lima, sending you 1
+2024-10-14 15:56:29.817243 Hotel: Alpha, Kilo and India, sending you 3
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 9
+ChatterBot Tango round 9
+ChatterBot Delta round 9
+ChatterBot Hotel round 9
+ChatterBot Foxtrot round 9
+ChatterBot Alpha round 9
+ChatterBot Lima round 9
+ChatterBot Kilo round 9
+ChatterBot Bravo round 9
+ChatterBot India round 9
+2024-10-14 15:56:30.981592 Kilo: We should replace Romeo with Delta
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 15:56:30.997193 Hotel: Yes
+2024-10-14 15:56:30.997392 Foxtrot: No
+2024-10-14 15:56:30.997533 Alpha: Yes
+2024-10-14 15:56:30.998335 India: No
+2024-10-14 15:56:30.998483 Lima: No
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:31.083702 Alpha: We should add Delta
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:31.100369 Hotel: Yes
+2024-10-14 15:56:31.100530 Foxtrot: No
+2024-10-14 15:56:31.100665 Kilo: Yes
+2024-10-14 15:56:31.100806 India: Yes
+2024-10-14 15:56:31.100909 Lima: No
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:31.276118 Kilo: We should replace Romeo with Tango
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:31.296033 Hotel: No
+2024-10-14 15:56:31.296982 Foxtrot: No
+2024-10-14 15:56:31.297205 Alpha: No
+2024-10-14 15:56:31.297653 India: No
+2024-10-14 15:56:31.298005 Lima: No
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot India reevaluating
+2024-10-14 15:56:31.403637 Romeo: Same as last round
+2024-10-14 15:56:31.406689 Alpha: Delta we want you to join our group
+2024-10-14 15:56:31.410393 Delta: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:31.432887 Tango: Romeo, sending you 2
+2024-10-14 15:56:31.433662 India: Delta we want you to join our group
+2024-10-14 15:56:31.437277 Delta: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+2024-10-14 15:56:31.456674 Tango: Lima, sending you 1
+2024-10-14 15:56:31.458661 Bravo: Romeo, sending you 3
+2024-10-14 15:56:31.460820 Tango: Bravo, sending you 3
+2024-10-14 15:56:31.461654 Bravo: Tango, sending you 4
+2024-10-14 15:56:31.462676 Hotel: Delta we want you to join our group
+2024-10-14 15:56:31.465865 Delta: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:31.486658 Alpha: Hotel and Kilo, sending you 3
+2024-10-14 15:56:31.488713 Kilo: Delta we want you to join our group
+2024-10-14 15:56:31.492230 Delta: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:31.509834 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:31.510371 Alpha: Foxtrot and India, sending you 2
+2024-10-14 15:56:31.512675 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:31.515688 Alpha: Lima, sending you 1
+2024-10-14 15:56:31.516729 India: Lima, sending you 1
+2024-10-14 15:56:31.529686 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:31.535771 Kilo: Romeo, sending you 1
+2024-10-14 15:56:31.537702 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:31.539665 Kilo: Hotel, Alpha and India, sending you 3
+2024-10-14 15:56:31.542659 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:31.544698 Kilo: Foxtrot and Lima, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 10
+ChatterBot Tango round 10
+ChatterBot Delta round 10
+ChatterBot Hotel round 10
+ChatterBot Foxtrot round 10
+ChatterBot Alpha round 10
+ChatterBot Lima round 10
+ChatterBot Kilo round 10
+ChatterBot Bravo round 10
+ChatterBot India round 10
+2024-10-14 15:56:32.816082 Lima: We should add Delta
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:32.831583 Hotel: Yes
+2024-10-14 15:56:32.831948 Foxtrot: No
+2024-10-14 15:56:32.832188 Alpha: Yes
+2024-10-14 15:56:32.832824 Kilo: Yes
+2024-10-14 15:56:32.833042 India: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:33.012550 Kilo: We should replace Romeo with Delta
+ChatterBot Lima reevaluating
+2024-10-14 15:56:33.032989 Hotel: Yes
+2024-10-14 15:56:33.033134 Foxtrot: No
+2024-10-14 15:56:33.033256 Alpha: Yes
+2024-10-14 15:56:33.033369 India: Yes
+2024-10-14 15:56:33.033479 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:33.112788 Kilo: Delta we want you to join our group
+2024-10-14 15:56:33.116781 Delta: Yes
+ChatterBot Lima reevaluating
+2024-10-14 15:56:33.136974 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:33.137601 Romeo: Same as last round
+2024-10-14 15:56:33.139910 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:33.141762 Tango: Romeo, sending you 2
+2024-10-14 15:56:33.142133 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:33.142668 Bravo: Romeo, sending you 3
+2024-10-14 15:56:33.143091 Alpha: Hotel, sending you 3
+2024-10-14 15:56:33.144319 India: Lima, sending you 1
+2024-10-14 15:56:33.146062 Tango: Lima, sending you 1
+2024-10-14 15:56:33.146469 Bravo: Tango, sending you 4
+2024-10-14 15:56:33.146787 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:33.147689 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:33.148979 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:33.149713 Tango: Bravo, sending you 3
+2024-10-14 15:56:33.154676 Kilo: Lima, sending you 2
+2024-10-14 15:56:33.159727 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 11
+ChatterBot Tango round 11
+ChatterBot Delta round 11
+ChatterBot Hotel round 11
+ChatterBot Foxtrot round 11
+ChatterBot Alpha round 11
+ChatterBot Lima round 11
+ChatterBot Kilo round 11
+ChatterBot Bravo round 11
+ChatterBot India round 11
+2024-10-14 15:56:34.213808 Kilo: We should replace Delta with Romeo
+2024-10-14 15:56:34.241327 Hotel: No
+2024-10-14 15:56:34.241632 Foxtrot: No
+2024-10-14 15:56:34.241829 Alpha: No
+2024-10-14 15:56:34.242018 India: No
+2024-10-14 15:56:34.242200 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:34.379312 Lima: Hotel, Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:34.393803 Alpha: Hotel, sending you 3
+2024-10-14 15:56:34.395578 Romeo: Same as last round
+2024-10-14 15:56:34.396046 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:34.397790 Tango: Romeo, sending you 2
+2024-10-14 15:56:34.399375 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:34.402144 Bravo: Romeo, sending you 3
+2024-10-14 15:56:34.402955 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:34.405773 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:34.407905 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:34.409422 Tango: Lima, sending you 1
+2024-10-14 15:56:34.410921 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:34.412792 Bravo: Tango, sending you 4
+2024-10-14 15:56:34.413880 Kilo: Lima, sending you 2
+2024-10-14 15:56:34.415114 Tango: Bravo, sending you 3
+2024-10-14 15:56:34.426087 India: Lima, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 12
+ChatterBot Tango round 12
+ChatterBot Delta round 12
+ChatterBot Hotel round 12
+ChatterBot Foxtrot round 12
+ChatterBot Alpha round 12
+ChatterBot Lima round 12
+ChatterBot Kilo round 12
+ChatterBot Bravo round 12
+ChatterBot India round 12
+2024-10-14 15:56:35.481040 Kilo: We should replace Delta with Romeo
+2024-10-14 15:56:35.496136 Hotel: No
+2024-10-14 15:56:35.496334 Foxtrot: No
+2024-10-14 15:56:35.496470 Alpha: No
+2024-10-14 15:56:35.496591 India: No
+2024-10-14 15:56:35.496723 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:35.584816 Kilo: We should replace Delta with Tango
+2024-10-14 15:56:35.598601 Hotel: No
+2024-10-14 15:56:35.598781 Foxtrot: No
+2024-10-14 15:56:35.598900 Alpha: No
+2024-10-14 15:56:35.599015 India: No
+2024-10-14 15:56:35.599127 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:35.716652 Bravo: Romeo, sending you 3
+2024-10-14 15:56:35.717282 Tango: Romeo, sending you 2
+2024-10-14 15:56:35.717711 Romeo: Same as last round
+2024-10-14 15:56:35.718531 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:35.719666 Bravo: Tango, sending you 4
+2024-10-14 15:56:35.721679 Tango: Lima, sending you 1
+2024-10-14 15:56:35.722769 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:35.724228 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:35.726271 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:35.727686 Tango: Bravo, sending you 3
+2024-10-14 15:56:35.728890 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:35.729983 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:35.732688 Alpha: Hotel, sending you 3
+2024-10-14 15:56:35.734696 India: Lima, sending you 1
+2024-10-14 15:56:35.736327 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:35.740667 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:35.744688 Kilo: Lima, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 13
+ChatterBot Tango round 13
+ChatterBot Delta round 13
+ChatterBot Hotel round 13
+ChatterBot Foxtrot round 13
+ChatterBot Alpha round 13
+ChatterBot Lima round 13
+ChatterBot Kilo round 13
+ChatterBot Bravo round 13
+ChatterBot India round 13
+2024-10-14 15:56:36.963146 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:36.964543 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:36.966276 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:36.966882 Romeo: Same as last round
+2024-10-14 15:56:36.967708 Bravo: Romeo, sending you 3
+2024-10-14 15:56:36.968286 Alpha: Hotel, sending you 3
+2024-10-14 15:56:36.970924 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:36.973116 Tango: Romeo, sending you 2
+2024-10-14 15:56:36.974662 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:36.977394 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:36.979808 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:36.982422 Bravo: Tango, sending you 4
+2024-10-14 15:56:36.983054 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:36.985115 Kilo: Lima, sending you 2
+2024-10-14 15:56:36.986332 Tango: Lima, sending you 1
+2024-10-14 15:56:36.987322 India: Lima, sending you 1
+2024-10-14 15:56:37.009430 Tango: Bravo, sending you 3
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 14
+ChatterBot Tango round 14
+ChatterBot Delta round 14
+ChatterBot Hotel round 14
+ChatterBot Foxtrot round 14
+ChatterBot Alpha round 14
+ChatterBot Lima round 14
+ChatterBot Kilo round 14
+ChatterBot Bravo round 14
+ChatterBot India round 14
+2024-10-14 15:56:38.446904 Romeo: Same as last round
+2024-10-14 15:56:38.448067 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:38.452063 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:38.455109 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:38.457682 Alpha: Hotel, sending you 3
+2024-10-14 15:56:38.460286 Tango: Romeo, sending you 2
+2024-10-14 15:56:38.462276 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:38.465440 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:38.469292 Kilo: Lima, sending you 2
+2024-10-14 15:56:38.470261 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:38.471800 Tango: Lima, sending you 1
+2024-10-14 15:56:38.472715 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:38.474378 Bravo: Romeo, sending you 3
+2024-10-14 15:56:38.488068 Tango: Bravo, sending you 3
+2024-10-14 15:56:38.488779 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:38.490393 Bravo: Tango, sending you 4
+2024-10-14 15:56:38.509860 India: Lima, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 15
+ChatterBot Tango round 15
+ChatterBot Delta round 15
+ChatterBot Hotel round 15
+ChatterBot Foxtrot round 15
+ChatterBot Alpha round 15
+ChatterBot Lima round 15
+ChatterBot Kilo round 15
+ChatterBot Bravo round 15
+ChatterBot India round 15
+2024-10-14 15:56:39.830344 Kilo: We should replace Delta with Romeo
+2024-10-14 15:56:39.856625 Hotel: No
+2024-10-14 15:56:39.856898 Foxtrot: No
+2024-10-14 15:56:39.858115 Alpha: No
+2024-10-14 15:56:39.858337 India: No
+2024-10-14 15:56:39.858542 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:40.019942 Lima: We should add Delta
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:40.105779 Hotel: Yes
+2024-10-14 15:56:40.106105 Foxtrot: No
+2024-10-14 15:56:40.106904 Alpha: Yes
+2024-10-14 15:56:40.107175 Kilo: Yes
+2024-10-14 15:56:40.107386 India: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:40.266720 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:40.272293 Delta: Yes
+ChatterBot Lima reevaluating
+2024-10-14 15:56:40.306668 Bravo: Romeo, sending you 3
+2024-10-14 15:56:40.307809 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:40.310901 Tango: Romeo, sending you 2
+2024-10-14 15:56:40.312567 Alpha: Hotel, sending you 3
+2024-10-14 15:56:40.315064 Romeo: Same as last round
+2024-10-14 15:56:40.316629 Bravo: Tango, sending you 4
+2024-10-14 15:56:40.317546 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:40.321147 Tango: Lima, sending you 1
+2024-10-14 15:56:40.322865 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:40.325005 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:40.325777 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:40.327093 Tango: Bravo, sending you 3
+2024-10-14 15:56:40.330943 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:40.333053 Kilo: Lima, sending you 2
+2024-10-14 15:56:40.336972 India: Lima, sending you 1
+2024-10-14 15:56:40.339669 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:40.344713 Lima: Foxtrot and India, sending you 1
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 16
+ChatterBot Tango round 16
+ChatterBot Delta round 16
+ChatterBot Hotel round 16
+ChatterBot Foxtrot round 16
+ChatterBot Alpha round 16
+ChatterBot Lima round 16
+ChatterBot Kilo round 16
+ChatterBot Bravo round 16
+ChatterBot India round 16
+2024-10-14 15:56:41.348166 Foxtrot: We should add Delta
+2024-10-14 15:56:41.374358 Hotel: Yes
+2024-10-14 15:56:41.374629 Alpha: Yes
+2024-10-14 15:56:41.374820 Kilo: Yes
+2024-10-14 15:56:41.375591 India: Yes
+2024-10-14 15:56:41.375786 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:56:41.652551 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:41.660133 Delta: Yes
+ChatterBot Lima reevaluating
+2024-10-14 15:56:41.730605 Tango: Romeo, sending you 2
+2024-10-14 15:56:41.731997 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:41.734013 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:41.736117 Alpha: Hotel, sending you 3
+2024-10-14 15:56:41.736910 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:41.739085 Tango: Lima, sending you 1
+2024-10-14 15:56:41.739774 India: Foxtrot and Alpha, sending you 2
+chatterbot India submitting transactions
+2024-10-14 15:56:41.742246 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:41.744098 Bravo: Romeo, sending you 3
+2024-10-14 15:56:41.744702 Romeo: Same as last round
+2024-10-14 15:56:41.745627 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:41.747645 Kilo: Lima, sending you 2
+2024-10-14 15:56:41.749633 Tango: Bravo, sending you 3
+2024-10-14 15:56:41.751036 India: Lima, sending you 1
+2024-10-14 15:56:41.752373 Bravo: Tango, sending you 4
+2024-10-14 15:56:41.799187 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:41.817846 Lima: Foxtrot and India, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+ChatterBot Romeo round 17
+ChatterBot Tango round 17
+ChatterBot Delta round 17
+ChatterBot Hotel round 17
+ChatterBot Foxtrot round 17
+ChatterBot Alpha round 17
+ChatterBot Lima round 17
+ChatterBot Kilo round 17
+ChatterBot Bravo round 17
+ChatterBot India round 17
+2024-10-14 15:56:42.624433 Foxtrot: We should add Delta
+2024-10-14 15:56:42.641723 Hotel: Yes
+2024-10-14 15:56:42.641962 Alpha: Yes
+2024-10-14 15:56:42.642135 Kilo: Yes
+2024-10-14 15:56:42.642285 India: Yes
+2024-10-14 15:56:42.642456 Lima: No
+2024-10-14 15:56:42.730514 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:42.734562 Delta: Yes
+2024-10-14 15:56:42.754661 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:42.757935 Tango: Romeo, sending you 2
+2024-10-14 15:56:42.758763 Bravo: Romeo, sending you 3
+2024-10-14 15:56:42.759642 Alpha: Hotel, sending you 3
+2024-10-14 15:56:42.760657 Romeo: Same as last round
+2024-10-14 15:56:42.761702 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:42.764671 Bravo: Tango, sending you 4
+2024-10-14 15:56:42.765515 Tango: Lima, sending you 1
+2024-10-14 15:56:42.766050 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:42.766871 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:42.768850 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:42.770852 Tango: Bravo, sending you 3
+2024-10-14 15:56:42.771923 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:42.774264 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:42.777133 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:42.779356 India: Lima, sending you 1
+2024-10-14 15:56:42.781986 Kilo: Lima, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 18
+ChatterBot Tango round 18
+ChatterBot Delta round 18
+ChatterBot Hotel round 18
+ChatterBot Foxtrot round 18
+ChatterBot Alpha round 18
+ChatterBot Lima round 18
+ChatterBot Kilo round 18
+ChatterBot Bravo round 18
+ChatterBot India round 18
+2024-10-14 15:56:44.469631 Tango: We should replace Lima with Delta
+2024-10-14 15:56:44.481288 Bravo: No
+2024-10-14 15:56:44.481563 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:44.539355 Foxtrot: We should add Delta
+2024-10-14 15:56:44.566655 Hotel: Yes
+2024-10-14 15:56:44.567080 Alpha: Yes
+2024-10-14 15:56:44.567532 Kilo: Yes
+2024-10-14 15:56:44.567871 India: Yes
+2024-10-14 15:56:44.568700 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:44.697835 Kilo: We should replace Delta with Tango
+ChatterBot Lima reevaluating
+2024-10-14 15:56:44.723722 Hotel: No
+2024-10-14 15:56:44.723925 Foxtrot: No
+2024-10-14 15:56:44.724095 Alpha: No
+2024-10-14 15:56:44.725056 India: No
+2024-10-14 15:56:44.725226 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:44.919129 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:44.928042 Delta: Yes
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:45.047594 Alpha: Hotel, sending you 3
+2024-10-14 15:56:45.049927 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:45.051177 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:45.052625 Romeo: Same as last round
+2024-10-14 15:56:45.053804 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:45.055154 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:45.056428 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:45.173109 Bravo: Romeo, sending you 3
+2024-10-14 15:56:45.173720 Tango: Romeo, sending you 2
+2024-10-14 15:56:45.175064 India: Lima, sending you 1
+2024-10-14 15:56:45.321813 Bravo: Tango, sending you 4
+2024-10-14 15:56:45.323040 Tango: Lima, sending you 1
+2024-10-14 15:56:45.325944 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:45.329291 Lima: Hotel, Alpha and Kilo, sending you 2
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 15:56:45.334825 Tango: Bravo, sending you 3
+2024-10-14 15:56:45.337688 Kilo: Lima, sending you 2
+2024-10-14 15:56:45.343605 Lima: Foxtrot and India, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 19
+ChatterBot Tango round 19
+ChatterBot Delta round 19
+ChatterBot Hotel round 19
+ChatterBot Foxtrot round 19
+ChatterBot Alpha round 19
+ChatterBot Lima round 19
+ChatterBot Kilo round 19
+ChatterBot Bravo round 19
+ChatterBot India round 19
+2024-10-14 15:56:46.149588 Tango: We should replace Lima with Delta
+2024-10-14 15:56:46.163985 Bravo: No
+2024-10-14 15:56:46.164231 Romeo: No
+ChatterBot Tango reevaluating
+2024-10-14 15:56:46.186989 Tango: Friends?
+2024-10-14 15:56:46.224647 Kilo: No
+2024-10-14 15:56:46.224936 Hotel: No
+2024-10-14 15:56:46.225120 Foxtrot: No
+2024-10-14 15:56:46.225315 Alpha: No
+2024-10-14 15:56:46.225485 Lima: No
+2024-10-14 15:56:46.225643 India: No
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:46.460222 Foxtrot: We should add Delta
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:46.490097 Hotel: Yes
+2024-10-14 15:56:46.490405 Alpha: Yes
+2024-10-14 15:56:46.490629 Kilo: Yes
+2024-10-14 15:56:46.490823 India: Yes
+2024-10-14 15:56:46.490986 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:46.770273 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:46.777857 Delta: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:46.944736 Bravo: Romeo, sending you 3
+2024-10-14 15:56:46.946003 Romeo: Same as last round
+2024-10-14 15:56:46.947810 Hotel: Foxtrot and Lima, sending you 2
+chatterbot Romeo submitting transactions
+2024-10-14 15:56:46.952940 Bravo: Tango, sending you 4
+2024-10-14 15:56:46.991551 Alpha: Hotel, sending you 3
+2024-10-14 15:56:46.995901 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:46.999663 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:47.004529 Tango: Romeo, sending you 2
+2024-10-14 15:56:47.006725 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:47.011749 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:47.018416 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:47.023099 Tango: Lima, sending you 1
+2024-10-14 15:56:47.025258 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:47.029719 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:47.035026 India: Lima, sending you 1
+2024-10-14 15:56:47.039444 Tango: Bravo, sending you 3
+2024-10-14 15:56:47.041740 Kilo: Lima, sending you 2
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 20
+ChatterBot Tango round 20
+ChatterBot Delta round 20
+ChatterBot Hotel round 20
+ChatterBot Foxtrot round 20
+ChatterBot Alpha round 20
+ChatterBot Lima round 20
+ChatterBot Kilo round 20
+ChatterBot Bravo round 20
+ChatterBot India round 20
+2024-10-14 15:56:48.110595 Foxtrot: We should add Delta
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:48.127097 Hotel: Yes
+2024-10-14 15:56:48.127276 Alpha: Yes
+2024-10-14 15:56:48.127927 Kilo: No
+2024-10-14 15:56:48.128069 India: Yes
+2024-10-14 15:56:48.128198 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:48.219411 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:48.225942 Delta: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:48.339307 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:48.345447 Bravo: Romeo, sending you 3
+2024-10-14 15:56:48.346262 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:48.357673 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:48.363667 Tango: Romeo, sending you 2
+2024-10-14 15:56:48.366361 Romeo: Same as last round
+2024-10-14 15:56:48.368402 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:48.374785 Bravo: Tango, sending you 4
+2024-10-14 15:56:48.376135 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:48.382202 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:48.388276 Tango: Lima, sending you 1
+2024-10-14 15:56:48.391029 Alpha: Hotel, sending you 3
+2024-10-14 15:56:48.394112 India: Lima, sending you 1
+2024-10-14 15:56:48.399325 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:48.404165 Tango: Bravo, sending you 3
+2024-10-14 15:56:48.406952 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:48.411429 Kilo: Lima, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 21
+ChatterBot Tango round 21
+ChatterBot Delta round 21
+ChatterBot Hotel round 21
+ChatterBot Foxtrot round 21
+ChatterBot Alpha round 21
+ChatterBot Lima round 21
+ChatterBot Kilo round 21
+ChatterBot Bravo round 21
+ChatterBot India round 21
+2024-10-14 15:56:49.497029 Foxtrot: We should add Delta
+2024-10-14 15:56:49.514274 Hotel: Yes
+2024-10-14 15:56:49.514455 Alpha: Yes
+2024-10-14 15:56:49.514596 Kilo: Yes
+2024-10-14 15:56:49.514741 India: Yes
+2024-10-14 15:56:49.514890 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:49.633465 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:49.639728 Delta: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:49.741452 Romeo: Same as last round
+2024-10-14 15:56:49.742596 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:49.913796 Bravo: Romeo, sending you 3
+2024-10-14 15:56:49.914961 Tango: Romeo, sending you 2
+2024-10-14 15:56:49.916285 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:49.920678 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:49.927044 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:49.931058 Alpha: Hotel, sending you 3
+2024-10-14 15:56:49.948366 Bravo: Tango, sending you 4
+2024-10-14 15:56:49.950835 Tango: Lima, sending you 1
+2024-10-14 15:56:49.953958 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:49.960685 India: Lima, sending you 1
+2024-10-14 15:56:49.966757 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:49.972063 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:49.977511 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+chatterbot Lima submitting transactions
+2024-10-14 15:56:49.982890 Tango: Bravo, sending you 3
+2024-10-14 15:56:49.986057 Kilo: Lima, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 22
+ChatterBot Tango round 22
+ChatterBot Delta round 22
+ChatterBot Hotel round 22
+ChatterBot Foxtrot round 22
+ChatterBot Alpha round 22
+ChatterBot Lima round 22
+ChatterBot Kilo round 22
+ChatterBot Bravo round 22
+ChatterBot India round 22
+2024-10-14 15:56:51.031291 Foxtrot: We should add Delta
+2024-10-14 15:56:51.049765 Hotel: Yes
+2024-10-14 15:56:51.049993 Alpha: Yes
+2024-10-14 15:56:51.050156 Kilo: Yes
+2024-10-14 15:56:51.050341 India: Yes
+2024-10-14 15:56:51.050933 Lima: No
+2024-10-14 15:56:51.185311 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:51.193752 Delta: Yes
+2024-10-14 15:56:51.234049 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:51.239498 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:51.244392 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:51.252192 Bravo: Romeo, sending you 3
+2024-10-14 15:56:51.252973 Tango: Romeo, sending you 2
+2024-10-14 15:56:51.254477 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:51.258426 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:51.262476 Romeo: Tango, sending you 4
+2024-10-14 15:56:51.263414 India: Hotel and Kilo, sending you 3
+2024-10-14 15:56:51.266478 Alpha: Hotel, sending you 3
+2024-10-14 15:56:51.268191 Tango: Lima, sending you 1
+2024-10-14 15:56:51.269230 Bravo: Tango, sending you 4
+2024-10-14 15:56:51.270519 Kilo: Lima, sending you 2
+2024-10-14 15:56:51.273466 Romeo: Bravo, sending you 3
+2024-10-14 15:56:51.274199 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:56:51.279052 Tango: Bravo, sending you 3
+2024-10-14 15:56:51.281177 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:51.285755 India: Lima, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot India submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 23
+ChatterBot Tango round 23
+ChatterBot Delta round 23
+ChatterBot Hotel round 23
+ChatterBot Foxtrot round 23
+ChatterBot Alpha round 23
+ChatterBot Lima round 23
+ChatterBot Kilo round 23
+ChatterBot Bravo round 23
+ChatterBot India round 23
+2024-10-14 15:56:56.254530 Tango: We should replace Lima with Delta
+2024-10-14 15:56:56.261942 Bravo: No
+2024-10-14 15:56:56.262212 Romeo: No
+ChatterBot Tango reevaluating
+2024-10-14 15:56:56.288912 Foxtrot: We should add Delta
+2024-10-14 15:56:56.308386 Hotel: Yes
+2024-10-14 15:56:56.308623 Alpha: Yes
+2024-10-14 15:56:56.308780 Kilo: Yes
+2024-10-14 15:56:56.308925 India: Yes
+2024-10-14 15:56:56.309120 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:56.404052 Kilo: We should replace Delta with Romeo
+2024-10-14 15:56:56.423269 Hotel: No
+2024-10-14 15:56:56.423538 Foxtrot: No
+2024-10-14 15:56:56.423705 Alpha: No
+2024-10-14 15:56:56.423929 India: No
+2024-10-14 15:56:56.424096 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:56.543469 Tango: We should replace Lima with Hotel
+2024-10-14 15:56:56.550916 Bravo: No
+2024-10-14 15:56:56.551079 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:56.567118 Foxtrot: Delta we want you to join our group
+2024-10-14 15:56:56.576765 Delta: Yes
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:56.601113 Tango: We should replace Lima with Alpha
+2024-10-14 15:56:56.609026 Bravo: No
+2024-10-14 15:56:56.609217 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:56.624657 Tango: We should replace Lima with Kilo
+2024-10-14 15:56:56.631665 Bravo: No
+2024-10-14 15:56:56.631834 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:56.647292 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:56.653779 India: Delta and Lima, sending you 1
+2024-10-14 15:56:56.659907 Romeo: Tango, sending you 4
+2024-10-14 15:56:56.662175 Tango: Delta we want you to join our group
+2024-10-14 15:56:56.668740 Delta: No
+ChatterBot Tango reevaluating
+2024-10-14 15:56:56.679167 Tango: We should replace Lima with Foxtrot
+2024-10-14 15:56:56.685730 Bravo: No
+2024-10-14 15:56:56.685895 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:56.701353 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:56.706961 Alpha: Hotel, sending you 3
+2024-10-14 15:56:56.711868 Bravo: Romeo, sending you 3
+2024-10-14 15:56:56.713991 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:56.719080 India: Hotel, sending you 3
+2024-10-14 15:56:56.723514 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:56.729381 Romeo: Bravo, sending you 3
+2024-10-14 15:56:56.731420 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:56.737627 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:56.743459 Bravo: Tango, sending you 4
+2024-10-14 15:56:56.745375 India: Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:56.751595 Kilo: Lima, sending you 2
+2024-10-14 15:56:56.791788 Tango: Romeo, sending you 2
+2024-10-14 15:56:56.798257 Tango: Delta, sending you 1
+2024-10-14 15:56:56.807203 Tango: Bravo, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Romeo round 24
+ChatterBot Tango round 24
+ChatterBot Delta round 24
+ChatterBot Hotel round 24
+ChatterBot Foxtrot round 24
+ChatterBot Alpha round 24
+ChatterBot Lima round 24
+ChatterBot Kilo round 24
+ChatterBot Bravo round 24
+ChatterBot India round 24
+2024-10-14 15:56:58.267066 Tango: We should replace Delta with India
+2024-10-14 15:56:58.274855 Bravo: No
+2024-10-14 15:56:58.275043 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:58.310476 Kilo: We should replace Delta with Tango
+2024-10-14 15:56:58.340361 Hotel: No
+2024-10-14 15:56:58.341104 Foxtrot: No
+2024-10-14 15:56:58.341344 Alpha: No
+2024-10-14 15:56:58.341598 India: No
+2024-10-14 15:56:58.341825 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:58.495588 Delta: We would work well together
+2024-10-14 15:56:58.501196 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 15:56:58.523703 Foxtrot: We should add Delta
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:58.550484 Hotel: Yes
+2024-10-14 15:56:58.550748 Alpha: Yes
+2024-10-14 15:56:58.551277 Kilo: Yes
+2024-10-14 15:56:58.551489 India: Yes
+2024-10-14 15:56:58.551696 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:58.819297 Tango: We should replace Delta with Lima
+2024-10-14 15:56:58.828835 Bravo: No
+2024-10-14 15:56:58.829092 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:58.848770 Foxtrot: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 15:56:58.858876 Delta: No
+ChatterBot Kilo reevaluating
+2024-10-14 15:56:58.884806 Tango: We should replace Delta with Alpha
+2024-10-14 15:56:58.904569 Bravo: No
+2024-10-14 15:56:58.904858 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:56:58.996784 Tango: Lima we want you to join our group
+2024-10-14 15:56:59.003745 Lima: No
+ChatterBot Tango reevaluating
+2024-10-14 15:56:59.019394 India: Delta and Lima, sending you 1
+2024-10-14 15:56:59.025970 Hotel: Foxtrot and Lima, sending you 2
+2024-10-14 15:56:59.031767 Romeo: Tango, sending you 4
+2024-10-14 15:56:59.033648 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:56:59.038844 Bravo: Romeo, sending you 3
+2024-10-14 15:56:59.040833 Alpha: Hotel, sending you 3
+chatterbot Alpha submitting transactions
+2024-10-14 15:56:59.047587 India: Hotel, sending you 3
+2024-10-14 15:56:59.052870 Hotel: Alpha, Kilo and India, sending you 3
+2024-10-14 15:56:59.058090 Romeo: Bravo, sending you 3
+2024-10-14 15:56:59.060065 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:56:59.064861 Bravo: Tango, sending you 4
+2024-10-14 15:56:59.066291 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:56:59.070129 India: Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:56:59.097700 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:56:59.103828 Tango: Romeo, sending you 2
+2024-10-14 15:56:59.167851 Kilo: Lima, sending you 2
+2024-10-14 15:56:59.175025 Tango: Delta, sending you 1
+2024-10-14 15:56:59.233683 Tango: Bravo, sending you 3
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot India submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+ChatterBot Romeo round 25
+ChatterBot Tango round 25
+ChatterBot Delta round 25
+ChatterBot Hotel round 25
+ChatterBot Foxtrot round 25
+ChatterBot Alpha round 25
+ChatterBot Lima round 25
+ChatterBot Kilo round 25
+ChatterBot Bravo round 25
+ChatterBot India round 25
+2024-10-14 15:57:00.568732 Tango: We should replace Delta with Kilo
+2024-10-14 15:57:00.575991 Bravo: No
+2024-10-14 15:57:00.576208 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:57:00.740330 Foxtrot: We should add Delta
+ChatterBot Lima reevaluating
+2024-10-14 15:57:00.768542 Hotel: Yes
+2024-10-14 15:57:00.768961 Alpha: Yes
+2024-10-14 15:57:00.769248 Kilo: Yes
+2024-10-14 15:57:00.769538 India: Yes
+2024-10-14 15:57:00.769860 Lima: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:00.956673 Foxtrot: Delta we want you to join our group
+2024-10-14 15:57:00.965098 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:01.086677 Bravo: Romeo, sending you 3
+2024-10-14 15:57:01.088599 Hotel: Delta, sending you 1
+2024-10-14 15:57:01.093848 Alpha: Hotel, sending you 3
+2024-10-14 15:57:01.100484 India: Delta and Lima, sending you 1
+2024-10-14 15:57:01.105882 Bravo: Tango, sending you 4
+2024-10-14 15:57:01.107299 Hotel: Foxtrot, Lima and Kilo, sending you 2
+2024-10-14 15:57:01.112004 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:57:01.115336 India: Hotel, sending you 3
+2024-10-14 15:57:01.122572 Tango: Romeo, sending you 2
+2024-10-14 15:57:01.123862 Romeo: Tango, sending you 4
+2024-10-14 15:57:01.127040 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:57:01.132945 Hotel: Alpha and India, sending you 3
+2024-10-14 15:57:01.138197 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:57:01.144186 India: Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:57:01.149535 Tango: Delta, sending you 1
+2024-10-14 15:57:01.151500 Romeo: Bravo, sending you 3
+2024-10-14 15:57:01.153430 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:57:01.159209 Kilo: Lima, sending you 2
+2024-10-14 15:57:01.165667 Tango: Bravo, sending you 3
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot India submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Romeo round 26
+ChatterBot Tango round 26
+ChatterBot Delta round 26
+ChatterBot Hotel round 26
+ChatterBot Foxtrot round 26
+ChatterBot Alpha round 26
+ChatterBot Lima round 26
+ChatterBot Kilo round 26
+ChatterBot Bravo round 26
+ChatterBot India round 26
+2024-10-14 15:57:02.331892 Foxtrot: We should add Delta
+ChatterBot Lima reevaluating
+2024-10-14 15:57:02.358507 Hotel: Yes
+2024-10-14 15:57:02.358822 Alpha: Yes
+2024-10-14 15:57:02.359397 Kilo: Yes
+2024-10-14 15:57:02.359633 India: Yes
+2024-10-14 15:57:02.359837 Lima: Yes
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:57:02.534724 Foxtrot: Delta we want you to join our group
+2024-10-14 15:57:02.545681 Delta: No
+ChatterBot Lima reevaluating
+2024-10-14 15:57:02.794382 Tango: Romeo, sending you 2
+2024-10-14 15:57:02.796811 Romeo: Tango, sending you 4
+2024-10-14 15:57:02.938238 Tango: Delta, sending you 1
+2024-10-14 15:57:02.940063 Alpha: Hotel, sending you 3
+2024-10-14 15:57:02.945632 India: Delta and Lima, sending you 1
+2024-10-14 15:57:02.952207 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:57:02.959459 Bravo: Romeo, sending you 3
+2024-10-14 15:57:02.961784 Romeo: Bravo, sending you 3
+2024-10-14 15:57:02.963977 Hotel: Delta, sending you 1
+chatterbot Bravo submitting transactions
+2024-10-14 15:57:02.970948 Tango: Bravo, sending you 3
+2024-10-14 15:57:02.973510 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:57:02.981472 India: Hotel, sending you 3
+2024-10-14 15:57:02.989636 Kilo: Lima, sending you 2
+2024-10-14 15:57:02.996264 Bravo: Tango, sending you 4
+2024-10-14 15:57:02.998668 Hotel: Foxtrot, Lima and Kilo, sending you 2
+2024-10-14 15:57:03.003400 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:57:03.007665 India: Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:57:03.012037 Hotel: Alpha and India, sending you 3
+2024-10-14 15:57:03.017296 Lima: Foxtrot and India, sending you 1
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Romeo round 27
+ChatterBot Tango round 27
+ChatterBot Delta round 27
+ChatterBot Hotel round 27
+ChatterBot Foxtrot round 27
+ChatterBot Alpha round 27
+ChatterBot Lima round 27
+ChatterBot Kilo round 27
+ChatterBot Bravo round 27
+ChatterBot India round 27
+2024-10-14 15:57:03.857752 Kilo: We should replace Delta with Tango
+2024-10-14 15:57:03.879410 Hotel: No
+2024-10-14 15:57:03.879832 Foxtrot: No
+2024-10-14 15:57:03.880812 Alpha: No
+2024-10-14 15:57:03.881121 India: No
+2024-10-14 15:57:03.881525 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:04.008062 Foxtrot: We should add Delta
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:04.026532 Hotel: Yes
+2024-10-14 15:57:04.026725 Alpha: Yes
+2024-10-14 15:57:04.026872 Kilo: Yes
+2024-10-14 15:57:04.027479 India: Yes
+2024-10-14 15:57:04.027620 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:04.144462 Kilo: We should replace Delta with Romeo
+2024-10-14 15:57:04.161561 Hotel: No
+2024-10-14 15:57:04.161818 Foxtrot: No
+2024-10-14 15:57:04.161959 Alpha: No
+2024-10-14 15:57:04.162096 India: No
+2024-10-14 15:57:04.162227 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:04.262585 Foxtrot: Delta we want you to join our group
+2024-10-14 15:57:04.270647 Delta: No
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:04.496263 Hotel: Delta, sending you 1
+2024-10-14 15:57:04.503943 Tango: Romeo, sending you 2
+2024-10-14 15:57:04.507275 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:57:04.514544 Alpha: Hotel, sending you 3
+2024-10-14 15:57:04.520897 Romeo: Tango, sending you 4
+chatterbot Romeo submitting transactions
+2024-10-14 15:57:04.523714 Hotel: Foxtrot, Lima and Kilo, sending you 2
+2024-10-14 15:57:04.530449 Tango: Delta, sending you 1
+2024-10-14 15:57:04.533172 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:57:04.540434 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:57:04.547171 India: Delta and Lima, sending you 1
+2024-10-14 15:57:04.554305 Romeo: Bravo, sending you 3
+2024-10-14 15:57:04.556572 Bravo: Romeo, sending you 3
+2024-10-14 15:57:04.558727 Hotel: Alpha and India, sending you 3
+2024-10-14 15:57:04.565453 Tango: Bravo, sending you 3
+2024-10-14 15:57:04.567670 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:57:04.574870 India: Hotel, sending you 3
+2024-10-14 15:57:04.583307 Bravo: Tango, sending you 4
+2024-10-14 15:57:04.585420 Kilo: Lima, sending you 2
+2024-10-14 15:57:04.592404 India: Foxtrot, Alpha and Kilo, sending you 2
+chatterbot Delta submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot India submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 28
+ChatterBot Tango round 28
+ChatterBot Delta round 28
+ChatterBot Hotel round 28
+ChatterBot Foxtrot round 28
+ChatterBot Alpha round 28
+ChatterBot Lima round 28
+ChatterBot Kilo round 28
+ChatterBot Bravo round 28
+ChatterBot India round 28
+2024-10-14 15:57:05.524299 Foxtrot: We should add Delta
+2024-10-14 15:57:05.549055 Hotel: Yes
+2024-10-14 15:57:05.549293 Alpha: Yes
+2024-10-14 15:57:05.549495 Kilo: Yes
+2024-10-14 15:57:05.550045 India: Yes
+2024-10-14 15:57:05.550243 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:05.668378 Foxtrot: Delta we want you to join our group
+2024-10-14 15:57:05.676361 Delta: No
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:05.762716 India: Delta and Lima, sending you 1
+2024-10-14 15:57:05.768724 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:57:05.772199 Hotel: Delta, sending you 1
+2024-10-14 15:57:05.775946 Alpha: Hotel, sending you 3
+2024-10-14 15:57:05.783287 Romeo: Tango, sending you 4
+2024-10-14 15:57:05.786085 Tango: Romeo and Bravo, sending you 3
+2024-10-14 15:57:05.787034 India: Hotel, sending you 3
+2024-10-14 15:57:05.794986 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:57:05.800367 Hotel: Foxtrot, Lima and Kilo, sending you 2
+2024-10-14 15:57:05.810353 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:57:05.814735 Romeo: Bravo, sending you 3
+2024-10-14 15:57:05.815734 Bravo: Romeo, sending you 3
+2024-10-14 15:57:05.822404 India: Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:57:05.838538 Hotel: Alpha and India, sending you 3
+2024-10-14 15:57:05.843075 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:57:05.848537 Bravo: Tango, sending you 4
+2024-10-14 15:57:05.851281 Kilo: Lima, sending you 2
+chatterbot Foxtrot submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot India submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Romeo round 29
+ChatterBot Tango round 29
+ChatterBot Delta round 29
+ChatterBot Hotel round 29
+ChatterBot Foxtrot round 29
+ChatterBot Alpha round 29
+ChatterBot Lima round 29
+ChatterBot Kilo round 29
+ChatterBot Bravo round 29
+ChatterBot India round 29
+2024-10-14 15:57:07.179514 Tango: We should replace Delta with Alpha
+2024-10-14 15:57:07.187501 Bravo: No
+2024-10-14 15:57:07.187672 Romeo: No
+ChatterBot Tango reevaluating
+ChatterBot Tango reevaluating
+2024-10-14 15:57:07.223896 Foxtrot: We should add Delta
+2024-10-14 15:57:07.245807 Hotel: Yes
+2024-10-14 15:57:07.246007 Alpha: Yes
+2024-10-14 15:57:07.246157 Kilo: Yes
+2024-10-14 15:57:07.246297 India: Yes
+2024-10-14 15:57:07.246441 Lima: No
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:07.365318 Kilo: We should replace Delta with Tango
+ChatterBot Lima reevaluating
+2024-10-14 15:57:07.385786 Hotel: No
+2024-10-14 15:57:07.386022 Foxtrot: No
+2024-10-14 15:57:07.386666 Alpha: No
+2024-10-14 15:57:07.386886 India: No
+2024-10-14 15:57:07.387051 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:07.522740 Foxtrot: Delta we want you to join our group
+ChatterBot Delta reevaluating
+2024-10-14 15:57:07.532601 Delta: No
+ChatterBot Lima reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:07.560913 Delta: We should replace Romeo with Bravo
+2024-10-14 15:57:07.562994 Tango: Alpha we want you to join our group
+2024-10-14 15:57:07.569624 Alpha: No
+ChatterBot Tango reevaluating
+2024-10-14 15:57:07.583493 Delta: Bravo we want you to join our group
+2024-10-14 15:57:07.587771 Bravo: No
+ChatterBot Delta reevaluating
+2024-10-14 15:57:07.592359 Delta: We should add Tango and Bravo
+2024-10-14 15:57:07.596122 Romeo: Yes
+ChatterBot Delta reevaluating
+2024-10-14 15:57:07.600689 India: Hotel and Kilo, sending you 3
+2024-10-14 15:57:07.607088 Hotel: Delta, sending you 1
+2024-10-14 15:57:07.614853 Bravo: Romeo, sending you 3
+2024-10-14 15:57:07.617592 India: Foxtrot and Alpha, sending you 2
+2024-10-14 15:57:07.625088 Hotel: Foxtrot, Lima and Kilo, sending you 2
+2024-10-14 15:57:07.632209 Alpha: Hotel, sending you 3
+2024-10-14 15:57:07.638992 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:57:07.646993 Bravo: Tango, sending you 4
+2024-10-14 15:57:07.649437 Romeo: Tango, sending you 4
+2024-10-14 15:57:07.651637 Delta: Tango and Bravo we want you to join our group
+ChatterBot Tango reevaluating
+2024-10-14 15:57:07.660715 Tango: Yes
+2024-10-14 15:57:07.660883 Bravo: No
+ChatterBot Bravo reevaluating
+ChatterBot Delta reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Delta reevaluating
+2024-10-14 15:57:07.685517 Bravo: We should add Delta
+ChatterBot Tango reevaluating
+2024-10-14 15:57:07.694293 Romeo: No
+2024-10-14 15:57:07.694428 Tango: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Tango reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:57:07.774503 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:57:07.782606 India: Lima, sending you 1
+2024-10-14 15:57:07.786988 Hotel: Alpha and India, sending you 3
+2024-10-14 15:57:07.798203 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:57:07.806441 Kilo: Lima, sending you 2
+2024-10-14 15:57:07.811671 Romeo: Bravo, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot India submitting transactions
+2024-10-14 15:57:07.818636 Lima: Foxtrot and India, sending you 1
+chatterbot Foxtrot submitting transactions
+2024-10-14 15:57:08.021319 Tango: Romeo and Bravo, sending you 3
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Delta submitting transactions
+ChatterBot Romeo round 30
+ChatterBot Tango round 30
+ChatterBot Delta round 30
+ChatterBot Hotel round 30
+ChatterBot Foxtrot round 30
+ChatterBot Alpha round 30
+ChatterBot Lima round 30
+ChatterBot Kilo round 30
+ChatterBot Bravo round 30
+ChatterBot India round 30
+2024-10-14 15:57:09.133512 Bravo: We should add Delta
+2024-10-14 15:57:09.142091 Romeo: No
+2024-10-14 15:57:09.142331 Tango: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:57:09.170891 Foxtrot: We should add Delta
+2024-10-14 15:57:09.194044 Hotel: Yes
+2024-10-14 15:57:09.194255 Alpha: Yes
+2024-10-14 15:57:09.194436 Kilo: Yes
+2024-10-14 15:57:09.194590 India: Yes
+2024-10-14 15:57:09.194765 Lima: No
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:09.342002 Foxtrot: Delta we want you to join our group
+2024-10-14 15:57:09.349340 Delta: No
+ChatterBot Kilo reevaluating
+2024-10-14 15:57:09.376951 Bravo: Delta we want you to join our group
+2024-10-14 15:57:09.383119 Delta: Yes
+ChatterBot Bravo reevaluating
+2024-10-14 15:57:09.439960 Hotel: Delta, sending you 1
+2024-10-14 15:57:09.449558 India: Hotel, sending you 4
+2024-10-14 15:57:09.458655 Lima: Hotel, Alpha and Kilo, sending you 2
+2024-10-14 15:57:09.467002 Romeo: Tango, sending you 4
+2024-10-14 15:57:09.469527 Tango: Romeo and Bravo, sending you 3
+2024-10-14 15:57:09.472410 Alpha: Hotel, sending you 3
+2024-10-14 15:57:09.482196 Hotel: Foxtrot, Lima and Kilo, sending you 2
+2024-10-14 15:57:09.493661 India: Foxtrot, Alpha and Kilo, sending you 2
+2024-10-14 15:57:09.503247 Lima: Foxtrot and India, sending you 1
+2024-10-14 15:57:09.512750 Romeo: Bravo, sending you 3
+2024-10-14 15:57:09.515546 Alpha: Foxtrot, Lima, Kilo and India, sending you 2
+2024-10-14 15:57:09.526404 Kilo: Hotel, Foxtrot, Alpha and India, sending you 3
+2024-10-14 15:57:09.536629 Hotel: Alpha and India, sending you 3
+2024-10-14 15:57:09.548584 India: Lima, sending you 1
+2024-10-14 15:57:09.558977 Kilo: Lima, sending you 2
+2024-10-14 15:57:09.667623 Bravo: Romeo and Tango, sending you 3
+2024-10-14 15:57:09.708273 Bravo: Delta, sending you 1
+chatterbot India submitting transactions
+chatterbot Delta submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Tango submitting transactions
+chatterbot Foxtrot submitting transactions

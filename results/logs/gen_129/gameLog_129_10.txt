@@ -1,0 +1,3416 @@
+ChatterBot Lima round 1
+ChatterBot Quebec round 1
+ChatterBot Whiskey round 1
+ChatterBot Oscar round 1
+ChatterBot Hotel round 1
+ChatterBot Yankee round 1
+randomSelections Hotel: {Hotel, Oscar} 
+2024-10-14 15:28:50.205727 Hotel: Can we be friends?
+ChatterBot Oscar reevaluating
+2024-10-14 15:28:50.210227 Oscar: Yes
+randomSelections Quebec: {Quebec, Whiskey} 
+2024-10-14 15:28:50.255734 Quebec: We should group up
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:50.268384 Whiskey: Yes
+ChatterBot X-ray round 1
+ChatterBot Bravo round 1
+ChatterBot Romeo round 1
+ChatterBot Foxtrot round 1
+randomSelections Lima: {Lima, Bravo, Hotel, Yankee, X-ray, Romeo, Quebec} 
+2024-10-14 15:28:50.280857 Lima: Can we be friends?
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:50.295596 Bravo: Yes
+2024-10-14 15:28:50.295843 Hotel: No
+2024-10-14 15:28:50.296118 Yankee: Yes
+2024-10-14 15:28:50.296863 X-ray: Yes
+2024-10-14 15:28:50.297038 Romeo: Yes
+2024-10-14 15:28:50.297232 Quebec: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+randomSelections Foxtrot: {Foxtrot, Quebec, Hotel, Bravo, Oscar, Romeo} 
+2024-10-14 15:28:50.389566 Foxtrot: We would work well together
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:50.400080 Quebec: No
+2024-10-14 15:28:50.400792 Hotel: No
+2024-10-14 15:28:50.400964 Bravo: No
+2024-10-14 15:28:50.401107 Oscar: No
+2024-10-14 15:28:50.401280 Romeo: No
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:50.462967 Whiskey: Sending you 9
+2024-10-14 15:28:50.463462 Hotel: Sending you 8
+2024-10-14 15:28:50.463782 Quebec: Sending you 12
+2024-10-14 15:28:50.471735 Yankee: Lima and Bravo, sending you 3
+2024-10-14 15:28:50.478016 Yankee: Quebec and Romeo, sending you 1
+2024-10-14 15:28:50.478939 Lima: Quebec and Romeo, sending you 4
+2024-10-14 15:28:50.479373 Oscar: Sending you 3
+2024-10-14 15:28:50.479683 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:28:50.490750 Foxtrot: Quebec, Oscar and Romeo, sending you 1
+2024-10-14 15:28:50.491320 Lima: Hotel and Yankee, sending you 1
+2024-10-14 15:28:50.491675 Yankee: Hotel and X-ray, sending you 2
+2024-10-14 15:28:50.492075 Bravo: Quebec, Hotel and Romeo, sending you 1
+2024-10-14 15:28:50.497377 Foxtrot: Hotel and Bravo, sending you 2
+2024-10-14 15:28:50.497900 Romeo: Quebec, Yankee and X-ray, sending you 2
+2024-10-14 15:28:50.498407 Lima: Bravo, sending you 2
+2024-10-14 15:28:50.500694 Romeo: Hotel, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 2
+ChatterBot Quebec round 2
+ChatterBot Whiskey round 2
+2024-10-14 15:28:51.479526 Whiskey: We should add Lima
+2024-10-14 15:28:51.486237 Quebec: No
+ChatterBot Whiskey reevaluating
+ChatterBot Oscar round 2
+ChatterBot Hotel round 2
+ChatterBot Yankee round 2
+ChatterBot X-ray round 2
+ChatterBot Bravo round 2
+ChatterBot Romeo round 2
+ChatterBot Foxtrot round 2
+2024-10-14 15:28:51.503036 Lima: We should drop Hotel and Quebec
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:28:51.528479 Yankee: Yes
+2024-10-14 15:28:51.528840 Bravo: Yes
+2024-10-14 15:28:51.528949 Romeo: Yes
+2024-10-14 15:28:51.529051 X-ray: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:51.601035 Bravo: Can we be friends?
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:51.628284 Lima: No
+2024-10-14 15:28:51.628465 Romeo: No
+2024-10-14 15:28:51.628580 Yankee: No
+2024-10-14 15:28:51.628693 Foxtrot: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:51.770766 Lima: We should group up
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:51.800323 Bravo: Yes
+2024-10-14 15:28:51.800477 Yankee: No
+2024-10-14 15:28:51.800589 Romeo: Yes
+2024-10-14 15:28:51.800708 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:51.922626 Whiskey: We should add Bravo
+2024-10-14 15:28:51.927793 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:51.938860 Hotel: Can we be friends?
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:51.967052 Lima: No
+2024-10-14 15:28:51.967532 Yankee: No
+2024-10-14 15:28:51.967661 Bravo: No
+2024-10-14 15:28:51.967773 Romeo: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:52.233167 Oscar: We should add Foxtrot
+ChatterBot Hotel reevaluating
+2024-10-14 15:28:52.240170 Hotel: No
+2024-10-14 15:28:52.265684 Whiskey: We should add Yankee
+2024-10-14 15:28:52.271411 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:52.278013 Oscar: Foxtrot we want you to join our group
+2024-10-14 15:28:52.283100 Foxtrot: No
+ChatterBot Hotel reevaluating
+2024-10-14 15:28:52.294586 Whiskey: We should add Romeo
+2024-10-14 15:28:52.300340 Quebec: No
+ChatterBot Whiskey reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 15:28:52.306663 Quebec: Same as last round
+2024-10-14 15:28:52.809328 Whiskey: We should add Foxtrot
+2024-10-14 15:28:52.816143 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:52.823033 Bravo: Lima, Romeo and Foxtrot, sending you 2
+2024-10-14 15:28:52.823829 Lima: Yankee, sending you 7
+2024-10-14 15:28:52.824177 Romeo: Lima, Yankee and Bravo, sending you 2
+2024-10-14 15:28:52.825047 Yankee: Sending you 12
+2024-10-14 15:28:52.825474 Whiskey: We should add Hotel
+2024-10-14 15:28:52.831235 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:52.837331 Lima: Bravo, sending you 5
+2024-10-14 15:28:52.837602 Oscar: Sending you each 3
+2024-10-14 15:28:52.837849 Bravo: Yankee, sending you 3
+2024-10-14 15:28:52.838467 Hotel: Sending you each 2
+2024-10-14 15:28:52.838868 Romeo: Foxtrot, sending you 1
+2024-10-14 15:28:52.839228 Foxtrot: Sending you each 2
+2024-10-14 15:28:52.839964 X-ray: Lima, sending you 1
+2024-10-14 15:28:53.529658 Whiskey: We should add X-ray
+2024-10-14 15:28:53.534930 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:53.540688 X-ray: Yankee, Bravo and Romeo, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 15:28:53.981391 Whiskey: X-ray we want you to join our group
+2024-10-14 15:28:53.986262 X-ray: No
+ChatterBot Whiskey reevaluating
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 3
+ChatterBot Quebec round 3
+ChatterBot Whiskey round 3
+ChatterBot Oscar round 3
+ChatterBot Hotel round 3
+ChatterBot Yankee round 3
+ChatterBot X-ray round 3
+2024-10-14 15:28:54.193018 X-ray: We should add Foxtrot
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:54.222430 Lima: Yes
+2024-10-14 15:28:54.222696 Yankee: No
+2024-10-14 15:28:54.222965 Bravo: Yes
+2024-10-14 15:28:54.223942 Romeo: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:54.341349 Lima: We should add X-ray
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:54.369469 Bravo: Yes
+2024-10-14 15:28:54.370016 Yankee: Yes
+2024-10-14 15:28:54.370130 Romeo: Yes
+2024-10-14 15:28:54.370286 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo round 3
+2024-10-14 15:28:54.508078 Whiskey: We should add X-ray
+2024-10-14 15:28:54.512146 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 15:28:54.523054 Oscar: Group up?
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:54.562850 Hotel: Yes
+2024-10-14 15:28:54.563083 Lima: No
+2024-10-14 15:28:54.563529 Yankee: No
+2024-10-14 15:28:54.563686 Bravo: No
+2024-10-14 15:28:54.563835 Romeo: No
+2024-10-14 15:28:54.563984 Foxtrot: No
+ChatterBot Oscar reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:54.824272 Bravo: We should add X-ray
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:54.849795 Lima: Yes
+2024-10-14 15:28:54.849937 Yankee: Yes
+2024-10-14 15:28:54.850045 Romeo: Yes
+2024-10-14 15:28:54.850198 Foxtrot: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo round 3
+ChatterBot Foxtrot round 3
+2024-10-14 15:28:54.952761 X-ray: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:54.957559 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:54.987572 Foxtrot: We should add Oscar and Hotel
+2024-10-14 15:28:54.987829 Romeo: We should add X-ray
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:55.013740 Bravo: No
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:55.017977 Lima: No
+ChatterBot Lima reevaluating
+2024-10-14 15:28:55.022266 Yankee: No
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:55.035181 Romeo: No
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:55.039708 Bravo: Yes
+2024-10-14 15:28:55.039854 Lima: Yes
+2024-10-14 15:28:55.039960 Yankee: Yes
+2024-10-14 15:28:55.040056 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:55.342585 Yankee: Lima we want you to join our group
+2024-10-14 15:28:55.348298 Lima: Yes
+2024-10-14 15:28:55.362982 Lima: X-ray we want you to join our group
+2024-10-14 15:28:55.367514 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:55.405193 Yankee: We should replace Foxtrot with Romeo
+2024-10-14 15:28:55.406362 Bravo: X-ray we want you to join our group
+2024-10-14 15:28:55.410907 X-ray: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:55.446732 Whiskey: X-ray we want you to join our group
+2024-10-14 15:28:55.452658 X-ray: No
+2024-10-14 15:28:55.461671 Quebec: Same as last round
+2024-10-14 15:28:55.785052 Oscar: Same as last round
+2024-10-14 15:28:55.785765 Hotel: Lima, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:28:55.786210 X-ray: Sending you each 2
+2024-10-14 15:28:55.787024 Foxtrot: X-ray we want you to join our group
+2024-10-14 15:28:55.793499 X-ray: Yes
+2024-10-14 15:28:55.841851 Romeo: X-ray we want you to join our group
+2024-10-14 15:28:55.845948 X-ray: Yes
+chatterbot Oscar submitting transactions
+2024-10-14 15:28:55.875130 Hotel: Oscar and Yankee, sending you 2
+2024-10-14 15:28:55.875568 Bravo: Lima, Yankee, X-ray and Foxtrot, sending you 2
+2024-10-14 15:28:56.035468 Whiskey: Quebec, sending you 8
+2024-10-14 15:28:56.035803 Lima: Yankee, sending you 3
+2024-10-14 15:28:56.036208 Bravo: Romeo, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 15:28:56.204173 Whiskey: X-ray, sending you 2
+2024-10-14 15:28:56.204670 Foxtrot: Lima, sending you 1
+2024-10-14 15:28:56.205079 Lima: X-ray, sending you 1
+2024-10-14 15:28:56.205912 Romeo: Lima and Bravo, sending you 2
+2024-10-14 15:28:56.206376 Yankee: Sending you 12
+chatterbot X-ray submitting transactions
+2024-10-14 15:28:56.313026 Foxtrot: Yankee, Bravo and Romeo, sending you 2
+2024-10-14 15:28:56.313493 Romeo: Yankee, X-ray and Foxtrot, sending you 1
+2024-10-14 15:28:56.313787 Lima: Bravo, sending you 4
+chatterbot Quebec submitting transactions
+2024-10-14 15:28:56.345494 Lima: Romeo and Foxtrot, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 4
+ChatterBot Quebec round 4
+ChatterBot Whiskey round 4
+ChatterBot Oscar round 4
+ChatterBot Hotel round 4
+ChatterBot Yankee round 4
+ChatterBot X-ray round 4
+ChatterBot Bravo round 4
+ChatterBot Romeo round 4
+ChatterBot Foxtrot round 4
+2024-10-14 15:28:56.862351 Hotel: We should add X-ray
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:56.916972 Oscar: Yes
+2024-10-14 15:28:56.917232 Lima: Yes
+2024-10-14 15:28:56.917842 Yankee: Yes
+2024-10-14 15:28:56.918018 Bravo: Yes
+2024-10-14 15:28:56.918183 Romeo: Yes
+2024-10-14 15:28:56.918346 Foxtrot: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:57.193009 Bravo: We should add Oscar and Hotel
+2024-10-14 15:28:57.193507 Foxtrot: We should add Oscar and Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:57.223596 X-ray: No
+ChatterBot X-ray reevaluating
+2024-10-14 15:28:57.228068 Lima: No
+ChatterBot Lima reevaluating
+2024-10-14 15:28:57.232923 Yankee: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:28:57.252876 Romeo: Yes
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:57.259868 Foxtrot: Yes
+2024-10-14 15:28:57.260494 X-ray: No
+2024-10-14 15:28:57.260679 Lima: No
+2024-10-14 15:28:57.260840 Yankee: No
+2024-10-14 15:28:57.260992 Bravo: No
+2024-10-14 15:28:57.261193 Romeo: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:57.788718 Bravo: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:28:57.840427 X-ray: No
+2024-10-14 15:28:57.840639 Lima: No
+2024-10-14 15:28:57.841182 Yankee: Yes
+2024-10-14 15:28:57.841335 Romeo: Yes
+2024-10-14 15:28:57.841477 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:58.222334 Yankee: We should replace Lima with X-ray
+2024-10-14 15:28:58.301242 Bravo: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 15:28:58.305791 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:58.337891 Foxtrot: Oscar and Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 15:28:58.346795 Oscar: Yes
+2024-10-14 15:28:58.346944 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:58.510885 Quebec: Same as last round
+2024-10-14 15:28:58.511388 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:28:58.512872 X-ray: Hotel we want you to join our group
+2024-10-14 15:28:58.518358 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:58.556312 X-ray: We should add Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:58.584481 Lima: No
+2024-10-14 15:28:58.584663 Yankee: No
+2024-10-14 15:28:58.584795 Bravo: Yes
+2024-10-14 15:28:58.584922 Romeo: Yes
+2024-10-14 15:28:58.585035 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:58.754173 Whiskey: Quebec, sending you 8
+2024-10-14 15:28:58.754851 Lima: Yankee, sending you 6
+chatterbot Hotel submitting transactions
+2024-10-14 15:28:58.770906 Whiskey: X-ray, sending you 2
+2024-10-14 15:28:58.771909 Lima: X-ray and Foxtrot, sending you 1
+2024-10-14 15:28:58.772369 Romeo: Oscar and Hotel we want you to join our group
+2024-10-14 15:28:58.780336 Oscar: Yes
+2024-10-14 15:28:58.780511 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:28:58.853993 Yankee: We should replace Lima with Oscar
+2024-10-14 15:28:58.854995 Foxtrot: Lima, Oscar, Hotel, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:28:58.856032 Lima: Bravo and Romeo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 15:28:58.910425 X-ray: Oscar we want you to join our group
+2024-10-14 15:28:58.946807 Oscar: Yes
+ChatterBot X-ray reevaluating
+2024-10-14 15:28:59.003721 Foxtrot: Yankee, sending you 2
+2024-10-14 15:28:59.006626 Hotel: Sending you 8
+2024-10-14 15:28:59.007169 Yankee: Oscar we want you to join our group
+2024-10-14 15:28:59.015477 Oscar: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:59.040602 Bravo: Oscar and Hotel we want you to join our group
+2024-10-14 15:28:59.054021 Oscar: Yes
+2024-10-14 15:28:59.054685 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Whiskey submitting transactions
+chatterbot Foxtrot submitting transactions
+2024-10-14 15:28:59.252752 Yankee: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 15:28:59.257858 X-ray: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:28:59.341525 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:28:59.342284 Yankee: Romeo we want you to join our group
+2024-10-14 15:28:59.346953 Romeo: Yes
+ChatterBot Yankee reevaluating
+chatterbot Lima submitting transactions
+2024-10-14 15:28:59.575918 Bravo: Lima, sending you 3
+2024-10-14 15:28:59.659805 X-ray: Lima, Yankee, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:28:59.660909 Bravo: Hotel, Yankee, X-ray and Romeo, sending you 1
+2024-10-14 15:28:59.742437 X-ray: Oscar, sending you 1
+2024-10-14 15:28:59.743775 Bravo: Foxtrot, sending you 2
+2024-10-14 15:28:59.776803 Yankee: Sending you 12
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 5
+ChatterBot Quebec round 5
+ChatterBot Whiskey round 5
+ChatterBot Oscar round 5
+ChatterBot Hotel round 5
+ChatterBot Yankee round 5
+ChatterBot X-ray round 5
+ChatterBot Bravo round 5
+ChatterBot Romeo round 5
+ChatterBot Foxtrot round 5
+2024-10-14 15:29:00.520106 Bravo: We should replace Hotel with Oscar
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:00.558327 X-ray: Yes
+2024-10-14 15:29:00.558520 Lima: No
+2024-10-14 15:29:00.558678 Yankee: No
+2024-10-14 15:29:00.558831 Romeo: No
+2024-10-14 15:29:00.558950 Foxtrot: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:00.769883 Bravo: We should add Oscar
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:00.799681 Lima: No
+2024-10-14 15:29:00.799887 Yankee: No
+2024-10-14 15:29:00.800013 X-ray: Yes
+2024-10-14 15:29:00.800471 Romeo: Yes
+2024-10-14 15:29:00.800587 Foxtrot: Yes
+2024-10-14 15:29:00.800708 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:01.057798 Yankee: We should replace Romeo with Lima
+2024-10-14 15:29:01.087280 Lima: Yankee, sending you 5
+2024-10-14 15:29:01.088787 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:01.090241 Bravo: Oscar we want you to join our group
+2024-10-14 15:29:01.095216 Oscar: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:01.133628 Yankee: We should replace Romeo with Bravo
+2024-10-14 15:29:01.134296 Lima: X-ray and Romeo, sending you 2
+2024-10-14 15:29:01.143709 Whiskey: Quebec, sending you 8
+2024-10-14 15:29:01.144078 Quebec: Same as last round
+2024-10-14 15:29:01.144309 Lima: Bravo, sending you 3
+2024-10-14 15:29:01.145365 Foxtrot: Lima, Oscar, Hotel, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:01.146160 X-ray: Lima, Oscar, Yankee, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:01.146950 Hotel: Same as last round
+2024-10-14 15:29:01.147241 Yankee: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:01.152080 Bravo: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:01.166065 Whiskey: X-ray, sending you 2
+2024-10-14 15:29:01.166537 Foxtrot: Yankee, sending you 2
+2024-10-14 15:29:01.167973 X-ray: Bravo, sending you 3
+2024-10-14 15:29:01.182017 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:01.220945 Bravo: Lima, sending you 3
+2024-10-14 15:29:01.222942 Yankee: Sending you 12
+chatterbot Oscar submitting transactions
+2024-10-14 15:29:01.233304 Bravo: Oscar, Hotel, Yankee, X-ray, Romeo and Foxtrot, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 6
+ChatterBot Quebec round 6
+ChatterBot Whiskey round 6
+ChatterBot Oscar round 6
+ChatterBot Hotel round 6
+ChatterBot Yankee round 6
+ChatterBot X-ray round 6
+ChatterBot Bravo round 6
+ChatterBot Romeo round 6
+ChatterBot Foxtrot round 6
+2024-10-14 15:29:03.036620 Yankee: We should replace Bravo with Lima
+2024-10-14 15:29:03.064814 Yankee: Lima we want you to join our group
+2024-10-14 15:29:03.069254 Lima: Yes
+2024-10-14 15:29:03.091476 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:03.093412 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:03.095307 Foxtrot: Lima, Oscar, Hotel, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:03.097594 Whiskey: Quebec, sending you 7
+2024-10-14 15:29:03.097980 Lima: Yankee, sending you 4
+2024-10-14 15:29:03.098712 Bravo: Lima, Oscar, Hotel, X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:03.100030 Quebec: Same as last round
+2024-10-14 15:29:03.100361 Hotel: Same as last round
+2024-10-14 15:29:03.101270 Foxtrot: Yankee, sending you 2
+2024-10-14 15:29:03.109592 Lima: X-ray and Romeo, sending you 2
+2024-10-14 15:29:03.111356 Whiskey: X-ray, sending you 2
+2024-10-14 15:29:03.111825 Bravo: Yankee, sending you 3
+2024-10-14 15:29:03.113500 Yankee: Sending you 12
+2024-10-14 15:29:03.114042 X-ray: Lima, Oscar, Yankee, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:03.115835 Lima: Bravo, sending you 3
+2024-10-14 15:29:03.118790 X-ray: Bravo, sending you 3
+2024-10-14 15:29:03.155523 Lima: Foxtrot, sending you 1
+chatterbot X-ray submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Lima round 7
+ChatterBot Quebec round 7
+ChatterBot Whiskey round 7
+ChatterBot Oscar round 7
+ChatterBot Hotel round 7
+ChatterBot Yankee round 7
+ChatterBot X-ray round 7
+ChatterBot Bravo round 7
+ChatterBot Romeo round 7
+ChatterBot Foxtrot round 7
+2024-10-14 15:29:04.173202 Yankee: We should replace Lima with Oscar
+2024-10-14 15:29:04.195264 Yankee: Oscar we want you to join our group
+2024-10-14 15:29:04.200178 Oscar: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:04.214545 Romeo: We should drop Hotel
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:04.245528 X-ray: Yes
+2024-10-14 15:29:04.245753 Lima: Yes
+2024-10-14 15:29:04.245888 Yankee: Yes
+2024-10-14 15:29:04.246020 Bravo: No
+2024-10-14 15:29:04.246146 Foxtrot: No
+2024-10-14 15:29:04.246272 Oscar: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:04.459578 Lima: Yankee, sending you 6
+2024-10-14 15:29:04.460544 Whiskey: Quebec, sending you 7
+2024-10-14 15:29:04.461416 Quebec: Same as last round
+2024-10-14 15:29:04.461856 Hotel: Same as last round
+2024-10-14 15:29:04.463459 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:04.465001 Whiskey: X-ray, sending you 2
+2024-10-14 15:29:04.469590 Bravo: We should drop Oscar
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:04.504120 Lima: Yes
+2024-10-14 15:29:04.504278 Yankee: No
+2024-10-14 15:29:04.504399 X-ray: Yes
+2024-10-14 15:29:04.504510 Romeo: No
+2024-10-14 15:29:04.504635 Foxtrot: No
+2024-10-14 15:29:04.505096 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:04.774289 Lima: Romeo and Foxtrot, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+2024-10-14 15:29:04.781203 Oscar: Hotel, sending you 2
+2024-10-14 15:29:04.787677 Oscar: Foxtrot, sending you 3
+2024-10-14 15:29:04.800738 Bravo: Lima and Yankee, sending you 2
+2024-10-14 15:29:04.803924 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:04.804799 Bravo: Oscar, Hotel, X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:04.808806 Yankee: Same as last round
+2024-10-14 15:29:04.810703 Foxtrot: Lima, Oscar, Yankee, X-ray and Romeo, sending you 1
+2024-10-14 15:29:04.814674 Foxtrot: Bravo, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 8
+ChatterBot Quebec round 8
+ChatterBot Whiskey round 8
+ChatterBot Oscar round 8
+ChatterBot Hotel round 8
+ChatterBot Yankee round 8
+ChatterBot X-ray round 8
+ChatterBot Bravo round 8
+ChatterBot Romeo round 8
+ChatterBot Foxtrot round 8
+2024-10-14 15:29:05.898019 Yankee: We should replace Lima with Hotel
+2024-10-14 15:29:05.938006 Foxtrot: We should add Hotel
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:05.988733 X-ray: No
+2024-10-14 15:29:05.988975 Lima: No
+2024-10-14 15:29:05.989147 Yankee: No
+2024-10-14 15:29:05.989295 Bravo: Yes
+2024-10-14 15:29:05.989485 Romeo: Yes
+2024-10-14 15:29:05.989678 Oscar: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:06.348712 Oscar: We should replace Foxtrot with Romeo
+2024-10-14 15:29:06.352297 Hotel: No
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:06.358391 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:06.364425 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:06.369487 X-ray: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:06.382992 Whiskey: Quebec, sending you 7
+2024-10-14 15:29:06.383607 Oscar: Romeo we want you to join our group
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:06.389068 Romeo: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:06.402219 Foxtrot: Hotel we want you to join our group
+2024-10-14 15:29:06.407033 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:06.463577 Bravo: Lima and Yankee, sending you 2
+2024-10-14 15:29:06.466539 Hotel: Same as last round
+2024-10-14 15:29:06.467133 X-ray: Lima, sending you 3
+2024-10-14 15:29:06.469582 Quebec: Same as last round
+2024-10-14 15:29:06.470779 Lima: Yankee, sending you 7
+2024-10-14 15:29:06.473660 Yankee: Hotel we want you to join our group
+2024-10-14 15:29:06.480516 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:06.502467 Bravo: Oscar, Hotel, X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:06.504728 X-ray: Oscar, Yankee, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:06.506681 Lima: X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:06.511686 Lima: Bravo, sending you 2
+2024-10-14 15:29:06.513715 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:06.522680 Oscar: Hotel, sending you 2
+2024-10-14 15:29:06.527953 Foxtrot: Lima, Hotel, Yankee, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:06.529609 Oscar: Romeo, sending you 3
+2024-10-14 15:29:06.531678 Yankee: Sending you 12
+2024-10-14 15:29:06.533747 Foxtrot: Oscar, sending you 2
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 9
+ChatterBot Quebec round 9
+ChatterBot Whiskey round 9
+ChatterBot Oscar round 9
+ChatterBot Hotel round 9
+2024-10-14 15:29:07.688796 Whiskey: We should replace X-ray with Oscar
+2024-10-14 15:29:07.693111 Quebec: No
+ChatterBot Yankee round 9
+ChatterBot X-ray round 9
+ChatterBot Bravo round 9
+ChatterBot Romeo round 9
+ChatterBot Foxtrot round 9
+2024-10-14 15:29:07.713993 Whiskey: Oscar we want you to join our group
+2024-10-14 15:29:07.717489 Oscar: No
+2024-10-14 15:29:07.734737 Yankee: We should replace X-ray with Lima
+2024-10-14 15:29:07.748655 Yankee: Lima we want you to join our group
+2024-10-14 15:29:07.752152 Lima: Yes
+2024-10-14 15:29:07.764824 Quebec: Same as last round
+2024-10-14 15:29:07.788018 Whiskey: Quebec, sending you 6
+2024-10-14 15:29:07.788602 Hotel: Same as last round
+2024-10-14 15:29:07.789339 Oscar: Hotel, sending you 2
+2024-10-14 15:29:07.789740 Lima: Yankee, sending you 6
+2024-10-14 15:29:07.824165 Whiskey: Oscar, sending you 2
+2024-10-14 15:29:07.824723 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:07.826288 Oscar: Romeo, sending you 3
+2024-10-14 15:29:07.827173 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:07.828695 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:07.830381 Foxtrot: Lima, Oscar, Hotel, Yankee, Bravo and Romeo, sending you 1
+2024-10-14 15:29:07.832013 Yankee: Sending you 12
+2024-10-14 15:29:07.832334 Bravo: Lima and X-ray, sending you 2
+2024-10-14 15:29:07.834072 Lima: Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:07.836263 X-ray: Yankee, sending you 3
+2024-10-14 15:29:07.838318 Foxtrot: X-ray, sending you 2
+2024-10-14 15:29:07.839975 Bravo: Oscar, Hotel, Yankee, Romeo and Foxtrot, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 10
+ChatterBot Quebec round 10
+ChatterBot Whiskey round 10
+ChatterBot Oscar round 10
+ChatterBot Hotel round 10
+ChatterBot Yankee round 10
+ChatterBot X-ray round 10
+ChatterBot Bravo round 10
+ChatterBot Romeo round 10
+ChatterBot Foxtrot round 10
+2024-10-14 15:29:08.837591 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:08.841961 Whiskey: We should add Hotel
+2024-10-14 15:29:08.849115 Quebec: No
+2024-10-14 15:29:08.849289 Oscar: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:08.879894 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:08.882677 X-ray: Yes
+2024-10-14 15:29:08.898431 Whiskey: We should replace Oscar with Romeo
+2024-10-14 15:29:08.903179 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:08.909553 Romeo: We should drop Hotel
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:08.938058 X-ray: Yes
+2024-10-14 15:29:08.938260 Lima: Yes
+2024-10-14 15:29:08.938444 Yankee: Yes
+2024-10-14 15:29:08.938587 Bravo: No
+2024-10-14 15:29:08.938750 Foxtrot: Yes
+2024-10-14 15:29:08.938924 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:09.208092 Oscar: We should replace Romeo with Bravo
+2024-10-14 15:29:09.214549 Hotel: No
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:09.222007 Quebec: Same as last round
+2024-10-14 15:29:09.222476 Lima: Yankee, sending you 7
+2024-10-14 15:29:09.224129 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:09.231363 X-ray: Yankee, sending you 3
+2024-10-14 15:29:09.232100 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:09.233460 Hotel: Same as last round
+2024-10-14 15:29:09.233787 Oscar: Bravo we want you to join our group
+2024-10-14 15:29:09.238373 Bravo: Yes
+2024-10-14 15:29:09.244849 Lima: Romeo, sending you 1
+2024-10-14 15:29:09.254052 Whiskey: Same as last round
+2024-10-14 15:29:09.254426 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:09.256351 Bravo: Lima and X-ray, sending you 2
+2024-10-14 15:29:09.310496 Bravo: Oscar, Hotel, Yankee, Romeo and Foxtrot, sending you 1
+chatterbot Quebec submitting transactions
+2024-10-14 15:29:09.341458 Yankee: Sending you 12
+2024-10-14 15:29:09.342135 Foxtrot: Lima, Oscar, Yankee and Romeo, sending you 1
+2024-10-14 15:29:09.343402 Oscar: Sending you each 2
+2024-10-14 15:29:09.363769 Foxtrot: X-ray and Bravo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 11
+ChatterBot Quebec round 11
+ChatterBot Whiskey round 11
+ChatterBot Oscar round 11
+ChatterBot Hotel round 11
+ChatterBot Yankee round 11
+2024-10-14 15:29:10.312580 Yankee: We should replace X-ray with Lima
+ChatterBot X-ray round 11
+ChatterBot Bravo round 11
+ChatterBot Romeo round 11
+ChatterBot Foxtrot round 11
+2024-10-14 15:29:10.325815 Whiskey: We should add X-ray
+2024-10-14 15:29:10.328386 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:10.339601 Yankee: Lima we want you to join our group
+2024-10-14 15:29:10.341791 Lima: Yes
+2024-10-14 15:29:10.355795 Whiskey: We should add Oscar and Hotel
+2024-10-14 15:29:10.357873 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:10.368651 Whiskey: X-ray we want you to join our group
+2024-10-14 15:29:10.371361 X-ray: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:10.379659 Hotel: Same as last round
+2024-10-14 15:29:10.380254 Oscar: Same as last round
+2024-10-14 15:29:10.380904 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:10.382536 Yankee: Sending you 12
+2024-10-14 15:29:10.383143 Lima: Yankee, sending you 6
+2024-10-14 15:29:10.385061 Bravo: Lima and X-ray, sending you 2
+2024-10-14 15:29:10.386749 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:10.387957 Quebec: Same as last round
+2024-10-14 15:29:10.388900 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:10.389685 Foxtrot: Lima, Oscar, Yankee and Romeo, sending you 1
+2024-10-14 15:29:10.390680 X-ray: Yankee, sending you 3
+2024-10-14 15:29:10.391702 Bravo: Oscar, Hotel, Yankee, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:10.393880 Lima: Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:10.395293 Foxtrot: X-ray and Bravo, sending you 2
+2024-10-14 15:29:10.417674 Whiskey: Quebec, sending you 6
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 12
+ChatterBot Quebec round 12
+ChatterBot Whiskey round 12
+ChatterBot Oscar round 12
+ChatterBot Hotel round 12
+ChatterBot Yankee round 12
+ChatterBot X-ray round 12
+ChatterBot Bravo round 12
+ChatterBot Romeo round 12
+ChatterBot Foxtrot round 12
+2024-10-14 15:29:11.588978 Foxtrot: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:11.641980 X-ray: Yes
+2024-10-14 15:29:11.642306 Lima: No
+2024-10-14 15:29:11.642489 Yankee: No
+2024-10-14 15:29:11.642701 Bravo: No
+2024-10-14 15:29:11.643359 Romeo: No
+2024-10-14 15:29:11.643535 Oscar: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:11.946877 Oscar: We should replace Bravo with Foxtrot
+2024-10-14 15:29:11.950054 Hotel: No
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:11.973982 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:11.980681 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:11.984698 X-ray: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:11.998499 Foxtrot: Hotel we want you to join our group
+2024-10-14 15:29:12.002782 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:12.036539 Yankee: We should replace Lima with Bravo
+2024-10-14 15:29:12.039876 Oscar: Foxtrot we want you to join our group
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:12.044169 Foxtrot: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:12.051014 Whiskey: Same as last round
+2024-10-14 15:29:12.051332 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:12.053034 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:12.054045 Quebec: Same as last round
+2024-10-14 15:29:12.054289 Lima: Yankee, sending you 7
+2024-10-14 15:29:12.055239 Hotel: Same as last round
+2024-10-14 15:29:12.055485 Yankee: Bravo we want you to join our group
+2024-10-14 15:29:12.058109 Bravo: Yes
+2024-10-14 15:29:12.070161 X-ray: Yankee, sending you 3
+2024-10-14 15:29:12.071126 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:12.074672 Bravo: Lima and X-ray, sending you 2
+2024-10-14 15:29:12.076170 Lima: Romeo, sending you 1
+2024-10-14 15:29:12.080714 Bravo: Oscar, Hotel, Yankee, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:12.086712 Yankee: Sending you 12
+2024-10-14 15:29:12.087879 Foxtrot: Lima, Oscar, Hotel, Yankee, Bravo and Romeo, sending you 1
+2024-10-14 15:29:12.092673 Foxtrot: X-ray, sending you 2
+2024-10-14 15:29:12.107667 Oscar: Hotel, sending you 1
+2024-10-14 15:29:12.111855 Oscar: Foxtrot, sending you 2
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 13
+ChatterBot Quebec round 13
+ChatterBot Whiskey round 13
+ChatterBot Oscar round 13
+ChatterBot Hotel round 13
+ChatterBot Yankee round 13
+ChatterBot X-ray round 13
+ChatterBot Bravo round 13
+ChatterBot Romeo round 13
+ChatterBot Foxtrot round 13
+2024-10-14 15:29:13.391662 Whiskey: We should add Foxtrot
+2024-10-14 15:29:13.419012 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:13.472731 Yankee: We should replace Bravo with Lima
+2024-10-14 15:29:13.501218 Whiskey: We should add X-ray
+2024-10-14 15:29:13.510735 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:13.516794 Yankee: Lima we want you to join our group
+2024-10-14 15:29:13.523030 Lima: Yes
+2024-10-14 15:29:13.545437 Whiskey: We should add Romeo
+2024-10-14 15:29:13.551368 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:13.557270 Lima: Yankee, sending you 6
+2024-10-14 15:29:13.564408 Quebec: Same as last round
+2024-10-14 15:29:13.564718 Oscar: Hotel, sending you 1
+2024-10-14 15:29:13.565222 Bravo: Lima, Oscar, Hotel, X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:13.567236 Hotel: Same as last round
+2024-10-14 15:29:13.567499 Foxtrot: Lima, Oscar, Hotel, Yankee, Bravo and Romeo, sending you 1
+2024-10-14 15:29:13.568148 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:13.569657 Oscar: Foxtrot, sending you 2
+2024-10-14 15:29:13.572504 Bravo: Yankee, sending you 3
+2024-10-14 15:29:13.573286 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:13.574440 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:13.575069 Lima: Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:13.576132 Foxtrot: X-ray, sending you 2
+2024-10-14 15:29:13.578161 X-ray: Yankee, sending you 3
+2024-10-14 15:29:13.631705 Yankee: Sending you 12
+2024-10-14 15:29:13.658251 Whiskey: Sending you 5
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Lima round 14
+ChatterBot Quebec round 14
+ChatterBot Whiskey round 14
+ChatterBot Oscar round 14
+ChatterBot Hotel round 14
+ChatterBot Yankee round 14
+ChatterBot X-ray round 14
+2024-10-14 15:29:15.111610 Yankee: We should replace Lima with Hotel
+ChatterBot Bravo round 14
+ChatterBot Romeo round 14
+ChatterBot Foxtrot round 14
+2024-10-14 15:29:15.138583 Yankee: Hotel we want you to join our group
+2024-10-14 15:29:15.141323 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:15.153104 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:15.156679 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:15.159940 X-ray: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:15.176665 Whiskey: Same as last round
+2024-10-14 15:29:15.177144 Bravo: Lima and Yankee, sending you 2
+2024-10-14 15:29:15.178757 Quebec: Same as last round
+2024-10-14 15:29:15.180035 Lima: Yankee, sending you 7
+2024-10-14 15:29:15.181220 Oscar: Hotel, sending you 1
+2024-10-14 15:29:15.181788 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:15.183489 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:15.185278 Hotel: Same as last round
+2024-10-14 15:29:15.185772 Bravo: Oscar, Hotel, X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:15.187496 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:15.188491 X-ray: Yankee, sending you 3
+2024-10-14 15:29:15.190288 Oscar: Foxtrot, sending you 2
+2024-10-14 15:29:15.190850 Foxtrot: Lima, Oscar, Hotel, Yankee, Bravo and Romeo, sending you 1
+2024-10-14 15:29:15.192768 Lima: Romeo, sending you 1
+2024-10-14 15:29:15.197698 Foxtrot: X-ray, sending you 2
+2024-10-14 15:29:15.204680 Yankee: Sending you 12
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Lima round 15
+ChatterBot Quebec round 15
+ChatterBot Whiskey round 15
+ChatterBot Oscar round 15
+ChatterBot Hotel round 15
+ChatterBot Yankee round 15
+ChatterBot X-ray round 15
+ChatterBot Bravo round 15
+ChatterBot Romeo round 15
+ChatterBot Foxtrot round 15
+2024-10-14 15:29:16.479474 Yankee: We should replace X-ray with Lima
+2024-10-14 15:29:16.484916 Whiskey: We should add X-ray
+2024-10-14 15:29:16.488995 Quebec: Yes
+2024-10-14 15:29:16.518601 Yankee: Lima we want you to join our group
+2024-10-14 15:29:16.524079 Lima: Yes
+2024-10-14 15:29:16.538637 Whiskey: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:16.543455 X-ray: No
+2024-10-14 15:29:16.551465 Bravo: We should drop Oscar
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:16.585251 Lima: Yes
+2024-10-14 15:29:16.585423 Yankee: Yes
+2024-10-14 15:29:16.585548 X-ray: No
+2024-10-14 15:29:16.585677 Romeo: No
+2024-10-14 15:29:16.585830 Foxtrot: No
+2024-10-14 15:29:16.585964 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:16.751675 Lima: Yankee, sending you 6
+2024-10-14 15:29:16.756004 Oscar: Hotel, sending you 1
+2024-10-14 15:29:16.758716 Lima: X-ray and Bravo, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 15:29:16.761787 Oscar: Foxtrot, sending you 2
+2024-10-14 15:29:16.763909 Romeo: We should drop Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:16.817082 X-ray: Yes
+2024-10-14 15:29:16.817346 Lima: Yes
+2024-10-14 15:29:16.818286 Yankee: Yes
+2024-10-14 15:29:16.818483 Bravo: No
+2024-10-14 15:29:16.818675 Foxtrot: Yes
+2024-10-14 15:29:16.818858 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:17.073795 Oscar: We should replace Foxtrot with Bravo
+2024-10-14 15:29:17.077497 Hotel: No
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:17.081291 Lima: Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:17.083921 Yankee: Sending you 12
+2024-10-14 15:29:17.085222 Whiskey: Quebec, sending you 5
+2024-10-14 15:29:17.085716 Quebec: Same as last round
+2024-10-14 15:29:17.085981 Hotel: Same as last round
+chatterbot Oscar submitting transactions
+2024-10-14 15:29:17.092303 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:17.097189 Romeo: We should drop Oscar and Hotel
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:17.227697 X-ray: Yes
+2024-10-14 15:29:17.228073 Lima: Yes
+2024-10-14 15:29:17.228941 Yankee: Yes
+2024-10-14 15:29:17.229343 Bravo: No
+2024-10-14 15:29:17.229645 Foxtrot: No
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:17.428012 Oscar: Bravo we want you to join our group
+2024-10-14 15:29:17.432345 Bravo: No
+ChatterBot Oscar reevaluating
+chatterbot Quebec submitting transactions
+chatterbot Lima submitting transactions
+2024-10-14 15:29:17.454877 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:17.470188 Foxtrot: Lima, Hotel, Yankee, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:17.474806 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:17.479593 Foxtrot: Oscar, sending you 2
+2024-10-14 15:29:17.496666 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:17.502397 Oscar: Sorry, I'm actually sending you 0
+2024-10-14 15:29:17.520731 Romeo: X-ray, sending you 2
+2024-10-14 15:29:17.531280 Oscar: Bravo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 16
+ChatterBot Quebec round 16
+ChatterBot Whiskey round 16
+ChatterBot Oscar round 16
+ChatterBot Hotel round 16
+ChatterBot Yankee round 16
+ChatterBot X-ray round 16
+ChatterBot Bravo round 16
+ChatterBot Romeo round 16
+ChatterBot Foxtrot round 16
+2024-10-14 15:29:19.315936 Bravo: We should replace Hotel with Oscar
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:19.358900 X-ray: Yes
+2024-10-14 15:29:19.359472 Lima: No
+2024-10-14 15:29:19.359662 Yankee: No
+2024-10-14 15:29:19.359842 Romeo: Yes
+2024-10-14 15:29:19.360012 Foxtrot: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:19.689714 Whiskey: We should replace X-ray with Bravo
+2024-10-14 15:29:19.693752 Quebec: No
+2024-10-14 15:29:19.716116 Romeo: We should add Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:19.749546 X-ray: No
+2024-10-14 15:29:19.749804 Lima: No
+2024-10-14 15:29:19.750707 Yankee: No
+2024-10-14 15:29:19.750849 Bravo: Yes
+2024-10-14 15:29:19.751016 Foxtrot: Yes
+2024-10-14 15:29:19.751142 Oscar: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:19.945680 Whiskey: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:19.950721 Bravo: No
+2024-10-14 15:29:19.957999 Oscar: We should replace Bravo with Foxtrot
+2024-10-14 15:29:19.962139 Hotel: No
+2024-10-14 15:29:19.966037 Lima: Yankee, sending you 7
+2024-10-14 15:29:19.970020 Hotel: Same as last round
+2024-10-14 15:29:19.970735 Quebec: Same as last round
+2024-10-14 15:29:19.971066 Oscar: Foxtrot we want you to join our group
+2024-10-14 15:29:19.975042 Foxtrot: Yes
+2024-10-14 15:29:19.982737 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:19.984353 Yankee: Same as last round
+2024-10-14 15:29:19.992236 Foxtrot: Lima, Oscar, Hotel, Yankee, Bravo and Romeo, sending you 1
+2024-10-14 15:29:19.995914 Lima: Romeo, sending you 1
+2024-10-14 15:29:19.998590 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:20.002014 Whiskey: Quebec, sending you 5
+2024-10-14 15:29:20.003161 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:20.006568 Foxtrot: X-ray, sending you 2
+2024-10-14 15:29:20.008786 Romeo: X-ray, sending you 2
+2024-10-14 15:29:20.010746 Whiskey: Bravo, sending you 2
+chatterbot Lima submitting transactions
+2024-10-14 15:29:20.012052 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:20.016175 Oscar: Hotel, sending you 1
+2024-10-14 15:29:20.024722 Oscar: Foxtrot, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 17
+ChatterBot Quebec round 17
+ChatterBot Whiskey round 17
+ChatterBot Oscar round 17
+ChatterBot Hotel round 17
+ChatterBot Yankee round 17
+ChatterBot X-ray round 17
+ChatterBot Bravo round 17
+ChatterBot Romeo round 17
+ChatterBot Foxtrot round 17
+2024-10-14 15:29:21.326278 Romeo: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:21.376076 X-ray: Yes
+2024-10-14 15:29:21.376377 Lima: No
+2024-10-14 15:29:21.376635 Yankee: No
+2024-10-14 15:29:21.377422 Bravo: Yes
+2024-10-14 15:29:21.377603 Foxtrot: Yes
+2024-10-14 15:29:21.377825 Oscar: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:21.631922 X-ray: We should replace Oscar with Hotel
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:21.657508 Lima: Yes
+2024-10-14 15:29:21.657704 Yankee: No
+2024-10-14 15:29:21.657863 Bravo: Yes
+2024-10-14 15:29:21.657974 Romeo: Yes
+2024-10-14 15:29:21.658091 Foxtrot: No
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:21.907563 Bravo: We should add Oscar
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 15:29:21.941750 Lima: No
+2024-10-14 15:29:21.942020 Yankee: No
+2024-10-14 15:29:21.942189 X-ray: Yes
+2024-10-14 15:29:21.942424 Romeo: Yes
+2024-10-14 15:29:21.942636 Foxtrot: Yes
+2024-10-14 15:29:21.942817 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:22.161442 Whiskey: We should replace Bravo with X-ray
+2024-10-14 15:29:22.164363 Quebec: No
+2024-10-14 15:29:22.183861 Whiskey: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:22.188403 X-ray: No
+2024-10-14 15:29:22.197755 Romeo: Hotel we want you to join our group
+2024-10-14 15:29:22.204101 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:22.253246 Yankee: We should replace Lima with Bravo
+2024-10-14 15:29:22.255498 Lima: Hotel we want you to join our group
+2024-10-14 15:29:22.266884 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:22.337195 Oscar: Hotel, sending you 1
+2024-10-14 15:29:22.338362 Foxtrot: Lima, Hotel, Yankee, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:22.340534 Quebec: Same as last round
+2024-10-14 15:29:22.341373 Hotel: Same as last round
+2024-10-14 15:29:22.342026 Yankee: Bravo we want you to join our group
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:22.346718 Bravo: Yes
+2024-10-14 15:29:22.359797 Oscar: Foxtrot, sending you 2
+2024-10-14 15:29:22.361073 Foxtrot: Oscar, sending you 2
+2024-10-14 15:29:22.364238 Lima: Yankee, sending you 7
+2024-10-14 15:29:22.368725 Whiskey: Quebec, sending you 5
+2024-10-14 15:29:22.394149 Lima: X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:22.398479 X-ray: Lima, Oscar, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:22.402191 Yankee: Sending you 12
+2024-10-14 15:29:22.403383 Whiskey: X-ray, sending you 2
+2024-10-14 15:29:22.404778 Lima: Bravo, sending you 2
+2024-10-14 15:29:22.408424 X-ray: Yankee, sending you 3
+2024-10-14 15:29:22.412404 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:22.415812 Romeo: Lima, Oscar, Hotel, Yankee, X-ray, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:22.424121 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 18
+ChatterBot Quebec round 18
+ChatterBot Whiskey round 18
+ChatterBot Oscar round 18
+ChatterBot Hotel round 18
+ChatterBot Yankee round 18
+ChatterBot X-ray round 18
+ChatterBot Bravo round 18
+ChatterBot Romeo round 18
+ChatterBot Foxtrot round 18
+2024-10-14 15:29:24.616906 Romeo: We should drop Oscar
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:24.666889 Bravo: Yes
+2024-10-14 15:29:24.667136 Lima: Yes
+2024-10-14 15:29:24.667349 Yankee: Yes
+2024-10-14 15:29:24.668132 X-ray: No
+2024-10-14 15:29:24.668331 Foxtrot: No
+2024-10-14 15:29:24.668559 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:24.970653 Yankee: We should replace Bravo with Lima
+2024-10-14 15:29:24.972730 Lima: Yankee, sending you 7
+2024-10-14 15:29:24.977440 Whiskey: Quebec, sending you 5
+2024-10-14 15:29:24.978375 Hotel: Same as last round
+2024-10-14 15:29:24.980491 Quebec: Same as last round
+2024-10-14 15:29:24.981082 Oscar: Hotel, sending you 1
+2024-10-14 15:29:24.985059 Foxtrot: Lima, Hotel, Yankee, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:24.991683 X-ray: We should add Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:25.037145 Lima: Yes
+2024-10-14 15:29:25.037376 Yankee: No
+2024-10-14 15:29:25.037548 Bravo: Yes
+2024-10-14 15:29:25.037718 Romeo: Yes
+2024-10-14 15:29:25.037892 Foxtrot: Yes
+2024-10-14 15:29:25.038053 Oscar: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:25.274114 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:25.281022 Whiskey: X-ray, sending you 2
+2024-10-14 15:29:25.281627 Foxtrot: Oscar, sending you 2
+2024-10-14 15:29:25.284362 X-ray: We should replace Oscar with Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:25.411309 Lima: Yes
+2024-10-14 15:29:25.411578 Yankee: No
+2024-10-14 15:29:25.412744 Bravo: Yes
+2024-10-14 15:29:25.412985 Romeo: Yes
+2024-10-14 15:29:25.413455 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:25.627478 Bravo: We should add Oscar
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:25.657899 Lima: No
+2024-10-14 15:29:25.658051 Yankee: No
+2024-10-14 15:29:25.658157 X-ray: No
+2024-10-14 15:29:25.658259 Romeo: No
+2024-10-14 15:29:25.658727 Foxtrot: Yes
+2024-10-14 15:29:25.658838 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 15:29:25.878139 Yankee: Lima we want you to join our group
+2024-10-14 15:29:25.882458 Lima: Yes
+2024-10-14 15:29:25.896588 Lima: Romeo, sending you 1
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+2024-10-14 15:29:25.902021 X-ray: Hotel we want you to join our group
+2024-10-14 15:29:25.907804 Hotel: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:26.068624 Yankee: Sending you 12
+chatterbot Oscar submitting transactions
+2024-10-14 15:29:26.097552 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:26.103971 Romeo: Lima, Hotel, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:26.110270 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:26.116883 Romeo: X-ray, sending you 2
+2024-10-14 15:29:26.123397 X-ray: Lima, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:26.139526 X-ray: Oscar and Hotel, sending you 1
+2024-10-14 15:29:26.150373 X-ray: Yankee, sending you 3
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 19
+ChatterBot Quebec round 19
+ChatterBot Whiskey round 19
+ChatterBot Oscar round 19
+ChatterBot Hotel round 19
+ChatterBot Yankee round 19
+ChatterBot X-ray round 19
+ChatterBot Bravo round 19
+ChatterBot Romeo round 19
+ChatterBot Foxtrot round 19
+2024-10-14 15:29:27.305281 Yankee: We should replace Lima with Foxtrot
+2024-10-14 15:29:27.324190 Yankee: Foxtrot we want you to join our group
+2024-10-14 15:29:27.330087 Foxtrot: Yes
+2024-10-14 15:29:27.348222 X-ray: We should drop Oscar
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:27.407938 Bravo: Yes
+2024-10-14 15:29:27.408446 Lima: Yes
+2024-10-14 15:29:27.408809 Yankee: Yes
+2024-10-14 15:29:27.409663 Romeo: Yes
+2024-10-14 15:29:27.409967 Foxtrot: No
+2024-10-14 15:29:27.410326 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+chatterbot Oscar submitting transactions
+2024-10-14 15:29:27.700674 Quebec: Same as last round
+2024-10-14 15:29:27.701331 Oscar: Hotel, sending you 1
+2024-10-14 15:29:27.703918 Hotel: Same as last round
+2024-10-14 15:29:27.705122 Whiskey: Quebec, sending you 5
+2024-10-14 15:29:27.707394 Lima: We should drop Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:27.743183 X-ray: No
+2024-10-14 15:29:27.743406 Yankee: Yes
+2024-10-14 15:29:27.744157 Bravo: No
+2024-10-14 15:29:27.744347 Romeo: No
+2024-10-14 15:29:27.744502 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:27.944793 Oscar: Foxtrot, sending you 2
+chatterbot Quebec submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+2024-10-14 15:29:27.948380 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:27.959471 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:27.982738 Foxtrot: Lima, Hotel, Yankee and Romeo, sending you 1
+2024-10-14 15:29:27.991174 Lima: Yankee, sending you 7
+2024-10-14 15:29:27.995838 X-ray: Lima, sending you 3
+2024-10-14 15:29:28.001101 Foxtrot: X-ray and Bravo, sending you 2
+2024-10-14 15:29:28.006477 Yankee: Sending you 12
+2024-10-14 15:29:28.007985 Lima: X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:28.012780 X-ray: Hotel, Yankee, Bravo, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:28.018457 Lima: Bravo, sending you 2
+2024-10-14 15:29:28.024328 Romeo: Lima and X-ray, sending you 2
+2024-10-14 15:29:28.063975 Romeo: Yankee, Bravo and Foxtrot, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+ChatterBot Lima round 20
+ChatterBot Quebec round 20
+ChatterBot Whiskey round 20
+ChatterBot Oscar round 20
+ChatterBot Hotel round 20
+ChatterBot Yankee round 20
+ChatterBot X-ray round 20
+ChatterBot Bravo round 20
+ChatterBot Romeo round 20
+ChatterBot Foxtrot round 20
+2024-10-14 15:29:29.352350 Yankee: We should replace Foxtrot with Lima
+2024-10-14 15:29:29.375350 Romeo: We should add Hotel
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:29.422713 X-ray: No
+2024-10-14 15:29:29.424727 Lima: Yes
+2024-10-14 15:29:29.424888 Yankee: No
+2024-10-14 15:29:29.425020 Bravo: Yes
+2024-10-14 15:29:29.425158 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:29.575698 Foxtrot: We should add Oscar
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:29.605236 Bravo: No
+2024-10-14 15:29:29.605409 Lima: No
+2024-10-14 15:29:29.605974 Yankee: No
+2024-10-14 15:29:29.606091 X-ray: No
+2024-10-14 15:29:29.606204 Romeo: No
+2024-10-14 15:29:29.606347 Hotel: Yes
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:29.804400 Yankee: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:29:29.809095 Lima: Yes
+2024-10-14 15:29:29.827357 Oscar: Hotel, sending you 1
+2024-10-14 15:29:29.829141 Lima: We should drop Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:29.857303 X-ray: No
+2024-10-14 15:29:29.857475 Yankee: Yes
+2024-10-14 15:29:29.858082 Bravo: No
+2024-10-14 15:29:29.858222 Romeo: No
+2024-10-14 15:29:29.858343 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:30.148963 Quebec: Same as last round
+2024-10-14 15:29:30.150350 Whiskey: Quebec, sending you 5
+chatterbot Whiskey submitting transactions
+2024-10-14 15:29:30.167448 Oscar: Foxtrot, sending you 2
+2024-10-14 15:29:30.170343 Yankee: Sending you 12
+2024-10-14 15:29:30.226811 Hotel: Same as last round
+2024-10-14 15:29:30.350239 Foxtrot: Lima, Hotel, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:30.357666 Lima: Yankee, sending you 7
+2024-10-14 15:29:30.364439 X-ray: Lima, Hotel, Yankee, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:30.372675 Romeo: Lima and X-ray, sending you 2
+2024-10-14 15:29:30.379246 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:30.386031 Foxtrot: Yankee, sending you 2
+2024-10-14 15:29:30.391727 Lima: X-ray and Bravo, sending you 2
+2024-10-14 15:29:30.395784 X-ray: Bravo, sending you 3
+2024-10-14 15:29:30.401767 Romeo: Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:30.410562 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:30.416903 Lima: Romeo, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+ChatterBot Lima round 21
+ChatterBot Quebec round 21
+ChatterBot Whiskey round 21
+ChatterBot Oscar round 21
+ChatterBot Hotel round 21
+ChatterBot Yankee round 21
+ChatterBot X-ray round 21
+ChatterBot Bravo round 21
+ChatterBot Romeo round 21
+ChatterBot Foxtrot round 21
+2024-10-14 15:29:31.560320 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:31.567385 Romeo: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:31.594299 X-ray: Yes
+2024-10-14 15:29:31.594556 Lima: Yes
+2024-10-14 15:29:31.594766 Yankee: No
+2024-10-14 15:29:31.594978 Bravo: Yes
+2024-10-14 15:29:31.595176 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:31.733486 Yankee: We should replace Lima with Bravo
+2024-10-14 15:29:31.734445 Romeo: Hotel we want you to join our group
+2024-10-14 15:29:31.743048 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:31.776597 Yankee: We should replace Lima with Hotel
+2024-10-14 15:29:31.807059 Whiskey: Quebec, sending you 4
+2024-10-14 15:29:31.808472 Hotel: Same as last round
+2024-10-14 15:29:31.810142 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:31.816898 Quebec: Same as last round
+2024-10-14 15:29:31.817887 Lima: Yankee, sending you 7
+2024-10-14 15:29:31.824053 Foxtrot: Lima, Hotel, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:31.830251 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:31.836885 Yankee: Hotel we want you to join our group
+2024-10-14 15:29:31.841458 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:31.854521 Bravo: Hotel, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:31.860770 Lima: X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:31.866752 Foxtrot: Yankee, sending you 2
+chatterbot Bravo submitting transactions
+2024-10-14 15:29:31.873218 X-ray: Lima, Hotel, Yankee, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:31.879065 Romeo: Lima, Hotel, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:31.884078 Lima: Bravo, sending you 2
+2024-10-14 15:29:31.889471 X-ray: Bravo, sending you 3
+2024-10-14 15:29:31.896291 Romeo: X-ray, sending you 2
+2024-10-14 15:29:31.953851 Yankee: Same as last round
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 22
+ChatterBot Quebec round 22
+ChatterBot Whiskey round 22
+ChatterBot Oscar round 22
+ChatterBot Hotel round 22
+ChatterBot Yankee round 22
+ChatterBot X-ray round 22
+ChatterBot Bravo round 22
+ChatterBot Romeo round 22
+ChatterBot Foxtrot round 22
+2024-10-14 15:29:33.535701 Bravo: We should add Oscar
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:33.576318 Lima: No
+2024-10-14 15:29:33.576553 Yankee: No
+2024-10-14 15:29:33.576773 X-ray: Yes
+2024-10-14 15:29:33.577029 Romeo: No
+2024-10-14 15:29:33.577589 Foxtrot: Yes
+2024-10-14 15:29:33.577778 Hotel: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:33.840347 Yankee: We should replace Lima with Bravo
+2024-10-14 15:29:33.893176 Foxtrot: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:33.903898 Oscar: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:33.941314 Lima: We should replace Hotel with Oscar
+2024-10-14 15:29:33.941725 Yankee: We should replace Lima with X-ray
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:33.970788 X-ray: Yes
+2024-10-14 15:29:33.970979 Yankee: No
+2024-10-14 15:29:33.972565 Bravo: No
+2024-10-14 15:29:33.972759 Romeo: No
+2024-10-14 15:29:33.972969 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Oscar submitting transactions
+2024-10-14 15:29:34.127115 Quebec: Same as last round
+2024-10-14 15:29:34.127709 Whiskey: Quebec, sending you 4
+2024-10-14 15:29:34.130300 Romeo: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:34.171850 Oscar: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:34.289389 Yankee: We should replace Lima with Whiskey
+2024-10-14 15:29:34.291103 Hotel: Same as last round
+2024-10-14 15:29:34.293318 Bravo: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:34.303342 Oscar: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:34.356352 Whiskey: Oscar and Hotel, sending you 1
+chatterbot Hotel submitting transactions
+2024-10-14 15:29:34.402743 X-ray: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:34.413597 Oscar: No
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:34.451198 Foxtrot: Lima, Hotel, Yankee, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:34.458740 Lima: We should drop Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:34.489396 X-ray: Yes
+2024-10-14 15:29:34.489575 Yankee: Yes
+2024-10-14 15:29:34.489722 Bravo: No
+2024-10-14 15:29:34.489864 Romeo: No
+2024-10-14 15:29:34.490019 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:34.717077 Foxtrot: Oscar, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 15:29:34.728130 Lima: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:34.740272 Oscar: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Quebec submitting transactions
+2024-10-14 15:29:34.813052 Yankee: Foxtrot we want you to join our group
+2024-10-14 15:29:34.821108 Foxtrot: Yes
+2024-10-14 15:29:34.891267 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:34.954727 Bravo: Lima, Yankee and X-ray, sending you 2
+2024-10-14 15:29:34.960973 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:34.966669 X-ray: Lima, Oscar, Yankee, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:34.972460 Lima: Yankee, sending you 8
+2024-10-14 15:29:34.977803 Yankee: Sending you 12
+chatterbot Foxtrot submitting transactions
+2024-10-14 15:29:34.979582 Bravo: Oscar, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:34.985918 Romeo: X-ray, sending you 2
+2024-10-14 15:29:34.990440 X-ray: Bravo, sending you 3
+2024-10-14 15:29:34.995356 Lima: X-ray and Romeo, sending you 1
+2024-10-14 15:29:35.017465 Lima: Bravo, sending you 2
+chatterbot Oscar submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 23
+ChatterBot Quebec round 23
+ChatterBot Whiskey round 23
+ChatterBot Oscar round 23
+ChatterBot Hotel round 23
+ChatterBot Yankee round 23
+ChatterBot X-ray round 23
+ChatterBot Bravo round 23
+ChatterBot Romeo round 23
+ChatterBot Foxtrot round 23
+2024-10-14 15:29:36.028385 Bravo: We should replace Oscar with Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:36.057963 X-ray: No
+2024-10-14 15:29:36.058137 Lima: No
+2024-10-14 15:29:36.058270 Yankee: No
+2024-10-14 15:29:36.058392 Romeo: No
+2024-10-14 15:29:36.058522 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:36.232052 Yankee: We should replace Foxtrot with Lima
+2024-10-14 15:29:36.332785 Romeo: Hotel we want you to join our group
+2024-10-14 15:29:36.363979 Hotel: No
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:36.477835 Bravo: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:36.514107 X-ray: Yes
+2024-10-14 15:29:36.515399 Lima: No
+2024-10-14 15:29:36.518684 Yankee: No
+2024-10-14 15:29:36.521175 Romeo: No
+2024-10-14 15:29:36.522266 Foxtrot: Yes
+2024-10-14 15:29:36.523935 Oscar: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:36.772251 Yankee: Lima we want you to join our group
+ChatterBot Lima reevaluating
+2024-10-14 15:29:36.778426 Lima: Yes
+2024-10-14 15:29:36.792449 Bravo: Hotel we want you to join our group
+2024-10-14 15:29:36.802505 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:29:36.837603 Foxtrot: Lima, Oscar, Hotel, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:36.844434 Hotel: Same as last round
+2024-10-14 15:29:36.845692 Whiskey: Quebec, sending you 4
+2024-10-14 15:29:36.847760 Quebec: Same as last round
+2024-10-14 15:29:36.848497 X-ray: We should drop Hotel
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:36.883521 Lima: Yes
+2024-10-14 15:29:36.883720 Yankee: Yes
+2024-10-14 15:29:36.883853 Bravo: Yes
+2024-10-14 15:29:36.883979 Romeo: Yes
+2024-10-14 15:29:36.884103 Foxtrot: Yes
+2024-10-14 15:29:36.884216 Oscar: No
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:37.093469 Whiskey: Bravo, sending you 2
+chatterbot Whiskey submitting transactions
+2024-10-14 15:29:37.095882 Yankee: Sending you 12
+2024-10-14 15:29:37.106705 Lima: We should drop Oscar
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:37.133241 X-ray: No
+2024-10-14 15:29:37.133430 Yankee: Yes
+2024-10-14 15:29:37.133559 Bravo: Yes
+2024-10-14 15:29:37.133687 Romeo: No
+2024-10-14 15:29:37.133811 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+chatterbot Quebec submitting transactions
+chatterbot Yankee submitting transactions
+2024-10-14 15:29:37.315532 X-ray: Lima, Oscar, Yankee, Romeo and Foxtrot, sending you 2
+2024-10-14 15:29:37.323907 Foxtrot: Sorry, I'm actually sending you 0
+2024-10-14 15:29:37.328003 X-ray: Bravo, sending you 3
+2024-10-14 15:29:37.337171 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:37.343442 Foxtrot: Oscar and Yankee, sending you 2
+2024-10-14 15:29:37.362838 Lima: Yankee, sending you 7
+2024-10-14 15:29:37.365973 Romeo: X-ray, sending you 2
+2024-10-14 15:29:37.368348 Oscar: Lima, Yankee, X-ray, Bravo and Romeo, sending you 1
+2024-10-14 15:29:37.374302 Lima: X-ray, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:37.377683 Bravo: Lima and X-ray, sending you 2
+2024-10-14 15:29:37.381572 Oscar: Foxtrot, sending you 2
+2024-10-14 15:29:37.390553 Lima: Bravo, sending you 2
+2024-10-14 15:29:37.394513 Bravo: Oscar, Hotel, Yankee, Romeo and Foxtrot, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Lima round 24
+ChatterBot Quebec round 24
+ChatterBot Whiskey round 24
+ChatterBot Oscar round 24
+ChatterBot Hotel round 24
+ChatterBot Yankee round 24
+ChatterBot X-ray round 24
+ChatterBot Bravo round 24
+ChatterBot Romeo round 24
+ChatterBot Foxtrot round 24
+2024-10-14 15:29:38.556876 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:38.582352 Lima: We should drop Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:38.620409 X-ray: No
+2024-10-14 15:29:38.620718 Yankee: Yes
+2024-10-14 15:29:38.621326 Bravo: No
+2024-10-14 15:29:38.621578 Romeo: No
+2024-10-14 15:29:38.621811 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:38.826371 Oscar: We should drop Lima and Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:38.847655 X-ray: No
+2024-10-14 15:29:38.847802 Bravo: No
+2024-10-14 15:29:38.847901 Romeo: No
+2024-10-14 15:29:38.847990 Foxtrot: No
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:38.943826 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:38.950699 X-ray: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:38.967063 Bravo: We should drop Oscar and Hotel
+ChatterBot Lima reevaluating
+2024-10-14 15:29:38.998331 X-ray: No
+2024-10-14 15:29:38.998877 Lima: Yes
+2024-10-14 15:29:38.999032 Yankee: Yes
+2024-10-14 15:29:38.999152 Romeo: No
+2024-10-14 15:29:38.999273 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:39.191198 Foxtrot: We should add Hotel
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:39.235873 X-ray: No
+2024-10-14 15:29:39.236039 Lima: No
+2024-10-14 15:29:39.236160 Yankee: Yes
+2024-10-14 15:29:39.236277 Bravo: Yes
+2024-10-14 15:29:39.236386 Romeo: No
+2024-10-14 15:29:39.236514 Oscar: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:39.620339 Quebec: Same as last round
+2024-10-14 15:29:39.621291 Whiskey: Quebec, sending you 4
+chatterbot Foxtrot submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 15:29:39.626057 Oscar: Hotel we want you to join our group
+2024-10-14 15:29:39.638555 Hotel: No
+ChatterBot Foxtrot reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:39.693485 Romeo: We should replace Oscar with Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:39.732504 X-ray: No
+2024-10-14 15:29:39.733160 Lima: No
+2024-10-14 15:29:39.733306 Yankee: No
+2024-10-14 15:29:39.733448 Bravo: Yes
+2024-10-14 15:29:39.733583 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:39.913724 Hotel: Same as last round
+2024-10-14 15:29:39.915670 Whiskey: Bravo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Romeo submitting transactions
+2024-10-14 15:29:39.963662 X-ray: Hotel we want you to join our group
+2024-10-14 15:29:39.974528 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:40.025725 Foxtrot: Hotel we want you to join our group
+2024-10-14 15:29:40.040785 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:40.116732 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:40.125427 Romeo: Hotel we want you to join our group
+2024-10-14 15:29:40.135722 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:40.190095 Bravo: Hotel we want you to join our group
+2024-10-14 15:29:40.201368 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:40.242352 Lima: Yankee, sending you 8
+2024-10-14 15:29:40.264368 Lima: X-ray and Foxtrot, sending you 1
+2024-10-14 15:29:40.313371 Lima: Bravo, sending you 2
+2024-10-14 15:29:40.320332 Yankee: Sorry, I'm actually sending you 0
+2024-10-14 15:29:40.348697 Romeo: Lima and X-ray, sending you 2
+2024-10-14 15:29:40.354444 Yankee: Same as last round
+chatterbot Foxtrot submitting transactions
+2024-10-14 15:29:40.815871 Romeo: Yankee, Bravo and Foxtrot, sending you 1
+chatterbot Lima submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 25
+ChatterBot Quebec round 25
+ChatterBot Whiskey round 25
+ChatterBot Oscar round 25
+ChatterBot Hotel round 25
+ChatterBot Yankee round 25
+ChatterBot X-ray round 25
+ChatterBot Bravo round 25
+ChatterBot Romeo round 25
+ChatterBot Foxtrot round 25
+2024-10-14 15:29:41.714765 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:41.723572 X-ray: We should replace Oscar with Hotel
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:41.775915 Lima: Yes
+2024-10-14 15:29:41.776181 Yankee: No
+2024-10-14 15:29:41.776384 Bravo: Yes
+2024-10-14 15:29:41.776595 Romeo: No
+2024-10-14 15:29:41.776824 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:41.954885 Lima: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:41.988435 X-ray: Yes
+2024-10-14 15:29:41.988927 Yankee: No
+2024-10-14 15:29:41.989070 Bravo: Yes
+2024-10-14 15:29:41.989192 Romeo: Yes
+2024-10-14 15:29:41.989306 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:42.197211 Whiskey: We should replace Bravo with X-ray
+2024-10-14 15:29:42.202097 Quebec: No
+2024-10-14 15:29:42.222235 Yankee: We should replace Lima with Bravo
+chatterbot X-ray submitting transactions
+2024-10-14 15:29:42.225896 Foxtrot: Hotel we want you to join our group
+2024-10-14 15:29:42.234430 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:42.280279 Whiskey: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:42.286001 X-ray: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:42.297379 Romeo: Hotel we want you to join our group
+2024-10-14 15:29:42.307730 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:42.476606 Yankee: We should replace Lima with Oscar
+chatterbot Quebec submitting transactions
+2024-10-14 15:29:42.636527 X-ray: We should drop Oscar
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:42.672441 Lima: Yes
+2024-10-14 15:29:42.672675 Yankee: No
+2024-10-14 15:29:42.672812 Bravo: No
+2024-10-14 15:29:42.672939 Romeo: Yes
+2024-10-14 15:29:42.673058 Foxtrot: Yes
+ChatterBot X-ray reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:42.849650 Quebec: Same as last round
+2024-10-14 15:29:42.850870 Hotel: Same as last round
+2024-10-14 15:29:42.852399 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+2024-10-14 15:29:42.861844 Bravo: Hotel we want you to join our group
+2024-10-14 15:29:42.872775 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:42.919077 Yankee: We should replace Lima with Hotel
+2024-10-14 15:29:42.920826 Whiskey: Quebec, sending you 4
+2024-10-14 15:29:42.935996 X-ray: Hotel we want you to join our group
+2024-10-14 15:29:42.955401 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:43.028575 Whiskey: Bravo, sending you 2
+2024-10-14 15:29:43.032692 Lima: Hotel we want you to join our group
+2024-10-14 15:29:43.048121 Hotel: No
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:43.112803 Yankee: X-ray we want you to join our group
+ChatterBot X-ray reevaluating
+2024-10-14 15:29:43.121931 X-ray: Yes
+ChatterBot Yankee reevaluating
+chatterbot Foxtrot submitting transactions
+2024-10-14 15:29:43.171673 Romeo: Lima, Hotel, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:43.181340 Lima: Yankee, sending you 8
+2024-10-14 15:29:43.190017 Romeo: X-ray, sending you 2
+2024-10-14 15:29:43.200483 Lima: X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:43.208166 Yankee: Sending you 10
+chatterbot Romeo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 26
+ChatterBot Quebec round 26
+ChatterBot Whiskey round 26
+ChatterBot Oscar round 26
+ChatterBot Hotel round 26
+ChatterBot Yankee round 26
+ChatterBot X-ray round 26
+ChatterBot Bravo round 26
+ChatterBot Romeo round 26
+ChatterBot Foxtrot round 26
+2024-10-14 15:29:44.253921 Yankee: We should replace X-ray with Lima
+2024-10-14 15:29:44.264749 Whiskey: We should replace Bravo with Romeo
+2024-10-14 15:29:44.272103 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:44.291859 Foxtrot: We should add Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:44.344725 X-ray: No
+2024-10-14 15:29:44.345127 Lima: No
+2024-10-14 15:29:44.345431 Yankee: No
+2024-10-14 15:29:44.345718 Bravo: Yes
+2024-10-14 15:29:44.346023 Romeo: Yes
+2024-10-14 15:29:44.346328 Oscar: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:44.631865 Lima: We should drop Hotel
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:44.659136 X-ray: Yes
+2024-10-14 15:29:44.659305 Yankee: Yes
+2024-10-14 15:29:44.659442 Bravo: No
+2024-10-14 15:29:44.660726 Romeo: Yes
+2024-10-14 15:29:44.660890 Foxtrot: No
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:44.839982 Yankee: Lima we want you to join our group
+2024-10-14 15:29:44.845628 Lima: Yes
+2024-10-14 15:29:44.868576 Whiskey: We should replace Bravo with Hotel
+2024-10-14 15:29:44.874020 Quebec: No
+ChatterBot Whiskey reevaluating
+chatterbot X-ray submitting transactions
+2024-10-14 15:29:44.881783 Romeo: We should replace Hotel with Oscar
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Foxtrot reevaluating
+2024-10-14 15:29:45.036351 X-ray: Yes
+2024-10-14 15:29:45.036909 Lima: No
+2024-10-14 15:29:45.037171 Yankee: No
+2024-10-14 15:29:45.037654 Bravo: No
+2024-10-14 15:29:45.039517 Foxtrot: Yes
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Foxtrot reevaluating
+ChatterBot X-ray reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Lima submitting transactions
+2024-10-14 15:29:45.205505 Quebec: Same as last round
+2024-10-14 15:29:45.206450 Romeo: Oscar we want you to join our group
+2024-10-14 15:29:45.218457 Oscar: Yes
+ChatterBot Lima reevaluating
+2024-10-14 15:29:45.252180 Hotel: Same as last round
+2024-10-14 15:29:45.253068 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:45.255767 Whiskey: Romeo we want you to join our group
+2024-10-14 15:29:45.258943 Romeo: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:45.265925 Lima: Oscar we want you to join our group
+2024-10-14 15:29:45.270601 Oscar: Yes
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:45.301013 Romeo: We should add Oscar
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+2024-10-14 15:29:45.335968 Bravo: No
+2024-10-14 15:29:45.336216 Lima: Yes
+2024-10-14 15:29:45.336386 Yankee: No
+2024-10-14 15:29:45.336557 X-ray: Yes
+2024-10-14 15:29:45.336745 Foxtrot: Yes
+2024-10-14 15:29:45.336926 Hotel: Yes
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:45.542226 Yankee: Sending you 12
+chatterbot Quebec submitting transactions
+2024-10-14 15:29:45.559664 Whiskey: Same as last round
+2024-10-14 15:29:45.571672 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:45.578660 Romeo: X-ray, sending you 2
+2024-10-14 15:29:45.580956 Lima: Yankee, sending you 7
+2024-10-14 15:29:45.585662 Lima: X-ray, Romeo and Foxtrot, sending you 1
+chatterbot Whiskey submitting transactions
+2024-10-14 15:29:45.592679 Lima: Bravo, sending you 2
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Lima submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Lima round 27
+ChatterBot Quebec round 27
+ChatterBot Whiskey round 27
+ChatterBot Oscar round 27
+ChatterBot Hotel round 27
+ChatterBot Yankee round 27
+ChatterBot X-ray round 27
+ChatterBot Bravo round 27
+ChatterBot Romeo round 27
+ChatterBot Foxtrot round 27
+2024-10-14 15:29:46.594701 Whiskey: We should add Romeo
+2024-10-14 15:29:46.597181 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:46.620519 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:46.625794 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:46.630553 X-ray: Yes
+2024-10-14 15:29:46.643867 Oscar: Lima, Hotel, Yankee, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:46.650691 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:46.657090 Lima: Oscar, X-ray and Foxtrot, sending you 1
+2024-10-14 15:29:46.663155 Hotel: Same as last round
+2024-10-14 15:29:46.664256 Quebec: Same as last round
+2024-10-14 15:29:46.665109 Romeo: X-ray, sending you 2
+2024-10-14 15:29:46.670541 Lima: Yankee, sending you 7
+2024-10-14 15:29:46.675893 Whiskey: Same as last round
+2024-10-14 15:29:46.676650 Yankee: Sending you 11
+2024-10-14 15:29:46.680670 Lima: Bravo, sending you 2
+chatterbot Lima submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot X-ray submitting transactions
+ChatterBot Lima round 28
+ChatterBot Quebec round 28
+ChatterBot Whiskey round 28
+ChatterBot Oscar round 28
+ChatterBot Hotel round 28
+ChatterBot Yankee round 28
+ChatterBot X-ray round 28
+ChatterBot Bravo round 28
+ChatterBot Romeo round 28
+ChatterBot Foxtrot round 28
+2024-10-14 15:29:47.644849 Whiskey: We should add Oscar and Hotel
+2024-10-14 15:29:47.648272 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:47.665639 Yankee: We should replace X-ray with Lima
+2024-10-14 15:29:47.685634 Whiskey: We should add Foxtrot
+2024-10-14 15:29:47.688035 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:47.691479 Yankee: Lima we want you to join our group
+2024-10-14 15:29:47.693936 Lima: Yes
+2024-10-14 15:29:47.703810 Whiskey: We should add X-ray
+2024-10-14 15:29:47.706367 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:47.709158 Lima: Oscar, X-ray and Foxtrot, sending you 1
+2024-10-14 15:29:47.712608 Hotel: Same as last round
+2024-10-14 15:29:47.714672 Quebec: Same as last round
+2024-10-14 15:29:47.715668 Lima: Yankee, sending you 7
+2024-10-14 15:29:47.718011 Whiskey: X-ray we want you to join our group
+2024-10-14 15:29:47.721332 X-ray: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:47.728022 Yankee: Sending you 12
+2024-10-14 15:29:47.728618 Lima: Bravo, sending you 2
+2024-10-14 15:29:47.729956 Oscar: Lima, Hotel, X-ray, Bravo, Romeo and Foxtrot, sending you 1
+2024-10-14 15:29:47.734684 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:47.741661 Romeo: X-ray, sending you 2
+2024-10-14 15:29:47.759661 Whiskey: Same as last round
+chatterbot X-ray submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Quebec submitting transactions
+ChatterBot Lima round 29
+ChatterBot Quebec round 29
+ChatterBot Whiskey round 29
+ChatterBot Oscar round 29
+ChatterBot Hotel round 29
+ChatterBot Yankee round 29
+ChatterBot X-ray round 29
+ChatterBot Bravo round 29
+ChatterBot Romeo round 29
+ChatterBot Foxtrot round 29
+2024-10-14 15:29:48.875022 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:48.877800 Whiskey: We should add X-ray
+2024-10-14 15:29:48.880070 Quebec: Yes
+2024-10-14 15:29:48.886883 Lima: We should drop Oscar
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:48.903763 X-ray: No
+2024-10-14 15:29:48.903932 Yankee: No
+2024-10-14 15:29:48.904046 Bravo: No
+2024-10-14 15:29:48.904167 Romeo: No
+2024-10-14 15:29:48.904286 Foxtrot: No
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:48.988839 Bravo: We should add Hotel
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:49.008656 X-ray: No
+2024-10-14 15:29:49.008841 Lima: No
+2024-10-14 15:29:49.008969 Yankee: No
+2024-10-14 15:29:49.009096 Romeo: No
+2024-10-14 15:29:49.009209 Foxtrot: No
+2024-10-14 15:29:49.009319 Oscar: Yes
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Lima reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 15:29:49.132059 Yankee: We should replace Lima with Oscar
+2024-10-14 15:29:49.132420 Whiskey: X-ray we want you to join our group
+2024-10-14 15:29:49.134553 X-ray: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:49.139485 Whiskey: We should add Bravo
+2024-10-14 15:29:49.141435 Quebec: No
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:49.144858 Yankee: Oscar we want you to join our group
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:49.147397 Oscar: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:49.159687 Quebec: Same as last round
+2024-10-14 15:29:49.160390 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:49.164452 Hotel: Same as last round
+2024-10-14 15:29:49.164901 Lima: Oscar, X-ray and Foxtrot, sending you 1
+2024-10-14 15:29:49.166762 Oscar: We should drop Hotel
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 15:29:49.196334 X-ray: Yes
+2024-10-14 15:29:49.196640 Lima: Yes
+2024-10-14 15:29:49.196800 Yankee: Yes
+2024-10-14 15:29:49.196954 Bravo: Yes
+2024-10-14 15:29:49.197100 Romeo: Yes
+2024-10-14 15:29:49.197242 Foxtrot: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:49.321841 Romeo: X-ray, sending you 2
+2024-10-14 15:29:49.323875 Lima: Yankee, sending you 7
+2024-10-14 15:29:49.326701 Bravo: Hotel we want you to join our group
+2024-10-14 15:29:49.330583 Hotel: No
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 15:29:49.354924 Lima: Bravo, sending you 2
+chatterbot Quebec submitting transactions
+2024-10-14 15:29:49.375678 Whiskey: Quebec, sending you 4
+2024-10-14 15:29:49.379668 Yankee: Same as last round
+2024-10-14 15:29:49.390685 Oscar: Lima, Bravo and Romeo, sending you 1
+2024-10-14 15:29:49.398681 Oscar: X-ray and Foxtrot, sending you 2
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Lima round 30
+ChatterBot Quebec round 30
+ChatterBot Whiskey round 30
+ChatterBot Oscar round 30
+ChatterBot Hotel round 30
+ChatterBot Yankee round 30
+ChatterBot X-ray round 30
+ChatterBot Bravo round 30
+ChatterBot Romeo round 30
+ChatterBot Foxtrot round 30
+2024-10-14 15:29:50.600309 Yankee: We should replace Lima with Hotel
+2024-10-14 15:29:50.618650 Yankee: Hotel we want you to join our group
+2024-10-14 15:29:50.623041 Hotel: No
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:50.639082 Yankee: We should replace Lima with X-ray
+2024-10-14 15:29:50.643676 Hotel: Same as last round
+2024-10-14 15:29:50.644693 Yankee: X-ray we want you to join our group
+2024-10-14 15:29:50.648042 X-ray: Yes
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:50.656459 Yankee: We should replace Lima with Whiskey
+2024-10-14 15:29:50.657037 Lima: Oscar, X-ray and Foxtrot, sending you 1
+2024-10-14 15:29:50.658550 Oscar: Lima, Bravo and Romeo, sending you 1
+2024-10-14 15:29:50.659843 Whiskey: Same as last round
+2024-10-14 15:29:50.661674 Lima: Yankee, sending you 7
+2024-10-14 15:29:50.663689 Romeo: Lima, Oscar, Yankee, Bravo and Foxtrot, sending you 1
+2024-10-14 15:29:50.665510 Yankee: Whiskey we want you to join our group
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:50.669276 Whiskey: No
+ChatterBot Yankee reevaluating
+2024-10-14 15:29:50.681424 Whiskey: We should add X-ray
+2024-10-14 15:29:50.684994 Quebec: Yes
+ChatterBot Whiskey reevaluating
+2024-10-14 15:29:50.689095 Oscar: X-ray and Foxtrot, sending you 2
+2024-10-14 15:29:50.691046 Quebec: Same as last round
+2024-10-14 15:29:50.691409 Lima: Bravo, sending you 2
+2024-10-14 15:29:50.693079 Romeo: X-ray, sending you 2
+2024-10-14 15:29:50.700661 Whiskey: X-ray we want you to join our group
+2024-10-14 15:29:50.704698 X-ray: No
+ChatterBot Whiskey reevaluating
+ChatterBot Quebec reevaluating
+2024-10-14 15:29:50.732740 Quebec: Whiskey, sending you 7
+2024-10-14 15:29:50.733656 Yankee: Sending you 12
+2024-10-14 15:29:50.737683 Quebec: Hotel, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot X-ray submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Foxtrot submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Lima submitting transactions
+chatterbot Quebec submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions

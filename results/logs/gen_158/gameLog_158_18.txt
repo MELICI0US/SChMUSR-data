@@ -1,0 +1,1580 @@
+ChatterBot Hotel round 1
+ChatterBot Golf round 1
+ChatterBot Kilo round 1
+ChatterBot Romeo round 1
+ChatterBot Oscar round 1
+ChatterBot Alpha round 1
+ChatterBot Zulu round 1
+randomSelections Hotel: {Hotel, Whiskey, Kilo, Bravo, Yankee, Alpha} 
+2024-10-14 16:04:41.712045 Hotel: Friends?
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:04:41.716965 Kilo: Yes
+2024-10-14 16:04:41.717077 Alpha: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo round 1
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:41.728327 Bravo: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey round 1
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:04:41.743144 Whiskey: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee round 1
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:41.803395 Yankee: Yes
+ChatterBot Whiskey reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+randomSelections Golf: {Golf, Zulu, Bravo, Kilo, Hotel, Whiskey} 
+2024-10-14 16:04:41.821027 Golf: Friends?
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:04:41.832830 Zulu: Yes
+2024-10-14 16:04:41.832985 Bravo: No
+2024-10-14 16:04:41.833323 Kilo: No
+2024-10-14 16:04:41.833646 Hotel: No
+2024-10-14 16:04:41.834504 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Kilo reevaluating
+randomSelections Romeo: {Romeo, Kilo, Bravo, Golf, Zulu, Oscar} 
+2024-10-14 16:04:41.903686 Romeo: Group up?
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:41.917531 Kilo: No
+2024-10-14 16:04:41.918100 Bravo: No
+2024-10-14 16:04:41.918287 Golf: No
+2024-10-14 16:04:41.918435 Zulu: No
+2024-10-14 16:04:41.918638 Oscar: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Zulu reevaluating
+2024-10-14 16:04:41.986125 Zulu: Hotel, Golf and Whiskey, sending you 1
+2024-10-14 16:04:41.988293 Kilo: Bravo, sending you 1
+2024-10-14 16:04:41.991741 Alpha: Hotel, sending you 1
+2024-10-14 16:04:41.992147 Zulu: Bravo, sending you 2
+2024-10-14 16:04:41.993074 Hotel: Kilo, sending you 2
+2024-10-14 16:04:41.993407 Golf: Hotel, sending you 1
+2024-10-14 16:04:41.996187 Hotel: Bravo and Whiskey, sending you 1
+2024-10-14 16:04:41.996737 Alpha: Bravo and Yankee, sending you 2
+2024-10-14 16:04:41.998081 Romeo: Kilo, sending you 5
+2024-10-14 16:04:42.000385 Whiskey: Alpha and Bravo, sending you 1
+2024-10-14 16:04:42.003628 Bravo: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:42.003915 Oscar: Golf, sending you 2
+2024-10-14 16:04:42.004165 Romeo: Oscar, sending you 1
+2024-10-14 16:04:42.005896 Whiskey: Yankee, sending you 2
+2024-10-14 16:04:42.006990 Bravo: Kilo, sending you 2
+2024-10-14 16:04:42.007519 Romeo: Zulu, sending you 3
+2024-10-14 16:04:42.008765 Oscar: Kilo, sending you 4
+2024-10-14 16:04:42.012085 Bravo: Alpha, sending you 3
+2024-10-14 16:04:42.014002 Romeo: Bravo, sending you 2
+2024-10-14 16:04:42.014441 Oscar: Romeo, sending you 3
+2024-10-14 16:04:42.019991 Oscar: Zulu and Bravo, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+ChatterBot Hotel round 2
+ChatterBot Golf round 2
+ChatterBot Kilo round 2
+ChatterBot Romeo round 2
+ChatterBot Oscar round 2
+ChatterBot Alpha round 2
+ChatterBot Zulu round 2
+ChatterBot Bravo round 2
+ChatterBot Whiskey round 2
+ChatterBot Yankee round 2
+2024-10-14 16:04:43.240086 Golf: Can we be friends?
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:43.267986 Kilo: No
+2024-10-14 16:04:43.268502 Romeo: Yes
+2024-10-14 16:04:43.268666 Oscar: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:43.380941 Zulu: Can we be friends?
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:43.411956 Kilo: No
+2024-10-14 16:04:43.412138 Romeo: Yes
+2024-10-14 16:04:43.412538 Oscar: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:43.553096 Hotel: We should drop Kilo
+2024-10-14 16:04:43.587214 Alpha: Yes
+2024-10-14 16:04:43.587445 Bravo: Yes
+2024-10-14 16:04:43.587630 Whiskey: Yes
+2024-10-14 16:04:43.587810 Yankee: Yes
+ChatterBot Yankee reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:43.751868 Bravo: We should drop Kilo and Yankee
+2024-10-14 16:04:43.808526 Hotel: No
+2024-10-14 16:04:43.808769 Alpha: Yes
+2024-10-14 16:04:43.809755 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:04:43.864693 Romeo: We should drop Bravo and Golf
+2024-10-14 16:04:43.884961 Zulu: Yes
+2024-10-14 16:04:43.886768 Kilo: No
+2024-10-14 16:04:43.889359 Oscar: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:43.981471 Kilo: Friends?
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:44.009924 Zulu: Yes
+2024-10-14 16:04:44.010118 Romeo: Yes
+2024-10-14 16:04:44.010262 Oscar: Yes
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Kilo reevaluating
+ChatterBot Romeo reevaluating
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+2024-10-14 16:04:44.573760 Golf: Oscar, sending you 1
+2024-10-14 16:04:44.574057 Zulu: Kilo and Oscar, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+2024-10-14 16:04:44.727293 Whiskey: Hotel and Bravo, sending you 2
+2024-10-14 16:04:44.727661 Bravo: Hotel and Whiskey, sending you 2
+2024-10-14 16:04:44.728365 Zulu: Romeo, sending you 3
+2024-10-14 16:04:44.728691 Alpha: Hotel, sending you 1
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+2024-10-14 16:04:44.792172 Alpha: Bravo and Whiskey, sending you 2
+2024-10-14 16:04:44.792516 Oscar: Kilo and Zulu, sending you 2
+2024-10-14 16:04:44.793141 Hotel: Alpha and Bravo, sending you 2
+2024-10-14 16:04:44.793384 Bravo: Alpha, sending you 5
+2024-10-14 16:04:44.793636 Yankee: Hotel, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:04:44.793951 Kilo: Romeo, sending you 1
+2024-10-14 16:04:44.841592 Oscar: Romeo, sending you 5
+2024-10-14 16:04:44.841998 Romeo: Kilo and Zulu, sending you 2
+2024-10-14 16:04:44.855719 Romeo: Oscar, sending you 5
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Hotel round 3
+ChatterBot Golf round 3
+ChatterBot Kilo round 3
+ChatterBot Romeo round 3
+ChatterBot Oscar round 3
+ChatterBot Alpha round 3
+ChatterBot Zulu round 3
+ChatterBot Bravo round 3
+ChatterBot Whiskey round 3
+ChatterBot Yankee round 3
+2024-10-14 16:04:45.279329 Hotel: We should add Golf
+ChatterBot Whiskey reevaluating
+2024-10-14 16:04:45.293298 Bravo: No
+2024-10-14 16:04:45.293436 Alpha: No
+2024-10-14 16:04:45.293623 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:04:45.359215 Golf: We should replace Kilo with Zulu
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:45.375896 Romeo: No
+2024-10-14 16:04:45.376188 Oscar: No
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:45.453337 Hotel: We should add Zulu
+ChatterBot Whiskey reevaluating
+2024-10-14 16:04:45.491026 Bravo: No
+2024-10-14 16:04:45.491303 Alpha: No
+2024-10-14 16:04:45.491569 Whiskey: No
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Hotel reevaluating
+2024-10-14 16:04:45.586681 Golf: Zulu we want you to join our group
+2024-10-14 16:04:45.592229 Zulu: No
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:45.606433 Zulu: We should drop Kilo
+2024-10-14 16:04:45.615216 Romeo: No
+2024-10-14 16:04:45.616318 Oscar: No
+chatterbot Hotel submitting transactions
+2024-10-14 16:04:45.764003 Kilo: Romeo, sending you 1
+2024-10-14 16:04:45.764426 Romeo: Kilo, sending you 2
+2024-10-14 16:04:45.765304 Alpha: Hotel and Bravo, sending you 2
+2024-10-14 16:04:45.765732 Yankee: Same as last round
+2024-10-14 16:04:45.940320 Romeo: Oscar, sending you 5
+2024-10-14 16:04:45.940641 Alpha: Whiskey, sending you 1
+2024-10-14 16:04:45.940900 Oscar: Romeo, sending you 5
+2024-10-14 16:04:45.941106 Golf: Oscar, sending you 1
+2024-10-14 16:04:45.941844 Whiskey: Sending you each 1
+2024-10-14 16:04:45.942081 Bravo: Hotel and Whiskey, sending you 3
+2024-10-14 16:04:45.942298 Zulu: Romeo, sending you 3
+chatterbot Yankee submitting transactions
+2024-10-14 16:04:46.163774 Romeo: Zulu, sending you 3
+2024-10-14 16:04:46.164337 Oscar: Zulu, sending you 4
+2024-10-14 16:04:46.165270 Bravo: Alpha, sending you 4
+2024-10-14 16:04:46.165830 Zulu: Oscar, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 4
+ChatterBot Golf round 4
+ChatterBot Kilo round 4
+ChatterBot Romeo round 4
+ChatterBot Oscar round 4
+ChatterBot Alpha round 4
+ChatterBot Zulu round 4
+ChatterBot Bravo round 4
+ChatterBot Whiskey round 4
+ChatterBot Yankee round 4
+2024-10-14 16:04:46.963759 Hotel: We should add Yankee
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:46.988748 Bravo: Yes
+2024-10-14 16:04:46.988968 Alpha: No
+2024-10-14 16:04:46.989141 Whiskey: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:04:47.177597 Hotel: Yankee we want you to join our group
+2024-10-14 16:04:47.183355 Yankee: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:47.206246 Golf: Oscar, sending you 1
+2024-10-14 16:04:47.207382 Kilo: Romeo, sending you 1
+2024-10-14 16:04:47.228392 Oscar: Romeo, sending you 5
+2024-10-14 16:04:47.228791 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:47.229133 Zulu: Romeo, sending you 3
+2024-10-14 16:04:47.229993 Whiskey: Alpha and Yankee, sending you 1
+2024-10-14 16:04:47.230287 Romeo: Kilo, sending you 2
+2024-10-14 16:04:47.258819 Alpha: Bravo, sending you 2
+2024-10-14 16:04:47.259344 Oscar: Zulu, sending you 4
+2024-10-14 16:04:47.260215 Romeo: Oscar, sending you 5
+2024-10-14 16:04:47.260586 Yankee: Same as last round
+2024-10-14 16:04:47.260894 Zulu: Oscar, sending you 2
+2024-10-14 16:04:47.261560 Whiskey: Bravo, sending you 2
+2024-10-14 16:04:48.728689 Romeo: Zulu, sending you 4
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
+2024-10-14 16:04:48.743424 Hotel: Same as last round
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 5
+ChatterBot Golf round 5
+ChatterBot Kilo round 5
+ChatterBot Romeo round 5
+ChatterBot Oscar round 5
+ChatterBot Alpha round 5
+ChatterBot Zulu round 5
+ChatterBot Bravo round 5
+ChatterBot Whiskey round 5
+ChatterBot Yankee round 5
+2024-10-14 16:04:50.303605 Kilo: Hotel, sending you 1
+2024-10-14 16:04:50.304725 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:50.305201 Romeo: Kilo, sending you 2
+2024-10-14 16:04:50.305651 Whiskey: Hotel and Alpha, sending you 1
+2024-10-14 16:04:50.306538 Golf: Oscar, sending you 1
+2024-10-14 16:04:50.306928 Yankee: Same as last round
+2024-10-14 16:04:50.307823 Oscar: Romeo, sending you 5
+2024-10-14 16:04:50.308302 Hotel: Same as last round
+2024-10-14 16:04:50.308769 Zulu: Romeo, sending you 3
+2024-10-14 16:04:50.309664 Alpha: Bravo, sending you 2
+2024-10-14 16:04:50.383155 Romeo: Oscar, sending you 5
+2024-10-14 16:04:50.384091 Whiskey: Bravo, sending you 2
+2024-10-14 16:04:50.384559 Zulu: Oscar, sending you 2
+2024-10-14 16:04:50.384900 Oscar: Zulu, sending you 4
+2024-10-14 16:04:50.430197 Romeo: Zulu, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Hotel round 6
+ChatterBot Golf round 6
+ChatterBot Kilo round 6
+ChatterBot Romeo round 6
+ChatterBot Oscar round 6
+ChatterBot Alpha round 6
+ChatterBot Zulu round 6
+ChatterBot Bravo round 6
+ChatterBot Whiskey round 6
+ChatterBot Yankee round 6
+2024-10-14 16:04:51.313160 Hotel: We should add Golf
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:51.370163 Alpha: No
+2024-10-14 16:04:51.370391 Bravo: No
+2024-10-14 16:04:51.370566 Whiskey: No
+2024-10-14 16:04:51.370756 Yankee: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:51.497302 Kilo: We should add Yankee
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:51.515664 Hotel: Yes
+2024-10-14 16:04:51.515941 Alpha: Yes
+2024-10-14 16:04:51.516229 Bravo: Yes
+2024-10-14 16:04:51.517364 Whiskey: Yes
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:51.602185 Oscar: We should replace Kilo with Golf
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:51.611343 Zulu: No
+2024-10-14 16:04:51.611470 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:51.654 Kilo: Yankee we want you to join our group
+2024-10-14 16:04:51.659398 Yankee: No
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:04:51.680735 Romeo: Golf we want you to join our group
+2024-10-14 16:04:51.685480 Golf: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:51.700083 Hotel: Golf we want you to join our group
+2024-10-14 16:04:51.704203 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:04:51.725304 Golf: Oscar, sending you 1
+2024-10-14 16:04:51.725709 Oscar: Golf we want you to join our group
+2024-10-14 16:04:51.730143 Golf: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:51.748677 Zulu: Romeo, sending you 3
+2024-10-14 16:04:51.749045 Kilo: Hotel, sending you 1
+2024-10-14 16:04:51.750012 Yankee: Same as last round
+2024-10-14 16:04:51.750441 Whiskey: Hotel and Alpha, sending you 1
+2024-10-14 16:04:51.751938 Zulu: Oscar, sending you 2
+2024-10-14 16:04:51.772065 Whiskey: Bravo, sending you 2
+2024-10-14 16:04:51.819096 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:51.819673 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:51.838791 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:04:51.839510 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:04:51.839776 Alpha: Bravo, sending you 2
+2024-10-14 16:04:51.849228 Oscar: Romeo, sending you 5
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 7
+ChatterBot Golf round 7
+ChatterBot Kilo round 7
+ChatterBot Romeo round 7
+ChatterBot Oscar round 7
+ChatterBot Alpha round 7
+ChatterBot Zulu round 7
+ChatterBot Bravo round 7
+ChatterBot Whiskey round 7
+ChatterBot Yankee round 7
+2024-10-14 16:04:52.972703 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:04:52.975692 Golf: Oscar, sending you 1
+2024-10-14 16:04:52.976678 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:04:52.977710 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:52.980688 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:52.981418 Alpha: Bravo, sending you 2
+2024-10-14 16:04:52.981790 Kilo: Hotel, sending you 1
+2024-10-14 16:04:52.982254 Oscar: Romeo, sending you 5
+2024-10-14 16:04:52.985646 Zulu: Romeo, sending you 3
+2024-10-14 16:04:52.989673 Zulu: Oscar, sending you 2
+2024-10-14 16:04:52.990073 Whiskey: Hotel and Alpha, sending you 1
+2024-10-14 16:04:52.991676 Yankee: Same as last round
+2024-10-14 16:04:52.994684 Whiskey: Bravo, sending you 2
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 8
+ChatterBot Golf round 8
+ChatterBot Kilo round 8
+ChatterBot Romeo round 8
+ChatterBot Oscar round 8
+ChatterBot Alpha round 8
+ChatterBot Zulu round 8
+ChatterBot Bravo round 8
+ChatterBot Whiskey round 8
+ChatterBot Yankee round 8
+2024-10-14 16:04:53.962721 Alpha: We should drop Hotel
+2024-10-14 16:04:53.978217 Bravo: No
+2024-10-14 16:04:53.978402 Whiskey: No
+2024-10-14 16:04:53.978948 Yankee: No
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:04:54.032432 Yankee: We should add Kilo
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:04:54.056453 Hotel: Yes
+2024-10-14 16:04:54.056625 Alpha: No
+2024-10-14 16:04:54.056741 Bravo: No
+2024-10-14 16:04:54.056894 Whiskey: No
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:54.139667 Golf: Oscar, sending you 1
+2024-10-14 16:04:54.140241 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:04:54.140861 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:04:54.141828 Kilo: Hotel, sending you 1
+2024-10-14 16:04:54.144178 Oscar: Romeo, sending you 5
+2024-10-14 16:04:54.150658 Zulu: Romeo, sending you 3
+2024-10-14 16:04:54.154709 Zulu: Oscar, sending you 2
+2024-10-14 16:04:54.156665 Yankee: Same as last round
+2024-10-14 16:04:54.158153 Whiskey: Hotel, Alpha and Bravo, sending you 1
+2024-10-14 16:04:54.161946 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:54.178671 Alpha: Bravo and Whiskey, sending you 2
+2024-10-14 16:04:54.183879 Alpha: Yankee, sending you 1
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Hotel round 9
+ChatterBot Golf round 9
+ChatterBot Kilo round 9
+ChatterBot Romeo round 9
+ChatterBot Oscar round 9
+ChatterBot Alpha round 9
+ChatterBot Zulu round 9
+ChatterBot Bravo round 9
+ChatterBot Whiskey round 9
+ChatterBot Yankee round 9
+2024-10-14 16:04:55.426710 Whiskey: Hotel, Alpha and Bravo, sending you 1
+2024-10-14 16:04:55.427801 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:55.430676 Kilo: Bravo, sending you 1
+2024-10-14 16:04:55.431901 Golf: Oscar, sending you 1
+2024-10-14 16:04:55.432466 Zulu: Romeo, sending you 3
+2024-10-14 16:04:55.433224 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:04:55.434998 Yankee: Same as last round
+2024-10-14 16:04:55.435707 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:04:55.436231 Alpha: Bravo and Whiskey, sending you 2
+2024-10-14 16:04:55.437691 Zulu: Oscar, sending you 2
+2024-10-14 16:04:55.438665 Oscar: Romeo, sending you 5
+2024-10-14 16:04:55.441682 Alpha: Yankee, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Hotel round 10
+ChatterBot Golf round 10
+ChatterBot Kilo round 10
+ChatterBot Romeo round 10
+ChatterBot Oscar round 10
+ChatterBot Alpha round 10
+ChatterBot Zulu round 10
+ChatterBot Bravo round 10
+2024-10-14 16:04:57.091022 Golf: We should add Kilo
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:04:57.106106 Romeo: Yes
+2024-10-14 16:04:57.106306 Oscar: Yes
+2024-10-14 16:04:57.106510 Zulu: No
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey round 10
+ChatterBot Yankee round 10
+2024-10-14 16:04:57.175505 Alpha: We should replace Whiskey with Hotel
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:57.186127 Bravo: No
+2024-10-14 16:04:57.186256 Yankee: No
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:57.201448 Yankee: We should add Kilo
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:57.215460 Hotel: Yes
+2024-10-14 16:04:57.215624 Alpha: No
+2024-10-14 16:04:57.215747 Bravo: No
+2024-10-14 16:04:57.216352 Whiskey: No
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:57.318126 Hotel: We should replace Kilo with Golf
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:57.378436 Alpha: No
+2024-10-14 16:04:57.378773 Bravo: No
+2024-10-14 16:04:57.378974 Whiskey: No
+2024-10-14 16:04:57.379730 Yankee: No
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:04:57.473121 Romeo: Kilo we want you to join our group
+2024-10-14 16:04:57.480254 Kilo: No
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 16:04:57.511635 Oscar: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 16:04:57.518098 Kilo: No
+ChatterBot Romeo reevaluating
+ChatterBot Golf reevaluating
+2024-10-14 16:04:57.541152 Alpha: Hotel we want you to join our group
+ChatterBot Hotel reevaluating
+2024-10-14 16:04:57.547423 Hotel: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:57.567969 Zulu: Romeo, sending you 3
+2024-10-14 16:04:57.568673 Whiskey: Sending you each 1
+2024-10-14 16:04:57.570693 Zulu: Oscar, sending you 2
+2024-10-14 16:04:57.572121 Hotel: We should drop Kilo
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:57.591346 Alpha: Yes
+2024-10-14 16:04:57.591533 Bravo: Yes
+2024-10-14 16:04:57.592002 Whiskey: Yes
+2024-10-14 16:04:57.592167 Yankee: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:04:57.645412 Kilo: Romeo, sending you 1
+2024-10-14 16:04:57.647668 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:04:57.648817 Golf: Oscar, sending you 1
+2024-10-14 16:04:57.649690 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:04:57.652704 Oscar: Romeo, sending you 5
+2024-10-14 16:04:57.653680 Hotel: Golf we want you to join our group
+2024-10-14 16:04:57.657392 Golf: No
+ChatterBot Hotel reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:04:57.675681 Alpha: Hotel and Bravo, sending you 2
+2024-10-14 16:04:57.680675 Alpha: Yankee, sending you 1
+2024-10-14 16:04:57.694688 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:04:57.697816 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 11
+ChatterBot Golf round 11
+ChatterBot Kilo round 11
+ChatterBot Romeo round 11
+ChatterBot Oscar round 11
+ChatterBot Alpha round 11
+ChatterBot Zulu round 11
+ChatterBot Bravo round 11
+2024-10-14 16:04:58.634417 Romeo: We should add Kilo
+2024-10-14 16:04:58.650105 Golf: No
+2024-10-14 16:04:58.650286 Oscar: Yes
+2024-10-14 16:04:58.650410 Zulu: No
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Whiskey round 11
+ChatterBot Yankee round 11
+2024-10-14 16:04:58.720746 Alpha: Hotel and Bravo, sending you 2
+2024-10-14 16:04:58.723684 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:04:58.725015 Golf: Oscar, sending you 1
+2024-10-14 16:04:58.725804 Alpha: Yankee, sending you 1
+2024-10-14 16:04:58.727127 Oscar: We should drop Kilo
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:58.744430 Golf: Yes
+2024-10-14 16:04:58.744695 Romeo: Yes
+2024-10-14 16:04:58.744926 Zulu: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:04:58.793307 Zulu: Romeo, sending you 3
+2024-10-14 16:04:58.795681 Whiskey: Same as last round
+2024-10-14 16:04:58.796689 Zulu: Oscar, sending you 2
+2024-10-14 16:04:58.797669 Kilo: Romeo, sending you 1
+2024-10-14 16:04:58.798682 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:04:58.814672 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:04:58.816668 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:04:58.818681 Oscar: Romeo, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Hotel round 12
+ChatterBot Golf round 12
+ChatterBot Kilo round 12
+ChatterBot Romeo round 12
+ChatterBot Oscar round 12
+ChatterBot Alpha round 12
+ChatterBot Zulu round 12
+ChatterBot Bravo round 12
+ChatterBot Whiskey round 12
+ChatterBot Yankee round 12
+2024-10-14 16:05:00.022534 Yankee: We should replace Golf with Kilo
+ChatterBot Hotel reevaluating
+2024-10-14 16:05:00.034726 Hotel: Yes
+2024-10-14 16:05:00.034870 Alpha: No
+2024-10-14 16:05:00.034981 Bravo: No
+2024-10-14 16:05:00.035084 Whiskey: No
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:05:00.097674 Yankee: Kilo we want you to join our group
+ChatterBot Kilo reevaluating
+2024-10-14 16:05:00.102857 Kilo: Yes
+ChatterBot Hotel reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:05:00.123945 Romeo: Golf, sending you 2
+2024-10-14 16:05:00.124727 Zulu: Romeo, sending you 3
+2024-10-14 16:05:00.125874 Golf: Oscar, sending you 1
+2024-10-14 16:05:00.126627 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:00.127790 Romeo: Oscar, sending you 5
+2024-10-14 16:05:00.129684 Zulu: Oscar, sending you 2
+2024-10-14 16:05:00.130850 Alpha: Bravo, sending you 2
+2024-10-14 16:05:00.132671 Romeo: Zulu, sending you 4
+2024-10-14 16:05:00.135664 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:00.141675 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:05:00.142127 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:00.144663 Kilo: Bravo, sending you 1
+2024-10-14 16:05:00.146679 Oscar: Romeo, sending you 5
+2024-10-14 16:05:00.154764 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+chatterbot Zulu submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Hotel round 13
+ChatterBot Golf round 13
+ChatterBot Kilo round 13
+ChatterBot Romeo round 13
+ChatterBot Oscar round 13
+ChatterBot Alpha round 13
+ChatterBot Zulu round 13
+ChatterBot Bravo round 13
+ChatterBot Whiskey round 13
+ChatterBot Yankee round 13
+2024-10-14 16:05:01.313675 Romeo: Golf, sending you 2
+2024-10-14 16:05:01.314667 Golf: Oscar, sending you 1
+2024-10-14 16:05:01.316674 Romeo: Oscar, sending you 5
+2024-10-14 16:05:01.317682 Kilo: Bravo, sending you 1
+2024-10-14 16:05:01.321671 Romeo: Zulu, sending you 4
+2024-10-14 16:05:01.325686 Zulu: Romeo, sending you 3
+2024-10-14 16:05:01.328664 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:01.330679 Zulu: Oscar, sending you 2
+2024-10-14 16:05:01.331072 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:01.332806 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:01.334681 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:05:01.335685 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:01.336683 Alpha: Bravo, sending you 2
+2024-10-14 16:05:01.339664 Oscar: Romeo, sending you 5
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Hotel round 14
+ChatterBot Golf round 14
+ChatterBot Kilo round 14
+ChatterBot Romeo round 14
+ChatterBot Oscar round 14
+ChatterBot Alpha round 14
+ChatterBot Zulu round 14
+ChatterBot Bravo round 14
+ChatterBot Whiskey round 14
+ChatterBot Yankee round 14
+2024-10-14 16:05:02.645703 Zulu: Romeo, sending you 3
+2024-10-14 16:05:02.646729 Kilo: Yankee, sending you 1
+2024-10-14 16:05:02.648060 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:05:02.649206 Golf: Oscar, sending you 1
+2024-10-14 16:05:02.650269 Zulu: Oscar, sending you 2
+2024-10-14 16:05:02.651808 Oscar: Romeo, sending you 5
+2024-10-14 16:05:02.652749 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:02.659359 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:02.660707 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:02.662477 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:02.664589 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:02.667400 Alpha: Bravo, sending you 2
+chatterbot Whiskey submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 15
+ChatterBot Golf round 15
+ChatterBot Kilo round 15
+ChatterBot Romeo round 15
+ChatterBot Oscar round 15
+ChatterBot Alpha round 15
+ChatterBot Zulu round 15
+ChatterBot Bravo round 15
+ChatterBot Whiskey round 15
+ChatterBot Yankee round 15
+2024-10-14 16:05:04.091554 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:04.093073 Golf: Oscar, sending you 1
+2024-10-14 16:05:04.101918 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:05:04.102656 Kilo: Yankee, sending you 1
+2024-10-14 16:05:04.103832 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:04.105811 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:04.106668 Zulu: Romeo, sending you 3
+2024-10-14 16:05:04.108590 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:04.109159 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:04.113470 Oscar: Romeo, sending you 5
+2024-10-14 16:05:04.114091 Alpha: Bravo, sending you 2
+2024-10-14 16:05:04.116389 Zulu: Oscar, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 16
+ChatterBot Golf round 16
+ChatterBot Kilo round 16
+ChatterBot Romeo round 16
+ChatterBot Oscar round 16
+ChatterBot Alpha round 16
+ChatterBot Zulu round 16
+ChatterBot Bravo round 16
+ChatterBot Whiskey round 16
+ChatterBot Yankee round 16
+2024-10-14 16:05:05.348279 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:05.350796 Zulu: Romeo, sending you 3
+2024-10-14 16:05:05.352309 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:05:05.354169 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:05.356081 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:05.358360 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:05.360769 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:05.363550 Golf: Oscar, sending you 1
+2024-10-14 16:05:05.365276 Zulu: Oscar, sending you 2
+2024-10-14 16:05:05.366234 Oscar: Romeo, sending you 5
+2024-10-14 16:05:05.368130 Alpha: Bravo, sending you 2
+2024-10-14 16:05:05.370531 Kilo: Yankee, sending you 1
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Hotel round 17
+ChatterBot Golf round 17
+ChatterBot Kilo round 17
+ChatterBot Romeo round 17
+ChatterBot Oscar round 17
+ChatterBot Alpha round 17
+ChatterBot Zulu round 17
+ChatterBot Bravo round 17
+ChatterBot Whiskey round 17
+ChatterBot Yankee round 17
+2024-10-14 16:05:06.577768 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:06.582171 Zulu: Romeo, sending you 3
+2024-10-14 16:05:06.584859 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:06.585969 Zulu: Oscar, sending you 2
+2024-10-14 16:05:06.587667 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:06.589788 Golf: Oscar, sending you 1
+2024-10-14 16:05:06.590795 Kilo: Yankee, sending you 1
+2024-10-14 16:05:06.592456 Oscar: Golf and Zulu, sending you 3
+2024-10-14 16:05:06.593282 Alpha: Bravo, sending you 2
+2024-10-14 16:05:06.594950 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:06.596708 Oscar: Romeo, sending you 5
+2024-10-14 16:05:06.601685 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+ChatterBot Hotel round 18
+ChatterBot Golf round 18
+ChatterBot Kilo round 18
+ChatterBot Romeo round 18
+ChatterBot Oscar round 18
+ChatterBot Alpha round 18
+ChatterBot Zulu round 18
+ChatterBot Bravo round 18
+ChatterBot Whiskey round 18
+ChatterBot Yankee round 18
+2024-10-14 16:05:07.705254 Alpha: We should drop Whiskey
+2024-10-14 16:05:07.716163 Hotel: No
+2024-10-14 16:05:07.716311 Bravo: No
+2024-10-14 16:05:07.716430 Yankee: No
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:05:07.768183 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:07.774625 Zulu: Romeo, sending you 3
+2024-10-14 16:05:07.775922 Golf: Oscar, sending you 1
+2024-10-14 16:05:07.776405 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:07.777232 Oscar: Golf, sending you 2
+2024-10-14 16:05:07.777661 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:07.779093 Kilo: Yankee, sending you 1
+2024-10-14 16:05:07.779558 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:07.780456 Zulu: Oscar, sending you 2
+2024-10-14 16:05:07.786195 Oscar: Romeo, sending you 5
+2024-10-14 16:05:07.797392 Oscar: Zulu, sending you 4
+2024-10-14 16:05:07.798801 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:07.810045 Alpha: Bravo, sending you 2
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Zulu submitting transactions
+ChatterBot Hotel round 19
+ChatterBot Golf round 19
+ChatterBot Kilo round 19
+ChatterBot Romeo round 19
+ChatterBot Oscar round 19
+ChatterBot Alpha round 19
+ChatterBot Zulu round 19
+ChatterBot Bravo round 19
+ChatterBot Whiskey round 19
+ChatterBot Yankee round 19
+2024-10-14 16:05:09.164493 Alpha: We should drop Whiskey
+ChatterBot Bravo reevaluating
+2024-10-14 16:05:09.175230 Hotel: No
+2024-10-14 16:05:09.175393 Bravo: No
+2024-10-14 16:05:09.175514 Yankee: No
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:05:09.218103 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:09.219601 Zulu: Romeo, sending you 3
+2024-10-14 16:05:09.220651 Golf: Oscar, sending you 1
+2024-10-14 16:05:09.221324 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:09.222589 Oscar: Golf, sending you 2
+2024-10-14 16:05:09.224891 Bravo: We should drop Alpha
+2024-10-14 16:05:09.239436 Hotel: No
+2024-10-14 16:05:09.239566 Whiskey: No
+2024-10-14 16:05:09.239685 Yankee: No
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Bravo reevaluating
+2024-10-14 16:05:09.274216 Zulu: Oscar, sending you 2
+2024-10-14 16:05:09.275750 Oscar: Romeo, sending you 5
+2024-10-14 16:05:09.277698 Kilo: Yankee, sending you 1
+2024-10-14 16:05:09.282983 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:09.284965 Oscar: Zulu, sending you 4
+2024-10-14 16:05:09.286352 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Hotel round 20
+ChatterBot Golf round 20
+ChatterBot Kilo round 20
+ChatterBot Romeo round 20
+ChatterBot Oscar round 20
+ChatterBot Alpha round 20
+ChatterBot Zulu round 20
+ChatterBot Bravo round 20
+ChatterBot Whiskey round 20
+ChatterBot Yankee round 20
+2024-10-14 16:05:10.679183 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:10.680271 Kilo: Yankee, sending you 1
+2024-10-14 16:05:10.681398 Zulu: Romeo, sending you 3
+2024-10-14 16:05:10.682015 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:10.683479 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:10.685266 Oscar: Golf, sending you 2
+2024-10-14 16:05:10.686203 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:10.687982 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:10.689525 Golf: Oscar, sending you 1
+2024-10-14 16:05:10.691103 Zulu: Oscar, sending you 2
+2024-10-14 16:05:10.691919 Alpha: Bravo, sending you 2
+2024-10-14 16:05:10.693796 Oscar: Romeo, sending you 5
+2024-10-14 16:05:10.705730 Oscar: Zulu, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Hotel round 21
+ChatterBot Golf round 21
+ChatterBot Kilo round 21
+ChatterBot Romeo round 21
+ChatterBot Oscar round 21
+ChatterBot Alpha round 21
+ChatterBot Zulu round 21
+ChatterBot Bravo round 21
+ChatterBot Whiskey round 21
+ChatterBot Yankee round 21
+2024-10-14 16:05:12.034639 Golf: Group up?
+2024-10-14 16:05:12.042256 Yankee: No
+ChatterBot Golf reevaluating
+2024-10-14 16:05:12.092835 Kilo: Yankee, sending you 1
+2024-10-14 16:05:12.094148 Golf: Oscar, sending you 1
+2024-10-14 16:05:12.095335 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:12.100151 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:12.101032 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:12.102071 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:12.102972 Oscar: Golf, sending you 2
+2024-10-14 16:05:12.103708 Zulu: Romeo, sending you 3
+2024-10-14 16:05:12.348277 Alpha: Bravo, sending you 2
+2024-10-14 16:05:12.350347 Zulu: Oscar, sending you 2
+2024-10-14 16:05:12.351666 Oscar: Romeo, sending you 5
+2024-10-14 16:05:12.353315 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:12.391697 Oscar: Zulu, sending you 4
+chatterbot Yankee submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+ChatterBot Hotel round 22
+ChatterBot Golf round 22
+ChatterBot Kilo round 22
+ChatterBot Romeo round 22
+ChatterBot Oscar round 22
+ChatterBot Alpha round 22
+ChatterBot Zulu round 22
+ChatterBot Bravo round 22
+ChatterBot Whiskey round 22
+ChatterBot Yankee round 22
+2024-10-14 16:05:13.457691 Oscar: Golf, sending you 2
+2024-10-14 16:05:13.458416 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:13.459944 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:13.460650 Zulu: Romeo, sending you 3
+2024-10-14 16:05:13.461070 Oscar: Romeo, sending you 5
+2024-10-14 16:05:13.464020 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:13.465103 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:13.466238 Golf: Sending you 1
+2024-10-14 16:05:13.466638 Oscar: Zulu, sending you 4
+2024-10-14 16:05:13.467193 Alpha: Bravo, sending you 2
+2024-10-14 16:05:13.468365 Zulu: Oscar, sending you 2
+2024-10-14 16:05:13.468866 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:13.469878 Kilo: Yankee, sending you 1
+chatterbot Romeo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 23
+ChatterBot Golf round 23
+ChatterBot Kilo round 23
+ChatterBot Romeo round 23
+ChatterBot Oscar round 23
+ChatterBot Alpha round 23
+ChatterBot Zulu round 23
+ChatterBot Bravo round 23
+ChatterBot Whiskey round 23
+ChatterBot Yankee round 23
+2024-10-14 16:05:14.803073 Zulu: Romeo, sending you 3
+2024-10-14 16:05:14.804125 Golf: Oscar, sending you 1
+2024-10-14 16:05:14.810062 Yankee: Hotel, Kilo, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:14.811753 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:14.812683 Zulu: Oscar, sending you 2
+2024-10-14 16:05:14.813663 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:14.815089 Kilo: Yankee, sending you 1
+2024-10-14 16:05:14.815971 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:14.828497 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:14.831053 Oscar: Golf, sending you 2
+2024-10-14 16:05:14.838102 Alpha: Bravo, sending you 2
+2024-10-14 16:05:14.839992 Oscar: Romeo, sending you 5
+2024-10-14 16:05:14.853428 Oscar: Zulu, sending you 4
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 24
+ChatterBot Golf round 24
+ChatterBot Kilo round 24
+ChatterBot Romeo round 24
+ChatterBot Oscar round 24
+ChatterBot Alpha round 24
+ChatterBot Zulu round 24
+ChatterBot Bravo round 24
+ChatterBot Whiskey round 24
+ChatterBot Yankee round 24
+2024-10-14 16:05:16.171323 Golf: We should group up
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:05:16.219759 Hotel: Yes
+2024-10-14 16:05:16.219928 Alpha: No
+2024-10-14 16:05:16.225151 Bravo: Yes
+2024-10-14 16:05:16.225355 Whiskey: Yes
+2024-10-14 16:05:16.225542 Yankee: Yes
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Hotel reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+2024-10-14 16:05:16.609125 Golf: Yankee, sending you 1
+2024-10-14 16:05:16.612082 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:16.628857 Kilo: Yankee, sending you 1
+2024-10-14 16:05:16.631062 Zulu: Romeo, sending you 3
+2024-10-14 16:05:16.632700 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:16.634554 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:16.636666 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:16.639219 Oscar: Golf, sending you 2
+2024-10-14 16:05:16.640934 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:16.643593 Zulu: Oscar, sending you 2
+2024-10-14 16:05:16.644583 Alpha: Bravo, sending you 2
+2024-10-14 16:05:16.647349 Oscar: Romeo, sending you 5
+2024-10-14 16:05:16.688904 Oscar: Zulu, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Whiskey submitting transactions
+ChatterBot Hotel round 25
+ChatterBot Golf round 25
+ChatterBot Kilo round 25
+ChatterBot Romeo round 25
+ChatterBot Oscar round 25
+ChatterBot Alpha round 25
+ChatterBot Zulu round 25
+ChatterBot Bravo round 25
+ChatterBot Whiskey round 25
+ChatterBot Yankee round 25
+2024-10-14 16:05:17.952478 Kilo: Yankee, sending you 1
+2024-10-14 16:05:17.955499 Zulu: Romeo, sending you 3
+2024-10-14 16:05:17.957195 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:17.959927 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:17.962746 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:17.965541 Romeo: Oscar and Zulu, sending you 5
+2024-10-14 16:05:17.968521 Golf: Yankee, sending you 1
+2024-10-14 16:05:17.970673 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:17.974452 Oscar: Golf, sending you 2
+2024-10-14 16:05:17.979063 Zulu: Oscar, sending you 2
+2024-10-14 16:05:17.980175 Alpha: Bravo, sending you 2
+2024-10-14 16:05:17.983343 Oscar: Romeo, sending you 5
+2024-10-14 16:05:18.123705 Oscar: Zulu, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Bravo submitting transactions
+ChatterBot Hotel round 26
+ChatterBot Golf round 26
+ChatterBot Kilo round 26
+ChatterBot Romeo round 26
+ChatterBot Oscar round 26
+ChatterBot Alpha round 26
+ChatterBot Zulu round 26
+ChatterBot Bravo round 26
+ChatterBot Whiskey round 26
+ChatterBot Yankee round 26
+2024-10-14 16:05:19.220001 Oscar: We should replace Golf with Alpha
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:19.237361 Zulu: No
+2024-10-14 16:05:19.237569 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:19.312752 Romeo: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:05:19.322760 Alpha: No
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:19.343412 Oscar: We should replace Golf with Hotel
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:19.358643 Zulu: No
+2024-10-14 16:05:19.358841 Romeo: No
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:19.392827 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:19.397155 Kilo: Yankee, sending you 1
+2024-10-14 16:05:19.400416 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:19.403705 Golf: Yankee, sending you 1
+2024-10-14 16:05:19.406715 Zulu: Romeo, sending you 3
+2024-10-14 16:05:19.407733 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:19.409317 Romeo: Hotel we want you to join our group
+2024-10-14 16:05:19.418479 Hotel: No
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:19.442399 Zulu: Oscar, sending you 2
+2024-10-14 16:05:19.446677 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:19.453674 Alpha: Bravo, sending you 2
+2024-10-14 16:05:19.464706 Romeo: Hotel, sending you 1
+2024-10-14 16:05:19.468796 Oscar: Golf, sending you 2
+2024-10-14 16:05:19.471228 Romeo: Oscar, sending you 4
+2024-10-14 16:05:19.474861 Oscar: Romeo, sending you 5
+2024-10-14 16:05:19.481910 Romeo: Zulu, sending you 5
+2024-10-14 16:05:19.490170 Oscar: Zulu, sending you 4
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 27
+ChatterBot Golf round 27
+ChatterBot Kilo round 27
+ChatterBot Romeo round 27
+ChatterBot Oscar round 27
+ChatterBot Alpha round 27
+ChatterBot Zulu round 27
+ChatterBot Bravo round 27
+ChatterBot Whiskey round 27
+ChatterBot Yankee round 27
+2024-10-14 16:05:20.674565 Romeo: We should replace Hotel with Alpha
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:20.686461 Zulu: No
+2024-10-14 16:05:20.686672 Oscar: Yes
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:20.709101 Oscar: We should replace Golf with Alpha
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:20.717800 Zulu: No
+2024-10-14 16:05:20.717942 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:20.753800 Alpha: We should drop Whiskey
+2024-10-14 16:05:20.766739 Hotel: No
+2024-10-14 16:05:20.766885 Bravo: No
+2024-10-14 16:05:20.766994 Yankee: No
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Alpha reevaluating
+2024-10-14 16:05:20.808792 Oscar: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:05:20.815521 Alpha: No
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:20.892919 Zulu: Romeo, sending you 3
+2024-10-14 16:05:20.896662 Zulu: Oscar, sending you 2
+2024-10-14 16:05:20.897670 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:20.899116 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:20.906255 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:20.908167 Golf: Yankee, sending you 1
+2024-10-14 16:05:20.910307 Kilo: Yankee, sending you 1
+2024-10-14 16:05:20.912295 Romeo: Alpha we want you to join our group
+ChatterBot Alpha reevaluating
+2024-10-14 16:05:20.965708 Alpha: No
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:20.990711 Oscar: Romeo, sending you 5
+2024-10-14 16:05:21.060925 Oscar: Alpha, sending you 2
+chatterbot Golf submitting transactions
+2024-10-14 16:05:21.099444 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:21.102882 Oscar: Zulu, sending you 4
+chatterbot Oscar submitting transactions
+2024-10-14 16:05:21.112698 Alpha: Bravo, sending you 2
+chatterbot Hotel submitting transactions
+2024-10-14 16:05:21.146617 Romeo: Oscar, sending you 4
+2024-10-14 16:05:21.160364 Romeo: Alpha, sending you 1
+2024-10-14 16:05:21.176604 Romeo: Zulu, sending you 5
+chatterbot Bravo submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Yankee submitting transactions
+ChatterBot Hotel round 28
+ChatterBot Golf round 28
+ChatterBot Kilo round 28
+ChatterBot Romeo round 28
+ChatterBot Oscar round 28
+ChatterBot Alpha round 28
+ChatterBot Zulu round 28
+ChatterBot Bravo round 28
+ChatterBot Whiskey round 28
+ChatterBot Yankee round 28
+2024-10-14 16:05:22.119831 Romeo: We should replace Alpha with Hotel
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:22.129800 Zulu: No
+2024-10-14 16:05:22.130150 Oscar: Yes
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:22.162375 Romeo: Hotel we want you to join our group
+2024-10-14 16:05:22.167436 Hotel: No
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:22.197082 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:22.199721 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:22.202007 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:22.204247 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:22.206939 Golf: Yankee, sending you 1
+2024-10-14 16:05:22.209156 Oscar: Hotel we want you to join our group
+2024-10-14 16:05:22.214758 Hotel: No
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:22.229300 Alpha: Bravo, sending you 2
+2024-10-14 16:05:22.232440 Kilo: Yankee, sending you 1
+2024-10-14 16:05:22.240813 Zulu: Romeo, sending you 3
+2024-10-14 16:05:22.324421 Zulu: Oscar, sending you 2
+2024-10-14 16:05:22.365349 Romeo: Hotel, sending you 1
+2024-10-14 16:05:22.388889 Oscar: Hotel, sending you 2
+2024-10-14 16:05:22.390719 Romeo: Oscar, sending you 4
+2024-10-14 16:05:22.573609 Oscar: Romeo, sending you 5
+2024-10-14 16:05:22.575755 Romeo: Zulu, sending you 5
+chatterbot Yankee submitting transactions
+2024-10-14 16:05:22.578926 Oscar: Zulu, sending you 4
+chatterbot Alpha submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Oscar submitting transactions
+ChatterBot Hotel round 29
+ChatterBot Golf round 29
+ChatterBot Kilo round 29
+ChatterBot Romeo round 29
+ChatterBot Oscar round 29
+ChatterBot Alpha round 29
+ChatterBot Zulu round 29
+ChatterBot Bravo round 29
+ChatterBot Whiskey round 29
+ChatterBot Yankee round 29
+2024-10-14 16:05:23.578005 Yankee: We should replace Golf with Kilo
+ChatterBot Bravo reevaluating
+2024-10-14 16:05:23.595899 Hotel: No
+2024-10-14 16:05:23.596071 Alpha: No
+2024-10-14 16:05:23.596210 Bravo: No
+2024-10-14 16:05:23.596385 Whiskey: No
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Whiskey reevaluating
+ChatterBot Yankee reevaluating
+ChatterBot Bravo reevaluating
+ChatterBot Yankee reevaluating
+2024-10-14 16:05:23.673783 Romeo: We should replace Hotel with Yankee
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:23.683181 Zulu: No
+2024-10-14 16:05:23.683323 Oscar: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:23.752565 Oscar: Yankee we want you to join our group
+ChatterBot Yankee reevaluating
+2024-10-14 16:05:23.761054 Yankee: No
+ChatterBot Oscar reevaluating
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:23.776544 Oscar: We should replace Hotel with Golf
+ChatterBot Romeo reevaluating
+2024-10-14 16:05:23.785870 Zulu: No
+2024-10-14 16:05:23.786035 Romeo: Yes
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:23.814737 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:23.817623 Golf: Yankee, sending you 1
+2024-10-14 16:05:23.818520 Kilo: Romeo, sending you 1
+2024-10-14 16:05:23.820637 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:23.822396 Zulu: Romeo, sending you 3
+2024-10-14 16:05:23.823186 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:23.824909 Romeo: Golf we want you to join our group
+2024-10-14 16:05:23.830044 Golf: No
+ChatterBot Romeo reevaluating
+ChatterBot Oscar reevaluating
+2024-10-14 16:05:23.848434 Alpha: Bravo, sending you 2
+2024-10-14 16:05:23.850055 Zulu: Oscar, sending you 2
+2024-10-14 16:05:23.852844 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:24.404814 Oscar: Romeo, sending you 5
+2024-10-14 16:05:24.407785 Romeo: Oscar, sending you 4
+chatterbot Hotel submitting transactions
+2024-10-14 16:05:24.425878 Oscar: Zulu, sending you 4
+2024-10-14 16:05:24.428719 Romeo: Zulu, sending you 6
+2024-10-14 16:05:24.459464 Oscar: Yankee, sending you 2
+chatterbot Golf submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Kilo submitting transactions
+chatterbot Whiskey submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Alpha submitting transactions
+ChatterBot Hotel round 30
+ChatterBot Golf round 30
+ChatterBot Kilo round 30
+ChatterBot Romeo round 30
+ChatterBot Oscar round 30
+ChatterBot Alpha round 30
+ChatterBot Zulu round 30
+ChatterBot Bravo round 30
+ChatterBot Whiskey round 30
+ChatterBot Yankee round 30
+2024-10-14 16:05:25.672228 Oscar: Romeo, sending you 5
+2024-10-14 16:05:25.674597 Alpha: Hotel, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:25.678230 Golf: Yankee, sending you 1
+2024-10-14 16:05:25.682300 Zulu: Romeo, sending you 3
+2024-10-14 16:05:25.684790 Hotel: Alpha, Bravo, Whiskey and Yankee, sending you 1
+2024-10-14 16:05:25.688783 Kilo: Yankee, sending you 1
+2024-10-14 16:05:25.692528 Yankee: Hotel, Golf, Alpha, Bravo and Whiskey, sending you 1
+2024-10-14 16:05:25.696837 Romeo: Oscar, sending you 4
+2024-10-14 16:05:25.699582 Oscar: Zulu, sending you 4
+2024-10-14 16:05:25.702073 Alpha: Bravo, sending you 2
+2024-10-14 16:05:25.705509 Zulu: Oscar, sending you 2
+2024-10-14 16:05:25.707694 Romeo: Zulu, sending you 6
+2024-10-14 16:05:25.710756 Whiskey: Hotel, Alpha, Bravo and Yankee, sending you 1
+2024-10-14 16:05:25.714666 Oscar: Yankee, sending you 2
+chatterbot Kilo submitting transactions
+chatterbot Golf submitting transactions
+chatterbot Bravo submitting transactions
+chatterbot Hotel submitting transactions
+chatterbot Yankee submitting transactions
+chatterbot Romeo submitting transactions
+chatterbot Zulu submitting transactions
+chatterbot Alpha submitting transactions
+chatterbot Oscar submitting transactions
+chatterbot Whiskey submitting transactions
