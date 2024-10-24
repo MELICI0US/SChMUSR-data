@@ -40,29 +40,38 @@ Some things to look at that are not chat related (all by generation)
 - Anything else you think of that might be interesting
 
 ## List of vocab
- This is what you will find in the chat data (a few of these aren't used by the bots). It is slightly different from the limited chat vocab. I am still working on making them match.
+ This is what you will find in the chat data (a few of these aren't used by the bots). It is slightly different from the limited chat vocab. I am still working on making them match. Sorted by general sentiment.
 
-- [PlayerNames] I am sending you [amount]
+
+**Positive Sentiment**
 - [PlayerNames] we want you to join our group
-- [PlayerNames] how much are you giving to me?
-- [PlayerNames] how much are you stealing from them?
-- [PlayerNames] how much are you keeping?
-- [PlayerNames] what are your observations?
 - Friends?
 - We should group up
 - Let's form a team
 - Can we be friends?
 - We would work well together
 - Group up?
-- we should drop [PlayerNames]
-- We should add [PlayerNames]
-- We should replace [PlayerName] with [PlayerName]
+
+**Negative Sentiment**
 - [PlayerNames] did not give to me like they said
 - [PlayerNames] attacked me
+- I was attacked by [PlayerNames]
 - I am attacking [PlayerName] with [amount]
+
+**Neutral Sentiment**
+- [PlayerNames] I am sending you [amount]
+- Sending you each [amount]
+- [PlayerNames], sending you [amount]
+- [PlayerNames] how much are you giving to me?
+- [PlayerNames] how much are you stealing from them?
+- [PlayerNames] how much are you keeping?
+- [PlayerNames] what are your observations?
+- We should add [PlayerNames]
+- we should drop [PlayerNames]
+- We should replace [PlayerName] with [PlayerName]
 - Same as last round
-- Sending you each [amount] 
 - Yes
 - No
+- Ow
 
 
